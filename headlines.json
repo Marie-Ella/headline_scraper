@@ -1,5 +1,28 @@
 [
   {
+    "id": 6229464,
+    "slug": "acht-op-de-tien-bedrijven-zijn-bezig-met-verduurzamen",
+    "type": "article",
+    "title": "Acht op de tien bedrijven zijn bezig met verduurzamen",
+    "subtitle": null,
+    "published_at": "2022-10-13T00:00:51+02:00",
+    "updated_at": "2022-10-13T00:00:52+02:00",
+    "media_id": "hnmxcakarib2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6229464/acht-op-de-tien-bedrijven-zijn-bezig-met-verduurzamen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229570,
     "slug": "salah-schrijft-geschiedenis-met-recordhattrick-bij-monsterzege-liverpool",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6229506/vrije-universiteit-belooft-discriminatie-door-spieksoftware-te-beperken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229543,
-    "slug": "ajax-door-doelpunt-lozano-razendsnel-op-achterstand-in-napels",
-    "type": "video",
-    "title": "Ajax door doelpunt Lozano razendsnel op achterstand in Napels",
-    "subtitle": "Video",
-    "published_at": "2022-10-12T19:54:26+02:00",
-    "updated_at": "2022-10-12T20:04:06+02:00",
-    "media_id": "hihxq21aqf8j",
-    "duration": "1:13",
-    "canonical_section": {
-      "id": 1772488,
-      "slug": "champions-league",
-      "type": "default",
-      "name": "Champions League",
-      "style": "nusport",
-      "media_id": "fkdxrdfanwfa",
-      "partner": null
-    },
-    "url": "/champions-league/6229543/ajax-door-doelpunt-lozano-razendsnel-op-achterstand-in-napels.html",
     "open_new_window": false,
     "partner": null
   }
