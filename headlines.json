@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230055,
+    "slug": "aivd-en-mivd-zouden-journalisten-werven-om-informatie-te-verzamelen",
+    "type": "article",
+    "title": "AIVD en MIVD zouden journalisten werven om informatie te verzamelen",
+    "subtitle": null,
+    "published_at": "2022-10-14T23:05:04+02:00",
+    "updated_at": "2022-10-14T23:05:05+02:00",
+    "media_id": "j4zxdafa8q1s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6230055/aivd-en-mivd-zouden-journalisten-werven-om-informatie-te-verzamelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230054,
+    "slug": "dodelijke-explosie-in-turkse-kolenmijn-leidt-tot-chaos",
+    "type": "video",
+    "title": "Dodelijke explosie in Turkse kolenmijn leidt tot chaos",
+    "subtitle": "Video",
+    "published_at": "2022-10-14T22:56:45+02:00",
+    "updated_at": "2022-10-14T22:56:46+02:00",
+    "media_id": "m25xu3la8kvw",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6230054/dodelijke-explosie-in-turkse-kolenmijn-leidt-tot-chaos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230053,
     "slug": "veertig-jaar-cel-voor-twee-broers-na-bekennen-moord-op-maltese-journalist",
     "type": "article",
@@ -98,8 +144,8 @@
     "title": "Zeker veertien doden en meerdere gewonden bij explosie in Turkse kolenmijn",
     "subtitle": null,
     "published_at": "2022-10-14T21:33:29+02:00",
-    "updated_at": "2022-10-14T22:20:08+02:00",
-    "media_id": "52nxd4saemvd",
+    "updated_at": "2022-10-14T23:25:20+02:00",
+    "media_id": "q2sxcgga6ir3",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6229995/ruim-3-miljard-euro-aan-steun-voor-mkbers-met-een-hoge-energierekening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230002,
-    "slug": "britse-premier-zet-opnieuw-mes-in-omstreden-belastingplan",
-    "type": "article",
-    "title": "Britse premier zet opnieuw mes in omstreden belastingplan",
-    "subtitle": null,
-    "published_at": "2022-10-14T17:06:29+02:00",
-    "updated_at": "2022-10-14T17:15:54+02:00",
-    "media_id": "xivx9vxacfvy",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230002/britse-premier-zet-opnieuw-mes-in-omstreden-belastingplan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229886,
-    "slug": "in-belgie-slapen-mensen-bij-aanmeldcentrum-situatie-vergelijkbaar-met-ter-apel",
-    "type": "article",
-    "title": "In België slapen mensen bij aanmeldcentrum: 'Situatie vergelijkbaar met Ter Apel'",
-    "subtitle": null,
-    "published_at": "2022-10-14T17:05:50+02:00",
-    "updated_at": "2022-10-14T17:05:50+02:00",
-    "media_id": "yaixg6razfa1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6229886/in-belgie-slapen-mensen-bij-aanmeldcentrum-situatie-vergelijkbaar-met-ter-apel.html",
     "open_new_window": false,
     "partner": null
   }
