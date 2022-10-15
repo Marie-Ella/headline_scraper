@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230140,
+    "slug": "extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag",
+    "type": "video",
+    "title": "Extinction Rebellion blokkeert Utrechtsebaan in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2022-10-15T16:29:55+02:00",
+    "updated_at": "2022-10-15T16:31:04+02:00",
+    "media_id": "2s2x31ha4n6i",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230140/extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230133,
     "slug": "politie-onderzoekt-omgeving-catshuis",
     "type": "video",
     "title": "Politie onderzoekt omgeving Catshuis",
     "subtitle": "Video",
     "published_at": "2022-10-15T15:50:12+02:00",
-    "updated_at": "2022-10-15T15:52:02+02:00",
+    "updated_at": "2022-10-15T16:37:45+02:00",
     "media_id": "dllxupgabzx2",
     "duration": "0:37",
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Zestig klimaatdemonstranten aangehouden omdat ze op A12 bij Den Haag zaten",
     "subtitle": null,
     "published_at": "2022-10-15T14:03:53+02:00",
-    "updated_at": "2022-10-15T16:26:41+02:00",
-    "media_id": "dewxd7iab9d0",
+    "updated_at": "2022-10-15T16:32:21+02:00",
+    "media_id": "9jyx854atubo",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6230106/meeste-verdachten-van-boerenprotesten-zijn-geen-boer-maar-sympathisant.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230104,
-    "slug": "dodental-door-explosie-in-turkse-mijn-loopt-op-al-veertig-lichamen-geborgen",
-    "type": "article",
-    "title": "Dodental door explosie in Turkse mijn loopt op: al veertig lichamen geborgen",
-    "subtitle": null,
-    "published_at": "2022-10-15T11:20:40+02:00",
-    "updated_at": "2022-10-15T12:07:47+02:00",
-    "media_id": "20kxcgnauaqz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230104/dodental-door-explosie-in-turkse-mijn-loopt-op-al-veertig-lichamen-geborgen.html",
     "open_new_window": false,
     "partner": null
   }
