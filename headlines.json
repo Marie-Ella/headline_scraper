@@ -1,12 +1,58 @@
 [
   {
+    "id": 6230212,
+    "slug": "aanvoerder-kuipers-wilde-ondanks-opgegeven-vader-spelen-voor-go-ahead",
+    "type": "article",
+    "title": "Aanvoerder Kuipers wilde ondanks opgegeven vader spelen voor Go Ahead",
+    "subtitle": null,
+    "published_at": "2022-10-16T10:29:02+02:00",
+    "updated_at": "2022-10-16T10:31:56+02:00",
+    "media_id": "j8uxqbca982h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230212/aanvoerder-kuipers-wilde-ondanks-opgegeven-vader-spelen-voor-go-ahead.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230208,
+    "slug": "duitse-warenhuisketen-galeria-karstadt-kaufhof-in-financiele-problemen",
+    "type": "article",
+    "title": "Duitse warenhuisketen Galeria Karstadt Kaufhof in financiële problemen",
+    "subtitle": null,
+    "published_at": "2022-10-16T10:11:35+02:00",
+    "updated_at": "2022-10-16T10:11:36+02:00",
+    "media_id": "pldxv5pa59ls",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6230208/duitse-warenhuisketen-galeria-karstadt-kaufhof-in-financiele-problemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230207,
     "slug": "bouwmeester-zakt-naar-zevende-plek-op-voorlaatste-dag-wk",
     "type": "article",
     "title": "Bouwmeester zakt naar zevende plek op voorlaatste dag WK",
     "subtitle": null,
     "published_at": "2022-10-16T09:46:32+02:00",
-    "updated_at": "2022-10-16T09:46:32+02:00",
+    "updated_at": "2022-10-16T09:53:27+02:00",
     "media_id": "97lxsswaxyly",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Trainer Cocu ziet nog genoeg verbeterpunten na eerste overwinning met Vitesse",
     "subtitle": null,
     "published_at": "2022-10-16T09:23:12+02:00",
-    "updated_at": "2022-10-16T09:41:14+02:00",
+    "updated_at": "2022-10-16T10:33:13+02:00",
     "media_id": "f69x9dpa8rkx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6230189/brand-en-gewonden-bij-onrust-in-beruchte-iraanse-evin-gevangenis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230186,
-    "slug": "cocu-boekt-tegen-cambuur-eerste-zege-met-vitesse-en-verlaat-laatste-plek",
-    "type": "article",
-    "title": "Cocu boekt tegen Cambuur eerste zege met Vitesse en verlaat laatste plek",
-    "subtitle": null,
-    "published_at": "2022-10-15T23:03:08+02:00",
-    "updated_at": "2022-10-16T09:30:45+02:00",
-    "media_id": "k04x16ka28rq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230186/cocu-boekt-tegen-cambuur-eerste-zege-met-vitesse-en-verlaat-laatste-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230185,
-    "slug": "jarige-jac-krijgt-miljoenen-bierdoppen-op-oprit-gestort",
-    "type": "video",
-    "title": "Jarige Jac krijgt miljoenen bierdoppen op oprit gestort",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T22:35:55+02:00",
-    "updated_at": "2022-10-16T08:11:56+02:00",
-    "media_id": "2s0x0n4a7aad",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230185/jarige-jac-krijgt-miljoenen-bierdoppen-op-oprit-gestort.html",
     "open_new_window": false,
     "partner": null
   }
