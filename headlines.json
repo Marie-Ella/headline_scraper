@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230530,
+    "slug": "de-mooiste-fotos-van-het-gouden-bal-gala-in-parijs",
+    "type": "article",
+    "title": "De mooiste foto's van het Gouden Bal-gala in Parijs",
+    "subtitle": "In beeld",
+    "published_at": "2022-10-17T22:50:05+02:00",
+    "updated_at": "2022-10-17T22:53:00+02:00",
+    "media_id": "r02xocva0lxn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230530/de-mooiste-fotos-van-het-gouden-bal-gala-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230531,
+    "slug": "benzema-ziet-gouden-bal-als-bekroning-heb-moeilijke-periode-gehad",
+    "type": "article",
+    "title": "Benzema ziet Gouden Bal als bekroning: 'Heb moeilijke periode gehad'",
+    "subtitle": null,
+    "published_at": "2022-10-17T22:38:00+02:00",
+    "updated_at": "2022-10-17T22:48:54+02:00",
+    "media_id": "h3pxuvuazgdc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230531/benzema-ziet-gouden-bal-als-bekroning-heb-moeilijke-periode-gehad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230528,
     "slug": "nainggolan-uit-selectie-antwerp-gezet-na-roken-van-e-sigaret-in-dug-out",
     "type": "article",
@@ -277,12 +323,12 @@
   },
   {
     "id": 6230502,
-    "slug": "reacties-op-eerste-ballon-dor-van-benzema",
+    "slug": "lees-alles-terug-over-de-eerste-ballon-dor-van-benzema",
     "type": "article",
-    "title": "Reacties op eerste Ballon d'Or van Benzema",
+    "title": "Lees alles terug over de eerste Ballon d'Or van Benzema",
     "subtitle": "Liveblog Gouden Bal",
     "published_at": "2022-10-17T19:33:10+02:00",
-    "updated_at": "2022-10-17T22:02:06+02:00",
+    "updated_at": "2022-10-17T22:39:16+02:00",
     "media_id": "ecvxdq3ai263",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230502/reacties-op-eerste-ballon-dor-van-benzema.html",
+    "url": "/voetbal/6230502/lees-alles-terug-over-de-eerste-ballon-dor-van-benzema.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6230491/van-commenee-stapt-naar-rechter-om-uitspraken-atleet-over-dubieus-middel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230482,
-    "slug": "spoorloos-stelt-extern-onderzoek-in-naar-omstreden-fixer-in-colombia",
-    "type": "article",
-    "title": "Spoorloos stelt extern onderzoek in naar omstreden fixer in Colombia",
-    "subtitle": null,
-    "published_at": "2022-10-17T18:19:36+02:00",
-    "updated_at": "2022-10-17T18:19:36+02:00",
-    "media_id": "gh6xm3eaxeuk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6230482/spoorloos-stelt-extern-onderzoek-in-naar-omstreden-fixer-in-colombia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230481,
-    "slug": "extra-subsidie-voor-zonneboilers-warmtepompen-en-isolatie-in-koopwoningen",
-    "type": "article",
-    "title": "Extra subsidie voor zonneboilers, warmtepompen en isolatie in koopwoningen",
-    "subtitle": null,
-    "published_at": "2022-10-17T18:16:04+02:00",
-    "updated_at": "2022-10-17T20:05:00+02:00",
-    "media_id": "ec2xx5paidbh",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230481/extra-subsidie-voor-zonneboilers-warmtepompen-en-isolatie-in-koopwoningen.html",
     "open_new_window": false,
     "partner": null
   }
