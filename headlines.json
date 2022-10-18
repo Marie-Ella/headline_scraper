@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230613,
+    "slug": "eerste-kennismaking-renault-4ever-trophy",
+    "type": "video",
+    "title": "Eerste kennismaking: Renault 4Ever Trophy",
+    "subtitle": "Video",
+    "published_at": "2022-10-18T11:43:58+02:00",
+    "updated_at": "2022-10-18T11:44:44+02:00",
+    "media_id": "12lx1qnau2am",
+    "duration": "6:03",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6230613/eerste-kennismaking-renault-4ever-trophy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230584,
+    "slug": "wielerjaar-afgesloten-met-nederlandse-zege-lotto-soudal-en-israel-degraderen",
+    "type": "article",
+    "title": "Wielerjaar afgesloten met Nederlandse zege, Lotto Soudal en Israel degraderen",
+    "subtitle": null,
+    "published_at": "2022-10-18T11:37:51+02:00",
+    "updated_at": "2022-10-18T11:37:52+02:00",
+    "media_id": "i9hxrqaa78wm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6230584/wielerjaar-afgesloten-met-nederlandse-zege-lotto-soudal-en-israel-degraderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230593,
     "slug": "fifa-voorzitter-infantino-wil-dat-indonesie-veiligheid-in-stadions-verbetert",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "140.000 oud-studenten gaan rente betalen over studieschuld",
     "subtitle": null,
     "published_at": "2022-10-18T09:50:15+02:00",
-    "updated_at": "2022-10-18T11:01:27+02:00",
+    "updated_at": "2022-10-18T11:46:25+02:00",
     "media_id": "31qxkilai93k",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6230555,
-    "slug": "tarieven-bij-energiebedrijf-eneco-gaan-per-november-omlaag",
+    "slug": "gas-en-stroom-wordt-bij-eneco-wat-minder-duur",
     "type": "article",
-    "title": "Tarieven bij energiebedrijf Eneco gaan per november omlaag",
+    "title": "Gas en stroom wordt bij Eneco wat minder duur",
     "subtitle": null,
     "published_at": "2022-10-18T08:37:55+02:00",
-    "updated_at": "2022-10-18T11:05:23+02:00",
+    "updated_at": "2022-10-18T11:52:00+02:00",
     "media_id": "a3wxp1pax5or",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6230555/tarieven-bij-energiebedrijf-eneco-gaan-per-november-omlaag.html",
+    "url": "/economie/6230555/gas-en-stroom-wordt-bij-eneco-wat-minder-duur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6230422/van-sane-tot-kante-deze-sterspelers-dreigen-het-wk-te-missen-door-een-blessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230542,
-    "slug": "dertien-doden-door-neerstorten-gevechtsvliegtuig-op-russisch-flatgebouw",
-    "type": "article",
-    "title": "Dertien doden door neerstorten gevechtsvliegtuig op Russisch flatgebouw",
-    "subtitle": null,
-    "published_at": "2022-10-18T06:43:52+02:00",
-    "updated_at": "2022-10-18T07:06:56+02:00",
-    "media_id": "uzmxnoxasomc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230542/dertien-doden-door-neerstorten-gevechtsvliegtuig-op-russisch-flatgebouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230539,
-    "slug": "belastingdienst-ontving-tienduizenden-tips-over-fraude-maar-doet-er-niets-mee",
-    "type": "article",
-    "title": "Belastingdienst ontving tienduizenden tips over fraude, maar doet er niets mee",
-    "subtitle": null,
-    "published_at": "2022-10-18T06:37:16+02:00",
-    "updated_at": "2022-10-18T07:50:22+02:00",
-    "media_id": "fihx10faof41",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6230539/belastingdienst-ontving-tienduizenden-tips-over-fraude-maar-doet-er-niets-mee.html",
     "open_new_window": false,
     "partner": null
   }
