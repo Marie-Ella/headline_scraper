@@ -1,5 +1,51 @@
 [
   {
+    "id": 6231221,
+    "slug": "van-nistelrooij-is-trots-maar-ben-er-ziek-van-dat-we-geen-punt-hebben-gepakt",
+    "type": "article",
+    "title": "Van Nistelrooij is trots: 'Maar ben er ziek van dat we geen punt hebben gepakt'",
+    "subtitle": null,
+    "published_at": "2022-10-20T21:44:38+02:00",
+    "updated_at": "2022-10-20T21:45:05+02:00",
+    "media_id": "pkbxa25ai92o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231221/van-nistelrooij-is-trots-maar-ben-er-ziek-van-dat-we-geen-punt-hebben-gepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231220,
+    "slug": "taghi-doet-aangifte-van-lekken-vertrouwelijke-informatie-uit-justitiesystemen",
+    "type": "article",
+    "title": "Taghi doet aangifte van lekken vertrouwelijke informatie uit 'justitiesystemen'",
+    "subtitle": null,
+    "published_at": "2022-10-20T21:42:53+02:00",
+    "updated_at": "2022-10-20T21:42:54+02:00",
+    "media_id": "0d6x8gbaqdep",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6231220/taghi-doet-aangifte-van-lekken-vertrouwelijke-informatie-uit-justitiesystemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231219,
     "slug": "deel-van-snelweg-in-thailand-stort-in-na-aardverschuiving",
     "type": "video",
@@ -323,12 +369,12 @@
   },
   {
     "id": 6231186,
-    "slug": "reacties-na-1-0-nederlaag-psv-bij-arsenal",
+    "slug": "reacties-na-1-0-nederlaag-psv-bij-arsenal-gesloten",
     "type": "article",
-    "title": "Reacties na 1-0-nederlaag PSV bij Arsenal",
+    "title": "Reacties na 1-0-nederlaag PSV bij Arsenal (gesloten)",
     "subtitle": "Liveblog EL",
     "published_at": "2022-10-20T18:18:04+02:00",
-    "updated_at": "2022-10-20T20:54:50+02:00",
+    "updated_at": "2022-10-20T21:44:53+02:00",
     "media_id": "sfjxx5jaeplz",
     "duration": null,
     "canonical_section": {
@@ -340,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231186/reacties-na-1-0-nederlaag-psv-bij-arsenal.html",
+    "url": "/voetbal/6231186/reacties-na-1-0-nederlaag-psv-bij-arsenal-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6231141/ziekenhuizen-op-vingers-getikt-om-mindere-samenwerking-rond-kinderhartchirurgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231174,
-    "slug": "ongewijzigd-psv-gewoon-met-vier-verdedigers-arsenal-niet-met-sterkste-elf",
-    "type": "article",
-    "title": "Ongewijzigd PSV 'gewoon' met vier verdedigers, Arsenal niet met sterkste elf",
-    "subtitle": null,
-    "published_at": "2022-10-20T17:46:35+02:00",
-    "updated_at": "2022-10-20T18:39:34+02:00",
-    "media_id": "du6x4s3ax6n5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6231174/ongewijzigd-psv-gewoon-met-vier-verdedigers-arsenal-niet-met-sterkste-elf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231168,
-    "slug": "gemeenten-mogen-langer-gas-inkopen-bij-voormalige-gazprom-dochter",
-    "type": "article",
-    "title": "Gemeenten mogen langer gas inkopen bij voormalige Gazprom-dochter",
-    "subtitle": null,
-    "published_at": "2022-10-20T17:36:40+02:00",
-    "updated_at": "2022-10-20T17:36:41+02:00",
-    "media_id": "c4cxcaraiud2",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6231168/gemeenten-mogen-langer-gas-inkopen-bij-voormalige-gazprom-dochter.html",
     "open_new_window": false,
     "partner": null
   }
