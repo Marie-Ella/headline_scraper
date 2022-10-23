@@ -1,5 +1,51 @@
 [
   {
+    "id": 6231756,
+    "slug": "bekijk-de-laatste-ronde-van-de-race-in-vs-met-verstappen-als-winnaar",
+    "type": "video",
+    "title": "Bekijk de laatste ronde van de race in  VS met Verstappen als winnaar",
+    "subtitle": "Video",
+    "published_at": "2022-10-23T23:41:37+02:00",
+    "updated_at": "2022-10-23T23:50:52+02:00",
+    "media_id": "6f1xe1yalv2h",
+    "duration": "2:57",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6231756/bekijk-de-laatste-ronde-van-de-race-in-vs-met-verstappen-als-winnaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231755,
+    "slug": "verstappen-draagt-zege-op-aan-mateschitz-hij-heeft-zo-veel-voor-ons-gedaan",
+    "type": "article",
+    "title": "Verstappen draagt zege op aan Mateschitz: 'Hij heeft zo veel voor ons gedaan'",
+    "subtitle": null,
+    "published_at": "2022-10-23T23:28:47+02:00",
+    "updated_at": "2022-10-23T23:49:28+02:00",
+    "media_id": "9f7xt5eawlh4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6231755/verstappen-draagt-zege-op-aan-mateschitz-hij-heeft-zo-veel-voor-ons-gedaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231289,
     "slug": "wat-wil-jij-nog-weten-na-de-grand-prix-van-de-verenigde-staten",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6231754,
-    "slug": "blussen-brand-woonboulevard-delft-gaat-nog-uren-duren-omwonenden-slapen-thuis",
+    "slug": "blussen-brand-woonboulevard-delft-gaat-nog-uren-duren-omwonenden-naar-huis",
     "type": "article",
-    "title": "Blussen brand woonboulevard Delft gaat nog uren duren, omwonenden slapen thuis",
+    "title": "Blussen brand woonboulevard Delft gaat nog uren duren, omwonenden naar huis",
     "subtitle": null,
     "published_at": "2022-10-23T23:23:06+02:00",
-    "updated_at": "2022-10-23T23:23:07+02:00",
+    "updated_at": "2022-10-23T23:37:13+02:00",
     "media_id": "1spxhbbabsof",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6231754/blussen-brand-woonboulevard-delft-gaat-nog-uren-duren-omwonenden-slapen-thuis.html",
+    "url": "/binnenland/6231754/blussen-brand-woonboulevard-delft-gaat-nog-uren-duren-omwonenden-naar-huis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +98,8 @@
     "title": "Red Bull Racing doorbreekt hegemonie Mercedes en pakt constructeurstitel",
     "subtitle": null,
     "published_at": "2022-10-23T23:01:25+02:00",
-    "updated_at": "2022-10-23T23:08:40+02:00",
-    "media_id": "rwbxyuhag7rt",
+    "updated_at": "2022-10-23T23:45:39+02:00",
+    "media_id": "rfcxbw5afzn5",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -75,7 +121,7 @@
     "title": "Verstappen evenaart Schumacher en Vettel met meeste zeges in één seizoen",
     "subtitle": null,
     "published_at": "2022-10-23T22:53:50+02:00",
-    "updated_at": "2022-10-23T23:04:13+02:00",
+    "updated_at": "2022-10-23T23:45:59+02:00",
     "media_id": "qomxa29amf7w",
     "duration": null,
     "canonical_section": {
@@ -93,13 +139,13 @@
   },
   {
     "id": 6231743,
-    "slug": "verstappen-verschalkt-hamilton-in-slotfase-en-wint-spectaculaire-race-vs",
+    "slug": "verstappen-verschalkt-hamilton-in-slotfase-en-wint-spectaculaire-race-in-vs",
     "type": "article",
-    "title": "Verstappen verschalkt Hamilton in slotfase en wint spectaculaire race VS",
+    "title": "Verstappen verschalkt Hamilton in slotfase en wint spectaculaire race in VS",
     "subtitle": null,
     "published_at": "2022-10-23T22:47:26+02:00",
-    "updated_at": "2022-10-23T23:08:16+02:00",
-    "media_id": "isvxh2cabqje",
+    "updated_at": "2022-10-23T23:48:09+02:00",
+    "media_id": "cusxjgwazqji",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6231743/verstappen-verschalkt-hamilton-in-slotfase-en-wint-spectaculaire-race-vs.html",
+    "url": "/formule-1/6231743/verstappen-verschalkt-hamilton-in-slotfase-en-wint-spectaculaire-race-in-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +328,7 @@
     "title": "De Roon valt maand voor WK uit bij Atalanta, Karsdorp krijgt na wedstrijd rood",
     "subtitle": null,
     "published_at": "2022-10-23T20:01:47+02:00",
-    "updated_at": "2022-10-23T23:18:20+02:00",
+    "updated_at": "2022-10-23T23:35:24+02:00",
     "media_id": "wswxf1vavlvn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6231735/fraser-kruipt-met-fc-utrecht-naar-subtop-door-zege-op-voormalige-club-sparta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231734,
-    "slug": "winkels-ontruimd-wegens-grote-brand-op-woonboulevard-in-delft",
-    "type": "video",
-    "title": "Winkels ontruimd wegens grote brand op woonboulevard in Delft",
-    "subtitle": "Video",
-    "published_at": "2022-10-23T18:43:09+02:00",
-    "updated_at": "2022-10-23T18:43:10+02:00",
-    "media_id": "584xz6mae7gt",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231734/winkels-ontruimd-wegens-grote-brand-op-woonboulevard-in-delft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231733,
-    "slug": "grote-brand-woedt-op-hoogste-berg-van-afrika",
-    "type": "video",
-    "title": "Grote brand woedt op hoogste berg van Afrika",
-    "subtitle": "Video",
-    "published_at": "2022-10-23T18:27:36+02:00",
-    "updated_at": "2022-10-23T18:27:37+02:00",
-    "media_id": "3znxo24ax8ql",
-    "duration": "0:23",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231733/grote-brand-woedt-op-hoogste-berg-van-afrika.html",
     "open_new_window": false,
     "partner": null
   }
