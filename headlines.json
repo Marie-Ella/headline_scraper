@@ -1,12 +1,35 @@
 [
   {
+    "id": 6231669,
+    "slug": "tijs-goldschmidt-wint-jan-wolkers-prijs",
+    "type": "article",
+    "title": "Tijs Goldschmidt wint Jan Wolkers Prijs",
+    "subtitle": null,
+    "published_at": "2022-10-23T10:45:03+02:00",
+    "updated_at": "2022-10-23T10:58:04+02:00",
+    "media_id": "umrxmz8am396",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6231669/tijs-goldschmidt-wint-jan-wolkers-prijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231666,
     "slug": "motogp-leider-bagnaia-wint-in-maleisie-titelstrijd-wordt-in-slotweekend-beslist",
     "type": "article",
     "title": "MotoGP-leider Bagnaia wint in Maleisië, titelstrijd wordt in slotweekend beslist",
     "subtitle": null,
     "published_at": "2022-10-23T10:13:16+02:00",
-    "updated_at": "2022-10-23T10:17:33+02:00",
+    "updated_at": "2022-10-23T10:47:51+02:00",
     "media_id": "vq0xatcajz91",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6231640/vermiste-elfjarige-jongen-uit-den-haag-in-goede-gezondheid-aangetroffen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231639,
-    "slug": "horner-over-mateschitz-gelukkig-heeft-hij-max-nog-kampioen-zien-worden",
-    "type": "article",
-    "title": "Horner over Mateschitz: 'Gelukkig heeft hij Max nog kampioen zien worden'",
-    "subtitle": null,
-    "published_at": "2022-10-23T00:15:00+02:00",
-    "updated_at": "2022-10-23T08:01:24+02:00",
-    "media_id": "6s2xd4oaea4a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6231639/horner-over-mateschitz-gelukkig-heeft-hij-max-nog-kampioen-zien-worden.html",
     "open_new_window": false,
     "partner": null
   }
