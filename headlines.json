@@ -1,5 +1,51 @@
 [
   {
+    "id": 6231965,
+    "slug": "weer-storing-in-amsterdamse-metro-alle-rijtuigen-staan-stil",
+    "type": "article",
+    "title": "Weer storing in Amsterdamse metro, alle rijtuigen staan stil",
+    "subtitle": null,
+    "published_at": "2022-10-24T18:33:29+02:00",
+    "updated_at": "2022-10-24T18:35:18+02:00",
+    "media_id": "eiixareaag6x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772347,
+      "slug": "amsterdam",
+      "type": "region",
+      "name": "Amsterdam",
+      "style": "mediapartner-internal",
+      "media_id": "xmjxvz0anr6s",
+      "partner": null
+    },
+    "url": "/amsterdam/6231965/weer-storing-in-amsterdamse-metro-alle-rijtuigen-staan-stil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231963,
+    "slug": "akkoord-over-verlenging-cao-voor-spelers-in-betaald-voetbal-met-vier-jaar",
+    "type": "article",
+    "title": "Akkoord over verlenging cao voor spelers in betaald voetbal met vier jaar",
+    "subtitle": null,
+    "published_at": "2022-10-24T18:09:04+02:00",
+    "updated_at": "2022-10-24T18:11:14+02:00",
+    "media_id": "novxtnsajjyi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231963/akkoord-over-verlenging-cao-voor-spelers-in-betaald-voetbal-met-vier-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231957,
     "slug": "partijgenoten-onthalen-nieuwe-britse-premier-sunak-met-applaus",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Aantal studies overboord: zeespiegel stijgt deze eeuw maximaal 160 centimeter",
     "subtitle": null,
     "published_at": "2022-10-24T17:25:04+02:00",
-    "updated_at": "2022-10-24T17:25:05+02:00",
+    "updated_at": "2022-10-24T18:28:45+02:00",
     "media_id": "sgqxm3racxap",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Zeker vijftig doden en honderd gewonden bij luchtaanval op concert in Myanmar",
     "subtitle": null,
     "published_at": "2022-10-24T17:11:35+02:00",
-    "updated_at": "2022-10-24T17:11:37+02:00",
+    "updated_at": "2022-10-24T18:36:28+02:00",
     "media_id": "hp9x2obaz2ec",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6231903/recordaantal-bezoekers-voor-eerste-editie-ade-sinds-coronapandemie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231900,
-    "slug": "chileen-wekenlang-opgesloten-en-mishandeld-in-den-haag-politie-zoekt-daders",
-    "type": "article",
-    "title": "Chileen wekenlang opgesloten en mishandeld in Den Haag, politie zoekt daders",
-    "subtitle": null,
-    "published_at": "2022-10-24T13:46:02+02:00",
-    "updated_at": "2022-10-24T15:28:49+02:00",
-    "media_id": "d3bxlfqaq9vn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231900/chileen-wekenlang-opgesloten-en-mishandeld-in-den-haag-politie-zoekt-daders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231892,
-    "slug": "stinkende-stof-in-diepzeevissen-mogelijk-geschikt-om-ziektes-te-genezen",
-    "type": "article",
-    "title": "Stinkende stof in diepzeevissen mogelijk geschikt om ziektes te genezen",
-    "subtitle": null,
-    "published_at": "2022-10-24T13:05:17+02:00",
-    "updated_at": "2022-10-24T14:02:36+02:00",
-    "media_id": "q43x5e9ateah",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6231892/stinkende-stof-in-diepzeevissen-mogelijk-geschikt-om-ziektes-te-genezen.html",
     "open_new_window": false,
     "partner": null
   }
