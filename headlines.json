@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231935,
+    "slug": "ook-abn-amro-verhoogt-rente-voor-sparende-klanten",
+    "type": "article",
+    "title": "Ook ABN AMRO verhoogt rente voor sparende klanten",
+    "subtitle": null,
+    "published_at": "2022-10-24T16:25:49+02:00",
+    "updated_at": "2022-10-24T16:26:47+02:00",
+    "media_id": "cr9xuasa02li",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6231935/ook-abn-amro-verhoogt-rente-voor-sparende-klanten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231920,
     "slug": "politie-vervaagt-voortaan-automatisch-gezichten-op-fotos-van-kentekencameras",
     "type": "article",
@@ -29,19 +52,19 @@
     "title": "Oud-schaatskampioene Achtereekte mag door bij wielerploeg Jumbo-Visma",
     "subtitle": null,
     "published_at": "2022-10-24T15:49:30+02:00",
-    "updated_at": "2022-10-24T16:00:12+02:00",
+    "updated_at": "2022-10-24T16:17:44+02:00",
     "media_id": "dhax9fmarghm",
     "duration": null,
     "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
+      "id": 1772456,
+      "slug": "sport-overig",
       "type": "default",
-      "name": "Voetbal",
+      "name": "Sport Overig",
       "style": "nusport",
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231928/oud-schaatskampioene-achtereekte-mag-door-bij-wielerploeg-jumbo-visma.html",
+    "url": "/sport-overig/6231928/oud-schaatskampioene-achtereekte-mag-door-bij-wielerploeg-jumbo-visma.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6231908,
-    "slug": "familie-van-sanne-wil-dat-inzamelingsacties-stoppen",
+    "slug": "familie-van-omgekomen-sanne-wil-dat-inzamelingsacties-stoppen",
     "type": "article",
-    "title": "Familie van Sanne wil dat inzamelingsacties stoppen",
+    "title": "Familie van omgekomen Sanne wil dat inzamelingsacties stoppen",
     "subtitle": null,
     "published_at": "2022-10-24T14:43:52+02:00",
-    "updated_at": "2022-10-24T15:45:18+02:00",
+    "updated_at": "2022-10-24T16:16:29+02:00",
     "media_id": "wlexopialw6i",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6231908/familie-van-sanne-wil-dat-inzamelingsacties-stoppen.html",
+    "url": "/binnenland/6231908/familie-van-omgekomen-sanne-wil-dat-inzamelingsacties-stoppen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Qatar arresteert en mishandelt volgens onderzoek lhbti's, ook in aanloop naar WK",
     "subtitle": null,
     "published_at": "2022-10-24T14:22:57+02:00",
-    "updated_at": "2022-10-24T15:26:32+02:00",
+    "updated_at": "2022-10-24T16:26:17+02:00",
     "media_id": "osxx382ax2c9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6231872/defensie-expert-ko-colijn-over-de-russische-alternatieven-voor-kernwapens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231856,
-    "slug": "wetenschappers-kunnen-magnetisch-veld-in-geluid-omzetten-zo-eng-klinkt-dat",
-    "type": "article",
-    "title": "Wetenschappers kunnen magnetisch veld in geluid omzetten: zo (eng) klinkt dat",
-    "subtitle": null,
-    "published_at": "2022-10-24T12:17:00+02:00",
-    "updated_at": "2022-10-24T14:11:37+02:00",
-    "media_id": "fojxmtua7eua",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6231856/wetenschappers-kunnen-magnetisch-veld-in-geluid-omzetten-zo-eng-klinkt-dat.html",
     "open_new_window": false,
     "partner": null
   }
