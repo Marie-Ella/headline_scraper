@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232305,
+    "slug": "claudia-de-breij-over-schrappen-ns-publieksprijs-literatuur-is-geen-wedstrijd",
+    "type": "article",
+    "title": "Claudia de Breij over schrappen NS Publieksprijs: 'Literatuur is geen wedstrijd'",
+    "subtitle": null,
+    "published_at": "2022-10-26T13:44:45+02:00",
+    "updated_at": "2022-10-26T13:44:46+02:00",
+    "media_id": "2q6xhfua0k51",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6232305/claudia-de-breij-over-schrappen-ns-publieksprijs-literatuur-is-geen-wedstrijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232312,
+    "slug": "in-genade-aangenomen-ronaldo-terug-in-selectie-united-voor-el-duel",
+    "type": "article",
+    "title": "In genade aangenomen Ronaldo terug in selectie United voor EL-duel",
+    "subtitle": null,
+    "published_at": "2022-10-26T13:44:16+02:00",
+    "updated_at": "2022-10-26T13:45:05+02:00",
+    "media_id": "q9fxpseau3yj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232312/in-genade-aangenomen-ronaldo-terug-in-selectie-united-voor-el-duel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232304,
     "slug": "anita-witzier-60-wil-niet-stoppen-met-werken-als-tv-carriere-eindigt",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "Londense luchthaven Heathrow beperkt aantal reizigers niet langer",
     "subtitle": null,
     "published_at": "2022-10-26T11:04:30+02:00",
-    "updated_at": "2022-10-26T11:04:31+02:00",
+    "updated_at": "2022-10-26T13:42:35+02:00",
     "media_id": "7nyx96zae729",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "NS Publieksprijs wordt niet uitgereikt omdat stemmers e-mailadressen misbruikten",
     "subtitle": null,
     "published_at": "2022-10-26T11:03:20+02:00",
-    "updated_at": "2022-10-26T13:07:48+02:00",
+    "updated_at": "2022-10-26T13:39:40+02:00",
     "media_id": "to1xi2earg5i",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Uit beelden blijkt dat Glennis Grace winkelmedewerker tegen zijn hoofd sloeg",
     "subtitle": null,
     "published_at": "2022-10-26T10:28:14+02:00",
-    "updated_at": "2022-10-26T13:07:50+02:00",
+    "updated_at": "2022-10-26T13:45:04+02:00",
     "media_id": "vzgxbnja3m6k",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232251/juventus-coach-allegri-na-historisch-vroege-exit-in-cl-voelt-niet-als-falen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232231,
-    "slug": "eerste-schatting-zeker-252-doden-na-terugdringen-vluchtelingen-bij-grens",
-    "type": "article",
-    "title": "Eerste schatting: zeker 252 doden na terugdringen vluchtelingen bij grens",
-    "subtitle": null,
-    "published_at": "2022-10-26T10:01:19+02:00",
-    "updated_at": "2022-10-26T13:20:03+02:00",
-    "media_id": "hqzxogpagseq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6232231/eerste-schatting-zeker-252-doden-na-terugdringen-vluchtelingen-bij-grens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232235,
-    "slug": "welmoed-sijtsma-gaat-in-programma-op-zoek-naar-maker-van-nepseksvideo",
-    "type": "article",
-    "title": "Welmoed Sijtsma gaat in programma op zoek naar maker van nepseksvideo",
-    "subtitle": null,
-    "published_at": "2022-10-26T09:13:07+02:00",
-    "updated_at": "2022-10-26T09:13:09+02:00",
-    "media_id": "8jyx571aj8fv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6232235/welmoed-sijtsma-gaat-in-programma-op-zoek-naar-maker-van-nepseksvideo.html",
     "open_new_window": false,
     "partner": null
   }
