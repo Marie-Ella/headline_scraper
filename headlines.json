@@ -1,12 +1,58 @@
 [
   {
+    "id": 6232331,
+    "slug": "tour-de-france-telt-volgend-jaar-slechts-een-tijdrit-vier-aankomsten-bergop",
+    "type": "article",
+    "title": "Tour de France telt volgend jaar slechts één tijdrit, vier aankomsten bergop",
+    "subtitle": null,
+    "published_at": "2022-10-27T12:46:04+02:00",
+    "updated_at": "2022-10-27T12:46:05+02:00",
+    "media_id": "cjuxm14aoo68",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6232331/tour-de-france-telt-volgend-jaar-slechts-een-tijdrit-vier-aankomsten-bergop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232493,
+    "slug": "jongen-14-raakt-zwaargewond-bij-steekincident-op-middelbare-school-in-hoorn",
+    "type": "article",
+    "title": "Jongen (14) raakt zwaargewond bij steekincident op middelbare school in Hoorn",
+    "subtitle": null,
+    "published_at": "2022-10-27T12:43:26+02:00",
+    "updated_at": "2022-10-27T12:43:27+02:00",
+    "media_id": "8k1xcjzas9bg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232493/jongen-14-raakt-zwaargewond-bij-steekincident-op-middelbare-school-in-hoorn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232486,
     "slug": "prins-harry-publiceert-op-10-januari-zijn-memoires-in-het-boek-spare",
     "type": "article",
     "title": "Prins Harry publiceert op 10 januari zijn memoires in het boek Spare",
     "subtitle": null,
     "published_at": "2022-10-27T12:26:47+02:00",
-    "updated_at": "2022-10-27T12:26:47+02:00",
+    "updated_at": "2022-10-27T12:35:34+02:00",
     "media_id": "3kcxnxuazzjs",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Tour de France Femmes kent beklimming over Tourmalet en eindigt met tijdrit",
     "subtitle": null,
     "published_at": "2022-10-27T12:14:01+02:00",
-    "updated_at": "2022-10-27T12:17:44+02:00",
+    "updated_at": "2022-10-27T12:33:15+02:00",
     "media_id": "ib4x8b3az1om",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Oekraïne bereidt zich voor op Russische aanval en versterkt troepen bij Belarus",
     "subtitle": null,
     "published_at": "2022-10-27T12:11:39+02:00",
-    "updated_at": "2022-10-27T12:13:52+02:00",
+    "updated_at": "2022-10-27T12:31:55+02:00",
     "media_id": "toxxmokaoc9w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232437/rangers-door-lijdensweg-in-cl-extra-gebrand-op-zege-in-slotduel-met-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232433,
-    "slug": "eerste-inhaleerbare-coronavaccins-toegediend-in-sjanghai",
-    "type": "video",
-    "title": "Eerste inhaleerbare coronavaccins toegediend in Sjanghai",
-    "subtitle": "Video",
-    "published_at": "2022-10-27T09:27:24+02:00",
-    "updated_at": "2022-10-27T09:27:24+02:00",
-    "media_id": "dcdx65tatcrc",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6232433/eerste-inhaleerbare-coronavaccins-toegediend-in-sjanghai.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232347,
-    "slug": "audi-kan-niet-vroeg-genoeg-beginnen-met-investeren-in-sauber",
-    "type": "article",
-    "title": "Audi kan niet vroeg genoeg beginnen met investeren in Sauber",
-    "subtitle": "Analyse",
-    "published_at": "2022-10-27T09:21:46+02:00",
-    "updated_at": "2022-10-27T09:21:48+02:00",
-    "media_id": "cp1xg5lavcro",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6232347/audi-kan-niet-vroeg-genoeg-beginnen-met-investeren-in-sauber.html",
     "open_new_window": false,
     "partner": null
   }
