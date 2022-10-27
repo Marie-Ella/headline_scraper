@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232578,
+    "slug": "polen-sloopt-vier-monumenten-uit-sovjettijdperk",
+    "type": "video",
+    "title": "Polen sloopt vier monumenten uit sovjettijdperk",
+    "subtitle": "Video",
+    "published_at": "2022-10-27T19:30:36+02:00",
+    "updated_at": "2022-10-27T19:30:37+02:00",
+    "media_id": "bgax8o0a7yhs",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232578/polen-sloopt-vier-monumenten-uit-sovjettijdperk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232575,
     "slug": "gewonden-bij-botsing-tussen-trams-in-rotterdam-vier-mensen-naar-het-ziekenhuis",
     "type": "article",
     "title": "Gewonden bij botsing tussen trams in Rotterdam, vier mensen naar het ziekenhuis",
     "subtitle": null,
     "published_at": "2022-10-27T19:04:13+02:00",
-    "updated_at": "2022-10-27T19:05:03+02:00",
+    "updated_at": "2022-10-27T19:11:29+02:00",
     "media_id": "r9sxpl3aty7j",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Mexicaanse Grand Prix blijft tot en met 2025 op Formule 1-kalender",
     "subtitle": null,
     "published_at": "2022-10-27T19:02:58+02:00",
-    "updated_at": "2022-10-27T19:06:24+02:00",
+    "updated_at": "2022-10-27T19:29:06+02:00",
     "media_id": "makxkopazb1i",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6232571,
-    "slug": "goal-psv-tegen-arsenal-afgekeurd-ook-vaduz-az-nog-0-0",
+    "slug": "twee-psv-goals-afgekeurd-tegen-arsenal-ook-az-nog-op-0-0",
     "type": "article",
-    "title": "Goal PSV tegen Arsenal afgekeurd, ook Vaduz-AZ nog 0-0",
+    "title": "Twee PSV-goals afgekeurd tegen Arsenal, ook AZ nog op 0-0",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-10-27T18:20:05+02:00",
-    "updated_at": "2022-10-27T19:04:28+02:00",
-    "media_id": "3thxg5wah0lz",
+    "updated_at": "2022-10-27T19:34:53+02:00",
+    "media_id": "0f4xgjvasecj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6232571/goal-psv-tegen-arsenal-afgekeurd-ook-vaduz-az-nog-0-0.html",
+    "url": "/voetbal/6232571/twee-psv-goals-afgekeurd-tegen-arsenal-ook-az-nog-op-0-0.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Joris Peters over Het geheim van Mallorca: 'Het is onze journalistieke taak'",
     "subtitle": null,
     "published_at": "2022-10-27T17:35:41+02:00",
-    "updated_at": "2022-10-27T17:49:30+02:00",
+    "updated_at": "2022-10-27T19:36:02+02:00",
     "media_id": "507xd52ax8dx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6232550/brabantse-snackbarhouders-delen-patat-uit-in-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232545,
-    "slug": "amerikaanse-economie-groeit-weer-na-twee-kwartalen-van-krimp",
-    "type": "article",
-    "title": "Amerikaanse economie groeit weer na twee kwartalen van krimp",
-    "subtitle": null,
-    "published_at": "2022-10-27T15:55:17+02:00",
-    "updated_at": "2022-10-27T15:55:18+02:00",
-    "media_id": "3dcx434agmua",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6232545/amerikaanse-economie-groeit-weer-na-twee-kwartalen-van-krimp.html",
     "open_new_window": false,
     "partner": null
   }
