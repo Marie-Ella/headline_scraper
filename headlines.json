@@ -1,13 +1,59 @@
 [
   {
+    "id": 6232556,
+    "slug": "helikopter-filmt-puinhoop-na-instorten-brug-in-aanbouw-in-vs",
+    "type": "video",
+    "title": "Helikopter filmt puinhoop na instorten brug in aanbouw in VS",
+    "subtitle": "Video",
+    "published_at": "2022-10-27T17:04:45+02:00",
+    "updated_at": "2022-10-27T17:04:53+02:00",
+    "media_id": "vy3x5utau1ou",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232556/helikopter-filmt-puinhoop-na-instorten-brug-in-aanbouw-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232554,
+    "slug": "rijimpressie-byd-atto-3",
+    "type": "video",
+    "title": "Rijimpressie: BYD Atto 3",
+    "subtitle": "Video",
+    "published_at": "2022-10-27T16:54:47+02:00",
+    "updated_at": "2022-10-27T16:54:48+02:00",
+    "media_id": "1avxvr2azygw",
+    "duration": "6:24",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6232554/rijimpressie-byd-atto-3.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232552,
-    "slug": "eigenaar-gaspijplijn-nord-stream-onderzoekt-toedracht-explosies-in-zweedse-wateren",
+    "slug": "eigenaar-nord-stream-onderzoekt-toedracht-explosies-in-zweedse-wateren",
     "type": "article",
-    "title": "Eigenaar gaspijplijn Nord Stream onderzoekt toedracht explosies in Zweedse wateren",
+    "title": "Eigenaar Nord Stream onderzoekt toedracht explosies in Zweedse wateren",
     "subtitle": null,
     "published_at": "2022-10-27T16:52:13+02:00",
-    "updated_at": "2022-10-27T16:52:14+02:00",
-    "media_id": "krcx1nga0ige",
+    "updated_at": "2022-10-27T17:16:37+02:00",
+    "media_id": "0o6xqm7axzwc",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6232552/eigenaar-gaspijplijn-nord-stream-onderzoekt-toedracht-explosies-in-zweedse-wateren.html",
+    "url": "/economie/6232552/eigenaar-nord-stream-onderzoekt-toedracht-explosies-in-zweedse-wateren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +236,7 @@
     "title": "Drie arrestaties na vandalisme in Mauritshuis, Meisje met de parel niet beschadigd",
     "subtitle": null,
     "published_at": "2022-10-27T14:59:51+02:00",
-    "updated_at": "2022-10-27T15:49:18+02:00",
+    "updated_at": "2022-10-27T17:03:03+02:00",
     "media_id": "u16x16cafphn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6232495/aarde-op-koers-voor-ongeveer-25-graden-opwarming-slecht-of-goed-nieuws.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232511,
-    "slug": "psv-mag-geen-fans-meenemen-naar-uitduel-met-bodglimt",
-    "type": "article",
-    "title": "PSV mag geen fans meenemen naar uitduel met Bodø/Glimt",
-    "subtitle": null,
-    "published_at": "2022-10-27T13:33:13+02:00",
-    "updated_at": "2022-10-27T14:34:17+02:00",
-    "media_id": "gidx4h7a86t1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232511/psv-mag-geen-fans-meenemen-naar-uitduel-met-bodglimt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232498,
-    "slug": "vattenfall-schroeft-winst-op-in-derde-kwartaal-door-hogere-energieprijzen",
-    "type": "article",
-    "title": "Vattenfall schroeft winst op in derde kwartaal door hogere energieprijzen",
-    "subtitle": null,
-    "published_at": "2022-10-27T13:13:30+02:00",
-    "updated_at": "2022-10-27T15:18:19+02:00",
-    "media_id": "dvxx6jfaxypr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6232498/vattenfall-schroeft-winst-op-in-derde-kwartaal-door-hogere-energieprijzen.html",
     "open_new_window": false,
     "partner": null
   }
