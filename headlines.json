@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232590,
+    "slug": "bekijk-de-samenvatting-van-psv-arsenal-2-0",
+    "type": "video",
+    "title": "Bekijk de samenvatting van PSV-Arsenal (2-0)",
+    "subtitle": "Video",
+    "published_at": "2022-10-27T21:39:33+02:00",
+    "updated_at": "2022-10-27T21:40:18+02:00",
+    "media_id": "u37x3iialmmf",
+    "duration": "5:24",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6232590/bekijk-de-samenvatting-van-psv-arsenal-2-0.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232574,
     "slug": "klimaatfilm-veranderde-nicolaas-veul-ik-luister-nu-naar-mijn-onderbuik",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Red Bull sluit deal met FIA na overschrijden budgetlimiet bij eerste titel Verstappen",
     "subtitle": null,
     "published_at": "2022-10-27T21:08:09+02:00",
-    "updated_at": "2022-10-27T21:29:28+02:00",
+    "updated_at": "2022-10-27T21:42:35+02:00",
     "media_id": "snix7xsaomao",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "PSV wint knap van Arsenal en is zeker van overwintering in Europa League",
     "subtitle": null,
     "published_at": "2022-10-27T20:35:51+02:00",
-    "updated_at": "2022-10-27T21:20:43+02:00",
+    "updated_at": "2022-10-27T21:32:14+02:00",
     "media_id": "ts1x5v0a4y9y",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6232571,
-    "slug": "feyenoord-dicht-bij-openingsdoelpunt-in-graz",
+    "slug": "feyenoord-sticht-gevaar-maar-scoort-nog-niet-in-graz",
     "type": "article",
-    "title": "Feyenoord dicht bij openingsdoelpunt in Graz",
+    "title": "Feyenoord sticht gevaar, maar scoort nog niet in Graz",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-10-27T18:20:05+02:00",
-    "updated_at": "2022-10-27T21:26:19+02:00",
+    "updated_at": "2022-10-27T21:35:08+02:00",
     "media_id": "s6vxwfgakldv",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6232571/feyenoord-dicht-bij-openingsdoelpunt-in-graz.html",
+    "url": "/voetbal/6232571/feyenoord-sticht-gevaar-maar-scoort-nog-niet-in-graz.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6232566/urker-vissers-redden-man-van-boei-in-het-kanaal-hij-zat-daar-al-dagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232558,
-    "slug": "klopp-moet-wangedrag-tegen-manchester-city-bekopen-met-flinke-boete",
-    "type": "article",
-    "title": "Klopp moet wangedrag tegen Manchester City bekopen met flinke boete",
-    "subtitle": null,
-    "published_at": "2022-10-27T18:07:35+02:00",
-    "updated_at": "2022-10-27T18:07:37+02:00",
-    "media_id": "luqxh23a0r5t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232558/klopp-moet-wangedrag-tegen-manchester-city-bekopen-met-flinke-boete.html",
     "open_new_window": false,
     "partner": null
   }
