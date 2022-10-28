@@ -1,5 +1,74 @@
 [
   {
+    "id": 6232690,
+    "slug": "energie-update-zo-gaat-het-met-de-gasprijs",
+    "type": "article",
+    "title": "Energie-update: Zo gaat het met de gasprijs",
+    "subtitle": null,
+    "published_at": "2022-10-28T11:38:00+02:00",
+    "updated_at": "2022-10-28T11:47:17+02:00",
+    "media_id": "suoxdhuau4nf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6232690/energie-update-zo-gaat-het-met-de-gasprijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232688,
+    "slug": "duitse-economie-groeit-verder-in-frankrijk-en-spanje-remt-die-juist-wat-af",
+    "type": "article",
+    "title": "Duitse economie groeit verder, in Frankrijk en Spanje remt die juist wat af",
+    "subtitle": null,
+    "published_at": "2022-10-28T11:37:13+02:00",
+    "updated_at": "2022-10-28T11:37:14+02:00",
+    "media_id": "cknxmzqavhme",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6232688/duitse-economie-groeit-verder-in-frankrijk-en-spanje-remt-die-juist-wat-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232692,
+    "slug": "interpol-waarschuwt-voor-nieuwe-vormen-van-criminaliteit-in-metaverse",
+    "type": "article",
+    "title": "Interpol waarschuwt voor nieuwe vormen van criminaliteit in metaverse",
+    "subtitle": null,
+    "published_at": "2022-10-28T11:35:09+02:00",
+    "updated_at": "2022-10-28T11:40:14+02:00",
+    "media_id": "m1nxkeba4ae2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6232692/interpol-waarschuwt-voor-nieuwe-vormen-van-criminaliteit-in-metaverse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232693,
     "slug": "eerste-munten-met-portret-koning-charles-geproduceerd-in-vk",
     "type": "video",
@@ -29,7 +98,7 @@
     "title": "Voormalig NAC Breda-aanvoerder Pablo Marí wacht operatie na steekpartij",
     "subtitle": null,
     "published_at": "2022-10-28T10:57:41+02:00",
-    "updated_at": "2022-10-28T11:23:44+02:00",
+    "updated_at": "2022-10-28T11:31:32+02:00",
     "media_id": "wz0x20eajg87",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Tennisbonden vervangen ATP Cup door nieuw gemengd landentoernooi",
     "subtitle": null,
     "published_at": "2022-10-28T10:50:16+02:00",
-    "updated_at": "2022-10-28T10:53:38+02:00",
+    "updated_at": "2022-10-28T11:35:24+02:00",
     "media_id": "4llxhcxaztp3",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6232654,
-    "slug": "ridouan-taghi-gehoord-als-getuige-in-zaak-tegen-neef-en-advocaat-youssef-taghi",
+    "slug": "ridouan-taghi-vanmiddag-gehoord-in-zaak-tegen-neef-en-advocaat-youssef-taghi",
     "type": "article",
-    "title": "Ridouan Taghi gehoord als getuige in zaak tegen neef en advocaat Youssef Taghi",
+    "title": "Ridouan Taghi vanmiddag gehoord in zaak tegen neef en advocaat Youssef Taghi",
     "subtitle": null,
     "published_at": "2022-10-28T10:31:52+02:00",
-    "updated_at": "2022-10-28T10:31:52+02:00",
+    "updated_at": "2022-10-28T11:34:34+02:00",
     "media_id": "je2x4ugaokcr",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6232654/ridouan-taghi-gehoord-als-getuige-in-zaak-tegen-neef-en-advocaat-youssef-taghi.html",
+    "url": "/binnenland/6232654/ridouan-taghi-vanmiddag-gehoord-in-zaak-tegen-neef-en-advocaat-youssef-taghi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Agressie tegen gerechtsdeurwaarders neemt toe",
     "subtitle": null,
     "published_at": "2022-10-28T09:49:35+02:00",
-    "updated_at": "2022-10-28T10:11:21+02:00",
+    "updated_at": "2022-10-28T11:33:13+02:00",
     "media_id": "bp9xeo6ancdr",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6232615/apple-verkocht-in-derde-kwartaal-meer-van-alle-producten-behalve-de-ipad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232614,
-    "slug": "veel-nederlanders-bij-concert-guus-meeuwis-in-new-york-actief-benaderd",
-    "type": "article",
-    "title": "Veel Nederlanders bij concert Guus Meeuwis in New York: 'Actief benaderd'",
-    "subtitle": null,
-    "published_at": "2022-10-28T06:58:02+02:00",
-    "updated_at": "2022-10-28T07:03:56+02:00",
-    "media_id": "mpnxkevaqo0a",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6232614/veel-nederlanders-bij-concert-guus-meeuwis-in-new-york-actief-benaderd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231389,
-    "slug": "nederlandse-schaatsers-balen-van-saaie-kalender-het-is-een-grof-schandaal",
-    "type": "article",
-    "title": "Nederlandse schaatsers balen van saaie kalender: 'Het is een grof schandaal'",
-    "subtitle": null,
-    "published_at": "2022-10-28T06:44:31+02:00",
-    "updated_at": "2022-10-28T07:38:11+02:00",
-    "media_id": "330xrncacbpu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6231389/nederlandse-schaatsers-balen-van-saaie-kalender-het-is-een-grof-schandaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232611,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-10-28T06:40:37+02:00",
-    "updated_at": "2022-10-28T10:53:59+02:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6232611/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
