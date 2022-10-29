@@ -1,24 +1,70 @@
 [
   {
+    "id": 6232930,
+    "slug": "noppert-rekent-na-beslissende-leg-af-met-van-der-voort",
+    "type": "video",
+    "title": "Noppert rekent na beslissende leg af met Van der Voort",
+    "subtitle": "Video",
+    "published_at": "2022-10-29T16:25:07+02:00",
+    "updated_at": "2022-10-29T16:25:07+02:00",
+    "media_id": "odbx8g1a3t0v",
+    "duration": "1:34",
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6232930/noppert-rekent-na-beslissende-leg-af-met-van-der-voort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232928,
+    "slug": "middenmoters-heerenveen-en-utrecht-strijden-om-plek-zes",
+    "type": "article",
+    "title": "Middenmoters Heerenveen en Utrecht strijden om plek zes",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2022-10-29T16:23:43+02:00",
+    "updated_at": "2022-10-29T16:23:44+02:00",
+    "media_id": "5s5xw3oa8n8p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232928/middenmoters-heerenveen-en-utrecht-strijden-om-plek-zes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232929,
     "slug": "belgische-journalist-en-schrijver-hugo-camps-overleden-op-79-jarige-leeftijd",
     "type": "article",
     "title": "Belgische journalist en schrijver Hugo Camps overleden op 79-jarige leeftijd",
     "subtitle": null,
     "published_at": "2022-10-29T16:16:06+02:00",
-    "updated_at": "2022-10-29T16:22:55+02:00",
+    "updated_at": "2022-10-29T16:34:18+02:00",
     "media_id": "fatx617aylkn",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1772075,
+      "slug": "cultuur-overig",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6232929/belgische-journalist-en-schrijver-hugo-camps-overleden-op-79-jarige-leeftijd.html",
+    "url": "/cultuur-overig/6232929/belgische-journalist-en-schrijver-hugo-camps-overleden-op-79-jarige-leeftijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +93,12 @@
   },
   {
     "id": 6232925,
-    "slug": "betsema-boekt-eerste-veldritzege-van-seizoen-volledig-nederlands-podium",
+    "slug": "pech-breekt-van-der-haar-op-bij-veldrit-in-ruddervoorde-betsema-wint-bij-vrouwen",
     "type": "article",
-    "title": "Betsema boekt eerste veldritzege van seizoen, volledig Nederlands podium",
+    "title": "Pech breekt Van der Haar op bij veldrit in Ruddervoorde, Betsema wint bij vrouwen",
     "subtitle": null,
     "published_at": "2022-10-29T15:39:12+02:00",
-    "updated_at": "2022-10-29T15:51:08+02:00",
+    "updated_at": "2022-10-29T16:33:14+02:00",
     "media_id": "5e7x0kna2hy7",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6232925/betsema-boekt-eerste-veldritzege-van-seizoen-volledig-nederlands-podium.html",
+    "url": "/sport-overig/6232925/pech-breekt-van-der-haar-op-bij-veldrit-in-ruddervoorde-betsema-wint-bij-vrouwen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Noppert klopt Van der Voort en treft Van Duijvenbode in kwartfinales EK darts",
     "subtitle": null,
     "published_at": "2022-10-29T15:16:09+02:00",
-    "updated_at": "2022-10-29T16:17:57+02:00",
+    "updated_at": "2022-10-29T16:24:49+02:00",
     "media_id": "nv1x7t8ahx36",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6232821/ook-op-tv-wordt-het-een-ander-wk-geen-qatar-promotie-en-geen-frans-duijts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232891,
-    "slug": "zoogdieren-die-planten-eten-en-vroeg-zelfstandig-zijn-evolueren-sneller",
-    "type": "article",
-    "title": "Zoogdieren die planten eten en vroeg zelfstandig zijn evolueren sneller",
-    "subtitle": null,
-    "published_at": "2022-10-29T11:49:16+02:00",
-    "updated_at": "2022-10-29T13:06:04+02:00",
-    "media_id": "dnyxh3raytw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6232891/zoogdieren-die-planten-eten-en-vroeg-zelfstandig-zijn-evolueren-sneller.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232872,
-    "slug": "mercedes-baas-wolff-hoopt-vooral-dat-soap-rond-red-bull-budget-nu-voorbij-is",
-    "type": "article",
-    "title": "Mercedes-baas Wolff hoopt vooral dat soap rond Red Bull-budget nu voorbij is",
-    "subtitle": null,
-    "published_at": "2022-10-29T11:31:25+02:00",
-    "updated_at": "2022-10-29T15:59:02+02:00",
-    "media_id": "dzfx2urasrwi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6232872/mercedes-baas-wolff-hoopt-vooral-dat-soap-rond-red-bull-budget-nu-voorbij-is.html",
     "open_new_window": false,
     "partner": null
   }
