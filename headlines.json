@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233111,
+    "slug": "hotelgast-in-kreta-komt-om-door-vallend-rotsblok",
+    "type": "video",
+    "title": "Hotelgast in Kreta komt om door vallend rotsblok",
+    "subtitle": "Video",
+    "published_at": "2022-10-30T22:21:50+01:00",
+    "updated_at": "2022-10-30T22:27:16+01:00",
+    "media_id": "30oxpz6a5vd7",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233111/hotelgast-in-kreta-komt-om-door-vallend-rotsblok.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233108,
     "slug": "braziliaans-kamerlid-achtervolgt-man-met-getrokken-pistool",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Velzeboer wint in record 500 meter bij wereldbeker, ook tweede zege Schulting",
     "subtitle": null,
     "published_at": "2022-10-30T21:02:18+01:00",
-    "updated_at": "2022-10-30T22:02:16+01:00",
+    "updated_at": "2022-10-30T22:23:17+01:00",
     "media_id": "kjdxifbapvp9",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Van Duijvenbode in halve finales EK darts onderuit tegen ijzersterke Smith",
     "subtitle": null,
     "published_at": "2022-10-30T20:09:43+01:00",
-    "updated_at": "2022-10-30T21:16:07+01:00",
+    "updated_at": "2022-10-30T22:25:46+01:00",
     "media_id": "xsmx1pgaqxqb",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6233102,
-    "slug": "verstappen-leidt-in-tactisch-steekspel-met-mercedes-in-mexico",
+    "slug": "verstappen-stevent-af-op-recordzege-in-mexico",
     "type": "article",
-    "title": "Verstappen leidt in tactisch steekspel met Mercedes in Mexico",
+    "title": "Verstappen stevent af op recordzege in Mexico",
     "subtitle": "Liveblog F1",
     "published_at": "2022-10-30T20:03:30+01:00",
-    "updated_at": "2022-10-30T22:05:50+01:00",
+    "updated_at": "2022-10-30T22:28:18+01:00",
     "media_id": "o7zx53maza5c",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6233102/verstappen-leidt-in-tactisch-steekspel-met-mercedes-in-mexico.html",
+    "url": "/formule-1/6233102/verstappen-stevent-af-op-recordzege-in-mexico.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Lazio kent met thuisnederlaag slechte generale voor cruciaal duel met Feyenoord",
     "subtitle": null,
     "published_at": "2022-10-30T19:54:41+01:00",
-    "updated_at": "2022-10-30T20:09:19+01:00",
+    "updated_at": "2022-10-30T22:29:36+01:00",
     "media_id": "ln0xmv6a2y25",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6233063/indiers-roepen-om-hulp-vanaf-ingestorte-brug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233062,
-    "slug": "voor-de-eerste-keer-beleeft-nederland-in-oktober-drie-warme-dagen-op-rij",
-    "type": "article",
-    "title": "Voor de eerste keer beleeft Nederland in oktober drie warme dagen op rij",
-    "subtitle": null,
-    "published_at": "2022-10-30T16:40:25+01:00",
-    "updated_at": "2022-10-30T17:09:52+01:00",
-    "media_id": "6mxxh67at9t8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233062/voor-de-eerste-keer-beleeft-nederland-in-oktober-drie-warme-dagen-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
