@@ -1,12 +1,35 @@
 [
   {
+    "id": 6233112,
+    "slug": "van-bommel-lijdt-opnieuw-competitienederlaag-met-royal-antwerp",
+    "type": "article",
+    "title": "Van Bommel lijdt opnieuw competitienederlaag met Royal Antwerp",
+    "subtitle": null,
+    "published_at": "2022-10-30T22:56:37+01:00",
+    "updated_at": "2022-10-30T23:15:52+01:00",
+    "media_id": "854xox1al66s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233112/van-bommel-lijdt-opnieuw-competitienederlaag-met-royal-antwerp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233106,
     "slug": "verstappen-wint-onbedreigd-in-mexico-en-verbetert-recordaantal-zeges-in-een-jaar",
     "type": "article",
     "title": "Verstappen wint onbedreigd in Mexico en verbetert recordaantal zeges in één jaar",
     "subtitle": null,
     "published_at": "2022-10-30T22:42:26+01:00",
-    "updated_at": "2022-10-30T22:47:39+01:00",
+    "updated_at": "2022-10-30T23:17:53+01:00",
     "media_id": "oe5x1n2ajhqq",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6233111,
-    "slug": "hotelgast-in-kreta-komt-om-door-vallend-rotsblok",
+    "slug": "hotelgast-op-kreta-komt-om-door-vallend-rotsblok",
     "type": "video",
-    "title": "Hotelgast in Kreta komt om door vallend rotsblok",
+    "title": "Hotelgast op Kreta komt om door vallend rotsblok",
     "subtitle": "Video",
     "published_at": "2022-10-30T22:21:50+01:00",
-    "updated_at": "2022-10-30T22:27:16+01:00",
+    "updated_at": "2022-10-30T22:52:40+01:00",
     "media_id": "30oxpz6a5vd7",
     "duration": "0:40",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6233111/hotelgast-in-kreta-komt-om-door-vallend-rotsblok.html",
+    "url": "/buitenland/6233111/hotelgast-op-kreta-komt-om-door-vallend-rotsblok.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6233102,
-    "slug": "reacties-na-soevereine-overwinning-verstappen-in-mexico",
+    "slug": "reacties-na-de-soevereine-overwinning-van-verstappen-in-mexico",
     "type": "article",
-    "title": "Reacties na soevereine overwinning Verstappen in Mexico",
+    "title": "Reacties na de soevereine overwinning van Verstappen in Mexico",
     "subtitle": "Liveblog F1",
     "published_at": "2022-10-30T20:03:30+01:00",
-    "updated_at": "2022-10-30T22:43:31+01:00",
+    "updated_at": "2022-10-30T22:59:51+01:00",
     "media_id": "o7zx53maza5c",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6233102/reacties-na-soevereine-overwinning-verstappen-in-mexico.html",
+    "url": "/formule-1/6233102/reacties-na-de-soevereine-overwinning-van-verstappen-in-mexico.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6233069/rashford-kopt-united-naar-vijfde-plek-koploper-arsenal-boekt-klinkende-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233066,
-    "slug": "waarom-het-britse-schrijversduo-nicci-french-zo-populair-is-in-nederland",
-    "type": "video",
-    "title": "Waarom het Britse schrijversduo Nicci French zo populair is in Nederland",
-    "subtitle": "Video",
-    "published_at": "2022-10-30T16:57:14+01:00",
-    "updated_at": "2022-10-30T17:04:15+01:00",
-    "media_id": "vu4xyznaakvn",
-    "duration": "2:33",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6233066/waarom-het-britse-schrijversduo-nicci-french-zo-populair-is-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
