@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232999,
+    "slug": "nasa-sloopt-gebouw-waar-historische-raketten-werden-ontworpen",
+    "type": "video",
+    "title": "NASA sloopt gebouw waar historische raketten werden ontworpen",
+    "subtitle": "Video",
+    "published_at": "2022-10-30T10:33:49+01:00",
+    "updated_at": "2022-10-30T10:35:59+01:00",
+    "media_id": "cb1x82aaovpe",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232999/nasa-sloopt-gebouw-waar-historische-raketten-werden-ontworpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232993,
     "slug": "russell-is-hoopvol-ondanks-mislopen-pole-in-mexico-wij-hebben-de-snelste-auto",
     "type": "article",
     "title": "Russell is hoopvol ondanks mislopen pole in Mexico: 'Wij hebben de snelste auto'",
     "subtitle": null,
     "published_at": "2022-10-30T10:15:32+01:00",
-    "updated_at": "2022-10-30T10:21:36+01:00",
+    "updated_at": "2022-10-30T10:30:25+01:00",
     "media_id": "jdqx8c0ab2fv",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Feest in Amstelveen loopt uit de hand: politie arresteert meer dan twintig mensen",
     "subtitle": null,
     "published_at": "2022-10-30T09:27:56+01:00",
-    "updated_at": "2022-10-30T10:19:27+01:00",
+    "updated_at": "2022-10-30T10:30:04+01:00",
     "media_id": "unax1d5aafvy",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Meerdere Oekraïense schepen liggen stil vanwege Russische stop op graandeal",
     "subtitle": null,
     "published_at": "2022-10-30T09:14:24+01:00",
-    "updated_at": "2022-10-30T10:24:08+01:00",
+    "updated_at": "2022-10-30T10:35:37+01:00",
     "media_id": "iapxf6ha9ltz",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6232538,
-    "slug": "borstkankerpatienten-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie",
+    "slug": "borstkanker-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie",
     "type": "article",
-    "title": "Borstkankerpatiënten op maat behandelen voorkomt onnodige chemo of medicatie",
+    "title": "Borstkanker op maat behandelen voorkomt onnodige chemo of medicatie",
     "subtitle": null,
     "published_at": "2022-10-30T05:58:19+01:00",
-    "updated_at": "2022-10-30T05:58:20+01:00",
+    "updated_at": "2022-10-30T10:38:05+01:00",
     "media_id": "2eoxa01aes6g",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/gezondheid/6232538/borstkankerpatienten-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie.html",
+    "url": "/gezondheid/6232538/borstkanker-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6232638/studeren-in-nederland-zou-voor-iedereen-gratis-moeten-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232975,
-    "slug": "bekijk-hoe-verhoeven-wint-van-gerges-na-ingrijpen-scheidsrechter",
-    "type": "video",
-    "title": "Bekijk hoe Verhoeven wint van Gerges na ingrijpen scheidsrechter",
-    "subtitle": "Video",
-    "published_at": "2022-10-30T02:57:31+01:00",
-    "updated_at": "2022-10-30T07:34:52+01:00",
-    "media_id": "z6yxlgrailp7",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6232975/bekijk-hoe-verhoeven-wint-van-gerges-na-ingrijpen-scheidsrechter.html",
     "open_new_window": false,
     "partner": null
   }
