@@ -1,12 +1,58 @@
 [
   {
-    "id": 6233172,
-    "slug": "van-bommel-verliest-weer-met-antwerp-spelen-beter-dan-in-begin-van-seizoen",
+    "id": 6233185,
+    "slug": "china-lanceert-laatste-onderdeel-van-eigen-ruimtestation",
     "type": "article",
-    "title": "Van Bommel verliest weer met Antwerp: 'Spelen beter dan in begin van seizoen'",
+    "title": "China lanceert laatste onderdeel van eigen ruimtestation",
+    "subtitle": null,
+    "published_at": "2022-10-31T11:12:34+01:00",
+    "updated_at": "2022-10-31T11:14:20+01:00",
+    "media_id": "5qyx801aj8h7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6233185/china-lanceert-laatste-onderdeel-van-eigen-ruimtestation.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233187,
+    "slug": "beelden-tonen-moment-dat-indiase-hangbrug-instort",
+    "type": "video",
+    "title": "Beelden tonen moment dat Indiase hangbrug instort",
+    "subtitle": "Video",
+    "published_at": "2022-10-31T11:03:47+01:00",
+    "updated_at": "2022-10-31T11:03:48+01:00",
+    "media_id": "clpx0m3agkkv",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233187/beelden-tonen-moment-dat-indiase-hangbrug-instort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233172,
+    "slug": "van-bommel-verliest-weer-met-antwerp-maar-spelen-beter-dan-begin-van-seizoen",
+    "type": "article",
+    "title": "Van Bommel verliest weer met Antwerp: 'Maar spelen beter dan begin van seizoen'",
     "subtitle": null,
     "published_at": "2022-10-31T10:36:00+01:00",
-    "updated_at": "2022-10-31T10:36:01+01:00",
+    "updated_at": "2022-10-31T11:11:49+01:00",
     "media_id": "ak1xxazaszkr",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233172/van-bommel-verliest-weer-met-antwerp-spelen-beter-dan-in-begin-van-seizoen.html",
+    "url": "/voetbal/6233172/van-bommel-verliest-weer-met-antwerp-maar-spelen-beter-dan-begin-van-seizoen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Opnieuw raketaanvallen in heel Oekraïne, Kyiv deels zonder stroom en water",
     "subtitle": null,
     "published_at": "2022-10-31T10:09:18+01:00",
-    "updated_at": "2022-10-31T10:09:20+01:00",
+    "updated_at": "2022-10-31T11:05:24+01:00",
     "media_id": "0x9x6qua5fnm",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Hele maandagochtend vallen veel treinen in de Randstad uit",
     "subtitle": null,
     "published_at": "2022-10-31T10:05:30+01:00",
-    "updated_at": "2022-10-31T10:46:47+01:00",
+    "updated_at": "2022-10-31T11:24:26+01:00",
     "media_id": "0vnxqmeajhem",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6233133/wat-wil-jij-weten-over-de-grand-prix-van-mexico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233131,
-    "slug": "twitter-baas-elon-musk-wil-adviesraad-en-leeftijdsadvies-voor-tweets-introduceren",
-    "type": "article",
-    "title": "Twitter-baas Elon Musk wil adviesraad en leeftijdsadvies voor tweets introduceren",
-    "subtitle": null,
-    "published_at": "2022-10-31T07:03:56+01:00",
-    "updated_at": "2022-10-31T08:57:03+01:00",
-    "media_id": "tztx7bba2m0i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6233131/twitter-baas-elon-musk-wil-adviesraad-en-leeftijdsadvies-voor-tweets-introduceren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233130,
-    "slug": "prijzen-stegen-in-oktober-iets-minder-hard",
-    "type": "article",
-    "title": "Prijzen stegen in oktober iets minder hard",
-    "subtitle": null,
-    "published_at": "2022-10-31T07:03:05+01:00",
-    "updated_at": "2022-10-31T09:34:42+01:00",
-    "media_id": "lbbxehqaq69t",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233130/prijzen-stegen-in-oktober-iets-minder-hard.html",
     "open_new_window": false,
     "partner": null
   }
