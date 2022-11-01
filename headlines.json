@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233526,
+    "slug": "wijndal-loopt-blessure-op-tijdens-cl-duel-met-rangers",
+    "type": "video",
+    "title": "Wijndal loopt blessure op tijdens CL-duel met Rangers",
+    "subtitle": "Video",
+    "published_at": "2022-11-01T22:20:11+01:00",
+    "updated_at": "2022-11-01T22:20:12+01:00",
+    "media_id": "4buxsb7a01bs",
+    "duration": "1:14",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6233526/wijndal-loopt-blessure-op-tijdens-cl-duel-met-rangers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233523,
     "slug": "bekijk-hoe-ajax-via-berghuis-snel-scoort-tegen-rangers",
     "type": "video",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6233480,
-    "slug": "ajax-leidt-halverwege-met-0-2-tegen-zeer-matig-rangers",
+    "slug": "ajax-ook-na-rust-veel-sterker-dan-zeer-matig-rangers",
     "type": "article",
-    "title": "Ajax leidt halverwege met 0-2 tegen zeer matig Rangers",
+    "title": "Ajax ook na rust veel sterker dan zeer matig Rangers",
     "subtitle": "Liveblog CL",
     "published_at": "2022-11-01T18:19:03+01:00",
-    "updated_at": "2022-11-01T21:46:13+01:00",
+    "updated_at": "2022-11-01T22:18:52+01:00",
     "media_id": "fkyxv1batlnh",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233480/ajax-leidt-halverwege-met-0-2-tegen-zeer-matig-rangers.html",
+    "url": "/voetbal/6233480/ajax-ook-na-rust-veel-sterker-dan-zeer-matig-rangers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Loretta Schrijver over einde Koffietijd: 'Blij dat we nog zeven maanden hebben'",
     "subtitle": null,
     "published_at": "2022-11-01T18:04:07+01:00",
-    "updated_at": "2022-11-01T18:04:08+01:00",
+    "updated_at": "2022-11-01T22:10:51+01:00",
     "media_id": "v27xc8jauczi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6233462/sporttribunaal-cas-beslist-snel-over-wk-deelname-oranjeopponent-ecuador.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233463,
-    "slug": "meerdere-aanhoudingen-en-gewonden-bij-koerdisch-protest-in-den-haag",
-    "type": "article",
-    "title": "Meerdere aanhoudingen en gewonden bij Koerdisch protest in Den Haag",
-    "subtitle": null,
-    "published_at": "2022-11-01T17:33:23+01:00",
-    "updated_at": "2022-11-01T17:33:24+01:00",
-    "media_id": "ez0xnihaa03p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233463/meerdere-aanhoudingen-en-gewonden-bij-koerdisch-protest-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
