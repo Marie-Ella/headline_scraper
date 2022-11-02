@@ -1,12 +1,58 @@
 [
   {
+    "id": 6233553,
+    "slug": "favoriet-swiatek-begint-wta-finals-met-overtuigende-overwinning",
+    "type": "article",
+    "title": "Favoriet Swiatek begint WTA Finals met overtuigende overwinning",
+    "subtitle": null,
+    "published_at": "2022-11-02T07:25:02+01:00",
+    "updated_at": "2022-11-02T07:25:03+01:00",
+    "media_id": "eu8x1qyauv5v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6233553/favoriet-swiatek-begint-wta-finals-met-overtuigende-overwinning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233548,
+    "slug": "van-bronckhorst-berust-in-slechtste-cl-campagne-aller-tijden-we-komen-tekort",
+    "type": "article",
+    "title": "Van Bronckhorst berust in slechtste CL-campagne aller tijden: 'We komen tekort'",
+    "subtitle": null,
+    "published_at": "2022-11-02T07:01:16+01:00",
+    "updated_at": "2022-11-02T07:27:05+01:00",
+    "media_id": "h6oxt8ra6jp9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233548/van-bronckhorst-berust-in-slechtste-cl-campagne-aller-tijden-we-komen-tekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233545,
-    "slug": "bekijk-hier-de-samenvatting-van-rangers-ajax-1-3",
+    "slug": "bekijk-hier-de-samenvatting-van-rangers-fc-ajax-1-3",
     "type": "video",
-    "title": "Bekijk hier de samenvatting van Rangers-Ajax (1-3)",
+    "title": "Bekijk hier de samenvatting van Rangers FC-Ajax (1-3)",
     "subtitle": "Video",
     "published_at": "2022-11-02T06:44:19+01:00",
-    "updated_at": "2022-11-02T06:50:43+01:00",
+    "updated_at": "2022-11-02T06:54:20+01:00",
     "media_id": "y8oxcyqamzjk",
     "duration": "4:11",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6233545/bekijk-hier-de-samenvatting-van-rangers-ajax-1-3.html",
+    "url": "/sport/6233545/bekijk-hier-de-samenvatting-van-rangers-fc-ajax-1-3.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Moeder Carlo Heuvelman: 'Hij was een vrolijke, gezellige en energieke jongen'",
     "subtitle": null,
     "published_at": "2022-11-02T05:03:19+01:00",
-    "updated_at": "2022-11-02T05:03:20+01:00",
+    "updated_at": "2022-11-02T07:06:10+01:00",
     "media_id": "zxmxssxao3f7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6233535/tottenham-hotspur-en-eintracht-frankfurt-overleven-zeer-spannende-cl-groep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233531,
-    "slug": "bayern-sluit-cl-groepsfase-in-stijl-af-barca-wint-spektakelstuk-zonder-de-jong",
-    "type": "article",
-    "title": "Bayern sluit CL-groepsfase in stijl af, Barça wint spektakelstuk zonder De Jong",
-    "subtitle": null,
-    "published_at": "2022-11-01T22:54:27+01:00",
-    "updated_at": "2022-11-02T00:48:15+01:00",
-    "media_id": "p0sx4svas6h3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233531/bayern-sluit-cl-groepsfase-in-stijl-af-barca-wint-spektakelstuk-zonder-de-jong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233530,
-    "slug": "ajax-wint-simpel-bij-rangers-en-plaatst-zich-voor-knock-outfase-europa-league",
-    "type": "article",
-    "title": "Ajax wint simpel bij Rangers en plaatst zich voor knock-outfase Europa League",
-    "subtitle": null,
-    "published_at": "2022-11-01T22:52:41+01:00",
-    "updated_at": "2022-11-01T23:40:09+01:00",
-    "media_id": "ypax9jraa0uu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233530/ajax-wint-simpel-bij-rangers-en-plaatst-zich-voor-knock-outfase-europa-league.html",
     "open_new_window": false,
     "partner": null
   }
