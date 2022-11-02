@@ -1,24 +1,47 @@
 [
   {
+    "id": 6233613,
+    "slug": "kyiv-komt-met-verwarmingspunten-voor-inwoners-na-russische-aanvallen",
+    "type": "article",
+    "title": "Kyiv komt met verwarmingspunten voor inwoners na Russische aanvallen",
+    "subtitle": null,
+    "published_at": "2022-11-02T11:35:23+01:00",
+    "updated_at": "2022-11-02T11:35:24+01:00",
+    "media_id": "cz1x8ksa9pvs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6233613/kyiv-komt-met-verwarmingspunten-voor-inwoners-na-russische-aanvallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233601,
     "slug": "bouwsector-vreest-voor-bouwstop-na-stikstofuitspraak-raad-van-state",
     "type": "article",
     "title": "Bouwsector vreest voor bouwstop na stikstofuitspraak Raad van State",
     "subtitle": null,
     "published_at": "2022-11-02T11:20:04+01:00",
-    "updated_at": "2022-11-02T11:20:43+01:00",
+    "updated_at": "2022-11-02T11:35:11+01:00",
     "media_id": "10kxbz2ao7dg",
     "duration": null,
     "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
+      "id": 1778778,
+      "slug": "stikstof",
       "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
+      "name": "Stikstof",
+      "style": "nu",
+      "media_id": null,
       "partner": null
     },
-    "url": "/klimaat/6233601/bouwsector-vreest-voor-bouwstop-na-stikstofuitspraak-raad-van-state.html",
+    "url": "/stikstof/6233601/bouwsector-vreest-voor-bouwstop-na-stikstofuitspraak-raad-van-state.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Miedema krijgt van Arsenal in moeizame periode vrijaf om zich op te laden",
     "subtitle": null,
     "published_at": "2022-11-02T11:09:39+01:00",
-    "updated_at": "2022-11-02T11:21:05+01:00",
+    "updated_at": "2022-11-02T11:42:36+01:00",
     "media_id": "mbtxxmwaq16h",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Herstelde Vertessen kan in uitduel met Bodø/Glimt rentree maken bij PSV",
     "subtitle": null,
     "published_at": "2022-11-02T10:35:39+01:00",
-    "updated_at": "2022-11-02T10:50:28+01:00",
+    "updated_at": "2022-11-02T11:31:52+01:00",
     "media_id": "25kxfarav6o9",
     "duration": null,
     "canonical_section": {
@@ -167,19 +190,19 @@
     "title": "Bouwprojecten lopen vertraging op: rechter haalt streep door stikstofuitzondering",
     "subtitle": null,
     "published_at": "2022-11-02T10:18:23+01:00",
-    "updated_at": "2022-11-02T10:43:50+01:00",
+    "updated_at": "2022-11-02T11:51:50+01:00",
     "media_id": "rmcxh5maj0vu",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6233585/bouwprojecten-lopen-vertraging-op-rechter-haalt-streep-door-stikstofuitzondering.html",
+    "url": "/economie/6233585/bouwprojecten-lopen-vertraging-op-rechter-haalt-streep-door-stikstofuitzondering.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6233557/bekijk-de-samenvattingen-van-dinsdag-in-de-champions-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233553,
-    "slug": "favoriet-swiatek-begint-wta-finals-met-overtuigende-overwinning",
-    "type": "article",
-    "title": "Favoriet Swiatek begint WTA Finals met overtuigende overwinning",
-    "subtitle": null,
-    "published_at": "2022-11-02T07:25:02+01:00",
-    "updated_at": "2022-11-02T07:37:26+01:00",
-    "media_id": "eu8x1qyauv5v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6233553/favoriet-swiatek-begint-wta-finals-met-overtuigende-overwinning.html",
     "open_new_window": false,
     "partner": null
   }
