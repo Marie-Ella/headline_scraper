@@ -1,5 +1,51 @@
 [
   {
+    "id": 6233775,
+    "slug": "auger-aliassime-en-rublev-als-laatste-spelers-zeker-van-deelname-aan-atp-finals",
+    "type": "article",
+    "title": "Auger-Aliassime en Rublev als laatste spelers zeker van deelname aan ATP Finals",
+    "subtitle": null,
+    "published_at": "2022-11-02T21:47:01+01:00",
+    "updated_at": "2022-11-02T21:47:03+01:00",
+    "media_id": "m36xhe4atzd7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6233775/auger-aliassime-en-rublev-als-laatste-spelers-zeker-van-deelname-aan-atp-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233773,
+    "slug": "mbappe-zet-psg-op-fraaie-wijze-op-voorsprong-tegen-juventus",
+    "type": "video",
+    "title": "Mbappé zet PSG op fraaie wijze op voorsprong tegen Juventus",
+    "subtitle": "Video",
+    "published_at": "2022-11-02T21:40:02+01:00",
+    "updated_at": "2022-11-02T21:40:29+01:00",
+    "media_id": "l7oxrntarje3",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6233773/mbappe-zet-psg-op-fraaie-wijze-op-voorsprong-tegen-juventus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233770,
     "slug": "lazio-trainer-sarri-woest-over-extra-rustdagen-voor-feyenoord-een-schande",
     "type": "article",
@@ -346,12 +392,12 @@
   },
   {
     "id": 6233752,
-    "slug": "milan-al-vroeg-op-voorsprong-tegen-salzburg-psg-leidt-bij-juventus",
+    "slug": "milan-op-koers-voor-achtstefinaleplek-juventus-maakt-gelijk-tegen-psg",
     "type": "article",
-    "title": "Milan al vroeg op voorsprong tegen Salzburg, PSG leidt bij Juventus",
+    "title": "Milan op koers voor achtstefinaleplek, Juventus maakt gelijk tegen PSG",
     "subtitle": "Liveblog CL",
     "published_at": "2022-11-02T18:32:59+01:00",
-    "updated_at": "2022-11-02T21:15:39+01:00",
+    "updated_at": "2022-11-02T21:40:01+01:00",
     "media_id": "t9xxijdaj70h",
     "duration": null,
     "canonical_section": {
@@ -363,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233752/milan-al-vroeg-op-voorsprong-tegen-salzburg-psg-leidt-bij-juventus.html",
+    "url": "/voetbal/6233752/milan-op-koers-voor-achtstefinaleplek-juventus-maakt-gelijk-tegen-psg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6233750/twee-klimaatactivisten-moeten-een-maand-de-cel-in-vanwege-actie-bij-meisje-met-de-parel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233745,
-    "slug": "schaatsrevelatie-westenbroek-breekt-teen-en-mist-mogelijk-eerste-world-cup",
-    "type": "article",
-    "title": "Schaatsrevelatie Westenbroek breekt teen en mist mogelijk eerste World Cup",
-    "subtitle": null,
-    "published_at": "2022-11-02T17:59:28+01:00",
-    "updated_at": "2022-11-02T17:59:29+01:00",
-    "media_id": "x8wxxogasruz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6233745/schaatsrevelatie-westenbroek-breekt-teen-en-mist-mogelijk-eerste-world-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233743,
-    "slug": "is-mastodon-het-alternatief-voor-twitter-zo-ziet-het-platform-eruit",
-    "type": "article",
-    "title": "Is Mastodon het alternatief voor Twitter? Zo ziet het platform eruit",
-    "subtitle": "Video",
-    "published_at": "2022-11-02T17:54:46+01:00",
-    "updated_at": "2022-11-02T18:42:26+01:00",
-    "media_id": "i67xwxpad8n6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778830,
-      "slug": "nu-uitgelegd",
-      "type": "default",
-      "name": "NU-uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-uitgelegd/6233743/is-mastodon-het-alternatief-voor-twitter-zo-ziet-het-platform-eruit.html",
     "open_new_window": false,
     "partner": null
   }
