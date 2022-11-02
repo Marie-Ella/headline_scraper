@@ -1,5 +1,51 @@
 [
   {
+    "id": 6233584,
+    "slug": "netanyahu-en-bondgenoten-lijken-af-te-stevenen-op-verkiezingswinst-in-israel",
+    "type": "article",
+    "title": "Netanyahu en bondgenoten lijken af te stevenen op verkiezingswinst in Israël",
+    "subtitle": null,
+    "published_at": "2022-11-02T09:48:36+01:00",
+    "updated_at": "2022-11-02T09:48:37+01:00",
+    "media_id": "8xyxutka9z6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233584/netanyahu-en-bondgenoten-lijken-af-te-stevenen-op-verkiezingswinst-in-israel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233586,
+    "slug": "australische-dierenverzorgers-onderzoeken-leeuwenverblijf-na-ontsnapping",
+    "type": "video",
+    "title": "Australische dierenverzorgers onderzoeken leeuwenverblijf na ontsnapping",
+    "subtitle": "Video",
+    "published_at": "2022-11-02T09:46:54+01:00",
+    "updated_at": "2022-11-02T09:46:55+01:00",
+    "media_id": "f4vxf2fays2e",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6233586/australische-dierenverzorgers-onderzoeken-leeuwenverblijf-na-ontsnapping.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233580,
     "slug": "hollywood-verfilmt-tweede-boek-van-zweedse-auteur-jonas-jonasson",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Loonstijging in oktober zwakt iets af, maar blijft historisch hoog",
     "subtitle": null,
     "published_at": "2022-11-02T05:35:03+01:00",
-    "updated_at": "2022-11-02T05:35:04+01:00",
+    "updated_at": "2022-11-02T09:41:42+01:00",
     "media_id": "51hxmxxab28t",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6233426/aziatische-nederlanders-willen-zichzelf-niet-meer-als-stereotypes-op-tv-terugzien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233478,
-    "slug": "kamer-praat-over-stelselwijziging-pensioenen-hoe-wordt-1500-miljard-verdeeld",
-    "type": "article",
-    "title": "Kamer praat over stelselwijziging pensioenen, hoe wordt 1.500 miljard verdeeld?",
-    "subtitle": null,
-    "published_at": "2022-11-02T05:32:17+01:00",
-    "updated_at": "2022-11-02T06:07:12+01:00",
-    "media_id": "ph6xj6nab5mo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6233478/kamer-praat-over-stelselwijziging-pensioenen-hoe-wordt-1500-miljard-verdeeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233508,
-    "slug": "deel-6-het-geheim-van-mallorca-wie-was-carlo",
-    "type": "audio",
-    "title": "Deel 6 | Het geheim van Mallorca: Wie was Carlo?",
-    "subtitle": "Podcast",
-    "published_at": "2022-11-02T05:03:58+01:00",
-    "updated_at": "2022-11-02T05:03:59+01:00",
-    "media_id": "37exyk1aw37m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779139,
-      "slug": "het-geheim-van-mallorca",
-      "type": "default",
-      "name": "Het geheim van Mallorca",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-geheim-van-mallorca/6233508/deel-6-het-geheim-van-mallorca-wie-was-carlo.html",
     "open_new_window": false,
     "partner": null
   }
