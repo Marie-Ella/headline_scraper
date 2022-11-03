@@ -1,5 +1,97 @@
 [
   {
+    "id": 6233827,
+    "slug": "onderwijsraad-wil-meer-aandacht-voor-taal-en-rekenonderwijs-om-laag-niveau",
+    "type": "article",
+    "title": "Onderwijsraad wil meer aandacht voor taal- en rekenonderwijs om laag niveau",
+    "subtitle": null,
+    "published_at": "2022-11-03T10:38:43+01:00",
+    "updated_at": "2022-11-03T10:38:44+01:00",
+    "media_id": "hq4xu82acu80",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233827/onderwijsraad-wil-meer-aandacht-voor-taal-en-rekenonderwijs-om-laag-niveau.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233847,
+    "slug": "rechter-beslist-dat-strafzaak-over-moord-peter-r-de-vries-opnieuw-moet",
+    "type": "video",
+    "title": "Rechter beslist dat strafzaak over moord Peter R. de Vries opnieuw moet",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T10:38:28+01:00",
+    "updated_at": "2022-11-03T10:38:29+01:00",
+    "media_id": "u2yxihdaplmz",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233847/rechter-beslist-dat-strafzaak-over-moord-peter-r-de-vries-opnieuw-moet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233826,
+    "slug": "fc-groningen-boekt-door-transfers-miljoenen-winst-gezond-fundament-gelegd",
+    "type": "article",
+    "title": "FC Groningen boekt door transfers miljoenen winst: 'Gezond fundament gelegd'",
+    "subtitle": null,
+    "published_at": "2022-11-03T10:28:06+01:00",
+    "updated_at": "2022-11-03T10:28:07+01:00",
+    "media_id": "8lhxrnxagytr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233826/fc-groningen-boekt-door-transfers-miljoenen-winst-gezond-fundament-gelegd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233841,
+    "slug": "bolsonaro-tegen-protesterende-aanhangers-maak-de-snelwegen-vrij",
+    "type": "video",
+    "title": "Bolsonaro tegen protesterende aanhangers: 'Maak de snelwegen vrij'",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T10:26:35+01:00",
+    "updated_at": "2022-11-03T10:26:36+01:00",
+    "media_id": "q0bx0zla5jx2",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233841/bolsonaro-tegen-protesterende-aanhangers-maak-de-snelwegen-vrij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233834,
     "slug": "russisch-vliegverkeer-daalt-door-westerse-sancties-met-ruim-een-vijfde",
     "type": "article",
@@ -121,7 +213,7 @@
     "title": "Kerncentrale Zaporizhzhia weer afgesloten van stroom na beschietingen",
     "subtitle": null,
     "published_at": "2022-11-03T09:54:34+01:00",
-    "updated_at": "2022-11-03T09:54:35+01:00",
+    "updated_at": "2022-11-03T10:33:42+01:00",
     "media_id": "kopxslnar47i",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Strafzaak over moord Peter R. de Vries moet opnieuw",
     "subtitle": null,
     "published_at": "2022-11-03T09:53:08+01:00",
-    "updated_at": "2022-11-03T10:21:04+01:00",
+    "updated_at": "2022-11-03T10:40:10+01:00",
     "media_id": "l2uxpdeacqho",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Snel uitgeschakelde Nadal: 'Moeilijk voor te stellen dat ik ATP Finals ga winnen'",
     "subtitle": null,
     "published_at": "2022-11-03T09:08:22+01:00",
-    "updated_at": "2022-11-03T09:08:23+01:00",
+    "updated_at": "2022-11-03T10:32:19+01:00",
     "media_id": "zkdx2z2a8s40",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Bolsonaro vraagt aanhangers te stoppen met snelwegblokkades: 'Niet legitiem'",
     "subtitle": null,
     "published_at": "2022-11-03T08:55:56+01:00",
-    "updated_at": "2022-11-03T09:13:11+01:00",
+    "updated_at": "2022-11-03T10:26:53+01:00",
     "media_id": "eztx427at0i5",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6233797/kim-jong-un-vuurt-recordaantal-raketten-af-japan-schrikt-van-ballistische-raket.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233795,
-    "slug": "trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen",
-    "type": "article",
-    "title": "Trump mag nog niet terug op Twitter: Musk wil schorsingen eerst laten beoordelen",
-    "subtitle": null,
-    "published_at": "2022-11-03T07:29:22+01:00",
-    "updated_at": "2022-11-03T07:55:54+01:00",
-    "media_id": "x7yxa2da0o77",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6233795/trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233794,
-    "slug": "trotse-schmidt-vindt-dat-benfica-wonderlijke-groepswinst-heeft-verdiend",
-    "type": "article",
-    "title": "Trotse Schmidt vindt dat Benfica wonderlijke groepswinst heeft verdiend",
-    "subtitle": null,
-    "published_at": "2022-11-03T07:22:03+01:00",
-    "updated_at": "2022-11-03T08:02:37+01:00",
-    "media_id": "xc9x5d7a0xsd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233794/trotse-schmidt-vindt-dat-benfica-wonderlijke-groepswinst-heeft-verdiend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233793,
-    "slug": "hulpdiensten-massaal-op-de-been-na-dodelijk-ongeluk-n50",
-    "type": "video",
-    "title": "Hulpdiensten massaal op de been na dodelijk ongeluk N50",
-    "subtitle": "Video",
-    "published_at": "2022-11-03T07:17:12+01:00",
-    "updated_at": "2022-11-03T07:25:53+01:00",
-    "media_id": "m3rxehcablya",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233793/hulpdiensten-massaal-op-de-been-na-dodelijk-ongeluk-n50.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233791,
-    "slug": "musk-wil-helft-van-het-twitter-personeel-ontslaan-3700-banen-op-de-tocht",
-    "type": "article",
-    "title": "Musk wil helft van het Twitter-personeel ontslaan: 3.700 banen op de tocht",
-    "subtitle": null,
-    "published_at": "2022-11-03T06:59:25+01:00",
-    "updated_at": "2022-11-03T08:08:35+01:00",
-    "media_id": "h15x6tgaev2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6233791/musk-wil-helft-van-het-twitter-personeel-ontslaan-3700-banen-op-de-tocht.html",
     "open_new_window": false,
     "partner": null
   }
