@@ -1,12 +1,58 @@
 [
   {
+    "id": 6233460,
+    "slug": "de-lage-gunfactor-van-cillessen-belachelijk-dat-iedereen-erop-inhakt",
+    "type": "article",
+    "title": "De lage gunfactor van Cillessen: 'Belachelijk dat iedereen erop inhakt'",
+    "subtitle": "NU+",
+    "published_at": "2022-11-04T06:40:06+01:00",
+    "updated_at": "2022-11-04T06:40:07+01:00",
+    "media_id": "wj1x6qxalq6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779108,
+      "slug": "nu-voetbal",
+      "type": "default",
+      "name": "NU+ Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-voetbal/6233460/de-lage-gunfactor-van-cillessen-belachelijk-dat-iedereen-erop-inhakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232737,
+    "slug": "afwezigheid-boegbeelden-zorgt-voor-metamorfose-bij-handbalsters-het-talent-is-er",
+    "type": "article",
+    "title": "Afwezigheid boegbeelden zorgt voor metamorfose bij handbalsters: 'Het talent is er'",
+    "subtitle": null,
+    "published_at": "2022-11-04T06:34:52+01:00",
+    "updated_at": "2022-11-04T06:34:53+01:00",
+    "media_id": "2knxxrlacozq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6232737/afwezigheid-boegbeelden-zorgt-voor-metamorfose-bij-handbalsters-het-talent-is-er.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233949,
     "slug": "waarom-poetins-ommezwaai-in-de-graandeal-hem-goed-uitkomt",
     "type": "video",
     "title": "Waarom Poetins ommezwaai in de graandeal hem goed uitkomt",
     "subtitle": "Video",
     "published_at": "2022-11-04T06:18:26+01:00",
-    "updated_at": "2022-11-04T06:18:27+01:00",
+    "updated_at": "2022-11-04T06:38:54+01:00",
     "media_id": "st1xkwtarqb0",
     "duration": "2:12",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234020/psv-ondanks-zege-bij-bodglimt-veroordeeld-tot-tussenronde-europa-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234019,
-    "slug": "mislukte-brugoefening-nekt-naomi-visser-bij-meerkampfinale-wk-turnen",
-    "type": "article",
-    "title": "Mislukte brugoefening nekt Naomi Visser bij meerkampfinale WK turnen",
-    "subtitle": null,
-    "published_at": "2022-11-03T22:46:17+01:00",
-    "updated_at": "2022-11-03T23:05:27+01:00",
-    "media_id": "wm7xq17abrpx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6234019/mislukte-brugoefening-nekt-naomi-visser-bij-meerkampfinale-wk-turnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234017,
-    "slug": "automobilist-nummer-50-rijdt-tegen-bekende-poller-in-den-haag",
-    "type": "video",
-    "title": "Automobilist nummer 50 rijdt tegen bekende poller in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2022-11-03T22:22:27+01:00",
-    "updated_at": "2022-11-03T22:22:28+01:00",
-    "media_id": "11kxm0aaftgw",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234017/automobilist-nummer-50-rijdt-tegen-bekende-poller-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
