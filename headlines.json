@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233949,
+    "slug": "waarom-poetins-ommezwaai-in-de-graandeal-hem-goed-uitkomt",
+    "type": "video",
+    "title": "Waarom Poetins ommezwaai in de graandeal hem goed uitkomt",
+    "subtitle": "Video",
+    "published_at": "2022-11-04T06:18:26+01:00",
+    "updated_at": "2022-11-04T06:18:27+01:00",
+    "media_id": "st1xkwtarqb0",
+    "duration": "2:12",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6233949/waarom-poetins-ommezwaai-in-de-graandeal-hem-goed-uitkomt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234028,
     "slug": "weerbericht-wisselend-weer-met-buien-maar-ook-zon",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6233757,
-    "slug": "nick-simon-brengen-hun-allerlaatste-single-uit-maar-geven-er-amper-aandacht-aan",
+    "slug": "nick-simon-brengen-allerlaatste-single-uit-maar-geven-er-amper-aandacht-aan",
     "type": "article",
-    "title": "Nick & Simon brengen hun allerlaatste single uit, maar geven er amper aandacht aan",
+    "title": "Nick & Simon brengen allerlaatste single uit, maar geven er amper aandacht aan",
     "subtitle": null,
     "published_at": "2022-11-04T05:29:53+01:00",
-    "updated_at": "2022-11-04T05:29:54+01:00",
+    "updated_at": "2022-11-04T06:04:02+01:00",
     "media_id": "tigx4sja0vuf",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6233757/nick-simon-brengen-hun-allerlaatste-single-uit-maar-geven-er-amper-aandacht-aan.html",
+    "url": "/muziek/6233757/nick-simon-brengen-allerlaatste-single-uit-maar-geven-er-amper-aandacht-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6234017/automobilist-nummer-50-rijdt-tegen-bekende-poller-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234016,
-    "slug": "bekijk-de-samenvatting-van-feyenoord-lazio-1-0",
-    "type": "video",
-    "title": "Bekijk de samenvatting van Feyenoord-Lazio (1-0)",
-    "subtitle": "Video",
-    "published_at": "2022-11-03T21:58:33+01:00",
-    "updated_at": "2022-11-03T21:58:34+01:00",
-    "media_id": "n5fxf9aa61l5",
-    "duration": "5:07",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6234016/bekijk-de-samenvatting-van-feyenoord-lazio-1-0.html",
     "open_new_window": false,
     "partner": null
   }
