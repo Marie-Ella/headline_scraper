@@ -1,13 +1,36 @@
 [
   {
-    "id": 6234317,
-    "slug": "vitesse-zoekt-tegen-sparta-naar-derde-overwinning-op-rij",
+    "id": 6234322,
+    "slug": "verkeer-a9-staat-stil-door-storing-brug-bij-schiphol",
     "type": "article",
-    "title": "Vitesse zoekt tegen Sparta naar derde overwinning op rij",
+    "title": "Verkeer A9 staat stil door storing brug bij Schiphol",
+    "subtitle": null,
+    "published_at": "2022-11-05T16:39:10+01:00",
+    "updated_at": "2022-11-05T16:39:11+01:00",
+    "media_id": "ybpxr6na6em7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234322/verkeer-a9-staat-stil-door-storing-brug-bij-schiphol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234317,
+    "slug": "sparta-zoekt-nadrukkelijk-naar-treffer-in-gelredome",
+    "type": "article",
+    "title": "Sparta zoekt nadrukkelijk naar treffer in Gelredome",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-05T16:11:04+01:00",
-    "updated_at": "2022-11-05T16:35:09+01:00",
-    "media_id": "jxzx7gea7u6o",
+    "updated_at": "2022-11-05T16:39:55+01:00",
+    "media_id": "y20xjpxan5j3",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234317/vitesse-zoekt-tegen-sparta-naar-derde-overwinning-op-rij.html",
+    "url": "/voetbal/6234317/sparta-zoekt-nadrukkelijk-naar-treffer-in-gelredome.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Revelatie Van Empel wint ook Europese titel veldrijden met groot machtsvertoon",
     "subtitle": null,
     "published_at": "2022-11-05T16:08:24+01:00",
-    "updated_at": "2022-11-05T16:33:56+01:00",
+    "updated_at": "2022-11-05T16:38:39+01:00",
     "media_id": "u60x8k1amr9m",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6234318,
-    "slug": "quartararo-start-voor-wk-leider-bagnaia-in-allesbepalende-motogp-race",
+    "slug": "quartararo-start-vlak-voor-wk-leider-bagnaia-in-allesbepalende-motogp-race",
     "type": "article",
-    "title": "Quartararo start voor WK-leider Bagnaia in allesbepalende MotoGP-race",
+    "title": "Quartararo start vlak voor WK-leider Bagnaia in allesbepalende MotoGP-race",
     "subtitle": null,
     "published_at": "2022-11-05T15:58:16+01:00",
-    "updated_at": "2022-11-05T16:08:45+01:00",
+    "updated_at": "2022-11-05T16:38:13+01:00",
     "media_id": "vcjx8t2aknyq",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6234318/quartararo-start-voor-wk-leider-bagnaia-in-allesbepalende-motogp-race.html",
+    "url": "/sport-overig/6234318/quartararo-start-vlak-voor-wk-leider-bagnaia-in-allesbepalende-motogp-race.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6234275/fietser-filmt-achtervolging-door-wolf-op-park-de-hoge-veluwe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234269,
-    "slug": "filmende-fietser-achtervolgd-door-wolf-op-de-hoge-veluwe",
-    "type": "article",
-    "title": "Filmende fietser achtervolgd door wolf op De Hoge Veluwe",
-    "subtitle": null,
-    "published_at": "2022-11-05T10:57:04+01:00",
-    "updated_at": "2022-11-05T13:01:04+01:00",
-    "media_id": "vp7x373a2dww",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234269/filmende-fietser-achtervolgd-door-wolf-op-de-hoge-veluwe.html",
     "open_new_window": false,
     "partner": null
   }
