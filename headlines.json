@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234240,
+    "slug": "nancy-pelosi-bedankt-iedereen-voor-steun-na-aanval-op-man",
+    "type": "video",
+    "title": "Nancy Pelosi bedankt iedereen voor steun na aanval op man",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T08:47:33+01:00",
+    "updated_at": "2022-11-05T08:47:34+01:00",
+    "media_id": "ks0xey5al4gv",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234240/nancy-pelosi-bedankt-iedereen-voor-steun-na-aanval-op-man.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234237,
     "slug": "vs-gaat-strategische-bommenwerper-gebruiken-bij-oefeningen-met-zuid-korea",
     "type": "article",
     "title": "VS gaat strategische bommenwerper gebruiken bij oefeningen met Zuid-Korea",
     "subtitle": null,
     "published_at": "2022-11-05T07:44:15+01:00",
-    "updated_at": "2022-11-05T07:48:29+01:00",
+    "updated_at": "2022-11-05T08:40:23+01:00",
     "media_id": "nbtxcwwaxqra",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234220/koploper-heracles-wint-door-late-treffer-nieuwe-domper-voor-ado-en-kuijt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234224,
-    "slug": "rtl-en-talpa-verliezen-tv-rechten-voor-champions-league-en-europa-league",
-    "type": "article",
-    "title": "RTL en Talpa verliezen tv-rechten voor Champions League en Europa League",
-    "subtitle": null,
-    "published_at": "2022-11-04T22:05:35+01:00",
-    "updated_at": "2022-11-04T23:27:54+01:00",
-    "media_id": "mtrxmptacb9g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6234224/rtl-en-talpa-verliezen-tv-rechten-voor-champions-league-en-europa-league.html",
     "open_new_window": false,
     "partner": null
   }
