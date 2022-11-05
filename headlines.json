@@ -1,13 +1,36 @@
 [
   {
+    "id": 6234343,
+    "slug": "hulpdiensten-arriveren-bij-kliniek-na-dodelijke-steekpartij",
+    "type": "video",
+    "title": "Hulpdiensten arriveren bij kliniek na dodelijke steekpartij",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T19:20:55+01:00",
+    "updated_at": "2022-11-05T19:23:49+01:00",
+    "media_id": "54bxifmaq96o",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234343/hulpdiensten-arriveren-bij-kliniek-na-dodelijke-steekpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234339,
     "slug": "sparta-boekt-grootste-uitzege-in-28-jaar-en-bezorgt-vitesse-negatieve-primeur",
     "type": "article",
     "title": "Sparta boekt grootste uitzege in 28 jaar en bezorgt Vitesse negatieve primeur",
     "subtitle": null,
     "published_at": "2022-11-05T18:29:43+01:00",
-    "updated_at": "2022-11-05T18:49:57+01:00",
-    "media_id": "65lx2nxa42qz",
+    "updated_at": "2022-11-05T19:04:23+01:00",
+    "media_id": "kenxcwta1nj5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -98,7 +121,7 @@
     "title": "Twee doden en twee gewonden na steekpartij in psychiatrische kliniek in Balkbrug",
     "subtitle": null,
     "published_at": "2022-11-05T17:49:39+01:00",
-    "updated_at": "2022-11-05T18:29:23+01:00",
+    "updated_at": "2022-11-05T18:53:16+01:00",
     "media_id": "aw7x00habrvs",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bayern zonder De Ligt nipt te sterk voor Hertha, Malen wint ruim met Dortmund",
     "subtitle": null,
     "published_at": "2022-11-05T17:45:13+01:00",
-    "updated_at": "2022-11-05T18:26:05+01:00",
+    "updated_at": "2022-11-05T19:20:07+01:00",
     "media_id": "2zjxowkaasbd",
     "duration": null,
     "canonical_section": {
@@ -323,13 +346,13 @@
   },
   {
     "id": 6234317,
-    "slug": "fortuna-ontvangt-fc-emmen-vitesse-druipt-af-na-afstraffing",
+    "slug": "emmen-en-fortuna-nog-in-evenwicht-in-tamme-eerste-helft",
     "type": "article",
-    "title": "Fortuna ontvangt FC Emmen, Vitesse druipt af na afstraffing",
+    "title": "Emmen en Fortuna nog in evenwicht in tamme eerste helft",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-05T16:11:04+01:00",
-    "updated_at": "2022-11-05T18:30:53+01:00",
-    "media_id": "lkzxj55ay6t3",
+    "updated_at": "2022-11-05T19:26:16+01:00",
+    "media_id": "mz4xrrnazbtf",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234317/fortuna-ontvangt-fc-emmen-vitesse-druipt-af-na-afstraffing.html",
+    "url": "/voetbal/6234317/emmen-en-fortuna-nog-in-evenwicht-in-tamme-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6234314/waterpolosters-verliezen-van-spanje-in-halve-finales-world-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234311,
-    "slug": "rechts-populistische-partij-van-le-pen-kiest-voor-27-jarige-bardella-als-leider",
-    "type": "article",
-    "title": "Rechts-populistische partij van Le Pen kiest voor 27-jarige Bardella als leider",
-    "subtitle": null,
-    "published_at": "2022-11-05T14:18:04+01:00",
-    "updated_at": "2022-11-05T16:19:33+01:00",
-    "media_id": "rh3xugqai72l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6234311/rechts-populistische-partij-van-le-pen-kiest-voor-27-jarige-bardella-als-leider.html",
     "open_new_window": false,
     "partner": null
   }
