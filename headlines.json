@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234401,
+    "slug": "reddingswerkers-proberen-neergestort-vliegtuig-uit-victoriameer-te-trekken",
+    "type": "video",
+    "title": "Reddingswerkers proberen neergestort vliegtuig uit Victoriameer te trekken",
+    "subtitle": "Video",
+    "published_at": "2022-11-06T11:42:17+01:00",
+    "updated_at": "2022-11-06T11:43:17+01:00",
+    "media_id": "sy0xh2ta1rwf",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6234401/reddingswerkers-proberen-neergestort-vliegtuig-uit-victoriameer-te-trekken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234397,
     "slug": "alle-demonstranten-klimaatacties-schiphol-oost-weer-vrij",
     "type": "article",
     "title": "Alle demonstranten klimaatacties Schiphol-Oost weer vrij",
     "subtitle": null,
     "published_at": "2022-11-06T11:24:40+01:00",
-    "updated_at": "2022-11-06T11:24:41+01:00",
+    "updated_at": "2022-11-06T11:42:14+01:00",
     "media_id": "xtgx4ifa32ia",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Bale draagt met goal in 128e minuut bij aan eerste MLS-titel van Los Angeles FC",
     "subtitle": null,
     "published_at": "2022-11-06T11:04:18+01:00",
-    "updated_at": "2022-11-06T11:16:17+01:00",
+    "updated_at": "2022-11-06T11:43:10+01:00",
     "media_id": "ynmx3pya1k2p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Twee weken na dodelijk bootongeluk lichaam gevonden op strand van Terschelling",
     "subtitle": null,
     "published_at": "2022-11-06T10:43:16+01:00",
-    "updated_at": "2022-11-06T11:22:54+01:00",
+    "updated_at": "2022-11-06T11:25:45+01:00",
     "media_id": "gsnxyoxahwyz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/kind-gezin/6234093/sietske-en-fred-hebben-acht-puberzonen-in-huis-ze-houden-ons-jong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234067,
-    "slug": "help-wat-doe-je-met-die-overvolle-tas-sint-maartensnoep",
-    "type": "article",
-    "title": "Help, wat doe je met die overvolle tas sint-maartensnoep?",
-    "subtitle": null,
-    "published_at": "2022-11-06T06:22:20+01:00",
-    "updated_at": "2022-11-06T06:22:21+01:00",
-    "media_id": "resxbgbabk3w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778688,
-      "slug": "kind-gezin",
-      "type": "default",
-      "name": "Kind & Gezin",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/kind-gezin/6234067/help-wat-doe-je-met-die-overvolle-tas-sint-maartensnoep.html",
     "open_new_window": false,
     "partner": null
   }
