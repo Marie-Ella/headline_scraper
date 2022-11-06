@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234449,
+    "slug": "koreaanse-mijnwerkers-bevrijd-na-negen-dagen-onder-de-grond",
+    "type": "video",
+    "title": "Koreaanse mijnwerkers bevrijd na negen dagen onder de grond",
+    "subtitle": "Video",
+    "published_at": "2022-11-06T18:25:05+01:00",
+    "updated_at": "2022-11-06T18:26:38+01:00",
+    "media_id": "geixb88aat9d",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234449/koreaanse-mijnwerkers-bevrijd-na-negen-dagen-onder-de-grond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234448,
     "slug": "turnster-visser-grijpt-op-laatste-dag-van-wk-naast-medaille-in-vloerfinale",
     "type": "article",
     "title": "Turnster Visser grijpt op laatste dag van WK naast medaille in vloerfinale",
     "subtitle": null,
     "published_at": "2022-11-06T18:12:18+01:00",
-    "updated_at": "2022-11-06T18:12:19+01:00",
+    "updated_at": "2022-11-06T18:26:00+01:00",
     "media_id": "qokxnhoad0zg",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Twee doden doordat raceauto in publiek belandt bij rally in België",
     "subtitle": null,
     "published_at": "2022-11-06T17:22:35+01:00",
-    "updated_at": "2022-11-06T18:05:21+01:00",
+    "updated_at": "2022-11-06T18:21:45+01:00",
     "media_id": "8uwx310a30du",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6234409/op-strand-gevonden-lichaam-is-van-49-jarig-slachtoffer-bootongeluk-terschelling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234423,
-    "slug": "united-met-van-de-beek-onderuit-na-slechte-start-arsenal-klopt-geplaagd-chelsea",
-    "type": "article",
-    "title": "United met Van de Beek onderuit na slechte start, Arsenal klopt geplaagd Chelsea",
-    "subtitle": null,
-    "published_at": "2022-11-06T14:55:21+01:00",
-    "updated_at": "2022-11-06T17:36:43+01:00",
-    "media_id": "nrdxtrnaro7l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234423/united-met-van-de-beek-onderuit-na-slechte-start-arsenal-klopt-geplaagd-chelsea.html",
     "open_new_window": false,
     "partner": null
   }
