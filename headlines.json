@@ -1,14 +1,14 @@
 [
   {
-    "id": 6234707,
-    "slug": "voormalig-fifa-baas-blatter-keuze-voor-wk-in-qatar-was-een-vergissing",
-    "type": "article",
-    "title": "Voormalig FIFA-baas Blatter: 'Keuze voor WK in Qatar was een vergissing'",
-    "subtitle": null,
-    "published_at": "2022-11-08T10:08:41+01:00",
-    "updated_at": "2022-11-08T10:11:51+01:00",
-    "media_id": "jwjxdh9afdqd",
-    "duration": null,
+    "id": 6234719,
+    "slug": "keeper-jong-benfica-scoort-vanaf-eigen-helft-via-onderkant-van-de-lat",
+    "type": "video",
+    "title": "Keeper Jong Benfica scoort vanaf eigen helft via onderkant van de lat",
+    "subtitle": "Video",
+    "published_at": "2022-11-08T10:31:31+01:00",
+    "updated_at": "2022-11-08T10:31:32+01:00",
+    "media_id": "h8fxelqap06x",
+    "duration": "0:32",
     "canonical_section": {
       "id": 1772338,
       "slug": "voetbal",
@@ -18,7 +18,53 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234707/voormalig-fifa-baas-blatter-keuze-voor-wk-in-qatar-was-een-vergissing.html",
+    "url": "/voetbal/6234719/keeper-jong-benfica-scoort-vanaf-eigen-helft-via-onderkant-van-de-lat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234718,
+    "slug": "enorme-vlammenzee-in-hoge-woontoren-in-dubai",
+    "type": "video",
+    "title": "Enorme vlammenzee in hoge woontoren in Dubai",
+    "subtitle": "Video",
+    "published_at": "2022-11-08T10:28:46+01:00",
+    "updated_at": "2022-11-08T10:44:40+01:00",
+    "media_id": "e8gxmsda1fpk",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234718/enorme-vlammenzee-in-hoge-woontoren-in-dubai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234707,
+    "slug": "voormalig-fifa-baas-blatter-keuze-voor-wk-in-qatar-was-een-vergissing",
+    "type": "article",
+    "title": "Voormalig FIFA-baas Blatter: 'Keuze voor WK in Qatar was een vergissing'",
+    "subtitle": null,
+    "published_at": "2022-11-08T10:08:41+01:00",
+    "updated_at": "2022-11-08T10:41:52+01:00",
+    "media_id": "jwjxdh9afdqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6234707/voormalig-fifa-baas-blatter-keuze-voor-wk-in-qatar-was-een-vergissing.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6234665/prijzen-ook-in-oktober-flink-gestegen-maar-lagere-inflatie-dan-in-september.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234664,
-    "slug": "vs-onderhandelt-in-het-geheim-met-rusland-kyiv-ontvangt-luchtafweergeschut",
-    "type": "article",
-    "title": "VS onderhandelt in het geheim met Rusland, Kyiv ontvangt luchtafweergeschut",
-    "subtitle": null,
-    "published_at": "2022-11-08T06:33:25+01:00",
-    "updated_at": "2022-11-08T09:13:48+01:00",
-    "media_id": "up2xkj7akasg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6234664/vs-onderhandelt-in-het-geheim-met-rusland-kyiv-ontvangt-luchtafweergeschut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234663,
-    "slug": "uitvaart-migos-rapper-takeoff-vindt-vrijdag-plaats-in-stadion-in-atlanta",
-    "type": "article",
-    "title": "Uitvaart Migos-rapper Takeoff vindt vrijdag plaats in stadion in Atlanta",
-    "subtitle": null,
-    "published_at": "2022-11-08T06:28:44+01:00",
-    "updated_at": "2022-11-08T08:27:58+01:00",
-    "media_id": "5nvxv9xa7wch",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6234663/uitvaart-migos-rapper-takeoff-vindt-vrijdag-plaats-in-stadion-in-atlanta.html",
     "open_new_window": false,
     "partner": null
   }
