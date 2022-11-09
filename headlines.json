@@ -1,5 +1,51 @@
 [
   {
+    "id": 6235100,
+    "slug": "brandweer-probeert-vuur-te-bedwingen-in-rotterdamse-woning",
+    "type": "video",
+    "title": "Brandweer probeert vuur te bedwingen in Rotterdamse woning",
+    "subtitle": "Video",
+    "published_at": "2022-11-09T21:42:45+01:00",
+    "updated_at": "2022-11-09T21:42:46+01:00",
+    "media_id": "gfaxn9jaqjs9",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235100/brandweer-probeert-vuur-te-bedwingen-in-rotterdamse-woning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234988,
+    "slug": "beleggers-kopen-steeds-minder-huizen-op-in-grote-steden",
+    "type": "article",
+    "title": "Beleggers kopen steeds minder huizen op in grote steden",
+    "subtitle": null,
+    "published_at": "2022-11-09T21:30:33+01:00",
+    "updated_at": "2022-11-09T21:30:48+01:00",
+    "media_id": "8qnxcjnadn8g",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6234988/beleggers-kopen-steeds-minder-huizen-op-in-grote-steden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235099,
     "slug": "sheraldo-becker-opent-op-prachtige-wijze-de-score-voor-union-berlin",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Illegale tabak ter waarde van miljoenen gevonden in Limburgs dorp",
     "subtitle": null,
     "published_at": "2022-11-09T20:53:41+01:00",
-    "updated_at": "2022-11-09T20:58:42+01:00",
+    "updated_at": "2022-11-09T21:28:08+01:00",
     "media_id": "qccxmqzarqng",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Steraanvallers Mbappé en Benzema voeren ijzersterke WK-selectie Frankrijk aan",
     "subtitle": null,
     "published_at": "2022-11-09T20:46:40+01:00",
-    "updated_at": "2022-11-09T20:50:47+01:00",
+    "updated_at": "2022-11-09T21:40:37+01:00",
     "media_id": "lf3x6wsac0n7",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Oranjekandidaat Frimpong levert cruciale assist, Sevilla met negen man onderuit",
     "subtitle": null,
     "published_at": "2022-11-09T20:25:43+01:00",
-    "updated_at": "2022-11-09T21:09:39+01:00",
+    "updated_at": "2022-11-09T21:38:58+01:00",
     "media_id": "garx6xiabjdl",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6235093,
-    "slug": "nederland-halverwege-op-achterstand-tegen-frankrijk",
+    "slug": "nederland-heeft-zicht-op-resultaat-tegen-frankrijk",
     "type": "article",
-    "title": "Nederland halverwege op achterstand tegen Frankrijk",
+    "title": "Nederland heeft zicht op resultaat tegen Frankrijk",
     "subtitle": "Liveblog EK handbal",
     "published_at": "2022-11-09T20:11:17+01:00",
-    "updated_at": "2022-11-09T21:06:55+01:00",
+    "updated_at": "2022-11-09T21:42:29+01:00",
     "media_id": "9akx2rdal0es",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6235093/nederland-halverwege-op-achterstand-tegen-frankrijk.html",
+    "url": "/sport-overig/6235093/nederland-heeft-zicht-op-resultaat-tegen-frankrijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,13 +346,13 @@
   },
   {
     "id": 6235089,
-    "slug": "ajax-mist-grote-kansen-op-voorsprong-tegen-vitesse",
+    "slug": "ajax-zoekt-in-slotfase-naar-winnende-goal-tegen-vitesse",
     "type": "article",
-    "title": "Ajax mist grote kansen op voorsprong tegen Vitesse",
+    "title": "Ajax zoekt in slotfase naar winnende goal tegen Vitesse",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-09T19:29:54+01:00",
-    "updated_at": "2022-11-09T21:11:03+01:00",
-    "media_id": "xtmxyh1awjrr",
+    "updated_at": "2022-11-09T21:45:45+01:00",
+    "media_id": "s9oxdy5ark9h",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6235089/ajax-mist-grote-kansen-op-voorsprong-tegen-vitesse.html",
+    "url": "/voetbal/6235089/ajax-zoekt-in-slotfase-naar-winnende-goal-tegen-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6235074/duitsland-blokkeert-chinese-investeringen-in-chipmakers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235075,
-    "slug": "brandweer-redt-zwaan-uit-bovenleiding-tussen-zwolle-en-meppel",
-    "type": "video",
-    "title": "Brandweer redt zwaan uit bovenleiding tussen Zwolle en Meppel",
-    "subtitle": "Video",
-    "published_at": "2022-11-09T17:51:03+01:00",
-    "updated_at": "2022-11-09T17:51:23+01:00",
-    "media_id": "zbqxhcza6nat",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6235075/brandweer-redt-zwaan-uit-bovenleiding-tussen-zwolle-en-meppel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234943,
-    "slug": "de-asielwet-in-het-kort-niet-elke-gemeente-zal-verplicht-een-azc-krijgen",
-    "type": "article",
-    "title": "De asielwet in het kort: niet elke gemeente zal verplicht een azc krijgen",
-    "subtitle": null,
-    "published_at": "2022-11-09T17:49:22+01:00",
-    "updated_at": "2022-11-09T17:49:22+01:00",
-    "media_id": "emmxo28alznm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6234943/de-asielwet-in-het-kort-niet-elke-gemeente-zal-verplicht-een-azc-krijgen.html",
     "open_new_window": false,
     "partner": null
   }
