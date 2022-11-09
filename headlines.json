@@ -1,12 +1,81 @@
 [
   {
+    "id": 6234847,
+    "slug": "zo-zien-de-geplande-stroomonderbrekingen-in-oekraine-eruit",
+    "type": "video",
+    "title": "Zo zien de geplande stroomonderbrekingen in Oekraïne eruit",
+    "subtitle": "Video",
+    "published_at": "2022-11-09T06:02:35+01:00",
+    "updated_at": "2022-11-09T06:04:38+01:00",
+    "media_id": "rszxtzwajgpl",
+    "duration": "2:03",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6234847/zo-zien-de-geplande-stroomonderbrekingen-in-oekraine-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234593,
+    "slug": "the-crown-begint-weer-welke-acteurs-worden-geprezen-en-welke-niet",
+    "type": "article",
+    "title": "The Crown begint weer: welke acteurs worden geprezen (en welke niet)?",
+    "subtitle": "NU+",
+    "published_at": "2022-11-09T06:01:22+01:00",
+    "updated_at": "2022-11-09T06:06:25+01:00",
+    "media_id": "b1rxdeuanvhq",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6234593/the-crown-begint-weer-welke-acteurs-worden-geprezen-en-welke-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234754,
+    "slug": "groeiend-aantal-fabrieken-produceert-minder-door-energiecrisis",
+    "type": "article",
+    "title": "Groeiend aantal fabrieken produceert minder door energiecrisis",
+    "subtitle": null,
+    "published_at": "2022-11-09T06:00:03+01:00",
+    "updated_at": "2022-11-09T06:00:05+01:00",
+    "media_id": "d9kx9vfa0fzm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6234754/groeiend-aantal-fabrieken-produceert-minder-door-energiecrisis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234886,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
     "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2022-11-09T05:38:12+01:00",
-    "updated_at": "2022-11-09T05:38:13+01:00",
+    "updated_at": "2022-11-09T06:08:13+01:00",
     "media_id": "q90x8w2aq9up",
     "duration": null,
     "canonical_section": {
@@ -70,12 +139,12 @@
   },
   {
     "id": 6234788,
-    "slug": "nog-geen-republikeinse-megawinst-bij-midterms-wachten-op-uitslagen-swing-states",
+    "slug": "nog-geen-republikeinse-megawinst-bij-midterms-wachten-op-uitslagen-swingstaten",
     "type": "article",
-    "title": "Nog geen Republikeinse megawinst bij midterms, wachten op uitslagen 'swing states'",
+    "title": "Nog geen Republikeinse megawinst bij midterms, wachten op uitslagen swingstaten",
     "subtitle": null,
     "published_at": "2022-11-09T05:31:26+01:00",
-    "updated_at": "2022-11-09T05:50:18+01:00",
+    "updated_at": "2022-11-09T06:26:44+01:00",
     "media_id": "1hdxk8va20rh",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6234788/nog-geen-republikeinse-megawinst-bij-midterms-wachten-op-uitslagen-swing-states.html",
+    "url": "/buitenland/6234788/nog-geen-republikeinse-megawinst-bij-midterms-wachten-op-uitslagen-swingstaten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +167,7 @@
     "title": "Weerbericht: Dag begint met buien, daarna opklaringen en zachte temperatuur",
     "subtitle": null,
     "published_at": "2022-11-09T05:30:33+01:00",
-    "updated_at": "2022-11-09T05:30:34+01:00",
+    "updated_at": "2022-11-09T06:07:40+01:00",
     "media_id": "85ux6wza87gi",
     "duration": null,
     "canonical_section": {
@@ -121,30 +190,30 @@
     "title": "Gemeenten blij met asielwet, wel 'zorgen over de uitvoerbaarheid'",
     "subtitle": null,
     "published_at": "2022-11-09T05:01:31+01:00",
-    "updated_at": "2022-11-09T05:01:32+01:00",
+    "updated_at": "2022-11-09T06:29:26+01:00",
     "media_id": "uosxcq6a7g5h",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 1779109,
+      "slug": "asielcrisis",
       "type": "default",
-      "name": "Binnenland",
+      "name": "Asielcrisis",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6234881/gemeenten-blij-met-asielwet-wel-zorgen-over-de-uitvoerbaarheid.html",
+    "url": "/asielcrisis/6234881/gemeenten-blij-met-asielwet-wel-zorgen-over-de-uitvoerbaarheid.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6234884,
-    "slug": "politie-onderschept-in-recordvangst-350000-kilo-illegaal-vuurwerk",
+    "slug": "politie-onderschept-recordhoeveelheid-van-350000-kilo-illegaal-vuurwerk",
     "type": "article",
-    "title": "Politie onderschept in recordvangst 350.000 kilo illegaal vuurwerk",
+    "title": "Politie onderschept recordhoeveelheid van 350.000 kilo illegaal vuurwerk",
     "subtitle": null,
     "published_at": "2022-11-09T03:59:01+01:00",
-    "updated_at": "2022-11-09T05:34:22+01:00",
+    "updated_at": "2022-11-09T06:30:28+01:00",
     "media_id": "t6bxqrpayimr",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6234884/politie-onderschept-in-recordvangst-350000-kilo-illegaal-vuurwerk.html",
+    "url": "/binnenland/6234884/politie-onderschept-recordhoeveelheid-van-350000-kilo-illegaal-vuurwerk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Britse premier Sunak ziet eerste minister vertrekken na beschuldiging pesterijen",
     "subtitle": null,
     "published_at": "2022-11-09T03:01:31+01:00",
-    "updated_at": "2022-11-09T03:08:26+01:00",
+    "updated_at": "2022-11-09T06:22:52+01:00",
     "media_id": "p8oxevva1eux",
     "duration": null,
     "canonical_section": {
@@ -190,7 +259,7 @@
     "title": "Reddingsschip met 230 migranten vaart na weigering Italië door naar Frankrijk",
     "subtitle": null,
     "published_at": "2022-11-09T02:10:15+01:00",
-    "updated_at": "2022-11-09T02:42:11+01:00",
+    "updated_at": "2022-11-09T06:16:35+01:00",
     "media_id": "qicxk4facvmd",
     "duration": null,
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Consumentenvertrouwen zakt naar historisch dieptepunt",
     "subtitle": null,
     "published_at": "2022-11-09T00:02:01+01:00",
-    "updated_at": "2022-11-09T05:38:31+01:00",
+    "updated_at": "2022-11-09T06:01:37+01:00",
     "media_id": "6vfxsyeafg8s",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6234873/straten-op-bonaire-staan-blank-na-hevige-regenval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234872,
-    "slug": "grootste-jackpot-ooit-gevallen-amerikaan-wint-2-miljard-dollar",
-    "type": "article",
-    "title": "Grootste jackpot ooit gevallen: Amerikaan wint 2 miljard dollar",
-    "subtitle": null,
-    "published_at": "2022-11-08T21:04:39+01:00",
-    "updated_at": "2022-11-08T21:23:13+01:00",
-    "media_id": "3w3xfv4ar24f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6234872/grootste-jackpot-ooit-gevallen-amerikaan-wint-2-miljard-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234871,
-    "slug": "napoli-boekt-tiende-overwinning-op-rij-en-verstevigt-koppositie-in-serie-a",
-    "type": "article",
-    "title": "Napoli boekt tiende overwinning op rij en verstevigt koppositie in Serie A",
-    "subtitle": null,
-    "published_at": "2022-11-08T20:45:08+01:00",
-    "updated_at": "2022-11-08T23:58:23+01:00",
-    "media_id": "kmlx538anr5z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234871/napoli-boekt-tiende-overwinning-op-rij-en-verstevigt-koppositie-in-serie-a.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234870,
-    "slug": "love-hurts-zanger-dan-mccafferty-76-van-schotse-band-nazareth-overleden",
-    "type": "article",
-    "title": "Love Hurts-zanger Dan McCafferty (76) van Schotse band Nazareth overleden",
-    "subtitle": null,
-    "published_at": "2022-11-08T20:39:46+01:00",
-    "updated_at": "2022-11-08T21:00:38+01:00",
-    "media_id": "3ryxoi7air26",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6234870/love-hurts-zanger-dan-mccafferty-76-van-schotse-band-nazareth-overleden.html",
     "open_new_window": false,
     "partner": null
   }
