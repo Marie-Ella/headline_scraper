@@ -1,12 +1,58 @@
 [
   {
-    "id": 6235205,
-    "slug": "politie-deelt-beelden-van-rammen-auto-na-achtervolging",
+    "id": 6235206,
+    "slug": "oekraine-haalt-monument-uit-sovjettijdperk-neer",
     "type": "video",
-    "title": "Politie deelt beelden van rammen auto na achtervolging",
+    "title": "Oekraïne haalt monument uit Sovjettijdperk neer",
+    "subtitle": "Video",
+    "published_at": "2022-11-10T12:27:10+01:00",
+    "updated_at": "2022-11-10T12:33:18+01:00",
+    "media_id": "ko5xxxzau6d4",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6235206/oekraine-haalt-monument-uit-sovjettijdperk-neer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234876,
+    "slug": "activisten-kunnen-op-de-klimaattop-in-egypte-niet-zomaar-demonstreren",
+    "type": "article",
+    "title": "Activisten kunnen op de klimaattop in Egypte niet zomaar demonstreren",
+    "subtitle": "NU+",
+    "published_at": "2022-11-10T12:23:51+01:00",
+    "updated_at": "2022-11-10T12:23:52+01:00",
+    "media_id": "dm3xbe2aauuc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234876/activisten-kunnen-op-de-klimaattop-in-egypte-niet-zomaar-demonstreren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235205,
+    "slug": "politie-deelt-beelden-van-rammen-auto-bij-achtervolging",
+    "type": "video",
+    "title": "Politie deelt beelden van rammen auto bij achtervolging",
     "subtitle": "Video",
     "published_at": "2022-11-10T12:18:17+01:00",
-    "updated_at": "2022-11-10T12:18:18+01:00",
+    "updated_at": "2022-11-10T12:25:43+01:00",
     "media_id": "gbgxousaccqn",
     "duration": "0:40",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6235205/politie-deelt-beelden-van-rammen-auto-na-achtervolging.html",
+    "url": "/binnenland/6235205/politie-deelt-beelden-van-rammen-auto-bij-achtervolging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Ziggo heeft vanaf 2024 exclusief alle uitzendrechten van Europees voetbal",
     "subtitle": null,
     "published_at": "2022-11-10T12:15:51+01:00",
-    "updated_at": "2022-11-10T12:15:52+01:00",
+    "updated_at": "2022-11-10T12:24:37+01:00",
     "media_id": "iovxhbrayl3r",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Duitsland zonder Reus en Hummels naar WK, wel plek voor Götze en Moukoko (17)",
     "subtitle": null,
     "published_at": "2022-11-10T12:12:14+01:00",
-    "updated_at": "2022-11-10T12:12:15+01:00",
+    "updated_at": "2022-11-10T12:33:09+01:00",
     "media_id": "y9uxgbsazhpu",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Recordaantal Russen vroeg in oktober asiel aan in Nederland",
     "subtitle": null,
     "published_at": "2022-11-10T11:53:19+01:00",
-    "updated_at": "2022-11-10T11:53:20+01:00",
+    "updated_at": "2022-11-10T12:33:11+01:00",
     "media_id": "6whxzznazaoy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6235143/mourinho-uit-flinke-kritiek-op-roma-speler-in-januari-moet-hij-nieuwe-club-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235136,
-    "slug": "vrouwen-mogen-van-taliban-niet-langer-naar-pretparken-in-kaboel",
-    "type": "article",
-    "title": "Vrouwen mogen van Taliban niet langer naar pretparken in Kaboel",
-    "subtitle": null,
-    "published_at": "2022-11-10T09:17:36+01:00",
-    "updated_at": "2022-11-10T10:07:16+01:00",
-    "media_id": "b29xcfnaqzqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6235136/vrouwen-mogen-van-taliban-niet-langer-naar-pretparken-in-kaboel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235133,
-    "slug": "praat-vandaag-mee-over-elektrisch-rijden",
-    "type": "article",
-    "title": "Praat vandaag mee over: elektrisch rijden",
-    "subtitle": null,
-    "published_at": "2022-11-10T09:08:53+01:00",
-    "updated_at": "2022-11-10T09:08:54+01:00",
-    "media_id": "m3txp4da9ayk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6235133/praat-vandaag-mee-over-elektrisch-rijden.html",
     "open_new_window": false,
     "partner": null
   }
