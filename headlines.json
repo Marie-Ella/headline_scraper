@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235732,
+    "slug": "zo-zag-de-intocht-van-sinterklaas-in-hellevoetsluis-eruit",
+    "type": "video",
+    "title": "Zo zag de intocht van Sinterklaas in Hellevoetsluis eruit",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T14:31:04+01:00",
+    "updated_at": "2022-11-12T14:31:04+01:00",
+    "media_id": "kooxm15ak6jq",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235732/zo-zag-de-intocht-van-sinterklaas-in-hellevoetsluis-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235730,
     "slug": "groenewoud-derde-op-1500-meter-in-stavanger-bijrol-voor-nederlandse-sprinters",
     "type": "article",
     "title": "Groenewoud derde op 1.500 meter in Stavanger, bijrol voor Nederlandse sprinters",
     "subtitle": null,
     "published_at": "2022-11-12T13:40:20+01:00",
-    "updated_at": "2022-11-12T14:26:44+01:00",
+    "updated_at": "2022-11-12T14:43:41+01:00",
     "media_id": "11ixdzkarbwd",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Sinterklaas in privéjet gearriveerd in Hellevoetsluis",
     "subtitle": null,
     "published_at": "2022-11-12T13:37:22+01:00",
-    "updated_at": "2022-11-12T14:20:51+01:00",
+    "updated_at": "2022-11-12T14:38:06+01:00",
     "media_id": "e3gxehda08fx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6235679/zon-duizend-boetes-voor-overtreden-avondklok-per-ongeluk-geseponeerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235566,
-    "slug": "nibud-ziet-betalingsproblemen-overal-toenemen-inflatie-begint-tol-te-eisen",
-    "type": "article",
-    "title": "Nibud ziet betalingsproblemen overal toenemen: 'Inflatie begint tol te eisen'",
-    "subtitle": null,
-    "published_at": "2022-11-12T09:39:11+01:00",
-    "updated_at": "2022-11-12T13:25:03+01:00",
-    "media_id": "w3hx6dnaubhz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6235566/nibud-ziet-betalingsproblemen-overal-toenemen-inflatie-begint-tol-te-eisen.html",
     "open_new_window": false,
     "partner": null
   }
