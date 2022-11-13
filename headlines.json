@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235850,
+    "slug": "biden-blij-met-verkiezingsuitslag-senaat-geen-verrassing",
+    "type": "video",
+    "title": "Biden blij met verkiezingsuitslag Senaat: 'Geen verrassing'",
+    "subtitle": "Video",
+    "published_at": "2022-11-13T10:22:05+01:00",
+    "updated_at": "2022-11-13T10:22:06+01:00",
+    "media_id": "whkxethap3a7",
+    "duration": "0:20",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6235850/biden-blij-met-verkiezingsuitslag-senaat-geen-verrassing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235846,
-    "slug": "gewonde-door-brand-in-amsterdams-appartementencomplex-voor-jongeren",
+    "slug": "gewonde-bij-brand-in-amsterdams-appartementencomplex-voor-jongeren",
     "type": "article",
-    "title": "Gewonde door brand in Amsterdams appartementencomplex voor jongeren",
+    "title": "Gewonde bij brand in Amsterdams appartementencomplex voor jongeren",
     "subtitle": null,
     "published_at": "2022-11-13T10:14:21+01:00",
-    "updated_at": "2022-11-13T10:14:22+01:00",
+    "updated_at": "2022-11-13T10:28:29+01:00",
     "media_id": "0hixfvnas8ut",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6235846/gewonde-door-brand-in-amsterdams-appartementencomplex-voor-jongeren.html",
+    "url": "/binnenland/6235846/gewonde-bij-brand-in-amsterdams-appartementencomplex-voor-jongeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "K3-invaller Diede vond eerste show 'echt geweldig'",
     "subtitle": null,
     "published_at": "2022-11-13T09:42:37+01:00",
-    "updated_at": "2022-11-13T09:48:56+01:00",
+    "updated_at": "2022-11-13T10:22:17+01:00",
     "media_id": "40vxhlkarpv6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Democraten behouden meerderheid in Senaat VS, uitslag Huis nog niet bekend",
     "subtitle": null,
     "published_at": "2022-11-13T04:21:42+01:00",
-    "updated_at": "2022-11-13T08:15:31+01:00",
+    "updated_at": "2022-11-13T10:36:38+01:00",
     "media_id": "xnaxhvca8tw0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/geldzaken/6235814/zeker-1-miljard-dollar-aan-geld-van-klanten-verdwenen-van-cryptobeurs-ftx.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235813,
-    "slug": "the-clash-oprichter-keith-levene-65-overleden",
-    "type": "article",
-    "title": "The Clash-oprichter Keith Levene (65) overleden",
-    "subtitle": null,
-    "published_at": "2022-11-13T00:10:08+01:00",
-    "updated_at": "2022-11-13T07:57:22+01:00",
-    "media_id": "52pxug7abv4t",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6235813/the-clash-oprichter-keith-levene-65-overleden.html",
     "open_new_window": false,
     "partner": null
   }
