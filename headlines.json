@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235820,
+    "slug": "gekweekt-bloed-getest-op-mensen-zo-werkt-het",
+    "type": "video",
+    "title": "Gekweekt bloed getest op mensen: zo werkt het",
+    "subtitle": "Video",
+    "published_at": "2022-11-13T07:04:06+01:00",
+    "updated_at": "2022-11-13T07:04:07+01:00",
+    "media_id": "5d3x5nmah96w",
+    "duration": "1:49",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6235820/gekweekt-bloed-getest-op-mensen-zo-werkt-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235819,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -162,13 +185,13 @@
   },
   {
     "id": 6235816,
-    "slug": "amerikaanse-media-democraten-behouden-meerderheid-in-de-senaat",
+    "slug": "democraten-behouden-meerderheid-in-de-senaat-uitslag-huis-nog-niet-bekend",
     "type": "article",
-    "title": "Amerikaanse media: Democraten behouden meerderheid in de Senaat",
+    "title": "Democraten behouden meerderheid in de Senaat, uitslag Huis nog niet bekend",
     "subtitle": null,
     "published_at": "2022-11-13T04:21:42+01:00",
-    "updated_at": "2022-11-13T06:30:42+01:00",
-    "media_id": "lsrxl7eaty7k",
+    "updated_at": "2022-11-13T07:27:30+01:00",
+    "media_id": "uygx1pzaiz18",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6235816/amerikaanse-media-democraten-behouden-meerderheid-in-de-senaat.html",
+    "url": "/buitenland/6235816/democraten-behouden-meerderheid-in-de-senaat-uitslag-huis-nog-niet-bekend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6235804/twee-vliegtuigen-botsen-op-elkaar-tijdens-vliegshow-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235802,
-    "slug": "ondernemingsraad-tweede-kamer-verliest-vertrouwen-in-kamervoorzitter-bergkamp",
-    "type": "article",
-    "title": "Ondernemingsraad Tweede Kamer verliest vertrouwen in Kamervoorzitter Bergkamp",
-    "subtitle": null,
-    "published_at": "2022-11-12T22:06:08+01:00",
-    "updated_at": "2022-11-12T22:41:53+01:00",
-    "media_id": "e45xaldahaos",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6235802/ondernemingsraad-tweede-kamer-verliest-vertrouwen-in-kamervoorzitter-bergkamp.html",
     "open_new_window": false,
     "partner": null
   }
