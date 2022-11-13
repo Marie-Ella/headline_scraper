@@ -1,12 +1,58 @@
 [
   {
+    "id": 6235952,
+    "slug": "verstappen-botst-met-hamilton-bij-herstart-van-race-in-brazilie",
+    "type": "video",
+    "title": "Verstappen botst met Hamilton bij herstart van race in Brazilië",
+    "subtitle": "Video",
+    "published_at": "2022-11-13T19:41:54+01:00",
+    "updated_at": "2022-11-13T19:45:53+01:00",
+    "media_id": "1qrxeikabjvt",
+    "duration": "2:23",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6235952/verstappen-botst-met-hamilton-bij-herstart-van-race-in-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235951,
+    "slug": "union-berlin-gaat-opnieuw-hard-onderuit-en-verliest-tweede-plek-aan-freiburg",
+    "type": "article",
+    "title": "Union Berlin gaat opnieuw hard onderuit en verliest tweede plek aan Freiburg",
+    "subtitle": null,
+    "published_at": "2022-11-13T19:33:08+01:00",
+    "updated_at": "2022-11-13T19:44:15+01:00",
+    "media_id": "d29x1ikagmem",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235951/union-berlin-gaat-opnieuw-hard-onderuit-en-verliest-tweede-plek-aan-freiburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235950,
     "slug": "ten-hag-met-goed-gevoel-de-winterstop-in-united-wint-door-goal-in-blessuretijd",
     "type": "article",
     "title": "Ten Hag met goed gevoel de winterstop in: United wint door goal in blessuretijd",
     "subtitle": null,
     "published_at": "2022-11-13T19:28:09+01:00",
-    "updated_at": "2022-11-13T19:28:10+01:00",
+    "updated_at": "2022-11-13T19:37:48+01:00",
     "media_id": "khbxnipa86p6",
     "duration": null,
     "canonical_section": {
@@ -116,13 +162,13 @@
   },
   {
     "id": 6235944,
-    "slug": "verstappen-staat-voor-inhaalrace-in-brazilie-na-botsing-met-hamilton",
+    "slug": "verstappen-bezig-aan-inhaalrace-in-brazilie-na-botsing-met-hamilton",
     "type": "article",
-    "title": "Verstappen staat voor inhaalrace in Brazilië na botsing met Hamilton",
+    "title": "Verstappen bezig aan inhaalrace in Brazilië na botsing met Hamilton",
     "subtitle": "Liveblog F1",
     "published_at": "2022-11-13T18:20:00+01:00",
-    "updated_at": "2022-11-13T19:23:43+01:00",
-    "media_id": "wqaxoj5akjf9",
+    "updated_at": "2022-11-13T19:35:45+01:00",
+    "media_id": "1qrxeikabjvt",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -133,18 +179,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6235944/verstappen-staat-voor-inhaalrace-in-brazilie-na-botsing-met-hamilton.html",
+    "url": "/formule-1/6235944/verstappen-bezig-aan-inhaalrace-in-brazilie-na-botsing-met-hamilton.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6235942,
-    "slug": "oranje-mag-hopen-op-wonder-in-kraker-tegen-spanje",
+    "slug": "reacties-na-domper-oranje-door-gelijkspel-tegen-spanje",
     "type": "article",
-    "title": "Oranje mag hopen op wonder in kraker tegen Spanje",
+    "title": "Reacties na domper Oranje door gelijkspel tegen Spanje",
     "subtitle": "Liveblog EK handbal",
     "published_at": "2022-11-13T17:51:55+01:00",
-    "updated_at": "2022-11-13T19:15:00+01:00",
+    "updated_at": "2022-11-13T19:40:55+01:00",
     "media_id": "1vmxjgyascoz",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6235942/oranje-mag-hopen-op-wonder-in-kraker-tegen-spanje.html",
+    "url": "/sport-overig/6235942/reacties-na-domper-oranje-door-gelijkspel-tegen-spanje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6235907/van-anrooij-doorbreekt-zegereeks-van-empel-en-wint-vijfde-wereldbekercross.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235919,
-    "slug": "hond-met-liftangst-dwingt-jan-slagter-te-verhuizen-uit-net-gehuurd-appartement",
-    "type": "article",
-    "title": "Hond met liftangst dwingt Jan Slagter te verhuizen uit net gehuurd appartement",
-    "subtitle": null,
-    "published_at": "2022-11-13T15:38:29+01:00",
-    "updated_at": "2022-11-13T15:57:32+01:00",
-    "media_id": "x3bxfw8atdyk",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6235919/hond-met-liftangst-dwingt-jan-slagter-te-verhuizen-uit-net-gehuurd-appartement.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235915,
-    "slug": "zeker-6-doden-en-81-gewonden-bij-aanslag-in-drukke-winkelstraat-istanboel",
-    "type": "article",
-    "title": "Zeker 6 doden en 81 gewonden bij aanslag in drukke winkelstraat Istanboel",
-    "subtitle": null,
-    "published_at": "2022-11-13T15:17:53+01:00",
-    "updated_at": "2022-11-13T19:07:21+01:00",
-    "media_id": "nbjxz26ai4cd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6235915/zeker-6-doden-en-81-gewonden-bij-aanslag-in-drukke-winkelstraat-istanboel.html",
     "open_new_window": false,
     "partner": null
   }
