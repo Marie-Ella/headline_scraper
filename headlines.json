@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236404,
+    "slug": "omstander-filmt-krater-van-russische-raketinslag-in-polen",
+    "type": "video",
+    "title": "Omstander filmt krater van Russische raketinslag in Polen",
+    "subtitle": "Video",
+    "published_at": "2022-11-15T23:01:34+01:00",
+    "updated_at": "2022-11-15T23:01:35+01:00",
+    "media_id": "wdixm80akrwk",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6236404/omstander-filmt-krater-van-russische-raketinslag-in-polen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236403,
     "slug": "hoekstra-bezoekt-zelensky-in-kyiv-gemotiveerd-om-te-helpen",
     "type": "video",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6236401,
-    "slug": "oekraiense-president-niet-verrast-door-raketten-in-polen-al-gewaarschuwd",
+    "slug": "spoedzitting-navo-na-raketinslag-polen-zelensky-niet-verrast-door-escalatie",
     "type": "article",
-    "title": "Oekraïense president niet verrast door raketten in Polen: 'Al gewaarschuwd'",
+    "title": "Spoedzitting NAVO na raketinslag Polen, Zelensky niet verrast door 'escalatie'",
     "subtitle": null,
     "published_at": "2022-11-15T21:54:30+01:00",
-    "updated_at": "2022-11-15T22:07:39+01:00",
-    "media_id": "gb3x42tan6gp",
+    "updated_at": "2022-11-15T23:19:11+01:00",
+    "media_id": "xixx5m0a6gxp",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6236401/oekraiense-president-niet-verrast-door-raketten-in-polen-al-gewaarschuwd.html",
+    "url": "/spanningen-oekraine/6236401/spoedzitting-navo-na-raketinslag-polen-zelensky-niet-verrast-door-escalatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Van Gerwen poulewinnaar ondanks verlies, Wattimena als vijfde Nederlander door",
     "subtitle": null,
     "published_at": "2022-11-15T20:45:04+01:00",
-    "updated_at": "2022-11-15T22:44:34+01:00",
+    "updated_at": "2022-11-15T23:05:27+01:00",
     "media_id": "o5txsvwanlmk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6236357/apple-brengt-satelliet-noodgevallendienst-in-december-naar-europa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236310,
-    "slug": "wie-betaalt-de-rekening-voor-het-energieprijsplafond",
-    "type": "audio",
-    "title": "Wie betaalt de rekening voor het energieprijsplafond?",
-    "subtitle": "Podcast",
-    "published_at": "2022-11-15T17:25:29+01:00",
-    "updated_at": "2022-11-15T17:25:29+01:00",
-    "media_id": "h2fxvtxan65m",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6236310/wie-betaalt-de-rekening-voor-het-energieprijsplafond.html",
     "open_new_window": false,
     "partner": null
   }
