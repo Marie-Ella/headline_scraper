@@ -1,12 +1,58 @@
 [
   {
+    "id": 6236272,
+    "slug": "maroon-5-gaat-touren-en-treedt-in-juni-op-in-goffertpark-nijmegen",
+    "type": "article",
+    "title": "Maroon 5 gaat touren en treedt in juni op in Goffertpark Nijmegen",
+    "subtitle": null,
+    "published_at": "2022-11-15T12:07:03+01:00",
+    "updated_at": "2022-11-15T12:07:04+01:00",
+    "media_id": "t6ixkttaj0cm",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6236272/maroon-5-gaat-touren-en-treedt-in-juni-op-in-goffertpark-nijmegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236267,
+    "slug": "oranje-stapt-in-vliegtuig-naar-qatar-voor-wk",
+    "type": "video",
+    "title": "Oranje stapt in vliegtuig naar Qatar voor WK",
+    "subtitle": "Video",
+    "published_at": "2022-11-15T11:51:08+01:00",
+    "updated_at": "2022-11-15T11:51:16+01:00",
+    "media_id": "vgfxxxxa0to8",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6236267/oranje-stapt-in-vliegtuig-naar-qatar-voor-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236262,
     "slug": "nederlands-elftal-stapt-op-vliegtuig-naar-qatar",
     "type": "article",
     "title": "Nederlands elftal stapt op vliegtuig naar Qatar",
     "subtitle": "In beeld",
     "published_at": "2022-11-15T11:43:41+01:00",
-    "updated_at": "2022-11-15T11:43:42+01:00",
+    "updated_at": "2022-11-15T11:54:45+01:00",
     "media_id": "1plx4cban1so",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Bayern München met meeste spelers naar Qatar, Van Gaal oudste WK-bondscoach",
     "subtitle": null,
     "published_at": "2022-11-15T11:36:56+01:00",
-    "updated_at": "2022-11-15T11:39:26+01:00",
+    "updated_at": "2022-11-15T12:04:05+01:00",
     "media_id": "5evxki3ai6hm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6236207/fifa-voorzitter-infantino-vraagt-om-wapenstilstand-in-oekraine-tijdens-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236202,
-    "slug": "nederlandse-game-horizon-forbidden-west-genomineerd-voor-game-awards",
-    "type": "article",
-    "title": "Nederlandse game Horizon Forbidden West genomineerd voor Game Awards",
-    "subtitle": null,
-    "published_at": "2022-11-15T08:40:35+01:00",
-    "updated_at": "2022-11-15T11:30:31+01:00",
-    "media_id": "dflxcyeahfqr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6236202/nederlandse-game-horizon-forbidden-west-genomineerd-voor-game-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236199,
-    "slug": "marieke-elsinga-is-bevallen-van-een-zoon",
-    "type": "article",
-    "title": "Marieke Elsinga is bevallen van een zoon",
-    "subtitle": null,
-    "published_at": "2022-11-15T08:23:15+01:00",
-    "updated_at": "2022-11-15T10:00:50+01:00",
-    "media_id": "7i5xawmawae7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6236199/marieke-elsinga-is-bevallen-van-een-zoon.html",
     "open_new_window": false,
     "partner": null
   }
