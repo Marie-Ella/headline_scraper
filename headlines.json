@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236184,
+    "slug": "weerbericht-iets-warmere-maar-ook-nattere-dag-voor-de-boeg",
+    "type": "article",
+    "title": "Weerbericht: Iets warmere maar ook nattere dag voor de boeg",
+    "subtitle": null,
+    "published_at": "2022-11-15T05:36:05+01:00",
+    "updated_at": "2022-11-15T05:36:06+01:00",
+    "media_id": "3idxz9ja1odo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6236184/weerbericht-iets-warmere-maar-ook-nattere-dag-voor-de-boeg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236183,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6236170/verjaardagslied-en-kanonschoten-voor-jarige-koning-charles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236169,
-    "slug": "dam-moet-recordhoeveelheid-water-doorlaten-in-australie",
-    "type": "video",
-    "title": "Dam moet recordhoeveelheid water doorlaten in Australië",
-    "subtitle": "Video",
-    "published_at": "2022-11-14T21:57:48+01:00",
-    "updated_at": "2022-11-14T21:59:38+01:00",
-    "media_id": "cp4xjboafl1p",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6236169/dam-moet-recordhoeveelheid-water-doorlaten-in-australie.html",
     "open_new_window": false,
     "partner": null
   }
