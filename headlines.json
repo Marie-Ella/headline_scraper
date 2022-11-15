@@ -1,12 +1,35 @@
 [
   {
+    "id": 6236403,
+    "slug": "hoekstra-bezoekt-zelensky-in-kyiv-gemotiveerd-om-te-helpen",
+    "type": "video",
+    "title": "Hoekstra bezoekt Zelensky in Kyiv: 'Gemotiveerd om te helpen'",
+    "subtitle": "Video",
+    "published_at": "2022-11-15T22:24:11+01:00",
+    "updated_at": "2022-11-15T22:24:12+01:00",
+    "media_id": "ftdxitlag6yt",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6236403/hoekstra-bezoekt-zelensky-in-kyiv-gemotiveerd-om-te-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236402,
     "slug": "verheydt-en-kishna-willen-weg-bij-ado-wij-herkennen-ons-cluppie-niet-terug",
     "type": "article",
     "title": "Verheydt en Kishna willen weg bij ADO: 'Wij herkennen ons cluppie niet terug'",
     "subtitle": null,
     "published_at": "2022-11-15T22:14:34+01:00",
-    "updated_at": "2022-11-15T22:19:31+01:00",
+    "updated_at": "2022-11-15T22:31:32+01:00",
     "media_id": "do5xwmmamph4",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Nederlanders heersen in Wolverhampton: ook Van Gerwen en Wattimena door",
     "subtitle": null,
     "published_at": "2022-11-15T20:45:04+01:00",
-    "updated_at": "2022-11-15T22:10:31+01:00",
+    "updated_at": "2022-11-15T22:24:25+01:00",
     "media_id": "o5txsvwanlmk",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Reacties na 2-0-overwinning Oranjevrouwen op Denemarken",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-11-15T19:34:32+01:00",
-    "updated_at": "2022-11-15T21:50:41+01:00",
+    "updated_at": "2022-11-15T22:28:43+01:00",
     "media_id": "0x3xuhlavwso",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6236310/wie-betaalt-de-rekening-voor-het-energieprijsplafond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236323,
-    "slug": "acht-miljard-mensen-op-aarde-wanneer-piekt-de-wereldbevolking",
-    "type": "video",
-    "title": "Acht miljard mensen op aarde: wanneer piekt de wereldbevolking?",
-    "subtitle": "Video",
-    "published_at": "2022-11-15T17:24:31+01:00",
-    "updated_at": "2022-11-15T17:38:45+01:00",
-    "media_id": "jk0xguaamast",
-    "duration": "1:44",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6236323/acht-miljard-mensen-op-aarde-wanneer-piekt-de-wereldbevolking.html",
     "open_new_window": false,
     "partner": null
   }
