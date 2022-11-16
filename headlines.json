@@ -1,5 +1,51 @@
 [
   {
+    "id": 6236563,
+    "slug": "bekijk-beelden-van-de-eerste-training-van-het-nederlands-elftal-in-qatar",
+    "type": "video",
+    "title": "Bekijk beelden van de eerste training van het Nederlands elftal in Qatar",
+    "subtitle": "Video",
+    "published_at": "2022-11-16T15:25:11+01:00",
+    "updated_at": "2022-11-16T15:27:45+01:00",
+    "media_id": "1r9xycsanq41",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236563/bekijk-beelden-van-de-eerste-training-van-het-nederlands-elftal-in-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236562,
+    "slug": "djokovic-overklast-rublev-en-voegt-zich-bij-laatste-vier-op-atp-finals",
+    "type": "article",
+    "title": "Djokovic overklast Rublev en voegt zich bij laatste vier op ATP Finals",
+    "subtitle": null,
+    "published_at": "2022-11-16T15:24:07+01:00",
+    "updated_at": "2022-11-16T15:32:43+01:00",
+    "media_id": "y0ix62saa1f0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6236562/djokovic-overklast-rublev-en-voegt-zich-bij-laatste-vier-op-atp-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236549,
     "slug": "franse-doelman-lloris-weigert-onelove-aanvoerdersband-te-dragen-op-wk",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6236411/spitse-geniet-als-centrumverdediger-bij-oranje-jonker-daagt-me-steeds-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236499,
-    "slug": "australische-topbasketballer-komt-uit-de-kast-in-emotionele-video",
-    "type": "video",
-    "title": "Australische topbasketballer komt uit de kast in emotionele video",
-    "subtitle": "Video",
-    "published_at": "2022-11-16T12:06:24+01:00",
-    "updated_at": "2022-11-16T12:06:25+01:00",
-    "media_id": "a5nxj2ea44w8",
-    "duration": "1:23",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6236499/australische-topbasketballer-komt-uit-de-kast-in-emotionele-video.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236492,
-    "slug": "apple-wil-vanaf-2024-in-vs-geproduceerde-chips-gaan-gebruiken",
-    "type": "article",
-    "title": "Apple wil vanaf 2024 in VS geproduceerde chips gaan gebruiken",
-    "subtitle": null,
-    "published_at": "2022-11-16T11:53:38+01:00",
-    "updated_at": "2022-11-16T12:03:34+01:00",
-    "media_id": "rqpxex1anmmd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6236492/apple-wil-vanaf-2024-in-vs-geproduceerde-chips-gaan-gebruiken.html",
     "open_new_window": false,
     "partner": null
   }
