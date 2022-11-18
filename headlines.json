@@ -1,5 +1,74 @@
 [
   {
+    "id": 6237042,
+    "slug": "eurocommissaris-wil-dat-twitter-meer-moderatoren-aanstelt",
+    "type": "article",
+    "title": "Eurocommissaris wil dat Twitter meer moderatoren aanstelt",
+    "subtitle": null,
+    "published_at": "2022-11-18T14:20:44+01:00",
+    "updated_at": "2022-11-18T14:20:44+01:00",
+    "media_id": "l3axxwva25us",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6237042/eurocommissaris-wil-dat-twitter-meer-moderatoren-aanstelt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237038,
+    "slug": "politie-schiet-rubberen-kogels-op-demonstranten-in-bangkok",
+    "type": "video",
+    "title": "Politie schiet rubberen kogels op demonstranten in Bangkok",
+    "subtitle": "Video",
+    "published_at": "2022-11-18T14:03:06+01:00",
+    "updated_at": "2022-11-18T14:03:07+01:00",
+    "media_id": "s41xqm6ayuno",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6237038/politie-schiet-rubberen-kogels-op-demonstranten-in-bangkok.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237032,
+    "slug": "koolhof-en-dubbelpartner-in-wachtkamer-na-nieuwe-zege-op-atp-finals",
+    "type": "article",
+    "title": "Koolhof en dubbelpartner in wachtkamer na nieuwe zege op ATP Finals",
+    "subtitle": null,
+    "published_at": "2022-11-18T13:46:55+01:00",
+    "updated_at": "2022-11-18T13:46:56+01:00",
+    "media_id": "y5wxh0qam4me",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6237032/koolhof-en-dubbelpartner-in-wachtkamer-na-nieuwe-zege-op-atp-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237034,
     "slug": "k3-zangeres-hanne-verbruggen-bevallen-van-eerste-zoon",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Formule 1 lanceert speciale raceklasse om vrouwen meer kansen te geven",
     "subtitle": null,
     "published_at": "2022-11-18T13:42:06+01:00",
-    "updated_at": "2022-11-18T13:42:08+01:00",
+    "updated_at": "2022-11-18T13:50:31+01:00",
     "media_id": "4fqxncyaokvt",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Energie-update: Zo gaat het met de gasprijs",
     "subtitle": null,
     "published_at": "2022-11-18T11:56:34+01:00",
-    "updated_at": "2022-11-18T11:56:35+01:00",
+    "updated_at": "2022-11-18T13:56:12+01:00",
     "media_id": "68sx8wvaq7ke",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6236995/topvrouw-vlaams-agentschap-stapt-op-om-wantoestanden-kinderopvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236992,
-    "slug": "qatar-verbiedt-vlak-voor-wk-start-alsnog-de-verkoop-van-alcohol-in-stadions",
-    "type": "article",
-    "title": "Qatar verbiedt vlak voor WK-start alsnog de verkoop van alcohol in stadions",
-    "subtitle": null,
-    "published_at": "2022-11-18T11:43:52+01:00",
-    "updated_at": "2022-11-18T13:04:42+01:00",
-    "media_id": "7kbx9l1acaxh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6236992/qatar-verbiedt-vlak-voor-wk-start-alsnog-de-verkoop-van-alcohol-in-stadions.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236987,
-    "slug": "makkelie-krijgt-in-aanloop-naar-wk-advies-van-kuipers-hij-is-een-goede-coach",
-    "type": "article",
-    "title": "Makkelie krijgt in aanloop naar WK advies van Kuipers: 'Hij is een goede coach'",
-    "subtitle": null,
-    "published_at": "2022-11-18T11:43:20+01:00",
-    "updated_at": "2022-11-18T11:43:21+01:00",
-    "media_id": "5chxyuuar7mw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6236987/makkelie-krijgt-in-aanloop-naar-wk-advies-van-kuipers-hij-is-een-goede-coach.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236990,
-    "slug": "dieet-met-brokjes-verkleint-de-milieu-impact-van-huisdieren-aanzienlijk",
-    "type": "article",
-    "title": "Dieet met brokjes verkleint de milieu-impact van huisdieren aanzienlijk",
-    "subtitle": null,
-    "published_at": "2022-11-18T11:33:57+01:00",
-    "updated_at": "2022-11-18T12:22:31+01:00",
-    "media_id": "95hx848ajlwm",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6236990/dieet-met-brokjes-verkleint-de-milieu-impact-van-huisdieren-aanzienlijk.html",
     "open_new_window": false,
     "partner": null
   }
