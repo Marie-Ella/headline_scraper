@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237352,
+    "slug": "verstappen-sluit-seizoen-in-stijl-af-met-onbedreigde-zege-in-abu-dhabi",
+    "type": "article",
+    "title": "Verstappen sluit seizoen in stijl af met onbedreigde zege in Abu Dhabi",
+    "subtitle": null,
+    "published_at": "2022-11-20T15:32:40+01:00",
+    "updated_at": "2022-11-20T15:48:51+01:00",
+    "media_id": "2qixqy4a2o60",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Abu Dhabi",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6237352/verstappen-sluit-seizoen-in-stijl-af-met-onbedreigde-zege-in-abu-dhabi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237356,
     "slug": "sprookje-van-barneveld-voorbij-door-nederlaag-tegen-smith-in-halve-finales",
     "type": "article",
     "title": "Sprookje Van Barneveld voorbij door nederlaag tegen Smith in halve finales",
     "subtitle": null,
     "published_at": "2022-11-20T15:25:49+01:00",
-    "updated_at": "2022-11-20T15:26:01+01:00",
+    "updated_at": "2022-11-20T15:46:59+01:00",
     "media_id": "bvxxxgra8v6w",
     "duration": null,
     "canonical_section": {
@@ -47,13 +70,13 @@
   },
   {
     "id": 6237350,
-    "slug": "kim-boekt-tweede-wereldbekerzege-op-500-meter-leerdam-weer-op-podium",
+    "slug": "schouten-wint-met-baanrecord-3000-meter-in-thialf-leerdam-derde-op-500-meter",
     "type": "article",
-    "title": "Kim boekt tweede wereldbekerzege op 500 meter, Leerdam weer op podium",
+    "title": "Schouten wint met baanrecord 3.000 meter in Thialf, Leerdam derde op 500 meter",
     "subtitle": null,
     "published_at": "2022-11-20T14:43:57+01:00",
-    "updated_at": "2022-11-20T15:06:16+01:00",
-    "media_id": "a26x33va2r3q",
+    "updated_at": "2022-11-20T15:48:27+01:00",
+    "media_id": "obdxfuramf44",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -64,7 +87,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6237350/kim-boekt-tweede-wereldbekerzege-op-500-meter-leerdam-weer-op-podium.html",
+    "url": "/schaatsen/6237350/schouten-wint-met-baanrecord-3000-meter-in-thialf-leerdam-derde-op-500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,13 +208,13 @@
   },
   {
     "id": 6237341,
-    "slug": "verstappen-leidt-perez-jaagt-op-tweede-plek-in-wk-stand",
+    "slug": "reacties-na-overtuigende-zege-verstappen-in-abu-dhabi",
     "type": "article",
-    "title": "Verstappen leidt, Pérez jaagt op tweede plek in WK-stand",
+    "title": "Reacties na overtuigende zege Verstappen in Abu Dhabi",
     "subtitle": "Liveblog F1",
     "published_at": "2022-11-20T13:17:49+01:00",
-    "updated_at": "2022-11-20T15:00:52+01:00",
-    "media_id": "2qixqy4a2o60",
+    "updated_at": "2022-11-20T15:49:10+01:00",
+    "media_id": "dn6xpa3aolce",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6237341/verstappen-leidt-perez-jaagt-op-tweede-plek-in-wk-stand.html",
+    "url": "/formule-1/6237341/reacties-na-overtuigende-zege-verstappen-in-abu-dhabi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6237293/gp-abu-dhabi-verstappen-duidelijk-favoriet-in-slotrace.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237312,
-    "slug": "politie-denkt-dat-overlijden-vrouw-op-festival-in-verband-staat-met-drugsgebruik",
-    "type": "article",
-    "title": "Politie denkt dat overlijden vrouw op festival in verband staat met drugsgebruik",
-    "subtitle": null,
-    "published_at": "2022-11-20T10:19:09+01:00",
-    "updated_at": "2022-11-20T10:21:53+01:00",
-    "media_id": "8rjxf5qayc1b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237312/politie-denkt-dat-overlijden-vrouw-op-festival-in-verband-staat-met-drugsgebruik.html",
     "open_new_window": false,
     "partner": null
   }
