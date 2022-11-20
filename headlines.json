@@ -1,12 +1,81 @@
 [
   {
+    "id": 6237297,
+    "slug": "ggds-gaan-weer-de-wijken-in-nu-de-opkomst-voor-herhaalprik-daalt",
+    "type": "article",
+    "title": "GGD's gaan weer de wijken in nu de opkomst voor herhaalprik daalt",
+    "subtitle": null,
+    "published_at": "2022-11-20T09:26:24+01:00",
+    "updated_at": "2022-11-20T09:26:25+01:00",
+    "media_id": "fq6xpjialktl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6237297/ggds-gaan-weer-de-wijken-in-nu-de-opkomst-voor-herhaalprik-daalt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237301,
+    "slug": "van-gerwen-had-al-slecht-voorgevoel-dit-was-een-onnodige-nederlaag",
+    "type": "article",
+    "title": "Van Gerwen had al slecht voorgevoel: 'Dit was een onnodige nederlaag'",
+    "subtitle": null,
+    "published_at": "2022-11-20T09:25:44+01:00",
+    "updated_at": "2022-11-20T09:25:45+01:00",
+    "media_id": "u92xuoeaz7yp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6237301/van-gerwen-had-al-slecht-voorgevoel-dit-was-een-onnodige-nederlaag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237295,
+    "slug": "benzema-reageert-op-mislopen-wk-door-blessure-moet-aan-het-team-denken",
+    "type": "article",
+    "title": "Benzema reageert op mislopen WK door blessure: 'Moet aan het team denken'",
+    "subtitle": null,
+    "published_at": "2022-11-20T08:51:29+01:00",
+    "updated_at": "2022-11-20T09:09:01+01:00",
+    "media_id": "0hlx2r4azxvk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237295/benzema-reageert-op-mislopen-wk-door-blessure-moet-aan-het-team-denken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237204,
     "slug": "we-volgen-de-regels-in-qatar-maar-dit-was-intimidatie",
     "type": "article",
     "title": "We volgen de regels in Qatar, maar dit was intimidatie",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2022-11-20T08:10:08+01:00",
-    "updated_at": "2022-11-20T08:27:09+01:00",
+    "updated_at": "2022-11-20T09:12:18+01:00",
     "media_id": "064xwsaanmpn",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Strooiwagens op pad vanwege eerste nacht met matige vorst",
     "subtitle": "Video",
     "published_at": "2022-11-20T08:03:33+01:00",
-    "updated_at": "2022-11-20T08:03:33+01:00",
+    "updated_at": "2022-11-20T09:12:43+01:00",
     "media_id": "w0xxin4a7xaz",
     "duration": "0:30",
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6237289,
-    "slug": "vs-rusland-gaat-met-iraanse-hulp-zelf-aanvalsdrones-ontwikkelen-voor-oekraine",
+    "slug": "vs-rusland-ontwikkelt-met-iraanse-hulp-zelf-aanvalsdrones-voor-oorlog-oekraine",
     "type": "article",
-    "title": "VS: Rusland gaat met Iraanse hulp zelf aanvalsdrones ontwikkelen voor Oekraïne",
+    "title": "VS: Rusland ontwikkelt met Iraanse hulp zelf aanvalsdrones voor oorlog Oekraïne",
     "subtitle": null,
     "published_at": "2022-11-20T07:47:45+01:00",
-    "updated_at": "2022-11-20T07:47:46+01:00",
+    "updated_at": "2022-11-20T09:16:47+01:00",
     "media_id": "exlx6f6a1gad",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6237289/vs-rusland-gaat-met-iraanse-hulp-zelf-aanvalsdrones-ontwikkelen-voor-oekraine.html",
+    "url": "/spanningen-oekraine/6237289/vs-rusland-ontwikkelt-met-iraanse-hulp-zelf-aanvalsdrones-voor-oorlog-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Nu ook officieel: eerste matige vorst van het najaar gemeten in De Bilt",
     "subtitle": null,
     "published_at": "2022-11-20T07:37:28+01:00",
-    "updated_at": "2022-11-20T07:37:29+01:00",
+    "updated_at": "2022-11-20T09:21:39+01:00",
     "media_id": "0wax95tavmf8",
     "duration": null,
     "canonical_section": {
@@ -213,8 +282,8 @@
     "title": "Historische deal over klimaatschadefonds, maar concrete afspraken blijven uit",
     "subtitle": null,
     "published_at": "2022-11-20T06:06:29+01:00",
-    "updated_at": "2022-11-20T08:09:50+01:00",
-    "media_id": "06cxv8ya9ps9",
+    "updated_at": "2022-11-20T09:22:18+01:00",
+    "media_id": "n7pxcc9apo00",
     "duration": null,
     "canonical_section": {
       "id": 1772754,
@@ -346,12 +415,12 @@
   },
   {
     "id": 6237267,
-    "slug": "waarom-we-niet-exact-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions",
+    "slug": "waarom-we-niet-exact-weten-of-er-6500-doden-vielen-bij-bouw-wk-stadions",
     "type": "video",
-    "title": "Waarom we niet exact weten hoeveel doden er vielen bij bouw WK-stadions",
+    "title": "Waarom we niet exact weten of er 6.500 doden vielen bij bouw WK-stadions",
     "subtitle": "Video",
     "published_at": "2022-11-20T04:57:01+01:00",
-    "updated_at": "2022-11-20T08:28:06+01:00",
+    "updated_at": "2022-11-20T09:15:08+01:00",
     "media_id": "8oxxayfa81fl",
     "duration": "2:27",
     "canonical_section": {
@@ -363,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6237267/waarom-we-niet-exact-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions.html",
+    "url": "/algemeen/6237267/waarom-we-niet-exact-weten-of-er-6500-doden-vielen-bij-bouw-wk-stadions.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/sport/6237281/nba-ster-kyrie-irving-biedt-excuses-aan-voor-promoten-antisemitische-video.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237278,
-    "slug": "18-jarige-vrouw-overleden-op-festivalterrein-in-noord-brabantse-haaren",
-    "type": "article",
-    "title": "18-jarige vrouw overleden op festivalterrein in Noord-Brabantse Haaren",
-    "subtitle": null,
-    "published_at": "2022-11-20T02:43:48+01:00",
-    "updated_at": "2022-11-20T02:43:49+01:00",
-    "media_id": "t6rxitya7628",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237278/18-jarige-vrouw-overleden-op-festivalterrein-in-noord-brabantse-haaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237280,
-    "slug": "elon-musk-kondigt-aan-dat-trump-mag-terugkeren-op-twitter",
-    "type": "article",
-    "title": "Elon Musk kondigt aan dat Trump mag terugkeren op Twitter",
-    "subtitle": null,
-    "published_at": "2022-11-20T02:36:56+01:00",
-    "updated_at": "2022-11-20T02:36:57+01:00",
-    "media_id": "ygbx11iaqwfr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6237280/elon-musk-kondigt-aan-dat-trump-mag-terugkeren-op-twitter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237279,
-    "slug": "turkije-bombardeert-dorpen-in-syrie-ter-vergelding-van-aanslag-in-istanboel",
-    "type": "article",
-    "title": "Turkije bombardeert dorpen in Syrië 'ter vergelding' van aanslag in Istanboel",
-    "subtitle": null,
-    "published_at": "2022-11-20T02:16:14+01:00",
-    "updated_at": "2022-11-20T02:16:15+01:00",
-    "media_id": "98zxxttak62k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237279/turkije-bombardeert-dorpen-in-syrie-ter-vergelding-van-aanslag-in-istanboel.html",
     "open_new_window": false,
     "partner": null
   }
