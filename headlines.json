@@ -1,5 +1,51 @@
 [
   {
+    "id": 6237581,
+    "slug": "van-gaal-vond-oranje-niet-goed-spelen-het-kan-alleen-maar-beter-gaan",
+    "type": "article",
+    "title": "Van Gaal vond Oranje niet goed spelen: 'Het kan alleen maar beter gaan'",
+    "subtitle": null,
+    "published_at": "2022-11-21T20:10:24+01:00",
+    "updated_at": "2022-11-21T20:10:25+01:00",
+    "media_id": "e0nxi4waqnkh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237581/van-gaal-vond-oranje-niet-goed-spelen-het-kan-alleen-maar-beter-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237579,
+    "slug": "schutter-in-amerikaanse-gayclub-aangeklaagd-voor-vijfvoudige-moord",
+    "type": "article",
+    "title": "Schutter in Amerikaanse gayclub aangeklaagd voor vijfvoudige moord",
+    "subtitle": null,
+    "published_at": "2022-11-21T19:54:54+01:00",
+    "updated_at": "2022-11-21T20:07:57+01:00",
+    "media_id": "wr0x0uza25vz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6237579/schutter-in-amerikaanse-gayclub-aangeklaagd-voor-vijfvoudige-moord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237578,
     "slug": "uitblinker-noppert-blij-dat-hij-direct-van-waarde-kan-zijn-bij-debuut-in-oranje",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Van Dijk en scorende Gakpo geloven in Oranje: 'Het kan alleen maar beter'",
     "subtitle": null,
     "published_at": "2022-11-21T19:12:32+01:00",
-    "updated_at": "2022-11-21T19:45:06+01:00",
+    "updated_at": "2022-11-21T19:55:31+01:00",
     "media_id": "gm4xp1nai1k4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "FIFA roert zich opnieuw: België moet uitshirt aanpassen vanwege LOVE-sticker",
     "subtitle": null,
     "published_at": "2022-11-21T18:23:39+01:00",
-    "updated_at": "2022-11-21T19:04:13+01:00",
+    "updated_at": "2022-11-21T20:12:44+01:00",
     "media_id": "s5nxtshaulr6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Van Dijk over kritiek op niet dragen OneLove-band: 'Ik zit zo niet in elkaar'",
     "subtitle": null,
     "published_at": "2022-11-21T16:48:52+01:00",
-    "updated_at": "2022-11-21T19:50:57+01:00",
+    "updated_at": "2022-11-21T20:16:55+01:00",
     "media_id": "oaextilat9r1",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237539/aantal-doden-door-aardbeving-op-java-loopt-op-tot-zeker-162.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237543,
-    "slug": "neushoorn-onderbreekt-voetbalwedstrijd-in-india",
-    "type": "video",
-    "title": "Neushoorn onderbreekt voetbalwedstrijd in India",
-    "subtitle": "Video",
-    "published_at": "2022-11-21T16:47:11+01:00",
-    "updated_at": "2022-11-21T16:50:03+01:00",
-    "media_id": "pcyxdzjaz1e2",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6237543/neushoorn-onderbreekt-voetbalwedstrijd-in-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237541,
-    "slug": "zo-werkt-een-warmtepomp",
-    "type": "video",
-    "title": "Zo werkt een warmtepomp",
-    "subtitle": "Video",
-    "published_at": "2022-11-21T16:45:47+01:00",
-    "updated_at": "2022-11-21T16:46:09+01:00",
-    "media_id": "s1yxaoaahahi",
-    "duration": "1:40",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6237541/zo-werkt-een-warmtepomp.html",
     "open_new_window": false,
     "partner": null
   }
