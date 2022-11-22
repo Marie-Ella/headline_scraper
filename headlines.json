@@ -1,5 +1,74 @@
 [
   {
+    "id": 6237695,
+    "slug": "ns-personeel-jarenlang-onvoldoende-beschermd-tegen-gevaarlijke-stof-chroom-6",
+    "type": "article",
+    "title": "NS-personeel jarenlang onvoldoende beschermd tegen gevaarlijke stof chroom-6",
+    "subtitle": null,
+    "published_at": "2022-11-22T12:08:05+01:00",
+    "updated_at": "2022-11-22T12:10:22+01:00",
+    "media_id": "cz9xseial2k8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6237695/ns-personeel-jarenlang-onvoldoende-beschermd-tegen-gevaarlijke-stof-chroom-6.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237676,
+    "slug": "ondernemingsraad-bnnvara-faalde-in-begeleiding-van-van-nieuwkerk",
+    "type": "article",
+    "title": "Ondernemingsraad: 'BNNVARA faalde in begeleiding van Van Nieuwkerk'",
+    "subtitle": null,
+    "published_at": "2022-11-22T12:02:59+01:00",
+    "updated_at": "2022-11-22T12:14:34+01:00",
+    "media_id": "utqxftzahx9c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237676/ondernemingsraad-bnnvara-faalde-in-begeleiding-van-van-nieuwkerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237690,
+    "slug": "conservenfabrikant-hak-start-met-verkoop-van-verse-groenten",
+    "type": "article",
+    "title": "Conservenfabrikant HAK start met verkoop van verse groenten",
+    "subtitle": null,
+    "published_at": "2022-11-22T11:54:28+01:00",
+    "updated_at": "2022-11-22T12:02:13+01:00",
+    "media_id": "umgxeboaa3rl",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6237690/conservenfabrikant-hak-start-met-verkoop-van-verse-groenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237672,
     "slug": "ap-ontslaat-journalist-na-onjuiste-berichtgeving-over-raketten-die-polen-troffen",
     "type": "article",
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6237619/astronomen-maken-een-soort-google-maps-voor-een-deel-van-de-ruimte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237617,
-    "slug": "vlammen-slaan-uit-chemische-fabriek-in-china",
-    "type": "video",
-    "title": "Vlammen slaan uit chemische fabriek in China",
-    "subtitle": "Video",
-    "published_at": "2022-11-22T07:53:47+01:00",
-    "updated_at": "2022-11-22T07:53:48+01:00",
-    "media_id": "nn7xocza88nh",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237617/vlammen-slaan-uit-chemische-fabriek-in-china.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237616,
-    "slug": "argentinie-leidt-ondanks-drie-afgekeurde-goals-tegen-saoedis",
-    "type": "article",
-    "title": "Argentinië leidt ondanks drie afgekeurde goals tegen Saoedi's",
-    "subtitle": "Liveblog WK",
-    "published_at": "2022-11-22T07:48:37+01:00",
-    "updated_at": "2022-11-22T11:44:31+01:00",
-    "media_id": "k6sxgbxarxyd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237616/argentinie-leidt-ondanks-drie-afgekeurde-goals-tegen-saoedis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237615,
-    "slug": "bondscoach-senegal-voelt-gemis-van-mane-in-verloren-duel-met-oranje",
-    "type": "article",
-    "title": "Bondscoach Senegal voelt gemis van Mané in verloren duel met Oranje",
-    "subtitle": null,
-    "published_at": "2022-11-22T07:18:38+01:00",
-    "updated_at": "2022-11-22T07:54:33+01:00",
-    "media_id": "pcexih0agiux",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237615/bondscoach-senegal-voelt-gemis-van-mane-in-verloren-duel-met-oranje.html",
     "open_new_window": false,
     "partner": null
   }
