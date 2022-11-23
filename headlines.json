@@ -1,12 +1,81 @@
 [
   {
+    "id": 6237856,
+    "slug": "james-webb-telescoop-ontdekt-chemische-reacties-in-dampkring-exoplaneet",
+    "type": "article",
+    "title": "James Webb-telescoop ontdekt chemische reacties in dampkring exoplaneet",
+    "subtitle": null,
+    "published_at": "2022-11-23T08:15:23+01:00",
+    "updated_at": "2022-11-23T08:15:24+01:00",
+    "media_id": "x21xfk8aqnyj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6237856/james-webb-telescoop-ontdekt-chemische-reacties-in-dampkring-exoplaneet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237860,
+    "slug": "weer-pech-voor-fransen-alle-ogen-op-marokko-kroatie",
+    "type": "article",
+    "title": "Weer pech voor Fransen, alle ogen op Marokko-Kroatië",
+    "subtitle": "Liveblog WK",
+    "published_at": "2022-11-23T08:13:28+01:00",
+    "updated_at": "2022-11-23T08:15:53+01:00",
+    "media_id": "g90x8v8a843m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237860/weer-pech-voor-fransen-alle-ogen-op-marokko-kroatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237857,
+    "slug": "a27-afgesloten-na-ongeluk-met-meerdere-vrachtwagens",
+    "type": "video",
+    "title": "A27 afgesloten na ongeluk met meerdere vrachtwagens",
+    "subtitle": "Video",
+    "published_at": "2022-11-23T08:00:39+01:00",
+    "updated_at": "2022-11-23T08:00:40+01:00",
+    "media_id": "x0lxfbea38ak",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237857/a27-afgesloten-na-ongeluk-met-meerdere-vrachtwagens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237850,
     "slug": "tanende-populariteit-computers-kost-6000-hp-medewerkers-hun-baan",
     "type": "article",
     "title": "Tanende populariteit computers kost 6000 HP-medewerkers hun baan",
     "subtitle": null,
     "published_at": "2022-11-23T07:48:45+01:00",
-    "updated_at": "2022-11-23T07:48:46+01:00",
+    "updated_at": "2022-11-23T07:52:45+01:00",
     "media_id": "m1nxenpawxk2",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Nieuw blessureleed bij Frankrijk: Hernández verlaat WK met kruisbandblessure",
     "subtitle": null,
     "published_at": "2022-11-23T07:47:02+01:00",
-    "updated_at": "2022-11-23T07:49:31+01:00",
+    "updated_at": "2022-11-23T08:04:11+01:00",
     "media_id": "xn4xw17a654z",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6237764/veel-jongeren-willen-wel-verhuizen-maar-kunnen-geen-woning-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237828,
-    "slug": "giroud-trots-na-evenaren-legende-henry-ik-hoop-dat-het-hier-niet-bij-blijft",
-    "type": "article",
-    "title": "Giroud trots na evenaren 'legende' Henry: 'Ik hoop dat het hier niet bij blijft'",
-    "subtitle": null,
-    "published_at": "2022-11-22T23:42:33+01:00",
-    "updated_at": "2022-11-23T07:42:33+01:00",
-    "media_id": "je1xmlba772y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237828/giroud-trots-na-evenaren-legende-henry-ik-hoop-dat-het-hier-niet-bij-blijft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237829,
-    "slug": "lichaam-gevonden-in-zoektocht-naar-vermiste-silvana-heber-36",
-    "type": "article",
-    "title": "Lichaam gevonden in zoektocht naar vermiste Silvana Heber (36)",
-    "subtitle": null,
-    "published_at": "2022-11-22T23:40:44+01:00",
-    "updated_at": "2022-11-23T06:35:21+01:00",
-    "media_id": "drrxn6oa0ip8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237829/lichaam-gevonden-in-zoektocht-naar-vermiste-silvana-heber-36.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237827,
-    "slug": "bekritiseerde-manchester-united-eigenaars-overwegen-club-te-verkopen",
-    "type": "article",
-    "title": "Bekritiseerde Manchester United-eigenaars overwegen club te verkopen",
-    "subtitle": null,
-    "published_at": "2022-11-22T23:24:21+01:00",
-    "updated_at": "2022-11-22T23:51:07+01:00",
-    "media_id": "uc2xifna7gzy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6237827/bekritiseerde-manchester-united-eigenaars-overwegen-club-te-verkopen.html",
     "open_new_window": false,
     "partner": null
   }
