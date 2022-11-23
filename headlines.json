@@ -1,5 +1,51 @@
 [
   {
+    "id": 6237937,
+    "slug": "npo-blijft-ondanks-kritiek-mediawaakhond-opdrachtgever-van-dwdd-onderzoek",
+    "type": "article",
+    "title": "NPO blijft ondanks kritiek mediawaakhond opdrachtgever van DWDD-onderzoek",
+    "subtitle": null,
+    "published_at": "2022-11-23T12:37:39+01:00",
+    "updated_at": "2022-11-23T12:37:40+01:00",
+    "media_id": "07rxd9ta9j9i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237937/npo-blijft-ondanks-kritiek-mediawaakhond-opdrachtgever-van-dwdd-onderzoek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237936,
+    "slug": "xiaomi-ziet-omzet-flink-dalen-door-teruggelopen-vraag-naar-smartphones",
+    "type": "article",
+    "title": "Xiaomi ziet omzet flink dalen door teruggelopen vraag naar smartphones",
+    "subtitle": null,
+    "published_at": "2022-11-23T12:28:32+01:00",
+    "updated_at": "2022-11-23T12:28:33+01:00",
+    "media_id": "hoaxj46a7bfv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6237936/xiaomi-ziet-omzet-flink-dalen-door-teruggelopen-vraag-naar-smartphones.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237928,
     "slug": "dodental-aardbeving-java-stijgt-naar-271-veel-kinderen-onder-slachtoffers",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6237931,
-    "slug": "hoe-gevaarlijk-is-de-strijd-rond-de-kerncentrale-in-oekraine",
+    "slug": "nog-steeds-explosies-bij-kerncentrale-in-oekraine-hoe-gevaarlijk-zijn-ze",
     "type": "video",
-    "title": "Hoe gevaarlijk is de strijd rond de kerncentrale in Oekraïne?",
+    "title": "Nog steeds explosies bij kerncentrale in Oekraïne: hoe gevaarlijk zijn ze?",
     "subtitle": "Video",
     "published_at": "2022-11-23T12:04:02+01:00",
-    "updated_at": "2022-11-23T12:04:03+01:00",
+    "updated_at": "2022-11-23T12:26:07+01:00",
     "media_id": "er5xdz5aufc8",
     "duration": "2:10",
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6237931/hoe-gevaarlijk-is-de-strijd-rond-de-kerncentrale-in-oekraine.html",
+    "url": "/spanningen-oekraine/6237931/nog-steeds-explosies-bij-kerncentrale-in-oekraine-hoe-gevaarlijk-zijn-ze.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Schots onafhankelijkheidsreferendum mag alleen met toestemming van Londen",
     "subtitle": null,
     "published_at": "2022-11-23T11:49:34+01:00",
-    "updated_at": "2022-11-23T11:49:35+01:00",
+    "updated_at": "2022-11-23T12:29:43+01:00",
     "media_id": "t8bx6xfa8fef",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237884/knvb-zet-streep-door-fanzone-oranje-in-doha-wegens-te-weinig-animo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237879,
-    "slug": "southgate-vreest-dat-scheidsrechters-op-wk-in-nadeel-van-engeland-fluiten",
-    "type": "article",
-    "title": "Southgate vreest dat scheidsrechters op WK in nadeel van Engeland fluiten",
-    "subtitle": null,
-    "published_at": "2022-11-23T09:25:09+01:00",
-    "updated_at": "2022-11-23T11:28:44+01:00",
-    "media_id": "9eqxq9sayc3k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237879/southgate-vreest-dat-scheidsrechters-op-wk-in-nadeel-van-engeland-fluiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237874,
-    "slug": "philips-krijgt-tienduizenden-nieuwe-meldingen-over-apneuapparaten",
-    "type": "article",
-    "title": "Philips krijgt tienduizenden nieuwe meldingen over apneuapparaten",
-    "subtitle": null,
-    "published_at": "2022-11-23T09:20:42+01:00",
-    "updated_at": "2022-11-23T09:20:43+01:00",
-    "media_id": "b2lx3swagp92",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6237874/philips-krijgt-tienduizenden-nieuwe-meldingen-over-apneuapparaten.html",
     "open_new_window": false,
     "partner": null
   }
