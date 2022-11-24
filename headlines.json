@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238201,
+    "slug": "eindrapport-formule-1-stap-terug-mclaren-alpine-nam-risico-met-motor",
+    "type": "article",
+    "title": "Eindrapport Formule 1: Stap terug McLaren, Alpine nam risico met motor",
+    "subtitle": "NU+",
+    "published_at": "2022-11-24T14:47:01+01:00",
+    "updated_at": "2022-11-24T14:48:46+01:00",
+    "media_id": "qoqxvieaj9t7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6238201/eindrapport-formule-1-stap-terug-mclaren-alpine-nam-risico-met-motor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238194,
     "slug": "china-meldt-ondanks-zeer-streng-coronabeleid-recordaantal-besmettingen",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6238146,
-    "slug": "zo-werkt-de-3d-buitenspelherkenning-die-de-var-gebruikt-op-het-wk",
+    "slug": "zo-werkt-de-3d-buitenspelherkenning-van-de-var-op-het-wk",
     "type": "article",
-    "title": "Zo werkt de 3D-buitenspelherkenning die de VAR gebruikt op het WK",
+    "title": "Zo werkt de 3D-buitenspelherkenning van de VAR op het WK",
     "subtitle": "Infographic",
     "published_at": "2022-11-24T14:21:22+01:00",
-    "updated_at": "2022-11-24T14:21:23+01:00",
+    "updated_at": "2022-11-24T14:35:24+01:00",
     "media_id": "tkoxl92avunl",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6238146/zo-werkt-de-3d-buitenspelherkenning-die-de-var-gebruikt-op-het-wk.html",
+    "url": "/wk-voetbal/6238146/zo-werkt-de-3d-buitenspelherkenning-van-de-var-op-het-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -100,7 +123,7 @@
     "published_at": "2022-11-24T14:18:36+01:00",
     "updated_at": "2022-11-24T14:29:23+01:00",
     "media_id": "j00xzbiacc9v",
-    "duration": "0:30",
+    "duration": "1:18",
     "canonical_section": {
       "id": 1772307,
       "slug": "wk-voetbal",
@@ -190,7 +213,7 @@
     "title": "Memphis gaat 45 minuten spelen tegen Ecuador, onduidelijkheid over basisplaats",
     "subtitle": null,
     "published_at": "2022-11-24T13:50:16+01:00",
-    "updated_at": "2022-11-24T14:27:51+01:00",
+    "updated_at": "2022-11-24T14:39:56+01:00",
     "media_id": "eyaxv5aa2r2q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6238164/qatarese-emir-en-fifa-boos-wk-loopt-pr-technisch-niet-zoals-gehoopt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238159,
-    "slug": "bertens-wordt-vaste-assistent-coach-bij-tennissters-en-gaat-ook-talenten-bijstaan",
-    "type": "article",
-    "title": "Bertens wordt vaste assistent-coach bij tennissters en gaat ook talenten bijstaan",
-    "subtitle": null,
-    "published_at": "2022-11-24T12:00:02+01:00",
-    "updated_at": "2022-11-24T12:00:03+01:00",
-    "media_id": "gglx082a8ngk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6238159/bertens-wordt-vaste-assistent-coach-bij-tennissters-en-gaat-ook-talenten-bijstaan.html",
     "open_new_window": false,
     "partner": null
   }
