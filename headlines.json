@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238384,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2022-11-25T20:25:19+01:00",
+    "updated_at": "2022-11-25T20:25:20+01:00",
+    "media_id": "4hfxj9mal6uf",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6238384/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238336,
     "slug": "dit-gebeurde-er-op-de-acht-plekken-waar-nederland-slavernij-excuses-aanbiedt",
     "type": "article",
     "title": "Dit gebeurde er op de acht plekken waar Nederland slavernij-excuses aanbiedt",
     "subtitle": null,
     "published_at": "2022-11-25T20:09:39+01:00",
-    "updated_at": "2022-11-25T20:09:40+01:00",
+    "updated_at": "2022-11-25T20:15:40+01:00",
     "media_id": "dq0xqm7am5y0",
     "duration": null,
     "canonical_section": {
@@ -29,19 +52,19 @@
     "title": "Ook buiten DWDD misstanden bij publieke omroep gemeld, NPO verbreedt onderzoek",
     "subtitle": null,
     "published_at": "2022-11-25T19:58:23+01:00",
-    "updated_at": "2022-11-25T20:14:10+01:00",
+    "updated_at": "2022-11-25T20:28:38+01:00",
     "media_id": "eklx8iaa3kjh",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6238512/ook-buiten-dwdd-misstanden-bij-publieke-omroep-gemeld-npo-verbreedt-onderzoek.html",
+    "url": "/entertainment/6238512/ook-buiten-dwdd-misstanden-bij-publieke-omroep-gemeld-npo-verbreedt-onderzoek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Vodafone verlengt gratis bellen en sms'en van en naar Oekraïne",
     "subtitle": null,
     "published_at": "2022-11-25T17:52:36+01:00",
-    "updated_at": "2022-11-25T20:10:04+01:00",
+    "updated_at": "2022-11-25T20:21:29+01:00",
     "media_id": "a0yxw8raxdjf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6238467/goedkopere-treinkaartjes-kunnen-forens-niet-uit-auto-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238475,
-    "slug": "ballonnen-kleuren-straten-van-new-york-tijdens-thanksgiving",
-    "type": "video",
-    "title": "Ballonnen kleuren straten van New York tijdens Thanksgiving",
-    "subtitle": "Video",
-    "published_at": "2022-11-25T16:55:37+01:00",
-    "updated_at": "2022-11-25T16:55:38+01:00",
-    "media_id": "lxox3ima6tvg",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6238475/ballonnen-kleuren-straten-van-new-york-tijdens-thanksgiving.html",
     "open_new_window": false,
     "partner": null
   }
