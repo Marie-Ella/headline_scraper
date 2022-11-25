@@ -1,5 +1,51 @@
 [
   {
+    "id": 6238265,
+    "slug": "hoe-ecuador-een-hecht-team-werd-en-al-zeven-keer-op-rij-de-nul-hield",
+    "type": "video",
+    "title": "Hoe Ecuador een hecht team werd en al zeven keer op rij de nul hield",
+    "subtitle": "Video",
+    "published_at": "2022-11-25T05:57:41+01:00",
+    "updated_at": "2022-11-25T05:57:42+01:00",
+    "media_id": "afdxqela7xy0",
+    "duration": "2:34",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238265/hoe-ecuador-een-hecht-team-werd-en-al-zeven-keer-op-rij-de-nul-hield.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237961,
+    "slug": "hoe-michael-jackson-met-het-album-thriller-de-videoclip-voorgoed-veranderde",
+    "type": "article",
+    "title": "Hoe Michael Jackson met het album Thriller de videoclip voorgoed veranderde",
+    "subtitle": null,
+    "published_at": "2022-11-25T05:55:35+01:00",
+    "updated_at": "2022-11-25T05:55:36+01:00",
+    "media_id": "4xaxthwac5yk",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6237961/hoe-michael-jackson-met-het-album-thriller-de-videoclip-voorgoed-veranderde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238300,
     "slug": "raad-jij-het-woord-van-vandaag",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Richarlison helpt favoriet Brazilië met wereldgoal aan goede WK-start tegen Servië",
     "subtitle": null,
     "published_at": "2022-11-24T21:55:20+01:00",
-    "updated_at": "2022-11-24T23:47:26+01:00",
+    "updated_at": "2022-11-25T05:55:58+01:00",
     "media_id": "sozxilaaucu6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238253/oranjefan-mag-volgens-knvb-regenbooghoed-op-naar-wedstrijd-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238274,
-    "slug": "verzetsman-anton-de-kom-krijgt-gedenksteen-in-amsterdam",
-    "type": "article",
-    "title": "Verzetsman Anton de Kom krijgt gedenksteen in Amsterdam",
-    "subtitle": null,
-    "published_at": "2022-11-24T20:05:01+01:00",
-    "updated_at": "2022-11-25T05:25:14+01:00",
-    "media_id": "u3jx52iaxy7l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6238274/verzetsman-anton-de-kom-krijgt-gedenksteen-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238273,
-    "slug": "rijimpressie-audi-r8-gt",
-    "type": "video",
-    "title": "Rijimpressie: Audi R8 GT",
-    "subtitle": "Video",
-    "published_at": "2022-11-24T20:02:34+01:00",
-    "updated_at": "2022-11-24T20:02:35+01:00",
-    "media_id": "86xxryiazej8",
-    "duration": "6:00",
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6238273/rijimpressie-audi-r8-gt.html",
     "open_new_window": false,
     "partner": null
   }
