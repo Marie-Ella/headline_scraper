@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238580,
+    "slug": "brandweer-blust-uitgebrande-vrachtwagen-na-in-veghel",
+    "type": "video",
+    "title": "Brandweer blust uitgebrande vrachtwagen na in Veghel",
+    "subtitle": "Video",
+    "published_at": "2022-11-26T10:43:08+01:00",
+    "updated_at": "2022-11-26T10:43:09+01:00",
+    "media_id": "i2yxvtjal8mm",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238580/brandweer-blust-uitgebrande-vrachtwagen-na-in-veghel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238574,
     "slug": "oranje-traint-daags-na-teleurstellend-gelijkspel-basisploeg-snel-naar-binnen",
     "type": "article",
     "title": "Oranje traint daags na teleurstellend gelijkspel, basisploeg snel naar binnen",
     "subtitle": null,
     "published_at": "2022-11-26T10:20:22+01:00",
-    "updated_at": "2022-11-26T10:29:08+01:00",
+    "updated_at": "2022-11-26T10:36:32+01:00",
     "media_id": "tqnxltpai8ix",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Amerikaanse kustwacht redt 's nachts man die dag eerder van schip viel",
     "subtitle": "Video",
     "published_at": "2022-11-26T08:04:57+01:00",
-    "updated_at": "2022-11-26T08:11:06+01:00",
+    "updated_at": "2022-11-26T10:47:57+01:00",
     "media_id": "n6txgjxatvuf",
     "duration": "0:37",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6238544/weerbericht-dag-begint-mistig-later-neemt-de-bewolking-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238390,
-    "slug": "lang-niet-iedereen-blij-met-indische-rijsttafel-als-cultureel-erfgoed",
-    "type": "article",
-    "title": "Lang niet iedereen blij met Indische rijsttafel als cultureel erfgoed",
-    "subtitle": null,
-    "published_at": "2022-11-26T04:59:53+01:00",
-    "updated_at": "2022-11-26T04:59:54+01:00",
-    "media_id": "r5kxh76ay458",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6238390/lang-niet-iedereen-blij-met-indische-rijsttafel-als-cultureel-erfgoed.html",
     "open_new_window": false,
     "partner": null
   }
