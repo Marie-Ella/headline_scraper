@@ -1,12 +1,35 @@
 [
   {
-    "id": 6238734,
-    "slug": "royaltyjournalist-marc-van-der-linden-door-herseninfarct-in-het-ziekenhuis",
+    "id": 6238736,
+    "slug": "van-duijvenbode-verliest-van-cross-en-is-klaar-op-players-championship-finals",
     "type": "article",
-    "title": "Royaltyjournalist Marc van der Linden door herseninfarct in het ziekenhuis",
+    "title": "Van Duijvenbode verliest van Cross en is klaar op Players Championship Finals",
+    "subtitle": null,
+    "published_at": "2022-11-27T15:25:05+01:00",
+    "updated_at": "2022-11-27T15:28:00+01:00",
+    "media_id": "hfmxlmea8991",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6238736/van-duijvenbode-verliest-van-cross-en-is-klaar-op-players-championship-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238734,
+    "slug": "marc-van-der-linden-in-het-ziekenhuis-na-herseninfarct",
+    "type": "article",
+    "title": "Marc van der Linden in het ziekenhuis na herseninfarct",
     "subtitle": null,
     "published_at": "2022-11-27T15:06:31+01:00",
-    "updated_at": "2022-11-27T15:08:26+01:00",
+    "updated_at": "2022-11-27T15:25:38+01:00",
     "media_id": "9sqx9kzahu9k",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6238734/royaltyjournalist-marc-van-der-linden-door-herseninfarct-in-het-ziekenhuis.html",
+    "url": "/media/6238734/marc-van-der-linden-in-het-ziekenhuis-na-herseninfarct.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Van Ass bekroont debuut als bondscoach van hockeysters met ruime zege",
     "subtitle": null,
     "published_at": "2022-11-27T14:31:53+01:00",
-    "updated_at": "2022-11-27T15:09:42+01:00",
+    "updated_at": "2022-11-27T15:24:35+01:00",
     "media_id": "cxbx96waf6o4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238697/bondscoach-van-iran-woest-na-uitspraken-klinsmann-schande-voor-het-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238683,
-    "slug": "belgie-en-marokko-geven-elkaar-weinig-toe-in-spannend-duel",
-    "type": "article",
-    "title": "België en Marokko geven elkaar weinig toe in spannend duel",
-    "subtitle": "Liveblog WK",
-    "published_at": "2022-11-27T08:32:44+01:00",
-    "updated_at": "2022-11-27T15:16:46+01:00",
-    "media_id": "698x8tlarw2i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238683/belgie-en-marokko-geven-elkaar-weinig-toe-in-spannend-duel.html",
     "open_new_window": false,
     "partner": null
   }
