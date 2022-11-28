@@ -1,12 +1,35 @@
 [
   {
-    "id": 6238809,
-    "slug": "bbc-journalist-opgepakt-bij-zeldzame-protesten-in-china-tegen-coronabeleid",
+    "id": 6238810,
+    "slug": "hotel-in-mogadishu-dat-populair-is-bij-politici-bestormd-door-al-shabaab",
     "type": "article",
-    "title": "BBC-journalist opgepakt bij zeldzame protesten in China tegen coronabeleid",
+    "title": "Hotel in Mogadishu dat populair is bij politici bestormd door Al Shabaab",
+    "subtitle": null,
+    "published_at": "2022-11-28T03:48:40+01:00",
+    "updated_at": "2022-11-28T03:48:41+01:00",
+    "media_id": "xelx68fahzck",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6238810/hotel-in-mogadishu-dat-populair-is-bij-politici-bestormd-door-al-shabaab.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238809,
+    "slug": "bbc-journalist-opgepakt-bij-protesten-in-china-tegen-coronabeleid",
+    "type": "article",
+    "title": "BBC-journalist opgepakt bij protesten in China tegen coronabeleid",
     "subtitle": null,
     "published_at": "2022-11-28T00:54:37+01:00",
-    "updated_at": "2022-11-28T01:51:32+01:00",
+    "updated_at": "2022-11-28T02:57:33+01:00",
     "media_id": "jz5x7nea50z2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6238809/bbc-journalist-opgepakt-bij-zeldzame-protesten-in-china-tegen-coronabeleid.html",
+    "url": "/media/6238809/bbc-journalist-opgepakt-bij-protesten-in-china-tegen-coronabeleid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238764/bondscoach-marokko-lovend-over-ziyech-na-stunt-hij-gaat-voor-je-door-het-vuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238762,
-    "slug": "politie-zet-waterkanonnen-in-tijdens-rellen-in-brussel",
-    "type": "video",
-    "title": "Politie zet waterkanonnen in tijdens rellen in Brussel",
-    "subtitle": "Video",
-    "published_at": "2022-11-27T17:34:02+01:00",
-    "updated_at": "2022-11-27T18:44:38+01:00",
-    "media_id": "zxtx3k7acoqo",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6238762/politie-zet-waterkanonnen-in-tijdens-rellen-in-brussel.html",
     "open_new_window": false,
     "partner": null
   }
