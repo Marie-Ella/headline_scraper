@@ -1,5 +1,51 @@
 [
   {
+    "id": 6239322,
+    "slug": "uitgelicht-dit-vinden-jullie-van-open-winkeldeuren",
+    "type": "article",
+    "title": "Uitgelicht: Dit vinden jullie van open winkeldeuren",
+    "subtitle": null,
+    "published_at": "2022-11-30T12:32:05+01:00",
+    "updated_at": "2022-11-30T12:32:06+01:00",
+    "media_id": "evbxc6gax457",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6239322/uitgelicht-dit-vinden-jullie-van-open-winkeldeuren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239350,
+    "slug": "kneuterigheid-populair-onder-jongeren-wat-is-romo",
+    "type": "video",
+    "title": "Kneuterigheid populair onder jongeren: wat is ROMO?",
+    "subtitle": "Video",
+    "published_at": "2022-11-30T12:29:40+01:00",
+    "updated_at": "2022-11-30T12:29:41+01:00",
+    "media_id": "vb7xo10admwn",
+    "duration": "2:06",
+    "canonical_section": {
+      "id": 1778830,
+      "slug": "nu-uitgelegd",
+      "type": "default",
+      "name": "NU-uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-uitgelegd/6239350/kneuterigheid-populair-onder-jongeren-wat-is-romo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239346,
     "slug": "victoria-koblenko-en-evgeniy-levchenko-halen-ruim-een-ton-op-voor-oekraine",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239307/frimpong-haakt-daags-na-winst-op-qatar-geblesseerd-af-bij-training-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239303,
-    "slug": "peter-de-bie-stopt-na-zestien-jaar-bij-radioprogramma-nieuwsweekend",
-    "type": "article",
-    "title": "Peter de Bie stopt na zestien jaar bij radioprogramma Nieuwsweekend",
-    "subtitle": null,
-    "published_at": "2022-11-30T10:30:21+01:00",
-    "updated_at": "2022-11-30T12:04:00+01:00",
-    "media_id": "q8gxh6xaq1nm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6239303/peter-de-bie-stopt-na-zestien-jaar-bij-radioprogramma-nieuwsweekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239306,
-    "slug": "op-schiphol-aangehouden-man-had-geen-gevaarlijke-stoffen-bij-zich",
-    "type": "article",
-    "title": "Op Schiphol aangehouden man had geen gevaarlijke stoffen bij zich",
-    "subtitle": null,
-    "published_at": "2022-11-30T10:23:59+01:00",
-    "updated_at": "2022-11-30T10:45:59+01:00",
-    "media_id": "l98xi0savool",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6239306/op-schiphol-aangehouden-man-had-geen-gevaarlijke-stoffen-bij-zich.html",
     "open_new_window": false,
     "partner": null
   }
