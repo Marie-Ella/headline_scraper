@@ -1,12 +1,58 @@
 [
   {
+    "id": 6239712,
+    "slug": "zo-wordt-de-grootste-kerstboom-van-nederland-opgetuigd",
+    "type": "video",
+    "title": "Zo wordt de grootste 'kerstboom' van Nederland opgetuigd",
+    "subtitle": "Video",
+    "published_at": "2022-12-01T19:47:46+01:00",
+    "updated_at": "2022-12-01T19:47:47+01:00",
+    "media_id": "3tgxvlva0872",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6239712/zo-wordt-de-grootste-kerstboom-van-nederland-opgetuigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239708,
+    "slug": "scorende-ziyech-maakt-met-marokko-droom-waar-op-wk-we-schrijven-historie",
+    "type": "article",
+    "title": "Scorende Ziyech maakt met Marokko droom waar op WK: 'We schrijven historie'",
+    "subtitle": null,
+    "published_at": "2022-12-01T19:30:52+01:00",
+    "updated_at": "2022-12-01T19:45:13+01:00",
+    "media_id": "9y8xbroaoqdj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239708/scorende-ziyech-maakt-met-marokko-droom-waar-op-wk-we-schrijven-historie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239703,
     "slug": "nog-meer-zorgen-voor-juventus-uefa-start-onderzoek-naar-omstreden-financien",
     "type": "article",
     "title": "Nog meer zorgen voor Juventus: UEFA start onderzoek naar omstreden financiën",
     "subtitle": null,
     "published_at": "2022-12-01T19:11:22+01:00",
-    "updated_at": "2022-12-01T19:11:24+01:00",
+    "updated_at": "2022-12-01T19:48:25+01:00",
     "media_id": "7irx67ba8b9d",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Martínez vertrekt als bondscoach van België na roemloze aftocht op WK",
     "subtitle": null,
     "published_at": "2022-12-01T18:42:06+01:00",
-    "updated_at": "2022-12-01T19:15:25+01:00",
+    "updated_at": "2022-12-01T19:36:08+01:00",
     "media_id": "tmsx4ypatjqq",
     "duration": null,
     "canonical_section": {
@@ -167,8 +213,8 @@
     "title": "België roemloos uitgeschakeld op WK na miraculeus gelijkspel tegen Kroatië",
     "subtitle": null,
     "published_at": "2022-12-01T17:54:03+01:00",
-    "updated_at": "2022-12-01T19:27:01+01:00",
-    "media_id": "dh2xyqsaegmy",
+    "updated_at": "2022-12-01T19:33:07+01:00",
+    "media_id": "xbvxuniadqz0",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6239649/strafzaak-over-valse-paspoorten-voor-criminelen-toont-kwetsbaarheid-systeem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239654,
-    "slug": "indycar-kampioen-palou-nieuwe-reservecoureur-formule-1-team-mclaren",
-    "type": "article",
-    "title": "IndyCar-kampioen Palou nieuwe reservecoureur Formule 1-team McLaren",
-    "subtitle": null,
-    "published_at": "2022-12-01T16:39:45+01:00",
-    "updated_at": "2022-12-01T16:39:46+01:00",
-    "media_id": "yfoxo5qardx9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6239654/indycar-kampioen-palou-nieuwe-reservecoureur-formule-1-team-mclaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239652,
-    "slug": "fc-groningen-niet-langer-door-met-ngonge-hij-voldoet-niet-aan-onze-normen",
-    "type": "article",
-    "title": "FC Groningen niet langer door met Ngonge: 'Hij voldoet niet aan onze normen'",
-    "subtitle": null,
-    "published_at": "2022-12-01T16:34:32+01:00",
-    "updated_at": "2022-12-01T16:54:05+01:00",
-    "media_id": "2vvx691aw51b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6239652/fc-groningen-niet-langer-door-met-ngonge-hij-voldoet-niet-aan-onze-normen.html",
     "open_new_window": false,
     "partner": null
   }
