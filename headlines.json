@@ -1,5 +1,51 @@
 [
   {
+    "id": 6239484,
+    "slug": "regisseur-ang-lee-werkt-aan-film-over-acteur-bruce-lee",
+    "type": "article",
+    "title": "Regisseur Ang Lee werkt aan film over acteur Bruce Lee",
+    "subtitle": null,
+    "published_at": "2022-12-01T01:39:51+01:00",
+    "updated_at": "2022-12-01T02:12:41+01:00",
+    "media_id": "su0x400ag33g",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6239484/regisseur-ang-lee-werkt-aan-film-over-acteur-bruce-lee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239483,
+    "slug": "stroomstoring-in-zuid-holland-en-utrecht-problemen-deels-verholpen",
+    "type": "article",
+    "title": "Stroomstoring in Zuid-Holland en Utrecht, problemen deels verholpen",
+    "subtitle": null,
+    "published_at": "2022-12-01T01:36:58+01:00",
+    "updated_at": "2022-12-01T02:52:36+01:00",
+    "media_id": "qfvxz7kanft4",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6239483/stroomstoring-in-zuid-holland-en-utrecht-problemen-deels-verholpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239352,
     "slug": "tikkie-komt-met-app-voor-bedrijven-glazenwasser-betalen-via-betaalverzoek",
     "type": "article",
@@ -26,10 +72,10 @@
     "id": 6239449,
     "slug": "zorg-ziet-uitgaven-aan-zzpers-flink-oplopen",
     "type": "article",
-    "title": "Zorg ziet uitgaven aan zzp’ers flink oplopen",
+    "title": "Zorg ziet uitgaven aan zzp'ers flink oplopen",
     "subtitle": null,
     "published_at": "2022-12-01T00:00:07+01:00",
-    "updated_at": "2022-12-01T00:00:09+01:00",
+    "updated_at": "2022-12-01T01:07:44+01:00",
     "media_id": "e9fxnvjayvy4",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Bondscoach Mexico kondigt vertrek aan na zeldzame uitschakeling in groepsfase WK",
     "subtitle": null,
     "published_at": "2022-11-30T23:38:41+01:00",
-    "updated_at": "2022-12-01T00:10:12+01:00",
+    "updated_at": "2022-12-01T01:22:45+01:00",
     "media_id": "az4x3v5aokig",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport/6239459/australiers-vieren-s-nachts-feest-na-bereiken-achtste-finale-op-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239418,
-    "slug": "antoon-is-meest-beluisterde-artiest-op-spotify-echt-een-raar-idee",
-    "type": "article",
-    "title": "Antoon is meest beluisterde artiest op Spotify: 'Echt een raar idee'",
-    "subtitle": null,
-    "published_at": "2022-11-30T18:58:20+01:00",
-    "updated_at": "2022-11-30T19:08:44+01:00",
-    "media_id": "63jxobtad5ax",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6239418/antoon-is-meest-beluisterde-artiest-op-spotify-echt-een-raar-idee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239414,
-    "slug": "waarom-gebruikers-van-stadsverwarming-toch-last-hebben-van-hogere-gasprijzen",
-    "type": "article",
-    "title": "Waarom gebruikers van stadsverwarming toch last hebben van hogere gasprijzen",
-    "subtitle": null,
-    "published_at": "2022-11-30T18:49:05+01:00",
-    "updated_at": "2022-11-30T18:49:06+01:00",
-    "media_id": "e9yxlqzaag59",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6239414/waarom-gebruikers-van-stadsverwarming-toch-last-hebben-van-hogere-gasprijzen.html",
     "open_new_window": false,
     "partner": null
   }
