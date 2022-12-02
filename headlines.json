@@ -1,12 +1,35 @@
 [
   {
+    "id": 6239844,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2022-12-02T21:02:42+01:00",
+    "updated_at": "2022-12-02T21:02:44+01:00",
+    "media_id": "a74xhlsat13b",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6239844/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239960,
     "slug": "voetballegende-pele-blijkt-met-luchtweginfectie-in-het-ziekenhuis-te-liggen",
     "type": "article",
     "title": "Voetballegende Pelé blijkt met luchtweginfectie in het ziekenhuis te liggen",
     "subtitle": null,
     "published_at": "2022-12-02T20:42:48+01:00",
-    "updated_at": "2022-12-02T20:42:49+01:00",
+    "updated_at": "2022-12-02T21:10:53+01:00",
     "media_id": "viyx6r8arp5q",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Aangeslagen Suárez richt pijlen op FIFA: 'Waarom zijn ze altijd tegen ons?'",
     "subtitle": null,
     "published_at": "2022-12-02T19:23:43+01:00",
-    "updated_at": "2022-12-02T20:04:08+01:00",
+    "updated_at": "2022-12-02T21:11:39+01:00",
     "media_id": "b72x0e8aa9s9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6239926/automobilisten-blijken-na-botsing-in-vlaardingen-allebei-geen-rijbewijs-te-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239919,
-    "slug": "coronaprik-ook-beschikbaar-voor-kinderen-tot-vijf-jaar-met-hoog-medisch-risico",
-    "type": "article",
-    "title": "Coronaprik ook beschikbaar voor kinderen tot vijf jaar met hoog medisch risico",
-    "subtitle": null,
-    "published_at": "2022-12-02T17:07:03+01:00",
-    "updated_at": "2022-12-02T17:10:40+01:00",
-    "media_id": "s5hx8z9aa4o8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6239919/coronaprik-ook-beschikbaar-voor-kinderen-tot-vijf-jaar-met-hoog-medisch-risico.html",
     "open_new_window": false,
     "partner": null
   }
