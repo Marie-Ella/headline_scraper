@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240030,
+    "slug": "tilburger-verdacht-van-witwassen-van-7-miljoen-euro-in-anderhalf-jaar-tijd",
+    "type": "article",
+    "title": "Tilburger verdacht van witwassen van 7 miljoen euro in anderhalf jaar tijd",
+    "subtitle": null,
+    "published_at": "2022-12-03T11:01:04+01:00",
+    "updated_at": "2022-12-03T11:20:01+01:00",
+    "media_id": "buxx7c4a7a3s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240030/tilburger-verdacht-van-witwassen-van-7-miljoen-euro-in-anderhalf-jaar-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240027,
+    "slug": "bekijk-beelden-van-de-nieuwe-nucleaire-bommenwerper-van-de-vs",
+    "type": "video",
+    "title": "Bekijk beelden van de nieuwe nucleaire bommenwerper van de VS",
+    "subtitle": "Video",
+    "published_at": "2022-12-03T10:57:06+01:00",
+    "updated_at": "2022-12-03T10:57:07+01:00",
+    "media_id": "wsaxtd6alnu8",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6240027/bekijk-beelden-van-de-nieuwe-nucleaire-bommenwerper-van-de-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240017,
     "slug": "mexicaanse-politie-vindt-300-kilo-fentanyl-in-kokosnoten",
     "type": "video",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6239589/hardwell-na-jaren-terug-op-podium-ik-voel-me-sterker-dan-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239620,
-    "slug": "waarom-de-vraag-waar-je-nou-echt-vandaan-komt-racistisch-kan-zijn",
-    "type": "article",
-    "title": "Waarom de vraag waar je 'nou écht vandaan komt' racistisch kan zijn",
-    "subtitle": null,
-    "published_at": "2022-12-03T05:57:09+01:00",
-    "updated_at": "2022-12-03T08:14:56+01:00",
-    "media_id": "dm3xe30ajzwg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6239620/waarom-de-vraag-waar-je-nou-echt-vandaan-komt-racistisch-kan-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239974,
-    "slug": "goed-nieuws-voedselprijzen-dalen-resultaten-alzheimermedicijn-historisch",
-    "type": "article",
-    "title": "Goed nieuws: Voedselprijzen dalen | Resultaten alzheimermedicijn 'historisch'",
-    "subtitle": null,
-    "published_at": "2022-12-03T05:48:10+01:00",
-    "updated_at": "2022-12-03T08:11:44+01:00",
-    "media_id": "roqxc9bas8sj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6239974/goed-nieuws-voedselprijzen-dalen-resultaten-alzheimermedicijn-historisch.html",
     "open_new_window": false,
     "partner": null
   }
