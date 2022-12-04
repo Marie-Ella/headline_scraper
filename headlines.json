@@ -1,12 +1,35 @@
 [
   {
+    "id": 6240217,
+    "slug": "politici-gaan-op-de-vuist-in-senegalees-parlement",
+    "type": "video",
+    "title": "Politici gaan op de vuist in Senegalees parlement",
+    "subtitle": "Video",
+    "published_at": "2022-12-04T21:41:01+01:00",
+    "updated_at": "2022-12-04T21:41:02+01:00",
+    "media_id": "osex7xnauxqd",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6240217/politici-gaan-op-de-vuist-in-senegalees-parlement.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240216,
     "slug": "nagatomo-wil-dat-japanners-als-samoerai-vechten-in-achtste-finale-tegen-kroatie",
     "type": "article",
     "title": "Nagatomo wil dat Japanners als samoerai vechten in achtste finale tegen Kroatië",
     "subtitle": null,
     "published_at": "2022-12-04T21:15:18+01:00",
-    "updated_at": "2022-12-04T21:15:29+01:00",
+    "updated_at": "2022-12-04T21:31:27+01:00",
     "media_id": "oc6xv9daryc2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Oekraïne deelt beelden van neerhalen Russische helikopter",
     "subtitle": "Video",
     "published_at": "2022-12-04T19:34:27+01:00",
-    "updated_at": "2022-12-04T19:39:33+01:00",
+    "updated_at": "2022-12-04T21:39:20+01:00",
     "media_id": "r1rxjcnaf0wd",
     "duration": "0:38",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240161/bijna-vijf-miljoen-mensen-keken-thuis-naar-achtste-finale-nederland-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240133,
-    "slug": "raketten-over-en-weer-en-doodgeschoten-palestijnen-dit-speelt-nu-in-israel",
-    "type": "article",
-    "title": "Raketten over en weer en doodgeschoten Palestijnen: dit speelt nu in Israël",
-    "subtitle": null,
-    "published_at": "2022-12-04T15:17:56+01:00",
-    "updated_at": "2022-12-04T15:17:57+01:00",
-    "media_id": "mntxbspaz0ta",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240133/raketten-over-en-weer-en-doodgeschoten-palestijnen-dit-speelt-nu-in-israel.html",
     "open_new_window": false,
     "partner": null
   }
