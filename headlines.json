@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240265,
+    "slug": "hypotheekrente-daalt-voor-vijfde-week-op-rij",
+    "type": "article",
+    "title": "Hypotheekrente daalt voor vijfde week op rij",
+    "subtitle": null,
+    "published_at": "2022-12-05T10:15:28+01:00",
+    "updated_at": "2022-12-05T10:17:03+01:00",
+    "media_id": "mu9xwebayt2z",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6240265/hypotheekrente-daalt-voor-vijfde-week-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240270,
+    "slug": "colombiaanse-marine-deelt-beelden-van-grote-drugsvangst",
+    "type": "video",
+    "title": "Colombiaanse marine deelt beelden van grote drugsvangst",
+    "subtitle": "Video",
+    "published_at": "2022-12-05T10:13:31+01:00",
+    "updated_at": "2022-12-05T10:13:32+01:00",
+    "media_id": "n4pxkala7k7u",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6240270/colombiaanse-marine-deelt-beelden-van-grote-drugsvangst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240243,
     "slug": "praat-mee-over-online-en-offline-tijd",
     "type": "article",
@@ -397,7 +443,7 @@
     "title": "Bouw van grootste radiotelescoop ter wereld gaat na dertig jaar van start",
     "subtitle": null,
     "published_at": "2022-12-05T05:50:32+01:00",
-    "updated_at": "2022-12-05T09:03:35+01:00",
+    "updated_at": "2022-12-05T10:03:56+01:00",
     "media_id": "yq7xubvarstp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6240228/bouw-van-grootste-radiotelescoop-ter-wereld-gaat-na-dertig-jaar-van-start.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240227,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-12-05T05:28:43+01:00",
-    "updated_at": "2022-12-05T05:28:45+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6240227/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239910,
-    "slug": "leefstijlapps-van-zorgverzekeraars-tastbare-beloning-werkt-het-best",
-    "type": "article",
-    "title": "Leefstijlapps van zorgverzekeraars: tastbare beloning werkt het best",
-    "subtitle": null,
-    "published_at": "2022-12-05T05:28:04+01:00",
-    "updated_at": "2022-12-05T08:53:27+01:00",
-    "media_id": "dpuxcgzaav1e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6239910/leefstijlapps-van-zorgverzekeraars-tastbare-beloning-werkt-het-best.html",
     "open_new_window": false,
     "partner": null
   }
