@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240243,
+    "slug": "praat-mee-over-online-en-offline-tijd",
+    "type": "article",
+    "title": "Praat mee over online en offline tijd",
+    "subtitle": null,
+    "published_at": "2022-12-05T09:40:47+01:00",
+    "updated_at": "2022-12-05T09:40:48+01:00",
+    "media_id": "u9sx0u0a8cue",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6240243/praat-mee-over-online-en-offline-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240254,
+    "slug": "grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven",
+    "type": "video",
+    "title": "Grote branden verwoesten gebouwen in Nijmegen en Eindhoven",
+    "subtitle": "Video",
+    "published_at": "2022-12-05T09:34:36+01:00",
+    "updated_at": "2022-12-05T09:34:37+01:00",
+    "media_id": "8uqx4arawhy2",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240254/grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240247,
     "slug": "eu-landen-verbruikten-ook-in-november-een-kwart-minder-gas",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6239910/leefstijlapps-van-zorgverzekeraars-tastbare-beloning-werkt-het-best.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240226,
-    "slug": "weerbericht-sint-moet-uitkijken-dat-hij-in-zuid-limburg-niet-van-dak-glijdt",
-    "type": "article",
-    "title": "Weerbericht: Sint moet uitkijken dat hij in Zuid-Limburg niet van dak glijdt",
-    "subtitle": null,
-    "published_at": "2022-12-05T05:27:34+01:00",
-    "updated_at": "2022-12-05T08:33:48+01:00",
-    "media_id": "vplx601aqma1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240226/weerbericht-sint-moet-uitkijken-dat-hij-in-zuid-limburg-niet-van-dak-glijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239924,
-    "slug": "steeds-meer-mensen-met-psychische-aandoeningen-en-de-ggz-staat-al-onder-druk",
-    "type": "article",
-    "title": "Steeds meer mensen met psychische aandoeningen en de ggz staat al onder druk",
-    "subtitle": null,
-    "published_at": "2022-12-05T04:57:05+01:00",
-    "updated_at": "2022-12-05T06:57:54+01:00",
-    "media_id": "d1fx3fxat9j9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6239924/steeds-meer-mensen-met-psychische-aandoeningen-en-de-ggz-staat-al-onder-druk.html",
     "open_new_window": false,
     "partner": null
   }
