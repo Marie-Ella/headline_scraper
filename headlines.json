@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240505,
+    "slug": "engelse-bende-steelt-autos-met-totale-waarde-van-814000-euro",
+    "type": "video",
+    "title": "Engelse bende steelt auto's met totale waarde van 814.000 euro",
+    "subtitle": "Video",
+    "published_at": "2022-12-06T10:54:30+01:00",
+    "updated_at": "2022-12-06T10:54:31+01:00",
+    "media_id": "49pxsgua3jjt",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6240505/engelse-bende-steelt-autos-met-totale-waarde-van-814000-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240496,
     "slug": "demonstranten-bestormen-regeringspaleis-in-mongolie",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "PSV verlengt contract van hoofd jeugdopleiding Faber tot medio 2026",
     "subtitle": null,
     "published_at": "2022-12-06T10:27:22+01:00",
-    "updated_at": "2022-12-06T10:27:43+01:00",
+    "updated_at": "2022-12-06T11:19:13+01:00",
     "media_id": "hknx54danglq",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Oud-spits Eto'o in opspraak na neertrappen vlogger na Brazilië-Zuid-Korea",
     "subtitle": null,
     "published_at": "2022-12-06T10:12:31+01:00",
-    "updated_at": "2022-12-06T10:26:09+01:00",
+    "updated_at": "2022-12-06T11:05:21+01:00",
     "media_id": "32jx3njah2xb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6240449/neuralink-van-elon-musk-onder-vuur-voor-het-doden-van-1500-proefdieren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240448,
-    "slug": "grote-steden-zetten-zich-met-maatregelen-weer-schrap-voor-wk-wedstrijd-marokko",
-    "type": "article",
-    "title": "Grote steden zetten zich met maatregelen weer schrap voor WK-wedstrijd Marokko",
-    "subtitle": null,
-    "published_at": "2022-12-06T07:23:52+01:00",
-    "updated_at": "2022-12-06T07:55:07+01:00",
-    "media_id": "34exm8maignm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240448/grote-steden-zetten-zich-met-maatregelen-weer-schrap-voor-wk-wedstrijd-marokko.html",
     "open_new_window": false,
     "partner": null
   }
