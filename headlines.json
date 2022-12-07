@@ -1,12 +1,58 @@
 [
   {
+    "id": 6240857,
+    "slug": "timelapse-toont-sloop-van-iconisch-ziekenhuis-in-rotterdam",
+    "type": "video",
+    "title": "Timelapse toont sloop van iconisch ziekenhuis in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2022-12-07T17:52:05+01:00",
+    "updated_at": "2022-12-07T17:52:06+01:00",
+    "media_id": "ct3x1wjazd81",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240857/timelapse-toont-sloop-van-iconisch-ziekenhuis-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240809,
+    "slug": "waarom-de-vulkaanuitbarsting-op-java-veel-heviger-is-dan-die-op-hawai",
+    "type": "video",
+    "title": "Waarom de vulkaanuitbarsting op Java veel heviger is dan die op Hawaï",
+    "subtitle": "Video",
+    "published_at": "2022-12-07T17:31:20+01:00",
+    "updated_at": "2022-12-07T17:31:21+01:00",
+    "media_id": "0etxqx4av9l9",
+    "duration": "1:43",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6240809/waarom-de-vulkaanuitbarsting-op-java-veel-heviger-is-dan-die-op-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240815,
     "slug": "walker-lacht-vragen-over-mbappe-weg-ga-geen-rode-loper-voor-hem-uitrollen",
     "type": "article",
     "title": "Walker lacht vragen over Mbappé weg: 'Ga geen rode loper voor hem uitrollen'",
     "subtitle": null,
     "published_at": "2022-12-07T17:26:16+01:00",
-    "updated_at": "2022-12-07T17:26:18+01:00",
+    "updated_at": "2022-12-07T17:38:11+01:00",
     "media_id": "13xx6zdad48a",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Grootste chipmaker ter wereld investeert 40 miljard dollar in VS",
     "subtitle": null,
     "published_at": "2022-12-07T17:12:09+01:00",
-    "updated_at": "2022-12-07T17:12:10+01:00",
+    "updated_at": "2022-12-07T17:43:59+01:00",
     "media_id": "39oxoofaksba",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6240791/spaanse-trein-mist-voorkant-na-botsing-waarbij-150-gewonden-vielen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240779,
-    "slug": "homo-sapiens-en-neanderthaler-leefden-mogelijk-naast-elkaar-in-europa",
-    "type": "article",
-    "title": "Homo sapiens en neanderthaler leefden mogelijk naast elkaar in Europa",
-    "subtitle": null,
-    "published_at": "2022-12-07T14:16:22+01:00",
-    "updated_at": "2022-12-07T15:10:26+01:00",
-    "media_id": "st0xkx2akncd",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6240779/homo-sapiens-en-neanderthaler-leefden-mogelijk-naast-elkaar-in-europa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240782,
-    "slug": "ajax-toont-met-b-ploeg-veerkracht-en-boekt-5-4-oefenzege-op-fc-volendam",
-    "type": "article",
-    "title": "Ajax toont met B-ploeg veerkracht en boekt 5-4-oefenzege op FC Volendam",
-    "subtitle": null,
-    "published_at": "2022-12-07T14:13:38+01:00",
-    "updated_at": "2022-12-07T14:25:07+01:00",
-    "media_id": "h3zxbidaphae",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6240782/ajax-toont-met-b-ploeg-veerkracht-en-boekt-5-4-oefenzege-op-fc-volendam.html",
     "open_new_window": false,
     "partner": null
   }
