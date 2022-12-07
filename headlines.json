@@ -1,12 +1,58 @@
 [
   {
+    "id": 6240724,
+    "slug": "mariette-hamer-seksueel-wangedrag-is-geen-incident-het-zit-in-onze-cultuur",
+    "type": "article",
+    "title": "Mariëtte Hamer: 'Seksueel wangedrag is geen incident, het zit in onze cultuur'",
+    "subtitle": null,
+    "published_at": "2022-12-07T10:14:37+01:00",
+    "updated_at": "2022-12-07T10:14:38+01:00",
+    "media_id": "1tbxru9avkh4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240724/mariette-hamer-seksueel-wangedrag-is-geen-incident-het-zit-in-onze-cultuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240727,
+    "slug": "rijimpressie-peugeot-408",
+    "type": "video",
+    "title": "Rijimpressie: Peugeot 408",
+    "subtitle": "Video",
+    "published_at": "2022-12-07T09:58:02+01:00",
+    "updated_at": "2022-12-07T09:58:03+01:00",
+    "media_id": "lyhx31uava9y",
+    "duration": "8:05",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6240727/rijimpressie-peugeot-408.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240716,
     "slug": "ioc-waarschuwt-afghanistan-vrouwensport-is-voorwaarde-voor-deelname-spelen",
     "type": "article",
     "title": "IOC waarschuwt Afghanistan: vrouwensport is voorwaarde voor deelname Spelen",
     "subtitle": null,
     "published_at": "2022-12-07T09:46:49+01:00",
-    "updated_at": "2022-12-07T09:46:50+01:00",
+    "updated_at": "2022-12-07T09:48:10+01:00",
     "media_id": "ohaxswuao3mx",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Kans op wereldtitel Oranje is volgens databureau gestegen tot 11 procent",
     "subtitle": null,
     "published_at": "2022-12-07T08:58:31+01:00",
-    "updated_at": "2022-12-07T09:25:13+01:00",
+    "updated_at": "2022-12-07T09:58:49+01:00",
     "media_id": "2n0xlh3al4co",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "China versoepelt coronamaatregelen na protesten, maar beleid blijft streng",
     "subtitle": null,
     "published_at": "2022-12-07T07:53:46+01:00",
-    "updated_at": "2022-12-07T09:46:30+01:00",
+    "updated_at": "2022-12-07T10:01:42+01:00",
     "media_id": "nozxk82auqeh",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6240629/dood-oud-leiders-veroorzaakte-vaak-onrust-moet-china-bang-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240587,
-    "slug": "waarom-kan-je-niet-het-hele-jaar-door-een-andere-zorgverzekering-afsluiten",
-    "type": "article",
-    "title": "Waarom kan je niet het hele jaar door een andere zorgverzekering afsluiten?",
-    "subtitle": null,
-    "published_at": "2022-12-07T06:11:52+01:00",
-    "updated_at": "2022-12-07T09:45:32+01:00",
-    "media_id": "ekzxyorawtm5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6240587/waarom-kan-je-niet-het-hele-jaar-door-een-andere-zorgverzekering-afsluiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240671,
-    "slug": "weerbericht-buien-houden-aan-met-kans-op-hagel-en-natte-sneeuw",
-    "type": "article",
-    "title": "Weerbericht: Buien houden aan met kans op hagel en natte sneeuw",
-    "subtitle": null,
-    "published_at": "2022-12-07T05:52:47+01:00",
-    "updated_at": "2022-12-07T06:10:23+01:00",
-    "media_id": "tkixovcauy8j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240671/weerbericht-buien-houden-aan-met-kans-op-hagel-en-natte-sneeuw.html",
     "open_new_window": false,
     "partner": null
   }
