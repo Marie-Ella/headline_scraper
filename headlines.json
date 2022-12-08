@@ -1,13 +1,36 @@
 [
   {
-    "id": 6240913,
-    "slug": "zeer-zware-ochtendspits-en-veel-ongelukken-door-gladheid-op-de-wegen",
+    "id": 6240916,
+    "slug": "minder-bedrijven-failliet-in-november-dan-een-maand-eerder",
     "type": "article",
-    "title": "Zeer zware ochtendspits en veel ongelukken door gladheid op de wegen",
+    "title": "Minder bedrijven failliet in november dan een maand eerder",
+    "subtitle": null,
+    "published_at": "2022-12-08T08:40:20+01:00",
+    "updated_at": "2022-12-08T08:40:21+01:00",
+    "media_id": "qt5x8gxajme3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6240916/minder-bedrijven-failliet-in-november-dan-een-maand-eerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240913,
+    "slug": "zeer-zware-ochtendspits-door-regen-vele-ongelukken-zorgen-voor-vertraging",
+    "type": "article",
+    "title": "Zeer zware ochtendspits door regen, vele ongelukken zorgen voor vertraging",
     "subtitle": null,
     "published_at": "2022-12-08T08:04:43+01:00",
-    "updated_at": "2022-12-08T08:19:48+01:00",
-    "media_id": "99kxuxpaepjm",
+    "updated_at": "2022-12-08T08:47:23+01:00",
+    "media_id": "rrvxw18a95xd",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6240913/zeer-zware-ochtendspits-en-veel-ongelukken-door-gladheid-op-de-wegen.html",
+    "url": "/binnenland/6240913/zeer-zware-ochtendspits-door-regen-vele-ongelukken-zorgen-voor-vertraging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Paarse Vrijdag moet verplicht gevierd worden op alle scholen",
     "subtitle": null,
     "published_at": "2022-12-08T07:33:22+01:00",
-    "updated_at": "2022-12-08T07:44:48+01:00",
+    "updated_at": "2022-12-08T08:42:24+01:00",
     "media_id": "hjtxejpaxxtg",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Kabinet en organisaties bespreken op Catshuis excuses voor slavernijverleden",
     "subtitle": null,
     "published_at": "2022-12-08T06:45:29+01:00",
-    "updated_at": "2022-12-08T08:22:05+01:00",
+    "updated_at": "2022-12-08T08:35:55+01:00",
     "media_id": "dc1xr30a1437",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Oranjes kijken niet naar kwartfinale WK vanwege verjaardagsfeest Amalia",
     "subtitle": null,
     "published_at": "2022-12-07T22:26:31+01:00",
-    "updated_at": "2022-12-07T22:32:12+01:00",
+    "updated_at": "2022-12-08T08:41:54+01:00",
     "media_id": "bvfx2jwaguvu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6240884/oranjes-kijken-niet-naar-kwartfinale-wk-vanwege-verjaardagsfeest-amalia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240883,
-    "slug": "tegenstanders-peruaanse-president-protesteren-in-lima",
-    "type": "video",
-    "title": "Tegenstanders Peruaanse president protesteren in Lima",
-    "subtitle": "Video",
-    "published_at": "2022-12-07T22:05:20+01:00",
-    "updated_at": "2022-12-07T22:05:21+01:00",
-    "media_id": "0isxky8akajx",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240883/tegenstanders-peruaanse-president-protesteren-in-lima.html",
     "open_new_window": false,
     "partner": null
   }
