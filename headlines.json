@@ -1,12 +1,81 @@
 [
   {
+    "id": 6241009,
+    "slug": "waarom-bestaat-kinderopvangtoeslag-en-waarom-stijgen-de-eigen-kosten",
+    "type": "article",
+    "title": "Waarom bestaat kinderopvangtoeslag en waarom stijgen de eigen kosten?",
+    "subtitle": null,
+    "published_at": "2022-12-09T09:22:50+01:00",
+    "updated_at": "2022-12-09T09:22:51+01:00",
+    "media_id": "031xvo0age07",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778688,
+      "slug": "kind-gezin",
+      "type": "default",
+      "name": "Kind & Gezin",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/kind-gezin/6241009/waarom-bestaat-kinderopvangtoeslag-en-waarom-stijgen-de-eigen-kosten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241128,
+    "slug": "praat-mee-over-paarse-vrijdag",
+    "type": "article",
+    "title": "Praat mee over Paarse Vrijdag",
+    "subtitle": null,
+    "published_at": "2022-12-09T09:00:17+01:00",
+    "updated_at": "2022-12-09T09:00:18+01:00",
+    "media_id": "m3rxmaba04xa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6241128/praat-mee-over-paarse-vrijdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241120,
+    "slug": "kwartfinale-tegen-argentinie-kan-best-bezochte-wk-duel-ooit-worden-van-oranje",
+    "type": "article",
+    "title": "Kwartfinale tegen Argentinië kan best bezochte WK-duel ooit worden van Oranje",
+    "subtitle": null,
+    "published_at": "2022-12-09T08:49:59+01:00",
+    "updated_at": "2022-12-09T08:50:00+01:00",
+    "media_id": "xk4x4puag2a9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241120/kwartfinale-tegen-argentinie-kan-best-bezochte-wk-duel-ooit-worden-van-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241139,
     "slug": "bijna-13-miljoen-mensen-kijken-naar-kika-special-van-beste-zangers",
     "type": "article",
     "title": "Bijna 1,3 miljoen mensen kijken naar KiKa-special van Beste Zangers",
     "subtitle": null,
     "published_at": "2022-12-09T08:41:34+01:00",
-    "updated_at": "2022-12-09T08:41:35+01:00",
+    "updated_at": "2022-12-09T09:18:37+01:00",
     "media_id": "onuxsaraugoo",
     "duration": null,
     "canonical_section": {
@@ -24,12 +93,12 @@
   },
   {
     "id": 6241141,
-    "slug": "japanse-miljardair-neemt-artiesten-mee-op-reis-rond-de-maan",
+    "slug": "japanse-miljardair-neemt-dj-steve-aoki-en-zeven-anderen-mee-op-reis-rond-maan",
     "type": "article",
-    "title": "Japanse miljardair neemt artiesten mee op reis rond de maan",
+    "title": "Japanse miljardair neemt dj Steve Aoki en zeven anderen mee op reis rond maan",
     "subtitle": null,
     "published_at": "2022-12-09T08:39:25+01:00",
-    "updated_at": "2022-12-09T08:39:26+01:00",
+    "updated_at": "2022-12-09T09:13:31+01:00",
     "media_id": "m4jxtefa6728",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6241141/japanse-miljardair-neemt-artiesten-mee-op-reis-rond-de-maan.html",
+    "url": "/tech/6241141/japanse-miljardair-neemt-dj-steve-aoki-en-zeven-anderen-mee-op-reis-rond-maan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Disney+ introduceert goedkoper abonnement met reclame in VS",
     "subtitle": null,
     "published_at": "2022-12-09T07:45:12+01:00",
-    "updated_at": "2022-12-09T07:57:56+01:00",
+    "updated_at": "2022-12-09T09:12:41+01:00",
     "media_id": "onsxiuyas9d6",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Nederland gaat winnen van Argentinië",
     "subtitle": null,
     "published_at": "2022-12-09T07:11:53+01:00",
-    "updated_at": "2022-12-09T07:11:54+01:00",
+    "updated_at": "2022-12-09T09:11:32+01:00",
     "media_id": "wvoxfwuaei3a",
     "duration": null,
     "canonical_section": {
@@ -190,7 +259,7 @@
     "title": "Toezichthouder VS wil overname Activision Blizzard door Microsoft stoppen",
     "subtitle": null,
     "published_at": "2022-12-09T06:50:22+01:00",
-    "updated_at": "2022-12-09T08:00:36+01:00",
+    "updated_at": "2022-12-09T09:11:05+01:00",
     "media_id": "6zgxpcbadugn",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Als Oranje kampioen wordt krijgt het land meer vertrouwen, ook in de economie",
     "subtitle": null,
     "published_at": "2022-12-09T05:30:09+01:00",
-    "updated_at": "2022-12-09T06:10:51+01:00",
+    "updated_at": "2022-12-09T08:49:48+01:00",
     "media_id": "088xa1sahkp3",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6241026/europa-wil-racistische-chatbots-en-losgeslagen-algoritmes-beteugelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241111,
-    "slug": "knmi-waarschuwt-vrijdagochtend-voor-gladheid-gestrooid-in-het-hele-land",
-    "type": "article",
-    "title": "KNMI waarschuwt vrijdagochtend voor gladheid, gestrooid in het hele land",
-    "subtitle": null,
-    "published_at": "2022-12-09T05:24:05+01:00",
-    "updated_at": "2022-12-09T07:52:40+01:00",
-    "media_id": "te9x3jua1fpo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241111/knmi-waarschuwt-vrijdagochtend-voor-gladheid-gestrooid-in-het-hele-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241076,
-    "slug": "vervoerders-zochten-nog-nooit-zoveel-personeel-als-nu",
-    "type": "article",
-    "title": "Vervoerders zochten nog nooit zoveel personeel als nu",
-    "subtitle": null,
-    "published_at": "2022-12-09T00:00:06+01:00",
-    "updated_at": "2022-12-09T07:36:08+01:00",
-    "media_id": "f8pxz65ax14x",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6241076/vervoerders-zochten-nog-nooit-zoveel-personeel-als-nu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241089,
-    "slug": "de-evolutie-van-van-gaal-kan-niet-meer-dezelfde-coach-zijn-als-bij-ajax",
-    "type": "article",
-    "title": "De evolutie van Van Gaal: 'Kan niet meer dezelfde coach zijn als bij Ajax'",
-    "subtitle": "NU+",
-    "published_at": "2022-12-08T23:27:11+01:00",
-    "updated_at": "2022-12-09T05:56:01+01:00",
-    "media_id": "i2txag9at733",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241089/de-evolutie-van-van-gaal-kan-niet-meer-dezelfde-coach-zijn-als-bij-ajax.html",
     "open_new_window": false,
     "partner": null
   }
