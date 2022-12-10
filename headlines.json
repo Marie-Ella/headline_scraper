@@ -1,12 +1,58 @@
 [
   {
+    "id": 6240825,
+    "slug": "ondanks-alle-twijfel-is-giroud-een-franse-legende-de-feniks-van-grenoble",
+    "type": "article",
+    "title": "Ondanks alle twijfel is Giroud een Franse legende: 'De feniks van Grenoble'",
+    "subtitle": "NU+",
+    "published_at": "2022-12-10T07:21:04+01:00",
+    "updated_at": "2022-12-10T07:21:05+01:00",
+    "media_id": "hb0xy2daed99",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240825/ondanks-alle-twijfel-is-giroud-een-franse-legende-de-feniks-van-grenoble.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241356,
+    "slug": "oekraiense-vluchtelingen-moeten-in-tsjechie-plaatsmaken-voor-skiende-politici",
+    "type": "article",
+    "title": "Oekraïense vluchtelingen moeten in Tsjechië plaatsmaken voor skiënde politici",
+    "subtitle": null,
+    "published_at": "2022-12-10T06:52:14+01:00",
+    "updated_at": "2022-12-10T06:52:15+01:00",
+    "media_id": "5fgx19xarpwa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6241356/oekraiense-vluchtelingen-moeten-in-tsjechie-plaatsmaken-voor-skiende-politici.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241355,
     "slug": "slachtofferhulp-meldt-flinke-toename-aantal-slachtoffers-seksueel-wangedrag",
     "type": "article",
     "title": "Slachtofferhulp meldt flinke toename aantal slachtoffers seksueel wangedrag",
     "subtitle": null,
     "published_at": "2022-12-10T06:43:35+01:00",
-    "updated_at": "2022-12-10T06:43:36+01:00",
+    "updated_at": "2022-12-10T07:03:51+01:00",
     "media_id": "z80xitxapqr8",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6241209,
-    "slug": "waarom-onderzoek-naar-koloniale-geschiedenis-van-het-koningshuis-belangrijk-is",
+    "slug": "waarom-onderzoek-naar-koloniale-geschiedenis-koningshuis-belangrijk-is",
     "type": "article",
-    "title": "Waarom onderzoek naar koloniale geschiedenis van het koningshuis belangrijk is",
+    "title": "Waarom onderzoek naar koloniale geschiedenis koningshuis belangrijk is",
     "subtitle": "NU+",
     "published_at": "2022-12-10T06:37:02+01:00",
-    "updated_at": "2022-12-10T06:37:03+01:00",
+    "updated_at": "2022-12-10T06:56:54+01:00",
     "media_id": "dbex2tmal14w",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6241209/waarom-onderzoek-naar-koloniale-geschiedenis-van-het-koningshuis-belangrijk-is.html",
+    "url": "/koningshuis/6241209/waarom-onderzoek-naar-koloniale-geschiedenis-koningshuis-belangrijk-is.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6241340/schouten-stelt-zwaar-teleur-met-zevende-plaats-op-3-kilometer-in-calgary.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241339,
-    "slug": "kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo",
-    "type": "video",
-    "title": "Kroaten uitzinnig na winst op Brazilië, verdriet in São Paulo",
-    "subtitle": "Video",
-    "published_at": "2022-12-09T21:38:46+01:00",
-    "updated_at": "2022-12-09T21:38:47+01:00",
-    "media_id": "0vcx0nmazrol",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241339/kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241216,
-    "slug": "zonnepanelen-huren-in-plaats-van-kopen-is-dat-slim",
-    "type": "article",
-    "title": "Zonnepanelen huren in plaats van kopen: is dat slim?",
-    "subtitle": null,
-    "published_at": "2022-12-09T21:30:17+01:00",
-    "updated_at": "2022-12-09T21:30:18+01:00",
-    "media_id": "8g7xny0aasy3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772342,
-      "slug": "wonen",
-      "type": "default",
-      "name": "Wonen",
-      "style": "nuzakelijk",
-      "media_id": "3qlxtaiahydl",
-      "partner": null
-    },
-    "url": "/wonen/6241216/zonnepanelen-huren-in-plaats-van-kopen-is-dat-slim.html",
     "open_new_window": false,
     "partner": null
   }
