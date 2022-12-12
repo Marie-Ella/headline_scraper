@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241746,
+    "slug": "politie-onderzoekt-grote-vondst-illegaal-vuurwerk-in-nieuwegein",
+    "type": "video",
+    "title": "Politie onderzoekt grote vondst illegaal vuurwerk in Nieuwegein",
+    "subtitle": "Video",
+    "published_at": "2022-12-12T22:44:00+01:00",
+    "updated_at": "2022-12-12T22:44:01+01:00",
+    "media_id": "ahjxt26azrtr",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241746/politie-onderzoekt-grote-vondst-illegaal-vuurwerk-in-nieuwegein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241745,
     "slug": "europees-parlement-herziet-voorstel-om-reizen-naar-qatar-te-vergemakkelijken",
     "type": "article",
     "title": "Europees Parlement herziet voorstel om reizen naar Qatar te vergemakkelijken",
     "subtitle": null,
     "published_at": "2022-12-12T22:20:34+01:00",
-    "updated_at": "2022-12-12T22:20:35+01:00",
+    "updated_at": "2022-12-12T22:41:33+01:00",
     "media_id": "koyxvwaa7vn2",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6241728,
-    "slug": "wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko",
+    "slug": "wegens-rellen-geen-schermen-voor-wk-duel-marokko-in-den-haag-en-amsterdam",
     "type": "article",
-    "title": "Wegens rellen geen schermen op Haagse en Amsterdamse pleinen voor WK-duel Marokko",
+    "title": "Wegens rellen geen schermen voor WK-duel Marokko in Den Haag en Amsterdam",
     "subtitle": null,
     "published_at": "2022-12-12T20:00:50+01:00",
-    "updated_at": "2022-12-12T21:22:22+01:00",
+    "updated_at": "2022-12-12T22:47:32+01:00",
     "media_id": "g4nxcspa0ubz",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241728/wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko.html",
+    "url": "/binnenland/6241728/wegens-rellen-geen-schermen-voor-wk-duel-marokko-in-den-haag-en-amsterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Argentinië treft WK-specialist Kroatië na clash met Oranje",
     "subtitle": "WK-programma",
     "published_at": "2022-12-12T19:13:43+01:00",
-    "updated_at": "2022-12-12T19:21:46+01:00",
+    "updated_at": "2022-12-12T22:37:46+01:00",
     "media_id": "xstxmztasuz0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6241724/f1-teambaas-capito-verlaat-williams-na-twee-jaar-ook-technisch-directeur-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241725,
-    "slug": "afghaans-hotel-staat-in-brand-na-aanval-door-schutters",
-    "type": "video",
-    "title": "Afghaans hotel staat in brand na aanval door schutters",
-    "subtitle": "Video",
-    "published_at": "2022-12-12T18:20:18+01:00",
-    "updated_at": "2022-12-12T18:20:20+01:00",
-    "media_id": "ojxx39ha3snl",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241725/afghaans-hotel-staat-in-brand-na-aanval-door-schutters.html",
     "open_new_window": false,
     "partner": null
   }
