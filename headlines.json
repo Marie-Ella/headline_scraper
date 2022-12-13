@@ -1,5 +1,74 @@
 [
   {
+    "id": 6241905,
+    "slug": "auto-gespiest-door-vangrail-in-groningen",
+    "type": "video",
+    "title": "Auto ‘gespiest’ door vangrail in Groningen",
+    "subtitle": "Video",
+    "published_at": "2022-12-13T16:35:35+01:00",
+    "updated_at": "2022-12-13T16:35:36+01:00",
+    "media_id": "dawxkxbaj8p6",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241905/auto-gespiest-door-vangrail-in-groningen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241897,
+    "slug": "eerste-officiele-ijsdag-van-deze-winter-een-feit-14-graden-in-de-bilt",
+    "type": "article",
+    "title": "Eerste officiële ijsdag van deze winter een feit: -1,4 graden in De Bilt",
+    "subtitle": null,
+    "published_at": "2022-12-13T16:30:34+01:00",
+    "updated_at": "2022-12-13T16:30:36+01:00",
+    "media_id": "476xl2pa03xp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241897/eerste-officiele-ijsdag-van-deze-winter-een-feit-14-graden-in-de-bilt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241899,
+    "slug": "waarom-het-soms-bij-0-graden-voelt-als-10",
+    "type": "video",
+    "title": "Waarom het soms bij 0 graden voelt als -10",
+    "subtitle": "Video",
+    "published_at": "2022-12-13T16:27:03+01:00",
+    "updated_at": "2022-12-13T16:27:05+01:00",
+    "media_id": "tv1x0zqa8oua",
+    "duration": "1:27",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241899/waarom-het-soms-bij-0-graden-voelt-als-10.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241887,
     "slug": "regering-curacao-is-het-oneens-met-hof-en-niet-wil-dat-huwelijk-wordt-opengesteld",
     "type": "article",
@@ -98,7 +167,7 @@
     "title": "NBA vernoemt prijs voor MVP van regulier seizoen naar Michael Jordan",
     "subtitle": null,
     "published_at": "2022-12-13T15:42:51+01:00",
-    "updated_at": "2022-12-13T15:47:05+01:00",
+    "updated_at": "2022-12-13T16:31:48+01:00",
     "media_id": "vuax4bqatmu7",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Hadewych Minis en Antoinette Hertsenberg bij uitblinkerslunch met koningspaar",
     "subtitle": null,
     "published_at": "2022-12-13T15:23:35+01:00",
-    "updated_at": "2022-12-13T16:11:52+01:00",
+    "updated_at": "2022-12-13T16:28:13+01:00",
     "media_id": "eshxkhaar1hn",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6241838/om-eist-jaren-cel-en-vrijspraak-in-zaak-rond-eindhovense-terreurverdachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241843,
-    "slug": "fataal-ongeluk-met-terreinvoertuig-was-noodlottig-ongeval-verdachten-weer-vrij",
-    "type": "article",
-    "title": "Fataal ongeluk met terreinvoertuig was 'noodlottig ongeval', verdachten weer vrij",
-    "subtitle": null,
-    "published_at": "2022-12-13T12:35:18+01:00",
-    "updated_at": "2022-12-13T12:35:19+01:00",
-    "media_id": "taixk41a76wm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241843/fataal-ongeluk-met-terreinvoertuig-was-noodlottig-ongeval-verdachten-weer-vrij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241816,
-    "slug": "dit-vinden-jullie-van-het-verduurzamen-van-anderhalf-miljoen-woningen-tot-2030",
-    "type": "article",
-    "title": "Dit vinden jullie van het verduurzamen van anderhalf miljoen woningen tot 2030",
-    "subtitle": null,
-    "published_at": "2022-12-13T12:30:12+01:00",
-    "updated_at": "2022-12-13T12:30:13+01:00",
-    "media_id": "jvoxe6cah7qo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6241816/dit-vinden-jullie-van-het-verduurzamen-van-anderhalf-miljoen-woningen-tot-2030.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241844,
-    "slug": "rijimpressie-de-volkswagen-amarok",
-    "type": "video",
-    "title": "Rijimpressie: de Volkswagen Amarok",
-    "subtitle": "Video",
-    "published_at": "2022-12-13T12:27:58+01:00",
-    "updated_at": "2022-12-13T12:32:21+01:00",
-    "media_id": "sduxci4a40mx",
-    "duration": "10:00",
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6241844/rijimpressie-de-volkswagen-amarok.html",
     "open_new_window": false,
     "partner": null
   }
