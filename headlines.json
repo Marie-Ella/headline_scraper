@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242160,
+    "slug": "stel-versiert-huis-met-140000-lichtjes-kost-4-euro-per-uur",
+    "type": "video",
+    "title": "Stel versiert huis met 140.000 lichtjes: 'Kost 4 euro per uur'",
+    "subtitle": "Video",
+    "published_at": "2022-12-14T19:27:08+01:00",
+    "updated_at": "2022-12-14T19:27:09+01:00",
+    "media_id": "6u5xmr2avnk7",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242160/stel-versiert-huis-met-140000-lichtjes-kost-4-euro-per-uur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242158,
     "slug": "maaike-verweij-wint-in-burgum-eerste-marathon-op-natuurijs-van-dit-seizoen",
     "type": "article",
     "title": "Maaike Verweij wint in Burgum eerste marathon op natuurijs van dit seizoen",
     "subtitle": null,
     "published_at": "2022-12-14T19:21:40+01:00",
-    "updated_at": "2022-12-14T19:21:53+01:00",
+    "updated_at": "2022-12-14T19:31:44+01:00",
     "media_id": "toqx8g6a7ffd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6242107/aanvoerder-schone-36-verlengt-contract-bij-nec-hij-neemt-spelers-bij-de-hand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242112,
-    "slug": "camper-brandt-volledig-uit-na-explosie-in-amsterdam",
-    "type": "video",
-    "title": "Camper brandt volledig uit na explosie in Amsterdam",
-    "subtitle": "Video",
-    "published_at": "2022-12-14T16:13:41+01:00",
-    "updated_at": "2022-12-14T16:13:42+01:00",
-    "media_id": "l61xl5uapbyi",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242112/camper-brandt-volledig-uit-na-explosie-in-amsterdam.html",
     "open_new_window": false,
     "partner": null
   }
