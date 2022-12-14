@@ -1,12 +1,58 @@
 [
   {
+    "id": 6241983,
+    "slug": "jongeren-zijn-steeds-vaker-betrokken-bij-cybercrime-zaken",
+    "type": "article",
+    "title": "Jongeren zijn steeds vaker betrokken bij cybercrime-zaken",
+    "subtitle": null,
+    "published_at": "2022-12-14T07:18:01+01:00",
+    "updated_at": "2022-12-14T07:18:38+01:00",
+    "media_id": "frcxf40aq55g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6241983/jongeren-zijn-steeds-vaker-betrokken-bij-cybercrime-zaken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241943,
+    "slug": "werkgevers-moeten-veel-meer-doen-om-kantoorpersoneel-in-beweging-te-houden",
+    "type": "article",
+    "title": "Werkgevers moeten veel meer doen om kantoorpersoneel in beweging te houden",
+    "subtitle": null,
+    "published_at": "2022-12-14T07:06:08+01:00",
+    "updated_at": "2022-12-14T07:06:09+01:00",
+    "media_id": "8z6xquqahdya",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6241943/werkgevers-moeten-veel-meer-doen-om-kantoorpersoneel-in-beweging-te-houden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241979,
     "slug": "gasverbruik-neemt-door-vrieskou-flink-toe-gasopslagen-moeten-worden-gebruikt",
     "type": "article",
     "title": "Gasverbruik neemt door vrieskou flink toe, gasopslagen moeten worden gebruikt",
     "subtitle": null,
     "published_at": "2022-12-14T06:46:06+01:00",
-    "updated_at": "2022-12-14T06:46:07+01:00",
+    "updated_at": "2022-12-14T07:24:10+01:00",
     "media_id": "sf7xj4gastxd",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Zeker 120 doden door overstromingen en aardverschuivingen in Kinshasa",
     "subtitle": null,
     "published_at": "2022-12-14T03:55:06+01:00",
-    "updated_at": "2022-12-14T04:33:35+01:00",
+    "updated_at": "2022-12-14T07:11:24+01:00",
     "media_id": "92nx1i5a6xgq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241862/reuzendoder-marokko-aast-in-halve-finales-op-scalp-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241967,
-    "slug": "uitblinker-messi-leidt-argentinie-ten-koste-van-kroatie-naar-wk-finale",
-    "type": "article",
-    "title": "Uitblinker Messi leidt Argentinië ten koste van Kroatië naar WK-finale",
-    "subtitle": null,
-    "published_at": "2022-12-13T21:55:10+01:00",
-    "updated_at": "2022-12-13T22:55:53+01:00",
-    "media_id": "c87xf7hay9a3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241967/uitblinker-messi-leidt-argentinie-ten-koste-van-kroatie-naar-wk-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241970,
-    "slug": "vliegtuigje-brandt-uit-na-crash-in-vs",
-    "type": "video",
-    "title": "Vliegtuigje brandt uit na crash in VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-13T21:52:24+01:00",
-    "updated_at": "2022-12-13T21:52:29+01:00",
-    "media_id": "0mtxdo1a4xzs",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241970/vliegtuigje-brandt-uit-na-crash-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
