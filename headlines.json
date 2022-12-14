@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242183,
+    "slug": "door-vrieskou-regen-en-sneeuw-kan-het-hier-en-daar-glad-zijn",
+    "type": "article",
+    "title": "Door vrieskou, regen en sneeuw kan het hier en daar glad zijn",
+    "subtitle": null,
+    "published_at": "2022-12-14T21:21:55+01:00",
+    "updated_at": "2022-12-14T21:29:53+01:00",
+    "media_id": "n6pxarbaempj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242183/door-vrieskou-regen-en-sneeuw-kan-het-hier-en-daar-glad-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242173,
     "slug": "blind-lijkt-volgende-maand-transfervrij-te-mogen-vertrekken-bij-ajax",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6242131/nederlandse-zorgautoriteit-mag-gegevens-van-alle-ggz-patienten-opvragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242134,
-    "slug": "russische-drones-vallen-kyiv-aan-mijn-huis-is-geraakt",
-    "type": "video",
-    "title": "Russische drones vallen Kyiv aan: 'Mijn huis is geraakt'",
-    "subtitle": "Video",
-    "published_at": "2022-12-14T17:21:58+01:00",
-    "updated_at": "2022-12-14T20:18:12+01:00",
-    "media_id": "xddxccoada5j",
-    "duration": "1:11",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6242134/russische-drones-vallen-kyiv-aan-mijn-huis-is-geraakt.html",
     "open_new_window": false,
     "partner": null
   }
