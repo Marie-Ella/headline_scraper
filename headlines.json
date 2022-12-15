@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242429,
+    "slug": "rijimpressie-maserati-grecale",
+    "type": "video",
+    "title": "Rijimpressie: Maserati Grecale",
+    "subtitle": "Video",
+    "published_at": "2022-12-15T18:20:31+01:00",
+    "updated_at": "2022-12-15T18:22:13+01:00",
+    "media_id": "k11xbwkam68s",
+    "duration": "6:39",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6242429/rijimpressie-maserati-grecale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242428,
     "slug": "scheidsrechter-makkelie-loopt-wk-finale-mis-fifa-kiest-voor-marciniak",
     "type": "article",
     "title": "Scheidsrechter Makkelie loopt WK-finale mis: FIFA kiest voor Marciniak",
     "subtitle": null,
     "published_at": "2022-12-15T18:13:33+01:00",
-    "updated_at": "2022-12-15T18:16:58+01:00",
+    "updated_at": "2022-12-15T18:19:20+01:00",
     "media_id": "m81xo4aa614f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6242372/real-madrid-betaalt-tientallen-miljoenen-voor-braziliaans-toptalent-endrick-16.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242370,
-    "slug": "krimpenerwaard-geteisterd-door-miljoenen-rivierkreeften-roep-om-actie-overheid",
-    "type": "article",
-    "title": "Krimpenerwaard geteisterd door miljoenen rivierkreeften, roep om actie overheid",
-    "subtitle": null,
-    "published_at": "2022-12-15T16:00:49+01:00",
-    "updated_at": "2022-12-15T16:00:50+01:00",
-    "media_id": "izhxz79aun6x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242370/krimpenerwaard-geteisterd-door-miljoenen-rivierkreeften-roep-om-actie-overheid.html",
     "open_new_window": false,
     "partner": null
   }
