@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242795,
+    "slug": "schaatsers-grijpen-laatste-kans-op-gevaarlijk-ijs-in-de-weerribben",
+    "type": "video",
+    "title": "Schaatsers grijpen 'laatste kans' op gevaarlijk ijs in de Weerribben",
+    "subtitle": "Video",
+    "published_at": "2022-12-17T16:53:32+01:00",
+    "updated_at": "2022-12-17T17:06:00+01:00",
+    "media_id": "7inxrpiafpqr",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242795/schaatsers-grijpen-laatste-kans-op-gevaarlijk-ijs-in-de-weerribben.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242793,
-    "slug": "lange-rijen-voor-asbestwasstraat-na-brand-in-loodsen-in-zevenbergen",
+    "slug": "lange-rijen-voor-asbestwasstraat-na-brand-in-loodsen-zevenbergen",
     "type": "article",
-    "title": "Lange rijen voor asbestwasstraat na brand in loodsen in Zevenbergen",
+    "title": "Lange rijen voor asbestwasstraat na brand in loodsen Zevenbergen",
     "subtitle": null,
     "published_at": "2022-12-17T16:48:24+01:00",
-    "updated_at": "2022-12-17T16:48:25+01:00",
+    "updated_at": "2022-12-17T17:04:49+01:00",
     "media_id": "y2exp48a6lw4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6242793/lange-rijen-voor-asbestwasstraat-na-brand-in-loodsen-in-zevenbergen.html",
+    "url": "/binnenland/6242793/lange-rijen-voor-asbestwasstraat-na-brand-in-loodsen-zevenbergen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6242741/oppermachtige-schulting-wint-500-meter-in-almaty-poutsma-en-velzeboer-vallen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242730,
-    "slug": "bekijk-de-reddingsactie-van-stel-dat-crashte-van-90-meter-hoge-klif-in-vs",
-    "type": "video",
-    "title": "Bekijk de reddingsactie van stel dat crashte van 90 meter hoge klif in VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-17T10:26:56+01:00",
-    "updated_at": "2022-12-17T10:26:57+01:00",
-    "media_id": "vjtxoxnagxjg",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6242730/bekijk-de-reddingsactie-van-stel-dat-crashte-van-90-meter-hoge-klif-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
