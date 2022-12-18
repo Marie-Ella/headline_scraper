@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242877,
+    "slug": "ijspret-op-de-delftse-grachten",
+    "type": "video",
+    "title": "IJspret op de Delftse grachten",
+    "subtitle": "Video",
+    "published_at": "2022-12-18T14:01:56+01:00",
+    "updated_at": "2022-12-18T14:05:08+01:00",
+    "media_id": "348xwbza8s27",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242877/ijspret-op-de-delftse-grachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242792,
     "slug": "volle-crematoria-en-dichte-scholen-zo-gaat-het-nu-met-corona-in-china",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "In nieuw EU-plan gaan burgers betalen voor CO2-uitstoot van auto en verwarming",
     "subtitle": null,
     "published_at": "2022-12-18T10:14:48+01:00",
-    "updated_at": "2022-12-18T12:15:08+01:00",
+    "updated_at": "2022-12-18T14:04:51+01:00",
     "media_id": "gduxvqhatm0l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6242833/eerste-toeschouwers-in-stadion-voor-finale-argentinie-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242601,
-    "slug": "stelling-argentinie-wordt-vandaag-wereldkampioen-voetbal",
-    "type": "article",
-    "title": "Stelling: Argentinië wordt vandaag wereldkampioen voetbal",
-    "subtitle": null,
-    "published_at": "2022-12-18T08:01:13+01:00",
-    "updated_at": "2022-12-18T08:01:24+01:00",
-    "media_id": "4dlxi0jasel5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6242601/stelling-argentinie-wordt-vandaag-wereldkampioen-voetbal.html",
     "open_new_window": false,
     "partner": null
   }
