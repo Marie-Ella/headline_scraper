@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242980,
+    "slug": "grote-vuurwerkshow-na-wk-finale",
+    "type": "video",
+    "title": "Grote vuurwerkshow na WK-finale",
+    "subtitle": "Video",
+    "published_at": "2022-12-19T09:39:55+01:00",
+    "updated_at": "2022-12-19T09:39:56+01:00",
+    "media_id": "pb7xwila7bgv",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242980/grote-vuurwerkshow-na-wk-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242970,
     "slug": "heldenontvangst-voor-kroatisch-voetbalelftal",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Wel of geen vegadagen? Praat mee over vegetarisch koken",
     "subtitle": null,
     "published_at": "2022-12-19T09:01:50+01:00",
-    "updated_at": "2022-12-19T09:01:51+01:00",
+    "updated_at": "2022-12-19T09:32:34+01:00",
     "media_id": "extxyiraq15m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6242369/vandaag-betekenisvol-moment-rond-excuses-slavernijverleden-dit-staat-vast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242940,
-    "slug": "russische-troepen-houden-militaire-oefeningen-in-belarus",
-    "type": "article",
-    "title": "Russische troepen houden militaire oefeningen in Belarus",
-    "subtitle": null,
-    "published_at": "2022-12-19T05:23:29+01:00",
-    "updated_at": "2022-12-19T06:56:46+01:00",
-    "media_id": "51pxtsaavfr8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6242940/russische-troepen-houden-militaire-oefeningen-in-belarus.html",
     "open_new_window": false,
     "partner": null
   }
