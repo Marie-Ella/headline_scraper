@@ -1,5 +1,51 @@
 [
   {
+    "id": 6242986,
+    "slug": "drogisterijpersoneel-van-onder-meer-etos-en-kruidvat-staakt-voor-meer-loon",
+    "type": "article",
+    "title": "Drogisterijpersoneel van onder meer Etos en Kruidvat staakt voor meer loon",
+    "subtitle": null,
+    "published_at": "2022-12-19T10:26:03+01:00",
+    "updated_at": "2022-12-19T10:26:16+01:00",
+    "media_id": "l14xafnazv4y",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6242986/drogisterijpersoneel-van-onder-meer-etos-en-kruidvat-staakt-voor-meer-loon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242988,
+    "slug": "twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai",
+    "type": "video",
+    "title": "Twintig gewonden door hevige turbulentie op vlucht naar Hawaï",
+    "subtitle": "Video",
+    "published_at": "2022-12-19T10:21:13+01:00",
+    "updated_at": "2022-12-19T10:21:13+01:00",
+    "media_id": "8tcx5gxaw0g1",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242988/twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242978,
     "slug": "google-lens-maakt-handschrift-van-je-huisarts-leesbaar",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Tweevoudig finalist Venus Williams (42) mag met wildcard meedoen aan Australian Open",
     "subtitle": null,
     "published_at": "2022-12-19T08:44:01+01:00",
-    "updated_at": "2022-12-19T08:45:48+01:00",
+    "updated_at": "2022-12-19T10:26:53+01:00",
     "media_id": "8b7xlisa7fec",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6242572/vijftig-jaar-geleden-kwamen-de-laatste-mensen-terug-van-de-maan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242942,
-    "slug": "weerbericht-temperatuur-loopt-op-waardoor-gladheid-verdwijnt",
-    "type": "article",
-    "title": "Weerbericht: Temperatuur loopt op, waardoor gladheid verdwijnt",
-    "subtitle": null,
-    "published_at": "2022-12-19T05:44:00+01:00",
-    "updated_at": "2022-12-19T06:52:29+01:00",
-    "media_id": "pwuxx0ra3d97",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242942/weerbericht-temperatuur-loopt-op-waardoor-gladheid-verdwijnt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242941,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-12-19T05:33:32+01:00",
-    "updated_at": "2022-12-19T05:33:33+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6242941/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
