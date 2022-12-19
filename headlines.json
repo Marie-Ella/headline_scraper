@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242987,
+    "slug": "voldoende-politie-op-de-been-tijdens-jaarwisseling-ondanks-personeelstekort",
+    "type": "article",
+    "title": "Voldoende politie op de been tijdens jaarwisseling ondanks personeelstekort",
+    "subtitle": null,
+    "published_at": "2022-12-19T10:37:53+01:00",
+    "updated_at": "2022-12-19T10:37:54+01:00",
+    "media_id": "74vxtltav01x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242987/voldoende-politie-op-de-been-tijdens-jaarwisseling-ondanks-personeelstekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242986,
     "slug": "drogisterijpersoneel-van-onder-meer-etos-en-kruidvat-staakt-voor-meer-loon",
     "type": "article",
     "title": "Drogisterijpersoneel van onder meer Etos en Kruidvat staakt voor meer loon",
     "subtitle": null,
     "published_at": "2022-12-19T10:26:03+01:00",
-    "updated_at": "2022-12-19T10:26:16+01:00",
+    "updated_at": "2022-12-19T10:33:12+01:00",
     "media_id": "l14xafnazv4y",
     "duration": null,
     "canonical_section": {
@@ -29,19 +52,19 @@
     "title": "Twintig gewonden door hevige turbulentie op vlucht naar Hawaï",
     "subtitle": "Video",
     "published_at": "2022-12-19T10:21:13+01:00",
-    "updated_at": "2022-12-19T10:21:13+01:00",
+    "updated_at": "2022-12-19T10:42:37+01:00",
     "media_id": "8tcx5gxaw0g1",
     "duration": "0:42",
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Algemeen",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6242988/twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai.html",
+    "url": "/algemeen/6242988/twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Ruim 4,4 miljoen mensen in Nederland zien Argentinië wereldkampioen worden",
     "subtitle": null,
     "published_at": "2022-12-19T08:37:29+01:00",
-    "updated_at": "2022-12-19T08:37:31+01:00",
+    "updated_at": "2022-12-19T10:30:02+01:00",
     "media_id": "wj5x16day0h0",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Argentijnse bondscoach houdt plek vrij voor Messi in selectie voor WK 2026",
     "subtitle": null,
     "published_at": "2022-12-19T08:35:54+01:00",
-    "updated_at": "2022-12-19T08:35:56+01:00",
+    "updated_at": "2022-12-19T10:31:27+01:00",
     "media_id": "3vuxghnar0os",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6242943/youtuber-kalvijn-presenteert-sbs6-programma-avastars.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242572,
-    "slug": "vijftig-jaar-geleden-kwamen-de-laatste-mensen-terug-van-de-maan",
-    "type": "article",
-    "title": "Vijftig jaar geleden kwamen de laatste mensen terug van de maan",
-    "subtitle": null,
-    "published_at": "2022-12-19T05:45:11+01:00",
-    "updated_at": "2022-12-19T10:11:54+01:00",
-    "media_id": "7lux0ceatqtf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6242572/vijftig-jaar-geleden-kwamen-de-laatste-mensen-terug-van-de-maan.html",
     "open_new_window": false,
     "partner": null
   }
