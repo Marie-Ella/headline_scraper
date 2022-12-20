@@ -1,12 +1,58 @@
 [
   {
-    "id": 6243318,
-    "slug": "twee-djs-glazen-huis-hebben-corona-drie-djs-maken-serious-request-in-isolatie-af",
+    "id": 6243325,
+    "slug": "politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens",
+    "type": "video",
+    "title": "Politie deelt beelden van megavondst vuurwerk bij Duitse grens",
+    "subtitle": "Video",
+    "published_at": "2022-12-20T20:48:43+01:00",
+    "updated_at": "2022-12-20T20:48:45+01:00",
+    "media_id": "9utxu3oa2hca",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6243325/politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243324,
+    "slug": "spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa",
     "type": "article",
-    "title": "Twee dj's Glazen Huis hebben corona, drie dj's maken Serious Request in isolatie af",
+    "title": "Spelers Argentinië en Marokko feestelijk onthaald door mensenmassa",
+    "subtitle": "In beeld",
+    "published_at": "2022-12-20T20:46:29+01:00",
+    "updated_at": "2022-12-20T21:12:00+01:00",
+    "media_id": "lh5xmqpaqrh9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243324/spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243318,
+    "slug": "twee-djs-glazen-huis-hebben-corona-en-maken-serious-request-in-isolatie-af",
+    "type": "article",
+    "title": "Twee dj's Glazen Huis hebben corona en maken Serious Request in isolatie af",
     "subtitle": null,
     "published_at": "2022-12-20T20:04:16+01:00",
-    "updated_at": "2022-12-20T20:44:10+01:00",
+    "updated_at": "2022-12-20T21:02:14+01:00",
     "media_id": "n18x5mpav7xa",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6243318/twee-djs-glazen-huis-hebben-corona-drie-djs-maken-serious-request-in-isolatie-af.html",
+    "url": "/media/6243318/twee-djs-glazen-huis-hebben-corona-en-maken-serious-request-in-isolatie-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243273/franse-bond-stapt-naar-rechter-wegens-racisme-tegen-spelers-na-wk-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243267,
-    "slug": "aantal-bevestigde-coronabesmettingen-stabiel-variant-bq1-nu-dominant",
-    "type": "article",
-    "title": "Aantal bevestigde coronabesmettingen stabiel, variant BQ.1 nu dominant",
-    "subtitle": null,
-    "published_at": "2022-12-20T15:55:31+01:00",
-    "updated_at": "2022-12-20T17:00:43+01:00",
-    "media_id": "evpx2i6aexnx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6243267/aantal-bevestigde-coronabesmettingen-stabiel-variant-bq1-nu-dominant.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243266,
-    "slug": "venezolanen-uren-in-de-rij-voor-benzinestation-door-tekorten",
-    "type": "video",
-    "title": "Venezolanen uren in de rij voor benzinestation door tekorten",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T15:31:32+01:00",
-    "updated_at": "2022-12-20T15:31:33+01:00",
-    "media_id": "1g0x6uuaf5al",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243266/venezolanen-uren-in-de-rij-voor-benzinestation-door-tekorten.html",
     "open_new_window": false,
     "partner": null
   }
