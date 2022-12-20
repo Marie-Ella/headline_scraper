@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243135,
+    "slug": "treurig-verschil-in-beeld-kerst-in-oekraine-voor-en-tijdens-de-oorlog",
+    "type": "video",
+    "title": "Treurig verschil in beeld: Kerst in Oekraïne vóór en tijdens de oorlog",
+    "subtitle": "Video",
+    "published_at": "2022-12-20T06:47:33+01:00",
+    "updated_at": "2022-12-20T06:47:54+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": "2:19",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6243135/treurig-verschil-in-beeld-kerst-in-oekraine-voor-en-tijdens-de-oorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243134,
     "slug": "klimaatklever-is-verkozen-tot-woord-van-het-jaar-2022",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Race tegen de klok om wilde planten te redden: wetenschappers zelf in actie",
     "subtitle": "NU+",
     "published_at": "2022-12-20T05:35:31+01:00",
-    "updated_at": "2022-12-20T05:35:32+01:00",
+    "updated_at": "2022-12-20T06:32:50+01:00",
     "media_id": "412xlnpajv5r",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Van Barneveld rekent niet op zesde wereldtitel: 'Maar kans is wel aanwezig'",
     "subtitle": "NU+",
     "published_at": "2022-12-20T05:29:21+01:00",
-    "updated_at": "2022-12-20T06:20:41+01:00",
+    "updated_at": "2022-12-20T06:33:16+01:00",
     "media_id": "4i1xr0tatfba",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6243129,
-    "slug": "terry-hall-leadzanger-van-the-specials-overleden-op-63-jarige-leeftijd",
+    "slug": "the-specials-leadzanger-terry-hall-overleden-op-63-jarige-leeftijd",
     "type": "article",
-    "title": "Terry Hall, leadzanger van The Specials, overleden op 63-jarige leeftijd",
+    "title": "The Specials-leadzanger Terry Hall overleden op 63-jarige leeftijd",
     "subtitle": null,
     "published_at": "2022-12-20T00:29:09+01:00",
-    "updated_at": "2022-12-20T00:29:10+01:00",
+    "updated_at": "2022-12-20T06:39:08+01:00",
     "media_id": "pbhxz9la31hf",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6243129/terry-hall-leadzanger-van-the-specials-overleden-op-63-jarige-leeftijd.html",
+    "url": "/muziek/6243129/the-specials-leadzanger-terry-hall-overleden-op-63-jarige-leeftijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,8 +328,8 @@
     "title": "Dit is de winnaar van het 22e seizoen van Expeditie Robinson",
     "subtitle": null,
     "published_at": "2022-12-19T22:19:25+01:00",
-    "updated_at": "2022-12-19T22:22:22+01:00",
-    "media_id": "g1yxa4baa8lg",
+    "updated_at": "2022-12-20T06:33:14+01:00",
+    "media_id": "pggxn71a64o0",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6243107/commissie-capitool-bestorming-adviseert-vervolging-van-oud-president-trump.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243103,
-    "slug": "russen-ruimen-massaal-sneeuw-na-hevige-buien-in-moskou",
-    "type": "video",
-    "title": "Russen ruimen massaal sneeuw na hevige buien in Moskou",
-    "subtitle": "Video",
-    "published_at": "2022-12-19T20:22:17+01:00",
-    "updated_at": "2022-12-19T20:22:18+01:00",
-    "media_id": "buwxi1xamu9f",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243103/russen-ruimen-massaal-sneeuw-na-hevige-buien-in-moskou.html",
     "open_new_window": false,
     "partner": null
   }
