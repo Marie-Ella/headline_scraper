@@ -1,5 +1,51 @@
 [
   {
+    "id": 6243401,
+    "slug": "hulpdiensten-bekijken-schade-nadat-schip-friese-brug-heeft-geramd",
+    "type": "video",
+    "title": "Hulpdiensten bekijken schade nadat schip Friese brug heeft geramd",
+    "subtitle": "Video",
+    "published_at": "2022-12-21T10:07:42+01:00",
+    "updated_at": "2022-12-21T10:07:43+01:00",
+    "media_id": "29mxyt0a03li",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243401/hulpdiensten-bekijken-schade-nadat-schip-friese-brug-heeft-geramd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243398,
+    "slug": "amerikaanse-gamers-proberen-overname-van-activision-blizzard-tegen-te-houden",
+    "type": "article",
+    "title": "Amerikaanse gamers proberen overname van Activision Blizzard tegen te houden",
+    "subtitle": null,
+    "published_at": "2022-12-21T10:04:44+01:00",
+    "updated_at": "2022-12-21T10:04:46+01:00",
+    "media_id": "6zgxpcbadugn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243398/amerikaanse-gamers-proberen-overname-van-activision-blizzard-tegen-te-houden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243376,
     "slug": "sportgala-breekt-aan-verstappen-gaat-voor-derde-prijs-dilemma-bij-de-vrouwen",
     "type": "article",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6243379,
-    "slug": "vrij-of-werken-tijdens-pasen-praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen",
+    "slug": "vrij-of-werken-tijdens-kerst-praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen",
     "type": "article",
-    "title": "Vrij of werken tijdens Pasen? Praat mee over vrij zijn tijdens religieuze feestdagen",
+    "title": "Vrij of werken tijdens kerst? Praat mee over vrij zijn tijdens religieuze feestdagen",
     "subtitle": null,
     "published_at": "2022-12-21T09:00:22+01:00",
-    "updated_at": "2022-12-21T09:06:03+01:00",
+    "updated_at": "2022-12-21T10:13:16+01:00",
     "media_id": "jn5xs1kabgyt",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6243379/vrij-of-werken-tijdens-pasen-praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen.html",
+    "url": "/stelling/6243379/vrij-of-werken-tijdens-kerst-praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Feestdagen vallen iets gunstiger, volgend jaar wordt een 'werknemersparadijs'",
     "subtitle": null,
     "published_at": "2022-12-21T07:07:20+01:00",
-    "updated_at": "2022-12-21T08:50:42+01:00",
+    "updated_at": "2022-12-21T10:06:07+01:00",
     "media_id": "3uoxv1za6lq4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6243225/dikke-laag-stof-doet-marslander-de-das-om-dit-heeft-het-vaartuig-allemaal-ontdekt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243286,
-    "slug": "van-gerwen-na-sterk-jaar-wk-favoriet-het-is-allemaal-geen-wetenschap",
-    "type": "article",
-    "title": "Van Gerwen na sterk jaar WK-favoriet: 'Het is allemaal geen wetenschap'",
-    "subtitle": "NU+",
-    "published_at": "2022-12-21T05:32:19+01:00",
-    "updated_at": "2022-12-21T05:46:09+01:00",
-    "media_id": "8nux0fvaxf44",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6243286/van-gerwen-na-sterk-jaar-wk-favoriet-het-is-allemaal-geen-wetenschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243162,
-    "slug": "derde-seizoen-emily-in-paris-de-fransen-zien-haar-liever-snel-vertrekken",
-    "type": "article",
-    "title": "Derde seizoen Emily in Paris: de Fransen zien haar liever snel vertrekken",
-    "subtitle": null,
-    "published_at": "2022-12-21T05:30:51+01:00",
-    "updated_at": "2022-12-21T05:30:52+01:00",
-    "media_id": "b9yxvzladbvt",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6243162/derde-seizoen-emily-in-paris-de-fransen-zien-haar-liever-snel-vertrekken.html",
     "open_new_window": false,
     "partner": null
   }
