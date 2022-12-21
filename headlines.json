@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243590,
+    "slug": "giel-beelen-wint-marconi-oeuvre-award",
+    "type": "article",
+    "title": "Giel Beelen wint Marconi Oeuvre Award",
+    "subtitle": null,
+    "published_at": "2022-12-22T00:34:02+01:00",
+    "updated_at": "2022-12-22T00:34:03+01:00",
+    "media_id": "b8lxhdpa6kpc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6243590/giel-beelen-wint-marconi-oeuvre-award.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243589,
     "slug": "biden-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243569/veroordeelde-man-in-beuningse-vergismoord-knipt-enkelband-door-en-slaat-op-de-vlucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243567,
-    "slug": "duurste-raketafweersysteem-naar-oekraine-wat-maakt-dit-zo-speciaal",
-    "type": "video",
-    "title": "Duurste raketafweersysteem naar Oekraïne: wat maakt dit zo speciaal?",
-    "subtitle": "Video",
-    "published_at": "2022-12-21T20:06:26+01:00",
-    "updated_at": "2022-12-21T20:40:19+01:00",
-    "media_id": "ih4xfsoattqq",
-    "duration": "2:14",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243567/duurste-raketafweersysteem-naar-oekraine-wat-maakt-dit-zo-speciaal.html",
     "open_new_window": false,
     "partner": null
   }
