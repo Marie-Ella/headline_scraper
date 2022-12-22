@@ -1,5 +1,51 @@
 [
   {
+    "id": 6243630,
+    "slug": "a7-tussen-heerenveen-en-groningen-dicht-vanwege-brandende-kraanwagen",
+    "type": "article",
+    "title": "A7 tussen Heerenveen en Groningen dicht vanwege brandende kraanwagen",
+    "subtitle": null,
+    "published_at": "2022-12-22T09:17:08+01:00",
+    "updated_at": "2022-12-22T09:17:10+01:00",
+    "media_id": "499xga0a62nu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243630/a7-tussen-heerenveen-en-groningen-dicht-vanwege-brandende-kraanwagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243620,
+    "slug": "hoe-volg-jij-het-nieuws-praat-mee-over-kranten-en-media",
+    "type": "article",
+    "title": "Hoe volg jij het nieuws? Praat mee over kranten en media",
+    "subtitle": null,
+    "published_at": "2022-12-22T09:09:05+01:00",
+    "updated_at": "2022-12-22T09:09:06+01:00",
+    "media_id": "8z7xgtfa2mww",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6243620/hoe-volg-jij-het-nieuws-praat-mee-over-kranten-en-media.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243622,
     "slug": "britse-krant-the-guardian-vermoedelijk-getroffen-door-ransomwareaanval",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Krapte op arbeidsmarkt is volgens het UWV over het hoogtepunt heen",
     "subtitle": null,
     "published_at": "2022-12-22T08:30:29+01:00",
-    "updated_at": "2022-12-22T08:30:30+01:00",
+    "updated_at": "2022-12-22T08:50:38+01:00",
     "media_id": "qvyxsu9avnno",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Weghorst blikt terug op akkefietje met Messi: 'Hij kent nu wel mijn naam'",
     "subtitle": null,
     "published_at": "2022-12-22T07:20:51+01:00",
-    "updated_at": "2022-12-22T08:15:55+01:00",
+    "updated_at": "2022-12-22T08:58:23+01:00",
     "media_id": "2e0xwdyals8y",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Frank Lammers volgend jaar als Kerstman te zien in nieuwe Ziggo Dome-show",
     "subtitle": null,
     "published_at": "2022-12-22T06:34:22+01:00",
-    "updated_at": "2022-12-22T08:05:22+01:00",
+    "updated_at": "2022-12-22T09:07:45+01:00",
     "media_id": "kxyxxaca6857",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/darts/6243485/vincent-van-der-voort-ik-ben-niet-de-beste-maar-ik-kan-wel-van-iedereen-winnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242094,
-    "slug": "bijna-140-nieuwe-aanvragen-vergoeding-voor-nazaten-geexecuteerde-indonesiers",
-    "type": "article",
-    "title": "Bijna 140 nieuwe aanvragen vergoeding voor nazaten geëxecuteerde Indonesiërs",
-    "subtitle": null,
-    "published_at": "2022-12-22T05:26:07+01:00",
-    "updated_at": "2022-12-22T07:48:08+01:00",
-    "media_id": "v3exkswadh9p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242094/bijna-140-nieuwe-aanvragen-vergoeding-voor-nazaten-geexecuteerde-indonesiers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243592,
-    "slug": "weerbericht-veel-bewolking-en-regen-in-de-middag-lokaal-kans-op-wat-zon",
-    "type": "article",
-    "title": "Weerbericht: Veel bewolking en regen, in de middag lokaal kans op wat zon",
-    "subtitle": null,
-    "published_at": "2022-12-22T05:23:53+01:00",
-    "updated_at": "2022-12-22T07:41:29+01:00",
-    "media_id": "u3dxps2awugg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6243592/weerbericht-veel-bewolking-en-regen-in-de-middag-lokaal-kans-op-wat-zon.html",
     "open_new_window": false,
     "partner": null
   }
