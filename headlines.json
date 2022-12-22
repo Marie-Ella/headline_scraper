@@ -1,13 +1,36 @@
 [
   {
+    "id": 6243636,
+    "slug": "voorgevel-woning-aan-diggelen-door-explosie-in-roosendaal",
+    "type": "video",
+    "title": "Voorgevel woning aan diggelen door explosie in Roosendaal",
+    "subtitle": "Video",
+    "published_at": "2022-12-22T09:32:39+01:00",
+    "updated_at": "2022-12-22T09:32:40+01:00",
+    "media_id": "m5oxqiya2kux",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243636/voorgevel-woning-aan-diggelen-door-explosie-in-roosendaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243630,
     "slug": "a7-tussen-heerenveen-en-groningen-dicht-vanwege-brandende-kraanwagen",
     "type": "article",
     "title": "A7 tussen Heerenveen en Groningen dicht vanwege brandende kraanwagen",
     "subtitle": null,
     "published_at": "2022-12-22T09:17:08+01:00",
-    "updated_at": "2022-12-22T09:17:10+01:00",
-    "media_id": "499xga0a62nu",
+    "updated_at": "2022-12-22T09:30:38+01:00",
+    "media_id": "tx0x85uas2n5",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -190,7 +213,7 @@
     "title": "Zelensky voor Amerikaans Congres: ‘Zorgen samen voor vrijheid’",
     "subtitle": "Video",
     "published_at": "2022-12-22T07:56:03+01:00",
-    "updated_at": "2022-12-22T07:56:04+01:00",
+    "updated_at": "2022-12-22T09:33:17+01:00",
     "media_id": "k7nx4g9a13a8",
     "duration": "1:17",
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Eva Kaili (die van die sporttas vol cash) voor de rechter in EU-corruptiezaak",
     "subtitle": null,
     "published_at": "2022-12-22T05:53:49+01:00",
-    "updated_at": "2022-12-22T06:58:29+01:00",
+    "updated_at": "2022-12-22T09:44:06+01:00",
     "media_id": "iujxd2eary37",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "We blijven ons vaker ziek melden dan voor de coronapandemie",
     "subtitle": null,
     "published_at": "2022-12-22T05:28:06+01:00",
-    "updated_at": "2022-12-22T05:28:07+01:00",
+    "updated_at": "2022-12-22T09:48:10+01:00",
     "media_id": "00vx5z5amwjy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6243491/we-blijven-ons-vaker-ziek-melden-dan-voor-de-coronapandemie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243485,
-    "slug": "vincent-van-der-voort-ik-ben-niet-de-beste-maar-ik-kan-wel-van-iedereen-winnen",
-    "type": "article",
-    "title": "Vincent van der Voort: 'Ik ben niet de beste, maar ik kan wel van iedereen winnen'",
-    "subtitle": null,
-    "published_at": "2022-12-22T05:26:46+01:00",
-    "updated_at": "2022-12-22T08:22:06+01:00",
-    "media_id": "sbix5j3a6mrr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6243485/vincent-van-der-voort-ik-ben-niet-de-beste-maar-ik-kan-wel-van-iedereen-winnen.html",
     "open_new_window": false,
     "partner": null
   }
