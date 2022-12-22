@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243753,
+    "slug": "jelle-brandt-corstius-hoort-strafeis-na-metoo-beschuldiging",
+    "type": "video",
+    "title": "Jelle Brandt Corstius hoort strafeis na MeToo-beschuldiging",
+    "subtitle": "Video",
+    "published_at": "2022-12-22T16:27:22+01:00",
+    "updated_at": "2022-12-22T16:27:23+01:00",
+    "media_id": "ps3xqu0adqe9",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243753/jelle-brandt-corstius-hoort-strafeis-na-metoo-beschuldiging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243734,
     "slug": "man-die-glazenwasser-van-ladder-duwde-krijgt-25-jaar-cel-en-tbs",
     "type": "article",
@@ -24,13 +47,13 @@
   },
   {
     "id": 6243738,
-    "slug": "van-duijvenbode-komt-voor-het-eerst-in-actie-in-ally-pally",
+    "slug": "van-duijvenbode-begint-goed-aan-wedstrijd-tegen-sedlacek",
     "type": "article",
-    "title": "Van Duijvenbode komt voor het eerst in actie in Ally Pally",
+    "title": "Van Duijvenbode begint goed aan wedstrijd tegen Sedlacek",
     "subtitle": "Liveblog WK darts",
     "published_at": "2022-12-22T16:07:44+01:00",
-    "updated_at": "2022-12-22T16:14:23+01:00",
-    "media_id": "cfuxnm6an1kl",
+    "updated_at": "2022-12-22T16:32:42+01:00",
+    "media_id": "6alxd64a1lwv",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6243738/van-duijvenbode-komt-voor-het-eerst-in-actie-in-ally-pally.html",
+    "url": "/darts/6243738/van-duijvenbode-begint-goed-aan-wedstrijd-tegen-sedlacek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6243714,
-    "slug": "stroomstoring-flevoland-gevolg-van-menselijk-handelen-en-technische-problemen",
+    "slug": "stroomstoring-in-flevoland-kwam-door-uitzonderlijke-combinatie-van-fouten",
     "type": "article",
-    "title": "Stroomstoring Flevoland gevolg van menselijk handelen en technische problemen",
+    "title": "Stroomstoring in Flevoland kwam door 'uitzonderlijke combinatie' van fouten",
     "subtitle": null,
     "published_at": "2022-12-22T15:32:12+01:00",
-    "updated_at": "2022-12-22T15:38:21+01:00",
+    "updated_at": "2022-12-22T16:28:50+01:00",
     "media_id": "wslxq5ea305d",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6243714/stroomstoring-flevoland-gevolg-van-menselijk-handelen-en-technische-problemen.html",
+    "url": "/binnenland/6243714/stroomstoring-in-flevoland-kwam-door-uitzonderlijke-combinatie-van-fouten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Nederland boekt overwinning in patatoorlog met Colombia",
     "subtitle": null,
     "published_at": "2022-12-22T13:46:51+01:00",
-    "updated_at": "2022-12-22T13:49:49+01:00",
+    "updated_at": "2022-12-22T16:27:25+01:00",
     "media_id": "8w8xsxaaze8m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243685/ex-beambte-krijgt-jaar-voorwaardelijk-voor-vervalsen-paspoorten-zware-criminelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243671,
-    "slug": "30000-jaar-oude-aboriginalkunst-vernield-in-zuid-australie-tragisch-verlies",
-    "type": "article",
-    "title": "30.000 jaar oude Aboriginalkunst vernield in Zuid-Australië: 'Tragisch verlies'",
-    "subtitle": null,
-    "published_at": "2022-12-22T11:59:37+01:00",
-    "updated_at": "2022-12-22T13:14:04+01:00",
-    "media_id": "usjxmugajocw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243671/30000-jaar-oude-aboriginalkunst-vernield-in-zuid-australie-tragisch-verlies.html",
     "open_new_window": false,
     "partner": null
   }
