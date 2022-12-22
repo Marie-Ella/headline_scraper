@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243666,
+    "slug": "gasprijs-daalt-verder-richting-90-euro",
+    "type": "article",
+    "title": "Gasprijs daalt verder richting 90 euro",
+    "subtitle": null,
+    "published_at": "2022-12-22T11:25:47+01:00",
+    "updated_at": "2022-12-22T11:25:48+01:00",
+    "media_id": "vn8x70yawe4z",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6243666/gasprijs-daalt-verder-richting-90-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243664,
     "slug": "amerikaanse-politie-achtervolgt-ontsnapte-lama-met-helikopter",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243601/weghorst-blikt-terug-op-akkefietje-met-messi-hij-kent-nu-wel-mijn-naam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243596,
-    "slug": "van-gerwen-begint-wk-darts-met-overtuigende-zege",
-    "type": "video",
-    "title": "Van Gerwen begint WK darts met overtuigende zege",
-    "subtitle": "Video",
-    "published_at": "2022-12-22T06:51:30+01:00",
-    "updated_at": "2022-12-22T07:54:27+01:00",
-    "media_id": "qhoxrygavw45",
-    "duration": "1:02",
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6243596/van-gerwen-begint-wk-darts-met-overtuigende-zege.html",
     "open_new_window": false,
     "partner": null
   }
