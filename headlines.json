@@ -1,12 +1,58 @@
 [
   {
+    "id": 6243871,
+    "slug": "prijs-omroepman-of-vrouw-van-het-jaar-wordt-genderneutraal",
+    "type": "article",
+    "title": "Prijs Omroepman of -vrouw van het Jaar wordt genderneutraal",
+    "subtitle": null,
+    "published_at": "2022-12-23T11:43:40+01:00",
+    "updated_at": "2022-12-23T11:43:43+01:00",
+    "media_id": "8vyxothavsh4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6243871/prijs-omroepman-of-vrouw-van-het-jaar-wordt-genderneutraal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243874,
+    "slug": "nog-vier-aanhoudingen-in-onderzoek-naar-mishandeling-bewoners-zorgboerderij",
+    "type": "article",
+    "title": "Nog vier aanhoudingen in onderzoek naar mishandeling bewoners zorgboerderij",
+    "subtitle": null,
+    "published_at": "2022-12-23T11:38:22+01:00",
+    "updated_at": "2022-12-23T11:41:00+01:00",
+    "media_id": "e3gxvozax6c5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243874/nog-vier-aanhoudingen-in-onderzoek-naar-mishandeling-bewoners-zorgboerderij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243877,
     "slug": "vliegtuigje-slaat-over-de-kop-bij-noodlanding-op-strand-in-vs",
     "type": "video",
     "title": "Vliegtuigje slaat over de kop bij noodlanding op strand in VS",
     "subtitle": "Video",
     "published_at": "2022-12-23T11:13:30+01:00",
-    "updated_at": "2022-12-23T11:13:32+01:00",
+    "updated_at": "2022-12-23T11:38:04+01:00",
     "media_id": "9jfx880a1woq",
     "duration": "0:51",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6243815/huishoudens-hadden-ondanks-torenhoge-inflatie-iets-meer-te-besteden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243814,
-    "slug": "ake-zorgt-met-fraaie-kopbal-voor-winnende-treffer-bij-city-liverpool",
-    "type": "video",
-    "title": "Aké zorgt met fraaie kopbal voor winnende treffer bij City-Liverpool",
-    "subtitle": "Video",
-    "published_at": "2022-12-23T07:28:24+01:00",
-    "updated_at": "2022-12-23T07:28:30+01:00",
-    "media_id": "hmvx6flagr3r",
-    "duration": "1:24",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6243814/ake-zorgt-met-fraaie-kopbal-voor-winnende-treffer-bij-city-liverpool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243794,
-    "slug": "dylan-van-baarle-is-klaar-om-nederlands-uithangbord-van-jumbo-visma-te-worden",
-    "type": "article",
-    "title": "Dylan van Baarle is klaar om Nederlands uithangbord van Jumbo-Visma te worden",
-    "subtitle": null,
-    "published_at": "2022-12-23T07:16:12+01:00",
-    "updated_at": "2022-12-23T07:16:13+01:00",
-    "media_id": "k7dxhsdag5ab",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6243794/dylan-van-baarle-is-klaar-om-nederlands-uithangbord-van-jumbo-visma-te-worden.html",
     "open_new_window": false,
     "partner": null
   }
