@@ -92,36 +92,13 @@
     "partner": null
   },
   {
-    "id": 6244185,
-    "slug": "wat-is-het-effect-van-televisiekijken-op-kinderen",
-    "type": "article",
-    "title": "Wat is het effect van televisiekijken op kinderen?",
-    "subtitle": null,
-    "published_at": "2022-12-25T19:01:26+01:00",
-    "updated_at": "2022-12-25T19:01:27+01:00",
-    "media_id": "v79xut2a7vtx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6244185/wat-is-het-effect-van-televisiekijken-op-kinderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6244216,
     "slug": "meerdere-mensen-bedolven-onder-lawine-bij-oostenrijkse-plaats-lech",
     "type": "article",
     "title": "Meerdere mensen bedolven onder lawine bij Oostenrijkse plaats Lech",
     "subtitle": null,
     "published_at": "2022-12-25T18:54:50+01:00",
-    "updated_at": "2022-12-25T19:53:13+01:00",
+    "updated_at": "2022-12-25T20:33:01+01:00",
     "media_id": "zx2xsa9ah02c",
     "duration": null,
     "canonical_section": {
@@ -144,8 +121,8 @@
     "title": "Jongen (16) aangehouden voor fatale schietpartij Amsterdam",
     "subtitle": null,
     "published_at": "2022-12-25T18:46:40+01:00",
-    "updated_at": "2022-12-25T18:46:42+01:00",
-    "media_id": "mkcxl0wal63r",
+    "updated_at": "2022-12-25T20:47:17+01:00",
+    "media_id": "n6hx5oeapeoo",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/muziek/6243312/rockin-around-the-christmas-tree-werd-geboren-op-een-strandbedje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244169,
+    "slug": "zestien-doden-door-russische-aanvallen-en-mijnen-in-oekraiense-regio-kherson",
+    "type": "article",
+    "title": "Zestien doden door Russische aanvallen en mijnen in Oekraïense regio Kherson",
+    "subtitle": null,
+    "published_at": "2022-12-25T11:34:55+01:00",
+    "updated_at": "2022-12-25T11:53:24+01:00",
+    "media_id": "we2xebwa5tcj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6244169/zestien-doden-door-russische-aanvallen-en-mijnen-in-oekraiense-regio-kherson.html",
     "open_new_window": false,
     "partner": null
   }
