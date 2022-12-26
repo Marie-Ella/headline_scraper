@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244311,
+    "slug": "van-dijk-scoort-voor-liverpool-in-eerste-wedstrijd-na-wk",
+    "type": "video",
+    "title": "Van Dijk scoort voor Liverpool in eerste wedstrijd na WK",
+    "subtitle": "Video",
+    "published_at": "2022-12-26T19:25:43+01:00",
+    "updated_at": "2022-12-26T19:31:45+01:00",
+    "media_id": "5dpx05na43dn",
+    "duration": "1:33",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6244311/van-dijk-scoort-voor-liverpool-in-eerste-wedstrijd-na-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244310,
     "slug": "kane-mikpunt-van-spreekkoren-na-wk-misser-ze-zijn-bang-voor-hem",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6244279/dit-vinden-jullie-van-de-vluchtelingen-in-oss-die-samenleven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243935,
-    "slug": "achter-de-oorlog-schaatsen-in-kyiv-om-de-oorlog-te-vergeten",
-    "type": "article",
-    "title": "Achter de oorlog: Schaatsen in Kyiv om de oorlog te vergeten",
-    "subtitle": "NU+",
-    "published_at": "2022-12-26T12:18:38+01:00",
-    "updated_at": "2022-12-26T12:18:39+01:00",
-    "media_id": "mzcx35lakw5w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6243935/achter-de-oorlog-schaatsen-in-kyiv-om-de-oorlog-te-vergeten.html",
     "open_new_window": false,
     "partner": null
   }
