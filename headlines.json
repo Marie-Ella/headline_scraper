@@ -1,12 +1,35 @@
 [
   {
+    "id": 6243045,
+    "slug": "mediawerkvloer-veranderd-na-the-voice-gedragsregels-en-geen-geschreeuw",
+    "type": "article",
+    "title": "Mediawerkvloer veranderd na The Voice: gedragsregels en geen geschreeuw",
+    "subtitle": null,
+    "published_at": "2022-12-27T05:39:01+01:00",
+    "updated_at": "2022-12-27T05:39:02+01:00",
+    "media_id": "adjxrkhawb5q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6243045/mediawerkvloer-veranderd-na-the-voice-gedragsregels-en-geen-geschreeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244325,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2022-12-27T05:37:28+01:00",
-    "updated_at": "2022-12-27T05:37:34+01:00",
+    "updated_at": "2022-12-27T05:37:41+01:00",
     "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6244307/kinder-ics-liggen-vol-door-toenemend-aantal-kinderen-met-het-rs-virus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244297,
-    "slug": "is-de-kerstman-bedacht-door-coca-cola",
-    "type": "article",
-    "title": "Is de kerstman bedacht door Coca-Cola?",
-    "subtitle": null,
-    "published_at": "2022-12-26T18:30:04+01:00",
-    "updated_at": "2022-12-26T18:30:05+01:00",
-    "media_id": "syexzyjagobe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6244297/is-de-kerstman-bedacht-door-coca-cola.html",
     "open_new_window": false,
     "partner": null
   }
