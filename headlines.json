@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244480,
+    "slug": "water-stroomt-historische-stad-petra-binnen",
+    "type": "video",
+    "title": "Water stroomt historische stad Petra binnen",
+    "subtitle": "Video",
+    "published_at": "2022-12-27T19:46:25+01:00",
+    "updated_at": "2022-12-27T19:47:30+01:00",
+    "media_id": "itrxntya40k0",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6244480/water-stroomt-historische-stad-petra-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244474,
     "slug": "twitter-account-van-britse-journalist-piers-morgan-gehackt-en-geleegd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Groenewoud kan allroundtitel pakken, al schaatste ze nog nooit een 5 kilometer",
     "subtitle": null,
     "published_at": "2022-12-27T18:54:58+01:00",
-    "updated_at": "2022-12-27T18:54:59+01:00",
+    "updated_at": "2022-12-27T19:47:00+01:00",
     "media_id": "hbkxeytatyfe",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6244466,
-    "slug": "van-volendam-uit-tot-valencia-thuis-6-sleutelmomenten-van-daley-blind-bij-ajax",
+    "slug": "van-volendam-tot-valencia-zes-cruciale-momenten-van-daley-blind-bij-ajax",
     "type": "article",
-    "title": "Van Volendam-uit tot Valencia-thuis: 6 sleutelmomenten van Daley Blind bij Ajax",
+    "title": "Van Volendam tot Valencia: zes cruciale momenten van Daley Blind bij Ajax",
     "subtitle": null,
     "published_at": "2022-12-27T18:09:55+01:00",
-    "updated_at": "2022-12-27T19:29:33+01:00",
+    "updated_at": "2022-12-27T19:44:23+01:00",
     "media_id": "qr4x4siaabms",
     "duration": null,
     "canonical_section": {
@@ -156,18 +179,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6244466/van-volendam-uit-tot-valencia-thuis-6-sleutelmomenten-van-daley-blind-bij-ajax.html",
+    "url": "/voetbal/6244466/van-volendam-tot-valencia-zes-cruciale-momenten-van-daley-blind-bij-ajax.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6244464,
-    "slug": "jutta-leerdam-leidt-sprinttoernooi-na-sensationeel-baanrecord-op-1000-meter",
+    "slug": "jutta-leerdam-leidt-op-nk-sprint-na-sensationeel-baanrecord-op-1000-meter",
     "type": "article",
-    "title": "Jutta Leerdam leidt sprinttoernooi na sensationeel baanrecord op 1.000 meter",
+    "title": "Jutta Leerdam leidt op NK sprint na sensationeel baanrecord op 1.000 meter",
     "subtitle": null,
     "published_at": "2022-12-27T18:08:22+01:00",
-    "updated_at": "2022-12-27T19:27:50+01:00",
+    "updated_at": "2022-12-27T19:40:04+01:00",
     "media_id": "av5xwz0axax5",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6244464/jutta-leerdam-leidt-sprinttoernooi-na-sensationeel-baanrecord-op-1000-meter.html",
+    "url": "/schaatsen/6244464/jutta-leerdam-leidt-op-nk-sprint-na-sensationeel-baanrecord-op-1000-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244420/man-verdacht-van-rijden-onder-invloed-bij-frontale-botsing-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244422,
-    "slug": "van-aert-klopt-van-der-poel-na-spannende-tweestrijd-in-heusden-zolder",
-    "type": "article",
-    "title": "Van Aert klopt Van der Poel na spannende tweestrijd in Heusden-Zolder",
-    "subtitle": null,
-    "published_at": "2022-12-27T14:58:13+01:00",
-    "updated_at": "2022-12-27T16:49:11+01:00",
-    "media_id": "303x3hla576u",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6244422/van-aert-klopt-van-der-poel-na-spannende-tweestrijd-in-heusden-zolder.html",
     "open_new_window": false,
     "partner": null
   }
