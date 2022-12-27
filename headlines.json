@@ -1,13 +1,36 @@
 [
   {
+    "id": 6244336,
+    "slug": "a12-bij-zoetermeer-dagenlang-dicht-vanwege-vervangen-brug-bij-treinstation",
+    "type": "article",
+    "title": "A12 bij Zoetermeer dagenlang dicht vanwege vervangen brug bij treinstation",
+    "subtitle": null,
+    "published_at": "2022-12-27T07:37:21+01:00",
+    "updated_at": "2022-12-27T07:37:22+01:00",
+    "media_id": "lw3x06ta9o1g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6244336/a12-bij-zoetermeer-dagenlang-dicht-vanwege-vervangen-brug-bij-treinstation.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244335,
     "slug": "privejet-elon-musk-met-24-uur-vertraging-te-volgen-via-nieuw-twitter-account",
     "type": "article",
     "title": "Privéjet Elon Musk met 24 uur vertraging te volgen via nieuw Twitter-account",
     "subtitle": null,
     "published_at": "2022-12-27T07:33:27+01:00",
-    "updated_at": "2022-12-27T07:33:28+01:00",
-    "media_id": "tchxhcsazkrr",
+    "updated_at": "2022-12-27T07:46:56+01:00",
+    "media_id": "uncxaz1a1f1x",
     "duration": null,
     "canonical_section": {
       "id": 1771438,
@@ -29,7 +52,7 @@
     "title": "Biden roept noodtoestand uit in door sneeuw geteisterde staat New York",
     "subtitle": null,
     "published_at": "2022-12-27T07:26:30+01:00",
-    "updated_at": "2022-12-27T07:26:31+01:00",
+    "updated_at": "2022-12-27T07:45:27+01:00",
     "media_id": "cc8xohgaf05v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6244316/niet-fitte-bergsma-ontbreekt-in-navolging-van-schouten-op-nk-allround-in-thialf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244314,
-    "slug": "tweede-verdachte-15-van-schietpartij-in-amsterdam-opgepakt",
-    "type": "article",
-    "title": "Tweede verdachte (15) van schietpartij in Amsterdam opgepakt",
-    "subtitle": null,
-    "published_at": "2022-12-26T21:11:01+01:00",
-    "updated_at": "2022-12-27T06:14:44+01:00",
-    "media_id": "i8nxx0hanool",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6244314/tweede-verdachte-15-van-schietpartij-in-amsterdam-opgepakt.html",
     "open_new_window": false,
     "partner": null
   }
