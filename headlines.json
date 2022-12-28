@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244531,
+    "slug": "omstanders-filmen-tornado-in-boliviaanse-stad",
+    "type": "video",
+    "title": "Omstanders filmen tornado in Boliviaanse stad",
+    "subtitle": "Video",
+    "published_at": "2022-12-28T09:52:51+01:00",
+    "updated_at": "2022-12-28T09:52:52+01:00",
+    "media_id": "6hxxmigaloy2",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6244531/omstanders-filmen-tornado-in-boliviaanse-stad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244525,
     "slug": "gasprijs-daalt-verder-tot-onder-de-80-euro-door-warm-winterweer",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6244526,
-    "slug": "silberbauer-volgt-vertrokken-fraser-op-en-keert-als-hoofdtrainer-terug-bij-fc-utrecht",
+    "slug": "silberbauer-volgt-vertrokken-fraser-op-en-keert-als-trainer-terug-bij-fc-utrecht",
     "type": "article",
-    "title": "Silberbauer volgt vertrokken Fraser op en keert als hoofdtrainer terug bij FC Utrecht",
+    "title": "Silberbauer volgt vertrokken Fraser op en keert als trainer terug bij FC Utrecht",
     "subtitle": null,
     "published_at": "2022-12-28T09:37:39+01:00",
-    "updated_at": "2022-12-28T09:45:06+01:00",
+    "updated_at": "2022-12-28T10:14:36+01:00",
     "media_id": "tjlxpt5a7nnk",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6244526/silberbauer-volgt-vertrokken-fraser-op-en-keert-als-hoofdtrainer-terug-bij-fc-utrecht.html",
+    "url": "/voetbal/6244526/silberbauer-volgt-vertrokken-fraser-op-en-keert-als-trainer-terug-bij-fc-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244501/weerbericht-miezerige-dag-met-alleen-in-de-middag-kans-op-opklaringen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244487,
-    "slug": "gele-onderbroeken-ui-droppen-en-meer-opvallende-nieuwjaarstradities",
-    "type": "video",
-    "title": "Gele onderbroeken, ui droppen en meer opvallende nieuwjaarstradities",
-    "subtitle": "Video",
-    "published_at": "2022-12-28T05:38:41+01:00",
-    "updated_at": "2022-12-28T09:22:14+01:00",
-    "media_id": "6vkxgqvac4nd",
-    "duration": "1:50",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6244487/gele-onderbroeken-ui-droppen-en-meer-opvallende-nieuwjaarstradities.html",
     "open_new_window": false,
     "partner": null
   }
