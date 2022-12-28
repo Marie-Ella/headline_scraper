@@ -1,12 +1,58 @@
 [
   {
+    "id": 6244525,
+    "slug": "gasprijs-daalt-verder-tot-onder-de-80-euro-door-warm-winterweer",
+    "type": "article",
+    "title": "Gasprijs daalt verder tot onder de 80 euro door warm winterweer",
+    "subtitle": null,
+    "published_at": "2022-12-28T09:37:40+01:00",
+    "updated_at": "2022-12-28T09:37:41+01:00",
+    "media_id": "j8gxzhga8blw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6244525/gasprijs-daalt-verder-tot-onder-de-80-euro-door-warm-winterweer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244526,
+    "slug": "silberbauer-volgt-vertrokken-fraser-op-en-keert-als-hoofdtrainer-terug-bij-fc-utrecht",
+    "type": "article",
+    "title": "Silberbauer volgt vertrokken Fraser op en keert als hoofdtrainer terug bij FC Utrecht",
+    "subtitle": null,
+    "published_at": "2022-12-28T09:37:39+01:00",
+    "updated_at": "2022-12-28T09:45:06+01:00",
+    "media_id": "tjlxpt5a7nnk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6244526/silberbauer-volgt-vertrokken-fraser-op-en-keert-als-hoofdtrainer-terug-bij-fc-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244523,
     "slug": "alle-lonen-gaan-volgend-jaar-omhoog-jan-modaal-krijgt-er-91-euro-netto-bij",
     "type": "article",
     "title": "Alle lonen gaan volgend jaar omhoog: Jan Modaal krijgt er 91 euro netto bij",
     "subtitle": null,
     "published_at": "2022-12-28T09:31:38+01:00",
-    "updated_at": "2022-12-28T09:31:39+01:00",
+    "updated_at": "2022-12-28T09:41:20+01:00",
     "media_id": "ehfxe05ankpm",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Leerdam wil niet meer alles perfect doen en schaatst daardoor beter dan ooit",
     "subtitle": null,
     "published_at": "2022-12-28T06:46:01+01:00",
-    "updated_at": "2022-12-28T06:46:02+01:00",
+    "updated_at": "2022-12-28T09:42:24+01:00",
     "media_id": "kwoxs71akl7s",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6244487/gele-onderbroeken-ui-droppen-en-meer-opvallende-nieuwjaarstradities.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244418,
-    "slug": "we-noemen-twitter-alternatief-mastodon-een-fediverse-maar-wat-is-dat",
-    "type": "article",
-    "title": "We noemen Twitter-alternatief Mastodon een fediverse, maar wat is dat?",
-    "subtitle": null,
-    "published_at": "2022-12-28T05:32:02+01:00",
-    "updated_at": "2022-12-28T05:32:03+01:00",
-    "media_id": "epwxm9zaq12w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6244418/we-noemen-twitter-alternatief-mastodon-een-fediverse-maar-wat-is-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243673,
-    "slug": "hoe-uitgerekend-het-chinese-tiktok-jongeren-helpt-om-uit-de-kast-te-komen",
-    "type": "article",
-    "title": "Hoe uitgerekend het Chinese TikTok jongeren helpt om uit de kast te komen",
-    "subtitle": null,
-    "published_at": "2022-12-28T05:31:33+01:00",
-    "updated_at": "2022-12-28T09:23:50+01:00",
-    "media_id": "btgx6u6a8jfy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6243673/hoe-uitgerekend-het-chinese-tiktok-jongeren-helpt-om-uit-de-kast-te-komen.html",
     "open_new_window": false,
     "partner": null
   }
