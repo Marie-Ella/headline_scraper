@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244487,
+    "slug": "van-gele-onderbroeken-tot-ui-droppen-zo-sluiten-ze-elders-het-jaar-af",
+    "type": "video",
+    "title": "Van gele onderbroeken tot ui droppen: zo sluiten ze elders het jaar af",
+    "subtitle": "Video",
+    "published_at": "2022-12-28T05:38:41+01:00",
+    "updated_at": "2022-12-28T05:38:42+01:00",
+    "media_id": "6vkxgqvac4nd",
+    "duration": "1:50",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6244487/van-gele-onderbroeken-tot-ui-droppen-zo-sluiten-ze-elders-het-jaar-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244418,
     "slug": "we-noemen-twitter-alternatief-mastodon-een-fediverse-maar-wat-is-dat",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6243638,
-    "slug": "nederland-loopt-voorop-in-onderzoek-naar-russische-oorlogsmisdaden-in-oekraine",
+    "slug": "nederland-is-leidend-in-onderzoek-naar-russische-oorlogsmisdaden-in-oekraine",
     "type": "article",
-    "title": "Nederland loopt voorop in onderzoek naar Russische oorlogsmisdaden in Oekraïne",
+    "title": "Nederland is leidend in onderzoek naar Russische oorlogsmisdaden in Oekraïne",
     "subtitle": "NU+",
     "published_at": "2022-12-28T05:30:51+01:00",
-    "updated_at": "2022-12-28T05:30:52+01:00",
+    "updated_at": "2022-12-28T05:37:40+01:00",
     "media_id": "7rlxdm7a4h4o",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6243638/nederland-loopt-voorop-in-onderzoek-naar-russische-oorlogsmisdaden-in-oekraine.html",
+    "url": "/spanningen-oekraine/6243638/nederland-is-leidend-in-onderzoek-naar-russische-oorlogsmisdaden-in-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6244331/defensie-expert-ko-colijn-vat-oorlogsjaar-samen-in-cijfers-en-afkortingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244480,
-    "slug": "water-stroomt-historische-stad-petra-binnen",
-    "type": "video",
-    "title": "Water stroomt historische stad Petra binnen",
-    "subtitle": "Video",
-    "published_at": "2022-12-27T19:46:25+01:00",
-    "updated_at": "2022-12-27T20:45:10+01:00",
-    "media_id": "itrxntya40k0",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6244480/water-stroomt-historische-stad-petra-binnen.html",
     "open_new_window": false,
     "partner": null
   }
