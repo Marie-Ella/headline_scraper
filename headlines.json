@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245008,
+    "slug": "minder-supermarkten-open-op-nieuwjaarsdag-dan-vorig-jaar",
+    "type": "article",
+    "title": "Minder supermarkten open op Nieuwjaarsdag dan vorig jaar",
+    "subtitle": null,
+    "published_at": "2022-12-30T16:13:26+01:00",
+    "updated_at": "2022-12-30T16:16:33+01:00",
+    "media_id": "ti5xi1oagojj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6245008/minder-supermarkten-open-op-nieuwjaarsdag-dan-vorig-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245002,
     "slug": "weekendweerbericht-jaarwisseling-verloopt-erg-zacht-met-stevige-wind",
     "type": "article",
     "title": "Weekendweerbericht: Jaarwisseling verloopt erg zacht met stevige wind",
     "subtitle": null,
     "published_at": "2022-12-30T15:46:10+01:00",
-    "updated_at": "2022-12-30T15:46:11+01:00",
+    "updated_at": "2022-12-30T15:49:10+01:00",
     "media_id": "88dx5ceai0ww",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Donny Roelvink hoeft geen chemotherapie te ondergaan",
     "subtitle": null,
     "published_at": "2022-12-30T15:40:15+01:00",
-    "updated_at": "2022-12-30T15:40:16+01:00",
+    "updated_at": "2022-12-30T16:05:46+01:00",
     "media_id": "8ioxjnca3tz8",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Van den Bergh veel te sterk voor Huybrechts in Belgisch onderonsje op WK darts",
     "subtitle": null,
     "published_at": "2022-12-30T14:59:35+01:00",
-    "updated_at": "2022-12-30T14:59:36+01:00",
+    "updated_at": "2022-12-30T16:11:53+01:00",
     "media_id": "m3lxtn2a1len",
     "duration": null,
     "canonical_section": {
@@ -116,13 +139,13 @@
   },
   {
     "id": 6244998,
-    "slug": "van-anrooij-sluit-2022-af-met-superieure-zege-in-gedevalueerde-azencross",
+    "slug": "van-aert-klopt-van-der-poel-in-spectaculaire-azencross-zege-van-anrooij-bij-vrouwen",
     "type": "article",
-    "title": "Van Anrooij sluit 2022 af met superieure zege in gedevalueerde Azencross",
+    "title": "Van Aert klopt Van der Poel in spectaculaire Azencross, zege Van Anrooij bij vrouwen",
     "subtitle": null,
     "published_at": "2022-12-30T14:44:10+01:00",
-    "updated_at": "2022-12-30T15:12:34+01:00",
-    "media_id": "e3px1m2aj2ge",
+    "updated_at": "2022-12-30T16:08:59+01:00",
+    "media_id": "umpxzciah9qh",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6244998/van-anrooij-sluit-2022-af-met-superieure-zege-in-gedevalueerde-azencross.html",
+    "url": "/wielrennen/6244998/van-aert-klopt-van-der-poel-in-spectaculaire-azencross-zege-van-anrooij-bij-vrouwen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Marije Knevel vertrekt na negen maanden als hoofdredacteur van online LINDA",
     "subtitle": null,
     "published_at": "2022-12-30T13:31:54+01:00",
-    "updated_at": "2022-12-30T15:13:35+01:00",
+    "updated_at": "2022-12-30T16:09:03+01:00",
     "media_id": "0uwxmoyahiul",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244975/gemeenten-sluiten-vuilcontainers-af-om-vuurwerkschade-te-voorkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244976,
-    "slug": "inflatie-in-spanje-daalt-opnieuw-en-bereikt-laagste-punt-in-ruim-een-jaar",
-    "type": "article",
-    "title": "Inflatie in Spanje daalt opnieuw en bereikt laagste punt in ruim een jaar",
-    "subtitle": null,
-    "published_at": "2022-12-30T12:34:35+01:00",
-    "updated_at": "2022-12-30T12:34:41+01:00",
-    "media_id": "dhlxasva9lt6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6244976/inflatie-in-spanje-daalt-opnieuw-en-bereikt-laagste-punt-in-ruim-een-jaar.html",
     "open_new_window": false,
     "partner": null
   }
