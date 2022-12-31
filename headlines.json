@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245096,
+    "slug": "toeschouwers-bekijken-gigantisch-vreugdevuur-in-duindorp",
+    "type": "video",
+    "title": "Toeschouwers bekijken gigantisch vreugdevuur in Duindorp",
+    "subtitle": "Video",
+    "published_at": "2022-12-31T08:24:12+01:00",
+    "updated_at": "2022-12-31T08:24:13+01:00",
+    "media_id": "34vxsyyaxbbw",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245096/toeschouwers-bekijken-gigantisch-vreugdevuur-in-duindorp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245095,
+    "slug": "bijna-22-miljoen-mensen-zien-finale-van-the-masked-singer",
+    "type": "article",
+    "title": "Bijna 2,2 miljoen mensen zien finale van The Masked Singer",
+    "subtitle": null,
+    "published_at": "2022-12-31T08:17:22+01:00",
+    "updated_at": "2022-12-31T08:17:23+01:00",
+    "media_id": "036xhhuaqntp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6245095/bijna-22-miljoen-mensen-zien-finale-van-the-masked-singer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244921,
     "slug": "stelling-consumentenvuurwerk-moet-verboden-worden",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Noord-Korea heeft volgens buurlanden opnieuw ballistische raketten afgevuurd",
     "subtitle": null,
     "published_at": "2022-12-31T02:58:18+01:00",
-    "updated_at": "2022-12-31T03:01:50+01:00",
+    "updated_at": "2022-12-31T08:22:07+01:00",
     "media_id": "kk5xz2ja6r87",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245077/gakpo-ziet-liverpool-door-twee-eigen-goals-faes-afrekenen-met-leicester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245076,
-    "slug": "van-gerwen-gunt-van-duijvenbode-een-set-en-bereikt-kwartfinales-wk-darts",
-    "type": "article",
-    "title": "Van Gerwen gunt Van Duijvenbode één set en bereikt kwartfinales WK darts",
-    "subtitle": null,
-    "published_at": "2022-12-30T22:34:02+01:00",
-    "updated_at": "2022-12-30T23:21:41+01:00",
-    "media_id": "81zxzokaweyq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6245076/van-gerwen-gunt-van-duijvenbode-een-set-en-bereikt-kwartfinales-wk-darts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245074,
-    "slug": "ronaldo-tekent-bij-club-uit-saoedi-arabie-en-wordt-best-betaalde-voetballer-ooit",
-    "type": "article",
-    "title": "Ronaldo tekent bij club uit Saoedi-Arabië en wordt best betaalde voetballer ooit",
-    "subtitle": null,
-    "published_at": "2022-12-30T22:16:22+01:00",
-    "updated_at": "2022-12-30T23:37:59+01:00",
-    "media_id": "uw8xn2payweh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245074/ronaldo-tekent-bij-club-uit-saoedi-arabie-en-wordt-best-betaalde-voetballer-ooit.html",
     "open_new_window": false,
     "partner": null
   }
