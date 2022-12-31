@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245210,
+    "slug": "bekijk-de-spectaculaire-zege-van-arsenal-op-brighton-hove-albion",
+    "type": "video",
+    "title": "Bekijk de spectaculaire zege van Arsenal op Brighton & Hove Albion",
+    "subtitle": "Video",
+    "published_at": "2022-12-31T21:46:19+01:00",
+    "updated_at": "2022-12-31T21:46:20+01:00",
+    "media_id": "21rx89ja7ibc",
+    "duration": "3:53",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6245210/bekijk-de-spectaculaire-zege-van-arsenal-op-brighton-hove-albion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245207,
     "slug": "politie-doet-onderzoek-na-dodelijk-ongeluk-carbidschieten-in-diessen",
     "type": "video",
@@ -259,7 +282,7 @@
     "title": "Arsenal loopt dankzij spectaculaire zege verder uit op Manchester City",
     "subtitle": null,
     "published_at": "2022-12-31T18:04:34+01:00",
-    "updated_at": "2022-12-31T21:06:38+01:00",
+    "updated_at": "2022-12-31T21:48:06+01:00",
     "media_id": "uvkxuz6aoqsw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245156/barcelona-speelt-gelijk-tegen-espanyol-arbiter-lahoz-strooit-weer-met-kaarten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245155,
-    "slug": "uitgerekend-rashford-helpt-manchester-united-aan-drie-punten",
-    "type": "video",
-    "title": "Uitgerekend Rashford helpt Manchester United aan drie punten",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T15:42:07+01:00",
-    "updated_at": "2022-12-31T15:42:09+01:00",
-    "media_id": "o9zxejwa8gm6",
-    "duration": "1:32",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6245155/uitgerekend-rashford-helpt-manchester-united-aan-drie-punten.html",
     "open_new_window": false,
     "partner": null
   }
