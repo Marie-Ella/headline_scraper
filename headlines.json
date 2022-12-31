@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245141,
+    "slug": "erik-van-loon-slaat-over-de-kop-in-proloog-dakar-rally-en-verliest-veel-tijd",
+    "type": "article",
+    "title": "Erik van Loon slaat over de kop in proloog Dakar Rally en verliest veel tijd",
+    "subtitle": null,
+    "published_at": "2022-12-31T13:33:41+01:00",
+    "updated_at": "2022-12-31T13:33:42+01:00",
+    "media_id": "lb0xzo3azim8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6245141/erik-van-loon-slaat-over-de-kop-in-proloog-dakar-rally-en-verliest-veel-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245139,
+    "slug": "europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten",
+    "type": "article",
+    "title": "Europese leiders eren Benedictus XVI: 'Geschiedenis zal hem niet vergeten'",
+    "subtitle": null,
+    "published_at": "2022-12-31T13:07:06+01:00",
+    "updated_at": "2022-12-31T13:13:48+01:00",
+    "media_id": "m1mxrara71y7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245139/europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245136,
     "slug": "nieuw-zeeland-en-eilandstaten-vieren-als-eerste-landen-2023",
     "type": "article",
     "title": "Nieuw-Zeeland en eilandstaten vieren als eerste landen 2023",
     "subtitle": "Eindejaarsliveblog",
     "published_at": "2022-12-31T12:42:16+01:00",
-    "updated_at": "2022-12-31T12:42:17+01:00",
+    "updated_at": "2022-12-31T12:51:32+01:00",
     "media_id": "478x0yva3b7q",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Gestolen Top 2000-letters zijn terug, beeldlogo in Hilversum weer compleet",
     "subtitle": null,
     "published_at": "2022-12-31T11:56:06+01:00",
-    "updated_at": "2022-12-31T12:08:05+01:00",
+    "updated_at": "2022-12-31T13:32:36+01:00",
     "media_id": "v6lx24wah3df",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6245094/champagne-vuurwerk-of-aftellen-met-de-klok-praat-mee-over-de-jaarwisseling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245098,
-    "slug": "manager-leicester-city-verdedigt-wout-faes-na-twee-eigen-goals-tegen-liverpool",
-    "type": "article",
-    "title": "Manager Leicester City verdedigt Wout Faes na twee eigen goals tegen Liverpool",
-    "subtitle": null,
-    "published_at": "2022-12-31T08:57:15+01:00",
-    "updated_at": "2022-12-31T12:14:14+01:00",
-    "media_id": "t26xidea5kt3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245098/manager-leicester-city-verdedigt-wout-faes-na-twee-eigen-goals-tegen-liverpool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245096,
-    "slug": "toeschouwers-bekijken-gigantisch-vreugdevuur-in-duindorp",
-    "type": "video",
-    "title": "Toeschouwers bekijken gigantisch vreugdevuur in Duindorp",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T08:24:12+01:00",
-    "updated_at": "2022-12-31T08:24:13+01:00",
-    "media_id": "34vxsyyaxbbw",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245096/toeschouwers-bekijken-gigantisch-vreugdevuur-in-duindorp.html",
     "open_new_window": false,
     "partner": null
   }
