@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245174,
+    "slug": "delen-van-kyiv-verwoest-door-russische-raketaanvallen",
+    "type": "video",
+    "title": "Delen van Kyiv verwoest door Russische raketaanvallen",
+    "subtitle": "Video",
+    "published_at": "2022-12-31T17:35:13+01:00",
+    "updated_at": "2022-12-31T17:35:14+01:00",
+    "media_id": "abkxxo9aiaqd",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6245174/delen-van-kyiv-verwoest-door-russische-raketaanvallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244916,
     "slug": "het-jaar-was-niet-alleen-maar-ellende-dit-was-het-goede-nieuws-van-2022",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Dode en gewonden door raketaanvallen op Oekraïense steden",
     "subtitle": null,
     "published_at": "2022-12-31T15:14:18+01:00",
-    "updated_at": "2022-12-31T17:14:36+01:00",
+    "updated_at": "2022-12-31T17:35:37+01:00",
     "media_id": "mmoxmcdaypnx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6245123/schulting-slaat-nk-shorttrack-opnieuw-over-vanwege-liesklachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245120,
-    "slug": "gestolen-top-2000-letters-zijn-terug-beeldlogo-in-hilversum-weer-compleet",
-    "type": "article",
-    "title": "Gestolen Top 2000-letters zijn terug, beeldlogo in Hilversum weer compleet",
-    "subtitle": null,
-    "published_at": "2022-12-31T11:56:06+01:00",
-    "updated_at": "2022-12-31T13:32:36+01:00",
-    "media_id": "v6lx24wah3df",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6245120/gestolen-top-2000-letters-zijn-terug-beeldlogo-in-hilversum-weer-compleet.html",
     "open_new_window": false,
     "partner": null
   }
