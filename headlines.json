@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245146,
+    "slug": "dit-zijn-de-best-bekeken-videos-uit-2022",
+    "type": "video",
+    "title": "Dit zijn de best bekeken video's uit 2022",
+    "subtitle": "Video",
+    "published_at": "2022-12-31T14:16:46+01:00",
+    "updated_at": "2022-12-31T14:16:46+01:00",
+    "media_id": "p20xzskacl6q",
+    "duration": "4:59",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245146/dit-zijn-de-best-bekeken-videos-uit-2022.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245143,
     "slug": "davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback",
     "type": "article",
     "title": "Davy Pröpper maakt in oefenduel van Vitesse eerste minuten sinds comeback",
     "subtitle": null,
     "published_at": "2022-12-31T13:54:46+01:00",
-    "updated_at": "2022-12-31T13:54:47+01:00",
+    "updated_at": "2022-12-31T14:00:53+01:00",
     "media_id": "loexc3sapn6u",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6245136,
-    "slug": "nieuw-zeeland-en-eilandstaten-vieren-als-eerste-landen-2023",
+    "slug": "nieuw-zeeland-en-australie-verwelkomen-als-eerste-landen-2023",
     "type": "article",
-    "title": "Nieuw-Zeeland en eilandstaten vieren als eerste landen 2023",
+    "title": "Nieuw-Zeeland en Australië verwelkomen als eerste landen 2023",
     "subtitle": "Eindejaarsliveblog",
     "published_at": "2022-12-31T12:42:16+01:00",
-    "updated_at": "2022-12-31T12:51:32+01:00",
-    "media_id": "478x0yva3b7q",
+    "updated_at": "2022-12-31T14:15:22+01:00",
+    "media_id": "s1pxi79avlwe",
     "duration": null,
     "canonical_section": {
       "id": 1772236,
@@ -87,7 +110,7 @@
       "media_id": "m1oxc1gaswou",
       "partner": null
     },
-    "url": "/jaarwisseling/6245136/nieuw-zeeland-en-eilandstaten-vieren-als-eerste-landen-2023.html",
+    "url": "/jaarwisseling/6245136/nieuw-zeeland-en-australie-verwelkomen-als-eerste-landen-2023.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243373/deze-beroemde-mensen-plus-een-paar-bekende-dieren-overleden-in-2022.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245099,
-    "slug": "wiegman-krijgt-hoge-britse-onderscheiding-voor-haar-rol-in-europese-titel",
-    "type": "article",
-    "title": "Wiegman krijgt hoge Britse onderscheiding voor haar rol in Europese titel",
-    "subtitle": null,
-    "published_at": "2022-12-31T09:09:03+01:00",
-    "updated_at": "2022-12-31T09:18:31+01:00",
-    "media_id": "pwkx940azil4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245099/wiegman-krijgt-hoge-britse-onderscheiding-voor-haar-rol-in-europese-titel.html",
     "open_new_window": false,
     "partner": null
   }
