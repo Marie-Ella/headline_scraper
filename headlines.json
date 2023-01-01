@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245280,
+    "slug": "italianen-duiken-traditioneel-van-metershoge-brug-in-rome",
+    "type": "video",
+    "title": "Italianen duiken traditioneel van metershoge brug in Rome",
+    "subtitle": "Video",
+    "published_at": "2023-01-01T16:23:06+01:00",
+    "updated_at": "2023-01-01T16:23:07+01:00",
+    "media_id": "2j8xab3agyua",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245280/italianen-duiken-traditioneel-van-metershoge-brug-in-rome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245278,
+    "slug": "steden-blikken-terug-op-onrustige-oudjaarsnacht-vuurwerk-landelijk-verbieden",
+    "type": "article",
+    "title": "Steden blikken terug op 'onrustige' oudjaarsnacht: 'Vuurwerk landelijk verbieden'",
+    "subtitle": null,
+    "published_at": "2023-01-01T16:21:26+01:00",
+    "updated_at": "2023-01-01T16:27:02+01:00",
+    "media_id": "01ex2w9a3dy6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6245278/steden-blikken-terug-op-onrustige-oudjaarsnacht-vuurwerk-landelijk-verbieden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245279,
     "slug": "thomas-berge-vader-geworden-van-zoontje-saint",
     "type": "article",
@@ -162,12 +208,12 @@
   },
   {
     "id": 6245269,
-    "slug": "van-empel-rijdt-glansrijk-naar-zege-in-eerste-cross-voor-jumbo-visma",
+    "slug": "van-empel-wint-bij-debuut-voor-jumbo-visma-iserbyt-profiteert-van-val-pidcock",
     "type": "article",
-    "title": "Van Empel rijdt glansrijk naar zege in eerste cross voor Jumbo-Visma",
+    "title": "Van Empel wint bij debuut voor Jumbo-Visma, Iserbyt profiteert van val Pidcock",
     "subtitle": null,
     "published_at": "2023-01-01T14:38:44+01:00",
-    "updated_at": "2023-01-01T15:04:41+01:00",
+    "updated_at": "2023-01-01T16:25:52+01:00",
     "media_id": "qz0xlg5azc00",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6245269/van-empel-rijdt-glansrijk-naar-zege-in-eerste-cross-voor-jumbo-visma.html",
+    "url": "/wielrennen/6245269/van-empel-wint-bij-debuut-voor-jumbo-visma-iserbyt-profiteert-van-val-pidcock.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6245254/politie-moest-vannacht-te-vaak-hulpverleners-beschermen-meerdere-agenten-gewond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245253,
-    "slug": "walrus-dwarsboomt-vuurwerkshow-in-engelse-kustplaats",
-    "type": "video",
-    "title": "Walrus dwarsboomt vuurwerkshow in Engelse kustplaats",
-    "subtitle": "Video",
-    "published_at": "2023-01-01T11:24:57+01:00",
-    "updated_at": "2023-01-01T11:25:58+01:00",
-    "media_id": "9n3xwasa1v9u",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245253/walrus-dwarsboomt-vuurwerkshow-in-engelse-kustplaats.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245252,
-    "slug": "titelverdediger-bij-motoren-sunderland-geeft-op-in-dakar-rally-na-crash",
-    "type": "article",
-    "title": "Titelverdediger bij motoren Sunderland geeft op in Dakar Rally na crash",
-    "subtitle": null,
-    "published_at": "2023-01-01T10:55:18+01:00",
-    "updated_at": "2023-01-01T15:34:59+01:00",
-    "media_id": "vjsxsv8ay63f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6245252/titelverdediger-bij-motoren-sunderland-geeft-op-in-dakar-rally-na-crash.html",
     "open_new_window": false,
     "partner": null
   }
