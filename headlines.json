@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245298,
+    "slug": "president-lula-rijdt-in-open-auto-door-brasilia-voor-beediging",
+    "type": "video",
+    "title": "President Lula rijdt in open auto door Brasilia voor beëdiging",
+    "subtitle": "Video",
+    "published_at": "2023-01-01T21:28:45+01:00",
+    "updated_at": "2023-01-01T21:28:46+01:00",
+    "media_id": "ulhx49jaqtrz",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245298/president-lula-rijdt-in-open-auto-door-brasilia-voor-beediging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245295,
     "slug": "nederlandse-vrouw-28-overleden-bij-skiongeluk-oostenrijk-vriendin-gewond",
     "type": "article",
     "title": "Nederlandse vrouw (28) overleden bij skiongeluk Oostenrijk, vriendin gewond",
     "subtitle": null,
     "published_at": "2023-01-01T20:58:45+01:00",
-    "updated_at": "2023-01-01T21:06:00+01:00",
+    "updated_at": "2023-01-01T21:29:38+01:00",
     "media_id": "uxfx04iam37v",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Lula da Silva officieel beëdigd als president Brazilië, volgt Bolsonaro op",
     "subtitle": null,
     "published_at": "2023-01-01T19:30:23+01:00",
-    "updated_at": "2023-01-01T21:16:24+01:00",
+    "updated_at": "2023-01-01T21:27:08+01:00",
     "media_id": "pu6xmajaylt4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245276/weekweerbericht-eerste-week-van-het-jaar-begint-zacht-met-veel-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245274,
-    "slug": "twee-minderjarigen-opgepakt-na-stalbrand-met-6000-dode-eenden-in-ermelo",
-    "type": "article",
-    "title": "Twee minderjarigen opgepakt na stalbrand met 6.000 dode eenden in Ermelo",
-    "subtitle": null,
-    "published_at": "2023-01-01T15:43:42+01:00",
-    "updated_at": "2023-01-01T16:06:19+01:00",
-    "media_id": "621xmaba2nmg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6245274/twee-minderjarigen-opgepakt-na-stalbrand-met-6000-dode-eenden-in-ermelo.html",
     "open_new_window": false,
     "partner": null
   }
