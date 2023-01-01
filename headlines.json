@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245269,
+    "slug": "van-empel-rijdt-glansrijk-naar-zege-in-eerste-cross-voor-jumbo-visma",
+    "type": "article",
+    "title": "Van Empel rijdt glansrijk naar zege in eerste cross voor Jumbo-Visma",
+    "subtitle": null,
+    "published_at": "2023-01-01T14:38:44+01:00",
+    "updated_at": "2023-01-01T14:41:45+01:00",
+    "media_id": "1bnxa8fabf01",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6245269/van-empel-rijdt-glansrijk-naar-zege-in-eerste-cross-voor-jumbo-visma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245267,
-    "slug": "duizenden-durfallen-rennen-de-zee-in-voor-een-nieuwjaarsduik",
+    "slug": "duizenden-durfallen-rennen-bij-scheveningen-de-noordzee-in",
     "type": "video",
-    "title": "Duizenden durfallen rennen de zee in voor een nieuwjaarsduik",
+    "title": "Duizenden durfallen rennen bij Scheveningen de Noordzee in",
     "subtitle": "Video",
     "published_at": "2023-01-01T14:24:14+01:00",
-    "updated_at": "2023-01-01T14:26:12+01:00",
+    "updated_at": "2023-01-01T14:44:44+01:00",
     "media_id": "64vxwabaw3ke",
     "duration": "0:42",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6245267/duizenden-durfallen-rennen-de-zee-in-voor-een-nieuwjaarsduik.html",
+    "url": "/binnenland/6245267/duizenden-durfallen-rennen-bij-scheveningen-de-noordzee-in.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245242/arsenal-coach-arteta-haalt-na-zege-voldoening-uit-discussierende-spelers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245241,
-    "slug": "prachtige-dronebeelden-tonen-zee-van-vuurwerk-boven-den-haag",
-    "type": "video",
-    "title": "Prachtige dronebeelden tonen zee van vuurwerk boven Den Haag",
-    "subtitle": "Video",
-    "published_at": "2023-01-01T08:21:49+01:00",
-    "updated_at": "2023-01-01T08:42:41+01:00",
-    "media_id": "423x2sjam6s3",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6245241/prachtige-dronebeelden-tonen-zee-van-vuurwerk-boven-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
