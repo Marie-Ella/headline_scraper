@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245276,
+    "slug": "weekweerbericht-eerste-week-van-het-jaar-begint-zacht-met-veel-regen",
+    "type": "article",
+    "title": "Weekweerbericht: Eerste week van het jaar begint zacht met veel regen",
+    "subtitle": null,
+    "published_at": "2023-01-01T15:48:31+01:00",
+    "updated_at": "2023-01-01T15:48:32+01:00",
+    "media_id": "2xnxqr6a9vbg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245276/weekweerbericht-eerste-week-van-het-jaar-begint-zacht-met-veel-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245274,
+    "slug": "twee-minderjarigen-opgepakt-na-stalbrand-in-ermelo-waarbij-6000-eenden-omkwamen",
+    "type": "article",
+    "title": "Twee minderjarigen opgepakt na stalbrand in Ermelo waarbij 6.000 eenden omkwamen",
+    "subtitle": null,
+    "published_at": "2023-01-01T15:43:42+01:00",
+    "updated_at": "2023-01-01T15:43:43+01:00",
+    "media_id": "621xmaba2nmg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6245274/twee-minderjarigen-opgepakt-na-stalbrand-in-ermelo-waarbij-6000-eenden-omkwamen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245273,
     "slug": "bijna-evenveel-kijkers-oudejaarsconferences-claudia-de-breij-en-guido-weijers",
     "type": "article",
     "title": "Bijna evenveel kijkers oudejaarsconferences Claudia de Breij en Guido Weijers",
     "subtitle": null,
     "published_at": "2023-01-01T15:26:40+01:00",
-    "updated_at": "2023-01-01T15:26:41+01:00",
+    "updated_at": "2023-01-01T15:37:26+01:00",
     "media_id": "x89xdq0al2d9",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Van den Bergh klopt Clayton en schrijft Belgische dartshistorie op WK",
     "subtitle": null,
     "published_at": "2023-01-01T15:25:59+01:00",
-    "updated_at": "2023-01-01T15:26:42+01:00",
+    "updated_at": "2023-01-01T15:32:06+01:00",
     "media_id": "1n0xv2uafduv",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Titelverdediger bij motoren Sunderland geeft op in Dakar Rally na crash",
     "subtitle": null,
     "published_at": "2023-01-01T10:55:18+01:00",
-    "updated_at": "2023-01-01T14:06:31+01:00",
+    "updated_at": "2023-01-01T15:34:59+01:00",
     "media_id": "vjsxsv8ay63f",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6245248/zangeres-anita-pointer-74-van-the-pointer-sisters-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245247,
-    "slug": "geen-vuurwerk-maar-explosies-en-luchtalarm-in-kyiv",
-    "type": "video",
-    "title": "Geen vuurwerk, maar explosies en luchtalarm in Kyiv",
-    "subtitle": "Video",
-    "published_at": "2023-01-01T09:52:51+01:00",
-    "updated_at": "2023-01-01T10:33:38+01:00",
-    "media_id": "widxqjuadyez",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245247/geen-vuurwerk-maar-explosies-en-luchtalarm-in-kyiv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245243,
-    "slug": "lula-vandaag-geinaugureerd-klaar-om-gepolariseerd-brazilie-vooruit-te-helpen",
-    "type": "article",
-    "title": "Lula vandaag geïnaugureerd: klaar om gepolariseerd Brazilië vooruit te helpen",
-    "subtitle": null,
-    "published_at": "2023-01-01T09:32:19+01:00",
-    "updated_at": "2023-01-01T10:09:04+01:00",
-    "media_id": "m84xplqamxid",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245243/lula-vandaag-geinaugureerd-klaar-om-gepolariseerd-brazilie-vooruit-te-helpen.html",
     "open_new_window": false,
     "partner": null
   }
