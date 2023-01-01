@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245290,
+    "slug": "stephane-kox-stopt-als-formule-1-pitreporter-en-vertrekt-bij-viaplay",
+    "type": "article",
+    "title": "Stéphane Kox stopt als Formule 1-pitreporter en vertrekt bij Viaplay",
+    "subtitle": null,
+    "published_at": "2023-01-01T19:15:59+01:00",
+    "updated_at": "2023-01-01T19:16:01+01:00",
+    "media_id": "5gnx8glabxj4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6245290/stephane-kox-stopt-als-formule-1-pitreporter-en-vertrekt-bij-viaplay.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245287,
+    "slug": "feest-maar-ook-onrust-in-verschillende-europese-landen-tijdens-jaarwisseling",
+    "type": "article",
+    "title": "Feest maar ook onrust in verschillende Europese landen tijdens jaarwisseling",
+    "subtitle": null,
+    "published_at": "2023-01-01T19:02:03+01:00",
+    "updated_at": "2023-01-01T19:16:37+01:00",
+    "media_id": "bg2x2gnaelxy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245287/feest-maar-ook-onrust-in-verschillende-europese-landen-tijdens-jaarwisseling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245289,
     "slug": "man-met-explosieven-opgepakt-in-brasilia-vlak-voor-beediging-president-lula",
     "type": "article",
     "title": "Man met explosieven opgepakt in Brasilia, vlak voor beëdiging president Lula",
     "subtitle": null,
     "published_at": "2023-01-01T18:39:49+01:00",
-    "updated_at": "2023-01-01T18:47:33+01:00",
+    "updated_at": "2023-01-01T18:51:07+01:00",
     "media_id": "w50xv87ajg41",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Net van griep herstelde Schouten verovert zevende nationale marathontitel op rij",
     "subtitle": null,
     "published_at": "2023-01-01T17:15:02+01:00",
-    "updated_at": "2023-01-01T18:47:40+01:00",
+    "updated_at": "2023-01-01T19:21:25+01:00",
     "media_id": "db6xi5wao8nu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245267/duizenden-durfallen-rennen-bij-scheveningen-de-noordzee-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245265,
-    "slug": "30-jongeren-omsingelden-en-bekogelden-agenten-met-vuurwerk-in-s-gravendeel",
-    "type": "article",
-    "title": "30 jongeren omsingelden en bekogelden agenten met vuurwerk in 's-Gravendeel",
-    "subtitle": null,
-    "published_at": "2023-01-01T13:51:30+01:00",
-    "updated_at": "2023-01-01T14:21:05+01:00",
-    "media_id": "9b6x548an0o2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6245265/30-jongeren-omsingelden-en-bekogelden-agenten-met-vuurwerk-in-s-gravendeel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245263,
-    "slug": "dronebeelden-tonen-ravage-na-brand-in-historische-kerk-veghel",
-    "type": "video",
-    "title": "Dronebeelden tonen ravage na brand in historische kerk Veghel",
-    "subtitle": "Video",
-    "published_at": "2023-01-01T13:47:23+01:00",
-    "updated_at": "2023-01-01T14:03:03+01:00",
-    "media_id": "3y9xmcyaawun",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245263/dronebeelden-tonen-ravage-na-brand-in-historische-kerk-veghel.html",
     "open_new_window": false,
     "partner": null
   }
