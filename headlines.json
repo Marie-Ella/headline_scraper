@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245399,
+    "slug": "sampdoria-pakt-door-na-komst-lammers-en-pikt-nuytinck-op-bij-udinese",
+    "type": "article",
+    "title": "Sampdoria pakt door na komst Lammers en pikt Nuytinck op bij Udinese",
+    "subtitle": null,
+    "published_at": "2023-01-02T18:06:25+01:00",
+    "updated_at": "2023-01-02T18:06:26+01:00",
+    "media_id": "h3kx02xa9rck",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6245399/sampdoria-pakt-door-na-komst-lammers-en-pikt-nuytinck-op-bij-udinese.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244780,
+    "slug": "britt-dekker-heeft-al-twee-jaar-geen-echt-sociaal-leven-meer",
+    "type": "article",
+    "title": "Britt Dekker heeft al twee jaar geen echt sociaal leven meer",
+    "subtitle": null,
+    "published_at": "2023-01-02T18:01:25+01:00",
+    "updated_at": "2023-01-02T18:01:26+01:00",
+    "media_id": "9v8x0xuafi7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6244780/britt-dekker-heeft-al-twee-jaar-geen-echt-sociaal-leven-meer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245397,
     "slug": "afgelopen-jaar-minder-meldingen-van-bedreiging-en-geweld-tegen-journalisten",
     "type": "article",
     "title": "Afgelopen jaar minder meldingen van bedreiging en geweld tegen journalisten",
     "subtitle": null,
     "published_at": "2023-01-02T17:46:36+01:00",
-    "updated_at": "2023-01-02T17:46:37+01:00",
+    "updated_at": "2023-01-02T17:51:11+01:00",
     "media_id": "dj1xjjca7mzs",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Autoverkoop 2022: dit viel op en dit betekent het voor de markt",
     "subtitle": null,
     "published_at": "2023-01-02T16:51:47+01:00",
-    "updated_at": "2023-01-02T16:51:49+01:00",
+    "updated_at": "2023-01-02T17:52:30+01:00",
     "media_id": "lnqxup8av692",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6245381/aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245380,
-    "slug": "timelapse-toont-brandend-meer-in-canada",
-    "type": "video",
-    "title": "Timelapse toont 'brandend' meer in Canada",
-    "subtitle": "Video",
-    "published_at": "2023-01-02T14:06:38+01:00",
-    "updated_at": "2023-01-02T14:06:39+01:00",
-    "media_id": "b2axd8mah6vi",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245380/timelapse-toont-brandend-meer-in-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245378,
-    "slug": "fc-volendam-huurt-franse-middenvelder-van-olympique-lyonnais",
-    "type": "article",
-    "title": "FC Volendam huurt Franse middenvelder van Olympique Lyonnais",
-    "subtitle": null,
-    "published_at": "2023-01-02T13:57:39+01:00",
-    "updated_at": "2023-01-02T14:04:28+01:00",
-    "media_id": "rupxsr4a4ace",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245378/fc-volendam-huurt-franse-middenvelder-van-olympique-lyonnais.html",
     "open_new_window": false,
     "partner": null
   }
