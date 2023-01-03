@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245363,
+    "slug": "zolang-de-voorraad-strekt-deze-autos-gaan-binnenkort-uit-productie",
+    "type": "article",
+    "title": "Zolang de voorraad strekt: deze auto's gaan binnenkort uit productie",
+    "subtitle": null,
+    "published_at": "2023-01-03T06:25:01+01:00",
+    "updated_at": "2023-01-03T06:25:02+01:00",
+    "media_id": "bluxwgpaauyu",
+    "duration": null,
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6245363/zolang-de-voorraad-strekt-deze-autos-gaan-binnenkort-uit-productie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245410,
     "slug": "deze-drie-dingen-kunnen-de-oorlog-in-oekraine-laten-kantelen",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6245434,
-    "slug": "weerbericht-dag-begint-droog-en-zonnig-later-op-de-dag-veel-kans-op-regen",
+    "slug": "weerbericht-eerst-code-geel-vanwege-plaatselijke-mist-later-op-de-dag-regen",
     "type": "article",
-    "title": "Weerbericht: Dag begint droog en zonnig, later op de dag veel kans op regen",
+    "title": "Weerbericht: Eerst code geel vanwege plaatselijke mist, later op de dag regen",
     "subtitle": null,
     "published_at": "2023-01-03T05:49:11+01:00",
-    "updated_at": "2023-01-03T05:49:12+01:00",
+    "updated_at": "2023-01-03T06:22:35+01:00",
     "media_id": "9bvxm71adf40",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6245434/weerbericht-dag-begint-droog-en-zonnig-later-op-de-dag-veel-kans-op-regen.html",
+    "url": "/binnenland/6245434/weerbericht-eerst-code-geel-vanwege-plaatselijke-mist-later-op-de-dag-regen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Oekraïense politie: '25 martelkamers gevonden in bevrijde regio Kharkiv'",
     "subtitle": null,
     "published_at": "2023-01-03T04:33:16+01:00",
-    "updated_at": "2023-01-03T04:41:24+01:00",
+    "updated_at": "2023-01-03T06:22:23+01:00",
     "media_id": "bs2xy3cayzqd",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Zweden begonnen met jacht op de wolf 'Grootste populatie in moderne tijd'",
     "subtitle": null,
     "published_at": "2023-01-03T02:11:48+01:00",
-    "updated_at": "2023-01-03T05:52:18+01:00",
+    "updated_at": "2023-01-03T06:27:23+01:00",
     "media_id": "2z6xcphas46o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6245420/energiecrisis-duurt-voort-maar-torenhoge-prijzen-van-2022-zijn-verleden-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245422,
-    "slug": "drone-filmt-lange-rij-voor-stadion-waar-kist-pele-ligt",
-    "type": "video",
-    "title": "Drone filmt lange rij voor stadion waar kist Pelé ligt",
-    "subtitle": "Video",
-    "published_at": "2023-01-02T21:42:51+01:00",
-    "updated_at": "2023-01-02T21:42:53+01:00",
-    "media_id": "c2lxq64a0t85",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245422/drone-filmt-lange-rij-voor-stadion-waar-kist-pele-ligt.html",
     "open_new_window": false,
     "partner": null
   }
