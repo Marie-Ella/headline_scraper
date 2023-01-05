@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245735,
+    "slug": "sony-zegt-dat-tekort-aan-playstation-5-na-twee-jaar-voorbij-is",
+    "type": "article",
+    "title": "Sony zegt dat tekort aan PlayStation 5 na twee jaar voorbij is",
+    "subtitle": null,
+    "published_at": "2023-01-05T10:20:44+01:00",
+    "updated_at": "2023-01-05T10:20:46+01:00",
+    "media_id": "53xxcvwal4f9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6245735/sony-zegt-dat-tekort-aan-playstation-5-na-twee-jaar-voorbij-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245739,
+    "slug": "kist-paus-benedictus-xvi-onder-applaus-naar-sint-pietersplein-gedragen",
+    "type": "video",
+    "title": "Kist paus Benedictus XVI onder applaus naar Sint-Pietersplein gedragen",
+    "subtitle": "Video",
+    "published_at": "2023-01-05T10:18:54+01:00",
+    "updated_at": "2023-01-05T10:18:55+01:00",
+    "media_id": "tmpx1eea6lqm",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245739/kist-paus-benedictus-xvi-onder-applaus-naar-sint-pietersplein-gedragen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245725,
     "slug": "emma-noah-en-sam-zijn-de-populairste-kindernamen-van-2022",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Transfervrije Daley Blind staat voor verrassende overstap naar Bayern München",
     "subtitle": null,
     "published_at": "2023-01-05T09:27:49+01:00",
-    "updated_at": "2023-01-05T09:58:35+01:00",
+    "updated_at": "2023-01-05T10:26:14+01:00",
     "media_id": "w6ixdf4aub0g",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Apple krijgt boete van 8 miljoen euro vanwege gepersonaliseerde advertenties",
     "subtitle": null,
     "published_at": "2023-01-05T08:57:30+01:00",
-    "updated_at": "2023-01-05T09:04:01+01:00",
+    "updated_at": "2023-01-05T10:27:44+01:00",
     "media_id": "u7px0jxauljn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245680/kerstboom-met-piek-en-al-op-straat-recyclebedrijf-heeft-er-handen-vol-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245622,
-    "slug": "real-madrid-of-toch-city-voor-deze-wk-verrassingen-lonkt-een-transfer",
-    "type": "article",
-    "title": "Real Madrid of toch City? Voor deze WK-verrassingen lonkt een transfer",
-    "subtitle": "NU+",
-    "published_at": "2023-01-05T05:28:00+01:00",
-    "updated_at": "2023-01-05T07:27:11+01:00",
-    "media_id": "tmhxv02atids",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245622/real-madrid-of-toch-city-voor-deze-wk-verrassingen-lonkt-een-transfer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245663,
-    "slug": "opvallende-stijging-spaartegoed-in-maand-van-190-euro-energiecompensatie",
-    "type": "article",
-    "title": "Opvallende stijging spaartegoed in maand van 190 euro energiecompensatie",
-    "subtitle": null,
-    "published_at": "2023-01-05T05:27:01+01:00",
-    "updated_at": "2023-01-05T05:27:03+01:00",
-    "media_id": "ov7xny9a7hqr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6245663/opvallende-stijging-spaartegoed-in-maand-van-190-euro-energiecompensatie.html",
     "open_new_window": false,
     "partner": null
   }
