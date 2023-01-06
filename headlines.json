@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245650,
+    "slug": "vaarwel-dagboek-hallo-app-zo-worden-radioluistercijfers-nu-gemeten",
+    "type": "video",
+    "title": "Vaarwel dagboek, hallo app: zo worden radioluistercijfers nu gemeten",
+    "subtitle": "Video",
+    "published_at": "2023-01-06T06:28:11+01:00",
+    "updated_at": "2023-01-06T06:28:13+01:00",
+    "media_id": "ksixahma2wf5",
+    "duration": "1:29",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6245650/vaarwel-dagboek-hallo-app-zo-worden-radioluistercijfers-nu-gemeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245864,
+    "slug": "nederlander-overleden-na-sprong-met-wingsuit-in-zwitserland",
+    "type": "article",
+    "title": "Nederlander overleden na sprong met wingsuit in Zwitserland",
+    "subtitle": null,
+    "published_at": "2023-01-06T06:19:12+01:00",
+    "updated_at": "2023-01-06T06:19:14+01:00",
+    "media_id": "8zuxu10a8wnu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245864/nederlander-overleden-na-sprong-met-wingsuit-in-zwitserland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245749,
     "slug": "meer-dan-alleen-je-kerstboom-wegdoen-hier-draait-driekoningen-eigenlijk-om",
     "type": "article",
@@ -96,9 +142,9 @@
     "slug": "waarom-de-inflatie-iets-terugzakt-maar-nog-steeds-heel-hoog-blijft",
     "type": "article",
     "title": "Waarom de inflatie iets terugzakt (maar nog steeds heel hoog blijft)",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-01-06T05:28:43+01:00",
-    "updated_at": "2023-01-06T05:28:44+01:00",
+    "updated_at": "2023-01-06T06:29:04+01:00",
     "media_id": "ke3x85uawo4j",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245849/moskeeen-wijzen-gesprek-met-ministerie-over-undercoveronderzoek-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245792,
-    "slug": "blind-rondt-transfer-naar-bayern-af-en-tekent-contract-tot-einde-van-het-seizoen",
-    "type": "article",
-    "title": "Blind rondt transfer naar Bayern af en tekent contract tot einde van het seizoen",
-    "subtitle": null,
-    "published_at": "2023-01-05T21:04:48+01:00",
-    "updated_at": "2023-01-05T21:33:26+01:00",
-    "media_id": "i94xw7qab112",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245792/blind-rondt-transfer-naar-bayern-af-en-tekent-contract-tot-einde-van-het-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245847,
-    "slug": "zwaarste-vliegende-vogel-in-europa-keert-terug-naar-vk-groot-succes",
-    "type": "video",
-    "title": "Zwaarste vliegende vogel in Europa keert terug naar VK: 'Groot succes'",
-    "subtitle": "Video",
-    "published_at": "2023-01-05T21:01:30+01:00",
-    "updated_at": "2023-01-05T21:01:31+01:00",
-    "media_id": "a2zxpjxasqub",
-    "duration": "1:00",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245847/zwaarste-vliegende-vogel-in-europa-keert-terug-naar-vk-groot-succes.html",
     "open_new_window": false,
     "partner": null
   }
