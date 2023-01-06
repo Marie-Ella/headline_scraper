@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245987,
+    "slug": "italiaan-bosa-verrast-scheperkamp-verbij-en-otterspeer-bij-start-ek-sprint",
+    "type": "article",
+    "title": "Italiaan Bosa verrast Scheperkamp, Verbij en Otterspeer bij start EK sprint",
+    "subtitle": null,
+    "published_at": "2023-01-06T18:28:31+01:00",
+    "updated_at": "2023-01-06T18:29:32+01:00",
+    "media_id": "b15xe0eapl0n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6245987/italiaan-bosa-verrast-scheperkamp-verbij-en-otterspeer-bij-start-ek-sprint.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245985,
+    "slug": "robothoofd-met-driedimensionaal-gezicht-maakt-videocalls-levendiger",
+    "type": "video",
+    "title": "Robothoofd met 'driedimensionaal' gezicht maakt videocalls levendiger",
+    "subtitle": "Video",
+    "published_at": "2023-01-06T18:24:54+01:00",
+    "updated_at": "2023-01-06T18:24:56+01:00",
+    "media_id": "oqbx988aa0mo",
+    "duration": "1:21",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245985/robothoofd-met-driedimensionaal-gezicht-maakt-videocalls-levendiger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245983,
     "slug": "spoedeisende-hulp-moet-vaker-dicht-vanwege-griepgolf-en-personeelstekort",
     "type": "article",
@@ -70,13 +116,13 @@
   },
   {
     "id": 6245977,
-    "slug": "verbij-otterspeer-en-scheperkamp-beginnen-aan-500-meter",
+    "slug": "kok-en-leerdam-zetten-strijd-voort-op-1000-meter",
     "type": "article",
-    "title": "Verbij, Otterspeer en Scheperkamp beginnen aan 500 meter",
+    "title": "Kok en Leerdam zetten strijd voort op 1.000 meter",
     "subtitle": "Liveblog EK sprint",
     "published_at": "2023-01-06T17:14:12+01:00",
-    "updated_at": "2023-01-06T17:52:17+01:00",
-    "media_id": "ojsx64gagny7",
+    "updated_at": "2023-01-06T18:19:25+01:00",
+    "media_id": "gwpxo5ma1l3v",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -87,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6245977/verbij-otterspeer-en-scheperkamp-beginnen-aan-500-meter.html",
+    "url": "/schaatsen/6245977/kok-en-leerdam-zetten-strijd-voort-op-1000-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6245941/helft-gletsjers-verdwijnt-volgens-studie-al-bij-minimaal-15-graden-opwarming.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245939,
-    "slug": "ceferin-krijgt-geen-uitdager-en-stevent-af-op-derde-termijn-als-uefa-voorzitter",
-    "type": "article",
-    "title": "Ceferin krijgt geen uitdager en stevent af op derde termijn als UEFA-voorzitter",
-    "subtitle": null,
-    "published_at": "2023-01-06T14:02:48+01:00",
-    "updated_at": "2023-01-06T14:02:49+01:00",
-    "media_id": "eg1xrqva69d4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245939/ceferin-krijgt-geen-uitdager-en-stevent-af-op-derde-termijn-als-uefa-voorzitter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245937,
-    "slug": "bewakingsbeelden-tonen-moment-dat-bliksem-truck-raakt-in-vs",
-    "type": "video",
-    "title": "Bewakingsbeelden tonen moment dat bliksem truck raakt in VS",
-    "subtitle": "Video",
-    "published_at": "2023-01-06T13:52:53+01:00",
-    "updated_at": "2023-01-06T13:52:54+01:00",
-    "media_id": "ggbx4f5actf7",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245937/bewakingsbeelden-tonen-moment-dat-bliksem-truck-raakt-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
