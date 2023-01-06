@@ -116,12 +116,12 @@
   },
   {
     "id": 6245650,
-    "slug": "vaarwel-dagboek-hallo-app-zo-worden-radioluistercijfers-nu-gemeten",
+    "slug": "zo-wordt-gemeten-naar-welke-radiozenders-mensen-luisteren",
     "type": "video",
-    "title": "Vaarwel dagboek, hallo app: zo worden radioluistercijfers nu gemeten",
+    "title": "Zo wordt gemeten naar welke radiozenders mensen luisteren",
     "subtitle": "Video",
     "published_at": "2023-01-06T06:28:11+01:00",
-    "updated_at": "2023-01-06T06:28:13+01:00",
+    "updated_at": "2023-01-06T08:35:34+01:00",
     "media_id": "ksixahma2wf5",
     "duration": "1:29",
     "canonical_section": {
@@ -133,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6245650/vaarwel-dagboek-hallo-app-zo-worden-radioluistercijfers-nu-gemeten.html",
+    "url": "/algemeen/6245650/zo-wordt-gemeten-naar-welke-radiozenders-mensen-luisteren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +208,12 @@
   },
   {
     "id": 6245853,
-    "slug": "verbij-wil-bij-ek-afrekenen-met-15-jaar-pech-ben-wel-genoeg-ziek-geweest",
+    "slug": "verbij-klaagt-na-15-jaar-pech-steeds-minder-en-dus-wordt-hij-weer-gevaarlijk",
     "type": "article",
-    "title": "Verbij wil bij EK afrekenen met 1,5 jaar pech: 'Ben wel genoeg ziek geweest'",
+    "title": "Verbij klaagt na 1,5 jaar pech steeds minder en dus wordt hij weer gevaarlijk",
     "subtitle": null,
     "published_at": "2023-01-06T05:31:46+01:00",
-    "updated_at": "2023-01-06T05:31:47+01:00",
+    "updated_at": "2023-01-06T08:44:47+01:00",
     "media_id": "n27xc8eafipb",
     "duration": null,
     "canonical_section": {
@@ -225,7 +225,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6245853/verbij-wil-bij-ek-afrekenen-met-15-jaar-pech-ben-wel-genoeg-ziek-geweest.html",
+    "url": "/schaatsen/6245853/verbij-klaagt-na-15-jaar-pech-steeds-minder-en-dus-wordt-hij-weer-gevaarlijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -414,29 +414,6 @@
     "partner": null
   },
   {
-    "id": 6245859,
-    "slug": "stranger-things-acteur-noah-schnapp-18-komt-uit-de-kast",
-    "type": "article",
-    "title": "Stranger Things-acteur Noah Schnapp (18) komt uit de kast",
-    "subtitle": null,
-    "published_at": "2023-01-06T02:59:10+01:00",
-    "updated_at": "2023-01-06T07:09:46+01:00",
-    "media_id": "tmdxg2dajxe5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6245859/stranger-things-acteur-noah-schnapp-18-komt-uit-de-kast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6245858,
     "slug": "arrestatie-zoon-van-el-chapo-veroorzaakt-golf-van-geweld-in-mexico",
     "type": "article",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/buitenland/6245858/arrestatie-zoon-van-el-chapo-veroorzaakt-golf-van-geweld-in-mexico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245857,
+    "slug": "200-miljoen-mailadressen-van-twitter-gebruikers-op-straat-door-hack",
+    "type": "article",
+    "title": "200 miljoen mailadressen van Twitter-gebruikers op straat door hack",
+    "subtitle": null,
+    "published_at": "2023-01-06T00:22:57+01:00",
+    "updated_at": "2023-01-06T07:12:50+01:00",
+    "media_id": "gvjxf4vak55o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6245857/200-miljoen-mailadressen-van-twitter-gebruikers-op-straat-door-hack.html",
     "open_new_window": false,
     "partner": null
   }
