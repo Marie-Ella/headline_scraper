@@ -1,12 +1,35 @@
 [
   {
+    "id": 6246077,
+    "slug": "schatzoekers-graven-naar-nazischat-in-betuwse-ommeren",
+    "type": "video",
+    "title": "Schatzoekers graven naar nazischat in Betuwse Ommeren",
+    "subtitle": "Video",
+    "published_at": "2023-01-07T17:48:02+01:00",
+    "updated_at": "2023-01-07T17:48:03+01:00",
+    "media_id": "bq0xqbua0oqt",
+    "duration": "1:05",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246077/schatzoekers-graven-naar-nazischat-in-betuwse-ommeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246076,
     "slug": "protest-gele-hesjes-in-parijs-van-start-met-ongeregeldheden",
     "type": "article",
     "title": "Protest 'Gele Hesjes' in Parijs van start met ongeregeldheden",
     "subtitle": null,
     "published_at": "2023-01-07T16:54:22+01:00",
-    "updated_at": "2023-01-07T17:07:14+01:00",
+    "updated_at": "2023-01-07T17:37:37+01:00",
     "media_id": "r6kxm80ajl1s",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Iran executeert demonstranten: ambassadeur ontboden en demonstratie in Den Haag",
     "subtitle": null,
     "published_at": "2023-01-07T16:33:01+01:00",
-    "updated_at": "2023-01-07T16:57:04+01:00",
+    "updated_at": "2023-01-07T17:46:13+01:00",
     "media_id": "j1fx3lbaidg9",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6246072,
-    "slug": "noppert-toont-wk-vorm-in-duel-met-rkc-waalwijk",
+    "slug": "doelman-vaessen-grote-uitblinker-bij-rkc-heerenveen",
     "type": "article",
-    "title": "Noppert toont WK-vorm in duel met RKC Waalwijk",
+    "title": "Doelman Vaessen grote uitblinker bij RKC-Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-07T16:04:24+01:00",
-    "updated_at": "2023-01-07T17:08:10+01:00",
-    "media_id": "tb2x5snap7ho",
+    "updated_at": "2023-01-07T17:43:40+01:00",
+    "media_id": "aj7xk7ualz25",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6246072/noppert-toont-wk-vorm-in-duel-met-rkc-waalwijk.html",
+    "url": "/voetbal/6246072/doelman-vaessen-grote-uitblinker-bij-rkc-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Schatzoekers negeren verbod en graven toch naar mogelijke nazischat Ommeren",
     "subtitle": null,
     "published_at": "2023-01-07T13:45:56+01:00",
-    "updated_at": "2023-01-07T14:13:48+01:00",
+    "updated_at": "2023-01-07T17:42:03+01:00",
     "media_id": "tndx4ajayhao",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6246054/zo-werd-mccarthy-beedigd-als-voorzitter-huis-van-afgevaardigden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245882,
-    "slug": "dit-zijn-op-dit-moment-de-beste-smartphones-tot-350-euro",
-    "type": "article",
-    "title": "Dit zijn op dit moment de beste smartphones tot 350 euro",
-    "subtitle": null,
-    "published_at": "2023-01-07T12:26:37+01:00",
-    "updated_at": "2023-01-07T12:56:27+01:00",
-    "media_id": "tt8xuspas2zo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6245882/dit-zijn-op-dit-moment-de-beste-smartphones-tot-350-euro.html",
     "open_new_window": false,
     "partner": null
   }
