@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246106,
+    "slug": "aanrijding-tussen-trein-en-trekker-op-spoorwegovergang-in-staphorst",
+    "type": "video",
+    "title": "Aanrijding tussen trein en trekker op spoorwegovergang in Staphorst",
+    "subtitle": "Video",
+    "published_at": "2023-01-07T23:21:54+01:00",
+    "updated_at": "2023-01-07T23:24:38+01:00",
+    "media_id": "v3lx1ifa37d8",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246106/aanrijding-tussen-trein-en-trekker-op-spoorwegovergang-in-staphorst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246105,
     "slug": "zwak-psv-morst-bij-hervatting-eredivisie-punten-tegen-sparta",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246084/bekende-gezichten-bij-honderdste-nieuwjaarsduel-oud-internationals.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246083,
-    "slug": "oranje-revelatie-noppert-toont-wk-vorm-ook-bij-gelijkspel-heerenveen-in-waalwijk",
-    "type": "article",
-    "title": "Oranje-revelatie Noppert toont WK-vorm ook bij gelijkspel Heerenveen in Waalwijk",
-    "subtitle": null,
-    "published_at": "2023-01-07T18:24:34+01:00",
-    "updated_at": "2023-01-07T22:24:29+01:00",
-    "media_id": "6r2xndsapl6h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246083/oranje-revelatie-noppert-toont-wk-vorm-ook-bij-gelijkspel-heerenveen-in-waalwijk.html",
     "open_new_window": false,
     "partner": null
   }
