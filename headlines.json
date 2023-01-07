@@ -1,12 +1,35 @@
 [
   {
+    "id": 6246069,
+    "slug": "hoe-kan-een-vertrouwenspersoon-helpen-bij-misstanden",
+    "type": "article",
+    "title": "Hoe kan een vertrouwenspersoon helpen bij misstanden?",
+    "subtitle": null,
+    "published_at": "2023-01-07T20:17:11+01:00",
+    "updated_at": "2023-01-07T20:17:13+01:00",
+    "media_id": "vm3xca0adm30",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6246069/hoe-kan-een-vertrouwenspersoon-helpen-bij-misstanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246093,
     "slug": "miljoenenaankoop-gakpo-maakt-gelijk-als-basisspeler-debuut-voor-liverpool",
     "type": "article",
     "title": "Miljoenenaankoop Gakpo maakt gelijk als basisspeler debuut voor Liverpool",
     "subtitle": null,
     "published_at": "2023-01-07T20:11:37+01:00",
-    "updated_at": "2023-01-07T20:11:39+01:00",
+    "updated_at": "2023-01-07T20:24:49+01:00",
     "media_id": "32oxdpqa93ae",
     "duration": null,
     "canonical_section": {
@@ -369,13 +392,13 @@
   },
   {
     "id": 6246072,
-    "slug": "az-en-vitesse-houden-elkaar-in-bedwang-psv-treft-sparta",
+    "slug": "az-en-go-ahead-eagles-op-voorsprong-psv-treft-sparta",
     "type": "article",
-    "title": "AZ en Vitesse houden elkaar in bedwang, PSV treft Sparta",
+    "title": "AZ en Go Ahead Eagles op voorsprong, PSV treft Sparta",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-07T16:04:24+01:00",
-    "updated_at": "2023-01-07T19:54:05+01:00",
-    "media_id": "9x5xovralc0l",
+    "updated_at": "2023-01-07T20:26:31+01:00",
+    "media_id": "5k0xbwxasjsa",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6246072/az-en-vitesse-houden-elkaar-in-bedwang-psv-treft-sparta.html",
+    "url": "/voetbal/6246072/az-en-go-ahead-eagles-op-voorsprong-psv-treft-sparta.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6246070/leider-roest-verslagen-op-5-kilometer-bij-ek-allround-rijpma-de-jong-domineert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246068,
-    "slug": "van-aert-wint-ook-in-gullegem-bij-afwezigheid-van-van-der-poel-en-pidcock",
-    "type": "article",
-    "title": "Van Aert wint ook in Gullegem bij afwezigheid van Van der Poel en Pidcock",
-    "subtitle": null,
-    "published_at": "2023-01-07T14:34:34+01:00",
-    "updated_at": "2023-01-07T18:50:32+01:00",
-    "media_id": "0q6x7rhakfpt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6246068/van-aert-wint-ook-in-gullegem-bij-afwezigheid-van-van-der-poel-en-pidcock.html",
     "open_new_window": false,
     "partner": null
   }
