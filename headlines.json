@@ -1,24 +1,47 @@
 [
   {
+    "id": 6246122,
+    "slug": "grote-stap-in-onderzoek-naar-erectieproblemen-kunstweefsel-kan-varkens-helpen",
+    "type": "article",
+    "title": "Grote stap in onderzoek naar erectieproblemen: kunstweefsel kan varkens helpen",
+    "subtitle": null,
+    "published_at": "2023-01-08T08:32:35+01:00",
+    "updated_at": "2023-01-08T08:40:43+01:00",
+    "media_id": "um8xg3rayjfo",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6246122/grote-stap-in-onderzoek-naar-erectieproblemen-kunstweefsel-kan-varkens-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246121,
     "slug": "minst-bekeken-wie-is-de-mol-start-in-jaren",
     "type": "article",
     "title": "Minst bekeken Wie is de Mol?-start in jaren",
     "subtitle": null,
     "published_at": "2023-01-08T08:21:51+01:00",
-    "updated_at": "2023-01-08T08:21:52+01:00",
+    "updated_at": "2023-01-08T08:47:19+01:00",
     "media_id": "juixcy1atlae",
     "duration": null,
     "canonical_section": {
-      "id": 1778707,
-      "slug": "films-en-series",
+      "id": 127,
+      "slug": "film",
       "type": "default",
-      "name": "Films en series",
-      "style": "mediapartner-external",
+      "name": "Films & Series",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/films-en-series/6246121/minst-bekeken-wie-is-de-mol-start-in-jaren.html",
+    "url": "/film/6246121/minst-bekeken-wie-is-de-mol-start-in-jaren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Gakpo kende geen zenuwen voor Liverpool-debuut: 'Ben goed opgevangen'",
     "subtitle": null,
     "published_at": "2023-01-08T08:20:42+01:00",
-    "updated_at": "2023-01-08T08:20:43+01:00",
+    "updated_at": "2023-01-08T08:32:42+01:00",
     "media_id": "iy6xru0af4d9",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6245973,
-    "slug": "we-moeten-het-hebben-over-het-slimme-spel-dat-extreemrechts-met-ons-speelt",
+    "slug": "we-moeten-het-hebben-over-extreemrechts",
     "type": "article",
-    "title": "We moeten het hebben over het 'slimme spel' dat extreemrechts met ons speelt",
+    "title": "We moeten het hebben over extreemrechts",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-01-08T08:01:04+01:00",
-    "updated_at": "2023-01-08T08:01:06+01:00",
+    "updated_at": "2023-01-08T08:39:24+01:00",
     "media_id": "atdxgl3a0zt5",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6245973/we-moeten-het-hebben-over-het-slimme-spel-dat-extreemrechts-met-ons-speelt.html",
+    "url": "/blog/6245973/we-moeten-het-hebben-over-extreemrechts.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246111/dode-en-tientallen-gewonden-door-metro-ongeluk-in-mexico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246110,
-    "slug": "explosie-bij-woning-in-amsterdamse-rivierenbuurt",
-    "type": "article",
-    "title": "Explosie bij woning in Amsterdamse Rivierenbuurt",
-    "subtitle": null,
-    "published_at": "2023-01-08T01:55:58+01:00",
-    "updated_at": "2023-01-08T07:41:04+01:00",
-    "media_id": "8wyxakoahsi0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246110/explosie-bij-woning-in-amsterdamse-rivierenbuurt.html",
     "open_new_window": false,
     "partner": null
   }
