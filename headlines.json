@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246246,
+    "slug": "man-onderbreekt-nieuwjaarstoespraak-van-maastrichtse-burgemeester",
+    "type": "video",
+    "title": "Man onderbreekt nieuwjaarstoespraak van Maastrichtse burgemeester",
+    "subtitle": "Video",
+    "published_at": "2023-01-09T12:13:35+01:00",
+    "updated_at": "2023-01-09T12:13:37+01:00",
+    "media_id": "1b2xmnhav87n",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246246/man-onderbreekt-nieuwjaarstoespraak-van-maastrichtse-burgemeester.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246239,
     "slug": "tweede-dode-reuzenhaai-in-een-maand-tijd-gevonden-in-zeeland",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Tony's Chocolonely groeit hard, voornamelijk door populariteit in VS",
     "subtitle": null,
     "published_at": "2023-01-09T11:25:20+01:00",
-    "updated_at": "2023-01-09T11:43:18+01:00",
+    "updated_at": "2023-01-09T12:24:15+01:00",
     "media_id": "hudx433agbgm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246205/braziliaanse-politicus-toont-schade-in-overheidsgebouw-na-bestorming.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246204,
-    "slug": "griekspoor-stijgt-dankzij-titel-in-india-34-plekken-op-wereldranglijst",
-    "type": "article",
-    "title": "Griekspoor stijgt dankzij titel in India 34 plekken op wereldranglijst",
-    "subtitle": null,
-    "published_at": "2023-01-09T07:44:17+01:00",
-    "updated_at": "2023-01-09T09:04:09+01:00",
-    "media_id": "4opxy1sayf21",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6246204/griekspoor-stijgt-dankzij-titel-in-india-34-plekken-op-wereldranglijst.html",
     "open_new_window": false,
     "partner": null
   }
