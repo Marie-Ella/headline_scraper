@@ -1,12 +1,35 @@
 [
   {
+    "id": 6246228,
+    "slug": "werk-jij-in-de-nacht-dan-zoeken-we-jou",
+    "type": "article",
+    "title": "Werk jij in de nacht? Dan zoeken we jou",
+    "subtitle": null,
+    "published_at": "2023-01-09T11:06:07+01:00",
+    "updated_at": "2023-01-09T11:06:08+01:00",
+    "media_id": "i1axjtdaaxvk",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6246228/werk-jij-in-de-nacht-dan-zoeken-we-jou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246229,
     "slug": "prins-harry-familieleden-sloten-pact-met-de-duivel",
     "type": "video",
     "title": "Prins Harry: 'Familieleden sloten pact met de duivel'",
     "subtitle": "Video",
     "published_at": "2023-01-09T10:46:57+01:00",
-    "updated_at": "2023-01-09T10:46:59+01:00",
+    "updated_at": "2023-01-09T10:56:01+01:00",
     "media_id": "aixxe5gamxjy",
     "duration": "1:09",
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6246210,
-    "slug": "franse-bondspreses-wekt-woede-mbappe-en-minister-met-uitspraken-over-zidane",
+    "slug": "franse-bondspreses-biedt-excuses-na-storm-van-kritiek-over-uitspraken-over-zidane",
     "type": "article",
-    "title": "Franse bondspreses wekt woede Mbappé en minister met uitspraken over Zidane",
+    "title": "Franse bondspreses biedt excuses na storm van kritiek over uitspraken over Zidane",
     "subtitle": null,
     "published_at": "2023-01-09T09:01:33+01:00",
-    "updated_at": "2023-01-09T09:46:12+01:00",
+    "updated_at": "2023-01-09T11:08:47+01:00",
     "media_id": "okjxle7an1zt",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6246210/franse-bondspreses-wekt-woede-mbappe-en-minister-met-uitspraken-over-zidane.html",
+    "url": "/voetbal/6246210/franse-bondspreses-biedt-excuses-na-storm-van-kritiek-over-uitspraken-over-zidane.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Waarom het dit jaar erg druk wordt op de maan",
     "subtitle": "Video",
     "published_at": "2023-01-09T05:57:08+01:00",
-    "updated_at": "2023-01-09T05:57:09+01:00",
+    "updated_at": "2023-01-09T11:00:02+01:00",
     "media_id": "homxx4jaznat",
     "duration": "1:46",
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Defensie-expert Ko Colijn over scenario's voor de oorlog in 2023",
     "subtitle": "NU+",
     "published_at": "2023-01-09T05:48:44+01:00",
-    "updated_at": "2023-01-09T10:43:10+01:00",
+    "updated_at": "2023-01-09T10:59:31+01:00",
     "media_id": "l6hxeu2aupvd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6246198/weerbericht-bewolking-en-buien-tot-laat-in-de-avond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246197,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-01-09T05:18:56+01:00",
-    "updated_at": "2023-01-09T09:26:52+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6246197/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
