@@ -1,5 +1,97 @@
 [
   {
+    "id": 6246197,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-09T05:18:56+01:00",
+    "updated_at": "2023-01-09T05:18:57+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6246197/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245933,
+    "slug": "elektrische-auto-is-diesel-bijna-voorbijgereden",
+    "type": "article",
+    "title": "Elektrische auto is diesel bijna voorbijgereden",
+    "subtitle": null,
+    "published_at": "2023-01-09T05:17:48+01:00",
+    "updated_at": "2023-01-09T05:17:49+01:00",
+    "media_id": "xmnxoz9av1ki",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6245933/elektrische-auto-is-diesel-bijna-voorbijgereden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245944,
+    "slug": "na-lenteweer-is-het-voor-fruittelers-en-natuur-te-hopen-dat-vorst-uitblijft",
+    "type": "article",
+    "title": "Na lenteweer is het voor fruittelers en natuur te hopen dat vorst uitblijft",
+    "subtitle": null,
+    "published_at": "2023-01-09T04:57:33+01:00",
+    "updated_at": "2023-01-09T04:57:35+01:00",
+    "media_id": "fkfxld8a6ty6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6245944/na-lenteweer-is-het-voor-fruittelers-en-natuur-te-hopen-dat-vorst-uitblijft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245810,
+    "slug": "valerio-zeno-is-na-jaren-terug-op-tv-heb-de-spotlights-niet-gemist",
+    "type": "article",
+    "title": "Valerio Zeno is na jaren terug op tv: 'Heb de spotlights niet gemist'",
+    "subtitle": null,
+    "published_at": "2023-01-09T04:52:15+01:00",
+    "updated_at": "2023-01-09T04:55:16+01:00",
+    "media_id": "sjbx835aadsj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6245810/valerio-zeno-is-na-jaren-terug-op-tv-heb-de-spotlights-niet-gemist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246196,
     "slug": "eerste-satellietlancering-in-west-europa-mogelijk-vanuit-nederland-te-zien",
     "type": "article",
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6246177/bouwer-stikstofinstallatie-groningen-beeindigt-contract-met-onderaannemer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246175,
-    "slug": "van-der-poel-gefrustreerd-door-rugklachten-heel-moeilijk-om-me-te-focussen",
-    "type": "article",
-    "title": "Van der Poel gefrustreerd door rugklachten: 'Heel moeilijk om me te focussen'",
-    "subtitle": null,
-    "published_at": "2023-01-08T17:26:16+01:00",
-    "updated_at": "2023-01-08T17:42:53+01:00",
-    "media_id": "gzgxr3gak9gt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6246175/van-der-poel-gefrustreerd-door-rugklachten-heel-moeilijk-om-me-te-focussen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246174,
-    "slug": "gestreepte-dolfijn-gespot-bij-hoek-van-holland",
-    "type": "video",
-    "title": "Gestreepte dolfijn gespot bij Hoek van Holland",
-    "subtitle": "Video",
-    "published_at": "2023-01-08T17:23:20+01:00",
-    "updated_at": "2023-01-08T17:24:07+01:00",
-    "media_id": "47ax4okangv7",
-    "duration": "0:24",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246174/gestreepte-dolfijn-gespot-bij-hoek-van-holland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246173,
-    "slug": "roest-prolongeert-europese-titel-na-onverwacht-spannende-strijd-met-noor-eitrem",
-    "type": "article",
-    "title": "Roest prolongeert Europese titel na onverwacht spannende strijd met Noor Eitrem",
-    "subtitle": null,
-    "published_at": "2023-01-08T17:10:57+01:00",
-    "updated_at": "2023-01-08T23:38:47+01:00",
-    "media_id": "uo8xnqzag5cr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6246173/roest-prolongeert-europese-titel-na-onverwacht-spannende-strijd-met-noor-eitrem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246172,
-    "slug": "schreuder-houdt-ook-na-nieuwe-misstap-ajax-moed-de-resultaten-komen-vanzelf",
-    "type": "article",
-    "title": "Schreuder houdt ook na nieuwe misstap Ajax moed: 'De resultaten komen vanzelf'",
-    "subtitle": null,
-    "published_at": "2023-01-08T17:04:39+01:00",
-    "updated_at": "2023-01-08T17:32:56+01:00",
-    "media_id": "n8vxul8aeswr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246172/schreuder-houdt-ook-na-nieuwe-misstap-ajax-moed-de-resultaten-komen-vanzelf.html",
     "open_new_window": false,
     "partner": null
   }
