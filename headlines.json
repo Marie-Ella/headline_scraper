@@ -1,5 +1,51 @@
 [
   {
+    "id": 6246206,
+    "slug": "aandeel-leegstaande-winkelpanden-gedaald-naar-niveau-van-2011",
+    "type": "article",
+    "title": "Aandeel leegstaande winkelpanden gedaald naar niveau van 2011",
+    "subtitle": null,
+    "published_at": "2023-01-09T08:20:23+01:00",
+    "updated_at": "2023-01-09T08:27:52+01:00",
+    "media_id": "u1zxrbvayx48",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246206/aandeel-leegstaande-winkelpanden-gedaald-naar-niveau-van-2011.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246207,
+    "slug": "anderhalf-jaar-verkeershinder-en-vertraging-in-rotterdam-zuid-door-renovaties",
+    "type": "article",
+    "title": "Anderhalf jaar verkeershinder en vertraging in Rotterdam-Zuid door renovaties",
+    "subtitle": null,
+    "published_at": "2023-01-09T08:17:48+01:00",
+    "updated_at": "2023-01-09T08:17:49+01:00",
+    "media_id": "kgux4kvagu6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246207/anderhalf-jaar-verkeershinder-en-vertraging-in-rotterdam-zuid-door-renovaties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246205,
     "slug": "braziliaanse-politicus-toont-schade-in-overheidsgebouw-na-bestorming",
     "type": "video",
@@ -328,7 +374,7 @@
     "title": "Braziliaanse troepen beëindigen bezetting overheidsgebouwen, honderden arrestaties",
     "subtitle": null,
     "published_at": "2023-01-09T01:53:58+01:00",
-    "updated_at": "2023-01-09T08:16:06+01:00",
+    "updated_at": "2023-01-09T08:20:38+01:00",
     "media_id": "hhcx3thaqoyw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6246190/roest-wint-fraai-duel-met-eitrem-hebben-allrounden-weer-op-de-kaart-gezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246189,
-    "slug": "frenkie-de-jong-en-barcelona-verslaan-atletico-madrid-en-gaan-steviger-aan-kop",
-    "type": "article",
-    "title": "Frenkie de Jong en Barcelona verslaan Atlético Madrid en gaan steviger aan kop",
-    "subtitle": null,
-    "published_at": "2023-01-08T22:56:41+01:00",
-    "updated_at": "2023-01-08T23:22:07+01:00",
-    "media_id": "ihpx02kaxsek",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246189/frenkie-de-jong-en-barcelona-verslaan-atletico-madrid-en-gaan-steviger-aan-kop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246185,
-    "slug": "cillessen-spreekt-binnenkort-met-keeperstrainer-oranje-en-hoopt-op-nieuwe-kans",
-    "type": "article",
-    "title": "Cillessen spreekt binnenkort met keeperstrainer Oranje en hoopt op nieuwe kans",
-    "subtitle": null,
-    "published_at": "2023-01-08T20:55:18+01:00",
-    "updated_at": "2023-01-08T20:55:20+01:00",
-    "media_id": "4qbx9qlahbay",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246185/cillessen-spreekt-binnenkort-met-keeperstrainer-oranje-en-hoopt-op-nieuwe-kans.html",
     "open_new_window": false,
     "partner": null
   }
