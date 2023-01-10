@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246421,
+    "slug": "politie-bergt-busje-waarmee-jongen-15-werd-ontvoerd",
+    "type": "video",
+    "title": "Politie bergt busje waarmee jongen (15) werd ontvoerd",
+    "subtitle": "Video",
+    "published_at": "2023-01-10T16:58:44+01:00",
+    "updated_at": "2023-01-10T17:04:03+01:00",
+    "media_id": "twzxi1tafzz9",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246421/politie-bergt-busje-waarmee-jongen-15-werd-ontvoerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246414,
     "slug": "messi-speelt-waarschijnlijk-woensdag-eerste-duel-als-wereldkampioen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Jongen (15) ontvoerd met busje, politie lost schoten bij aanhoudingen op A27",
     "subtitle": null,
     "published_at": "2023-01-10T15:43:49+01:00",
-    "updated_at": "2023-01-10T16:30:28+01:00",
+    "updated_at": "2023-01-10T16:53:19+01:00",
     "media_id": "n7dxkyda867t",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Ooit vrienden, nu gebrouilleerd: band Harry en William is rode draad in boek",
     "subtitle": null,
     "published_at": "2023-01-10T12:52:02+01:00",
-    "updated_at": "2023-01-10T14:25:38+01:00",
+    "updated_at": "2023-01-10T16:52:37+01:00",
     "media_id": "o7lxpb3a7ug3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246378/feyenoord-plaatst-bij-duel-met-ajax-netten-rond-veld-om-spelers-te-beschermen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246381,
-    "slug": "9-meter-lange-bultrug-aangespoeld-op-strand-in-vs",
-    "type": "video",
-    "title": "9 meter lange bultrug aangespoeld op strand in VS",
-    "subtitle": "Video",
-    "published_at": "2023-01-10T11:56:58+01:00",
-    "updated_at": "2023-01-10T11:57:00+01:00",
-    "media_id": "gvzxkn9akexw",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246381/9-meter-lange-bultrug-aangespoeld-op-strand-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
