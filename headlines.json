@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246582,
+    "slug": "kajakker-in-vs-trotseert-kolkende-rivier-na-zware-regenval",
+    "type": "video",
+    "title": "Kajakker in VS trotseert kolkende rivier na zware regenval",
+    "subtitle": "Video",
+    "published_at": "2023-01-11T18:20:42+01:00",
+    "updated_at": "2023-01-11T18:20:43+01:00",
+    "media_id": "lryxm27amc23",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246582/kajakker-in-vs-trotseert-kolkende-rivier-na-zware-regenval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246577,
+    "slug": "griepvirus-verspreidt-zich-snel-maar-omvang-epidemie-is-nog-matig",
+    "type": "article",
+    "title": "Griepvirus verspreidt zich snel, maar omvang epidemie is nog 'matig'",
+    "subtitle": null,
+    "published_at": "2023-01-11T18:19:47+01:00",
+    "updated_at": "2023-01-11T18:19:49+01:00",
+    "media_id": "e6px61jav64e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246577/griepvirus-verspreidt-zich-snel-maar-omvang-epidemie-is-nog-matig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246578,
     "slug": "programma-van-der-poel-bekend-wel-tour-de-france-geen-amstel-gold-race",
     "type": "article",
     "title": "Programma Van der Poel bekend: wel Tour de France, geen Amstel Gold Race",
     "subtitle": null,
     "published_at": "2023-01-11T17:53:38+01:00",
-    "updated_at": "2023-01-11T17:54:28+01:00",
+    "updated_at": "2023-01-11T18:16:09+01:00",
     "media_id": "8jxxnbwa958v",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Nederlandse onderzoekers ontdekken dat zonlicht plastic in oceanen kan afbreken",
     "subtitle": null,
     "published_at": "2023-01-11T16:26:37+01:00",
-    "updated_at": "2023-01-11T18:00:38+01:00",
+    "updated_at": "2023-01-11T18:23:18+01:00",
     "media_id": "aimxqc2alkcv",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246546/rutte-nieuwe-regering-israel-moet-tweestatenoplossing-niet-in-gevaar-brengen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246542,
-    "slug": "veertien-minderjarigen-gearresteerd-op-verdenking-van-straatroof-in-barendrecht",
-    "type": "article",
-    "title": "Veertien minderjarigen gearresteerd op verdenking van straatroof in Barendrecht",
-    "subtitle": null,
-    "published_at": "2023-01-11T13:58:40+01:00",
-    "updated_at": "2023-01-11T13:58:41+01:00",
-    "media_id": "askx9jla1x99",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246542/veertien-minderjarigen-gearresteerd-op-verdenking-van-straatroof-in-barendrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246537,
-    "slug": "hert-breekt-door-glazen-deur-van-slagerij-in-vs",
-    "type": "video",
-    "title": "Hert breekt door glazen deur van slagerij in VS",
-    "subtitle": "Video",
-    "published_at": "2023-01-11T13:28:59+01:00",
-    "updated_at": "2023-01-11T13:29:00+01:00",
-    "media_id": "grix0nhat2em",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6246537/hert-breekt-door-glazen-deur-van-slagerij-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
