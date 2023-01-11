@@ -1,12 +1,58 @@
 [
   {
-    "id": 6246468,
-    "slug": "regionale-vervoerders-leggen-vrijdag-opnieuw-het-werk-neer",
+    "id": 6246471,
+    "slug": "verkrachtingszaak-danny-masterson-komt-opnieuw-voor-de-rechter",
     "type": "article",
-    "title": "Regionale vervoerders leggen vrijdag opnieuw het werk neer",
+    "title": "Verkrachtingszaak Danny Masterson komt opnieuw voor de rechter",
+    "subtitle": null,
+    "published_at": "2023-01-11T07:39:02+01:00",
+    "updated_at": "2023-01-11T07:40:32+01:00",
+    "media_id": "dp0xwgnavggd",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6246471/verkrachtingszaak-danny-masterson-komt-opnieuw-voor-de-rechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246470,
+    "slug": "hartono-heeft-nog-een-zege-nodig-voor-tweede-australian-open-deelname",
+    "type": "article",
+    "title": "Hartono heeft nog één zege nodig voor tweede Australian Open-deelname",
+    "subtitle": null,
+    "published_at": "2023-01-11T07:27:13+01:00",
+    "updated_at": "2023-01-11T07:33:07+01:00",
+    "media_id": "f1rx54xaxpt5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246470/hartono-heeft-nog-een-zege-nodig-voor-tweede-australian-open-deelname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246468,
+    "slug": "regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer",
+    "type": "article",
+    "title": "Regionale vervoerders leggen vrijdag opnieuw werk neer",
     "subtitle": null,
     "published_at": "2023-01-11T07:22:06+01:00",
-    "updated_at": "2023-01-11T07:22:07+01:00",
+    "updated_at": "2023-01-11T07:31:26+01:00",
     "media_id": "nsmxu6wajq3h",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-het-werk-neer.html",
+    "url": "/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Eten en drinken wordt de komende maanden nog duurder",
     "subtitle": null,
     "published_at": "2023-01-11T05:01:17+01:00",
-    "updated_at": "2023-01-11T07:00:49+01:00",
+    "updated_at": "2023-01-11T07:45:18+01:00",
     "media_id": "329xkxtawb4m",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6246451/influencer-andrew-tate-verliest-beroepszaak-en-blijft-vastzitten-in-roemenie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246450,
-    "slug": "voormalig-financieel-topman-van-the-trump-organization-krijgt-vijf-maanden-cel",
-    "type": "article",
-    "title": "Voormalig financieel topman van The Trump Organization krijgt vijf maanden cel",
-    "subtitle": null,
-    "published_at": "2023-01-10T21:19:06+01:00",
-    "updated_at": "2023-01-10T21:34:31+01:00",
-    "media_id": "tszxlcxaxkqp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246450/voormalig-financieel-topman-van-the-trump-organization-krijgt-vijf-maanden-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246447,
-    "slug": "politie-zoekt-vermeende-drugsbaronnen-en-opdrachtgevers-voor-geweld",
-    "type": "article",
-    "title": "Politie zoekt vermeende drugsbaronnen en opdrachtgevers voor geweld",
-    "subtitle": null,
-    "published_at": "2023-01-10T21:09:23+01:00",
-    "updated_at": "2023-01-10T21:39:46+01:00",
-    "media_id": "ra9xi5wac3it",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246447/politie-zoekt-vermeende-drugsbaronnen-en-opdrachtgevers-voor-geweld.html",
     "open_new_window": false,
     "partner": null
   }
