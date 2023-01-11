@@ -1,5 +1,51 @@
 [
   {
+    "id": 6246612,
+    "slug": "rockgitarist-jeff-beck-78-overleden",
+    "type": "article",
+    "title": "Rockgitarist Jeff Beck (78) overleden",
+    "subtitle": null,
+    "published_at": "2023-01-11T23:32:39+01:00",
+    "updated_at": "2023-01-11T23:35:57+01:00",
+    "media_id": "m0yx9pqab952",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6246612/rockgitarist-jeff-beck-78-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246613,
+    "slug": "antwerp-bekert-mede-dankzij-janssen-verder-ac-milan-verliest-in-verlenging",
+    "type": "article",
+    "title": "Antwerp bekert mede dankzij Janssen verder, AC Milan verliest in verlenging",
+    "subtitle": null,
+    "published_at": "2023-01-11T23:31:45+01:00",
+    "updated_at": "2023-01-11T23:48:53+01:00",
+    "media_id": "8h5xsnhat80f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246613/antwerp-bekert-mede-dankzij-janssen-verder-ac-milan-verliest-in-verlenging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246603,
     "slug": "real-madrid-klopt-valencia-via-penaltys-en-bereikt-finale-om-spaanse-supercup",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6246583/nfl-speler-hamlin-mag-thuis-verder-herstellen-van-hartstilstand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246584,
-    "slug": "reacties-na-simpele-zege-ajax-bij-fc-den-bosch",
-    "type": "article",
-    "title": "Reacties na simpele zege Ajax bij FC Den Bosch",
-    "subtitle": "Liveblog KNVB-beker",
-    "published_at": "2023-01-11T18:31:22+01:00",
-    "updated_at": "2023-01-11T23:27:01+01:00",
-    "media_id": "hhfxm1wa8eum",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246584/reacties-na-simpele-zege-ajax-bij-fc-den-bosch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246544,
-    "slug": "is-onregelmatig-en-s-nachts-werken-slecht-voor-je-gezondheid",
-    "type": "article",
-    "title": "Is onregelmatig en 's nachts werken slecht voor je gezondheid?",
-    "subtitle": null,
-    "published_at": "2023-01-11T18:30:35+01:00",
-    "updated_at": "2023-01-11T18:30:36+01:00",
-    "media_id": "s69xmogaie0j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6246544/is-onregelmatig-en-s-nachts-werken-slecht-voor-je-gezondheid.html",
     "open_new_window": false,
     "partner": null
   }
