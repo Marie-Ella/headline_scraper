@@ -1,12 +1,58 @@
 [
   {
-    "id": 6246776,
-    "slug": "mees-kees-musical-met-merijn-oerlemans-krijgt-premiere-in-december",
+    "id": 6246780,
+    "slug": "brandweer-rukt-uit-voor-brandende-stadsbussen-in-utrecht",
+    "type": "video",
+    "title": "Brandweer rukt uit voor brandende stadsbussen in Utrecht",
+    "subtitle": "Video",
+    "published_at": "2023-01-13T08:15:26+01:00",
+    "updated_at": "2023-01-13T08:15:27+01:00",
+    "media_id": "0ymx3xmact63",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246780/brandweer-rukt-uit-voor-brandende-stadsbussen-in-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246778,
+    "slug": "busverkeer-utrecht-ontregeld-door-grote-brand-in-stalling",
     "type": "article",
-    "title": "Mees Kees-musical met Merijn Oerlemans krijgt première in december",
+    "title": "Busverkeer Utrecht ontregeld door grote brand in stalling",
+    "subtitle": null,
+    "published_at": "2023-01-13T08:07:13+01:00",
+    "updated_at": "2023-01-13T08:15:08+01:00",
+    "media_id": "6j1xzo0ajion",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246778/busverkeer-utrecht-ontregeld-door-grote-brand-in-stalling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246776,
+    "slug": "mees-kees-musical-met-merijn-oerlemans-krijgt-premiere-in-januari",
+    "type": "article",
+    "title": "Mees Kees-musical met Merijn Oerlemans krijgt première in januari",
     "subtitle": null,
     "published_at": "2023-01-13T07:30:23+01:00",
-    "updated_at": "2023-01-13T07:33:56+01:00",
+    "updated_at": "2023-01-13T08:10:28+01:00",
     "media_id": "etdxxasa4g7j",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6246776/mees-kees-musical-met-merijn-oerlemans-krijgt-premiere-in-december.html",
+    "url": "/cultuur-overig/6246776/mees-kees-musical-met-merijn-oerlemans-krijgt-premiere-in-januari.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,8 +259,8 @@
     "title": "Julia Roberts ontdekt dat ze eigenlijk Julia Mitchell zou moeten heten",
     "subtitle": null,
     "published_at": "2023-01-13T05:25:37+01:00",
-    "updated_at": "2023-01-13T07:12:48+01:00",
-    "media_id": "gldxamxa6y9d",
+    "updated_at": "2023-01-13T07:59:41+01:00",
+    "media_id": "3hmxvl4af3x0",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -282,7 +328,7 @@
     "title": "Elvis' dochter Lisa Marie Presley (54) overleden",
     "subtitle": null,
     "published_at": "2023-01-13T03:16:26+01:00",
-    "updated_at": "2023-01-13T06:34:08+01:00",
+    "updated_at": "2023-01-13T08:13:13+01:00",
     "media_id": "4fkxdi8a4l6a",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246764/barcelona-klopt-betis-via-strafschoppen-en-treft-real-madrid-in-finale-supercup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246762,
-    "slug": "joao-felix-krijgt-bij-chelsea-debuut-rood-na-tackle-op-tete",
-    "type": "video",
-    "title": "João Félix krijgt bij Chelsea-debuut rood na tackle op Tete",
-    "subtitle": "Video",
-    "published_at": "2023-01-12T22:38:05+01:00",
-    "updated_at": "2023-01-12T23:36:58+01:00",
-    "media_id": "azqxrawam92h",
-    "duration": "1:16",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6246762/joao-felix-krijgt-bij-chelsea-debuut-rood-na-tackle-op-tete.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246761,
-    "slug": "duizend-reizigers-urenlang-vast-in-afgesloten-pikdonkere-trein-zonder-wcs",
-    "type": "article",
-    "title": "Duizend reizigers urenlang vast in afgesloten pikdonkere trein zonder wc's",
-    "subtitle": null,
-    "published_at": "2023-01-12T22:22:16+01:00",
-    "updated_at": "2023-01-13T06:11:30+01:00",
-    "media_id": "cf3xrb8ael0v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246761/duizend-reizigers-urenlang-vast-in-afgesloten-pikdonkere-trein-zonder-wcs.html",
     "open_new_window": false,
     "partner": null
   }
