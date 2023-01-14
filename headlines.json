@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247021,
+    "slug": "flatgebouw-in-dnipro-verwoest-door-russische-raketaanval",
+    "type": "video",
+    "title": "Flatgebouw in Dnipro verwoest door Russische raketaanval",
+    "subtitle": "Video",
+    "published_at": "2023-01-14T19:10:34+01:00",
+    "updated_at": "2023-01-14T19:10:34+01:00",
+    "media_id": "hv8xmnbacb0f",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6247021/flatgebouw-in-dnipro-verwoest-door-russische-raketaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247001,
     "slug": "kunnen-kinderen-ook-een-winterdip-krijgen",
     "type": "article",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6247018,
-    "slug": "az-gaat-in-heerenveen-voor-eerste-competitiezege-in-2023",
+    "slug": "dani-de-wit-kopt-az-op-voorsprong-in-heerenveen",
     "type": "article",
-    "title": "AZ gaat in Heerenveen voor eerste competitiezege in 2023",
+    "title": "Dani de Wit kopt AZ op voorsprong in Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-14T18:06:44+01:00",
-    "updated_at": "2023-01-14T18:44:26+01:00",
-    "media_id": "kl0xmlba1vz5",
+    "updated_at": "2023-01-14T19:22:25+01:00",
+    "media_id": "uolxkpxampqp",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247018/az-gaat-in-heerenveen-voor-eerste-competitiezege-in-2023.html",
+    "url": "/voetbal/6247018/dani-de-wit-kopt-az-op-voorsprong-in-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Zwak Liverpool loopt bij Premier League-debuut Gakpo tegen nieuwe dreun aan",
     "subtitle": null,
     "published_at": "2023-01-14T17:56:13+01:00",
-    "updated_at": "2023-01-14T18:44:36+01:00",
+    "updated_at": "2023-01-14T18:53:29+01:00",
     "media_id": "zsex80wailcb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/geldzaken/6246823/kinderspaarrekening-komt-vrij-als-je-kind-18-wordt-spannend-voor-veel-ouders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246990,
-    "slug": "kickbokser-ben-saddik-blijkt-geschorst-door-glory-voor-overtreden-van-regels",
-    "type": "article",
-    "title": "Kickbokser Ben Saddik blijkt geschorst door GLORY voor overtreden van regels",
-    "subtitle": null,
-    "published_at": "2023-01-14T13:13:18+01:00",
-    "updated_at": "2023-01-14T13:32:50+01:00",
-    "media_id": "66jxdobaskgy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6246990/kickbokser-ben-saddik-blijkt-geschorst-door-glory-voor-overtreden-van-regels.html",
     "open_new_window": false,
     "partner": null
   }
