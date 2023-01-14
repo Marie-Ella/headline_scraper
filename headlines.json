@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247010,
+    "slug": "water-in-de-waal-maas-rijn-en-linge-stijgt-flink",
+    "type": "video",
+    "title": "Water in de Waal, Maas, Rijn en Linge stijgt flink",
+    "subtitle": "Video",
+    "published_at": "2023-01-14T16:28:26+01:00",
+    "updated_at": "2023-01-14T16:29:49+01:00",
+    "media_id": "bghx6rvabsyc",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247010/water-in-de-waal-maas-rijn-en-linge-stijgt-flink.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247009,
     "slug": "cynische-guardiola-vindt-dat-gelijkmaker-united-niet-had-mogen-tellen",
     "type": "article",
     "title": "Cynische Guardiola vindt dat gelijkmaker United niet had mogen tellen",
     "subtitle": null,
     "published_at": "2023-01-14T16:17:42+01:00",
-    "updated_at": "2023-01-14T16:17:43+01:00",
+    "updated_at": "2023-01-14T16:29:38+01:00",
     "media_id": "0fixbt2aaq6x",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6247003,
-    "slug": "schulting-en-jens-van-t-wout-snellen-naar-europese-titels-op-1500-meter",
+    "slug": "schulting-en-jens-van-t-wout-veroveren-europese-titels-op-1500-meter",
     "type": "article",
-    "title": "Schulting en Jens van 't Wout snellen naar Europese titels op 1.500 meter",
+    "title": "Schulting en Jens van 't Wout veroveren Europese titels op 1.500 meter",
     "subtitle": null,
     "published_at": "2023-01-14T15:21:26+01:00",
-    "updated_at": "2023-01-14T16:10:06+01:00",
+    "updated_at": "2023-01-14T16:37:28+01:00",
     "media_id": "xdlx9a8avuch",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6247003/schulting-en-jens-van-t-wout-snellen-naar-europese-titels-op-1500-meter.html",
+    "url": "/schaatsen/6247003/schulting-en-jens-van-t-wout-veroveren-europese-titels-op-1500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246981/xavi-gaat-tegen-real-voor-eerste-prijs-als-barcelona-trainer-betekent-veel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246976,
-    "slug": "wegwerkers-nemen-schade-op-na-25-meter-diepe-sinkhole-in-vs",
-    "type": "video",
-    "title": "Wegwerkers nemen schade op na 25 meter diepe sinkhole in VS",
-    "subtitle": "Video",
-    "published_at": "2023-01-14T10:14:32+01:00",
-    "updated_at": "2023-01-14T10:14:33+01:00",
-    "media_id": "z24xuz1a2pln",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246976/wegwerkers-nemen-schade-op-na-25-meter-diepe-sinkhole-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
