@@ -1,12 +1,81 @@
 [
   {
+    "id": 6246898,
+    "slug": "hoe-een-robot-onze-redactie-kan-helpen",
+    "type": "article",
+    "title": "Hoe een robot onze redactie kan helpen",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2023-01-15T12:03:31+01:00",
+    "updated_at": "2023-01-15T12:03:32+01:00",
+    "media_id": "poixnv9aegmz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6246898/hoe-een-robot-onze-redactie-kan-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247006,
+    "slug": "lezers-over-nachtwerk-mijn-bestelling-mag-wel-een-dag-later-komen",
+    "type": "article",
+    "title": "Lezers over nachtwerk: 'Mijn bestelling mag wel een dag later komen'",
+    "subtitle": null,
+    "published_at": "2023-01-15T12:02:25+01:00",
+    "updated_at": "2023-01-15T12:02:27+01:00",
+    "media_id": "xbgx98maaf6x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773185,
+      "slug": "nujij",
+      "type": "default",
+      "name": "Praat mee op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nujij/6247006/lezers-over-nachtwerk-mijn-bestelling-mag-wel-een-dag-later-komen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247061,
+    "slug": "aftellen-naar-honderdste-gelderse-derby",
+    "type": "article",
+    "title": "Aftellen naar honderdste Gelderse derby",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-01-15T11:53:37+01:00",
+    "updated_at": "2023-01-15T11:54:51+01:00",
+    "media_id": "uxbxsnsaovi2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247061/aftellen-naar-honderdste-gelderse-derby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247059,
     "slug": "trucker-van-kasteren-rijdt-overtuigend-naar-eindzege-in-dakar-rally",
     "type": "article",
     "title": "Trucker Van Kasteren rijdt overtuigend naar eindzege in Dakar Rally",
     "subtitle": null,
     "published_at": "2023-01-15T11:28:06+01:00",
-    "updated_at": "2023-01-15T11:35:36+01:00",
+    "updated_at": "2023-01-15T12:05:59+01:00",
     "media_id": "sanxszdac6pw",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Beelden van neergestort passagiersvliegtuig in Nepal",
     "subtitle": "Video",
     "published_at": "2023-01-15T11:26:20+01:00",
-    "updated_at": "2023-01-15T11:47:23+01:00",
+    "updated_at": "2023-01-15T11:50:15+01:00",
     "media_id": "5y6xau9anaoh",
     "duration": "0:37",
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "'Het Beest' en meesterknecht van Nibali: de carrière van Lieuwe Westra",
     "subtitle": "In beeld",
     "published_at": "2023-01-15T11:04:15+01:00",
-    "updated_at": "2023-01-15T11:35:13+01:00",
+    "updated_at": "2023-01-15T11:59:18+01:00",
     "media_id": "krpxhpfai5i9",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Oud-wielrenner Lieuwe Westra op veertigjarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-01-15T09:56:28+01:00",
-    "updated_at": "2023-01-15T11:40:58+01:00",
+    "updated_at": "2023-01-15T12:10:01+01:00",
     "media_id": "di7xcgsazsp1",
     "duration": null,
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Bijna alle inzittenden om het leven gekomen bij vliegtuigcrash in Nepal",
     "subtitle": null,
     "published_at": "2023-01-15T07:36:25+01:00",
-    "updated_at": "2023-01-15T11:35:14+01:00",
+    "updated_at": "2023-01-15T11:58:22+01:00",
     "media_id": "790xaqiac4x3",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "Veel kroegbazen ruilden café de afgelopen jaren in voor iets anders",
     "subtitle": null,
     "published_at": "2023-01-15T05:41:20+01:00",
-    "updated_at": "2023-01-15T11:31:50+01:00",
+    "updated_at": "2023-01-15T12:05:21+01:00",
     "media_id": "13yxuyaa98u9",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6246899/veel-kroegbazen-ruilden-cafe-de-afgelopen-jaren-in-voor-iets-anders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246892,
-    "slug": "hartstilstand-hamlin-legt-grote-risicos-bloot-nfl-geeft-niks-om-zijn-spelers",
-    "type": "article",
-    "title": "Hartstilstand Hamlin legt grote risico's bloot: 'NFL geeft niks om zijn spelers'",
-    "subtitle": null,
-    "published_at": "2023-01-15T05:37:55+01:00",
-    "updated_at": "2023-01-15T09:20:28+01:00",
-    "media_id": "i6zxx1ba77hh",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6246892/hartstilstand-hamlin-legt-grote-risicos-bloot-nfl-geeft-niks-om-zijn-spelers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247043,
-    "slug": "weerbericht-code-geel-voor-zware-windstoten-en-af-en-toe-een-bui",
-    "type": "article",
-    "title": "Weerbericht: Code geel voor zware windstoten en af en toe een bui",
-    "subtitle": null,
-    "published_at": "2023-01-15T05:36:05+01:00",
-    "updated_at": "2023-01-15T07:56:18+01:00",
-    "media_id": "jkaxe1sa73yj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247043/weerbericht-code-geel-voor-zware-windstoten-en-af-en-toe-een-bui.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247042,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-01-15T05:16:09+01:00",
-    "updated_at": "2023-01-15T05:16:11+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6247042/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
