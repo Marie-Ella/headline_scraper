@@ -1,12 +1,58 @@
 [
   {
+    "id": 6247177,
+    "slug": "zorgminister-kuipers-blijft-erbij-twee-kinderhartcentra-moeten-sluiten",
+    "type": "article",
+    "title": "Zorgminister Kuipers blijft erbij: twee kinderhartcentra moeten sluiten",
+    "subtitle": null,
+    "published_at": "2023-01-16T12:25:52+01:00",
+    "updated_at": "2023-01-16T12:26:08+01:00",
+    "media_id": "91kx1d6af05k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247177/zorgminister-kuipers-blijft-erbij-twee-kinderhartcentra-moeten-sluiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247174,
+    "slug": "hockeyers-geven-bijna-niets-weg-en-winnen-op-wk-ook-ruim-van-nieuw-zeeland",
+    "type": "article",
+    "title": "Hockeyers geven bijna niets weg en winnen op WK ook ruim van Nieuw-Zeeland",
+    "subtitle": null,
+    "published_at": "2023-01-16T12:19:16+01:00",
+    "updated_at": "2023-01-16T12:22:00+01:00",
+    "media_id": "2yhx31faqxp9",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6247174/hockeyers-geven-bijna-niets-weg-en-winnen-op-wk-ook-ruim-van-nieuw-zeeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247172,
     "slug": "italianen-bedanken-agenten-na-arrestatie-maffiabaas-op-sicilie",
     "type": "video",
     "title": "Italianen bedanken agenten na arrestatie maffiabaas op Sicilië",
     "subtitle": "Video",
     "published_at": "2023-01-16T12:10:16+01:00",
-    "updated_at": "2023-01-16T12:11:50+01:00",
+    "updated_at": "2023-01-16T12:15:51+01:00",
     "media_id": "720xtdha35dy",
     "duration": "0:41",
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6247169,
-    "slug": "acm-wil-dat-salderingsregeling-voor-zonnepanelen-snel-wordt-stopgezet",
+    "slug": "toezichthouder-wil-snel-eind-aan-salderingsregeling-zonnepanelen",
     "type": "article",
-    "title": "ACM wil dat salderingsregeling voor zonnepanelen snel wordt stopgezet",
+    "title": "Toezichthouder wil snel eind aan salderingsregeling zonnepanelen",
     "subtitle": null,
     "published_at": "2023-01-16T12:04:59+01:00",
-    "updated_at": "2023-01-16T12:10:27+01:00",
+    "updated_at": "2023-01-16T12:18:31+01:00",
     "media_id": "nblxzn2axqjx",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6247169/acm-wil-dat-salderingsregeling-voor-zonnepanelen-snel-wordt-stopgezet.html",
+    "url": "/economie/6247169/toezichthouder-wil-snel-eind-aan-salderingsregeling-zonnepanelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247135/inspectie-drong-vergeefs-aan-op-betere-tenten-voor-asielzoekers-in-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247134,
-    "slug": "lebron-james-doorbreekt-bijzondere-grens-en-is-bijna-nba-topscorer-aller-tijden",
-    "type": "article",
-    "title": "LeBron James doorbreekt bijzondere grens en is bijna NBA-topscorer aller tijden",
-    "subtitle": null,
-    "published_at": "2023-01-16T08:18:37+01:00",
-    "updated_at": "2023-01-16T10:18:22+01:00",
-    "media_id": "dgnx3myaavcm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6247134/lebron-james-doorbreekt-bijzondere-grens-en-is-bijna-nba-topscorer-aller-tijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247133,
-    "slug": "veel-hulpdiensten-op-a16-na-dodelijk-ongeluk-met-spookrijder",
-    "type": "video",
-    "title": "Veel hulpdiensten op A16 na dodelijk ongeluk met spookrijder",
-    "subtitle": "Video",
-    "published_at": "2023-01-16T08:04:02+01:00",
-    "updated_at": "2023-01-16T08:05:51+01:00",
-    "media_id": "3kdxyywan7nz",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247133/veel-hulpdiensten-op-a16-na-dodelijk-ongeluk-met-spookrijder.html",
     "open_new_window": false,
     "partner": null
   }
