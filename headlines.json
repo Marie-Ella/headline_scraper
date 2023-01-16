@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247200,
+    "slug": "rijimpressie-citroen-ds3",
+    "type": "video",
+    "title": "Rijimpressie: Citroën DS3",
+    "subtitle": "Video",
+    "published_at": "2023-01-16T14:34:05+01:00",
+    "updated_at": "2023-01-16T14:36:02+01:00",
+    "media_id": "15nx205ahkn5",
+    "duration": "5:44",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6247200/rijimpressie-citroen-ds3.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247196,
     "slug": "politieagent-van-londense-elite-eenheid-bekent-49-misdrijven-tegen-vrouwen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6247169/toezichthouder-wil-snel-eind-aan-salderingsregeling-zonnepanelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247166,
-    "slug": "jaarlijkse-subsidiepot-voor-elektrische-auto-is-na-week-al-voor-15-procent-op",
-    "type": "article",
-    "title": "Jaarlijkse subsidiepot voor elektrische auto is na week al voor 15 procent op",
-    "subtitle": null,
-    "published_at": "2023-01-16T11:19:45+01:00",
-    "updated_at": "2023-01-16T12:59:43+01:00",
-    "media_id": "2xzxhj3aa7t5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6247166/jaarlijkse-subsidiepot-voor-elektrische-auto-is-na-week-al-voor-15-procent-op.html",
     "open_new_window": false,
     "partner": null
   }
