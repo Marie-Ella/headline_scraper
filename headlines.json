@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247201,
+    "slug": "nieuwbouwwoningen-zijn-stuk-minder-in-trek",
+    "type": "article",
+    "title": "Nieuwbouwwoningen zijn stuk minder in trek",
+    "subtitle": null,
+    "published_at": "2023-01-17T00:08:12+01:00",
+    "updated_at": "2023-01-17T00:08:13+01:00",
+    "media_id": "rpjxaf3as402",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247201/nieuwbouwwoningen-zijn-stuk-minder-in-trek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247255,
     "slug": "rotsblok-verplettert-auto-in-malibu-man-was-net-uitgestapt",
     "type": "video",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6247244,
-    "slug": "me-ontruimt-door-studenten-bezet-pand-van-universiteit-van-amsterdam",
+    "slug": "me-ontruimt-door-studenten-bezet-pand-in-amsterdam-dertig-arrestaties",
     "type": "article",
-    "title": "ME ontruimt door studenten bezet pand van Universiteit van Amsterdam",
+    "title": "ME ontruimt door studenten bezet pand in Amsterdam, dertig arrestaties",
     "subtitle": null,
     "published_at": "2023-01-16T21:48:11+01:00",
-    "updated_at": "2023-01-16T23:02:56+01:00",
+    "updated_at": "2023-01-17T00:03:25+01:00",
     "media_id": "fd2xfe2avgrs",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6247244/me-ontruimt-door-studenten-bezet-pand-van-universiteit-van-amsterdam.html",
+    "url": "/binnenland/6247244/me-ontruimt-door-studenten-bezet-pand-in-amsterdam-dertig-arrestaties.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247226/oranjes-bewijzen-laatste-eer-aan-constantijn-ii-in-athene.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247215,
-    "slug": "nieuw-toezicht-op-algoritmes-moet-discriminerende-computers-buitenspel-zetten",
-    "type": "article",
-    "title": "Nieuw toezicht op algoritmes moet discriminerende computers buitenspel zetten",
-    "subtitle": null,
-    "published_at": "2023-01-16T17:47:20+01:00",
-    "updated_at": "2023-01-16T18:51:39+01:00",
-    "media_id": "zxjx531awque",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6247215/nieuw-toezicht-op-algoritmes-moet-discriminerende-computers-buitenspel-zetten.html",
     "open_new_window": false,
     "partner": null
   }
