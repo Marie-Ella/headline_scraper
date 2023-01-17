@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247399,
+    "slug": "mannen-plaatsen-windvaan-op-112-meter-hoge-domtoren",
+    "type": "video",
+    "title": "Mannen plaatsen windvaan op 112 meter hoge Domtoren",
+    "subtitle": "Video",
+    "published_at": "2023-01-17T21:28:01+01:00",
+    "updated_at": "2023-01-17T21:28:02+01:00",
+    "media_id": "clkxl1bai2wy",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247399/mannen-plaatsen-windvaan-op-112-meter-hoge-domtoren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247396,
     "slug": "zwalkend-fc-groningen-haalt-met-scandinavisch-duo-eerste-versterkingen-binnen",
     "type": "article",
     "title": "Zwalkend FC Groningen haalt met Scandinavisch duo eerste versterkingen binnen",
     "subtitle": null,
     "published_at": "2023-01-17T21:08:06+01:00",
-    "updated_at": "2023-01-17T21:17:45+01:00",
+    "updated_at": "2023-01-17T21:19:54+01:00",
     "media_id": "16yxzl0akhf6",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6247383,
-    "slug": "nederland-stuurt-patriot-luchtafweergeschut-naar-oekraine",
+    "slug": "nederland-gaat-patriot-luchtafweergeschut-naar-oekraine-sturen",
     "type": "article",
-    "title": "Nederland stuurt Patriot-luchtafweergeschut naar Oekraïne",
+    "title": "Nederland gaat Patriot-luchtafweergeschut naar Oekraïne sturen",
     "subtitle": null,
     "published_at": "2023-01-17T18:44:10+01:00",
-    "updated_at": "2023-01-17T20:10:17+01:00",
+    "updated_at": "2023-01-17T21:29:30+01:00",
     "media_id": "m9oxveya71ww",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6247383/nederland-stuurt-patriot-luchtafweergeschut-naar-oekraine.html",
+    "url": "/spanningen-oekraine/6247383/nederland-gaat-patriot-luchtafweergeschut-naar-oekraine-sturen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247372/oud-voetballer-mark-van-den-boogaart-vermist-we-maken-ons-grote-zorgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247369,
-    "slug": "tientallen-mensen-staan-dna-af-om-slachtoffers-watersnoodramp-te-identificeren",
-    "type": "article",
-    "title": "Tientallen mensen staan DNA af om slachtoffers Watersnoodramp te identificeren",
-    "subtitle": null,
-    "published_at": "2023-01-17T17:01:22+01:00",
-    "updated_at": "2023-01-17T18:01:20+01:00",
-    "media_id": "fadxbtja4rtv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247369/tientallen-mensen-staan-dna-af-om-slachtoffers-watersnoodramp-te-identificeren.html",
     "open_new_window": false,
     "partner": null
   }
