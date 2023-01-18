@@ -1,5 +1,51 @@
 [
   {
+    "id": 6247410,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-18T05:17:02+01:00",
+    "updated_at": "2023-01-18T05:17:04+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6247410/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247374,
+    "slug": "nieuwe-uitdaging-op-scholen-scholieren-laten-huiswerk-door-chatgpt-maken",
+    "type": "article",
+    "title": "Nieuwe uitdaging op scholen: scholieren laten huiswerk door ChatGPT maken",
+    "subtitle": null,
+    "published_at": "2023-01-18T05:03:48+01:00",
+    "updated_at": "2023-01-18T05:03:50+01:00",
+    "media_id": "vipxd0fa1i2f",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6247374/nieuwe-uitdaging-op-scholen-scholieren-laten-huiswerk-door-chatgpt-maken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247409,
     "slug": "napoli-laat-zich-in-bekertoernooi-verrassen-door-serie-a-hekkensluiter-cremonese",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247387/feyenoord-sluit-kopen-van-de-kuip-niet-uit-maar-niet-ten-koste-van-de-club.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247390,
-    "slug": "ineos-eigenaar-ratcliffe-meldt-zich-in-overnameproces-manchester-united",
-    "type": "article",
-    "title": "INEOS-eigenaar Ratcliffe meldt zich in overnameproces Manchester United",
-    "subtitle": null,
-    "published_at": "2023-01-17T19:34:59+01:00",
-    "updated_at": "2023-01-18T02:03:20+01:00",
-    "media_id": "2obxm7bap0cy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247390/ineos-eigenaar-ratcliffe-meldt-zich-in-overnameproces-manchester-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247389,
-    "slug": "channing-tatum-heeft-geen-spijt-van-scheiding-precies-wat-ik-nodig-had",
-    "type": "article",
-    "title": "Channing Tatum heeft geen spijt van scheiding: 'Precies wat ik nodig had'",
-    "subtitle": null,
-    "published_at": "2023-01-17T19:33:14+01:00",
-    "updated_at": "2023-01-17T19:40:58+01:00",
-    "media_id": "zj1xvbbacnjf",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6247389/channing-tatum-heeft-geen-spijt-van-scheiding-precies-wat-ik-nodig-had.html",
     "open_new_window": false,
     "partner": null
   }
