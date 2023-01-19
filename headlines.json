@@ -1,5 +1,51 @@
 [
   {
+    "id": 6247617,
+    "slug": "gigantische-golven-slaan-op-spaanse-kust",
+    "type": "video",
+    "title": "Gigantische golven slaan op Spaanse kust",
+    "subtitle": "Video",
+    "published_at": "2023-01-19T11:10:47+01:00",
+    "updated_at": "2023-01-19T11:10:48+01:00",
+    "media_id": "9xlxuzyaa8er",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247617/gigantische-golven-slaan-op-spaanse-kust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247613,
+    "slug": "zeven-op-de-tien-huishoudens-hebben-baat-bij-prijsplafond-voor-gas-en-licht",
+    "type": "article",
+    "title": "Zeven op de tien huishoudens hebben baat bij prijsplafond voor gas en licht",
+    "subtitle": null,
+    "published_at": "2023-01-19T10:56:58+01:00",
+    "updated_at": "2023-01-19T10:56:59+01:00",
+    "media_id": "hyxxeaba0282",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247613/zeven-op-de-tien-huishoudens-hebben-baat-bij-prijsplafond-voor-gas-en-licht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247607,
     "slug": "vakbondsman-die-als-fnver-van-leer-trok-tegen-schiphol-wordt-daar-nu-directeur",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "WOZ-waarde dit jaar gemiddeld 17 procent hoger",
     "subtitle": null,
     "published_at": "2023-01-19T10:32:07+01:00",
-    "updated_at": "2023-01-19T10:49:59+01:00",
+    "updated_at": "2023-01-19T11:05:06+01:00",
     "media_id": "9wmxx1da9enh",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Griekspoor vol vertrouwen voor partij tegen Tsitsipás: 'Ik ben op scherp gezet'",
     "subtitle": null,
     "published_at": "2023-01-19T10:05:51+01:00",
-    "updated_at": "2023-01-19T10:08:49+01:00",
+    "updated_at": "2023-01-19T11:04:09+01:00",
     "media_id": "i69xxk6aynsc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6247492/stelling-nederlanders-zouden-trotser-moeten-zijn-op-de-prestaties-van-de-ns.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247526,
-    "slug": "aantal-autodiefstallen-stijgt-voor-het-eerst-in-negen-jaar-toyota-het-populairst",
-    "type": "article",
-    "title": "Aantal autodiefstallen stijgt voor het eerst in negen jaar, Toyota het populairst",
-    "subtitle": null,
-    "published_at": "2023-01-19T07:06:47+01:00",
-    "updated_at": "2023-01-19T07:54:31+01:00",
-    "media_id": "gj5xksna206d",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6247526/aantal-autodiefstallen-stijgt-voor-het-eerst-in-negen-jaar-toyota-het-populairst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247573,
-    "slug": "weerbericht-sneeuwval-in-het-zuidoosten-meer-winterse-buien-op-komst",
-    "type": "article",
-    "title": "Weerbericht: Sneeuwval in het zuidoosten, meer winterse buien op komst",
-    "subtitle": null,
-    "published_at": "2023-01-19T05:43:49+01:00",
-    "updated_at": "2023-01-19T08:52:52+01:00",
-    "media_id": "odzxxjmam2aq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247573/weerbericht-sneeuwval-in-het-zuidoosten-meer-winterse-buien-op-komst.html",
     "open_new_window": false,
     "partner": null
   }
