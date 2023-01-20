@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247893,
+    "slug": "half-jaar-cel-voor-zwollenaar-die-hond-in-kanaal-gooide-en-liet-verdrinken",
+    "type": "article",
+    "title": "Half jaar cel voor Zwollenaar die hond in kanaal gooide en liet verdrinken",
+    "subtitle": null,
+    "published_at": "2023-01-20T19:22:17+01:00",
+    "updated_at": "2023-01-20T19:26:54+01:00",
+    "media_id": "1kqxhm7azybv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247893/half-jaar-cel-voor-zwollenaar-die-hond-in-kanaal-gooide-en-liet-verdrinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247890,
     "slug": "schoolbus-in-londen-vat-vlam-op-weg-naar-school",
     "type": "video",
     "title": "Schoolbus in Londen vat vlam op weg naar school",
     "subtitle": "Video",
     "published_at": "2023-01-20T19:08:57+01:00",
-    "updated_at": "2023-01-20T19:08:58+01:00",
+    "updated_at": "2023-01-20T19:21:32+01:00",
     "media_id": "oltxqdjah19u",
     "duration": "0:32",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6247788,
-    "slug": "feyenoord-neemt-multifunctionele-kasanwirjo-over-van-fc-groningen",
+    "slug": "feyenoord-verwelkomt-multifunctionele-kasanwirjo-als-eerste-winteraanwinst",
     "type": "article",
-    "title": "Feyenoord neemt multifunctionele Kasanwirjo over van FC Groningen",
+    "title": "Feyenoord verwelkomt multifunctionele Kasanwirjo als eerste winteraanwinst",
     "subtitle": null,
     "published_at": "2023-01-20T19:02:44+01:00",
-    "updated_at": "2023-01-20T19:13:59+01:00",
+    "updated_at": "2023-01-20T19:42:54+01:00",
     "media_id": "twbxozuayugy",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247788/feyenoord-neemt-multifunctionele-kasanwirjo-over-van-fc-groningen.html",
+    "url": "/voetbal/6247788/feyenoord-verwelkomt-multifunctionele-kasanwirjo-als-eerste-winteraanwinst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Nederland levert samen met VS en Duitsland een Patriot-systeem aan Oekraïne",
     "subtitle": null,
     "published_at": "2023-01-20T18:56:04+01:00",
-    "updated_at": "2023-01-20T19:11:50+01:00",
+    "updated_at": "2023-01-20T19:47:42+01:00",
     "media_id": "m9oxveya71ww",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247855/weekendweerbericht-overwegend-droog-en-rustig-winterweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247857,
-    "slug": "brit-richt-laser-op-politiehelikopter-en-wordt-opgepakt",
-    "type": "video",
-    "title": "Brit richt laser op politiehelikopter en wordt opgepakt",
-    "subtitle": "Video",
-    "published_at": "2023-01-20T15:36:17+01:00",
-    "updated_at": "2023-01-20T15:39:56+01:00",
-    "media_id": "jfkx2zgah75k",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247857/brit-richt-laser-op-politiehelikopter-en-wordt-opgepakt.html",
     "open_new_window": false,
     "partner": null
   }
