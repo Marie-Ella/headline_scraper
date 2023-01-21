@@ -1,12 +1,58 @@
 [
   {
+    "id": 6247834,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2023-01-21T16:02:36+01:00",
+    "updated_at": "2023-01-21T16:02:37+01:00",
+    "media_id": "mdjxt9wakupo",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6247834/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247965,
+    "slug": "nederlandse-acteurs-van-huet-en-smulders-genomineerd-voor-deense-filmprijs",
+    "type": "article",
+    "title": "Nederlandse acteurs Van Huêt en Smulders genomineerd voor Deense filmprijs",
+    "subtitle": null,
+    "published_at": "2023-01-21T15:55:56+01:00",
+    "updated_at": "2023-01-21T16:03:02+01:00",
+    "media_id": "o28x2j9ajlw6",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6247965/nederlandse-acteurs-van-huet-en-smulders-genomineerd-voor-deense-filmprijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247963,
     "slug": "ook-peperdure-mudryk-kan-chelsea-niet-langs-liverpool-helpen-in-1000e-duel-klopp",
     "type": "article",
     "title": "Ook peperdure Mudryk kan Chelsea niet langs Liverpool helpen in 1000e duel Klopp",
     "subtitle": null,
     "published_at": "2023-01-21T15:28:07+01:00",
-    "updated_at": "2023-01-21T15:38:54+01:00",
+    "updated_at": "2023-01-21T16:15:19+01:00",
     "media_id": "5mlxf0eauk4p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Superieure Betsema boekt in cross zonder concurrentie tweede zege van seizoen",
     "subtitle": null,
     "published_at": "2023-01-21T15:06:38+01:00",
-    "updated_at": "2023-01-21T15:23:44+01:00",
+    "updated_at": "2023-01-21T16:16:41+01:00",
     "media_id": "t8tx70banpyr",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dodelijk slachtoffer bij schietpartij in winkelcentrum in Zwijndrecht",
     "subtitle": null,
     "published_at": "2023-01-21T14:23:31+01:00",
-    "updated_at": "2023-01-21T15:34:38+01:00",
+    "updated_at": "2023-01-21T16:11:46+01:00",
     "media_id": "g5nxalvajwag",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247934/derde-verdachte-aangehouden-na-dodelijke-steekpartij-jeugdinstelling-emmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247936,
-    "slug": "jongerenclub-pvda-bijna-failliet-door-wanbeheer-van-oud-penningmeesters",
-    "type": "article",
-    "title": "Jongerenclub PvdA bijna failliet door wanbeheer van oud-penningmeesters",
-    "subtitle": null,
-    "published_at": "2023-01-21T11:43:53+01:00",
-    "updated_at": "2023-01-21T11:58:52+01:00",
-    "media_id": "s8sx9yzavsxz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6247936/jongerenclub-pvda-bijna-failliet-door-wanbeheer-van-oud-penningmeesters.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247933,
-    "slug": "oranjespeelster-nouwen-laat-zich-met-oog-op-wk-verhuren-aan-ac-milan",
-    "type": "article",
-    "title": "Oranjespeelster Nouwen laat zich met oog op WK verhuren aan AC Milan",
-    "subtitle": null,
-    "published_at": "2023-01-21T11:24:58+01:00",
-    "updated_at": "2023-01-21T11:32:23+01:00",
-    "media_id": "4y3xbl3a4lqh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247933/oranjespeelster-nouwen-laat-zich-met-oog-op-wk-verhuren-aan-ac-milan.html",
     "open_new_window": false,
     "partner": null
   }
