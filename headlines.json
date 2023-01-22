@@ -1,5 +1,51 @@
 [
   {
+    "id": 6248000,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-22T05:33:35+01:00",
+    "updated_at": "2023-01-22T05:33:36+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6248000/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247999,
+    "slug": "weerbericht-code-geel-in-het-midden-en-zuiden-van-het-land-wegens-gladheid",
+    "type": "article",
+    "title": "Weerbericht: Code geel in het midden en zuiden van het land wegens gladheid",
+    "subtitle": null,
+    "published_at": "2023-01-22T05:31:46+01:00",
+    "updated_at": "2023-01-22T05:35:34+01:00",
+    "media_id": "xyvxgpcacafs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247999/weerbericht-code-geel-in-het-midden-en-zuiden-van-het-land-wegens-gladheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247608,
     "slug": "ajax-onder-hoogspanning-naar-de-kuip-slechtste-reeks-sinds-eeuwwisseling-dreigt",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247990/bewakingscameras-filmen-meteoriet-die-hemel-boven-vs-verlicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247989,
-    "slug": "nec-verlengt-sterke-thuisreeks-met-simpele-overwinning-tegen-fc-emmen",
-    "type": "article",
-    "title": "NEC verlengt sterke thuisreeks met simpele overwinning tegen FC Emmen",
-    "subtitle": null,
-    "published_at": "2023-01-21T20:45:25+01:00",
-    "updated_at": "2023-01-21T23:00:24+01:00",
-    "media_id": "tzpxf8ya4qlb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247989/nec-verlengt-sterke-thuisreeks-met-simpele-overwinning-tegen-fc-emmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247988,
-    "slug": "amerikaanse-leger-voert-aanval-op-terreurorganisatie-al-shabaab-uit-in-somalie",
-    "type": "article",
-    "title": "Amerikaanse leger voert aanval op terreurorganisatie Al Shabaab uit in Somalië",
-    "subtitle": null,
-    "published_at": "2023-01-21T20:32:13+01:00",
-    "updated_at": "2023-01-21T20:37:46+01:00",
-    "media_id": "jnfxx4raczf0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247988/amerikaanse-leger-voert-aanval-op-terreurorganisatie-al-shabaab-uit-in-somalie.html",
     "open_new_window": false,
     "partner": null
   }
