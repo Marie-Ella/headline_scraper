@@ -1,5 +1,51 @@
 [
   {
+    "id": 6248023,
+    "slug": "japanse-duiker-maakt-zeldzame-beelden-van-reuzeninktvis",
+    "type": "video",
+    "title": "Japanse duiker maakt zeldzame beelden van reuzeninktvis",
+    "subtitle": "Video",
+    "published_at": "2023-01-22T11:41:29+01:00",
+    "updated_at": "2023-01-22T11:44:47+01:00",
+    "media_id": "gzrx8vharr0q",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6248023/japanse-duiker-maakt-zeldzame-beelden-van-reuzeninktvis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248022,
+    "slug": "syriers-zoeken-met-bulldozer-naar-overlevenden-ingestort-gebouw",
+    "type": "video",
+    "title": "Syriërs zoeken met bulldozer naar overlevenden ingestort gebouw",
+    "subtitle": "Video",
+    "published_at": "2023-01-22T11:40:42+01:00",
+    "updated_at": "2023-01-22T11:41:02+01:00",
+    "media_id": "dyxx9u2a0bup",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248022/syriers-zoeken-met-bulldozer-naar-overlevenden-ingestort-gebouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248019,
     "slug": "handballers-berusten-in-uitschakeling-op-wk-duitsland-was-maatje-te-groot",
     "type": "article",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6248012,
-    "slug": "verdienmodel-op-de-schop-gebruikers-gaan-betalen-voor-reclamevrij-twitter",
+    "slug": "twitter-verdienmodel-op-de-schop-minder-advertenties-reclamevrij-abonnement",
     "type": "article",
-    "title": "Verdienmodel op de schop: gebruikers gaan betalen voor reclamevrij Twitter",
+    "title": "Twitter-verdienmodel op de schop: minder advertenties, reclamevrij abonnement",
     "subtitle": null,
     "published_at": "2023-01-22T10:11:13+01:00",
-    "updated_at": "2023-01-22T10:21:07+01:00",
+    "updated_at": "2023-01-22T11:41:41+01:00",
     "media_id": "m1vxkhrawi56",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6248012/verdienmodel-op-de-schop-gebruikers-gaan-betalen-voor-reclamevrij-twitter.html",
+    "url": "/tech/6248012/twitter-verdienmodel-op-de-schop-minder-advertenties-reclamevrij-abonnement.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6247819/ziek-tijdens-vakantie-dief-van-eigen-portemonnee-als-je-dat-niet-meldt-bij-je-baas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247638,
-    "slug": "wijsneus-bambi-en-speler-in-klassieker-de-turbocarriere-van-wieffer",
-    "type": "article",
-    "title": "'Wijsneus', 'Bambi' en speler in Klassieker: de turbocarrière van Wieffer",
-    "subtitle": "NU+",
-    "published_at": "2023-01-22T05:01:54+01:00",
-    "updated_at": "2023-01-22T05:01:55+01:00",
-    "media_id": "frdxyhha3cbe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6247638/wijsneus-bambi-en-speler-in-klassieker-de-turbocarriere-van-wieffer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247629,
-    "slug": "het-dilemma-van-ouders-hoeveel-schermtijd-is-gezond-voor-mijn-kind",
-    "type": "article",
-    "title": "Het dilemma van ouders: hoeveel schermtijd is gezond voor mijn kind?",
-    "subtitle": null,
-    "published_at": "2023-01-22T05:01:01+01:00",
-    "updated_at": "2023-01-22T05:01:02+01:00",
-    "media_id": "q4zx2s4az0fs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6247629/het-dilemma-van-ouders-hoeveel-schermtijd-is-gezond-voor-mijn-kind.html",
     "open_new_window": false,
     "partner": null
   }
