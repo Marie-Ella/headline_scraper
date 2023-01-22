@@ -1,5 +1,51 @@
 [
   {
+    "id": 6248021,
+    "slug": "dit-vinden-jullie-van-schermtijd-voor-je-kind-stop-met-normaliseren",
+    "type": "article",
+    "title": "Dit vinden jullie van schermtijd voor je kind: 'Stop met normaliseren'",
+    "subtitle": null,
+    "published_at": "2023-01-22T12:36:59+01:00",
+    "updated_at": "2023-01-22T12:37:00+01:00",
+    "media_id": "0vixx2gah3vs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6248021/dit-vinden-jullie-van-schermtijd-voor-je-kind-stop-met-normaliseren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248032,
+    "slug": "swiatek-wilde-te-graag-op-australian-open-ik-voelde-de-druk",
+    "type": "article",
+    "title": "Swiatek wilde 'te graag' op Australian Open: 'Ik voelde de druk'",
+    "subtitle": null,
+    "published_at": "2023-01-22T12:36:33+01:00",
+    "updated_at": "2023-01-22T12:47:59+01:00",
+    "media_id": "xrzxxwtau9y0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6248032/swiatek-wilde-te-graag-op-australian-open-ik-voelde-de-druk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248030,
     "slug": "baas-nederlandsche-bank-waarschuwt-juich-niet-te-vroeg-om-dalende-gasprijs",
     "type": "article",
@@ -116,12 +162,12 @@
   },
   {
     "id": 6248026,
-    "slug": "heerenveen-vroeg-op-voorsprong-toeleven-naar-klassieker",
+    "slug": "noppert-belangrijk-voor-heerenveen-toeleven-naar-klassieker",
     "type": "article",
-    "title": "Heerenveen vroeg op voorsprong, toeleven naar Klassieker",
-    "subtitle": "Liveblog Eredivisie",
+    "title": "Noppert belangrijk voor Heerenveen, toeleven naar Klassieker",
+    "subtitle": "Liveblog",
     "published_at": "2023-01-22T11:53:48+01:00",
-    "updated_at": "2023-01-22T12:27:18+01:00",
+    "updated_at": "2023-01-22T12:32:50+01:00",
     "media_id": "bz3xfsiax64t",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248026/heerenveen-vroeg-op-voorsprong-toeleven-naar-klassieker.html",
+    "url": "/voetbal/6248026/noppert-belangrijk-voor-heerenveen-toeleven-naar-klassieker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6247764/stelling-ik-ga-minder-vaak-of-niet-meer-uit-eten-vanwege-de-kostencrisis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248003,
-    "slug": "politie-zoekt-vuurwapengevaarlijke-man-49-om-fatale-schietpartij-zwijndrecht",
-    "type": "article",
-    "title": "Politie zoekt 'vuurwapengevaarlijke' man (49) om fatale schietpartij Zwijndrecht",
-    "subtitle": null,
-    "published_at": "2023-01-22T07:21:33+01:00",
-    "updated_at": "2023-01-22T12:12:22+01:00",
-    "media_id": "47ex1j9a7x31",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248003/politie-zoekt-vuurwapengevaarlijke-man-49-om-fatale-schietpartij-zwijndrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248002,
-    "slug": "nog-meer-geheime-documenten-gevonden-in-woning-biden",
-    "type": "article",
-    "title": "Nog meer geheime documenten gevonden in woning Biden",
-    "subtitle": null,
-    "published_at": "2023-01-22T06:18:24+01:00",
-    "updated_at": "2023-01-22T08:45:33+01:00",
-    "media_id": "mavxzuaau4ak",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248002/nog-meer-geheime-documenten-gevonden-in-woning-biden.html",
     "open_new_window": false,
     "partner": null
   }
