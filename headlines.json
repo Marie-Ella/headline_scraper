@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248360,
+    "slug": "oversterfte-blijft-aanhouden-maar-het-is-nog-onduidelijk-hoe-dat-precies-komt",
+    "type": "article",
+    "title": "Oversterfte blijft aanhouden, maar het is nog onduidelijk hoe dat precies komt",
+    "subtitle": null,
+    "published_at": "2023-01-25T00:00:17+01:00",
+    "updated_at": "2023-01-25T00:00:18+01:00",
+    "media_id": "bopx7m4a8rll",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248360/oversterfte-blijft-aanhouden-maar-het-is-nog-onduidelijk-hoe-dat-precies-komt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248382,
     "slug": "huisartsen-stemmen-als-laatste-belangrijke-partij-toch-in-met-zorgakkoord",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Van Nistelrooij vindt dat het crisis is bij PSV: 'Het is overleven nu'",
     "subtitle": null,
     "published_at": "2023-01-24T22:03:57+01:00",
-    "updated_at": "2023-01-24T22:18:29+01:00",
+    "updated_at": "2023-01-25T00:05:14+01:00",
     "media_id": "6bcxy0nazmwi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6248353/bakayoko-vervangt-geblesseerde-de-jong-in-opstelling-psv-tegen-fc-emmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248347,
-    "slug": "formule-1-tikt-fia-president-op-de-vingers-na-uitspraken-over-waarde-van-de-sport",
-    "type": "article",
-    "title": "Formule 1 tikt FIA-president op de vingers na uitspraken over waarde van de sport",
-    "subtitle": null,
-    "published_at": "2023-01-24T17:33:11+01:00",
-    "updated_at": "2023-01-24T17:33:12+01:00",
-    "media_id": "2xcxfvtaazm4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6248347/formule-1-tikt-fia-president-op-de-vingers-na-uitspraken-over-waarde-van-de-sport.html",
     "open_new_window": false,
     "partner": null
   }
