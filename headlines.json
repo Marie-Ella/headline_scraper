@@ -6,7 +6,7 @@
     "title": "Weerbericht: Opnieuw bewolkte dag met dalende temperaturen",
     "subtitle": null,
     "published_at": "2023-01-25T05:45:55+01:00",
-    "updated_at": "2023-01-25T05:45:56+01:00",
+    "updated_at": "2023-01-25T06:06:38+01:00",
     "media_id": "k82xj5zai1k1",
     "duration": null,
     "canonical_section": {
@@ -121,7 +121,7 @@
     "title": "Feestjes aflopen en bakken met geld uitgeven: zo win je een Oscar",
     "subtitle": "NU+",
     "published_at": "2023-01-25T05:00:47+01:00",
-    "updated_at": "2023-01-25T05:00:48+01:00",
+    "updated_at": "2023-01-25T06:04:22+01:00",
     "media_id": "1p3xd7ca8bk5",
     "duration": null,
     "canonical_section": {
@@ -134,29 +134,6 @@
       "partner": null
     },
     "url": "/film/6247182/feestjes-aflopen-en-bakken-met-geld-uitgeven-zo-win-je-een-oscar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248322,
-    "slug": "we-struinen-meer-supermarkten-af-op-zoek-naar-de-beste-prijs",
-    "type": "article",
-    "title": "We struinen meer supermarkten af op zoek naar de beste prijs",
-    "subtitle": null,
-    "published_at": "2023-01-25T04:59:32+01:00",
-    "updated_at": "2023-01-25T04:59:33+01:00",
-    "media_id": "3ckxvjeaoyiq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6248322/we-struinen-meer-supermarkten-af-op-zoek-naar-de-beste-prijs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +397,7 @@
     "title": "Bayern voorkomt in slotfase eerste thuisnederlaag in meer dan een jaar tijd",
     "subtitle": null,
     "published_at": "2023-01-24T20:40:36+01:00",
-    "updated_at": "2023-01-24T23:42:44+01:00",
+    "updated_at": "2023-01-25T06:08:32+01:00",
     "media_id": "a7axo2ia220z",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/sport-overig/6248340/alle-hoop-hockeyers-in-shoot-outs-op-wk-gevestigd-op-bewezen-specialist-blaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248302,
+    "slug": "duitsland-geeft-landen-toestemming-om-leopard-2-tanks-aan-oekraine-te-leveren",
+    "type": "article",
+    "title": "Duitsland geeft landen toestemming om Leopard 2-tanks aan Oekraïne te leveren",
+    "subtitle": null,
+    "published_at": "2023-01-24T19:28:48+01:00",
+    "updated_at": "2023-01-24T23:26:42+01:00",
+    "media_id": "ivuxuk9a04e7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6248302/duitsland-geeft-landen-toestemming-om-leopard-2-tanks-aan-oekraine-te-leveren.html",
     "open_new_window": false,
     "partner": null
   }
