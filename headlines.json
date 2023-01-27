@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248710,
+    "slug": "overzees-bezoek-zo-volgt-amalia-het-voorbeeld-van-haar-vader-en-oma",
+    "type": "video",
+    "title": "Overzees bezoek: zo volgt Amalia het voorbeeld van haar vader en oma",
+    "subtitle": "Video",
+    "published_at": "2023-01-27T06:44:05+01:00",
+    "updated_at": "2023-01-27T06:44:06+01:00",
+    "media_id": "8zux79oak4y9",
+    "duration": "1:53",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248710/overzees-bezoek-zo-volgt-amalia-het-voorbeeld-van-haar-vader-en-oma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248709,
     "slug": "scheepswrak-voor-britse-kust-blijkt-nederlands-oorlogsschip-uit-17e-eeuw",
     "type": "article",
@@ -49,10 +72,10 @@
     "id": 6248707,
     "slug": "weerbericht-wisselend-weer-met-wolken-regen-en-af-en-toe-wat-zon",
     "type": "article",
-    "title": "Weerbericht: wisselend weer met wolken, regen en af en toe wat zon",
+    "title": "Weerbericht: Wisselend weer met wolken, regen en af en toe wat zon",
     "subtitle": null,
     "published_at": "2023-01-27T05:40:18+01:00",
-    "updated_at": "2023-01-27T05:40:19+01:00",
+    "updated_at": "2023-01-27T06:45:06+01:00",
     "media_id": "gz3x2k1a8ydg",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Amalia's eerste werkbezoek: vertrekt ondanks bedreiging naar Caribisch gebied",
     "subtitle": null,
     "published_at": "2023-01-27T04:59:32+01:00",
-    "updated_at": "2023-01-27T05:43:16+01:00",
+    "updated_at": "2023-01-27T06:46:53+01:00",
     "media_id": "44nxtdoakos5",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6248699,
-    "slug": "real-madrid-bereikt-halve-finale-copa-del-rey-na-zege-op-atletico-van-memphis",
+    "slug": "real-madrid-bereikt-halve-finales-copa-del-rey-na-zege-op-atletico-van-memphis",
     "type": "article",
-    "title": "Real Madrid bereikt halve finale Copa del Rey na zege op Atlético van Memphis",
+    "title": "Real Madrid bereikt halve finales Copa del Rey na zege op Atlético van Memphis",
     "subtitle": null,
     "published_at": "2023-01-27T00:17:44+01:00",
-    "updated_at": "2023-01-27T00:17:45+01:00",
+    "updated_at": "2023-01-27T06:45:39+01:00",
     "media_id": "7f7xjqma3sip",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248699/real-madrid-bereikt-halve-finale-copa-del-rey-na-zege-op-atletico-van-memphis.html",
+    "url": "/voetbal/6248699/real-madrid-bereikt-halve-finales-copa-del-rey-na-zege-op-atletico-van-memphis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6248681/hertenkampen-gaan-komende-jaren-verdwijnen-kabinet-houdt-vast-aan-verbod.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248685,
-    "slug": "schreuder-bevestigt-dat-er-mutaties-komen-in-technische-staf-ajax",
-    "type": "article",
-    "title": "Schreuder bevestigt dat er mutaties komen in technische staf Ajax",
-    "subtitle": null,
-    "published_at": "2023-01-26T21:20:15+01:00",
-    "updated_at": "2023-01-27T00:29:02+01:00",
-    "media_id": "k8jx23zaef91",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248685/schreuder-bevestigt-dat-er-mutaties-komen-in-technische-staf-ajax.html",
     "open_new_window": false,
     "partner": null
   }
