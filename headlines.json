@@ -1,13 +1,59 @@
 [
   {
+    "id": 6248301,
+    "slug": "bevallen-waar-en-hoe-je-wil-is-tegenwoordig-een-luxe",
+    "type": "article",
+    "title": "Bevallen waar en hoe je wil is tegenwoordig een luxe",
+    "subtitle": null,
+    "published_at": "2023-01-29T09:10:46+01:00",
+    "updated_at": "2023-01-29T09:10:47+01:00",
+    "media_id": "5b0xqtxarpvv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248301/bevallen-waar-en-hoe-je-wil-is-tegenwoordig-een-luxe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248977,
+    "slug": "een-e-reader-of-fysiek-boek-praat-mee-over-lezen",
+    "type": "article",
+    "title": "Een e-reader of fysiek boek? Praat mee over lezen",
+    "subtitle": null,
+    "published_at": "2023-01-29T09:03:38+01:00",
+    "updated_at": "2023-01-29T09:11:06+01:00",
+    "media_id": "68jxsuzaqitm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6248977/een-e-reader-of-fysiek-boek-praat-mee-over-lezen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248975,
     "slug": "trainer-jansen-schrikt-van-az-onwaardig-spektakelstuk-hebben-defensief-gefaald",
     "type": "article",
     "title": "Trainer Jansen schrikt van 'AZ-onwaardig' spektakelstuk: 'Hebben defensief gefaald'",
     "subtitle": null,
     "published_at": "2023-01-29T08:42:27+01:00",
-    "updated_at": "2023-01-29T08:42:28+01:00",
-    "media_id": "xjoxdmnazaq4",
+    "updated_at": "2023-01-29T08:59:35+01:00",
+    "media_id": "hn5xtauad3dt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -190,7 +236,7 @@
     "title": "Wie is Zoë Tauran, de zangeres die met TikTok van al haar singles een hit maakt?",
     "subtitle": null,
     "published_at": "2023-01-29T05:03:56+01:00",
-    "updated_at": "2023-01-29T05:03:57+01:00",
+    "updated_at": "2023-01-29T08:53:02+01:00",
     "media_id": "p4wxlvrae3zi",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "AZ grijpt naast koppositie met bizar 5-5-gelijkspel tegen FC Utrecht",
     "subtitle": null,
     "published_at": "2023-01-28T22:53:49+01:00",
-    "updated_at": "2023-01-29T07:17:12+01:00",
+    "updated_at": "2023-01-29T09:07:53+01:00",
     "media_id": "ljvxrrvay8dy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6248966/heerenveen-gaat-aanvaller-sarr-voor-ruim-10-miljoen-euro-verkopen-aan-lyon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248949,
-    "slug": "oekraine-lijkt-grip-op-bakhmut-te-verliezen-rusland-14-doden-bij-aanval-op-ziekenhuis",
-    "type": "article",
-    "title": "Oekraïne lijkt grip op Bakhmut te verliezen | Rusland: 14 doden bij aanval op ziekenhuis",
-    "subtitle": "Overzicht",
-    "published_at": "2023-01-28T22:03:28+01:00",
-    "updated_at": "2023-01-28T22:03:44+01:00",
-    "media_id": "5vux694a2ix9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6248949/oekraine-lijkt-grip-op-bakhmut-te-verliezen-rusland-14-doden-bij-aanval-op-ziekenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248965,
-    "slug": "heerenveen-verliest-bij-afscheid-sarr-van-vitesse-propper-maakt-rentree",
-    "type": "article",
-    "title": "Heerenveen verliest bij afscheid Sarr van Vitesse, Pröpper maakt rentree",
-    "subtitle": null,
-    "published_at": "2023-01-28T21:52:15+01:00",
-    "updated_at": "2023-01-28T22:24:05+01:00",
-    "media_id": "ta9xnbzaugxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248965/heerenveen-verliest-bij-afscheid-sarr-van-vitesse-propper-maakt-rentree.html",
     "open_new_window": false,
     "partner": null
   }
