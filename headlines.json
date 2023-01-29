@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248983,
+    "slug": "amalia-laat-haar-dansmoves-zien-tijdens-bezoek-op-bonaire",
+    "type": "video",
+    "title": "Amalia laat haar dansmoves zien tijdens bezoek op Bonaire",
+    "subtitle": "Video",
+    "published_at": "2023-01-29T10:04:40+01:00",
+    "updated_at": "2023-01-29T10:12:28+01:00",
+    "media_id": "9h2x2dea69b8",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248983/amalia-laat-haar-dansmoves-zien-tijdens-bezoek-op-bonaire.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248980,
     "slug": "teruggekeerde-propper-merkt-dat-plezier-terug-is-na-sabbatical-van-een-jaar",
     "type": "article",
     "title": "Teruggekeerde Pröpper merkt dat plezier terug is na sabbatical van een jaar",
     "subtitle": null,
     "published_at": "2023-01-29T09:40:41+01:00",
-    "updated_at": "2023-01-29T09:40:42+01:00",
+    "updated_at": "2023-01-29T10:04:14+01:00",
     "media_id": "jexxvfpausmg",
     "duration": null,
     "canonical_section": {
@@ -24,13 +47,13 @@
   },
   {
     "id": 6248979,
-    "slug": "djokovic-en-tsitsipas-strijden-om-titel-australian-open",
+    "slug": "djokovic-plaatst-alsnog-eerste-break-in-finale-australian-open",
     "type": "article",
-    "title": "Djokovic en Tsitsipás strijden om titel Australian Open",
+    "title": "Djokovic plaatst alsnog eerste break in finale Australian Open",
     "subtitle": "Liveblog tennis",
     "published_at": "2023-01-29T09:26:48+01:00",
-    "updated_at": "2023-01-29T09:26:49+01:00",
-    "media_id": "z9oxn1jayg5q",
+    "updated_at": "2023-01-29T10:03:51+01:00",
+    "media_id": "eqpxx3qanhf7",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -41,7 +64,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6248979/djokovic-en-tsitsipas-strijden-om-titel-australian-open.html",
+    "url": "/tennis/6248979/djokovic-plaatst-alsnog-eerste-break-in-finale-australian-open.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6248784/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248968,
-    "slug": "spaanse-politie-vindt-drugs-ter-waarde-van-105-miljoen-euro-op-schip-vol-dieren",
-    "type": "article",
-    "title": "Spaanse politie vindt drugs ter waarde van 105 miljoen euro op schip vol dieren",
-    "subtitle": null,
-    "published_at": "2023-01-28T23:16:53+01:00",
-    "updated_at": "2023-01-29T08:14:11+01:00",
-    "media_id": "oofx5mqatqej",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248968/spaanse-politie-vindt-drugs-ter-waarde-van-105-miljoen-euro-op-schip-vol-dieren.html",
     "open_new_window": false,
     "partner": null
   }
