@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249051,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-30T05:33:22+01:00",
+    "updated_at": "2023-01-30T05:33:23+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6249051/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249050,
+    "slug": "hoger-beroep-van-start-van-man-die-met-fakkel-minister-kaag-thuis-opzocht",
+    "type": "article",
+    "title": "Hoger beroep van start van man die met fakkel minister Kaag thuis opzocht",
+    "subtitle": null,
+    "published_at": "2023-01-30T05:31:58+01:00",
+    "updated_at": "2023-01-30T05:31:59+01:00",
+    "media_id": "q4rx0huaowhd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249050/hoger-beroep-van-start-van-man-die-met-fakkel-minister-kaag-thuis-opzocht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249049,
     "slug": "noord-koreaanse-hoofdstad-beeindigt-lockdown-na-toename-luchtwegaandoeningen",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6248350,
-    "slug": "weinig-pers-en-geen-oranje-boven-zo-zag-de-caribische-reis-van-de-koning-eruit",
+    "slug": "weinig-pers-en-geen-oranje-boven-zo-was-de-caribische-reis-van-de-koning",
     "type": "article",
-    "title": "Weinig pers en geen Oranje boven: zo zag de Caribische reis van de koning eruit",
+    "title": "Weinig pers en geen Oranje boven: zo was de Caribische reis van de koning",
     "subtitle": "NU+",
     "published_at": "2023-01-30T05:05:56+01:00",
-    "updated_at": "2023-01-30T05:05:57+01:00",
+    "updated_at": "2023-01-30T05:36:52+01:00",
     "media_id": "04pxtjba5h6t",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6248350/weinig-pers-en-geen-oranje-boven-zo-zag-de-caribische-reis-van-de-koning-eruit.html",
+    "url": "/koningshuis/6248350/weinig-pers-en-geen-oranje-boven-zo-was-de-caribische-reis-van-de-koning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6249004/wat-is-etnisch-profileren-en-waarom-wordt-het-niet-meer-gedaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249032,
-    "slug": "heitinga-genoot-van-debuut-als-ajax-trainer-maar-heb-me-ook-mateloos-geergerd",
-    "type": "article",
-    "title": "Heitinga genoot van debuut als Ajax-trainer: 'Maar heb me ook mateloos geërgerd'",
-    "subtitle": null,
-    "published_at": "2023-01-29T18:11:38+01:00",
-    "updated_at": "2023-01-29T21:24:42+01:00",
-    "media_id": "y5hxukuatz3x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249032/heitinga-genoot-van-debuut-als-ajax-trainer-maar-heb-me-ook-mateloos-geergerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249031,
-    "slug": "vuurbal-doordat-bewaker-tros-ballonnen-in-brand-steekt",
-    "type": "video",
-    "title": "Vuurbal doordat bewaker tros ballonnen in brand steekt",
-    "subtitle": "Video",
-    "published_at": "2023-01-29T17:56:12+01:00",
-    "updated_at": "2023-01-29T18:02:49+01:00",
-    "media_id": "qknxnf3avtq9",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249031/vuurbal-doordat-bewaker-tros-ballonnen-in-brand-steekt.html",
     "open_new_window": false,
     "partner": null
   }
