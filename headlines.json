@@ -1,12 +1,58 @@
 [
   {
+    "id": 6249184,
+    "slug": "cbs-rectificeert-tussenkop-over-rol-van-jeugdbescherming-in-toeslagenschandaal",
+    "type": "article",
+    "title": "CBS rectificeert tussenkop over rol van jeugdbescherming in toeslagenschandaal",
+    "subtitle": null,
+    "published_at": "2023-01-30T22:30:10+01:00",
+    "updated_at": "2023-01-30T22:30:11+01:00",
+    "media_id": "5l4xzc6alkx4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249184/cbs-rectificeert-tussenkop-over-rol-van-jeugdbescherming-in-toeslagenschandaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249183,
+    "slug": "paris-saint-germain-lijkt-te-verrassen-met-komst-chelsea-bankzitter-ziyech",
+    "type": "article",
+    "title": "Paris Saint-Germain lijkt te verrassen met komst Chelsea-bankzitter Ziyech",
+    "subtitle": null,
+    "published_at": "2023-01-30T22:25:11+01:00",
+    "updated_at": "2023-01-30T22:27:29+01:00",
+    "media_id": "mgvx61nap6qj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249183/paris-saint-germain-lijkt-te-verrassen-met-komst-chelsea-bankzitter-ziyech.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249182,
     "slug": "jj-kan-via-faillissement-niet-ontkomen-aan-rechtszaken-over-babypoeder",
     "type": "article",
     "title": "J&J kan via faillissement niet ontkomen aan rechtszaken over babypoeder",
     "subtitle": null,
     "published_at": "2023-01-30T22:11:30+01:00",
-    "updated_at": "2023-01-30T22:11:31+01:00",
+    "updated_at": "2023-01-30T22:30:54+01:00",
     "media_id": "1w1xbj9axra4",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Messi niet trots op gedrag in duel met Oranje: 'Gebeurde in heetst van de strijd'",
     "subtitle": null,
     "published_at": "2023-01-30T18:32:36+01:00",
-    "updated_at": "2023-01-30T19:48:09+01:00",
+    "updated_at": "2023-01-30T22:22:33+01:00",
     "media_id": "lxwx42ya4sjd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249135/bijna-800-arrestaties-dragen-volgens-experts-juist-bij-aan-doel-van-klimaatacties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249161,
-    "slug": "inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland",
-    "type": "article",
-    "title": "Inmiddels 55 mensen verdacht van rol bij voorbereiden staatsgreep in Duitsland",
-    "subtitle": null,
-    "published_at": "2023-01-30T18:26:00+01:00",
-    "updated_at": "2023-01-30T18:37:25+01:00",
-    "media_id": "9b9xtxfaf0aj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249161/inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249159,
-    "slug": "naujoks-van-feyenoord-naar-excelsior-sparta-huurling-rekik-terug-naar-arsenal",
-    "type": "article",
-    "title": "Naujoks van Feyenoord naar Excelsior, Sparta-huurling Rekik terug naar Arsenal",
-    "subtitle": null,
-    "published_at": "2023-01-30T18:25:33+01:00",
-    "updated_at": "2023-01-30T18:59:43+01:00",
-    "media_id": "hgnxjupao3ta",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249159/naujoks-van-feyenoord-naar-excelsior-sparta-huurling-rekik-terug-naar-arsenal.html",
     "open_new_window": false,
     "partner": null
   }
