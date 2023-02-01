@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249470,
+    "slug": "nfl-legende-tom-brady-kondigt-afscheid-van-american-football-aan",
+    "type": "video",
+    "title": "NFL-legende Tom Brady kondigt afscheid van American football aan",
+    "subtitle": "Video",
+    "published_at": "2023-02-01T17:48:31+01:00",
+    "updated_at": "2023-02-01T17:48:32+01:00",
+    "media_id": "5zrx6hsaoipb",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6249470/nfl-legende-tom-brady-kondigt-afscheid-van-american-football-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249468,
     "slug": "mclaren-mag-van-mercedes-beroep-doen-op-schumacher-als-reservecoureur",
     "type": "article",
     "title": "McLaren mag van Mercedes beroep doen op Schumacher als reservecoureur",
     "subtitle": null,
     "published_at": "2023-02-01T17:44:18+01:00",
-    "updated_at": "2023-02-01T17:44:19+01:00",
+    "updated_at": "2023-02-01T17:59:26+01:00",
     "media_id": "yekxzezar58d",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Groenewegen verliest leiderstrui in Saoedi-Arabië, Girmay klopt Kooij in Valencia",
     "subtitle": null,
     "published_at": "2023-02-01T15:20:47+01:00",
-    "updated_at": "2023-02-01T17:38:39+01:00",
+    "updated_at": "2023-02-01T17:48:29+01:00",
     "media_id": "xzjxabbafwx3",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Tweede dode gevonden op plek van grote brand in Arnhemse woonwijk",
     "subtitle": null,
     "published_at": "2023-02-01T14:04:06+01:00",
-    "updated_at": "2023-02-01T17:42:11+01:00",
+    "updated_at": "2023-02-01T18:01:39+01:00",
     "media_id": "rw6xvlnaewwx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249430/tweede-dode-gevonden-op-plek-van-grote-brand-in-arnhemse-woonwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249426,
-    "slug": "gemeente-tilburg-en-nedtrain-beboet-om-blootstelling-aan-schadelijk-chroom-6",
-    "type": "article",
-    "title": "Gemeente Tilburg en NedTrain beboet om blootstelling aan schadelijk chroom-6",
-    "subtitle": null,
-    "published_at": "2023-02-01T14:01:48+01:00",
-    "updated_at": "2023-02-01T15:17:11+01:00",
-    "media_id": "9jvxibcaucrs",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249426/gemeente-tilburg-en-nedtrain-beboet-om-blootstelling-aan-schadelijk-chroom-6.html",
     "open_new_window": false,
     "partner": null
   }
