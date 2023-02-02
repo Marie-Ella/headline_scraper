@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249500,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-02-02T05:28:26+01:00",
+    "updated_at": "2023-02-02T05:28:27+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6249500/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249499,
+    "slug": "weerbericht-grijze-regenachtige-dag-op-komst",
+    "type": "article",
+    "title": "Weerbericht: Grijze, regenachtige dag op komst",
+    "subtitle": null,
+    "published_at": "2023-02-02T05:27:13+01:00",
+    "updated_at": "2023-02-02T05:27:13+01:00",
+    "media_id": "by4xtk1adec9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249499/weerbericht-grijze-regenachtige-dag-op-komst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249498,
     "slug": "pvdd-leider-esther-ouwehand-keert-na-vier-maanden-terug-in-tweede-kamer",
     "type": "article",
@@ -116,12 +162,12 @@
   },
   {
     "id": 6249301,
-    "slug": "17-miljard-of-toch-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie",
+    "slug": "17-miljard-of-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie",
     "type": "article",
-    "title": "17 miljard of toch minder? 'Klimaatdoelen tegengewerkt door fossiele subsidie'",
+    "title": "17 miljard of minder? 'Klimaatdoelen tegengewerkt door fossiele subsidie'",
     "subtitle": "NU+",
     "published_at": "2023-02-02T05:05:09+01:00",
-    "updated_at": "2023-02-02T05:05:10+01:00",
+    "updated_at": "2023-02-02T05:31:45+01:00",
     "media_id": "2k9xsunar3j6",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6249301/17-miljard-of-toch-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie.html",
+    "url": "/klimaat/6249301/17-miljard-of-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "United wint opnieuw van Nottingham en bereikt eerste finale onder Ten Hag",
     "subtitle": null,
     "published_at": "2023-02-01T22:53:03+01:00",
-    "updated_at": "2023-02-02T01:31:23+01:00",
+    "updated_at": "2023-02-02T05:27:38+01:00",
     "media_id": "bj6x0txakqbu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6249485/allerlaatste-boeing-747-vliegt-weg-bij-fabriek-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249483,
-    "slug": "mbappe-mist-penalty-twee-keer-en-valt-uit-bij-zege-psg-de-jong-wint-met-barca",
-    "type": "article",
-    "title": "Mbappé mist penalty twee keer en valt uit bij zege PSG, De Jong wint met Barça",
-    "subtitle": null,
-    "published_at": "2023-02-01T20:53:21+01:00",
-    "updated_at": "2023-02-01T23:20:19+01:00",
-    "media_id": "l8lx0zdacujv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249483/mbappe-mist-penalty-twee-keer-en-valt-uit-bij-zege-psg-de-jong-wint-met-barca.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249481,
-    "slug": "vuilniszakken-stapelen-zich-door-staking-op-in-utrecht",
-    "type": "video",
-    "title": "Vuilniszakken stapelen zich door staking op in Utrecht",
-    "subtitle": "Video",
-    "published_at": "2023-02-01T20:25:17+01:00",
-    "updated_at": "2023-02-01T20:25:18+01:00",
-    "media_id": "rfkx1znagugz",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249481/vuilniszakken-stapelen-zich-door-staking-op-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
