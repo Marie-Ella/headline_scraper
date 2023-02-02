@@ -1,12 +1,58 @@
 [
   {
+    "id": 6249578,
+    "slug": "om-vervolgt-bosschenaar-die-filmde-hoe-zijn-kennis-verdronk-in-zwemplas",
+    "type": "article",
+    "title": "OM vervolgt Bosschenaar die filmde hoe zijn kennis verdronk in zwemplas",
+    "subtitle": null,
+    "published_at": "2023-02-02T14:33:57+01:00",
+    "updated_at": "2023-02-02T14:33:58+01:00",
+    "media_id": "rynxypna5e2u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249578/om-vervolgt-bosschenaar-die-filmde-hoe-zijn-kennis-verdronk-in-zwemplas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249551,
+    "slug": "heitinga-maakt-seizoen-af-als-trainer-ajax-lodeweges-assistent",
+    "type": "article",
+    "title": "Heitinga maakt seizoen af als trainer Ajax, Lodeweges assistent",
+    "subtitle": null,
+    "published_at": "2023-02-02T14:31:38+01:00",
+    "updated_at": "2023-02-02T14:32:24+01:00",
+    "media_id": "gocxwkrabha3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249551/heitinga-maakt-seizoen-af-als-trainer-ajax-lodeweges-assistent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249573,
     "slug": "warmtebeelden-tonen-arrestaties-plofkrakers-in-duitsland",
     "type": "video",
     "title": "Warmtebeelden tonen arrestaties plofkrakers in Duitsland",
     "subtitle": "Video",
     "published_at": "2023-02-02T13:56:51+01:00",
-    "updated_at": "2023-02-02T13:56:52+01:00",
+    "updated_at": "2023-02-02T14:22:12+01:00",
     "media_id": "fz6xektaj2ri",
     "duration": "0:47",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6249536/iraanse-regisseur-panahi-weigert-voedsel-en-medicijnen-in-gevangenis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249534,
-    "slug": "verbij-mist-nk-afstanden-en-rest-van-schaatsseizoen-door-liesblessure",
-    "type": "article",
-    "title": "Verbij mist NK afstanden en rest van schaatsseizoen door liesblessure",
-    "subtitle": null,
-    "published_at": "2023-02-02T10:23:28+01:00",
-    "updated_at": "2023-02-02T10:47:05+01:00",
-    "media_id": "th0xvrwav7la",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6249534/verbij-mist-nk-afstanden-en-rest-van-schaatsseizoen-door-liesblessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249533,
-    "slug": "vicepresident-vs-veroordeelt-politiegeweld-in-toespraak-op-uitvaart",
-    "type": "video",
-    "title": "Vicepresident VS veroordeelt politiegeweld in toespraak op uitvaart",
-    "subtitle": "Video",
-    "published_at": "2023-02-02T10:10:56+01:00",
-    "updated_at": "2023-02-02T10:30:33+01:00",
-    "media_id": "23yxjmeasfm3",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249533/vicepresident-vs-veroordeelt-politiegeweld-in-toespraak-op-uitvaart.html",
     "open_new_window": false,
     "partner": null
   }
