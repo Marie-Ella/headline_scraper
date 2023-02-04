@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249912,
+    "slug": "verdachte-aangehouden-voor-fatale-brand-in-arnhem",
+    "type": "article",
+    "title": "Verdachte aangehouden voor fatale brand in Arnhem",
+    "subtitle": null,
+    "published_at": "2023-02-04T22:19:07+01:00",
+    "updated_at": "2023-02-04T22:22:05+01:00",
+    "media_id": "k7lxshuay2hk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249912/verdachte-aangehouden-voor-fatale-brand-in-arnhem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249910,
     "slug": "eredivisie-topscorer-douvikas-helpt-fc-utrecht-aan-kleine-zege-op-heerenveen",
     "type": "article",
     "title": "Eredivisie-topscorer Douvikas helpt FC Utrecht aan kleine zege op Heerenveen",
     "subtitle": null,
     "published_at": "2023-02-04T22:02:34+01:00",
-    "updated_at": "2023-02-04T22:12:39+01:00",
+    "updated_at": "2023-02-04T22:27:28+01:00",
     "media_id": "2zpx5zzaw3e7",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Vitesse laat zege uit handen glippen tegen strijdlustig FC Emmen",
     "subtitle": null,
     "published_at": "2023-02-04T21:58:54+01:00",
-    "updated_at": "2023-02-04T22:09:47+01:00",
+    "updated_at": "2023-02-04T22:17:54+01:00",
     "media_id": "zwfxsm6a3w55",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6249877/odesa-zonder-stroom-uitwisseling-van-tientallen-gevangenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249837,
-    "slug": "waarom-vind-ik-bellen-zo-eng",
-    "type": "article",
-    "title": "Waarom vind ik bellen zo eng?",
-    "subtitle": null,
-    "published_at": "2023-02-04T18:30:09+01:00",
-    "updated_at": "2023-02-04T18:30:10+01:00",
-    "media_id": "6edxdz9akhbu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6249837/waarom-vind-ik-bellen-zo-eng.html",
     "open_new_window": false,
     "partner": null
   }
