@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249831,
+    "slug": "liever-een-bericht-of-een-telefoontje-praat-mee-over-bellen-en-belangst",
+    "type": "article",
+    "title": "Liever een bericht of een telefoontje? Praat mee over bellen en belangst",
+    "subtitle": null,
+    "published_at": "2023-02-04T09:26:35+01:00",
+    "updated_at": "2023-02-04T09:31:12+01:00",
+    "media_id": "zbfx5tma4gh1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6249831/liever-een-bericht-of-een-telefoontje-praat-mee-over-bellen-en-belangst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249834,
+    "slug": "chilenen-ontvluchten-brandende-huizen-tijdens-hittegolf",
+    "type": "video",
+    "title": "Chilenen ontvluchten brandende huizen tijdens hittegolf",
+    "subtitle": "Video",
+    "published_at": "2023-02-04T09:24:53+01:00",
+    "updated_at": "2023-02-04T09:24:54+01:00",
+    "media_id": "568xylgayfiv",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249834/chilenen-ontvluchten-brandende-huizen-tijdens-hittegolf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249811,
     "slug": "deal-met-ford-precies-wat-red-bull-zocht-dit-maakt-ons-sterker",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Elon Musk volgens jury niet aansprakelijk voor verliezen na Tesla-tweets",
     "subtitle": null,
     "published_at": "2023-02-04T06:56:53+01:00",
-    "updated_at": "2023-02-04T09:14:01+01:00",
+    "updated_at": "2023-02-04T09:24:43+01:00",
     "media_id": "l0rxml4athm5",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "WK-ticket zorgt voor tranen bij N'tab: 'Heb zware tijd gehad na missen Spelen'",
     "subtitle": null,
     "published_at": "2023-02-04T05:09:25+01:00",
-    "updated_at": "2023-02-04T08:33:11+01:00",
+    "updated_at": "2023-02-04T09:30:21+01:00",
     "media_id": "5ngxe0cal8bf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6249818/dit-worden-de-nieuwe-danny-en-sandy-in-nederlandse-versie-musical-grease.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249817,
-    "slug": "groningen-verbiedt-dragen-van-voorwerpen-die-als-wapen-gebruikt-kunnen-worden",
-    "type": "article",
-    "title": "Groningen verbiedt dragen van voorwerpen die als wapen gebruikt kunnen worden",
-    "subtitle": null,
-    "published_at": "2023-02-03T23:08:43+01:00",
-    "updated_at": "2023-02-03T23:23:11+01:00",
-    "media_id": "fahx0rcaic60",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249817/groningen-verbiedt-dragen-van-voorwerpen-die-als-wapen-gebruikt-kunnen-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249816,
-    "slug": "bergsma-pakt-nk-brons-na-kwakkelmaanden-ik-ben-nog-lang-niet-versleten",
-    "type": "article",
-    "title": "Bergsma pakt NK-brons na kwakkelmaanden: 'Ik ben nog lang niet versleten'",
-    "subtitle": null,
-    "published_at": "2023-02-03T23:07:23+01:00",
-    "updated_at": "2023-02-03T23:19:58+01:00",
-    "media_id": "beyxfyzaj0kp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6249816/bergsma-pakt-nk-brons-na-kwakkelmaanden-ik-ben-nog-lang-niet-versleten.html",
     "open_new_window": false,
     "partner": null
   }
