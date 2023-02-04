@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249865,
+    "slug": "politie-verzamelt-miljoenen-fotos-van-onschuldige-buitenlanders-in-database",
+    "type": "article",
+    "title": "Politie verzamelt miljoenen foto's van onschuldige buitenlanders in database",
+    "subtitle": null,
+    "published_at": "2023-02-04T16:40:04+01:00",
+    "updated_at": "2023-02-04T16:40:05+01:00",
+    "media_id": "5yoxv9oaz41q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249865/politie-verzamelt-miljoenen-fotos-van-onschuldige-buitenlanders-in-database.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249879,
     "slug": "geemotioneerde-van-empel-ziet-eerste-wereldtitel-als-beloning-voor-topseizoen",
     "type": "article",
     "title": "Geëmotioneerde Van Empel ziet eerste wereldtitel als beloning voor topseizoen",
     "subtitle": null,
     "published_at": "2023-02-04T16:20:06+01:00",
-    "updated_at": "2023-02-04T16:28:43+01:00",
+    "updated_at": "2023-02-04T16:35:48+01:00",
     "media_id": "ckoxqi6awooi",
     "duration": null,
     "canonical_section": {
@@ -52,19 +75,19 @@
     "title": "Van Empel pakt eerste wereldtitel veldrijden, Nederlands podium in Hoogerheide",
     "subtitle": null,
     "published_at": "2023-02-04T16:00:06+01:00",
-    "updated_at": "2023-02-04T16:29:02+01:00",
+    "updated_at": "2023-02-04T16:40:57+01:00",
     "media_id": "pq0x282aehfb",
     "duration": null,
     "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
+      "id": 1772339,
+      "slug": "wielrennen",
       "type": "default",
-      "name": "Sport Overig",
+      "name": "Wielrennen",
       "style": "nusport",
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6249875/van-empel-pakt-eerste-wereldtitel-veldrijden-nederlands-podium-in-hoogerheide.html",
+    "url": "/wielrennen/6249875/van-empel-pakt-eerste-wereldtitel-veldrijden-nederlands-podium-in-hoogerheide.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6249867,
-    "slug": "schouten-plaatst-zich-op-3-kilometer-net-voor-wk-kok-klopt-leerdam-op-500-meter",
+    "slug": "schouten-pakt-op-3-kilometer-nipt-wk-ticket-kok-klopt-leerdam-op-500-meter",
     "type": "article",
-    "title": "Schouten plaatst zich op 3 kilometer net voor WK, Kok klopt Leerdam op 500 meter",
+    "title": "Schouten pakt op 3 kilometer nipt WK-ticket, Kok klopt Leerdam op 500 meter",
     "subtitle": null,
     "published_at": "2023-02-04T14:23:11+01:00",
-    "updated_at": "2023-02-04T16:25:03+01:00",
+    "updated_at": "2023-02-04T16:31:50+01:00",
     "media_id": "l6rxk1tam06n",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6249867/schouten-plaatst-zich-op-3-kilometer-net-voor-wk-kok-klopt-leerdam-op-500-meter.html",
+    "url": "/schaatsen/6249867/schouten-pakt-op-3-kilometer-nipt-wk-ticket-kok-klopt-leerdam-op-500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249839/om-baas-verdedigt-preventieve-arrestaties-van-demonstranten-rond-a12-blokkade.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249833,
-    "slug": "neuer-botst-met-leiding-bayern-gevoel-dat-mijn-hart-eruit-werd-gerukt",
-    "type": "article",
-    "title": "Neuer botst met leiding Bayern: 'Gevoel dat mijn hart eruit werd gerukt'",
-    "subtitle": null,
-    "published_at": "2023-02-04T09:46:39+01:00",
-    "updated_at": "2023-02-04T10:06:09+01:00",
-    "media_id": "8l0x6y6aqc63",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249833/neuer-botst-met-leiding-bayern-gevoel-dat-mijn-hart-eruit-werd-gerukt.html",
     "open_new_window": false,
     "partner": null
   }
