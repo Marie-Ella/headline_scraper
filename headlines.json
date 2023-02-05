@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249916,
+    "slug": "weerbericht-eerst-nog-kans-op-regen-maar-in-de-middag-schijnt-de-zon",
+    "type": "article",
+    "title": "Weerbericht: Eerst nog kans op regen, maar in de middag schijnt de zon",
+    "subtitle": null,
+    "published_at": "2023-02-05T05:46:00+01:00",
+    "updated_at": "2023-02-05T05:46:01+01:00",
+    "media_id": "spex4bwag8ec",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249916/weerbericht-eerst-nog-kans-op-regen-maar-in-de-middag-schijnt-de-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249917,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6249903/vs-schiet-chinese-spionageballon-uit-de-lucht-na-stilleggen-vliegverkeer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249904,
-    "slug": "az-verzuimt-koppositie-te-pakken-met-gelijkspel-tegen-tiental-volendam",
-    "type": "article",
-    "title": "AZ verzuimt koppositie te pakken met gelijkspel tegen tiental Volendam",
-    "subtitle": null,
-    "published_at": "2023-02-04T20:37:25+01:00",
-    "updated_at": "2023-02-04T21:00:34+01:00",
-    "media_id": "sdqx743ahgug",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249904/az-verzuimt-koppositie-te-pakken-met-gelijkspel-tegen-tiental-volendam.html",
     "open_new_window": false,
     "partner": null
   }
