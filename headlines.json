@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249967,
+    "slug": "twee-gevangenen-rotterdam-doen-vluchtpoging-met-aan-elkaar-geknoopte-lakens",
+    "type": "article",
+    "title": "Twee gevangenen Rotterdam doen vluchtpoging met aan elkaar geknoopte lakens",
+    "subtitle": null,
+    "published_at": "2023-02-05T15:33:44+01:00",
+    "updated_at": "2023-02-05T15:45:46+01:00",
+    "media_id": "xv3xm3zau91x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249967/twee-gevangenen-rotterdam-doen-vluchtpoging-met-aan-elkaar-geknoopte-lakens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249966,
     "slug": "schouten-herstelt-zich-knap-met-derde-nationale-titel-op-rij-op-5-kilometer",
     "type": "article",
     "title": "Schouten herstelt zich knap met derde nationale titel op rij op 5 kilometer",
     "subtitle": null,
     "published_at": "2023-02-05T15:25:59+01:00",
-    "updated_at": "2023-02-05T15:26:01+01:00",
+    "updated_at": "2023-02-05T15:30:18+01:00",
     "media_id": "segxleqazuaa",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6249961,
-    "slug": "napoli-boekt-overtuigende-uitzege-op-spezia-en-blijft-maar-winnen-in-serie-a",
+    "slug": "napoli-blijft-maar-winnen-in-serie-a-antwerp-gelijk-in-kraker-tegen-brugge",
     "type": "article",
-    "title": "Napoli boekt overtuigende uitzege op Spezia en blijft maar winnen in Serie A",
+    "title": "Napoli blijft maar winnen in Serie A, Antwerp gelijk in kraker tegen Brugge",
     "subtitle": null,
     "published_at": "2023-02-05T14:51:11+01:00",
-    "updated_at": "2023-02-05T15:09:35+01:00",
+    "updated_at": "2023-02-05T15:39:00+01:00",
     "media_id": "e91xz3qaz50c",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6249961/napoli-boekt-overtuigende-uitzege-op-spezia-en-blijft-maar-winnen-in-serie-a.html",
+    "url": "/voetbal/6249961/napoli-blijft-maar-winnen-in-serie-a-antwerp-gelijk-in-kraker-tegen-brugge.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Opgeleefd Ajax wint ten koste van Cambuur ook tweede duel onder Heitinga",
     "subtitle": null,
     "published_at": "2023-02-05T14:07:42+01:00",
-    "updated_at": "2023-02-05T15:04:07+01:00",
+    "updated_at": "2023-02-05T15:31:14+01:00",
     "media_id": "l2hxu4na4ly2",
     "duration": null,
     "canonical_section": {
@@ -369,13 +392,13 @@
   },
   {
     "id": 6249948,
-    "slug": "van-der-poel-en-van-aert-samen-aan-de-leiding-op-wk",
+    "slug": "van-der-poel-en-van-aert-maken-er-prachtig-wk-duel-van",
     "type": "article",
-    "title": "Van der Poel en Van Aert samen aan de leiding op WK",
+    "title": "Van der Poel en Van Aert maken er prachtig WK-duel van",
     "subtitle": "Liveblog veldrijden",
     "published_at": "2023-02-05T12:45:02+01:00",
-    "updated_at": "2023-02-05T15:15:46+01:00",
-    "media_id": "jujxwzma3mdv",
+    "updated_at": "2023-02-05T15:43:31+01:00",
+    "media_id": "h85x2boaye8p",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6249948/van-der-poel-en-van-aert-samen-aan-de-leiding-op-wk.html",
+    "url": "/sport-overig/6249948/van-der-poel-en-van-aert-maken-er-prachtig-wk-duel-van.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6249940/dit-vinden-jullie-ervan-dat-er-veel-verkeerde-bomen-zijn-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249657,
-    "slug": "zo-gaat-de-batterij-van-je-telefoon-langer-mee",
-    "type": "article",
-    "title": "Zo gaat de batterij van je telefoon langer mee",
-    "subtitle": null,
-    "published_at": "2023-02-05T12:13:26+01:00",
-    "updated_at": "2023-02-05T12:13:27+01:00",
-    "media_id": "x7xx8yxaoywj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6249657/zo-gaat-de-batterij-van-je-telefoon-langer-mee.html",
     "open_new_window": false,
     "partner": null
   }
