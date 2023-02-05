@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250003,
+    "slug": "bekijk-de-ontknoping-van-de-wk-clash-tussen-van-der-poel-en-van-aert",
+    "type": "video",
+    "title": "Bekijk de ontknoping van de WK-clash tussen Van der Poel en Van Aert",
+    "subtitle": "Video",
+    "published_at": "2023-02-05T19:57:09+01:00",
+    "updated_at": "2023-02-05T19:57:10+01:00",
+    "media_id": "19axca4ama2x",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6250003/bekijk-de-ontknoping-van-de-wk-clash-tussen-van-der-poel-en-van-aert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250001,
     "slug": "met-titel-in-zijn-hoogerheide-voltooit-van-der-poel-fraaie-comeback-na-rugklachten",
     "type": "article",
     "title": "Met titel in 'zijn' Hoogerheide voltooit Van der Poel fraaie comeback na rugklachten",
     "subtitle": null,
     "published_at": "2023-02-05T19:40:55+01:00",
-    "updated_at": "2023-02-05T19:43:05+01:00",
+    "updated_at": "2023-02-05T20:10:32+01:00",
     "media_id": "eupx3q9au8v2",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Kane topscorer aller tijden Spurs na winnende goal tegen City, ook zege Bayern",
     "subtitle": null,
     "published_at": "2023-02-05T19:30:20+01:00",
-    "updated_at": "2023-02-05T19:46:26+01:00",
+    "updated_at": "2023-02-05T19:56:27+01:00",
     "media_id": "epzx9haa8kcq",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Van Aert: 'Was gedoemd om als laffe renner in wiel Van der Poel te blijven'",
     "subtitle": null,
     "published_at": "2023-02-05T18:02:29+01:00",
-    "updated_at": "2023-02-05T18:39:24+01:00",
+    "updated_at": "2023-02-05T20:10:54+01:00",
     "media_id": "sktxbqbaew0u",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Euforische Van der Poel wist zeker dat hij Van Aert zou verslaan: 'Ik had nul stress'",
     "subtitle": null,
     "published_at": "2023-02-05T16:35:22+01:00",
-    "updated_at": "2023-02-05T19:07:50+01:00",
+    "updated_at": "2023-02-05T20:11:16+01:00",
     "media_id": "leuxbs7a9isi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6249973/staatssecretaris-uslu-noemt-doodsbedreigingen-aan-schrijvers-onacceptabel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249968,
-    "slug": "van-der-poel-klopt-van-aert-in-prachtig-duel-en-pakt-vijfde-wereldtitel-veldrijden",
-    "type": "article",
-    "title": "Van der Poel klopt Van Aert in prachtig duel en pakt vijfde wereldtitel veldrijden",
-    "subtitle": null,
-    "published_at": "2023-02-05T16:12:30+01:00",
-    "updated_at": "2023-02-05T19:41:44+01:00",
-    "media_id": "vfwx7tfa20rw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6249968/van-der-poel-klopt-van-aert-in-prachtig-duel-en-pakt-vijfde-wereldtitel-veldrijden.html",
     "open_new_window": false,
     "partner": null
   }
