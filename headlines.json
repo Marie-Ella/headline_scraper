@@ -1,12 +1,58 @@
 [
   {
+    "id": 6250010,
+    "slug": "andre-van-duin-maakt-winnaar-van-heel-holland-bakt-bekend",
+    "type": "video",
+    "title": "André van Duin maakt winnaar van Heel Holland Bakt bekend",
+    "subtitle": "Video",
+    "published_at": "2023-02-05T21:43:59+01:00",
+    "updated_at": "2023-02-05T21:44:00+01:00",
+    "media_id": "tquxto3azsh2",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6250010/andre-van-duin-maakt-winnaar-van-heel-holland-bakt-bekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250009,
+    "slug": "documentaire-over-donna-summer-in-premiere-op-filmfestival-berlijn",
+    "type": "article",
+    "title": "Documentaire over Donna Summer in première op filmfestival Berlijn",
+    "subtitle": null,
+    "published_at": "2023-02-05T21:30:21+01:00",
+    "updated_at": "2023-02-05T21:30:22+01:00",
+    "media_id": "bobx0phaawt3",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6250009/documentaire-over-donna-summer-in-premiere-op-filmfestival-berlijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249994,
     "slug": "tennissers-vol-bravoure-naar-davis-cup-finals-we-zijn-tot-grote-dingen-in-staat",
     "type": "article",
     "title": "Tennissers vol bravoure naar Davis Cup Finals: 'We zijn tot grote dingen in staat'",
     "subtitle": null,
     "published_at": "2023-02-05T21:25:32+01:00",
-    "updated_at": "2023-02-05T21:25:33+01:00",
+    "updated_at": "2023-02-05T21:45:43+01:00",
     "media_id": "337x00cadrla",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249980/weekweerbericht-meer-zon-en-de-temperaturen-gaan-omlaag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249978,
-    "slug": "feyenoord-knokt-zich-diep-in-blessuretijd-naar-gelijkspel-tegen-tiental-psv",
-    "type": "article",
-    "title": "Feyenoord knokt zich diep in blessuretijd naar gelijkspel tegen tiental PSV",
-    "subtitle": null,
-    "published_at": "2023-02-05T16:35:58+01:00",
-    "updated_at": "2023-02-05T18:49:20+01:00",
-    "media_id": "71axm75ay5jf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249978/feyenoord-knokt-zich-diep-in-blessuretijd-naar-gelijkspel-tegen-tiental-psv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249977,
-    "slug": "euforische-van-der-poel-wist-zeker-dat-hij-van-aert-zou-verslaan-ik-had-nul-stress",
-    "type": "article",
-    "title": "Euforische Van der Poel wist zeker dat hij Van Aert zou verslaan: 'Ik had nul stress'",
-    "subtitle": null,
-    "published_at": "2023-02-05T16:35:22+01:00",
-    "updated_at": "2023-02-05T20:11:16+01:00",
-    "media_id": "leuxbs7a9isi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6249977/euforische-van-der-poel-wist-zeker-dat-hij-van-aert-zou-verslaan-ik-had-nul-stress.html",
     "open_new_window": false,
     "partner": null
   }
