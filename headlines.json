@@ -1,5 +1,51 @@
 [
   {
+    "id": 6250086,
+    "slug": "aanvoerders-kokcu-en-yilmaz-leven-mee-met-slachtoffers-aardbeving-in-turkije",
+    "type": "article",
+    "title": "Aanvoerders Kökçü en Yilmaz leven mee met slachtoffers aardbeving in Turkije",
+    "subtitle": null,
+    "published_at": "2023-02-06T14:07:11+01:00",
+    "updated_at": "2023-02-06T14:07:12+01:00",
+    "media_id": "iw7xy5gamhz7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250086/aanvoerders-kokcu-en-yilmaz-leven-mee-met-slachtoffers-aardbeving-in-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250090,
+    "slug": "muren-van-eeuwenoud-turks-kasteel-ingestort-na-aardbeving",
+    "type": "video",
+    "title": "Muren van eeuwenoud Turks kasteel ingestort na aardbeving",
+    "subtitle": "Video",
+    "published_at": "2023-02-06T13:52:04+01:00",
+    "updated_at": "2023-02-06T13:55:57+01:00",
+    "media_id": "fqyxhizaxxg5",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250090/muren-van-eeuwenoud-turks-kasteel-ingestort-na-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250089,
     "slug": "radboudumc-ontwikkelt-scan-om-uitzaaiing-prostaatkanker-eerder-te-ontdekken",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6250062,
-    "slug": "waarom-syrie-en-vooral-turkije-vaker-te-maken-krijgt-met-zware-aardbevingen",
+    "slug": "waarom-syrie-en-vooral-turkije-vaker-te-maken-krijgen-met-zware-aardbevingen",
     "type": "article",
-    "title": "Waarom Syrië en vooral Turkije vaker te maken krijgt met (zware) aardbevingen",
+    "title": "Waarom Syrië en vooral Turkije vaker te maken krijgen met (zware) aardbevingen",
     "subtitle": null,
     "published_at": "2023-02-06T13:07:11+01:00",
-    "updated_at": "2023-02-06T13:16:20+01:00",
+    "updated_at": "2023-02-06T13:49:31+01:00",
     "media_id": "w9txtv2a4224",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6250062/waarom-syrie-en-vooral-turkije-vaker-te-maken-krijgt-met-zware-aardbevingen.html",
+    "url": "/algemeen/6250062/waarom-syrie-en-vooral-turkije-vaker-te-maken-krijgen-met-zware-aardbevingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6250046/twitter-balanceert-niet-langer-op-de-rand-van-de-afgrond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250048,
-    "slug": "moeder-en-zeven-kinderen-komen-om-bij-woningbrand-in-frankrijk",
-    "type": "article",
-    "title": "Moeder en zeven kinderen komen om bij woningbrand in Frankrijk",
-    "subtitle": null,
-    "published_at": "2023-02-06T10:12:28+01:00",
-    "updated_at": "2023-02-06T10:12:29+01:00",
-    "media_id": "5k2x1q9a7bs9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250048/moeder-en-zeven-kinderen-komen-om-bij-woningbrand-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250043,
-    "slug": "bewakingscamera-toont-moment-dat-aardbeving-losbarst-in-turkije",
-    "type": "video",
-    "title": "Bewakingscamera toont moment dat aardbeving losbarst in Turkije",
-    "subtitle": "Video",
-    "published_at": "2023-02-06T09:50:28+01:00",
-    "updated_at": "2023-02-06T12:05:07+01:00",
-    "media_id": "in7xstpax3w5",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250043/bewakingscamera-toont-moment-dat-aardbeving-losbarst-in-turkije.html",
     "open_new_window": false,
     "partner": null
   }
