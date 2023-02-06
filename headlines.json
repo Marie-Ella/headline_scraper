@@ -1,12 +1,58 @@
 [
   {
+    "id": 6250166,
+    "slug": "inwoners-den-haag-brengen-massaal-kleding-voor-slachtoffers-aardbeving",
+    "type": "video",
+    "title": "Inwoners Den Haag brengen massaal kleding voor slachtoffers aardbeving",
+    "subtitle": "Video",
+    "published_at": "2023-02-06T22:17:52+01:00",
+    "updated_at": "2023-02-06T22:17:52+01:00",
+    "media_id": "rhnxemjat5kp",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250166/inwoners-den-haag-brengen-massaal-kleding-voor-slachtoffers-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250165,
+    "slug": "moederbedrijf-van-google-lanceert-testversie-chatbot-bard-concurrent-chatgpt",
+    "type": "article",
+    "title": "Moederbedrijf van Google lanceert testversie chatbot Bard, concurrent ChatGPT",
+    "subtitle": null,
+    "published_at": "2023-02-06T22:16:04+01:00",
+    "updated_at": "2023-02-06T22:19:07+01:00",
+    "media_id": "csqx3wbaa0xj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6250165/moederbedrijf-van-google-lanceert-testversie-chatbot-bard-concurrent-chatgpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250164,
     "slug": "pec-houdt-brobbey-van-scoren-af-en-speelt-doelpuntloos-gelijk-bij-jong-ajax",
     "type": "article",
     "title": "PEC houdt Brobbey van scoren af en speelt doelpuntloos gelijk bij Jong Ajax",
     "subtitle": null,
     "published_at": "2023-02-06T22:06:01+01:00",
-    "updated_at": "2023-02-06T22:15:29+01:00",
+    "updated_at": "2023-02-06T22:25:46+01:00",
     "media_id": "ob8xm0hajcgt",
     "duration": null,
     "canonical_section": {
@@ -52,8 +98,8 @@
     "title": "Van der Sar baalt van vertrek Daley Blind bij Ajax: 'Dat had anders gemoeten'",
     "subtitle": null,
     "published_at": "2023-02-06T21:44:34+01:00",
-    "updated_at": "2023-02-06T22:05:51+01:00",
-    "media_id": "ojpx45campqh",
+    "updated_at": "2023-02-06T22:28:39+01:00",
+    "media_id": "60oxj4haqh32",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -346,12 +392,12 @@
   },
   {
     "id": 6249535,
-    "slug": "55-jaar-na-storm-irma-is-wederopbouw-van-sint-maarten-nog-steeds-niet-klaar",
+    "slug": "55-jaar-na-storm-irma-is-wederopbouw-sint-maarten-nog-niet-klaar",
     "type": "article",
-    "title": "5,5 jaar na storm Irma is wederopbouw van Sint Maarten nog steeds niet klaar",
+    "title": "5,5 jaar na storm Irma is wederopbouw Sint Maarten nog niet klaar",
     "subtitle": "NU+",
     "published_at": "2023-02-06T19:17:53+01:00",
-    "updated_at": "2023-02-06T19:32:35+01:00",
+    "updated_at": "2023-02-06T22:16:42+01:00",
     "media_id": "dimxciiakrv7",
     "duration": null,
     "canonical_section": {
@@ -363,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6249535/55-jaar-na-storm-irma-is-wederopbouw-van-sint-maarten-nog-steeds-niet-klaar.html",
+    "url": "/buitenland/6249535/55-jaar-na-storm-irma-is-wederopbouw-sint-maarten-nog-niet-klaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6250143/pogacar-begint-seizoen-voor-het-eerst-in-drie-jaar-niet-met-ronde-van-emiraten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250142,
-    "slug": "matthew-mcconaughey-spreekt-stem-elvis-in-voor-nieuwe-netflix-animatieserie",
-    "type": "article",
-    "title": "Matthew McConaughey spreekt stem Elvis in voor nieuwe Netflix-animatieserie",
-    "subtitle": null,
-    "published_at": "2023-02-06T18:37:57+01:00",
-    "updated_at": "2023-02-06T18:37:58+01:00",
-    "media_id": "x90xqflaspbe",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6250142/matthew-mcconaughey-spreekt-stem-elvis-in-voor-nieuwe-netflix-animatieserie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250140,
-    "slug": "coldeweijer-gaat-toch-in-hoger-beroep-tegen-uitspraak-in-zaak-rachel-hazes",
-    "type": "article",
-    "title": "Coldeweijer gaat toch in hoger beroep tegen uitspraak in zaak Rachel Hazes",
-    "subtitle": null,
-    "published_at": "2023-02-06T18:19:58+01:00",
-    "updated_at": "2023-02-06T18:25:35+01:00",
-    "media_id": "ckyxszsaus62",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6250140/coldeweijer-gaat-toch-in-hoger-beroep-tegen-uitspraak-in-zaak-rachel-hazes.html",
     "open_new_window": false,
     "partner": null
   }
