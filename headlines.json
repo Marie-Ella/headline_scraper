@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250140,
+    "slug": "coldeweijer-gaat-toch-in-hoger-beroep-tegen-uitspraak-in-zaak-rachel-hazes",
+    "type": "article",
+    "title": "Coldeweijer gaat toch in hoger beroep tegen uitspraak in zaak Rachel Hazes",
+    "subtitle": null,
+    "published_at": "2023-02-06T18:19:58+01:00",
+    "updated_at": "2023-02-06T18:25:35+01:00",
+    "media_id": "ckyxszsaus62",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6250140/coldeweijer-gaat-toch-in-hoger-beroep-tegen-uitspraak-in-zaak-rachel-hazes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250141,
     "slug": "duikers-filmen-zeldzame-hoeveelheid-zeevlinders-in-rode-zee",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6250135,
-    "slug": "nederlandse-reddingswerkers-naar-aardbevingsgebied-wat-gaan-ze-doen",
+    "slug": "nederlandse-reddingswerkers-naar-rampgebied-wat-gaan-ze-doen",
     "type": "video",
-    "title": "Nederlandse reddingswerkers naar aardbevingsgebied, wat gaan ze doen?",
+    "title": "Nederlandse reddingswerkers naar rampgebied, wat gaan ze doen?",
     "subtitle": "Video",
     "published_at": "2023-02-06T17:50:50+01:00",
-    "updated_at": "2023-02-06T17:56:01+01:00",
+    "updated_at": "2023-02-06T18:25:44+01:00",
     "media_id": "y8dxk7eaq3lx",
     "duration": "2:25",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6250135/nederlandse-reddingswerkers-naar-aardbevingsgebied-wat-gaan-ze-doen.html",
+    "url": "/aardbeving-syrie-en-turkije/6250135/nederlandse-reddingswerkers-naar-rampgebied-wat-gaan-ze-doen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/auto/6250105/rijimpressie-toyota-rav4-gr-sport.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250104,
-    "slug": "anwb-presenteert-elektrische-wegenwacht-bus-in-retrojasje",
-    "type": "video",
-    "title": "ANWB presenteert elektrische Wegenwacht-bus in retrojasje",
-    "subtitle": "Video",
-    "published_at": "2023-02-06T14:42:50+01:00",
-    "updated_at": "2023-02-06T14:45:26+01:00",
-    "media_id": "b27xjqvaz57c",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6250104/anwb-presenteert-elektrische-wegenwacht-bus-in-retrojasje.html",
     "open_new_window": false,
     "partner": null
   }
