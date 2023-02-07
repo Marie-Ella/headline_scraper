@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250170,
+    "slug": "weerbericht-volop-zon-en-een-temperatuur-van-maximaal-6-graden",
+    "type": "article",
+    "title": "Weerbericht: Volop zon en een temperatuur van maximaal 6 graden",
+    "subtitle": null,
+    "published_at": "2023-02-07T05:28:00+01:00",
+    "updated_at": "2023-02-07T05:28:01+01:00",
+    "media_id": "34dxcxtabrw1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250170/weerbericht-volop-zon-en-een-temperatuur-van-maximaal-6-graden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250169,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6250158/passagier-filmt-hoe-vliegtuigmotor-vlammen-spuwt-in-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250155,
-    "slug": "succestrainer-bennema-vertrekt-na-vijftien-jaar-definitief-bij-atletiekunie",
-    "type": "article",
-    "title": "Succestrainer Bennema vertrekt na vijftien jaar definitief bij Atletiekunie",
-    "subtitle": null,
-    "published_at": "2023-02-06T20:21:12+01:00",
-    "updated_at": "2023-02-06T20:33:37+01:00",
-    "media_id": "b15xu84aduhl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6250155/succestrainer-bennema-vertrekt-na-vijftien-jaar-definitief-bij-atletiekunie.html",
     "open_new_window": false,
     "partner": null
   }
