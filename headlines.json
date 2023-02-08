@@ -1,12 +1,58 @@
 [
   {
+    "id": 6250421,
+    "slug": "mh17-onderzoeksteam-poetin-kon-als-enige-de-beslissing-nemen",
+    "type": "video",
+    "title": "MH17-onderzoeksteam: ‘Poetin kon als enige de beslissing nemen’",
+    "subtitle": "Video",
+    "published_at": "2023-02-08T15:18:33+01:00",
+    "updated_at": "2023-02-08T15:18:34+01:00",
+    "media_id": "35cxtyuaocz4",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250421/mh17-onderzoeksteam-poetin-kon-als-enige-de-beslissing-nemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250396,
+    "slug": "mercedes-benz-ontslaat-380-mensen-in-nederland",
+    "type": "article",
+    "title": "Mercedes-Benz ontslaat 380 mensen in Nederland",
+    "subtitle": null,
+    "published_at": "2023-02-08T14:58:13+01:00",
+    "updated_at": "2023-02-08T14:58:14+01:00",
+    "media_id": "bqxx5vqa1ex5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6250396/mercedes-benz-ontslaat-380-mensen-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250399,
     "slug": "tata-steel-moet-110000-euro-betalen-omdat-het-bedrijf-milieuregels-overtrad",
     "type": "article",
     "title": "Tata Steel moet 110.000 euro betalen omdat het bedrijf milieuregels overtrad",
     "subtitle": null,
     "published_at": "2023-02-08T14:28:48+01:00",
-    "updated_at": "2023-02-08T14:38:10+01:00",
+    "updated_at": "2023-02-08T15:14:01+01:00",
     "media_id": "jpbxff4apqpt",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Poetin had rol bij inzet buk-raket die MH17 neerhaalde, maar wordt niet vervolgd",
     "subtitle": null,
     "published_at": "2023-02-08T12:58:36+01:00",
-    "updated_at": "2023-02-08T14:48:25+01:00",
+    "updated_at": "2023-02-08T15:18:51+01:00",
     "media_id": "9rbxplxadz69",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Ieder uitstapje een nieuwe outfit: Máxima en Amalia maken hele andere keuzes",
     "subtitle": null,
     "published_at": "2023-02-08T12:11:56+01:00",
-    "updated_at": "2023-02-08T12:11:57+01:00",
+    "updated_at": "2023-02-08T14:53:50+01:00",
     "media_id": "2igxzebad0dt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6250370/zuid-korea-stemt-voor-afzetting-minister-vanwege-dodelijk-halloweendrama.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250375,
-    "slug": "claudia-de-breij-annuleert-theatertour-heb-tijd-en-rust-nodig",
-    "type": "article",
-    "title": "Claudia de Breij annuleert theatertour: 'Heb tijd en rust nodig'",
-    "subtitle": null,
-    "published_at": "2023-02-08T11:16:00+01:00",
-    "updated_at": "2023-02-08T11:16:57+01:00",
-    "media_id": "427x3ewa7a8l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6250375/claudia-de-breij-annuleert-theatertour-heb-tijd-en-rust-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250371,
-    "slug": "madonna-klaar-met-commentaar-op-veranderd-uiterlijk-leeftijdsdiscriminatie",
-    "type": "article",
-    "title": "Madonna klaar met commentaar op veranderd uiterlijk: 'Leeftijdsdiscriminatie'",
-    "subtitle": null,
-    "published_at": "2023-02-08T11:05:16+01:00",
-    "updated_at": "2023-02-08T11:05:57+01:00",
-    "media_id": "71wxb0aa7owa",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6250371/madonna-klaar-met-commentaar-op-veranderd-uiterlijk-leeftijdsdiscriminatie.html",
     "open_new_window": false,
     "partner": null
   }
