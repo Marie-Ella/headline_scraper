@@ -1,5 +1,51 @@
 [
   {
+    "id": 6250337,
+    "slug": "weerbericht-heldere-en-koude-nacht-gevolgd-door-zonnige-dag",
+    "type": "article",
+    "title": "Weerbericht: Heldere en koude nacht gevolgd door zonnige dag",
+    "subtitle": null,
+    "published_at": "2023-02-08T05:37:49+01:00",
+    "updated_at": "2023-02-08T05:37:50+01:00",
+    "media_id": "4ikxf4yap3rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250337/weerbericht-heldere-en-koude-nacht-gevolgd-door-zonnige-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250336,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-02-08T05:26:00+01:00",
+    "updated_at": "2023-02-08T05:26:01+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6250336/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250335,
     "slug": "raad-van-state-oordeelt-over-strenger-nareisbeleid-voor-familie-van-vluchtelingen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250324/fc-utrecht-verslaat-az-via-verlenging-nu-wel-en-bereikt-kwartfinales-beker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250322,
-    "slug": "kind-na-bijna-een-dag-gered-uit-thaise-put",
-    "type": "video",
-    "title": "Kind na bijna een dag gered uit Thaise put",
-    "subtitle": "Video",
-    "published_at": "2023-02-07T21:15:12+01:00",
-    "updated_at": "2023-02-07T21:15:15+01:00",
-    "media_id": "i52xkl3ayksf",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250322/kind-na-bijna-een-dag-gered-uit-thaise-put.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250318,
-    "slug": "moeder-91-die-veel-figureerde-in-werk-van-marcel-van-roosmalen-overleden",
-    "type": "article",
-    "title": "Moeder (91) die veel figureerde in werk van Marcel van Roosmalen overleden",
-    "subtitle": null,
-    "published_at": "2023-02-07T20:05:39+01:00",
-    "updated_at": "2023-02-07T20:33:59+01:00",
-    "media_id": "yonxripay3uh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6250318/moeder-91-die-veel-figureerde-in-werk-van-marcel-van-roosmalen-overleden.html",
     "open_new_window": false,
     "partner": null
   }
