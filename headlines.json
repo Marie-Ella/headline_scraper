@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250391,
+    "slug": "nieuw-zeelandse-marine-vindt-voor-300-miljoen-euro-aan-cocaine",
+    "type": "video",
+    "title": "Nieuw-Zeelandse marine vindt voor 300 miljoen euro aan cocaïne",
+    "subtitle": "Video",
+    "published_at": "2023-02-08T12:30:21+01:00",
+    "updated_at": "2023-02-08T12:30:22+01:00",
+    "media_id": "ho2x0ppafo23",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6250391/nieuw-zeelandse-marine-vindt-voor-300-miljoen-euro-aan-cocaine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250376,
     "slug": "ieder-uitstapje-een-nieuwe-outfit-maxima-en-amalia-maken-hele-andere-keuzes",
     "type": "article",
@@ -25,13 +48,13 @@
   {
     "id": 6250385,
     "slug": "nieuwe-rol-amalia-tijdens-staatsbezoek-ze-kijkt-goed-naar-haar-moeder",
-    "type": "article",
+    "type": "video",
     "title": "Nieuwe rol Amalia tijdens staatsbezoek: 'Ze kijkt goed naar haar moeder'",
     "subtitle": "Video",
     "published_at": "2023-02-08T12:10:45+01:00",
-    "updated_at": "2023-02-08T12:10:46+01:00",
+    "updated_at": "2023-02-08T12:27:35+01:00",
     "media_id": "mnjxwtdaf5wq",
-    "duration": null,
+    "duration": "1:43",
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250358/nederlandse-reddingswerker-in-turkije-zes-mensen-gered.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250352,
-    "slug": "microsoft-wil-ons-laten-chatten-met-zoekmachine-bing",
-    "type": "article",
-    "title": "Microsoft wil ons laten chatten met zoekmachine Bing",
-    "subtitle": null,
-    "published_at": "2023-02-08T09:31:50+01:00",
-    "updated_at": "2023-02-08T09:31:51+01:00",
-    "media_id": "wp2xzr7ag37a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6250352/microsoft-wil-ons-laten-chatten-met-zoekmachine-bing.html",
     "open_new_window": false,
     "partner": null
   }
