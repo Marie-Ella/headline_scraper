@@ -1,12 +1,58 @@
 [
   {
+    "id": 6250358,
+    "slug": "nederlandse-reddingswerker-in-turkije-zes-mensen-gered",
+    "type": "video",
+    "title": "Nederlandse reddingswerker in Turkije: 'Zes mensen gered'",
+    "subtitle": "Video",
+    "published_at": "2023-02-08T09:37:32+01:00",
+    "updated_at": "2023-02-08T09:37:33+01:00",
+    "media_id": "jkoxw0qagb1w",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250358/nederlandse-reddingswerker-in-turkije-zes-mensen-gered.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250352,
+    "slug": "microsoft-wil-ons-laten-chatten-met-zoekmachine-bing",
+    "type": "article",
+    "title": "Microsoft wil ons laten chatten met zoekmachine Bing",
+    "subtitle": null,
+    "published_at": "2023-02-08T09:31:50+01:00",
+    "updated_at": "2023-02-08T09:31:51+01:00",
+    "media_id": "wp2xzr7ag37a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6250352/microsoft-wil-ons-laten-chatten-met-zoekmachine-bing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249303,
     "slug": "bosz-grijpt-naast-bondscoachschap-bij-belgie-tedesco-37-volgt-martinez-op",
     "type": "article",
     "title": "Bosz grijpt naast bondscoachschap bij België: Tedesco (37) volgt Martínez op",
     "subtitle": null,
     "published_at": "2023-02-08T09:23:22+01:00",
-    "updated_at": "2023-02-08T09:23:23+01:00",
+    "updated_at": "2023-02-08T09:36:00+01:00",
     "media_id": "625xn75aoj5q",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "André van Duin over chantage: 'We zijn hoopvol dat het goed komt'",
     "subtitle": null,
     "published_at": "2023-02-08T06:39:00+01:00",
-    "updated_at": "2023-02-08T09:14:55+01:00",
+    "updated_at": "2023-02-08T09:29:35+01:00",
     "media_id": "c2pxq8labuhx",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Ruim miljoen mensen langs de kant: mismatch op arbeidsmarkt houdt aan",
     "subtitle": null,
     "published_at": "2023-02-08T05:02:56+01:00",
-    "updated_at": "2023-02-08T05:02:57+01:00",
+    "updated_at": "2023-02-08T09:42:39+01:00",
     "media_id": "qklxvvva7nbn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6250277/ruim-miljoen-mensen-langs-de-kant-mismatch-op-arbeidsmarkt-houdt-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250268,
-    "slug": "waarom-record-massaschietpartijen-vs-dit-jaar-mogelijk-wordt-gebroken",
-    "type": "video",
-    "title": "Waarom record massaschietpartijen VS dit jaar mogelijk wordt gebroken",
-    "subtitle": "Video",
-    "published_at": "2023-02-08T05:02:22+01:00",
-    "updated_at": "2023-02-08T09:24:01+01:00",
-    "media_id": "gaixhl3a0se7",
-    "duration": "1:43",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6250268/waarom-record-massaschietpartijen-vs-dit-jaar-mogelijk-wordt-gebroken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250220,
-    "slug": "een-jaar-na-de-kap-verdween-het-sterrebos-voor-niets",
-    "type": "article",
-    "title": "Een jaar na de kap: verdween het Sterrebos voor niets?",
-    "subtitle": "NU+",
-    "published_at": "2023-02-08T05:01:45+01:00",
-    "updated_at": "2023-02-08T05:01:46+01:00",
-    "media_id": "pn1xr80a6htj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6250220/een-jaar-na-de-kap-verdween-het-sterrebos-voor-niets.html",
     "open_new_window": false,
     "partner": null
   }
