@@ -1,5 +1,51 @@
 [
   {
+    "id": 6250625,
+    "slug": "ajax-wint-voetbalgevecht-van-fc-twente-en-staat-in-kwartfinales-beker",
+    "type": "article",
+    "title": "Ajax wint voetbalgevecht van FC Twente en staat in kwartfinales beker",
+    "subtitle": null,
+    "published_at": "2023-02-09T20:45:09+01:00",
+    "updated_at": "2023-02-09T20:45:13+01:00",
+    "media_id": "iz2x1dpanp6m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250625/ajax-wint-voetbalgevecht-van-fc-twente-en-staat-in-kwartfinales-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250623,
+    "slug": "syriers-juichen-op-moment-dat-gezin-onder-puin-vandaan-wordt-gehaald",
+    "type": "video",
+    "title": "Syriërs juichen op moment dat gezin onder puin vandaan wordt gehaald",
+    "subtitle": "Video",
+    "published_at": "2023-02-09T20:31:46+01:00",
+    "updated_at": "2023-02-09T20:43:43+01:00",
+    "media_id": "41bxzqja3136",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6250623/syriers-juichen-op-moment-dat-gezin-onder-puin-vandaan-wordt-gehaald.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250621,
     "slug": "club-van-vermiste-atsu-trekt-zich-terug-uit-turkse-competitie-na-aardbevingen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Ronaldo passeert grens van 500 competitiegoals met vierklapper voor Al Nassr",
     "subtitle": null,
     "published_at": "2023-02-09T19:51:41+01:00",
-    "updated_at": "2023-02-09T20:09:45+01:00",
+    "updated_at": "2023-02-09T20:37:36+01:00",
     "media_id": "puxxe70ao0di",
     "duration": null,
     "canonical_section": {
@@ -93,13 +139,13 @@
   },
   {
     "id": 6250616,
-    "slug": "van-de-duin-pakt-ek-brons-bij-afvalkoers-wereldkampioen-havik-stelt-teleur",
+    "slug": "hoogland-pakt-met-overmacht-ek-goud-van-der-duin-wint-brons-bij-afvalkoers",
     "type": "article",
-    "title": "Van de Duin pakt EK-brons bij afvalkoers, wereldkampioen Havik stelt teleur",
+    "title": "Hoogland pakt met overmacht EK-goud, Van der Duin wint brons bij afvalkoers",
     "subtitle": null,
     "published_at": "2023-02-09T19:11:32+01:00",
-    "updated_at": "2023-02-09T20:00:58+01:00",
-    "media_id": "x61xjx2ahve4",
+    "updated_at": "2023-02-09T20:33:43+01:00",
+    "media_id": "ebnxavpapd52",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6250616/van-de-duin-pakt-ek-brons-bij-afvalkoers-wereldkampioen-havik-stelt-teleur.html",
+    "url": "/wielrennen/6250616/hoogland-pakt-met-overmacht-ek-goud-van-der-duin-wint-brons-bij-afvalkoers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Vanaf half mei mag je niet meer blowen in de oude binnenstad van Amsterdam",
     "subtitle": null,
     "published_at": "2023-02-09T18:25:19+01:00",
-    "updated_at": "2023-02-09T18:47:09+01:00",
+    "updated_at": "2023-02-09T20:35:18+01:00",
     "media_id": "97nxbxfa6lik",
     "duration": null,
     "canonical_section": {
@@ -300,12 +346,12 @@
   },
   {
     "id": 6250609,
-    "slug": "kudus-zet-ajax-op-voorsprong-in-kraker-tegen-fc-twente",
+    "slug": "reacties-na-zwaarbevochten-zege-ajax-bij-fc-twente",
     "type": "article",
-    "title": "Kudus zet Ajax op voorsprong in kraker tegen FC Twente",
+    "title": "Reacties na zwaarbevochten zege Ajax bij FC Twente",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-02-09T18:05:43+01:00",
-    "updated_at": "2023-02-09T20:25:27+01:00",
+    "updated_at": "2023-02-09T20:45:39+01:00",
     "media_id": "28nx0vpay8h1",
     "duration": null,
     "canonical_section": {
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6250609/kudus-zet-ajax-op-voorsprong-in-kraker-tegen-fc-twente.html",
+    "url": "/voetbal/6250609/reacties-na-zwaarbevochten-zege-ajax-bij-fc-twente.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250592/ajax-coach-heitinga-kiest-ook-in-bekerkraker-bij-fc-twente-voor-dezelfde-basiself.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250601,
-    "slug": "hoe-worden-gebouwen-aardbevingsbestendig-gebouwd",
-    "type": "video",
-    "title": "Hoe worden gebouwen aardbevingsbestendig gebouwd?",
-    "subtitle": "Video",
-    "published_at": "2023-02-09T17:20:50+01:00",
-    "updated_at": "2023-02-09T17:20:51+01:00",
-    "media_id": "b57x3awa5f3c",
-    "duration": "1:35",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6250601/hoe-worden-gebouwen-aardbevingsbestendig-gebouwd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250594,
-    "slug": "europese-clubs-fel-op-nieuwe-super-league-plannen-een-misleidende-poging",
-    "type": "article",
-    "title": "Europese clubs fel op nieuwe Super League-plannen: 'Een misleidende poging'",
-    "subtitle": null,
-    "published_at": "2023-02-09T17:13:26+01:00",
-    "updated_at": "2023-02-09T18:03:24+01:00",
-    "media_id": "basx0dua1313",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250594/europese-clubs-fel-op-nieuwe-super-league-plannen-een-misleidende-poging.html",
     "open_new_window": false,
     "partner": null
   }
