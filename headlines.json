@@ -1,12 +1,81 @@
 [
   {
-    "id": 6250812,
-    "slug": "chariots-of-fire-regisseur-hugh-hudson-overleden-op-86-jarige-leeftijd",
+    "id": 6250512,
+    "slug": "door-ov-stakingen-gebruiken-we-meer-deelfietsen-en-deelscooters",
     "type": "article",
-    "title": "Chariots of Fire-regisseur Hugh Hudson overleden op 86-jarige leeftijd",
+    "title": "Door ov-stakingen gebruiken we meer deelfietsen en deelscooters",
+    "subtitle": null,
+    "published_at": "2023-02-10T22:06:31+01:00",
+    "updated_at": "2023-02-10T22:06:32+01:00",
+    "media_id": "xg8xen3aggdi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250512/door-ov-stakingen-gebruiken-we-meer-deelfietsen-en-deelscooters.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250813,
+    "slug": "koploper-pec-zwolle-zet-sterke-reeks-voort-achtervolger-heracles-weer-onderuit",
+    "type": "article",
+    "title": "Koploper PEC Zwolle zet sterke reeks voort, achtervolger Heracles weer onderuit",
+    "subtitle": null,
+    "published_at": "2023-02-10T21:57:10+01:00",
+    "updated_at": "2023-02-10T22:14:42+01:00",
+    "media_id": "ia2xtt1a9gzn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250813/koploper-pec-zwolle-zet-sterke-reeks-voort-achtervolger-heracles-weer-onderuit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250807,
+    "slug": "az-overklast-excelsior-in-eerste-helft-en-neemt-koppositie-over-van-feyenoord",
+    "type": "article",
+    "title": "AZ overklast Excelsior in eerste helft en neemt koppositie over van Feyenoord",
+    "subtitle": null,
+    "published_at": "2023-02-10T21:53:05+01:00",
+    "updated_at": "2023-02-10T21:55:28+01:00",
+    "media_id": "8h9xqltakixp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250807/az-overklast-excelsior-in-eerste-helft-en-neemt-koppositie-over-van-feyenoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250812,
+    "slug": "chariots-of-fire-regisseur-hugh-hudson-op-86-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Chariots of Fire-regisseur Hugh Hudson op 86-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-02-10T21:46:19+01:00",
-    "updated_at": "2023-02-10T21:46:20+01:00",
+    "updated_at": "2023-02-10T22:15:15+01:00",
     "media_id": "zl2xybtatkrl",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6250812/chariots-of-fire-regisseur-hugh-hudson-overleden-op-86-jarige-leeftijd.html",
+    "url": "/film/6250812/chariots-of-fire-regisseur-hugh-hudson-op-86-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Reddingswerkers vinden Turkse jongen na 94 uur: 'Ik dronk urine'",
     "subtitle": "Video",
     "published_at": "2023-02-10T21:33:15+01:00",
-    "updated_at": "2023-02-10T21:33:16+01:00",
+    "updated_at": "2023-02-10T21:53:05+01:00",
     "media_id": "tfjx9yqa5szu",
     "duration": "0:45",
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Feyenoord en coach Torny winnen weer niet in Vrouwen Eredivisie",
     "subtitle": null,
     "published_at": "2023-02-10T21:29:00+01:00",
-    "updated_at": "2023-02-10T21:30:11+01:00",
+    "updated_at": "2023-02-10T22:00:43+01:00",
     "media_id": "ixfx1u9aswfz",
     "duration": null,
     "canonical_section": {
@@ -72,10 +141,10 @@
     "id": 6250808,
     "slug": "dit-is-dit-jaar-de-winnaar-van-de-slimste-mens",
     "type": "video",
-    "title": "Dit is dit jaar de winnaar van De Slimste Mens",
+    "title": "Dit is dit jaar de winnaar van De slimste mens",
     "subtitle": "Video",
     "published_at": "2023-02-10T21:20:52+01:00",
-    "updated_at": "2023-02-10T21:31:11+01:00",
+    "updated_at": "2023-02-10T22:01:33+01:00",
     "media_id": "7oax9tka67h5",
     "duration": "0:43",
     "canonical_section": {
@@ -144,8 +213,8 @@
     "title": "VS schiet onbekend object boven Alaska uit de lucht",
     "subtitle": null,
     "published_at": "2023-02-10T21:02:16+01:00",
-    "updated_at": "2023-02-10T21:12:07+01:00",
-    "media_id": "cxdx4glaj5ac",
+    "updated_at": "2023-02-10T21:51:05+01:00",
+    "media_id": "4jyxtqxan48q",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -300,12 +369,12 @@
   },
   {
     "id": 6250795,
-    "slug": "az-op-weg-naar-koppositie-en-klinkende-zege-op-excelsior",
+    "slug": "reacties-na-klinkende-zege-van-koploper-az",
     "type": "article",
-    "title": "AZ op weg naar koppositie en klinkende zege op Excelsior",
+    "title": "Reacties na klinkende zege van koploper AZ",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-02-10T19:43:55+01:00",
-    "updated_at": "2023-02-10T21:36:49+01:00",
+    "updated_at": "2023-02-10T21:57:52+01:00",
     "media_id": "ew6xm8qak8ix",
     "duration": null,
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6250795/az-op-weg-naar-koppositie-en-klinkende-zege-op-excelsior.html",
+    "url": "/voetbal/6250795/reacties-na-klinkende-zege-van-koploper-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6250742/krijg-je-doorbetaald-als-je-staakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250788,
-    "slug": "massa-is-kassa-realityster-peter-gillis-en-nicol-kremers-zijn-uit-elkaar",
-    "type": "article",
-    "title": "Massa is Kassa-realityster Peter Gillis en Nicol Kremers zijn uit elkaar",
-    "subtitle": null,
-    "published_at": "2023-02-10T18:41:01+01:00",
-    "updated_at": "2023-02-10T18:41:02+01:00",
-    "media_id": "8e4xaata6qlt",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6250788/massa-is-kassa-realityster-peter-gillis-en-nicol-kremers-zijn-uit-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250782,
-    "slug": "bijzondere-kruising-tussen-grijze-en-gewone-zeehond-in-deens-museum-geboren",
-    "type": "article",
-    "title": "Bijzondere kruising tussen grijze en gewone zeehond in Deens museum geboren",
-    "subtitle": null,
-    "published_at": "2023-02-10T18:40:31+01:00",
-    "updated_at": "2023-02-10T18:40:32+01:00",
-    "media_id": "v3pxskianei1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6250782/bijzondere-kruising-tussen-grijze-en-gewone-zeehond-in-deens-museum-geboren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250786,
-    "slug": "groenewoud-pakt-brons-op-3-kilometer-in-polen-eindzege-wiklund-in-wereldbeker",
-    "type": "article",
-    "title": "Groenewoud pakt brons op 3 kilometer in Polen, eindzege Wiklund in wereldbeker",
-    "subtitle": null,
-    "published_at": "2023-02-10T18:27:17+01:00",
-    "updated_at": "2023-02-10T19:47:24+01:00",
-    "media_id": "dwaxwpzajovq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6250786/groenewoud-pakt-brons-op-3-kilometer-in-polen-eindzege-wiklund-in-wereldbeker.html",
     "open_new_window": false,
     "partner": null
   }
