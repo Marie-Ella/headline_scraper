@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250974,
+    "slug": "belgische-missverkiezing-later-van-start-door-verijdelde-aanslag",
+    "type": "video",
+    "title": "Belgische missverkiezing later van start door verijdelde aanslag",
+    "subtitle": "Video",
+    "published_at": "2023-02-12T17:28:27+01:00",
+    "updated_at": "2023-02-12T17:28:28+01:00",
+    "media_id": "wfdxpzaahc27",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6250974/belgische-missverkiezing-later-van-start-door-verijdelde-aanslag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250973,
     "slug": "kokcu-krijgt-geel-en-is-geschorst-tegen-az-was-ik-nog-maar-die-luie-speler",
     "type": "article",
     "title": "Kökçü krijgt geel en is geschorst tegen AZ: 'Was ik nog maar die luie speler'",
     "subtitle": null,
     "published_at": "2023-02-12T17:22:54+01:00",
-    "updated_at": "2023-02-12T17:22:55+01:00",
+    "updated_at": "2023-02-12T17:35:07+01:00",
     "media_id": "mlvxxksadazg",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ongenaakbare Lavreysen verovert ook EK-goud op keirin, Hoogland pakt brons",
     "subtitle": null,
     "published_at": "2023-02-12T17:21:25+01:00",
-    "updated_at": "2023-02-12T17:21:26+01:00",
+    "updated_at": "2023-02-12T17:34:30+01:00",
     "media_id": "6hfxushadpu0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Weghorst belangrijk bij zwaarbevochten zege Manchester United op Leeds United",
     "subtitle": null,
     "published_at": "2023-02-12T17:07:46+01:00",
-    "updated_at": "2023-02-12T17:20:45+01:00",
+    "updated_at": "2023-02-12T17:30:52+01:00",
     "media_id": "m5hxn9wauw1j",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6250970,
-    "slug": "goetz-verrast-op-1000-meter-bij-afwezigheid-leerdam-bijrol-nederlanders",
+    "slug": "otterspeer-verslaat-nuis-op-1000-meter-bij-world-cup-in-polen",
     "type": "article",
-    "title": "Goetz verrast op 1.000 meter bij afwezigheid Leerdam, bijrol Nederlanders",
+    "title": "Otterspeer verslaat Nuis op 1.000 meter bij World Cup in Polen",
     "subtitle": null,
     "published_at": "2023-02-12T16:53:32+01:00",
-    "updated_at": "2023-02-12T16:56:13+01:00",
-    "media_id": "egdxptdad90g",
+    "updated_at": "2023-02-12T17:37:02+01:00",
+    "media_id": "70pxgvvaro75",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -110,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6250970/goetz-verrast-op-1000-meter-bij-afwezigheid-leerdam-bijrol-nederlanders.html",
+    "url": "/schaatsen/6250970/otterspeer-verslaat-nuis-op-1000-meter-bij-world-cup-in-polen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Gewapende man bij Miss België-verkiezing verdacht van poging tot terreurmoord",
     "subtitle": null,
     "published_at": "2023-02-12T16:49:34+01:00",
-    "updated_at": "2023-02-12T17:11:33+01:00",
+    "updated_at": "2023-02-12T17:43:56+01:00",
     "media_id": "wwixzxhapbx8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250948/gaziantep-trekt-zich-als-tweede-club-terug-uit-turkse-super-lig-na-aardbevingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250950,
-    "slug": "psv-vrouwen-boekt-door-late-treffer-brugts-knappe-zege-bij-fortuna-sittard",
-    "type": "article",
-    "title": "PSV Vrouwen boekt door late treffer Brugts knappe zege bij Fortuna Sittard",
-    "subtitle": null,
-    "published_at": "2023-02-12T14:17:52+01:00",
-    "updated_at": "2023-02-12T14:28:10+01:00",
-    "media_id": "6a3xqavamn8d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250950/psv-vrouwen-boekt-door-late-treffer-brugts-knappe-zege-bij-fortuna-sittard.html",
     "open_new_window": false,
     "partner": null
   }
