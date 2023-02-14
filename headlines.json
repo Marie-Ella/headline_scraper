@@ -1,12 +1,81 @@
 [
   {
+    "id": 6251211,
+    "slug": "inval-bij-kantoren-van-bbc-in-india-na-omstreden-documentaire",
+    "type": "article",
+    "title": "Inval bij kantoren van BBC in India na omstreden documentaire",
+    "subtitle": null,
+    "published_at": "2023-02-14T12:10:17+01:00",
+    "updated_at": "2023-02-14T12:10:18+01:00",
+    "media_id": "ipex9snazxj5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6251211/inval-bij-kantoren-van-bbc-in-india-na-omstreden-documentaire.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251210,
+    "slug": "jetro-willems-krijgt-kans-om-zich-te-bewijzen-op-trainingsveld-fc-groningen",
+    "type": "article",
+    "title": "Jetro Willems krijgt kans om zich te bewijzen op trainingsveld FC Groningen",
+    "subtitle": null,
+    "published_at": "2023-02-14T11:58:24+01:00",
+    "updated_at": "2023-02-14T11:58:25+01:00",
+    "media_id": "7k9xd9uajpfb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251210/jetro-willems-krijgt-kans-om-zich-te-bewijzen-op-trainingsveld-fc-groningen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251209,
+    "slug": "berger-haalt-autos-van-a7-na-botsing-door-mist",
+    "type": "video",
+    "title": "Berger haalt auto's van A7 na botsing door mist",
+    "subtitle": "Video",
+    "published_at": "2023-02-14T11:53:37+01:00",
+    "updated_at": "2023-02-14T11:53:38+01:00",
+    "media_id": "vvjxye7aixrd",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251209/berger-haalt-autos-van-a7-na-botsing-door-mist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251207,
     "slug": "vissersboot-botst-op-veerpont-in-golf-van-thailand",
     "type": "video",
     "title": "Vissersboot botst op veerpont in Golf van Thailand",
     "subtitle": "Video",
     "published_at": "2023-02-14T11:47:34+01:00",
-    "updated_at": "2023-02-14T11:47:35+01:00",
+    "updated_at": "2023-02-14T11:50:18+01:00",
     "media_id": "5vix0lhakmwj",
     "duration": "0:28",
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Drake over zijn belachelijk gemaakte verlovingsketting: 'Was maar een grapje'",
     "subtitle": null,
     "published_at": "2023-02-14T11:29:05+01:00",
-    "updated_at": "2023-02-14T11:42:03+01:00",
+    "updated_at": "2023-02-14T12:06:28+01:00",
     "media_id": "9y0x3qua7eo3",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "RTL, Talpa en NPO gaan samenwerken voor een veilige werkomgeving",
     "subtitle": null,
     "published_at": "2023-02-14T11:06:45+01:00",
-    "updated_at": "2023-02-14T11:47:19+01:00",
+    "updated_at": "2023-02-14T12:08:04+01:00",
     "media_id": "wgfxn1aaip3z",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Marechaussee discrimineerde bij grenscontroles, mag huidskleur niet meewegen",
     "subtitle": null,
     "published_at": "2023-02-14T10:29:10+01:00",
-    "updated_at": "2023-02-14T11:46:13+01:00",
+    "updated_at": "2023-02-14T11:54:48+01:00",
     "media_id": "1e2xsllawmag",
     "duration": null,
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Popgroep S Club 7 van hit Bring It All Back treedt weer op voor 25-jarig bestaan",
     "subtitle": null,
     "published_at": "2023-02-14T09:24:25+01:00",
-    "updated_at": "2023-02-14T11:45:40+01:00",
+    "updated_at": "2023-02-14T12:11:30+01:00",
     "media_id": "63rx6f6axw1j",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Pensioenfonds PFZW verkoopt belangen in fossiele bedrijven",
     "subtitle": null,
     "published_at": "2023-02-14T08:31:07+01:00",
-    "updated_at": "2023-02-14T09:08:12+01:00",
+    "updated_at": "2023-02-14T11:50:05+01:00",
     "media_id": "fr1xmrxa3b64",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6251178/randstad-groeit-minder-hard-vanwege-angst-voor-recessie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251177,
-    "slug": "gakpo-dolblij-met-eerste-goal-voor-liverpool-moest-langer-wachten-dan-gehoopt",
-    "type": "article",
-    "title": "Gakpo dolblij met eerste goal voor Liverpool: 'Moest langer wachten dan gehoopt'",
-    "subtitle": null,
-    "published_at": "2023-02-14T07:40:38+01:00",
-    "updated_at": "2023-02-14T09:14:35+01:00",
-    "media_id": "3j1x17habogf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251177/gakpo-dolblij-met-eerste-goal-voor-liverpool-moest-langer-wachten-dan-gehoopt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251176,
-    "slug": "choreograaf-die-criticus-met-poep-besmeurde-absoluut-geen-geweldige-keuze",
-    "type": "article",
-    "title": "Choreograaf die criticus met poep besmeurde: 'Absoluut geen geweldige keuze'",
-    "subtitle": null,
-    "published_at": "2023-02-14T07:30:06+01:00",
-    "updated_at": "2023-02-14T08:27:44+01:00",
-    "media_id": "uy3x5w1apxg7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6251176/choreograaf-die-criticus-met-poep-besmeurde-absoluut-geen-geweldige-keuze.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251120,
-    "slug": "stelling-alcohol-moet-net-zo-streng-gereguleerd-worden-als-tabak",
-    "type": "article",
-    "title": "Stelling: Alcohol moet net zo streng gereguleerd worden als tabak",
-    "subtitle": null,
-    "published_at": "2023-02-14T07:23:33+01:00",
-    "updated_at": "2023-02-14T07:23:34+01:00",
-    "media_id": "bwvxgmla1f27",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6251120/stelling-alcohol-moet-net-zo-streng-gereguleerd-worden-als-tabak.html",
     "open_new_window": false,
     "partner": null
   }
