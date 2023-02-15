@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251477,
+    "slug": "spreeuwenzwerm-zorgt-voor-spektakel-boven-friese-grou",
+    "type": "video",
+    "title": "Spreeuwenzwerm zorgt voor spektakel boven Friese Grou",
+    "subtitle": "Video",
+    "published_at": "2023-02-15T21:47:42+01:00",
+    "updated_at": "2023-02-15T21:47:43+01:00",
+    "media_id": "nptxemfah71o",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251477/spreeuwenzwerm-zorgt-voor-spektakel-boven-friese-grou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251473,
     "slug": "actrice-raquel-welch-op-82-jarige-leeftijd-overleden",
     "type": "article",
     "title": "Actrice Raquel Welch op 82-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-02-15T21:09:50+01:00",
-    "updated_at": "2023-02-15T21:37:26+01:00",
+    "updated_at": "2023-02-15T22:08:12+01:00",
     "media_id": "n7mx76iamzf7",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6251471,
-    "slug": "joao-felix-schiet-op-de-lat-brugge-en-benfica-nog-in-evenwicht",
+    "slug": "chelsea-dringt-aan-tegen-dortmund-benfica-op-voorsprong",
     "type": "article",
-    "title": "João Félix schiet op de lat, Brugge en Benfica nog in evenwicht",
+    "title": "Chelsea dringt aan tegen Dortmund, Benfica op voorsprong",
     "subtitle": "Liveblog CL",
     "published_at": "2023-02-15T20:27:26+01:00",
-    "updated_at": "2023-02-15T21:43:36+01:00",
-    "media_id": "0qwx4e2ar4gt",
+    "updated_at": "2023-02-15T22:16:21+01:00",
+    "media_id": "titx3ywa0tk5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6251471/joao-felix-schiet-op-de-lat-brugge-en-benfica-nog-in-evenwicht.html",
+    "url": "/voetbal/6251471/chelsea-dringt-aan-tegen-dortmund-benfica-op-voorsprong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251453/schutter-zwijndrecht-nog-steeds-voortvluchtig-hoe-kan-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251452,
-    "slug": "wolk-salpeterzuur-komt-vrij-bij-ongeluk-in-vs",
-    "type": "video",
-    "title": "Wolk salpeterzuur komt vrij bij ongeluk in VS",
-    "subtitle": "Video",
-    "published_at": "2023-02-15T17:53:30+01:00",
-    "updated_at": "2023-02-15T18:05:15+01:00",
-    "media_id": "ggfxezka5xi7",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251452/wolk-salpeterzuur-komt-vrij-bij-ongeluk-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
