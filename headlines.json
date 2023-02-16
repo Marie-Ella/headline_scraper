@@ -1,5 +1,51 @@
 [
   {
+    "id": 6251537,
+    "slug": "dossiers-300000-verdachten-van-collaboratie-wo-ii-vanaf-2025-online-in-te-zien",
+    "type": "article",
+    "title": "Dossiers 300.000 verdachten van collaboratie WO II vanaf 2025 online in te zien",
+    "subtitle": null,
+    "published_at": "2023-02-16T12:43:37+01:00",
+    "updated_at": "2023-02-16T12:43:39+01:00",
+    "media_id": "6atxuwca6dsi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251537/dossiers-300000-verdachten-van-collaboratie-wo-ii-vanaf-2025-online-in-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251533,
+    "slug": "lezers-over-de-financiele-problemen-van-verpakkingsvrije-supermarkt-pieter-pot",
+    "type": "article",
+    "title": "Lezers over de financiële problemen van verpakkingsvrije supermarkt Pieter Pot",
+    "subtitle": null,
+    "published_at": "2023-02-16T12:35:04+01:00",
+    "updated_at": "2023-02-16T12:35:05+01:00",
+    "media_id": "ozixauxagx0n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6251533/lezers-over-de-financiele-problemen-van-verpakkingsvrije-supermarkt-pieter-pot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251545,
     "slug": "tottenham-hotspur-moet-geopereerde-conte-toch-nog-een-tijdje-missen",
     "type": "article",
@@ -98,8 +144,8 @@
     "title": "Maker van Nescafé, KitKat en Maggi verhoogt prijzen opnieuw",
     "subtitle": null,
     "published_at": "2023-02-16T11:46:36+01:00",
-    "updated_at": "2023-02-16T11:46:37+01:00",
-    "media_id": "zfsxxxfamz9i",
+    "updated_at": "2023-02-16T12:33:09+01:00",
+    "media_id": "xmnx6rrae1zt",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -277,12 +323,12 @@
   },
   {
     "id": 6251516,
-    "slug": "alleen-op-de-markt-kun-je-altijd-met-contant-geld-betalen",
+    "slug": "de-markt-is-nog-de-enige-plek-waar-je-altijd-contant-kan-betalen",
     "type": "article",
-    "title": "Alleen op de markt kun je altijd met contant geld betalen",
+    "title": "De markt is nog de enige plek waar je altijd contant kan betalen",
     "subtitle": null,
     "published_at": "2023-02-16T10:16:24+01:00",
-    "updated_at": "2023-02-16T12:22:28+01:00",
+    "updated_at": "2023-02-16T12:35:44+01:00",
     "media_id": "o7nxetna5owv",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6251516/alleen-op-de-markt-kun-je-altijd-met-contant-geld-betalen.html",
+    "url": "/algemeen/6251516/de-markt-is-nog-de-enige-plek-waar-je-altijd-contant-kan-betalen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6251506/met-de-auto-trein-of-fiets-praat-mee-over-reizen-naar-je-werk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251510,
-    "slug": "alcaraz-bekroont-langverwachte-rentree-op-tennisbaan-met-winst",
-    "type": "article",
-    "title": "Alcaraz bekroont langverwachte rentree op tennisbaan met winst",
-    "subtitle": null,
-    "published_at": "2023-02-16T08:50:35+01:00",
-    "updated_at": "2023-02-16T08:53:50+01:00",
-    "media_id": "pc4x3a0agq4c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6251510/alcaraz-bekroont-langverwachte-rentree-op-tennisbaan-met-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251507,
-    "slug": "verpakkingsvrije-supermarkt-pieter-pot-in-financiele-problemen",
-    "type": "article",
-    "title": "Verpakkingsvrije supermarkt Pieter Pot in financiële problemen",
-    "subtitle": null,
-    "published_at": "2023-02-16T08:29:55+01:00",
-    "updated_at": "2023-02-16T12:07:00+01:00",
-    "media_id": "3uxxtj9af0tn",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251507/verpakkingsvrije-supermarkt-pieter-pot-in-financiele-problemen.html",
     "open_new_window": false,
     "partner": null
   }
