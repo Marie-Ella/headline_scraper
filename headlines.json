@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251536,
+    "slug": "benfica-fans-spuiten-brandblusser-leeg-in-thuisvak-club-brugge",
+    "type": "video",
+    "title": "Benfica-fans spuiten brandblusser leeg in thuisvak Club Brugge",
+    "subtitle": "Video",
+    "published_at": "2023-02-16T11:24:17+01:00",
+    "updated_at": "2023-02-16T11:24:18+01:00",
+    "media_id": "3o6xxy2aerta",
+    "duration": "0:26",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6251536/benfica-fans-spuiten-brandblusser-leeg-in-thuisvak-club-brugge.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251532,
-    "slug": "amsterdam-vreest-niet-voor-stank-en-ratten-door-staking-wel-beroep-op-bewoners",
+    "slug": "amsterdam-vreest-geen-overlast-door-staking-doet-wel-beroep-op-bewoners",
     "type": "article",
-    "title": "Amsterdam vreest niet voor stank en ratten door staking, wel beroep op bewoners",
+    "title": "Amsterdam vreest geen overlast door staking, doet wel beroep op bewoners",
     "subtitle": null,
     "published_at": "2023-02-16T11:06:10+01:00",
-    "updated_at": "2023-02-16T11:20:57+01:00",
+    "updated_at": "2023-02-16T11:32:48+01:00",
     "media_id": "0gdxgnga3aj2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6251532/amsterdam-vreest-niet-voor-stank-en-ratten-door-staking-wel-beroep-op-bewoners.html",
+    "url": "/binnenland/6251532/amsterdam-vreest-geen-overlast-door-staking-doet-wel-beroep-op-bewoners.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6251501/onschuldige-amerikaan-geemotioneerd-als-hij-na-28-jaar-vrijkomt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251500,
-    "slug": "griekspoor-ziet-zege-op-zverev-in-ahoy-als-een-van-zijn-mooiste-prestaties",
-    "type": "article",
-    "title": "Griekspoor ziet zege op Zverev in Ahoy als een van zijn mooiste prestaties",
-    "subtitle": null,
-    "published_at": "2023-02-16T07:32:59+01:00",
-    "updated_at": "2023-02-16T10:43:57+01:00",
-    "media_id": "cqtx6tma0m74",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6251500/griekspoor-ziet-zege-op-zverev-in-ahoy-als-een-van-zijn-mooiste-prestaties.html",
     "open_new_window": false,
     "partner": null
   }
