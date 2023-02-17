@@ -1,13 +1,59 @@
 [
   {
+    "id": 6251712,
+    "slug": "mexicaans-leger-eert-reddingshond-die-in-turkije-overleed",
+    "type": "video",
+    "title": "Mexicaans leger eert reddingshond die in Turkije overleed",
+    "subtitle": "Video",
+    "published_at": "2023-02-17T11:12:29+01:00",
+    "updated_at": "2023-02-17T11:12:32+01:00",
+    "media_id": "kdox1i9amx48",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6251712/mexicaans-leger-eert-reddingshond-die-in-turkije-overleed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251710,
+    "slug": "amy-pieters-heeft-door-epileptische-aanvallen-terugslag-in-revalidatie",
+    "type": "article",
+    "title": "Amy Pieters heeft door epileptische aanvallen terugslag in revalidatie",
+    "subtitle": null,
+    "published_at": "2023-02-17T11:05:45+01:00",
+    "updated_at": "2023-02-17T11:09:49+01:00",
+    "media_id": "038xb24azrjp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6251710/amy-pieters-heeft-door-epileptische-aanvallen-terugslag-in-revalidatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251708,
     "slug": "fc-twente-verwacht-bruggink-binnenkort-aan-te-stellen-als-technisch-directeur",
     "type": "article",
     "title": "FC Twente verwacht Bruggink binnenkort aan te stellen als technisch directeur",
     "subtitle": null,
     "published_at": "2023-02-17T10:45:59+01:00",
-    "updated_at": "2023-02-17T10:46:00+01:00",
-    "media_id": "m33x082a58t3",
+    "updated_at": "2023-02-17T11:21:06+01:00",
+    "media_id": "od7xpc2aexrm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -52,7 +98,7 @@
     "title": "Supersnelle hyperloop weer stapje dichterbij door nieuw ontwerp van TU Delft",
     "subtitle": null,
     "published_at": "2023-02-17T10:26:10+01:00",
-    "updated_at": "2023-02-17T10:26:11+01:00",
+    "updated_at": "2023-02-17T10:47:51+01:00",
     "media_id": "qr3xqksanhdw",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Detectiveserie Starsky & Hutch krijgt nieuwe versie met twee vrouwelijke agenten",
     "subtitle": null,
     "published_at": "2023-02-17T09:29:54+01:00",
-    "updated_at": "2023-02-17T09:31:30+01:00",
+    "updated_at": "2023-02-17T10:54:02+01:00",
     "media_id": "j87xqwgam6x6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6251530/stelling-het-moet-altijd-mogelijk-zijn-om-met-contant-geld-te-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251624,
-    "slug": "topgevechten-op-komst-bij-glory-na-tien-jaar-weer-prestigieuze-grand-prix",
-    "type": "article",
-    "title": "Topgevechten op komst bij GLORY: na tien jaar weer prestigieuze Grand Prix",
-    "subtitle": null,
-    "published_at": "2023-02-17T06:55:25+01:00",
-    "updated_at": "2023-02-17T10:18:24+01:00",
-    "media_id": "fuwxmijaz8mj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6251624/topgevechten-op-komst-bij-glory-na-tien-jaar-weer-prestigieuze-grand-prix.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251668,
-    "slug": "ajax-houdt-hoop-voor-return-weet-zeker-dat-we-daar-wel-op-doel-schieten",
-    "type": "article",
-    "title": "Ajax houdt hoop voor return: 'Weet zeker dat we daar wel op doel schieten'",
-    "subtitle": null,
-    "published_at": "2023-02-17T06:31:40+01:00",
-    "updated_at": "2023-02-17T07:59:46+01:00",
-    "media_id": "hr1xfnbak44u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251668/ajax-houdt-hoop-voor-return-weet-zeker-dat-we-daar-wel-op-doel-schieten.html",
     "open_new_window": false,
     "partner": null
   }
