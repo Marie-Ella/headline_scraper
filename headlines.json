@@ -1,12 +1,58 @@
 [
   {
+    "id": 6251694,
+    "slug": "omroepen-passen-eind-maart-hun-journalistieke-code-aan",
+    "type": "article",
+    "title": "Omroepen passen eind maart hun journalistieke code aan",
+    "subtitle": null,
+    "published_at": "2023-02-17T09:44:41+01:00",
+    "updated_at": "2023-02-17T09:44:42+01:00",
+    "media_id": "makxs1kamsn1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6251694/omroepen-passen-eind-maart-hun-journalistieke-code-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251691,
+    "slug": "detectiveserie-starsky-hutch-krijgt-nieuwe-versie-met-twee-vrouwelijke-agenten",
+    "type": "article",
+    "title": "Detectiveserie Starsky & Hutch krijgt nieuwe versie met twee vrouwelijke agenten",
+    "subtitle": null,
+    "published_at": "2023-02-17T09:29:54+01:00",
+    "updated_at": "2023-02-17T09:31:30+01:00",
+    "media_id": "j87xqwgam6x6",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6251691/detectiveserie-starsky-hutch-krijgt-nieuwe-versie-met-twee-vrouwelijke-agenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251685,
     "slug": "rebel-wilson-mocht-niet-afvallen-voor-pitch-perfect-wilde-gezond-worden",
     "type": "article",
     "title": "Rebel Wilson mocht niet afvallen voor Pitch Perfect: 'Wilde gezond worden'",
     "subtitle": null,
     "published_at": "2023-02-17T09:11:23+01:00",
-    "updated_at": "2023-02-17T09:11:24+01:00",
+    "updated_at": "2023-02-17T09:31:42+01:00",
     "media_id": "osnx7ckaz2tp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Weghorst verrassend als middenvelder in Camp Nou: 'Mijn taak was irritant doen'",
     "subtitle": null,
     "published_at": "2023-02-17T08:59:51+01:00",
-    "updated_at": "2023-02-17T09:21:05+01:00",
+    "updated_at": "2023-02-17T09:28:27+01:00",
     "media_id": "ppjxa27addv6",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Klein verlies voor KLM door problemen op Schiphol",
     "subtitle": null,
     "published_at": "2023-02-17T07:30:18+01:00",
-    "updated_at": "2023-02-17T09:15:20+01:00",
+    "updated_at": "2023-02-17T09:32:36+01:00",
     "media_id": "8tvxbtbap6zm",
     "duration": null,
     "canonical_section": {
@@ -397,8 +443,8 @@
     "title": "Dominantie Verstappen en Red Bull leidt tot kopieergedrag bij teams",
     "subtitle": "NU+",
     "published_at": "2023-02-17T05:11:28+01:00",
-    "updated_at": "2023-02-17T06:32:09+01:00",
-    "media_id": "sg6xe7aahkuk",
+    "updated_at": "2023-02-17T09:31:15+01:00",
+    "media_id": "hdaxwq0aw22c",
     "duration": null,
     "canonical_section": {
       "id": 1778846,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6251592/dominantie-verstappen-en-red-bull-leidt-tot-kopieergedrag-bij-teams.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251616,
-    "slug": "hoe-de-russen-proberen-het-oekraiense-luchtafweersysteem-uit-te-putten",
-    "type": "video",
-    "title": "Hoe de Russen proberen het Oekraïense luchtafweersysteem uit te putten",
-    "subtitle": "Video",
-    "published_at": "2023-02-17T05:10:18+01:00",
-    "updated_at": "2023-02-17T05:10:18+01:00",
-    "media_id": "b0gx2v8a7ucw",
-    "duration": "2:32",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6251616/hoe-de-russen-proberen-het-oekraiense-luchtafweersysteem-uit-te-putten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251583,
-    "slug": "erdogan-en-zijn-regering-onder-vergrootglas-in-nasleep-van-aardbevingen",
-    "type": "article",
-    "title": "Erdogan en zijn regering onder vergrootglas in nasleep van aardbevingen",
-    "subtitle": "NU+",
-    "published_at": "2023-02-17T05:08:40+01:00",
-    "updated_at": "2023-02-17T05:08:42+01:00",
-    "media_id": "zwnx051asut0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251583/erdogan-en-zijn-regering-onder-vergrootglas-in-nasleep-van-aardbevingen.html",
     "open_new_window": false,
     "partner": null
   }
