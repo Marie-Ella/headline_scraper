@@ -1,12 +1,58 @@
 [
   {
+    "id": 6251898,
+    "slug": "tientallen-pick-ups-rijden-mee-in-verjaardagsstoet-voor-vermoorde-gino",
+    "type": "video",
+    "title": "Tientallen pick-ups rijden mee in verjaardagsstoet voor vermoorde Gino",
+    "subtitle": "Video",
+    "published_at": "2023-02-18T15:47:43+01:00",
+    "updated_at": "2023-02-18T15:47:44+01:00",
+    "media_id": "8wcx5r1af62s",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251898/tientallen-pick-ups-rijden-mee-in-verjaardagsstoet-voor-vermoorde-gino.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251897,
+    "slug": "arsenal-ontsnapt-diep-in-blessuretijd-aan-vierde-puntenverlies-op-rij",
+    "type": "article",
+    "title": "Arsenal ontsnapt diep in blessuretijd aan vierde puntenverlies op rij",
+    "subtitle": null,
+    "published_at": "2023-02-18T15:31:58+01:00",
+    "updated_at": "2023-02-18T15:43:32+01:00",
+    "media_id": "nd1xpwba6d7s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251897/arsenal-ontsnapt-diep-in-blessuretijd-aan-vierde-puntenverlies-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251895,
     "slug": "pogacar-viert-vijftigste-profzege-met-nieuw-machtsvertoon-in-ruta-del-sol",
     "type": "article",
     "title": "Pogacar viert vijftigste profzege met nieuw machtsvertoon in Ruta del Sol",
     "subtitle": null,
     "published_at": "2023-02-18T15:17:09+01:00",
-    "updated_at": "2023-02-18T15:29:57+01:00",
+    "updated_at": "2023-02-18T15:36:26+01:00",
     "media_id": "v03xkn2a4tlt",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Dai Dai N'tab verrast met brons op 500 meter in Polen, Scheperkamp vijfde",
     "subtitle": null,
     "published_at": "2023-02-18T15:02:03+01:00",
-    "updated_at": "2023-02-18T15:10:49+01:00",
+    "updated_at": "2023-02-18T15:35:21+01:00",
     "media_id": "zqnx6mzadrkz",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Worst klopt Alvarado en soleert naar zege in Exact Cross Sint-Niklaas",
     "subtitle": null,
     "published_at": "2023-02-18T15:00:13+01:00",
-    "updated_at": "2023-02-18T15:26:34+01:00",
+    "updated_at": "2023-02-18T15:37:06+01:00",
     "media_id": "bf8xicsav4rq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251872/stellingenpad-verkozen-tot-beste-wandelroute-van-de-benelux.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251861,
-    "slug": "voetbalwereld-treurt-om-atsu-vitesse-draagt-rouwbanden-tegen-volendam",
-    "type": "article",
-    "title": "Voetbalwereld treurt om Atsu, Vitesse draagt rouwbanden tegen Volendam",
-    "subtitle": null,
-    "published_at": "2023-02-18T11:16:29+01:00",
-    "updated_at": "2023-02-18T15:02:32+01:00",
-    "media_id": "3lrx6f8axuq9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251861/voetbalwereld-treurt-om-atsu-vitesse-draagt-rouwbanden-tegen-volendam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251866,
-    "slug": "kritiek-op-surinaamse-politie-vanwege-slechte-voorbereiding-op-rellen",
-    "type": "article",
-    "title": "Kritiek op Surinaamse politie vanwege slechte voorbereiding op rellen",
-    "subtitle": null,
-    "published_at": "2023-02-18T11:13:32+01:00",
-    "updated_at": "2023-02-18T13:13:16+01:00",
-    "media_id": "gthxrqwayfe0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251866/kritiek-op-surinaamse-politie-vanwege-slechte-voorbereiding-op-rellen.html",
     "open_new_window": false,
     "partner": null
   }
