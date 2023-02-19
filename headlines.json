@@ -1,12 +1,58 @@
 [
   {
+    "id": 6251983,
+    "slug": "leerdam-imponeert-richting-wk-met-wereldbekerzege-op-1000-meter-in-polen",
+    "type": "article",
+    "title": "Leerdam imponeert richting WK met wereldbekerzege op 1.000 meter in Polen",
+    "subtitle": null,
+    "published_at": "2023-02-19T15:34:47+01:00",
+    "updated_at": "2023-02-19T15:47:27+01:00",
+    "media_id": "3n6x7ndafu28",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6251983/leerdam-imponeert-richting-wk-met-wereldbekerzege-op-1000-meter-in-polen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251968,
+    "slug": "klaassen-keert-tegen-sparta-terug-in-ajax-basis-alvarez-in-achterhoede",
+    "type": "article",
+    "title": "Klaassen keert tegen Sparta terug in Ajax-basis, Álvarez in achterhoede",
+    "subtitle": null,
+    "published_at": "2023-02-19T15:34:26+01:00",
+    "updated_at": "2023-02-19T15:39:47+01:00",
+    "media_id": "vqzxo0hagzaa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251968/klaassen-keert-tegen-sparta-terug-in-ajax-basis-alvarez-in-achterhoede.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251981,
     "slug": "pogacar-bekroont-ijzersterke-week-met-eindzege-in-ruta-del-sol",
     "type": "article",
     "title": "Pogacar bekroont ijzersterke week met eindzege in Ruta del Sol",
     "subtitle": null,
     "published_at": "2023-02-19T15:20:36+01:00",
-    "updated_at": "2023-02-19T15:24:14+01:00",
+    "updated_at": "2023-02-19T15:36:21+01:00",
     "media_id": "wvuxrxpakx4k",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Duel tussen Go Ahead en FC Twente twintig minuten gestaakt na wangedrag fans",
     "subtitle": null,
     "published_at": "2023-02-19T15:09:48+01:00",
-    "updated_at": "2023-02-19T15:27:52+01:00",
+    "updated_at": "2023-02-19T15:33:54+01:00",
     "media_id": "4irxantahzb2",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Messi schiet PSG diep in blessuretijd naar zege in spektakelstuk met zeven goals",
     "subtitle": null,
     "published_at": "2023-02-19T15:00:45+01:00",
-    "updated_at": "2023-02-19T15:17:26+01:00",
+    "updated_at": "2023-02-19T15:40:14+01:00",
     "media_id": "t8vx0oxa9aip",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6251961/linda-de-mol-met-ex-gezien-in-parijs-ik-ben-niemand-een-verklaring-schuldig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251958,
-    "slug": "publiek-barst-in-juichen-uit-voor-jongetje-tijdens-ijshockeywedstrijd-in-vs",
-    "type": "video",
-    "title": "Publiek barst in juichen uit voor jongetje tijdens ijshockeywedstrijd in VS",
-    "subtitle": "Video",
-    "published_at": "2023-02-19T12:15:54+01:00",
-    "updated_at": "2023-02-19T12:15:55+01:00",
-    "media_id": "zrfxrcmaexno",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251958/publiek-barst-in-juichen-uit-voor-jongetje-tijdens-ijshockeywedstrijd-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251957,
-    "slug": "mane-na-drie-maanden-terug-op-groepstraining-bayern-geeft-fantastisch-gevoel",
-    "type": "article",
-    "title": "Mané na drie maanden terug op groepstraining Bayern: 'Geeft fantastisch gevoel'",
-    "subtitle": null,
-    "published_at": "2023-02-19T12:11:46+01:00",
-    "updated_at": "2023-02-19T12:47:43+01:00",
-    "media_id": "kowxxpgaft7u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251957/mane-na-drie-maanden-terug-op-groepstraining-bayern-geeft-fantastisch-gevoel.html",
     "open_new_window": false,
     "partner": null
   }
