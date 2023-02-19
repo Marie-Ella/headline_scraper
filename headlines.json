@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251936,
+    "slug": "weerbericht-eerst-nog-wat-regen-in-de-middag-droog-en-af-en-toe-zon",
+    "type": "article",
+    "title": "Weerbericht: Eerst nog wat regen, in de middag droog en af en toe zon",
+    "subtitle": null,
+    "published_at": "2023-02-19T05:31:36+01:00",
+    "updated_at": "2023-02-19T05:41:08+01:00",
+    "media_id": "iobxxnqaz63b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251936/weerbericht-eerst-nog-wat-regen-in-de-middag-droog-en-af-en-toe-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251935,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "Griekspoor loopt finale ABN AMRO Open mis door nederlaag tegen Sinner",
     "subtitle": null,
     "published_at": "2023-02-18T21:37:14+01:00",
-    "updated_at": "2023-02-18T22:19:07+01:00",
+    "updated_at": "2023-02-19T05:33:37+01:00",
     "media_id": "huoxathavmg3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251921/groningen-kan-ook-niet-winnen-van-tiental-emmen-en-blijft-in-grote-problemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251920,
-    "slug": "jongen-neemt-afscheidsvideo-op-onder-puin-maar-overleeft",
-    "type": "video",
-    "title": "Jongen neemt afscheidsvideo op onder puin, maar overleeft",
-    "subtitle": "Video",
-    "published_at": "2023-02-18T20:08:26+01:00",
-    "updated_at": "2023-02-18T20:14:34+01:00",
-    "media_id": "ngzxkr7aj98x",
-    "duration": "1:28",
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6251920/jongen-neemt-afscheidsvideo-op-onder-puin-maar-overleeft.html",
     "open_new_window": false,
     "partner": null
   }
