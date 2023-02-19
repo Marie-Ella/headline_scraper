@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251949,
+    "slug": "twaalf-zeekoeien-op-een-dag-in-het-wild-uitgezet-in-florida",
+    "type": "video",
+    "title": "Twaalf zeekoeien op één dag in het wild uitgezet in Florida",
+    "subtitle": "Video",
+    "published_at": "2023-02-19T11:15:59+01:00",
+    "updated_at": "2023-02-19T11:16:05+01:00",
+    "media_id": "8aoxh2maiwlt",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6251949/twaalf-zeekoeien-op-een-dag-in-het-wild-uitgezet-in-florida.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251947,
     "slug": "geen-treinen-tussen-gilze-rijen-en-tilburg-carnavalsvierders-gestrand",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Groningen laat eerste zege in maanden glippen: 'Paar jongens waren echt kwaad'",
     "subtitle": null,
     "published_at": "2023-02-19T10:16:56+01:00",
-    "updated_at": "2023-02-19T10:34:20+01:00",
+    "updated_at": "2023-02-19T10:59:36+01:00",
     "media_id": "17vx2ynarcqg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251934/feyenoord-droomt-hardop-van-coolsingel-we-geloven-in-het-kampioenschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251916,
-    "slug": "rusland-claimt-terreinwinst-in-regio-kharkiv",
-    "type": "article",
-    "title": "Rusland claimt terreinwinst in regio Kharkiv",
-    "subtitle": "Overzicht",
-    "published_at": "2023-02-18T23:06:18+01:00",
-    "updated_at": "2023-02-18T23:06:20+01:00",
-    "media_id": "o6pxruva9ecf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6251916/rusland-claimt-terreinwinst-in-regio-kharkiv.html",
     "open_new_window": false,
     "partner": null
   }
