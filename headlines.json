@@ -1,12 +1,58 @@
 [
   {
+    "id": 6252155,
+    "slug": "paniek-op-turks-vliegveld-na-nieuwe-aardbeving-in-rampgebied",
+    "type": "video",
+    "title": "Paniek op Turks vliegveld na nieuwe aardbeving in rampgebied",
+    "subtitle": "Video",
+    "published_at": "2023-02-20T19:16:23+01:00",
+    "updated_at": "2023-02-20T19:16:25+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6252155/paniek-op-turks-vliegveld-na-nieuwe-aardbeving-in-rampgebied.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252153,
+    "slug": "koning-charles-bezoekt-oekraiense-militairen-in-engeland",
+    "type": "video",
+    "title": "Koning Charles bezoekt Oekraïense militairen in Engeland",
+    "subtitle": "Video",
+    "published_at": "2023-02-20T18:58:35+01:00",
+    "updated_at": "2023-02-20T18:58:54+01:00",
+    "media_id": "d79xqq0a128f",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252153/koning-charles-bezoekt-oekraiense-militairen-in-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252115,
     "slug": "schrappen-wij-straks-ook-beledigende-termen-uit-de-boeken-van-roald-dahl",
     "type": "article",
     "title": "Schrappen wij straks ook 'beledigende' termen uit de boeken van Roald Dahl?",
     "subtitle": null,
     "published_at": "2023-02-20T18:34:34+01:00",
-    "updated_at": "2023-02-20T18:34:38+01:00",
+    "updated_at": "2023-02-20T19:08:39+01:00",
     "media_id": "cchxi1sa226w",
     "duration": null,
     "canonical_section": {
@@ -70,13 +116,13 @@
   },
   {
     "id": 6252149,
-    "slug": "nieuwe-forse-aardbeving-in-rampgebied-turkije-en-syrie",
+    "slug": "nieuwe-forse-aardbevingen-in-rampgebied-turkije-en-syrie",
     "type": "article",
-    "title": "Nieuwe forse aardbeving in rampgebied Turkije en Syrië",
+    "title": "Nieuwe forse aardbevingen in rampgebied Turkije en Syrië",
     "subtitle": null,
     "published_at": "2023-02-20T18:25:04+01:00",
-    "updated_at": "2023-02-20T18:44:34+01:00",
-    "media_id": "e15x62ia6050",
+    "updated_at": "2023-02-20T19:21:03+01:00",
+    "media_id": "38gx764ae0ra",
     "duration": null,
     "canonical_section": {
       "id": 1779210,
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6252149/nieuwe-forse-aardbeving-in-rampgebied-turkije-en-syrie.html",
+    "url": "/aardbeving-syrie-en-turkije/6252149/nieuwe-forse-aardbevingen-in-rampgebied-turkije-en-syrie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Oranjevrouwen bezoeken marine op Malta: 'Wij moeten ook op elkaar rekenen'",
     "subtitle": null,
     "published_at": "2023-02-20T17:23:23+01:00",
-    "updated_at": "2023-02-20T18:40:54+01:00",
+    "updated_at": "2023-02-20T18:47:56+01:00",
     "media_id": "qv3xlnuasrsu",
     "duration": null,
     "canonical_section": {
@@ -300,12 +346,12 @@
   },
   {
     "id": 6252124,
-    "slug": "gezondheidsraad-laat-zwangere-vrouwen-meer-resultaten-van-nipt-test-weten",
+    "slug": "gezondheidsraad-adviseert-geef-zwangere-vrouwen-meer-uitslagen-van-nipt-test",
     "type": "article",
-    "title": "Gezondheidsraad: Laat zwangere vrouwen meer resultaten van NIPT-test weten",
+    "title": "Gezondheidsraad adviseert: geef zwangere vrouwen meer uitslagen van NIPT-test",
     "subtitle": null,
     "published_at": "2023-02-20T16:42:43+01:00",
-    "updated_at": "2023-02-20T18:13:55+01:00",
+    "updated_at": "2023-02-20T19:18:41+01:00",
     "media_id": "9g9x8krazfjp",
     "duration": null,
     "canonical_section": {
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6252124/gezondheidsraad-laat-zwangere-vrouwen-meer-resultaten-van-nipt-test-weten.html",
+    "url": "/binnenland/6252124/gezondheidsraad-adviseert-geef-zwangere-vrouwen-meer-uitslagen-van-nipt-test.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6252119/man-rijdt-met-volle-snelheid-kerk-binnen-in-florida.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252114,
-    "slug": "veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-selectie-wk-shorttrack",
-    "type": "article",
-    "title": "Veelbesproken Knegt ondanks kritiek op bondscoach in selectie WK shorttrack",
-    "subtitle": null,
-    "published_at": "2023-02-20T15:41:52+01:00",
-    "updated_at": "2023-02-20T18:15:28+01:00",
-    "media_id": "1qwxlfrazwbh",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6252114/veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-selectie-wk-shorttrack.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252112,
-    "slug": "rtl-gaat-op-zaterdagavond-geen-talkshows-meer-uitzenden",
-    "type": "article",
-    "title": "RTL gaat op zaterdagavond geen talkshows meer uitzenden",
-    "subtitle": null,
-    "published_at": "2023-02-20T15:10:18+01:00",
-    "updated_at": "2023-02-20T15:58:00+01:00",
-    "media_id": "2h0xjtqapx2r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6252112/rtl-gaat-op-zaterdagavond-geen-talkshows-meer-uitzenden.html",
     "open_new_window": false,
     "partner": null
   }
