@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252170,
+    "slug": "gebouw-stort-in-tijdens-nieuwe-aardbeving-in-turkije",
+    "type": "video",
+    "title": "Gebouw stort in tijdens nieuwe aardbeving in Turkije",
+    "subtitle": "Video",
+    "published_at": "2023-02-20T22:39:06+01:00",
+    "updated_at": "2023-02-20T22:44:28+01:00",
+    "media_id": "90jxzsoa0ac0",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6252170/gebouw-stort-in-tijdens-nieuwe-aardbeving-in-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252167,
     "slug": "nederland-en-ruim-dertig-andere-landen-pleiten-voor-weren-rusland-op-spelen",
     "type": "article",
     "title": "Nederland en ruim dertig andere landen pleiten voor weren Rusland op Spelen",
     "subtitle": null,
     "published_at": "2023-02-20T22:14:47+01:00",
-    "updated_at": "2023-02-20T22:25:52+01:00",
+    "updated_at": "2023-02-20T22:44:48+01:00",
     "media_id": "lbtx343a36fu",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Jong Ajax met Conceição en Lucca langs MVV, NAC pijnlijk onderuit in Utrecht",
     "subtitle": null,
     "published_at": "2023-02-20T22:02:24+01:00",
-    "updated_at": "2023-02-20T22:27:12+01:00",
+    "updated_at": "2023-02-20T22:37:20+01:00",
     "media_id": "nrqx1vfa763t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6252142/flitsbezorgers-beloven-beterschap-na-tabaksverkoop-aan-minderjarigen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252143,
-    "slug": "woonplaats-surinaamse-president-is-afgesloten-na-oproep-tot-geweld",
-    "type": "article",
-    "title": "Woonplaats Surinaamse president is afgesloten na oproep tot geweld",
-    "subtitle": null,
-    "published_at": "2023-02-20T18:07:22+01:00",
-    "updated_at": "2023-02-20T18:07:27+01:00",
-    "media_id": "1zrxuwtakz3m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252143/woonplaats-surinaamse-president-is-afgesloten-na-oproep-tot-geweld.html",
     "open_new_window": false,
     "partner": null
   }
