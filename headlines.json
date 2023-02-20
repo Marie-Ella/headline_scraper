@@ -1,13 +1,36 @@
 [
   {
+    "id": 6252049,
+    "slug": "ouderwets-of-nog-altijd-nodig-praat-mee-over-vakbonden",
+    "type": "article",
+    "title": "Ouderwets of nog altijd nodig? Praat mee over vakbonden",
+    "subtitle": null,
+    "published_at": "2023-02-20T09:33:28+01:00",
+    "updated_at": "2023-02-20T09:33:30+01:00",
+    "media_id": "tkmx7a2apbso",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6252049/ouderwets-of-nog-altijd-nodig-praat-mee-over-vakbonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252052,
     "slug": "betogers-met-brandende-fakkels-wachten-kaag-op-in-diepenheim",
     "type": "video",
     "title": "Betogers met brandende fakkels wachten Kaag op in Diepenheim",
     "subtitle": "Video",
     "published_at": "2023-02-20T09:22:16+01:00",
-    "updated_at": "2023-02-20T09:22:17+01:00",
-    "media_id": "31jx6nuaiy3s",
+    "updated_at": "2023-02-20T09:43:13+01:00",
+    "media_id": "gx0x6doadl0z",
     "duration": "0:43",
     "canonical_section": {
       "id": 1771435,
@@ -29,7 +52,7 @@
     "title": "Ten Hag heeft zijn zin: de lach is weer helemaal terug bij Rashford",
     "subtitle": null,
     "published_at": "2023-02-20T09:07:17+01:00",
-    "updated_at": "2023-02-20T09:07:18+01:00",
+    "updated_at": "2023-02-20T09:43:30+01:00",
     "media_id": "1luxfnram48g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252033/amsterdamse-vuilnisophalers-en-andere-gemeenteambtenaren-staken-week-lang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252031,
-    "slug": "noord-korea-vuurt-opnieuw-twee-ballistische-raketten-af",
-    "type": "article",
-    "title": "Noord-Korea vuurt opnieuw twee ballistische raketten af",
-    "subtitle": null,
-    "published_at": "2023-02-20T00:42:56+01:00",
-    "updated_at": "2023-02-20T06:16:34+01:00",
-    "media_id": "f9zx3cga8i91",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252031/noord-korea-vuurt-opnieuw-twee-ballistische-raketten-af.html",
     "open_new_window": false,
     "partner": null
   }
