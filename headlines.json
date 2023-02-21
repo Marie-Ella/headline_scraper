@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252213,
+    "slug": "satellietbeelden-tonen-cycloon-boven-indische-oceaan",
+    "type": "video",
+    "title": "Satellietbeelden tonen cycloon boven Indische Oceaan",
+    "subtitle": "Video",
+    "published_at": "2023-02-21T10:51:24+01:00",
+    "updated_at": "2023-02-21T10:51:26+01:00",
+    "media_id": "l6dxrwfaa6f9",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252213/satellietbeelden-tonen-cycloon-boven-indische-oceaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252205,
     "slug": "viaplay-zendt-documentaire-over-start-van-formule-1-carriere-nyck-de-vries-uit",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Philips-top ziet af van bonussen na tegenvallend jaar",
     "subtitle": null,
     "published_at": "2023-02-21T10:30:15+01:00",
-    "updated_at": "2023-02-21T10:30:16+01:00",
+    "updated_at": "2023-02-21T11:00:05+01:00",
     "media_id": "xfxxhxaa52fn",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6252200,
-    "slug": "rangers-redden-verdwaalde-alligator-uit-vijver-in-new-york",
+    "slug": "verdwaalde-alligator-uit-vijver-gehaald-in-new-york",
     "type": "article",
-    "title": "Rangers redden verdwaalde alligator uit vijver in New York",
+    "title": "Verdwaalde alligator uit vijver gehaald in New York",
     "subtitle": null,
     "published_at": "2023-02-21T09:48:12+01:00",
-    "updated_at": "2023-02-21T09:48:13+01:00",
+    "updated_at": "2023-02-21T10:55:21+01:00",
     "media_id": "m1nxovea6eo8",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6252200/rangers-redden-verdwaalde-alligator-uit-vijver-in-new-york.html",
+    "url": "/dieren/6252200/verdwaalde-alligator-uit-vijver-gehaald-in-new-york.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252126/aantal-nederlandse-studenten-in-het-buitenland-in-tien-jaar-tijd-verdubbeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252175,
-    "slug": "weer-waarschuwt-coa-voor-tekort-aan-plekken-straks-slapen-kinderen-op-stoel",
-    "type": "article",
-    "title": "Weer waarschuwt COA voor tekort aan plekken: 'Straks slapen kinderen op stoel'",
-    "subtitle": null,
-    "published_at": "2023-02-21T05:50:37+01:00",
-    "updated_at": "2023-02-21T07:46:11+01:00",
-    "media_id": "v1hxt26aats4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779109,
-      "slug": "asielcrisis",
-      "type": "default",
-      "name": "Asielcrisis",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/asielcrisis/6252175/weer-waarschuwt-coa-voor-tekort-aan-plekken-straks-slapen-kinderen-op-stoel.html",
     "open_new_window": false,
     "partner": null
   }
