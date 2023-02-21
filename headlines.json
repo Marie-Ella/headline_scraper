@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252211,
+    "slug": "dit-vinden-jullie-van-de-ziekenhuisstakingen-zorgpersoneel-heeft-groot-gelijk",
+    "type": "article",
+    "title": "Dit vinden jullie van de ziekenhuisstakingen: 'Zorgpersoneel heeft groot gelijk'",
+    "subtitle": null,
+    "published_at": "2023-02-21T12:38:21+01:00",
+    "updated_at": "2023-02-21T12:38:23+01:00",
+    "media_id": "4zdx1dda4mky",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6252211/dit-vinden-jullie-van-de-ziekenhuisstakingen-zorgpersoneel-heeft-groot-gelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252228,
+    "slug": "overheid-bewaart-de-gekste-gegevens-van-vliegtuigpassagiers-onnodig-lang",
+    "type": "article",
+    "title": "Overheid bewaart de gekste gegevens van vliegtuigpassagiers onnodig lang",
+    "subtitle": null,
+    "published_at": "2023-02-21T12:29:54+01:00",
+    "updated_at": "2023-02-21T12:29:56+01:00",
+    "media_id": "178x5ggan7cb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6252228/overheid-bewaart-de-gekste-gegevens-van-vliegtuigpassagiers-onnodig-lang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252223,
     "slug": "verstappen-onthult-nieuwe-helm-met-old-school-ontwerp",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Poetin schort deelname aan kernwapenverdrag met Verenigde Staten op",
     "subtitle": null,
     "published_at": "2023-02-21T11:59:08+01:00",
-    "updated_at": "2023-02-21T12:15:24+01:00",
+    "updated_at": "2023-02-21T12:40:27+01:00",
     "media_id": "loux230a87vc",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Dashcambeelden tonen nieuwe aardbeving in rampgebied Turkije",
     "subtitle": "Video",
     "published_at": "2023-02-21T09:38:37+01:00",
-    "updated_at": "2023-02-21T09:38:38+01:00",
+    "updated_at": "2023-02-21T12:38:59+01:00",
     "media_id": "kepx4mlagd2w",
     "duration": "0:35",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6252183/russische-economie-krimpt-ondanks-alle-sancties-minder-dan-verwacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252133,
-    "slug": "olie-en-gasbedrijven-krijgen-methaanuitstoot-maar-niet-omlaag",
-    "type": "article",
-    "title": "Olie- en gasbedrijven krijgen methaanuitstoot maar niet omlaag",
-    "subtitle": null,
-    "published_at": "2023-02-21T07:20:24+01:00",
-    "updated_at": "2023-02-21T07:30:12+01:00",
-    "media_id": "jt7xicsawt1n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6252133/olie-en-gasbedrijven-krijgen-methaanuitstoot-maar-niet-omlaag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252123,
-    "slug": "stelling-de-europese-unie-moet-haar-legers-centraliseren-en-een-europees-leger-stichten",
-    "type": "article",
-    "title": "Stelling: De Europese Unie moet haar legers centraliseren en een Europees leger stichten",
-    "subtitle": null,
-    "published_at": "2023-02-21T07:06:23+01:00",
-    "updated_at": "2023-02-21T07:06:24+01:00",
-    "media_id": "4hkxgzuathyb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6252123/stelling-de-europese-unie-moet-haar-legers-centraliseren-en-een-europees-leger-stichten.html",
     "open_new_window": false,
     "partner": null
   }
