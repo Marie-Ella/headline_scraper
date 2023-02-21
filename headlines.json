@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252329,
+    "slug": "rijimpressie-hyundai-ioniq-6",
+    "type": "video",
+    "title": "Rijimpressie: Hyundai IONIQ 6",
+    "subtitle": "Video",
+    "published_at": "2023-02-21T22:34:50+01:00",
+    "updated_at": "2023-02-21T22:39:12+01:00",
+    "media_id": "ghkxxbaakyyn",
+    "duration": "7:49",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6252329/rijimpressie-hyundai-ioniq-6.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252328,
     "slug": "kolderieke-blunder-real-doelman-courtois-leidt-2-0-liverpool-in",
     "type": "video",
     "title": "Kolderieke blunder Real-doelman Courtois leidt 2-0 Liverpool in",
     "subtitle": "Video",
     "published_at": "2023-02-21T22:18:21+01:00",
-    "updated_at": "2023-02-21T22:18:22+01:00",
+    "updated_at": "2023-02-21T22:35:13+01:00",
     "media_id": "h1dx9ayarrkm",
     "duration": "1:36",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ook Liverpool-doelman Alisson maakt fout in knotsgek duel met Real",
     "subtitle": "Video",
     "published_at": "2023-02-21T22:09:29+01:00",
-    "updated_at": "2023-02-21T22:17:53+01:00",
+    "updated_at": "2023-02-21T22:35:05+01:00",
     "media_id": "l6lxzwpalhqk",
     "duration": "1:34",
     "canonical_section": {
@@ -305,8 +328,8 @@
     "title": "Real Madrid walst in tweede helft over Liverpool heen",
     "subtitle": "Liveblog CL",
     "published_at": "2023-02-21T20:13:04+01:00",
-    "updated_at": "2023-02-21T22:28:23+01:00",
-    "media_id": "ar4xzttafe46",
+    "updated_at": "2023-02-21T22:29:10+01:00",
+    "media_id": "3hvxjmmaqdxi",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -328,7 +351,7 @@
     "title": "Rumoer aan het Luxemburgse hof: groothertogin zou angstcultuur veroorzaken",
     "subtitle": null,
     "published_at": "2023-02-21T19:56:22+01:00",
-    "updated_at": "2023-02-21T22:14:56+01:00",
+    "updated_at": "2023-02-21T22:38:51+01:00",
     "media_id": "ax9xo04a3343",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6252305/fia-luistert-naar-kritiek-en-laat-pitsstraat-van-f1-circuit-in-zandvoort-verbreden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252304,
-    "slug": "biden-belooft-westerse-eenheid-tijdens-toespraak-in-polen",
-    "type": "article",
-    "title": "Biden belooft westerse eenheid tijdens toespraak in Polen",
-    "subtitle": null,
-    "published_at": "2023-02-21T19:04:19+01:00",
-    "updated_at": "2023-02-21T19:53:26+01:00",
-    "media_id": "ln8x9nqayonq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6252304/biden-belooft-westerse-eenheid-tijdens-toespraak-in-polen.html",
     "open_new_window": false,
     "partner": null
   }
