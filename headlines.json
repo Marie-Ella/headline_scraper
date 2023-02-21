@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252178,
+    "slug": "sonny-boy-van-annejet-van-der-zijl-staat-centraal-bij-nederland-leest",
+    "type": "article",
+    "title": "Sonny Boy van Annejet van der Zijl staat centraal bij Nederland Leest",
+    "subtitle": null,
+    "published_at": "2023-02-21T06:39:02+01:00",
+    "updated_at": "2023-02-21T06:45:26+01:00",
+    "media_id": "u8qxjoqa48na",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6252178/sonny-boy-van-annejet-van-der-zijl-staat-centraal-bij-nederland-leest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252177,
     "slug": "dit-weten-we-over-de-nieuwe-bevingen-in-turkije-en-syrie-meer-gebouwen-ingestort-en-veel-gewonden",
     "type": "article",
     "title": "Dit weten we over de nieuwe bevingen in Turkije en Syrië: meer gebouwen ingestort en veel gewonden",
     "subtitle": null,
     "published_at": "2023-02-21T06:21:34+01:00",
-    "updated_at": "2023-02-21T06:21:59+01:00",
+    "updated_at": "2023-02-21T06:43:44+01:00",
     "media_id": "5mpxk0aasemx",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Russische president Poetin spreekt voor eerst in twee jaar tot parlement",
     "subtitle": null,
     "published_at": "2023-02-21T05:42:04+01:00",
-    "updated_at": "2023-02-21T06:16:47+01:00",
+    "updated_at": "2023-02-21T06:41:09+01:00",
     "media_id": "pwjx1j5apeim",
     "duration": null,
     "canonical_section": {
@@ -119,21 +142,21 @@
     "slug": "is-topscorer-kalma-de-nieuwe-miedema-bij-oranje-ik-voel-geen-extra-druk",
     "type": "article",
     "title": "Is topscorer Kalma de nieuwe Miedema bij Oranje? 'Ik voel geen extra druk'",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-02-21T05:11:33+01:00",
-    "updated_at": "2023-02-21T06:28:02+01:00",
+    "updated_at": "2023-02-21T06:31:19+01:00",
     "media_id": "yzgxc8oalmxv",
     "duration": null,
     "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
+      "id": 1779108,
+      "slug": "nu-voetbal",
       "type": "default",
-      "name": "Voetbal",
+      "name": "NU+ Voetbal",
       "style": "nusport",
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252164/is-topscorer-kalma-de-nieuwe-miedema-bij-oranje-ik-voel-geen-extra-druk.html",
+    "url": "/nu-voetbal/6252164/is-topscorer-kalma-de-nieuwe-miedema-bij-oranje-ik-voel-geen-extra-druk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Jonkies Schoon en Stam bestormen beachvolleybaltop, precies op tijd voor Parijs",
     "subtitle": null,
     "published_at": "2023-02-21T05:10:47+01:00",
-    "updated_at": "2023-02-21T05:10:48+01:00",
+    "updated_at": "2023-02-21T06:34:54+01:00",
     "media_id": "mn5xyb9ahbvb",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Gebouw stort in tijdens nieuwe aardbeving in Turkije",
     "subtitle": "Video",
     "published_at": "2023-02-20T22:39:06+01:00",
-    "updated_at": "2023-02-20T22:44:28+01:00",
+    "updated_at": "2023-02-21T06:37:52+01:00",
     "media_id": "90jxzsoa0ac0",
     "duration": "0:43",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252162/real-trainer-ancelotti-rekent-tegen-liverpool-op-benzema-en-speciale-vinicius.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252163,
-    "slug": "congolese-voetbalsters-belagen-scheidsrechter-na-niet-gegeven-penalty",
-    "type": "video",
-    "title": "Congolese voetbalsters belagen scheidsrechter na niet gegeven penalty",
-    "subtitle": "Video",
-    "published_at": "2023-02-20T20:52:33+01:00",
-    "updated_at": "2023-02-20T20:52:34+01:00",
-    "media_id": "pixxaofaf02c",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252163/congolese-voetbalsters-belagen-scheidsrechter-na-niet-gegeven-penalty.html",
     "open_new_window": false,
     "partner": null
   }
