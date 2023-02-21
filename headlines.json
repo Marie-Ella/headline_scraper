@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252306,
+    "slug": "schiphol-beperkt-aantal-reizigers-op-ochtenden-in-meivakantie",
+    "type": "article",
+    "title": "Schiphol beperkt aantal reizigers op ochtenden in meivakantie",
+    "subtitle": null,
+    "published_at": "2023-02-21T19:36:35+01:00",
+    "updated_at": "2023-02-21T19:46:20+01:00",
+    "media_id": "ackxit0a58vj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6252306/schiphol-beperkt-aantal-reizigers-op-ochtenden-in-meivakantie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252309,
     "slug": "van-mensenhandel-beschuldigde-andrew-tate-zeker-tot-eind-maart-in-hechtenis",
     "type": "article",
     "title": "Van mensenhandel beschuldigde Andrew Tate zeker tot eind maart in hechtenis",
     "subtitle": null,
     "published_at": "2023-02-21T19:16:15+01:00",
-    "updated_at": "2023-02-21T19:16:16+01:00",
+    "updated_at": "2023-02-21T19:41:40+01:00",
     "media_id": "s71x935atyh6",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6252305,
-    "slug": "fia-luistert-naar-kritiek-en-verbreedt-pitstraat-van-f1-circuit-in-zandvoort",
+    "slug": "fia-luistert-naar-kritiek-en-laat-pitsstraat-van-f1-circuit-in-zandvoort-verbreden",
     "type": "article",
-    "title": "FIA luistert naar kritiek en verbreedt pitstraat van F1-circuit in Zandvoort",
+    "title": "FIA luistert naar kritiek en laat pitsstraat van F1-circuit in Zandvoort verbreden",
     "subtitle": null,
     "published_at": "2023-02-21T19:10:03+01:00",
-    "updated_at": "2023-02-21T19:24:55+01:00",
+    "updated_at": "2023-02-21T19:46:25+01:00",
     "media_id": "sanxbnaazwi3",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6252305/fia-luistert-naar-kritiek-en-verbreedt-pitstraat-van-f1-circuit-in-zandvoort.html",
+    "url": "/formule-1/6252305/fia-luistert-naar-kritiek-en-laat-pitsstraat-van-f1-circuit-in-zandvoort-verbreden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,13 +300,13 @@
   },
   {
     "id": 6252293,
-    "slug": "nederland-jaagt-na-rust-op-meer-goals-tegen-oostenrijk",
+    "slug": "nederland-op-weg-naar-ruime-oefenzege-op-oostenrijk",
     "type": "article",
-    "title": "Nederland jaagt na rust op meer goals tegen Oostenrijk",
+    "title": "Nederland op weg naar ruime oefenzege op Oostenrijk",
     "subtitle": "Liveblog Oranje",
     "published_at": "2023-02-21T17:38:58+01:00",
-    "updated_at": "2023-02-21T19:07:23+01:00",
-    "media_id": "9vrxt9sar8y8",
+    "updated_at": "2023-02-21T19:44:36+01:00",
+    "media_id": "cumx0m4a5lp3",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252293/nederland-jaagt-na-rust-op-meer-goals-tegen-oostenrijk.html",
+    "url": "/voetbal/6252293/nederland-op-weg-naar-ruime-oefenzege-op-oostenrijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252260/kalma-ontbreekt-bij-oranje-in-nieuw-oefenduel-met-oostenrijk-beerensteyn-spits.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252282,
-    "slug": "beveiligingscamera-filmt-ontploffing-bij-amerikaanse-metaalfabriek",
-    "type": "video",
-    "title": "Beveiligingscamera filmt ontploffing bij Amerikaanse metaalfabriek",
-    "subtitle": "Video",
-    "published_at": "2023-02-21T16:43:39+01:00",
-    "updated_at": "2023-02-21T16:43:40+01:00",
-    "media_id": "9puxsasasais",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252282/beveiligingscamera-filmt-ontploffing-bij-amerikaanse-metaalfabriek.html",
     "open_new_window": false,
     "partner": null
   }
