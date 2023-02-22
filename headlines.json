@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252434,
+    "slug": "a1-ligt-bezaaid-met-stenen-na-kantelen-vrachtwagen",
+    "type": "video",
+    "title": "A1 ligt bezaaid met stenen na kantelen vrachtwagen",
+    "subtitle": "Video",
+    "published_at": "2023-02-22T15:28:37+01:00",
+    "updated_at": "2023-02-22T15:28:39+01:00",
+    "media_id": "f5px07sa07lt",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252434/a1-ligt-bezaaid-met-stenen-na-kantelen-vrachtwagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252430,
+    "slug": "bevrijdingsfestival-utrecht-gaat-niet-door-vanwege-financiele-problemen",
+    "type": "article",
+    "title": "Bevrijdingsfestival Utrecht gaat niet door vanwege financiële problemen",
+    "subtitle": null,
+    "published_at": "2023-02-22T15:27:59+01:00",
+    "updated_at": "2023-02-22T15:28:00+01:00",
+    "media_id": "o05x9kraamlg",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6252430/bevrijdingsfestival-utrecht-gaat-niet-door-vanwege-financiele-problemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252429,
     "slug": "a1-richting-apeldoorn-tot-2200-uur-dicht-want-de-weg-ligt-vol-stenen",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Ten Hag geniet van etentje met Ferguson: 'Prachtig om zijn steun te hebben'",
     "subtitle": null,
     "published_at": "2023-02-22T14:32:30+01:00",
-    "updated_at": "2023-02-22T14:49:29+01:00",
+    "updated_at": "2023-02-22T15:28:45+01:00",
     "media_id": "uw7xtssaxg2x",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252387/rechtbank-spreekt-nederlander-vrij-van-rol-bij-aanslagen-in-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252399,
-    "slug": "hond-duikt-water-in-en-achtervolgt-hamerhaai-in-de-bahamas",
-    "type": "video",
-    "title": "Hond duikt water in en achtervolgt hamerhaai in de Bahama's",
-    "subtitle": "Video",
-    "published_at": "2023-02-22T11:54:03+01:00",
-    "updated_at": "2023-02-22T11:54:04+01:00",
-    "media_id": "vujxprhaye6t",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6252399/hond-duikt-water-in-en-achtervolgt-hamerhaai-in-de-bahamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252397,
-    "slug": "nieuwslezer-anton-griep-wordt-vaste-sidekick-van-domien-verschuuren",
-    "type": "article",
-    "title": "Nieuwslezer Anton Griep wordt vaste sidekick van Domien Verschuuren",
-    "subtitle": null,
-    "published_at": "2023-02-22T11:50:23+01:00",
-    "updated_at": "2023-02-22T12:03:32+01:00",
-    "media_id": "31dxo37aa1x8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6252397/nieuwslezer-anton-griep-wordt-vaste-sidekick-van-domien-verschuuren.html",
     "open_new_window": false,
     "partner": null
   }
