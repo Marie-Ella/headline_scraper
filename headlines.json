@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252862,
+    "slug": "zo-herdenkt-nederland-een-jaar-oorlog-in-oekraine",
+    "type": "video",
+    "title": "Zo herdenkt Nederland één jaar oorlog in Oekraïne",
+    "subtitle": "Video",
+    "published_at": "2023-02-24T20:57:03+01:00",
+    "updated_at": "2023-02-24T20:57:04+01:00",
+    "media_id": "m12xdy1ac0az",
+    "duration": "1:11",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6252862/zo-herdenkt-nederland-een-jaar-oorlog-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252858,
     "slug": "dodental-aardbevingen-turkije-en-syrie-komt-uit-boven-de-50000",
     "type": "article",
     "title": "Dodental aardbevingen Turkije en Syrië komt uit boven de 50.000",
     "subtitle": null,
     "published_at": "2023-02-24T20:34:39+01:00",
-    "updated_at": "2023-02-24T20:37:11+01:00",
+    "updated_at": "2023-02-24T20:55:29+01:00",
     "media_id": "lrtxs86ak7k2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252827/weekendweerbericht-kouder-weer-op-komst-maar-ook-veel-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252772,
-    "slug": "groningers-over-enquete-gaswinning-erkenning-maar-wat-gaat-er-nu-gebeuren",
-    "type": "article",
-    "title": "Groningers over enquête gaswinning: 'Erkenning, maar wat gaat er nu gebeuren?'",
-    "subtitle": null,
-    "published_at": "2023-02-24T17:31:07+01:00",
-    "updated_at": "2023-02-24T17:31:10+01:00",
-    "media_id": "3cyxkbyawr8z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772247,
-      "slug": "gaswinning-groningen",
-      "type": "files",
-      "name": "Gaswinning",
-      "style": "nu",
-      "media_id": "m1mxes7a42ey",
-      "partner": null
-    },
-    "url": "/gaswinning-groningen/6252772/groningers-over-enquete-gaswinning-erkenning-maar-wat-gaat-er-nu-gebeuren.html",
     "open_new_window": false,
     "partner": null
   }
