@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252684,
+    "slug": "kyiv-luidt-kerkklokken-jaar-na-begin-van-oorlog",
+    "type": "video",
+    "title": "Kyiv luidt kerkklokken jaar na begin van oorlog",
+    "subtitle": "Video",
+    "published_at": "2023-02-24T07:41:46+01:00",
+    "updated_at": "2023-02-24T07:41:47+01:00",
+    "media_id": "um0x7dza51sh",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252684/kyiv-luidt-kerkklokken-jaar-na-begin-van-oorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252683,
     "slug": "giovanca-ostiana-en-anne-mar-zwart-gaan-in-nieuw-programma-op-zoek-naar-beste-zanggroep",
     "type": "article",
     "title": "Giovanca Ostiana en Anne-Mar Zwart gaan in nieuw programma op zoek naar beste zanggroep",
     "subtitle": null,
     "published_at": "2023-02-24T07:20:21+01:00",
-    "updated_at": "2023-02-24T07:20:23+01:00",
+    "updated_at": "2023-02-24T07:43:07+01:00",
     "media_id": "avxxgcma9a38",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Nielson erkent ontrouw: 'Ik heb het flink verkloot en neem mijn verantwoordelijkheid'",
     "subtitle": null,
     "published_at": "2023-02-24T07:05:14+01:00",
-    "updated_at": "2023-02-24T07:05:16+01:00",
+    "updated_at": "2023-02-24T07:38:38+01:00",
     "media_id": "0nxx2cqa3i1p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6252526/enquetecommissie-velt-oordeel-over-gaswinning-aandacht-voor-groningen-moet-blijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252449,
-    "slug": "gehavend-oekraine-en-rusland-zoeken-naar-een-doorbraak-in-het-donetsbekken",
-    "type": "article",
-    "title": "Gehavend Oekraïne en Rusland zoeken naar een doorbraak in het Donetsbekken",
-    "subtitle": null,
-    "published_at": "2023-02-24T05:06:12+01:00",
-    "updated_at": "2023-02-24T07:05:42+01:00",
-    "media_id": "e4fx8clamv0s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6252449/gehavend-oekraine-en-rusland-zoeken-naar-een-doorbraak-in-het-donetsbekken.html",
     "open_new_window": false,
     "partner": null
   }
