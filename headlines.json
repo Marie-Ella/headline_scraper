@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252917,
+    "slug": "groningen-start-met-willems-op-de-bank-tegen-excelsior",
+    "type": "article",
+    "title": "Groningen start met Willems op de bank tegen Excelsior",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-02-25T16:09:28+01:00",
+    "updated_at": "2023-02-25T16:09:29+01:00",
+    "media_id": "a46xljla9edh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252917/groningen-start-met-willems-op-de-bank-tegen-excelsior.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252920,
+    "slug": "van-baarle-rijdt-bij-debuut-voor-jumbo-visma-naar-zege-in-omloop-het-nieuwsblad",
+    "type": "article",
+    "title": "Van Baarle rijdt bij debuut voor Jumbo-Visma naar zege in Omloop Het Nieuwsblad",
+    "subtitle": null,
+    "published_at": "2023-02-25T16:03:34+01:00",
+    "updated_at": "2023-02-25T16:16:31+01:00",
+    "media_id": "b40xe3kazo2v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6252920/van-baarle-rijdt-bij-debuut-voor-jumbo-visma-naar-zege-in-omloop-het-nieuwsblad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252912,
     "slug": "verstappen-heeft-de-perfecte-afstelling-van-zijn-auto-al-bijna-te-pakken",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Chaos bij marathonschaatsen: Hoolwerf juicht onterecht, apparaat fotofinish kapot",
     "subtitle": null,
     "published_at": "2023-02-25T15:09:26+01:00",
-    "updated_at": "2023-02-25T15:31:09+01:00",
+    "updated_at": "2023-02-25T15:51:50+01:00",
     "media_id": "4m2xufban7gm",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "100.000 schildpadden leggen tegelijk eieren op Indiaas strand",
     "subtitle": "Video",
     "published_at": "2023-02-25T11:51:27+01:00",
-    "updated_at": "2023-02-25T15:11:19+01:00",
+    "updated_at": "2023-02-25T16:01:23+01:00",
     "media_id": "nz9x6ukac5c3",
     "duration": "0:33",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/songfestival/6252888/britse-regering-geeft-3000-songfestival-kaartjes-aan-oekraiense-vluchtelingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252887,
-    "slug": "drone-filmt-nasleep-vernielende-treinontsporing-in-vs",
-    "type": "video",
-    "title": "Drone filmt nasleep vernielende treinontsporing in VS",
-    "subtitle": "Video",
-    "published_at": "2023-02-25T10:47:46+01:00",
-    "updated_at": "2023-02-25T10:47:48+01:00",
-    "media_id": "sigxphtaaq1l",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252887/drone-filmt-nasleep-vernielende-treinontsporing-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252883,
-    "slug": "tientallen-tot-honderden-eritreeers-in-nederland-slachtoffer-van-smokkelnetwerk",
-    "type": "article",
-    "title": "Tientallen tot honderden Eritreeërs in Nederland slachtoffer van smokkelnetwerk",
-    "subtitle": null,
-    "published_at": "2023-02-25T10:13:13+01:00",
-    "updated_at": "2023-02-25T10:27:02+01:00",
-    "media_id": "zwrxvngaa4la",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6252883/tientallen-tot-honderden-eritreeers-in-nederland-slachtoffer-van-smokkelnetwerk.html",
     "open_new_window": false,
     "partner": null
   }
