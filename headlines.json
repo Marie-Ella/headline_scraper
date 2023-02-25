@@ -1,12 +1,58 @@
 [
   {
+    "id": 6252951,
+    "slug": "franse-documentaire-wint-gouden-beer-in-berlijn-negenjarige-krijgt-zilveren-beer",
+    "type": "article",
+    "title": "Franse documentaire wint Gouden Beer in Berlijn, negenjarige krijgt Zilveren Beer",
+    "subtitle": null,
+    "published_at": "2023-02-25T22:03:30+01:00",
+    "updated_at": "2023-02-25T22:13:41+01:00",
+    "media_id": "y9sxtn5aqado",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6252951/franse-documentaire-wint-gouden-beer-in-berlijn-negenjarige-krijgt-zilveren-beer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252950,
+    "slug": "az-blijft-in-spoor-van-koploper-feyenoord-door-benauwde-zege-op-cambuur",
+    "type": "article",
+    "title": "AZ blijft in spoor van koploper Feyenoord door benauwde zege op Cambuur",
+    "subtitle": null,
+    "published_at": "2023-02-25T21:58:59+01:00",
+    "updated_at": "2023-02-25T22:13:55+01:00",
+    "media_id": "mwoxll2a50zw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252950/az-blijft-in-spoor-van-koploper-feyenoord-door-benauwde-zege-op-cambuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252944,
     "slug": "van-der-ree-opgelucht-na-zege-groningen-hebben-de-laatste-strohalm-gegrepen",
     "type": "article",
     "title": "Van der Ree opgelucht na zege Groningen: 'Hebben de laatste strohalm gegrepen'",
     "subtitle": null,
     "published_at": "2023-02-25T21:15:38+01:00",
-    "updated_at": "2023-02-25T21:24:50+01:00",
+    "updated_at": "2023-02-25T22:03:34+01:00",
     "media_id": "2ewxpw4ay41o",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "RKC boekt verrassend ruime zege in Heerenveen dankzij drie assists Seuntjens",
     "subtitle": null,
     "published_at": "2023-02-25T20:45:10+01:00",
-    "updated_at": "2023-02-25T21:15:22+01:00",
+    "updated_at": "2023-02-25T22:03:40+01:00",
     "media_id": "o8lxyp1a630y",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Groningen boekt in degradatiekraker tegen Excelsior eerste zege sinds oktober",
     "subtitle": null,
     "published_at": "2023-02-25T18:20:16+01:00",
-    "updated_at": "2023-02-25T20:45:39+01:00",
+    "updated_at": "2023-02-25T22:11:02+01:00",
     "media_id": "y2kxllsa4d3q",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252928/dortmund-kan-door-negende-zege-op-rij-als-koploper-naar-duitse-topper-kijken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252931,
-    "slug": "wiebes-sprint-naar-tweede-plek-in-omloop-belgische-primeur-met-zege-kopecky",
-    "type": "article",
-    "title": "Wiebes sprint naar tweede plek in Omloop, Belgische primeur met zege Kopecky",
-    "subtitle": null,
-    "published_at": "2023-02-25T17:26:17+01:00",
-    "updated_at": "2023-02-25T19:01:22+01:00",
-    "media_id": "pkoxtldat891",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6252931/wiebes-sprint-naar-tweede-plek-in-omloop-belgische-primeur-met-zege-kopecky.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252929,
-    "slug": "regen-zorgt-voor-verkeerschaos-rond-luchthaven-los-angeles",
-    "type": "video",
-    "title": "Regen zorgt voor verkeerschaos rond luchthaven Los Angeles",
-    "subtitle": "Video",
-    "published_at": "2023-02-25T17:17:07+01:00",
-    "updated_at": "2023-02-25T17:19:34+01:00",
-    "media_id": "b3oxjm3azi6n",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252929/regen-zorgt-voor-verkeerschaos-rond-luchthaven-los-angeles.html",
     "open_new_window": false,
     "partner": null
   }
