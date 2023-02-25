@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252906,
+    "slug": "hulpdiensten-rukken-uit-na-omslaan-pontje-in-zuid-hollands-natuurgebied",
+    "type": "video",
+    "title": "Hulpdiensten rukken uit na omslaan pontje in Zuid-Hollands natuurgebied",
+    "subtitle": "Video",
+    "published_at": "2023-02-25T14:06:35+01:00",
+    "updated_at": "2023-02-25T14:06:36+01:00",
+    "media_id": "e5nxt2maca1m",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252906/hulpdiensten-rukken-uit-na-omslaan-pontje-in-zuid-hollands-natuurgebied.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252905,
     "slug": "g20-landen-nog-niet-eens-over-kwijtschelding-schulden-van-armere-landen",
     "type": "article",
     "title": "G20-landen nog niet eens over kwijtschelding schulden van armere landen",
     "subtitle": null,
     "published_at": "2023-02-25T13:58:06+01:00",
-    "updated_at": "2023-02-25T13:58:08+01:00",
+    "updated_at": "2023-02-25T14:06:33+01:00",
     "media_id": "i0cxz0nar6yu",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Verdachte dodelijke schietpartij Zwijndrecht opgepakt na wekenlange zoektocht",
     "subtitle": null,
     "published_at": "2023-02-25T13:44:32+01:00",
-    "updated_at": "2023-02-25T13:57:35+01:00",
+    "updated_at": "2023-02-25T13:59:42+01:00",
     "media_id": "bekxk6daqasx",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6252902,
-    "slug": "groenewegen-kan-dag-na-imposante-ritzege-niet-meedoen-om-dagsucces-in-uae-tour",
+    "slug": "groenewegen-kan-dag-na-imposante-zege-niet-meedoen-om-ritwinst-in-uae-tour",
     "type": "article",
-    "title": "Groenewegen kan dag na imposante ritzege niet meedoen om dagsucces in UAE Tour",
+    "title": "Groenewegen kan dag na imposante zege niet meedoen om ritwinst in UAE Tour",
     "subtitle": null,
     "published_at": "2023-02-25T13:34:54+01:00",
-    "updated_at": "2023-02-25T13:50:36+01:00",
+    "updated_at": "2023-02-25T14:09:17+01:00",
     "media_id": "mdqxzotaki4k",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6252902/groenewegen-kan-dag-na-imposante-ritzege-niet-meedoen-om-dagsucces-in-uae-tour.html",
+    "url": "/wielrennen/6252902/groenewegen-kan-dag-na-imposante-zege-niet-meedoen-om-ritwinst-in-uae-tour.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Vier mensen naar het ziekenhuis na omslaan wandelaarspont in Zuidland",
     "subtitle": null,
     "published_at": "2023-02-25T12:14:48+01:00",
-    "updated_at": "2023-02-25T13:24:41+01:00",
+    "updated_at": "2023-02-25T14:06:58+01:00",
     "media_id": "m89x2wcaxecm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6252877/perez-snel-in-laatste-testsessie-nederlanders-niet-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252875,
-    "slug": "turkse-journalisten-opgepakt-omdat-ze-nepnieuws-over-aardbeving-zouden-delen",
-    "type": "article",
-    "title": "Turkse journalisten opgepakt omdat ze nepnieuws over aardbeving zouden delen",
-    "subtitle": null,
-    "published_at": "2023-02-25T06:47:29+01:00",
-    "updated_at": "2023-02-25T08:15:05+01:00",
-    "media_id": "08rxxnka8r9q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6252875/turkse-journalisten-opgepakt-omdat-ze-nepnieuws-over-aardbeving-zouden-delen.html",
     "open_new_window": false,
     "partner": null
   }
