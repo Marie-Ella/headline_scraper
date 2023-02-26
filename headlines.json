@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252959,
+    "slug": "weerbericht-in-de-ochtend-code-geel-wegens-gladheid-daarna-flink-wat-zon",
+    "type": "article",
+    "title": "Weerbericht: In de ochtend code geel wegens gladheid, daarna flink wat zon",
+    "subtitle": null,
+    "published_at": "2023-02-26T05:31:23+01:00",
+    "updated_at": "2023-02-26T05:42:58+01:00",
+    "media_id": "dgcxgkiatfrq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252959/weerbericht-in-de-ochtend-code-geel-wegens-gladheid-daarna-flink-wat-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252958,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6252613/ook-particulieren-pikken-gemeentegrond-en-die-diefstal-loont-nog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252943,
-    "slug": "zelensky-geeft-rondleiding-door-zijn-oorlogsvertrek",
-    "type": "video",
-    "title": "Zelensky geeft rondleiding door zijn oorlogsvertrek",
-    "subtitle": "Video",
-    "published_at": "2023-02-25T20:01:59+01:00",
-    "updated_at": "2023-02-25T20:02:00+01:00",
-    "media_id": "hgdxfkda8hbm",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252943/zelensky-geeft-rondleiding-door-zijn-oorlogsvertrek.html",
     "open_new_window": false,
     "partner": null
   }
