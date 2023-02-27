@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253084,
+    "slug": "veel-vegaburgers-zijn-volgens-consumentenbond-te-zout-of-te-vet",
+    "type": "article",
+    "title": "Veel vegaburgers zijn volgens Consumentenbond te zout of te vet",
+    "subtitle": null,
+    "published_at": "2023-02-27T09:06:58+01:00",
+    "updated_at": "2023-02-27T09:07:00+01:00",
+    "media_id": "mzixz8kaymbq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6253084/veel-vegaburgers-zijn-volgens-consumentenbond-te-zout-of-te-vet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253079,
     "slug": "nog-duizenden-coronaboetes-op-de-plank-en-de-eerste-zaken-dreigen-te-verjaren",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Musk schrapt mogelijk opnieuw honderden banen bij Twitter",
     "subtitle": null,
     "published_at": "2023-02-27T07:57:04+01:00",
-    "updated_at": "2023-02-27T08:47:34+01:00",
+    "updated_at": "2023-02-27T08:49:18+01:00",
     "media_id": "7vpxsxmat52p",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6253068,
-    "slug": "postnl-schrapt-enkele-honderden-banen-om-kosten-te-besparen",
+    "slug": "honderden-banen-weg-bij-postnl-om-kosten-te-besparen",
     "type": "article",
-    "title": "PostNL schrapt enkele honderden banen om kosten te besparen",
+    "title": "Honderden banen weg bij PostNL om kosten te besparen",
     "subtitle": null,
     "published_at": "2023-02-27T07:08:54+01:00",
-    "updated_at": "2023-02-27T08:25:55+01:00",
+    "updated_at": "2023-02-27T09:12:07+01:00",
     "media_id": "j3bx8tratacg",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6253068/postnl-schrapt-enkele-honderden-banen-om-kosten-te-besparen.html",
+    "url": "/economie/6253068/honderden-banen-weg-bij-postnl-om-kosten-te-besparen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6252581/waarom-boeren-de-waterschapsverkiezingen-dit-jaar-vrezen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252398,
-    "slug": "brengt-de-aardbeving-in-turkije-oude-vijanden-bij-elkaar",
-    "type": "article",
-    "title": "Brengt de aardbeving in Turkije oude vijanden bij elkaar?",
-    "subtitle": "NU+",
-    "published_at": "2023-02-27T05:15:15+01:00",
-    "updated_at": "2023-02-27T05:19:39+01:00",
-    "media_id": "lmhx5wma250g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6252398/brengt-de-aardbeving-in-turkije-oude-vijanden-bij-elkaar.html",
     "open_new_window": false,
     "partner": null
   }
