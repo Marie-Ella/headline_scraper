@@ -1,13 +1,36 @@
 [
   {
+    "id": 6253210,
+    "slug": "de-mooiste-fotos-van-het-fifa-gala-in-parijs",
+    "type": "article",
+    "title": "De mooiste foto's van het FIFA-gala in Parijs",
+    "subtitle": "In beeld",
+    "published_at": "2023-02-27T23:27:52+01:00",
+    "updated_at": "2023-02-27T23:27:53+01:00",
+    "media_id": "cu7xnvlap2ei",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253210/de-mooiste-fotos-van-het-fifa-gala-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253203,
     "slug": "strijd-om-oost-oekraiense-stad-bakhmut-wordt-steeds-benauwder",
     "type": "article",
     "title": "Strijd om Oost-Oekraïense stad Bakhmut wordt steeds benauwder",
     "subtitle": "Overzicht",
     "published_at": "2023-02-27T23:18:47+01:00",
-    "updated_at": "2023-02-27T23:19:19+01:00",
-    "media_id": "cbtxreeaar20",
+    "updated_at": "2023-02-27T23:33:51+01:00",
+    "media_id": "2ybxeozadjqq",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -75,8 +98,8 @@
     "title": "Messi troeft Mbappé ook af in strijd om FIFA-prijs voor Speler van het Jaar",
     "subtitle": null,
     "published_at": "2023-02-27T22:38:58+01:00",
-    "updated_at": "2023-02-27T23:18:12+01:00",
-    "media_id": "d1rxev3a2tpc",
+    "updated_at": "2023-02-27T23:33:17+01:00",
+    "media_id": "sx0x7dmawmae",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -121,7 +144,7 @@
     "title": "Koploper PEC Zwolle laat zege glippen en verliest door late goals MVV",
     "subtitle": null,
     "published_at": "2023-02-27T22:20:01+01:00",
-    "updated_at": "2023-02-27T22:48:13+01:00",
+    "updated_at": "2023-02-27T23:31:11+01:00",
     "media_id": "3z3xwtvaqpcn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6253186/alle-weggehaalde-honden-van-fokker-in-brabant-hebben-nu-veilig-onderkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253185,
-    "slug": "duizenden-sardines-spoelen-aan-op-filipijns-strand",
-    "type": "video",
-    "title": "Duizenden sardines spoelen aan op Filipijns strand",
-    "subtitle": "Video",
-    "published_at": "2023-02-27T19:07:53+01:00",
-    "updated_at": "2023-02-27T20:09:41+01:00",
-    "media_id": "b0lxyt2a9khy",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253185/duizenden-sardines-spoelen-aan-op-filipijns-strand.html",
     "open_new_window": false,
     "partner": null
   }
