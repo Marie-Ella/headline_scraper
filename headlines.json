@@ -1,5 +1,51 @@
 [
   {
+    "id": 6253172,
+    "slug": "autos-werden-het-afgelopen-jaar-een-stuk-duurder",
+    "type": "article",
+    "title": "Auto's werden het afgelopen jaar een stuk duurder",
+    "subtitle": null,
+    "published_at": "2023-02-28T00:00:55+01:00",
+    "updated_at": "2023-02-28T00:00:56+01:00",
+    "media_id": "qe1xkm5a4bdi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6253172/autos-werden-het-afgelopen-jaar-een-stuk-duurder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253118,
+    "slug": "aantal-mensen-in-bijstand-daalt-naar-laagste-punt-in-bijna-tien-jaar",
+    "type": "article",
+    "title": "Aantal mensen in bijstand daalt naar laagste punt in bijna tien jaar",
+    "subtitle": null,
+    "published_at": "2023-02-28T00:00:23+01:00",
+    "updated_at": "2023-02-28T00:00:24+01:00",
+    "media_id": "cb0xzy6anvr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6253118/aantal-mensen-in-bijstand-daalt-naar-laagste-punt-in-bijna-tien-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253210,
     "slug": "de-mooiste-fotos-van-het-fifa-gala-in-parijs",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Messi troeft Mbappé ook af in strijd om FIFA-prijs voor Speler van het Jaar",
     "subtitle": null,
     "published_at": "2023-02-27T22:38:58+01:00",
-    "updated_at": "2023-02-27T23:42:40+01:00",
+    "updated_at": "2023-02-28T00:00:07+01:00",
     "media_id": "sx0x7dmawmae",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Wiegman na Europese titel met Engeland verkozen tot Coach van het Jaar",
     "subtitle": null,
     "published_at": "2023-02-27T21:43:56+01:00",
-    "updated_at": "2023-02-27T23:44:27+01:00",
+    "updated_at": "2023-02-27T23:58:06+01:00",
     "media_id": "fk8xj4pa46sd",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Promes neemt in blessuretijd van bekerduel drie strafschoppen en mist er twee",
     "subtitle": null,
     "published_at": "2023-02-27T21:04:49+01:00",
-    "updated_at": "2023-02-27T21:13:03+01:00",
+    "updated_at": "2023-02-27T23:52:31+01:00",
     "media_id": "7mtxizjapoiu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6253189/wu-tang-clan-en-nas-treden-samen-op-in-ziggo-dome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253188,
-    "slug": "psv-houdt-bakayoko-na-afwijzen-van-miljoenenbod-psg-extra-jaar-binnenboord",
-    "type": "article",
-    "title": "PSV houdt Bakayoko na afwijzen van miljoenenbod PSG extra jaar binnenboord",
-    "subtitle": null,
-    "published_at": "2023-02-27T19:27:07+01:00",
-    "updated_at": "2023-02-27T20:13:47+01:00",
-    "media_id": "9gtxa4ba50is",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253188/psv-houdt-bakayoko-na-afwijzen-van-miljoenenbod-psg-extra-jaar-binnenboord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253186,
-    "slug": "alle-weggehaalde-honden-van-fokker-in-brabant-hebben-nu-veilig-onderkomen",
-    "type": "article",
-    "title": "Alle weggehaalde honden van fokker in Brabant hebben nu veilig onderkomen",
-    "subtitle": null,
-    "published_at": "2023-02-27T19:25:09+01:00",
-    "updated_at": "2023-02-27T19:25:11+01:00",
-    "media_id": "wsmxap7ae64g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6253186/alle-weggehaalde-honden-van-fokker-in-brabant-hebben-nu-veilig-onderkomen.html",
     "open_new_window": false,
     "partner": null
   }
