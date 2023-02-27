@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253059,
+    "slug": "weerbericht-zonnige-winterdag-behoorlijk-koud-in-de-ochtend",
+    "type": "article",
+    "title": "Weerbericht: Zonnige winterdag, behoorlijk koud in de ochtend",
+    "subtitle": null,
+    "published_at": "2023-02-27T05:31:20+01:00",
+    "updated_at": "2023-02-27T05:31:21+01:00",
+    "media_id": "7d6xb1naujbs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253059/weerbericht-zonnige-winterdag-behoorlijk-koud-in-de-ochtend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253058,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -185,12 +208,12 @@
   },
   {
     "id": 6253057,
-    "slug": "noorderlicht-goed-zichtbaar-op-verschillende-plekken-in-het-land",
+    "slug": "noorderlicht-was-goed-zichtbaar-op-verschillende-plekken-in-het-land",
     "type": "article",
-    "title": "Noorderlicht goed zichtbaar op verschillende plekken in het land",
+    "title": "Noorderlicht was goed zichtbaar op verschillende plekken in het land",
     "subtitle": null,
     "published_at": "2023-02-27T01:07:40+01:00",
-    "updated_at": "2023-02-27T01:20:12+01:00",
+    "updated_at": "2023-02-27T05:34:38+01:00",
     "media_id": "hbnxy1fa31j9",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6253057/noorderlicht-goed-zichtbaar-op-verschillende-plekken-in-het-land.html",
+    "url": "/binnenland/6253057/noorderlicht-was-goed-zichtbaar-op-verschillende-plekken-in-het-land.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6253037/luuk-de-jong-viert-honderdste-eredivisie-goal-voor-psv-wist-het-zelf-niet-eens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253038,
-    "slug": "ontroerende-knuffelregen-bij-duel-besiktas-voor-kinderen-in-rampgebied",
-    "type": "video",
-    "title": "Ontroerende knuffelregen bij duel Besiktas voor kinderen in rampgebied",
-    "subtitle": "Video",
-    "published_at": "2023-02-26T19:38:54+01:00",
-    "updated_at": "2023-02-26T19:38:57+01:00",
-    "media_id": "ybdxymdahslz",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6253038/ontroerende-knuffelregen-bij-duel-besiktas-voor-kinderen-in-rampgebied.html",
     "open_new_window": false,
     "partner": null
   }
