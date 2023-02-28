@@ -1,5 +1,51 @@
 [
   {
+    "id": 6253332,
+    "slug": "defensie-maakt-gat-in-testdijk-met-explosief-in-marnewaard",
+    "type": "video",
+    "title": "Defensie maakt gat in testdijk met explosief in Marnewaard",
+    "subtitle": "Video",
+    "published_at": "2023-02-28T18:11:45+01:00",
+    "updated_at": "2023-02-28T18:11:47+01:00",
+    "media_id": "go3xq10aitem",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253332/defensie-maakt-gat-in-testdijk-met-explosief-in-marnewaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253310,
+    "slug": "coronagolven-komen-hier-nog-altijd-voor-maar-hebben-steeds-minder-impact",
+    "type": "article",
+    "title": "Coronagolven komen hier nog altijd voor, maar hebben steeds minder impact",
+    "subtitle": null,
+    "published_at": "2023-02-28T17:51:16+01:00",
+    "updated_at": "2023-02-28T17:51:17+01:00",
+    "media_id": "s9axtaqa2wby",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6253310/coronagolven-komen-hier-nog-altijd-voor-maar-hebben-steeds-minder-impact.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253328,
     "slug": "luchtbeelden-tonen-schade-aan-huizen-na-aardverschuiving-in-vs",
     "type": "video",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6253254,
-    "slug": "onze-oude-kleding-komt-wel-goed-in-afrika-terecht-maar-hier-houden-is-beter",
+    "slug": "onze-oude-kleding-komt-goed-in-afrika-terecht-maar-hier-houden-is-beter",
     "type": "article",
-    "title": "Onze oude kleding komt wel goed in Afrika terecht (maar hier houden is beter)",
+    "title": "Onze oude kleding komt goed in Afrika terecht (maar hier houden is beter)",
     "subtitle": "NU+",
     "published_at": "2023-02-28T17:31:14+01:00",
-    "updated_at": "2023-02-28T17:43:09+01:00",
+    "updated_at": "2023-02-28T18:03:16+01:00",
     "media_id": "ipsxp25awddr",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6253254/onze-oude-kleding-komt-wel-goed-in-afrika-terecht-maar-hier-houden-is-beter.html",
+    "url": "/economie/6253254/onze-oude-kleding-komt-goed-in-afrika-terecht-maar-hier-houden-is-beter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6253291/werkgroep-beslist-over-lot-van-gehekelde-bondscoach-franse-voetbalsters.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253289,
-    "slug": "paarden-trekken-sleeers-met-tafel-en-lamp-door-canadese-sneeuw",
-    "type": "video",
-    "title": "Paarden trekken sleeërs met tafel en lamp door Canadese sneeuw",
-    "subtitle": "Video",
-    "published_at": "2023-02-28T14:09:58+01:00",
-    "updated_at": "2023-02-28T14:33:22+01:00",
-    "media_id": "ndixop9ancgo",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253289/paarden-trekken-sleeers-met-tafel-en-lamp-door-canadese-sneeuw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253286,
-    "slug": "40000-syriers-uit-turks-aardbevingsgebied-voorlopig-terug-naar-thuisland",
-    "type": "article",
-    "title": "40.000 Syriërs uit Turks aardbevingsgebied voorlopig terug naar thuisland",
-    "subtitle": null,
-    "published_at": "2023-02-28T14:08:35+01:00",
-    "updated_at": "2023-02-28T14:26:31+01:00",
-    "media_id": "siuxxzlad5kd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6253286/40000-syriers-uit-turks-aardbevingsgebied-voorlopig-terug-naar-thuisland.html",
     "open_new_window": false,
     "partner": null
   }
