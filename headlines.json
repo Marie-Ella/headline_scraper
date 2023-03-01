@@ -1,5 +1,51 @@
 [
   {
+    "id": 6253408,
+    "slug": "franse-wk-legende-fontaine-op-89-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Franse WK-legende Fontaine op 89-jarige leeftijd overleden",
+    "subtitle": null,
+    "published_at": "2023-03-01T10:49:43+01:00",
+    "updated_at": "2023-03-01T10:49:44+01:00",
+    "media_id": "nluxfneac583",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253408/franse-wk-legende-fontaine-op-89-jarige-leeftijd-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253404,
+    "slug": "mallorca-bedekt-door-zeldzaam-pak-sneeuw",
+    "type": "video",
+    "title": "Mallorca bedekt door zeldzaam pak sneeuw",
+    "subtitle": "Video",
+    "published_at": "2023-03-01T10:30:44+01:00",
+    "updated_at": "2023-03-01T10:49:51+01:00",
+    "media_id": "ehtx6rpamokf",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6253404/mallorca-bedekt-door-zeldzaam-pak-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253401,
     "slug": "stap-budget-kan-ook-later-deze-week-nog-niet-worden-aangevraagd",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Domper voor PSV in titelstrijd: keeper Benítez ligt er weken uit met knieblessure",
     "subtitle": null,
     "published_at": "2023-03-01T10:22:59+01:00",
-    "updated_at": "2023-03-01T10:28:27+01:00",
+    "updated_at": "2023-03-01T10:30:41+01:00",
     "media_id": "zulxduta8bz9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6253290/stelling-belgische-en-nederlandse-omroepen-moeten-vaker-samenwerken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253369,
-    "slug": "gezin-marc-de-hond-helpt-terminaal-zieke-mensen-met-videoportret",
-    "type": "article",
-    "title": "Gezin Marc de Hond helpt terminaal zieke mensen met videoportret",
-    "subtitle": null,
-    "published_at": "2023-03-01T07:00:09+01:00",
-    "updated_at": "2023-03-01T07:13:20+01:00",
-    "media_id": "sduxqx4a6oef",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6253369/gezin-marc-de-hond-helpt-terminaal-zieke-mensen-met-videoportret.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253368,
-    "slug": "bekerhelden-spakenburg-op-grootse-wijze-onthaald-door-supporters",
-    "type": "article",
-    "title": "Bekerhelden Spakenburg op grootse wijze onthaald door supporters",
-    "subtitle": "In beeld",
-    "published_at": "2023-03-01T07:00:01+01:00",
-    "updated_at": "2023-03-01T07:04:16+01:00",
-    "media_id": "za4xbgoab77g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253368/bekerhelden-spakenburg-op-grootse-wijze-onthaald-door-supporters.html",
     "open_new_window": false,
     "partner": null
   }
