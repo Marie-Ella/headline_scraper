@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253610,
+    "slug": "trein-ramt-vrachtwagen-op-amerikaanse-spoorwegovergang",
+    "type": "video",
+    "title": "Trein ramt vrachtwagen op Amerikaanse spoorwegovergang",
+    "subtitle": "Video",
+    "published_at": "2023-03-02T15:30:49+01:00",
+    "updated_at": "2023-03-02T15:30:50+01:00",
+    "media_id": "qmaxe9baqalk",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6253610/trein-ramt-vrachtwagen-op-amerikaanse-spoorwegovergang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253599,
     "slug": "fifa-krijgt-forse-kritiek-voor-het-aanstellen-van-topmodel-als-ambassadeur",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6253595,
-    "slug": "sinkhole-slokt-geparkeerde-auto-op-in-vs",
+    "slug": "zinkgat-slokt-geparkeerde-auto-op-in-vs",
     "type": "video",
-    "title": "Sinkhole slokt geparkeerde auto op in VS",
+    "title": "Zinkgat slokt geparkeerde auto op in VS",
     "subtitle": "Video",
     "published_at": "2023-03-02T14:06:58+01:00",
-    "updated_at": "2023-03-02T14:07:00+01:00",
+    "updated_at": "2023-03-02T15:21:23+01:00",
     "media_id": "b1mxuxwa3yr3",
     "duration": "0:36",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6253595/sinkhole-slokt-geparkeerde-auto-op-in-vs.html",
+    "url": "/buitenland/6253595/zinkgat-slokt-geparkeerde-auto-op-in-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6253562/turncoach-wevers-ook-in-hoger-beroep-vrijgesproken-van-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253557,
-    "slug": "nog-steeds-problemen-bij-inloggen-met-digid-oplossing-lijkt-in-zicht",
-    "type": "article",
-    "title": "Nog steeds problemen bij inloggen met DigiD, oplossing lijkt in zicht",
-    "subtitle": null,
-    "published_at": "2023-03-02T11:03:26+01:00",
-    "updated_at": "2023-03-02T14:45:04+01:00",
-    "media_id": "52yxxjba88zs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6253557/nog-steeds-problemen-bij-inloggen-met-digid-oplossing-lijkt-in-zicht.html",
     "open_new_window": false,
     "partner": null
   }
