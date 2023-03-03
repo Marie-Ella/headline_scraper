@@ -1,13 +1,82 @@
 [
   {
-    "id": 6253818,
-    "slug": "nederlandse-vrouwen-pakken-verrassend-wereldtitel-op-ploegenachtervolging",
+    "id": 6253820,
+    "slug": "omstander-filmt-schietpartij-in-roosendaal",
+    "type": "video",
+    "title": "Omstander filmt schietpartij in Roosendaal",
+    "subtitle": "Video",
+    "published_at": "2023-03-03T19:49:16+01:00",
+    "updated_at": "2023-03-03T19:49:20+01:00",
+    "media_id": "9kjx532arwh1",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253820/omstander-filmt-schietpartij-in-roosendaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253817,
+    "slug": "kogelstootster-schilder-stelt-teleur-en-eindigt-als-vijfde-op-ek-indoor",
     "type": "article",
-    "title": "Nederlandse vrouwen pakken verrassend wereldtitel op ploegenachtervolging",
+    "title": "Kogelstootster Schilder stelt teleur en eindigt als vijfde op EK indoor",
+    "subtitle": null,
+    "published_at": "2023-03-03T19:47:16+01:00",
+    "updated_at": "2023-03-03T19:47:18+01:00",
+    "media_id": "zhqxjqcaho9m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6253817/kogelstootster-schilder-stelt-teleur-en-eindigt-als-vijfde-op-ek-indoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253819,
+    "slug": "utrecht-zoekt-naar-eerherstel-na-bekerblamage",
+    "type": "article",
+    "title": "Utrecht zoekt naar eerherstel na bekerblamage",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-03-03T19:32:28+01:00",
+    "updated_at": "2023-03-03T19:47:30+01:00",
+    "media_id": "k8wxax3a7jtw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253819/utrecht-zoekt-naar-eerherstel-na-bekerblamage.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253818,
+    "slug": "diskwalificatie-kost-nederlandse-schaatssters-wereldtitel-op-ploegenachtervolging",
+    "type": "article",
+    "title": "Diskwalificatie kost Nederlandse schaatssters wereldtitel op ploegenachtervolging",
     "subtitle": null,
     "published_at": "2023-03-03T19:23:30+01:00",
-    "updated_at": "2023-03-03T19:23:31+01:00",
-    "media_id": "sbpxthsa4jbe",
+    "updated_at": "2023-03-03T19:49:53+01:00",
+    "media_id": "95ixcvuaplpc",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -18,7 +87,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6253818/nederlandse-vrouwen-pakken-verrassend-wereldtitel-op-ploegenachtervolging.html",
+    "url": "/schaatsen/6253818/diskwalificatie-kost-nederlandse-schaatssters-wereldtitel-op-ploegenachtervolging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "EU dreigt met sancties tegen China als het land wapens levert aan Rusland",
     "subtitle": null,
     "published_at": "2023-03-03T19:17:37+01:00",
-    "updated_at": "2023-03-03T19:23:12+01:00",
+    "updated_at": "2023-03-03T19:30:44+01:00",
     "media_id": "n6cx44fau9pi",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6253814,
-    "slug": "belgische-vrouw-die-haar-vijf-eigen-kinderen-doodde-krijgt-euthanasie",
+    "slug": "belgische-vrouw-die-haar-vijf-kinderen-doodde-krijgt-euthanasie",
     "type": "article",
-    "title": "Belgische vrouw die haar vijf eigen kinderen doodde, krijgt euthanasie",
+    "title": "Belgische vrouw die haar vijf kinderen doodde krijgt euthanasie",
     "subtitle": null,
     "published_at": "2023-03-03T19:02:17+01:00",
-    "updated_at": "2023-03-03T19:23:43+01:00",
+    "updated_at": "2023-03-03T19:42:37+01:00",
     "media_id": "9hzxufbakyx5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6253814/belgische-vrouw-die-haar-vijf-eigen-kinderen-doodde-krijgt-euthanasie.html",
+    "url": "/buitenland/6253814/belgische-vrouw-die-haar-vijf-kinderen-doodde-krijgt-euthanasie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,13 +185,13 @@
   },
   {
     "id": 6253812,
-    "slug": "schaatssters-grijpen-wereldtitel-op-ploegenachtervolging",
+    "slug": "reacties-na-diskwalificatie-op-ploegenachtervolging-vrouwen",
     "type": "article",
-    "title": "Schaatssters grijpen wereldtitel op ploegenachtervolging",
+    "title": "Reacties na diskwalificatie op ploegenachtervolging vrouwen",
     "subtitle": "Liveblog WK afstanden",
     "published_at": "2023-03-03T18:41:37+01:00",
-    "updated_at": "2023-03-03T19:23:31+01:00",
-    "media_id": "9uyxoauamca3",
+    "updated_at": "2023-03-03T19:43:32+01:00",
+    "media_id": "rhkx9gna0yec",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -133,7 +202,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6253812/schaatssters-grijpen-wereldtitel-op-ploegenachtervolging.html",
+    "url": "/schaatsen/6253812/reacties-na-diskwalificatie-op-ploegenachtervolging-vrouwen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +374,7 @@
     "title": "Bol en Klaver overtuigend naar finale 400 meter op EK, Bonevacia uitgeschakeld",
     "subtitle": null,
     "published_at": "2023-03-03T17:31:58+01:00",
-    "updated_at": "2023-03-03T19:21:54+01:00",
+    "updated_at": "2023-03-03T19:39:46+01:00",
     "media_id": "z1mx3qlaj9qw",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6253790/klagende-verstappen-tweede-achter-verrassing-alonso-in-tweede-training-bahrein.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253793,
-    "slug": "hamilton-mag-ondanks-verbod-definitief-neuspiercing-dragen-tijdens-race",
-    "type": "article",
-    "title": "Hamilton mag ondanks verbod definitief neuspiercing dragen tijdens race",
-    "subtitle": null,
-    "published_at": "2023-03-03T17:03:22+01:00",
-    "updated_at": "2023-03-03T17:41:28+01:00",
-    "media_id": "hqsxy3eai9ex",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Bahrein",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6253793/hamilton-mag-ondanks-verbod-definitief-neuspiercing-dragen-tijdens-race.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253791,
-    "slug": "russische-schatkist-krijgt-klap-door-lagere-verkoop-olie-en-gas",
-    "type": "article",
-    "title": "Russische schatkist krijgt klap door lagere verkoop olie en gas",
-    "subtitle": null,
-    "published_at": "2023-03-03T16:50:28+01:00",
-    "updated_at": "2023-03-03T17:14:19+01:00",
-    "media_id": "envx2suadaly",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6253791/russische-schatkist-krijgt-klap-door-lagere-verkoop-olie-en-gas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253789,
-    "slug": "duizenden-belgische-boeren-rijden-met-tractor-naar-brussel",
-    "type": "video",
-    "title": "Duizenden Belgische boeren rijden met tractor naar Brussel",
-    "subtitle": "Video",
-    "published_at": "2023-03-03T16:27:36+01:00",
-    "updated_at": "2023-03-03T16:34:36+01:00",
-    "media_id": "0gkx6krayb8z",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253789/duizenden-belgische-boeren-rijden-met-tractor-naar-brussel.html",
     "open_new_window": false,
     "partner": null
   }
