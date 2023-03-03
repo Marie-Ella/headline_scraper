@@ -1,5 +1,120 @@
 [
   {
+    "id": 6253751,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: Deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2023-03-03T13:35:26+01:00",
+    "updated_at": "2023-03-03T13:36:02+01:00",
+    "media_id": "fwuxmh6a9vaq",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6253751/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253753,
+    "slug": "bodycam-filmt-hoe-agenten-man-uit-gezonken-auto-redden-in-vs",
+    "type": "video",
+    "title": "Bodycam filmt hoe agenten man uit gezonken auto redden in VS",
+    "subtitle": "Video",
+    "published_at": "2023-03-03T13:35:24+01:00",
+    "updated_at": "2023-03-03T13:35:25+01:00",
+    "media_id": "63hxxzmaekef",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6253753/bodycam-filmt-hoe-agenten-man-uit-gezonken-auto-redden-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253734,
+    "slug": "energie-update-gasprijs-zakt-nog-verder-weg-voorraad-blijft-op-peil",
+    "type": "article",
+    "title": "Energie-update: Gasprijs zakt nog verder weg, voorraad blijft op peil",
+    "subtitle": null,
+    "published_at": "2023-03-03T13:14:16+01:00",
+    "updated_at": "2023-03-03T13:29:35+01:00",
+    "media_id": "5ssx8ytayce7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6253734/energie-update-gasprijs-zakt-nog-verder-weg-voorraad-blijft-op-peil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253715,
+    "slug": "keeper-verbruggen-geertruida-wieffer-en-hartman-in-voorselectie-oranje",
+    "type": "article",
+    "title": "Keeper Verbruggen, Geertruida, Wieffer en Hartman in voorselectie Oranje",
+    "subtitle": null,
+    "published_at": "2023-03-03T13:04:33+01:00",
+    "updated_at": "2023-03-03T13:36:27+01:00",
+    "media_id": "69rx6eqawm2a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253715/keeper-verbruggen-geertruida-wieffer-en-hartman-in-voorselectie-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253741,
+    "slug": "wereldkampioene-wiklund-is-nu-geen-verrassing-meer-totaal-anders-dan-in-2021",
+    "type": "article",
+    "title": "Wereldkampioene Wiklund is nu geen verrassing meer: 'Totaal anders dan in 2021'",
+    "subtitle": null,
+    "published_at": "2023-03-03T12:51:47+01:00",
+    "updated_at": "2023-03-03T12:51:49+01:00",
+    "media_id": "shwxxdza8flw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6253741/wereldkampioene-wiklund-is-nu-geen-verrassing-meer-totaal-anders-dan-in-2021.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253738,
     "slug": "financieel-gepuzzel-bij-belastingaangifte-toch-terug-door-verstoringen",
     "type": "article",
@@ -98,7 +213,7 @@
     "title": "Politie Limburg heeft verdachten van juwelenroof op kunstbeurs TEFAF in vizier",
     "subtitle": null,
     "published_at": "2023-03-03T12:16:55+01:00",
-    "updated_at": "2023-03-03T12:24:07+01:00",
+    "updated_at": "2023-03-03T12:56:46+01:00",
     "media_id": "rdexl0qa7f0u",
     "duration": null,
     "canonical_section": {
@@ -139,13 +254,13 @@
   },
   {
     "id": 6253731,
-    "slug": "red-bull-meteen-snel-in-eerste-training-bahrein-de-vries-in-middenmoot",
+    "slug": "lees-hier-alles-terug-over-de-eerste-training-in-bahrein",
     "type": "article",
-    "title": "Red Bull meteen snel in eerste training Bahrein, De Vries in middenmoot",
+    "title": "Lees hier alles terug over de eerste training in Bahrein",
     "subtitle": "Liveblog F1",
     "published_at": "2023-03-03T12:10:58+01:00",
-    "updated_at": "2023-03-03T12:45:51+01:00",
-    "media_id": "s58xjfia9b0d",
+    "updated_at": "2023-03-03T13:32:13+01:00",
+    "media_id": "elkxu6rah6vk",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -156,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6253731/red-bull-meteen-snel-in-eerste-training-bahrein-de-vries-in-middenmoot.html",
+    "url": "/formule-1/6253731/lees-hier-alles-terug-over-de-eerste-training-in-bahrein.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +305,7 @@
     "title": "Luuk de Jong (32) zet per direct punt achter interlandloopbaan",
     "subtitle": null,
     "published_at": "2023-03-03T12:01:06+01:00",
-    "updated_at": "2023-03-03T12:44:08+01:00",
+    "updated_at": "2023-03-03T12:55:46+01:00",
     "media_id": "pwdx344a75lf",
     "duration": null,
     "canonical_section": {
@@ -341,121 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6253721/quincy-promes-in-gesprekken-over-steekincident-ik-wou-het-in-zijn-nek-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253720,
-    "slug": "belarus-veroordeelt-nobelprijswinnaar-voor-vrede-van-2022-tot-tien-jaar-cel",
-    "type": "article",
-    "title": "Belarus veroordeelt Nobelprijswinnaar voor Vrede van 2022 tot tien jaar cel",
-    "subtitle": null,
-    "published_at": "2023-03-03T11:11:52+01:00",
-    "updated_at": "2023-03-03T11:11:53+01:00",
-    "media_id": "z7rxgz2alhc9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253720/belarus-veroordeelt-nobelprijswinnaar-voor-vrede-van-2022-tot-tien-jaar-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253718,
-    "slug": "beelden-tonen-ontdekte-tunnel-in-piramide-van-cheops",
-    "type": "video",
-    "title": "Beelden tonen ontdekte tunnel in piramide van Cheops",
-    "subtitle": "Video",
-    "published_at": "2023-03-03T10:55:35+01:00",
-    "updated_at": "2023-03-03T11:10:42+01:00",
-    "media_id": "72dxjgka8tt4",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253718/beelden-tonen-ontdekte-tunnel-in-piramide-van-cheops.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253714,
-    "slug": "abba-concert-met-virtuele-versies-van-bandleden-gaat-mogelijk-de-wereld-over",
-    "type": "article",
-    "title": "ABBA-concert met virtuele versies van bandleden gaat mogelijk de wereld over",
-    "subtitle": null,
-    "published_at": "2023-03-03T10:53:00+01:00",
-    "updated_at": "2023-03-03T10:53:01+01:00",
-    "media_id": "zlqxbm5a868f",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6253714/abba-concert-met-virtuele-versies-van-bandleden-gaat-mogelijk-de-wereld-over.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253713,
-    "slug": "ex-vriend-ontkent-silvana-heber-36-te-hebben-gedood",
-    "type": "article",
-    "title": "Ex-vriend ontkent Silvana Heber (36) te hebben gedood",
-    "subtitle": null,
-    "published_at": "2023-03-03T10:29:40+01:00",
-    "updated_at": "2023-03-03T10:29:41+01:00",
-    "media_id": "15ixn1pacdj1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6253713/ex-vriend-ontkent-silvana-heber-36-te-hebben-gedood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253711,
-    "slug": "digid-problemen-na-2-dagen-voorbij-iedereen-kan-weer-belastingaangifte-doen",
-    "type": "article",
-    "title": "DigiD-problemen na 2 dagen voorbij: iedereen kan weer belastingaangifte doen",
-    "subtitle": null,
-    "published_at": "2023-03-03T10:27:54+01:00",
-    "updated_at": "2023-03-03T10:33:13+01:00",
-    "media_id": "vf5x5vhaj40q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6253711/digid-problemen-na-2-dagen-voorbij-iedereen-kan-weer-belastingaangifte-doen.html",
     "open_new_window": false,
     "partner": null
   }
