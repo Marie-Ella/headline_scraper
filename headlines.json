@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254003,
+    "slug": "voetbalzondag-begint-met-rotterdamse-derby",
+    "type": "article",
+    "title": "Voetbalzondag begint met Rotterdamse derby",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-03-05T11:45:32+01:00",
+    "updated_at": "2023-03-05T11:45:33+01:00",
+    "media_id": "p05xihwajllm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6254003/voetbalzondag-begint-met-rotterdamse-derby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253999,
     "slug": "drie-politieagenten-mishandeld-na-wedstrijd-volendam-emmen",
     "type": "article",
     "title": "Drie politieagenten mishandeld na wedstrijd Volendam-Emmen",
     "subtitle": null,
     "published_at": "2023-03-05T11:19:24+01:00",
-    "updated_at": "2023-03-05T11:28:37+01:00",
+    "updated_at": "2023-03-05T11:35:07+01:00",
     "media_id": "5xzxr6za7wqo",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Weerman zorgt met zilver op EK voor historisch Nederlands succes bij hoogspringen",
     "subtitle": null,
     "published_at": "2023-03-05T09:28:33+01:00",
-    "updated_at": "2023-03-05T10:09:11+01:00",
+    "updated_at": "2023-03-05T11:44:33+01:00",
     "media_id": "3n3xr4aagmx0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6253973/minder-perfectionistisch-en-oersterk-hoe-leerdam-koningin-van-1000-meter-werd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253237,
-    "slug": "oproep-tot-boycot-nieuwe-harry-potter-game-wat-is-er-aan-de-hand",
-    "type": "article",
-    "title": "Oproep tot boycot nieuwe Harry Potter-game: wat is er aan de hand?",
-    "subtitle": "NU+",
-    "published_at": "2023-03-05T05:08:02+01:00",
-    "updated_at": "2023-03-05T10:06:05+01:00",
-    "media_id": "s6mx5jwa9fbm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6253237/oproep-tot-boycot-nieuwe-harry-potter-game-wat-is-er-aan-de-hand.html",
     "open_new_window": false,
     "partner": null
   }
