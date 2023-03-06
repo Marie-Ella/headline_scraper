@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254207,
+    "slug": "eland-valt-sneeuwscooteraar-aan-in-vs",
+    "type": "video",
+    "title": "Eland valt sneeuwscooteraar aan in VS",
+    "subtitle": "Video",
+    "published_at": "2023-03-06T20:58:47+01:00",
+    "updated_at": "2023-03-06T20:58:48+01:00",
+    "media_id": "gv6xbudal9a8",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6254207/eland-valt-sneeuwscooteraar-aan-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254205,
-    "slug": "img-gaat-niet-meer-in-hoger-beroep-in-zaken-rondom-groningse-aardbevingsschade",
+    "slug": "geen-hoger-beroep-meer-voor-groningers-met-aardbevingsschade",
     "type": "article",
-    "title": "IMG gaat niet meer in hoger beroep in zaken rondom Groningse aardbevingsschade",
+    "title": "Geen hoger beroep meer voor Groningers met aardbevingsschade",
     "subtitle": null,
     "published_at": "2023-03-06T20:46:42+01:00",
-    "updated_at": "2023-03-06T20:46:44+01:00",
+    "updated_at": "2023-03-06T20:54:50+01:00",
     "media_id": "4mxxx0qa8pt2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6254205/img-gaat-niet-meer-in-hoger-beroep-in-zaken-rondom-groningse-aardbevingsschade.html",
+    "url": "/binnenland/6254205/geen-hoger-beroep-meer-voor-groningers-met-aardbevingsschade.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6254179/pedersen-troeft-kooij-af-in-parijs-nice-pogacar-loopt-weer-wat-uit-op-vingegaard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254174,
-    "slug": "nederlanders-kunnen-niet-wachten-om-schaatsfenomeen-stolz-te-verslaan",
-    "type": "article",
-    "title": "Nederlanders kunnen niet wachten om schaatsfenomeen Stolz te verslaan",
-    "subtitle": "NU+",
-    "published_at": "2023-03-06T16:39:09+01:00",
-    "updated_at": "2023-03-06T17:14:25+01:00",
-    "media_id": "2vixukwan8aa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6254174/nederlanders-kunnen-niet-wachten-om-schaatsfenomeen-stolz-te-verslaan.html",
     "open_new_window": false,
     "partner": null
   }
