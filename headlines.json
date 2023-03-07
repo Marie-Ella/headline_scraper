@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254218,
+    "slug": "weerbericht-regen-gaat-gedurende-de-dag-plaatsmaken-voor-natte-sneeuw",
+    "type": "article",
+    "title": "Weerbericht: Regen gaat gedurende de dag plaatsmaken voor (natte) sneeuw",
+    "subtitle": null,
+    "published_at": "2023-03-07T05:48:50+01:00",
+    "updated_at": "2023-03-07T06:13:11+01:00",
+    "media_id": "72zxa23apt97",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254218/weerbericht-regen-gaat-gedurende-de-dag-plaatsmaken-voor-natte-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254217,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-03-07T05:34:00+01:00",
-    "updated_at": "2023-03-07T05:34:01+01:00",
+    "updated_at": "2023-03-07T06:01:37+01:00",
     "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Canada gaat Chinese inmenging in verkiezingen onderzoeken",
     "subtitle": null,
     "published_at": "2023-03-07T05:29:54+01:00",
-    "updated_at": "2023-03-07T05:29:55+01:00",
+    "updated_at": "2023-03-07T06:11:54+01:00",
     "media_id": "s38xfrrapcwf",
     "duration": null,
     "canonical_section": {
@@ -72,10 +95,10 @@
     "id": 6254191,
     "slug": "halve-wereldbevolking-te-zwaar-in-2035-draagt-body-positivity-hieraan-bij",
     "type": "article",
-    "title": "Halve wereldbevolking te zwaar in 2035: draagt ‘body positivity’ hieraan bij?",
+    "title": "Halve wereldbevolking te zwaar in 2035: draagt 'body positivity' hieraan bij?",
     "subtitle": "NU+",
     "published_at": "2023-03-07T05:03:49+01:00",
-    "updated_at": "2023-03-07T05:13:02+01:00",
+    "updated_at": "2023-03-07T06:01:03+01:00",
     "media_id": "oz8x6mnae0tw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254200/water-spuit-met-geweld-uit-wegdek-en-overspoelt-indiase-vrouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254199,
-    "slug": "anwb-winkel-in-puin-nadat-auto-door-gevel-rijdt-in-zeist",
-    "type": "video",
-    "title": "ANWB-winkel in puin nadat auto door gevel rijdt in Zeist",
-    "subtitle": "Video",
-    "published_at": "2023-03-06T19:16:37+01:00",
-    "updated_at": "2023-03-06T19:16:38+01:00",
-    "media_id": "3cqx2xmaylcl",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6254199/anwb-winkel-in-puin-nadat-auto-door-gevel-rijdt-in-zeist.html",
     "open_new_window": false,
     "partner": null
   }
