@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254372,
+    "slug": "weerbericht-s-ochtends-code-oranje-in-zuidoosten-en-geel-in-rest-van-het-land",
+    "type": "article",
+    "title": "Weerbericht: 's ochtends code oranje in zuidoosten en geel in rest van het land",
+    "subtitle": null,
+    "published_at": "2023-03-08T05:30:37+01:00",
+    "updated_at": "2023-03-08T05:30:38+01:00",
+    "media_id": "sc6xxbxa2n89",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254372/weerbericht-s-ochtends-code-oranje-in-zuidoosten-en-geel-in-rest-van-het-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254373,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "Woensdagochtend code oranje in Limburg en Noord-Brabant vanwege gladheid",
     "subtitle": null,
     "published_at": "2023-03-07T20:55:33+01:00",
-    "updated_at": "2023-03-07T22:25:48+01:00",
+    "updated_at": "2023-03-08T05:47:59+01:00",
     "media_id": "r2zx2scamux9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254356/iraanse-schoolmeisjes-happen-naar-adem-na-mogelijke-gifaanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254353,
-    "slug": "az-wint-verrassend-bij-lazio-en-koerst-af-op-kwartfinales-conference-league",
-    "type": "article",
-    "title": "AZ wint verrassend bij Lazio en koerst af op kwartfinales Conference League",
-    "subtitle": null,
-    "published_at": "2023-03-07T20:37:47+01:00",
-    "updated_at": "2023-03-07T21:27:13+01:00",
-    "media_id": "aowxn7ka9uze",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254353/az-wint-verrassend-bij-lazio-en-koerst-af-op-kwartfinales-conference-league.html",
     "open_new_window": false,
     "partner": null
   }
