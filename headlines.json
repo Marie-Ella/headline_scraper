@@ -1,5 +1,51 @@
 [
   {
+    "id": 6254476,
+    "slug": "na-tesla-valt-ook-volkswagen-voor-amerikaanse-miljarden",
+    "type": "article",
+    "title": "Na Tesla valt ook Volkswagen voor Amerikaanse miljarden",
+    "subtitle": null,
+    "published_at": "2023-03-08T18:00:18+01:00",
+    "updated_at": "2023-03-08T18:00:20+01:00",
+    "media_id": "f74xt7laapv9",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6254476/na-tesla-valt-ook-volkswagen-voor-amerikaanse-miljarden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254475,
+    "slug": "inspectie-gezinslocaties-onveilig-voor-kinderen-uitgeprocedeerde-asielzoekers",
+    "type": "article",
+    "title": "Inspectie: Gezinslocaties onveilig voor kinderen uitgeprocedeerde asielzoekers",
+    "subtitle": null,
+    "published_at": "2023-03-08T17:56:58+01:00",
+    "updated_at": "2023-03-08T17:56:59+01:00",
+    "media_id": "g47xvjba8e99",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254475/inspectie-gezinslocaties-onveilig-voor-kinderen-uitgeprocedeerde-asielzoekers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254474,
     "slug": "emma-heesters-breekt-met-wesley-hoedt-fijne-internationale-vrouwendag",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Pogacar kraakt Vingegaard bij eerste duel bergop en grijpt de macht in Parijs-Nice",
     "subtitle": null,
     "published_at": "2023-03-08T16:55:29+01:00",
-    "updated_at": "2023-03-08T17:36:45+01:00",
+    "updated_at": "2023-03-08T18:02:01+01:00",
     "media_id": "aylx8ebanksm",
     "duration": null,
     "canonical_section": {
@@ -167,8 +213,8 @@
     "title": "Luxehelper Van der Poel loodst Philipsen naar overtuigende sprintzege in Tirreno",
     "subtitle": null,
     "published_at": "2023-03-08T16:20:53+01:00",
-    "updated_at": "2023-03-08T16:51:13+01:00",
-    "media_id": "xq8xquaamgms",
+    "updated_at": "2023-03-08T17:52:08+01:00",
+    "media_id": "rscxv8na1kit",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -213,7 +259,7 @@
     "title": "Programmamaker Harry de Winter overleden op 73-jarige leeftijd",
     "subtitle": null,
     "published_at": "2023-03-08T15:45:04+01:00",
-    "updated_at": "2023-03-08T17:12:36+01:00",
+    "updated_at": "2023-03-08T17:59:38+01:00",
     "media_id": "gz3x4plapeib",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254441/vier-nieuwe-arrestaties-in-verband-met-ontvoering-vijftienjarige-jongen-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254442,
-    "slug": "georgische-vrouw-zwaait-met-eu-vlag-en-trotseert-waterkanon",
-    "type": "video",
-    "title": "Georgische vrouw zwaait met EU-vlag en trotseert waterkanon",
-    "subtitle": "Video",
-    "published_at": "2023-03-08T14:26:18+01:00",
-    "updated_at": "2023-03-08T14:26:20+01:00",
-    "media_id": "h4fx0u8akaoh",
-    "duration": "1:00",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254442/georgische-vrouw-zwaait-met-eu-vlag-en-trotseert-waterkanon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254438,
-    "slug": "schippers-watertaxi-en-rondvaartboot-vervolgd-vanwege-aanvaring-in-rotterdam",
-    "type": "article",
-    "title": "Schippers watertaxi en rondvaartboot vervolgd vanwege aanvaring in Rotterdam",
-    "subtitle": null,
-    "published_at": "2023-03-08T14:07:14+01:00",
-    "updated_at": "2023-03-08T14:29:31+01:00",
-    "media_id": "7qex0rkaq2r1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254438/schippers-watertaxi-en-rondvaartboot-vervolgd-vanwege-aanvaring-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
