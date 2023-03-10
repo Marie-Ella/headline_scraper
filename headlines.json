@@ -1,12 +1,81 @@
 [
   {
-    "id": 6254720,
-    "slug": "politie-onderzoekt-problemen-met-communicatiesysteem-bij-klopjacht-rijsbergen",
+    "id": 6254732,
+    "slug": "sneeuw-zorgt-voor-witte-plaatjes-en-ongelukken-in-noord-nederland",
+    "type": "video",
+    "title": "Sneeuw zorgt voor witte plaatjes en ongelukken in Noord-Nederland",
+    "subtitle": "Video",
+    "published_at": "2023-03-10T11:45:12+01:00",
+    "updated_at": "2023-03-10T11:45:44+01:00",
+    "media_id": "mukxi83aknqv",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6254732/sneeuw-zorgt-voor-witte-plaatjes-en-ongelukken-in-noord-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254730,
+    "slug": "wind-veroorzaakt-problemen-in-parijs-nice-zesde-etappe-flink-ingekort",
     "type": "article",
-    "title": "Politie onderzoekt problemen met communicatiesysteem bij klopjacht Rijsbergen",
+    "title": "Wind veroorzaakt problemen in Parijs-Nice: zesde etappe flink ingekort",
+    "subtitle": null,
+    "published_at": "2023-03-10T11:45:10+01:00",
+    "updated_at": "2023-03-10T11:45:11+01:00",
+    "media_id": "2cmx5h5a8voo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6254730/wind-veroorzaakt-problemen-in-parijs-nice-zesde-etappe-flink-ingekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254727,
+    "slug": "energie-update-koud-begin-maart-zorgt-voor-hoogste-gasverbruik-sinds-januari",
+    "type": "article",
+    "title": "Energie-update: Koud begin maart zorgt voor hoogste gasverbruik sinds januari",
+    "subtitle": null,
+    "published_at": "2023-03-10T11:43:10+01:00",
+    "updated_at": "2023-03-10T11:43:12+01:00",
+    "media_id": "shpxcpka1vfy",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6254727/energie-update-koud-begin-maart-zorgt-voor-hoogste-gasverbruik-sinds-januari.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254720,
+    "slug": "politie-weet-niet-waarom-communicatiesysteem-haperde-bij-klopjacht-rijsbergen",
+    "type": "article",
+    "title": "Politie weet niet waarom communicatiesysteem haperde bij klopjacht Rijsbergen",
     "subtitle": null,
     "published_at": "2023-03-10T11:18:56+01:00",
-    "updated_at": "2023-03-10T11:18:58+01:00",
+    "updated_at": "2023-03-10T11:39:42+01:00",
     "media_id": "iisxfg6aismp",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6254720/politie-onderzoekt-problemen-met-communicatiesysteem-bij-klopjacht-rijsbergen.html",
+    "url": "/binnenland/6254720/politie-weet-niet-waarom-communicatiesysteem-haperde-bij-klopjacht-rijsbergen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +116,12 @@
   },
   {
     "id": 6254717,
-    "slug": "inwoners-chinese-stad-xian-woedend-om-plan-voor-lockdowns-tijdens-griepgolven",
+    "slug": "inwoners-chinese-stad-xian-woedend-om-plan-voor-grieplockdowns",
     "type": "article",
-    "title": "Inwoners Chinese stad Xian woedend om plan voor lockdowns tijdens griepgolven",
+    "title": "Inwoners Chinese stad Xian woedend om plan voor grieplockdowns",
     "subtitle": null,
     "published_at": "2023-03-10T10:59:47+01:00",
-    "updated_at": "2023-03-10T10:59:49+01:00",
+    "updated_at": "2023-03-10T11:44:09+01:00",
     "media_id": "gu9x3nuaa4wt",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6254717/inwoners-chinese-stad-xian-woedend-om-plan-voor-lockdowns-tijdens-griepgolven.html",
+    "url": "/buitenland/6254717/inwoners-chinese-stad-xian-woedend-om-plan-voor-grieplockdowns.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +213,7 @@
     "title": "Gladheid door sneeuwval leidt in het noorden tot ongelukken",
     "subtitle": null,
     "published_at": "2023-03-10T09:30:14+01:00",
-    "updated_at": "2023-03-10T09:30:15+01:00",
+    "updated_at": "2023-03-10T11:46:49+01:00",
     "media_id": "srwxigda5id1",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/film/6254685/van-moord-op-echtgenote-vrijgesproken-acteur-robert-blake-89-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254684,
-    "slug": "zeker-acht-doden-bij-schietpartij-in-hamburg-onder-wie-de-dader",
-    "type": "article",
-    "title": "Zeker acht doden bij schietpartij in Hamburg, onder wie de dader",
-    "subtitle": null,
-    "published_at": "2023-03-10T06:39:58+01:00",
-    "updated_at": "2023-03-10T09:33:59+01:00",
-    "media_id": "mswx45mavc9j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254684/zeker-acht-doden-bij-schietpartij-in-hamburg-onder-wie-de-dader.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254682,
-    "slug": "sylvie-meis-en-rafael-van-der-vaart-kregen-50000-euro-voor-registratie-bruiloft",
-    "type": "article",
-    "title": "Sylvie Meis en Rafael van der Vaart kregen 50.000 euro voor registratie bruiloft",
-    "subtitle": null,
-    "published_at": "2023-03-10T06:14:29+01:00",
-    "updated_at": "2023-03-10T07:28:28+01:00",
-    "media_id": "rhzxalza279n",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6254682/sylvie-meis-en-rafael-van-der-vaart-kregen-50000-euro-voor-registratie-bruiloft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254681,
-    "slug": "weerbericht-noorden-al-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan",
-    "type": "article",
-    "title": "Weerbericht: Noorden al bedolven onder sneeuw, rest ontkomt er ook niet aan",
-    "subtitle": null,
-    "published_at": "2023-03-10T05:59:19+01:00",
-    "updated_at": "2023-03-10T07:39:44+01:00",
-    "media_id": "t7exdvfa4o02",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254681/weerbericht-noorden-al-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan.html",
     "open_new_window": false,
     "partner": null
   }
