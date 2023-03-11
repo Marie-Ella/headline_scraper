@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254892,
+    "slug": "actievoerders-extinction-rebellion-blokkeren-waterkanon",
+    "type": "video",
+    "title": "Actievoerders Extinction Rebellion blokkeren waterkanon",
+    "subtitle": "Video",
+    "published_at": "2023-03-11T14:48:11+01:00",
+    "updated_at": "2023-03-11T14:48:12+01:00",
+    "media_id": "0i4x1cta70h3",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254892/actievoerders-extinction-rebellion-blokkeren-waterkanon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254883,
     "slug": "skiester-shiffrin-boekt-87e-wereldbekerzege-en-heeft-record-alleen-in-handen",
     "type": "article",
     "title": "Skiester Shiffrin boekt 87e wereldbekerzege en heeft record alleen in handen",
     "subtitle": null,
     "published_at": "2023-03-11T14:23:05+01:00",
-    "updated_at": "2023-03-11T14:24:07+01:00",
+    "updated_at": "2023-03-11T14:39:32+01:00",
     "media_id": "qeyx23yanh5o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254860/politie-arresteert-mensen-voorafgaand-aan-protesten-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254859,
-    "slug": "duizenden-boeren-bij-protest-tientallen-probeerden-met-trekker-te-komen",
-    "type": "article",
-    "title": "Duizenden boeren bij protest, tientallen probeerden met trekker te komen",
-    "subtitle": null,
-    "published_at": "2023-03-11T08:19:57+01:00",
-    "updated_at": "2023-03-11T13:58:36+01:00",
-    "media_id": "k0wxxvna1kqu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254859/duizenden-boeren-bij-protest-tientallen-probeerden-met-trekker-te-komen.html",
     "open_new_window": false,
     "partner": null
   }
