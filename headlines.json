@@ -1,5 +1,51 @@
 [
   {
+    "id": 6254860,
+    "slug": "politie-arresteert-mensen-voorafgaand-aan-protesten-in-den-haag",
+    "type": "video",
+    "title": "Politie arresteert mensen voorafgaand aan protesten in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2023-03-11T08:21:11+01:00",
+    "updated_at": "2023-03-11T08:21:11+01:00",
+    "media_id": "pm1xit4arikt",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254860/politie-arresteert-mensen-voorafgaand-aan-protesten-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254859,
+    "slug": "tientallen-tractoren-van-de-weg-gehaald-noodbevel-van-kracht-in-den-haag",
+    "type": "article",
+    "title": "Tientallen tractoren van de weg gehaald, noodbevel van kracht in Den Haag",
+    "subtitle": null,
+    "published_at": "2023-03-11T08:19:57+01:00",
+    "updated_at": "2023-03-11T08:28:41+01:00",
+    "media_id": "ldrxd7da20hb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254859/tientallen-tractoren-van-de-weg-gehaald-noodbevel-van-kracht-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254736,
     "slug": "stelling-stikstofcrisis-is-voor-mij-het-belangrijkste-onderwerp-van-de-verkiezingen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Jens van 't Wout en Sjinkie Knegt stellen teleur met bijrol op 1.500 meter bij WK",
     "subtitle": null,
     "published_at": "2023-03-11T07:27:03+01:00",
-    "updated_at": "2023-03-11T07:59:26+01:00",
+    "updated_at": "2023-03-11T08:19:46+01:00",
     "media_id": "izpxnsqaaiex",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Vier doden bij groot verkeersongeval op A59 bij Sprang-Capelle",
     "subtitle": null,
     "published_at": "2023-03-10T23:21:51+01:00",
-    "updated_at": "2023-03-10T23:56:43+01:00",
+    "updated_at": "2023-03-11T08:20:18+01:00",
     "media_id": "soixzf2a7cmd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6254839/nac-legt-druk-bij-almere-city-in-strijd-om-periodetitel-nipte-zege-koploper-pec.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254837,
-    "slug": "ajax-vrouwen-boekt-probleemloze-zege-op-bezoek-bij-hekkensluiter-excelsior",
-    "type": "article",
-    "title": "Ajax Vrouwen boekt probleemloze zege op bezoek bij hekkensluiter Excelsior",
-    "subtitle": null,
-    "published_at": "2023-03-10T21:44:37+01:00",
-    "updated_at": "2023-03-10T23:12:44+01:00",
-    "media_id": "16hx9piazt9f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254837/ajax-vrouwen-boekt-probleemloze-zege-op-bezoek-bij-hekkensluiter-excelsior.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254833,
-    "slug": "tom-egbers-volgens-medewerkers-nos-sport-schuldig-aan-intimideren-en-pesten",
-    "type": "article",
-    "title": "Tom Egbers volgens medewerkers NOS Sport schuldig aan intimideren en pesten",
-    "subtitle": null,
-    "published_at": "2023-03-10T21:36:05+01:00",
-    "updated_at": "2023-03-11T08:10:35+01:00",
-    "media_id": "6t3xznia0hgl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6254833/tom-egbers-volgens-medewerkers-nos-sport-schuldig-aan-intimideren-en-pesten.html",
     "open_new_window": false,
     "partner": null
   }
