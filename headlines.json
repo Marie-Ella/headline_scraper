@@ -1,13 +1,36 @@
 [
   {
+    "id": 6254721,
+    "slug": "recensieoverzicht-scream-6-zelfbewust-en-geen-zinloze-hervertelling",
+    "type": "article",
+    "title": "Recensieoverzicht Scream 6: 'Zelfbewust en geen zinloze hervertelling'",
+    "subtitle": null,
+    "published_at": "2023-03-11T15:16:57+01:00",
+    "updated_at": "2023-03-11T15:16:59+01:00",
+    "media_id": "b7mxj0uaocab",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6254721/recensieoverzicht-scream-6-zelfbewust-en-geen-zinloze-hervertelling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254894,
     "slug": "pogacar-is-vingegaard-opnieuw-de-baas-en-nadert-eindzege-in-parijs-nice",
     "type": "article",
     "title": "Pogacar is Vingegaard opnieuw de baas en nadert eindzege in Parijs-Nice",
     "subtitle": null,
     "published_at": "2023-03-11T14:58:52+01:00",
-    "updated_at": "2023-03-11T14:58:53+01:00",
-    "media_id": "r88xertaf82u",
+    "updated_at": "2023-03-11T15:17:14+01:00",
+    "media_id": "32sx8pvapozi",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -420,8 +443,8 @@
     "title": "A12 weer deels open, laatste deel blijft dicht vanwege klimaatactie",
     "subtitle": "Liveblog",
     "published_at": "2023-03-11T09:43:40+01:00",
-    "updated_at": "2023-03-11T14:13:22+01:00",
-    "media_id": "75gxapwa6835",
+    "updated_at": "2023-03-11T15:17:05+01:00",
+    "media_id": "xa9x5p6a9k0v",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254862/a12-weer-deels-open-laatste-deel-blijft-dicht-vanwege-klimaatactie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254863,
-    "slug": "moordverdachte-ontsnapt-uit-rechtszaal-in-verenigde-staten",
-    "type": "video",
-    "title": "Moordverdachte ontsnapt uit rechtszaal in Verenigde Staten",
-    "subtitle": "Video",
-    "published_at": "2023-03-11T09:26:07+01:00",
-    "updated_at": "2023-03-11T10:49:19+01:00",
-    "media_id": "jvlx574acqti",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254863/moordverdachte-ontsnapt-uit-rechtszaal-in-verenigde-staten.html",
     "open_new_window": false,
     "partner": null
   }
