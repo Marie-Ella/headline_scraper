@@ -1,5 +1,51 @@
 [
   {
+    "id": 6254654,
+    "slug": "praat-mee-over-de-provinciale-statenverkiezingen-in-gelderland-en-flevoland",
+    "type": "article",
+    "title": "Praat mee over de Provinciale Statenverkiezingen in Gelderland en Flevoland",
+    "subtitle": null,
+    "published_at": "2023-03-11T12:00:32+01:00",
+    "updated_at": "2023-03-11T12:00:33+01:00",
+    "media_id": "2g6xcjvadyhx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6254654/praat-mee-over-de-provinciale-statenverkiezingen-in-gelderland-en-flevoland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254880,
+    "slug": "sneeuwval-tovert-friesland-om-tot-winterlandschap",
+    "type": "video",
+    "title": "Sneeuwval tovert Friesland om tot winterlandschap",
+    "subtitle": "Video",
+    "published_at": "2023-03-11T11:58:24+01:00",
+    "updated_at": "2023-03-11T11:58:25+01:00",
+    "media_id": "cbmxc9ba48e4",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254880/sneeuwval-tovert-friesland-om-tot-winterlandschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254877,
     "slug": "martens-stopt-na-dit-seizoen-als-trainer-van-jong-az",
     "type": "article",
@@ -162,13 +208,13 @@
   },
   {
     "id": 6254862,
-    "slug": "klimaat-en-boerenacties-op-het-punt-van-beginnen-drukte-in-den-haag-neemt-toe",
+    "slug": "klimaatactivisten-breken-door-politieafzetting-bij-a12",
     "type": "article",
-    "title": "Klimaat- en boerenacties op het punt van beginnen, drukte in Den Haag neemt toe",
+    "title": "Klimaatactivisten breken door politieafzetting bij A12",
     "subtitle": "Liveblog",
     "published_at": "2023-03-11T09:43:40+01:00",
-    "updated_at": "2023-03-11T11:47:53+01:00",
-    "media_id": "42uxt7vay274",
+    "updated_at": "2023-03-11T12:11:01+01:00",
+    "media_id": "rynx587adevc",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6254862/klimaat-en-boerenacties-op-het-punt-van-beginnen-drukte-in-den-haag-neemt-toe.html",
+    "url": "/binnenland/6254862/klimaatactivisten-breken-door-politieafzetting-bij-a12.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "Jens van 't Wout pakt brons op 500 meter bij WK na teleurstelling op 1.500 meter",
     "subtitle": null,
     "published_at": "2023-03-11T07:27:03+01:00",
-    "updated_at": "2023-03-11T10:01:25+01:00",
+    "updated_at": "2023-03-11T12:04:44+01:00",
     "media_id": "touxutaao21t",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6254850/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254616,
-    "slug": "tijd-als-grote-vijand-wat-kan-mercedes-doen-na-de-pijnlijke-seizoensstart",
-    "type": "article",
-    "title": "Tijd als grote vijand: wat kan Mercedes doen na de pijnlijke seizoensstart?",
-    "subtitle": "NU+",
-    "published_at": "2023-03-11T05:07:56+01:00",
-    "updated_at": "2023-03-11T10:54:43+01:00",
-    "media_id": "0auxu4paez5l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6254616/tijd-als-grote-vijand-wat-kan-mercedes-doen-na-de-pijnlijke-seizoensstart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254580,
-    "slug": "zo-wordt-gezocht-naar-superuitstoters-van-methaan",
-    "type": "video",
-    "title": "Zo wordt gezocht naar superuitstoters van methaan",
-    "subtitle": "Video",
-    "published_at": "2023-03-11T05:03:48+01:00",
-    "updated_at": "2023-03-11T05:17:01+01:00",
-    "media_id": "bvbx6chadz7g",
-    "duration": "2:03",
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6254580/zo-wordt-gezocht-naar-superuitstoters-van-methaan.html",
     "open_new_window": false,
     "partner": null
   }
