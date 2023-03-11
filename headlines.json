@@ -1,12 +1,58 @@
 [
   {
+    "id": 6254894,
+    "slug": "pogacar-is-vingegaard-opnieuw-de-baas-en-nadert-eindzege-in-parijs-nice",
+    "type": "article",
+    "title": "Pogacar is Vingegaard opnieuw de baas en nadert eindzege in Parijs-Nice",
+    "subtitle": null,
+    "published_at": "2023-03-11T14:58:52+01:00",
+    "updated_at": "2023-03-11T14:58:53+01:00",
+    "media_id": "r88xertaf82u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6254894/pogacar-is-vingegaard-opnieuw-de-baas-en-nadert-eindzege-in-parijs-nice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254893,
+    "slug": "weer-kritiek-en-chaos-bij-shorttrackers-bondscoach-heeft-geen-duidelijk-plan",
+    "type": "article",
+    "title": "Weer kritiek en chaos bij shorttrackers: 'Bondscoach heeft geen duidelijk plan'",
+    "subtitle": null,
+    "published_at": "2023-03-11T14:57:31+01:00",
+    "updated_at": "2023-03-11T15:10:26+01:00",
+    "media_id": "s7xxhaca9f7l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6254893/weer-kritiek-en-chaos-bij-shorttrackers-bondscoach-heeft-geen-duidelijk-plan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254892,
     "slug": "actievoerders-extinction-rebellion-blokkeren-waterkanon",
     "type": "video",
     "title": "Actievoerders Extinction Rebellion blokkeren waterkanon",
     "subtitle": "Video",
     "published_at": "2023-03-11T14:48:11+01:00",
-    "updated_at": "2023-03-11T14:48:12+01:00",
+    "updated_at": "2023-03-11T14:51:31+01:00",
     "media_id": "0i4x1cta70h3",
     "duration": "0:42",
     "canonical_section": {
@@ -29,8 +75,8 @@
     "title": "Skiester Shiffrin boekt 87e wereldbekerzege en heeft record alleen in handen",
     "subtitle": null,
     "published_at": "2023-03-11T14:23:05+01:00",
-    "updated_at": "2023-03-11T14:39:32+01:00",
-    "media_id": "qeyx23yanh5o",
+    "updated_at": "2023-03-11T15:07:37+01:00",
+    "media_id": "1lvxhljagejv",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254863/moordverdachte-ontsnapt-uit-rechtszaal-in-verenigde-staten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254861,
-    "slug": "velzeboer-klopt-schulting-en-pakt-goud-op-500-meter-uniek-nederlands-podium",
-    "type": "article",
-    "title": "Velzeboer klopt Schulting en pakt goud op 500 meter, uniek Nederlands podium",
-    "subtitle": null,
-    "published_at": "2023-03-11T09:04:01+01:00",
-    "updated_at": "2023-03-11T11:01:39+01:00",
-    "media_id": "ovmxvj0aspx0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6254861/velzeboer-klopt-schulting-en-pakt-goud-op-500-meter-uniek-nederlands-podium.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254860,
-    "slug": "politie-arresteert-mensen-voorafgaand-aan-protesten-in-den-haag",
-    "type": "video",
-    "title": "Politie arresteert mensen voorafgaand aan protesten in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2023-03-11T08:21:11+01:00",
-    "updated_at": "2023-03-11T08:43:32+01:00",
-    "media_id": "pm1xit4arikt",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254860/politie-arresteert-mensen-voorafgaand-aan-protesten-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
