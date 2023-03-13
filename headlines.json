@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255112,
+    "slug": "salarisverhogingen-blijven-stijgen-en-vestigen-nieuw-eeuwrecord",
+    "type": "article",
+    "title": "Salarisverhogingen blijven stijgen en vestigen nieuw eeuwrecord",
+    "subtitle": null,
+    "published_at": "2023-03-13T15:03:00+01:00",
+    "updated_at": "2023-03-13T15:03:02+01:00",
+    "media_id": "35zxf4safu2r",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255112/salarisverhogingen-blijven-stijgen-en-vestigen-nieuw-eeuwrecord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255107,
     "slug": "eerste-storm-van-2023-is-een-feit-maar-krijgt-geen-naam-vanwege-geringe-impact",
     "type": "article",
     "title": "Eerste storm van 2023 is een feit, maar krijgt geen naam vanwege geringe impact",
     "subtitle": null,
     "published_at": "2023-03-13T14:31:09+01:00",
-    "updated_at": "2023-03-13T14:34:21+01:00",
+    "updated_at": "2023-03-13T15:14:15+01:00",
     "media_id": "yacx15naaqmd",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Silicon Valley Bank failliet: is er een nieuwe bankencrisis op komst?",
     "subtitle": null,
     "published_at": "2023-03-13T14:27:43+01:00",
-    "updated_at": "2023-03-13T14:48:54+01:00",
+    "updated_at": "2023-03-13T15:02:23+01:00",
     "media_id": "myfx8g5a1dug",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Tour de France 2024 krijgt bijzonder slotweekend met zware bergetappe én tijdrit",
     "subtitle": null,
     "published_at": "2023-03-13T13:08:05+01:00",
-    "updated_at": "2023-03-13T13:32:23+01:00",
+    "updated_at": "2023-03-13T14:52:51+01:00",
     "media_id": "cbcx0inag7ep",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/oscars/6255069/grappen-over-will-smith-en-tranen-bij-travolta-opvallende-oscar-momenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255068,
-    "slug": "oekraiens-dorp-bestookt-met-thermietbommen",
-    "type": "video",
-    "title": "Oekraïens dorp bestookt met thermietbommen",
-    "subtitle": "Video",
-    "published_at": "2023-03-13T10:59:33+01:00",
-    "updated_at": "2023-03-13T14:43:26+01:00",
-    "media_id": "gsbxofwaswfp",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6255068/oekraiens-dorp-bestookt-met-thermietbommen.html",
     "open_new_window": false,
     "partner": null
   }
