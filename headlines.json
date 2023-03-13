@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255080,
+    "slug": "politie-doorzoekt-mbo-in-den-bosch-vanwege-mogelijke-dreiging",
+    "type": "video",
+    "title": "Politie doorzoekt mbo in Den Bosch vanwege mogelijke dreiging",
+    "subtitle": "Video",
+    "published_at": "2023-03-13T11:58:55+01:00",
+    "updated_at": "2023-03-13T12:02:20+01:00",
+    "media_id": "2ngxoz1a0kle",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255080/politie-doorzoekt-mbo-in-den-bosch-vanwege-mogelijke-dreiging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255072,
     "slug": "gary-lineker-keert-zaterdag-terug-als-presentator-bbc-na-ophef-over-tweet",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6255071,
-    "slug": "geen-scooters-meer-voor-buitenlandse-toeristen-op-bali-vanwege-vele-ongelukken",
+    "slug": "geen-scooters-meer-voor-toeristen-op-bali-vanwege-vele-ongelukken",
     "type": "article",
-    "title": "Geen scooters meer voor buitenlandse toeristen op Bali vanwege vele ongelukken",
+    "title": "Geen scooters meer voor toeristen op Bali vanwege vele ongelukken",
     "subtitle": null,
     "published_at": "2023-03-13T11:32:21+01:00",
-    "updated_at": "2023-03-13T11:46:16+01:00",
+    "updated_at": "2023-03-13T12:09:35+01:00",
     "media_id": "xtuxbtkacu1x",
     "duration": null,
     "canonical_section": {
@@ -64,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6255071/geen-scooters-meer-voor-buitenlandse-toeristen-op-bali-vanwege-vele-ongelukken.html",
+    "url": "/buitenland/6255071/geen-scooters-meer-voor-toeristen-op-bali-vanwege-vele-ongelukken.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6255073,
-    "slug": "politie-en-arrestatieteam-bij-school-in-den-bosch-situatie-onder-controle",
+    "slug": "politie-en-arrestatieteam-bij-school-in-den-bosch-situatie-is-onder-controle",
     "type": "article",
-    "title": "Politie en arrestatieteam bij school in Den Bosch: 'Situatie onder controle'",
+    "title": "Politie en arrestatieteam bij school in Den Bosch: 'Situatie is onder controle'",
     "subtitle": null,
     "published_at": "2023-03-13T11:23:13+01:00",
-    "updated_at": "2023-03-13T11:49:12+01:00",
+    "updated_at": "2023-03-13T12:12:47+01:00",
     "media_id": "5wfxytcawidu",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6255073/politie-en-arrestatieteam-bij-school-in-den-bosch-situatie-onder-controle.html",
+    "url": "/binnenland/6255073/politie-en-arrestatieteam-bij-school-in-den-bosch-situatie-is-onder-controle.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Jordaanse prinses Iman getrouwd met zakenman Jameel Thermiotis",
     "subtitle": null,
     "published_at": "2023-03-13T10:34:51+01:00",
-    "updated_at": "2023-03-13T10:36:00+01:00",
+    "updated_at": "2023-03-13T11:57:18+01:00",
     "media_id": "vtnxbepa4cur",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6255043/pernille-la-lau-verbreekt-relatie-terug-naar-dierbare-vriendschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254783,
-    "slug": "helft-van-stakend-ziekenhuispersoneel-vindt-werkdruk-veel-te-hoog",
-    "type": "article",
-    "title": "Helft van stakend ziekenhuispersoneel vindt werkdruk veel te hoog",
-    "subtitle": null,
-    "published_at": "2023-03-13T06:24:22+01:00",
-    "updated_at": "2023-03-13T11:30:19+01:00",
-    "media_id": "j9bx6diaqeo0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6254783/helft-van-stakend-ziekenhuispersoneel-vindt-werkdruk-veel-te-hoog.html",
     "open_new_window": false,
     "partner": null
   }
