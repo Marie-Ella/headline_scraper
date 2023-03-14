@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255172,
+    "slug": "weerbericht-een-natte-dag-met-veel-regen-en-kans-op-winterse-buiten",
+    "type": "article",
+    "title": "Weerbericht: Een natte dag met veel regen en kans op winterse buiten",
+    "subtitle": null,
+    "published_at": "2023-03-14T05:26:37+01:00",
+    "updated_at": "2023-03-14T05:31:51+01:00",
+    "media_id": "mumxqt3aoc9a",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255172/weerbericht-een-natte-dag-met-veel-regen-en-kans-op-winterse-buiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255171,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6255157/gary-glitter-maand-na-vrijlating-weer-terug-in-cel-omdat-hij-voorwaarden-schond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255156,
-    "slug": "jack-van-gelder-niet-te-zien-in-hlf8-hij-heeft-besloten-even-rust-te-nemen",
-    "type": "article",
-    "title": "Jack van Gelder niet te zien in HLF8: 'Hij heeft besloten even rust te nemen'",
-    "subtitle": null,
-    "published_at": "2023-03-13T20:22:27+01:00",
-    "updated_at": "2023-03-13T20:40:18+01:00",
-    "media_id": "fm6x0rgau70m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6255156/jack-van-gelder-niet-te-zien-in-hlf8-hij-heeft-besloten-even-rust-te-nemen.html",
     "open_new_window": false,
     "partner": null
   }
