@@ -1,5 +1,51 @@
 [
   {
+    "id": 6255179,
+    "slug": "storm-freddy-richt-ravage-aan-in-malawi",
+    "type": "video",
+    "title": "Storm Freddy richt ravage aan in Malawi",
+    "subtitle": "Video",
+    "published_at": "2023-03-14T07:37:39+01:00",
+    "updated_at": "2023-03-14T07:37:41+01:00",
+    "media_id": "e2bxu2pafguf",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255179/storm-freddy-richt-ravage-aan-in-malawi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255176,
+    "slug": "minder-studenten-in-hoger-onderwijs-jongeren-wachten-mogelijk-op-basisbeurs",
+    "type": "article",
+    "title": "Minder studenten in hoger onderwijs, jongeren wachten mogelijk op basisbeurs",
+    "subtitle": null,
+    "published_at": "2023-03-14T07:30:17+01:00",
+    "updated_at": "2023-03-14T07:32:00+01:00",
+    "media_id": "op4xkw3aisx4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255176/minder-studenten-in-hoger-onderwijs-jongeren-wachten-mogelijk-op-basisbeurs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255083,
     "slug": "stelling-bij-mij-in-de-provincie-mag-best-een-zonnepark-komen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Griekspoor kan in Indian Wells niet stunten tegen US Open-winnaar Alcaraz",
     "subtitle": null,
     "published_at": "2023-03-14T07:02:34+01:00",
-    "updated_at": "2023-03-14T07:18:53+01:00",
+    "updated_at": "2023-03-14T07:45:00+01:00",
     "media_id": "1slxg74a0rol",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Minstens 136 doden door tropische storm Freddy in Malawi en Mozambique",
     "subtitle": null,
     "published_at": "2023-03-14T06:12:25+01:00",
-    "updated_at": "2023-03-14T07:05:25+01:00",
+    "updated_at": "2023-03-14T07:38:03+01:00",
     "media_id": "f1lxju9a7ghy",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Planbureau: Maak water uitgangspunt van alle investeringen",
     "subtitle": null,
     "published_at": "2023-03-14T00:02:15+01:00",
-    "updated_at": "2023-03-14T00:02:16+01:00",
+    "updated_at": "2023-03-14T07:40:25+01:00",
     "media_id": "vesxjhqa4b7w",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Centrale bank VS onderzoekt haar toezicht op omgevallen Silicon Valley Bank",
     "subtitle": null,
     "published_at": "2023-03-13T23:34:32+01:00",
-    "updated_at": "2023-03-14T06:48:36+01:00",
+    "updated_at": "2023-03-14T07:30:21+01:00",
     "media_id": "02jxseeabzvt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6255169/gewisselde-memphis-ziet-atletico-madrid-ver-in-blessuretijd-alsnog-toeslaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255168,
-    "slug": "levenslange-celstraf-voor-man-die-in-2017-acht-mensen-doodreed-in-new-york",
-    "type": "article",
-    "title": "Levenslange celstraf voor man die in 2017 acht mensen doodreed in New York",
-    "subtitle": null,
-    "published_at": "2023-03-13T22:34:29+01:00",
-    "updated_at": "2023-03-13T22:39:00+01:00",
-    "media_id": "ubex1v2a153a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255168/levenslange-celstraf-voor-man-die-in-2017-acht-mensen-doodreed-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255167,
-    "slug": "bus-verwoest-kerkpoort-in-india-na-botsing-met-tegenligger",
-    "type": "video",
-    "title": "Bus verwoest kerkpoort in India na botsing met tegenligger",
-    "subtitle": "Video",
-    "published_at": "2023-03-13T22:15:27+01:00",
-    "updated_at": "2023-03-13T22:15:28+01:00",
-    "media_id": "0ghxq54aa165",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255167/bus-verwoest-kerkpoort-in-india-na-botsing-met-tegenligger.html",
     "open_new_window": false,
     "partner": null
   }
