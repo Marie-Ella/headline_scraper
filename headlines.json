@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255418,
+    "slug": "staatssecretaris-uslu-wil-advies-over-meldpunt-mores-na-nos-schandaal",
+    "type": "article",
+    "title": "Staatssecretaris Uslu wil advies over meldpunt Mores na NOS-schandaal",
+    "subtitle": null,
+    "published_at": "2023-03-15T15:33:43+01:00",
+    "updated_at": "2023-03-15T15:34:54+01:00",
+    "media_id": "34exsfxab5rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6255418/staatssecretaris-uslu-wil-advies-over-meldpunt-mores-na-nos-schandaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255416,
     "slug": "ferrari-coureur-leclerc-incasseert-bij-tweede-race-van-jaar-al-forse-gridstraf",
     "type": "article",
     "title": "Ferrari-coureur Leclerc incasseert bij tweede race van jaar al forse gridstraf",
     "subtitle": null,
     "published_at": "2023-03-15T15:27:36+01:00",
-    "updated_at": "2023-03-15T15:27:38+01:00",
+    "updated_at": "2023-03-15T15:29:55+01:00",
     "media_id": "6njxc62agjz7",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Slot beducht voor EL-return: 'Ook al zegt men dat Shakhtar er geen klote van kan'",
     "subtitle": null,
     "published_at": "2023-03-15T15:25:56+01:00",
-    "updated_at": "2023-03-15T15:29:18+01:00",
+    "updated_at": "2023-03-15T15:39:58+01:00",
     "media_id": "7tbxkl0a5s33",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6255413,
-    "slug": "seedorf-treedt-toe-tot-raad-van-commissarissen-knvb",
+    "slug": "knvb-legt-na-nigel-de-jong-ook-seedorf-vast-oud-middenvelder-treedt-toe-tot-rvc",
     "type": "article",
-    "title": "Seedorf treedt toe tot raad van commissarissen KNVB",
+    "title": "KNVB legt na Nigel de Jong ook Seedorf vast: oud-middenvelder treedt toe tot rvc",
     "subtitle": null,
     "published_at": "2023-03-15T15:10:13+01:00",
-    "updated_at": "2023-03-15T15:28:16+01:00",
+    "updated_at": "2023-03-15T15:34:28+01:00",
     "media_id": "8izxecza8wmq",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255413/seedorf-treedt-toe-tot-raad-van-commissarissen-knvb.html",
+    "url": "/voetbal/6255413/knvb-legt-na-nigel-de-jong-ook-seedorf-vast-oud-middenvelder-treedt-toe-tot-rvc.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Tom Coronel: 'Vrienden waarschuwen me weleens voor mijn levensstijl'",
     "subtitle": null,
     "published_at": "2023-03-15T15:08:16+01:00",
-    "updated_at": "2023-03-15T15:21:01+01:00",
+    "updated_at": "2023-03-15T15:43:19+01:00",
     "media_id": "ugwx4evam013",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6255379/facebook-overtrad-tien-jaar-lang-de-wet-met-verwerking-persoonsgegevens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255384,
-    "slug": "de-vries-verwacht-dat-auto-van-alphatauri-in-jeddah-beter-tot-zijn-recht-komt",
-    "type": "article",
-    "title": "De Vries verwacht dat auto van AlphaTauri in Jeddah beter tot zijn recht komt",
-    "subtitle": null,
-    "published_at": "2023-03-15T13:10:58+01:00",
-    "updated_at": "2023-03-15T13:11:55+01:00",
-    "media_id": "amlxwovaqu65",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6255384/de-vries-verwacht-dat-auto-van-alphatauri-in-jeddah-beter-tot-zijn-recht-komt.html",
     "open_new_window": false,
     "partner": null
   }
