@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255496,
+    "slug": "caroline-van-der-plas-viert-feest-na-overwinning-wat-een-avond",
+    "type": "video",
+    "title": "Caroline Van der Plas viert feest na overwinning: 'Wat een avond'",
+    "subtitle": "Video",
+    "published_at": "2023-03-16T00:13:30+01:00",
+    "updated_at": "2023-03-16T00:13:32+01:00",
+    "media_id": "o2exautay84v",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1779224,
+      "slug": "provinciale-statenverkiezingen",
+      "type": "default",
+      "name": "Provinciale Statenverkiezingen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/provinciale-statenverkiezingen/6255496/caroline-van-der-plas-viert-feest-na-overwinning-wat-een-avond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255495,
     "slug": "voetbalsters-vragen-fifa-om-prijzengeld-op-wk-gelijk-te-trekken-met-de-mannen",
     "type": "article",
     "title": "Voetbalsters vragen FIFA om prijzengeld op WK gelijk te trekken met de mannen",
     "subtitle": null,
     "published_at": "2023-03-15T23:33:38+01:00",
-    "updated_at": "2023-03-15T23:33:40+01:00",
+    "updated_at": "2023-03-16T00:07:17+01:00",
     "media_id": "332xeqraw2k3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Landelijke exitpoll: Verpletterende zege BBB, coalitiepartijen verliezen fors in Eerste Kamer",
     "subtitle": null,
     "published_at": "2023-03-15T22:02:52+01:00",
-    "updated_at": "2023-03-15T23:32:08+01:00",
+    "updated_at": "2023-03-16T00:07:08+01:00",
     "media_id": "vndxjx7a73c9",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Bekijk hier de verkiezingsuitslag in jouw provincie",
     "subtitle": "Kaart",
     "published_at": "2023-03-15T21:33:07+01:00",
-    "updated_at": "2023-03-15T23:36:11+01:00",
+    "updated_at": "2023-03-15T23:54:10+01:00",
     "media_id": "s62x2p0ag9v3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6255445/hier-kun-je-de-films-zien-die-in-de-prijzen-vielen-bij-de-oscars.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255462,
-    "slug": "frankfurt-supporters-met-stadionverbod-raken-slaags-met-napoli-fans",
-    "type": "video",
-    "title": "Frankfurt-supporters met stadionverbod raken slaags met Napoli-fans",
-    "subtitle": "Video",
-    "published_at": "2023-03-15T19:53:32+01:00",
-    "updated_at": "2023-03-15T20:23:07+01:00",
-    "media_id": "g2dxnbaacbda",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255462/frankfurt-supporters-met-stadionverbod-raken-slaags-met-napoli-fans.html",
     "open_new_window": false,
     "partner": null
   }
