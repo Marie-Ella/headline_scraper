@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255316,
+    "slug": "weerbericht-het-is-een-koude-maar-zonnige-verkiezingsdag",
+    "type": "article",
+    "title": "Weerbericht: Het is een koude maar zonnige verkiezingsdag",
+    "subtitle": null,
+    "published_at": "2023-03-15T05:45:32+01:00",
+    "updated_at": "2023-03-15T05:45:34+01:00",
+    "media_id": "xbpxod3acf3b",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255316/weerbericht-het-is-een-koude-maar-zonnige-verkiezingsdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255315,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Omkoopschandaal overschaduwt Clásico: hier wordt FC Barcelona van beschuldigd",
     "subtitle": "NU+",
     "published_at": "2023-03-15T05:05:23+01:00",
-    "updated_at": "2023-03-15T05:05:24+01:00",
+    "updated_at": "2023-03-15T05:31:25+01:00",
     "media_id": "b1gx3qoabivu",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Nederland donderdag bij uitschakeling Sporting zeker van extra CL-ticket",
     "subtitle": null,
     "published_at": "2023-03-14T23:05:42+01:00",
-    "updated_at": "2023-03-14T23:17:35+01:00",
+    "updated_at": "2023-03-15T05:30:52+01:00",
     "media_id": "3qjx8inaghhp",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Haaland evenaart Messi met vijf goals in knock-outfaseduel Champions League",
     "subtitle": null,
     "published_at": "2023-03-14T22:53:29+01:00",
-    "updated_at": "2023-03-14T23:59:15+01:00",
+    "updated_at": "2023-03-15T05:30:16+01:00",
     "media_id": "qxhxvysakh1p",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Waterschapsverkiezingen staan voor de deur, waar stem je eigenlijk voor?",
     "subtitle": null,
     "published_at": "2023-03-14T21:03:12+01:00",
-    "updated_at": "2023-03-14T22:26:54+01:00",
+    "updated_at": "2023-03-15T05:46:10+01:00",
     "media_id": "0h1xcq2adyui",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6255298/reacties-na-bijzondere-avond-met-vijfklapper-haaland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255291,
-    "slug": "marokko-sluit-zich-aan-bij-spanje-en-portugal-in-strijd-om-organisatie-wk-2030",
-    "type": "article",
-    "title": "Marokko sluit zich aan bij Spanje en Portugal in strijd om organisatie WK 2030",
-    "subtitle": null,
-    "published_at": "2023-03-14T19:46:15+01:00",
-    "updated_at": "2023-03-14T19:59:56+01:00",
-    "media_id": "tf1xoglai52j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255291/marokko-sluit-zich-aan-bij-spanje-en-portugal-in-strijd-om-organisatie-wk-2030.html",
     "open_new_window": false,
     "partner": null
   }
