@@ -1,12 +1,35 @@
 [
   {
-    "id": 6255514,
-    "slug": "credit-suisse-leent-ruim-50-miljard-euro-van-zwitserse-centrale-bank",
+    "id": 6255515,
+    "slug": "medvedev-in-indian-wells-nog-twee-zeges-verwijderd-van-vierde-titel-op-rij",
     "type": "article",
-    "title": "Credit Suisse leent ruim 50 miljard euro van Zwitserse centrale bank",
+    "title": "Medvedev in Indian Wells nog twee zeges verwijderd van vierde titel op rij",
+    "subtitle": null,
+    "published_at": "2023-03-16T07:56:19+01:00",
+    "updated_at": "2023-03-16T08:00:04+01:00",
+    "media_id": "jgdxilsa8s8f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6255515/medvedev-in-indian-wells-nog-twee-zeges-verwijderd-van-vierde-titel-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255514,
+    "slug": "credit-suisse-leent-50-miljard-frank-van-zwitserse-centrale-bank",
+    "type": "article",
+    "title": "Credit Suisse leent 50 miljard frank van Zwitserse centrale bank",
     "subtitle": null,
     "published_at": "2023-03-16T07:48:49+01:00",
-    "updated_at": "2023-03-16T07:48:52+01:00",
+    "updated_at": "2023-03-16T07:56:03+01:00",
     "media_id": "94xxnjpaaem9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6255514/credit-suisse-leent-ruim-50-miljard-euro-van-zwitserse-centrale-bank.html",
+    "url": "/economie/6255514/credit-suisse-leent-50-miljard-frank-van-zwitserse-centrale-bank.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255493/braziliaanse-oud-president-bolsonaro-moet-saoedische-sieraden-teruggeven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255492,
-    "slug": "mirakel-van-madrid-blijft-uit-liverpool-verliest-weer-van-real-en-ligt-uit-cl",
-    "type": "article",
-    "title": "Mirakel van Madrid blijft uit: Liverpool verliest weer van Real en ligt uit CL",
-    "subtitle": null,
-    "published_at": "2023-03-15T22:54:39+01:00",
-    "updated_at": "2023-03-16T06:56:40+01:00",
-    "media_id": "m50xih9a24cj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255492/mirakel-van-madrid-blijft-uit-liverpool-verliest-weer-van-real-en-ligt-uit-cl.html",
     "open_new_window": false,
     "partner": null
   }
