@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255637,
+    "slug": "boeren-draaien-nederlandse-vlag-weer-om-na-succes-bbb",
+    "type": "video",
+    "title": "Boeren draaien Nederlandse vlag weer om na succes BBB",
+    "subtitle": "Video",
+    "published_at": "2023-03-16T18:20:53+01:00",
+    "updated_at": "2023-03-16T18:24:04+01:00",
+    "media_id": "f05xwm3ayk74",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255637/boeren-draaien-nederlandse-vlag-weer-om-na-succes-bbb.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255634,
     "slug": "danny-de-munk-had-pittig-gesprek-met-vermeend-misbruikslachtoffer",
     "type": "article",
     "title": "Danny de Munk had 'pittig gesprek' met vermeend misbruikslachtoffer",
     "subtitle": null,
     "published_at": "2023-03-16T18:20:08+01:00",
-    "updated_at": "2023-03-16T18:20:09+01:00",
+    "updated_at": "2023-03-16T18:24:20+01:00",
     "media_id": "lhvxns9azxxz",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Feyenoord strijdt om plek in kwartfinales Europa League",
     "subtitle": "Liveblog voetbal",
     "published_at": "2023-03-16T18:05:24+01:00",
-    "updated_at": "2023-03-16T18:18:07+01:00",
-    "media_id": "m26xk1bai84y",
+    "updated_at": "2023-03-16T18:24:31+01:00",
+    "media_id": "tmbxqgkahvr9",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -236,7 +259,7 @@
     "title": "BBB en Farmers Defence Force: 'Vlaggen kunnen weer worden omgedraaid'",
     "subtitle": null,
     "published_at": "2023-03-16T17:23:13+01:00",
-    "updated_at": "2023-03-16T18:06:08+01:00",
+    "updated_at": "2023-03-16T18:21:16+01:00",
     "media_id": "utyxr3qaglw8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6255603/woningen-in-rotterdam-staan-blank-na-gesprongen-waterleiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255599,
-    "slug": "total-verkoopt-nederlandse-tankstations-onder-druk-van-klimaatdoelstellingen",
-    "type": "article",
-    "title": "Total verkoopt Nederlandse tankstations onder druk van klimaatdoelstellingen",
-    "subtitle": null,
-    "published_at": "2023-03-16T14:59:33+01:00",
-    "updated_at": "2023-03-16T15:34:22+01:00",
-    "media_id": "ueoxu5radjsu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255599/total-verkoopt-nederlandse-tankstations-onder-druk-van-klimaatdoelstellingen.html",
     "open_new_window": false,
     "partner": null
   }
