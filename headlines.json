@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255551,
+    "slug": "eerste-kennismaking-kia-ev9",
+    "type": "video",
+    "title": "Eerste kennismaking: Kia EV9",
+    "subtitle": "Video",
+    "published_at": "2023-03-16T11:41:58+01:00",
+    "updated_at": "2023-03-16T11:41:59+01:00",
+    "media_id": "by9x6feaen35",
+    "duration": "8:47",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6255551/eerste-kennismaking-kia-ev9.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255546,
     "slug": "politie-schiet-gericht-op-drie-minderjarige-overvallers-in-amsterdam",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Dit zijn de grootste (en opvallendste) partijen in jouw provincie",
     "subtitle": null,
     "published_at": "2023-03-16T11:07:41+01:00",
-    "updated_at": "2023-03-16T11:33:43+01:00",
+    "updated_at": "2023-03-16T11:42:30+01:00",
     "media_id": "05hxykia5yzg",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Van malaise naar polonaise: zo steeg Nederland op de coëfficiëntenlijst",
     "subtitle": "NU+",
     "published_at": "2023-03-16T09:22:35+01:00",
-    "updated_at": "2023-03-16T11:13:31+01:00",
+    "updated_at": "2023-03-16T11:43:06+01:00",
     "media_id": "danx33yad8fb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6255518/ruim-anderhalf-miljoen-mensen-keken-naar-verkiezingsuitslagen-op-tv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255516,
-    "slug": "wetenschappers-vinden-rotsen-vermengd-met-plastic-vuil-op-braziliaans-eiland",
-    "type": "article",
-    "title": "Wetenschappers vinden rotsen vermengd met plastic vuil op Braziliaans eiland",
-    "subtitle": null,
-    "published_at": "2023-03-16T08:30:18+01:00",
-    "updated_at": "2023-03-16T08:30:19+01:00",
-    "media_id": "7v3xio5aoy2q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6255516/wetenschappers-vinden-rotsen-vermengd-met-plastic-vuil-op-braziliaans-eiland.html",
     "open_new_window": false,
     "partner": null
   }
