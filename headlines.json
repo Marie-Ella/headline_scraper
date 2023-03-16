@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255546,
+    "slug": "politie-schiet-gericht-op-drie-minderjarige-overvallers-in-amsterdam",
+    "type": "article",
+    "title": "Politie schiet gericht op drie minderjarige overvallers in Amsterdam",
+    "subtitle": null,
+    "published_at": "2023-03-16T11:27:41+01:00",
+    "updated_at": "2023-03-16T11:27:42+01:00",
+    "media_id": "d71x9fqabwhc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255546/politie-schiet-gericht-op-drie-minderjarige-overvallers-in-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255548,
     "slug": "verstappen-meldt-zich-vanwege-maagproblemen-pas-vrijdag-in-saoedi-arabie",
     "type": "article",
     "title": "Verstappen meldt zich vanwege maagproblemen pas vrijdag in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-03-16T11:18:08+01:00",
-    "updated_at": "2023-03-16T11:19:34+01:00",
+    "updated_at": "2023-03-16T11:26:01+01:00",
     "media_id": "8i4x12aaixuq",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Dit zijn de grootste (en opvallendste) partijen in jouw provincie",
     "subtitle": null,
     "published_at": "2023-03-16T11:07:41+01:00",
-    "updated_at": "2023-03-16T11:12:44+01:00",
+    "updated_at": "2023-03-16T11:33:43+01:00",
     "media_id": "05hxykia5yzg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6255516/wetenschappers-vinden-rotsen-vermengd-met-plastic-vuil-op-braziliaans-eiland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255520,
-    "slug": "hulpdiensten-hijsen-man-uit-snelstromend-water-in-los-angeles",
-    "type": "video",
-    "title": "Hulpdiensten hijsen man uit snelstromend water in Los Angeles",
-    "subtitle": "Video",
-    "published_at": "2023-03-16T08:28:35+01:00",
-    "updated_at": "2023-03-16T08:28:37+01:00",
-    "media_id": "3dgx4fsaula6",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255520/hulpdiensten-hijsen-man-uit-snelstromend-water-in-los-angeles.html",
     "open_new_window": false,
     "partner": null
   }
