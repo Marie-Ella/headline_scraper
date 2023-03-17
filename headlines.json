@@ -1,12 +1,81 @@
 [
   {
-    "id": 6255687,
-    "slug": "lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-het-geloof",
+    "id": 6255690,
+    "slug": "kunstenaar-maakt-gigantisch-kunstwerk-bij-zonnepark-in-oman",
+    "type": "video",
+    "title": "Kunstenaar maakt gigantisch kunstwerk bij zonnepark in Oman",
+    "subtitle": "Video",
+    "published_at": "2023-03-17T08:06:54+01:00",
+    "updated_at": "2023-03-17T08:06:56+01:00",
+    "media_id": "iu3xf9ya3lhk",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255690/kunstenaar-maakt-gigantisch-kunstwerk-bij-zonnepark-in-oman.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255689,
+    "slug": "laatste-coronatestdag-bij-ggds-nooit-helemaal-voorbereid-op-pandemie",
     "type": "article",
-    "title": "Lazio-trainer Sarri vindt dat AZ terecht doorgaat: 'We verloren het geloof'",
+    "title": "Laatste coronatestdag bij GGD's: 'Nooit helemaal voorbereid op pandemie'",
+    "subtitle": null,
+    "published_at": "2023-03-17T07:53:27+01:00",
+    "updated_at": "2023-03-17T08:12:21+01:00",
+    "media_id": "ss2xqrkam1kr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6255689/laatste-coronatestdag-bij-ggds-nooit-helemaal-voorbereid-op-pandemie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255686,
+    "slug": "grote-banken-in-vs-storten-miljarden-om-noodlijdende-bank-te-redden",
+    "type": "article",
+    "title": "Grote banken in VS storten miljarden om noodlijdende bank te redden",
+    "subtitle": null,
+    "published_at": "2023-03-17T07:48:23+01:00",
+    "updated_at": "2023-03-17T08:07:34+01:00",
+    "media_id": "yk4xxv0a4kzq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255686/grote-banken-in-vs-storten-miljarden-om-noodlijdende-bank-te-redden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255687,
+    "slug": "lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-na-1-1-het-geloof",
+    "type": "article",
+    "title": "Lazio-trainer Sarri vindt dat AZ terecht doorgaat: 'We verloren na 1-1 het geloof'",
     "subtitle": null,
     "published_at": "2023-03-17T07:42:24+01:00",
-    "updated_at": "2023-03-17T07:42:26+01:00",
+    "updated_at": "2023-03-17T07:57:41+01:00",
     "media_id": "1uixhvyaeqhv",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255687/lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-het-geloof.html",
+    "url": "/voetbal/6255687/lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-na-1-1-het-geloof.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Alcaraz blijft winnen in Indian Wells en nadert eerste plek op wereldranglijst",
     "subtitle": null,
     "published_at": "2023-03-17T07:02:51+01:00",
-    "updated_at": "2023-03-17T07:43:14+01:00",
+    "updated_at": "2023-03-17T07:49:10+01:00",
     "media_id": "dbpx7usaea7d",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Applaus na 7-1 raakt Shakhtar Donetsk op bijzondere avond in De Kuip",
     "subtitle": null,
     "published_at": "2023-03-17T06:30:15+01:00",
-    "updated_at": "2023-03-17T07:07:10+01:00",
+    "updated_at": "2023-03-17T07:50:29+01:00",
     "media_id": "tv1x1x5asphi",
     "duration": null,
     "canonical_section": {
@@ -277,12 +346,12 @@
   },
   {
     "id": 6255373,
-    "slug": "unicef-directeur-bezoekt-turkije-hoelang-gaat-dit-nog-duren",
+    "slug": "unicef-directeur-bezoekt-rampgebied-turkije-kinderen-zijn-heel-angstig",
     "type": "article",
-    "title": "UNICEF-directeur bezoekt Turkije: 'Hoelang gaat dit nog duren?'",
+    "title": "UNICEF-directeur bezoekt rampgebied Turkije: 'Kinderen zijn heel angstig'",
     "subtitle": null,
     "published_at": "2023-03-17T05:13:07+01:00",
-    "updated_at": "2023-03-17T07:09:58+01:00",
+    "updated_at": "2023-03-17T08:02:16+01:00",
     "media_id": "4a5x80ba64dl",
     "duration": null,
     "canonical_section": {
@@ -294,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6255373/unicef-directeur-bezoekt-turkije-hoelang-gaat-dit-nog-duren.html",
+    "url": "/aardbeving-syrie-en-turkije/6255373/unicef-directeur-bezoekt-rampgebied-turkije-kinderen-zijn-heel-angstig.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/provinciale-statenverkiezingen/6255673/uitslag-utrecht-laat-nog-op-zich-wachten-meerdere-gemeenten-nog-aan-het-tellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255674,
-    "slug": "sporting-stunt-via-wereldgoal-en-penaltys-tegen-arsenal-en-bereikt-kwartfinales-el",
-    "type": "article",
-    "title": "Sporting stunt via wereldgoal en penalty's tegen Arsenal en bereikt kwartfinales EL",
-    "subtitle": null,
-    "published_at": "2023-03-16T23:48:38+01:00",
-    "updated_at": "2023-03-17T07:11:06+01:00",
-    "media_id": "w34xdpeax8d0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255674/sporting-stunt-via-wereldgoal-en-penaltys-tegen-arsenal-en-bereikt-kwartfinales-el.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255376,
-    "slug": "portugal-stelt-nederlands-coefficientenfeestje-voorlopig-uit-door-stunt-sporting",
-    "type": "article",
-    "title": "Portugal stelt Nederlands coëfficiëntenfeestje voorlopig uit door stunt Sporting",
-    "subtitle": null,
-    "published_at": "2023-03-16T23:48:12+01:00",
-    "updated_at": "2023-03-17T01:20:17+01:00",
-    "media_id": "zppxvytasino",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255376/portugal-stelt-nederlands-coefficientenfeestje-voorlopig-uit-door-stunt-sporting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255672,
-    "slug": "slachtafval-vliegt-uit-vrachtwagen-bij-botsing-op-a67",
-    "type": "video",
-    "title": "Slachtafval vliegt uit vrachtwagen bij botsing op A67",
-    "subtitle": "Video",
-    "published_at": "2023-03-16T23:02:44+01:00",
-    "updated_at": "2023-03-16T23:02:45+01:00",
-    "media_id": "cbfxkl8a8kwp",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6255672/slachtafval-vliegt-uit-vrachtwagen-bij-botsing-op-a67.html",
     "open_new_window": false,
     "partner": null
   }
