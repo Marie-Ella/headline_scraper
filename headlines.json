@@ -1,5 +1,51 @@
 [
   {
+    "id": 6255732,
+    "slug": "videoland-maakt-nieuwe-documentaire-over-autistische-kees-momma",
+    "type": "article",
+    "title": "Videoland maakt nieuwe documentaire over autistische Kees Momma",
+    "subtitle": null,
+    "published_at": "2023-03-17T11:34:31+01:00",
+    "updated_at": "2023-03-17T11:34:32+01:00",
+    "media_id": "3fwx18tacu17",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6255732/videoland-maakt-nieuwe-documentaire-over-autistische-kees-momma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255730,
+    "slug": "israelische-vrouwen-protesteren-als-handmaids-tegen-wetsvoorstel",
+    "type": "video",
+    "title": "Israëlische vrouwen protesteren als 'handmaids' tegen wetsvoorstel",
+    "subtitle": "Video",
+    "published_at": "2023-03-17T11:31:10+01:00",
+    "updated_at": "2023-03-17T11:31:12+01:00",
+    "media_id": "r67xrmpagcl8",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255730/israelische-vrouwen-protesteren-als-handmaids-tegen-wetsvoorstel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255713,
     "slug": "franse-politie-arresteert-300-mensen-bij-protesten-tegen-pensioenhervorming",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6255719,
-    "slug": "sommige-smartphones-van-google-en-samsung-kunnen-ongemerkt-gehackt-worden",
+    "slug": "miljoenen-smartphones-van-samsung-kunnen-ongemerkt-gehackt-worden",
     "type": "article",
-    "title": "Sommige smartphones van Google en Samsung kunnen ongemerkt gehackt worden",
+    "title": "Miljoenen smartphones van Samsung kunnen ongemerkt gehackt worden",
     "subtitle": null,
     "published_at": "2023-03-17T11:12:12+01:00",
-    "updated_at": "2023-03-17T11:15:29+01:00",
+    "updated_at": "2023-03-17T11:22:55+01:00",
     "media_id": "ok6xz8casamm",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6255719/sommige-smartphones-van-google-en-samsung-kunnen-ongemerkt-gehackt-worden.html",
+    "url": "/tech/6255719/miljoenen-smartphones-van-samsung-kunnen-ongemerkt-gehackt-worden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6255689/wie-zich-nog-wil-laten-testen-op-corona-kan-alleen-vandaag-nog-terecht-bij-ggd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255686,
-    "slug": "grote-banken-in-vs-storten-miljarden-om-noodlijdende-bank-te-redden",
-    "type": "article",
-    "title": "Grote banken in VS storten miljarden om noodlijdende bank te redden",
-    "subtitle": null,
-    "published_at": "2023-03-17T07:48:23+01:00",
-    "updated_at": "2023-03-17T08:27:20+01:00",
-    "media_id": "c7oxju6ancoo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255686/grote-banken-in-vs-storten-miljarden-om-noodlijdende-bank-te-redden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255687,
-    "slug": "lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-na-1-1-het-geloof",
-    "type": "article",
-    "title": "Lazio-trainer Sarri vindt dat AZ terecht doorgaat: 'We verloren na 1-1 het geloof'",
-    "subtitle": null,
-    "published_at": "2023-03-17T07:42:24+01:00",
-    "updated_at": "2023-03-17T07:57:41+01:00",
-    "media_id": "1uixhvyaeqhv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255687/lazio-trainer-sarri-vindt-dat-az-terecht-doorgaat-we-verloren-na-1-1-het-geloof.html",
     "open_new_window": false,
     "partner": null
   }
