@@ -1,12 +1,58 @@
 [
   {
-    "id": 6255853,
-    "slug": "gerard-sanderink-na-incidenten-geschorst-als-topman-strukton-en-oranjewoud",
+    "id": 6255856,
+    "slug": "analyse-bahreinse-dominantie-niet-weggelegd-voor-verstappen-in-jeddah",
     "type": "article",
-    "title": "Gerard Sanderink na 'incidenten' geschorst als topman Strukton en Oranjewoud",
+    "title": "Analyse: 'Bahreinse' dominantie niet weggelegd voor Verstappen in Jeddah",
+    "subtitle": "NU+",
+    "published_at": "2023-03-17T21:39:27+01:00",
+    "updated_at": "2023-03-17T21:42:54+01:00",
+    "media_id": "6mwxacpam6wm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6255856/analyse-bahreinse-dominantie-niet-weggelegd-voor-verstappen-in-jeddah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255855,
+    "slug": "jurassic-park-acteur-sam-neill-wordt-behandeld-voor-kanker",
+    "type": "article",
+    "title": "Jurassic Park-acteur Sam Neill wordt behandeld voor kanker",
+    "subtitle": null,
+    "published_at": "2023-03-17T21:36:50+01:00",
+    "updated_at": "2023-03-17T21:36:52+01:00",
+    "media_id": "8hcxa6tamhkk",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6255855/jurassic-park-acteur-sam-neill-wordt-behandeld-voor-kanker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255853,
+    "slug": "omstreden-miljonair-sanderink-geschorst-als-topman-strukton-en-oranjewoud",
+    "type": "article",
+    "title": "Omstreden miljonair Sanderink geschorst als topman Strukton en Oranjewoud",
     "subtitle": null,
     "published_at": "2023-03-17T21:15:13+01:00",
-    "updated_at": "2023-03-17T21:19:31+01:00",
+    "updated_at": "2023-03-17T21:33:50+01:00",
     "media_id": "556xqnxa9s0q",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6255853/gerard-sanderink-na-incidenten-geschorst-als-topman-strukton-en-oranjewoud.html",
+    "url": "/economie/6255853/omstreden-miljonair-sanderink-geschorst-als-topman-strukton-en-oranjewoud.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Vernielde Russische tank en Oekraïense ambulance naar museum in Nederland",
     "subtitle": null,
     "published_at": "2023-03-17T19:24:30+01:00",
-    "updated_at": "2023-03-17T19:24:31+01:00",
+    "updated_at": "2023-03-17T21:44:51+01:00",
     "media_id": "lnmxdgtabszp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6255828/haags-pvda-kopstuk-adri-duivesteijn-overleden-op-72-jarige-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255822,
-    "slug": "schrijfster-dubravka-ugresic-bekend-van-de-vos-overleden-op-73-jarige-leeftijd",
-    "type": "article",
-    "title": "Schrijfster Dubravka Ugrešić, bekend van De Vos, overleden op 73-jarige leeftijd",
-    "subtitle": null,
-    "published_at": "2023-03-17T17:22:52+01:00",
-    "updated_at": "2023-03-17T21:28:16+01:00",
-    "media_id": "cgrxbioasv4w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6255822/schrijfster-dubravka-ugresic-bekend-van-de-vos-overleden-op-73-jarige-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255826,
-    "slug": "zanger-en-stylist-roy-donders-is-voor-het-eerst-vader-geworden",
-    "type": "article",
-    "title": "Zanger en stylist Roy Donders is voor het eerst vader geworden",
-    "subtitle": null,
-    "published_at": "2023-03-17T17:21:14+01:00",
-    "updated_at": "2023-03-17T17:58:49+01:00",
-    "media_id": "t56xpjda95xt",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6255826/zanger-en-stylist-roy-donders-is-voor-het-eerst-vader-geworden.html",
     "open_new_window": false,
     "partner": null
   }
