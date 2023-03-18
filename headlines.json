@@ -1,12 +1,58 @@
 [
   {
-    "id": 6255874,
-    "slug": "nieuwe-john-wick-film-opgedragen-aan-overleden-lance-reddick",
+    "id": 6255876,
+    "slug": "voormalig-liverpool-speler-leiva-zet-wegens-hartprobleem-punt-achter-loopbaan",
     "type": "article",
-    "title": "Nieuwe John Wick-film opgedragen aan overleden Lance Reddick",
+    "title": "Voormalig Liverpool-speler Leiva zet wegens hartprobleem punt achter loopbaan",
+    "subtitle": null,
+    "published_at": "2023-03-18T09:19:46+01:00",
+    "updated_at": "2023-03-18T09:19:47+01:00",
+    "media_id": "oowxalma9bww",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255876/voormalig-liverpool-speler-leiva-zet-wegens-hartprobleem-punt-achter-loopbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255875,
+    "slug": "australier-surft-ruim-40-uur-op-golven-sydney-en-breekt-wereldrecord",
+    "type": "video",
+    "title": "Australiër surft ruim 40 uur op golven Sydney en breekt wereldrecord",
+    "subtitle": "Video",
+    "published_at": "2023-03-18T09:10:21+01:00",
+    "updated_at": "2023-03-18T09:10:23+01:00",
+    "media_id": "y3exer0aab3a",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255875/australier-surft-ruim-40-uur-op-golven-sydney-en-breekt-wereldrecord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255874,
+    "slug": "nieuwe-john-wick-film-wordt-opgedragen-aan-overleden-acteur-lance-reddick",
+    "type": "article",
+    "title": "Nieuwe John Wick-film wordt opgedragen aan overleden acteur Lance Reddick",
     "subtitle": null,
     "published_at": "2023-03-18T08:46:07+01:00",
-    "updated_at": "2023-03-18T08:46:08+01:00",
+    "updated_at": "2023-03-18T08:52:28+01:00",
     "media_id": "9wkx85oacgim",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6255874/nieuwe-john-wick-film-opgedragen-aan-overleden-lance-reddick.html",
+    "url": "/film/6255874/nieuwe-john-wick-film-wordt-opgedragen-aan-overleden-acteur-lance-reddick.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Musk maakt deel van Twitter-algoritme openbaar: 'Moet aanbevelingen verbeteren'",
     "subtitle": null,
     "published_at": "2023-03-18T06:03:23+01:00",
-    "updated_at": "2023-03-18T08:30:25+01:00",
+    "updated_at": "2023-03-18T08:51:50+01:00",
     "media_id": "aa2xjynatcda",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6255861/newcastle-komt-flinke-fout-botman-te-boven-fraaie-eerste-seizoensgoal-de-roon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255860,
-    "slug": "burgemeester-van-rome-wil-geen-fans-van-feyenoord-in-zijn-stad-toelaten",
-    "type": "article",
-    "title": "Burgemeester van Rome wil geen fans van Feyenoord in zijn stad toelaten",
-    "subtitle": null,
-    "published_at": "2023-03-17T22:44:56+01:00",
-    "updated_at": "2023-03-18T06:04:33+01:00",
-    "media_id": "wesxgndayavw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255860/burgemeester-van-rome-wil-geen-fans-van-feyenoord-in-zijn-stad-toelaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255859,
-    "slug": "zwitserse-bank-ubs-zou-geplaagde-concurrent-credit-suisse-willen-overnemen",
-    "type": "article",
-    "title": "Zwitserse bank UBS zou geplaagde concurrent Credit Suisse willen overnemen",
-    "subtitle": null,
-    "published_at": "2023-03-17T22:35:34+01:00",
-    "updated_at": "2023-03-18T07:36:51+01:00",
-    "media_id": "xxgx8svauhus",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255859/zwitserse-bank-ubs-zou-geplaagde-concurrent-credit-suisse-willen-overnemen.html",
     "open_new_window": false,
     "partner": null
   }
