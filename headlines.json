@@ -1,12 +1,58 @@
 [
   {
+    "id": 6255880,
+    "slug": "geredde-zeehondjes-worden-vrijgelaten-op-amerikaans-strand",
+    "type": "video",
+    "title": "Geredde zeehondjes worden vrijgelaten op Amerikaans strand",
+    "subtitle": "Video",
+    "published_at": "2023-03-18T10:15:19+01:00",
+    "updated_at": "2023-03-18T10:15:20+01:00",
+    "media_id": "lcuxqdnaf6ia",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6255880/geredde-zeehondjes-worden-vrijgelaten-op-amerikaans-strand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255879,
+    "slug": "ongevaccineerde-djokovic-mist-ook-masters-toernooi-van-miami",
+    "type": "article",
+    "title": "Ongevaccineerde Djokovic mist ook Masters-toernooi van Miami",
+    "subtitle": null,
+    "published_at": "2023-03-18T09:53:12+01:00",
+    "updated_at": "2023-03-18T09:55:31+01:00",
+    "media_id": "ic6xtcwa4pic",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6255879/ongevaccineerde-djokovic-mist-ook-masters-toernooi-van-miami.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255877,
     "slug": "eerste-interview-met-tom-egbers-na-artikel-trekt-bijna-een-miljoen-kijkers",
     "type": "article",
     "title": "Eerste interview met Tom Egbers na artikel trekt bijna een miljoen kijkers",
     "subtitle": null,
     "published_at": "2023-03-18T09:36:49+01:00",
-    "updated_at": "2023-03-18T09:46:29+01:00",
+    "updated_at": "2023-03-18T10:14:44+01:00",
     "media_id": "j1zxqdda4pba",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6255592/hoe-je-via-je-hypotheek-en-spaargeld-merkt-dat-ecb-de-rente-verhoogt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255431,
-    "slug": "videodeurbel-pakt-inbreker-politie-kan-beelden-van-314000-cameras-opvragen",
-    "type": "article",
-    "title": "Videodeurbel pakt inbreker: politie kan beelden van 314.000 camera's opvragen",
-    "subtitle": null,
-    "published_at": "2023-03-18T05:00:24+01:00",
-    "updated_at": "2023-03-18T05:00:26+01:00",
-    "media_id": "vr0x8icab905",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6255431/videodeurbel-pakt-inbreker-politie-kan-beelden-van-314000-cameras-opvragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255863,
-    "slug": "tientallen-arrestaties-na-nieuwe-rellen-in-parijs-vijf-agenten-gewond",
-    "type": "article",
-    "title": "Tientallen arrestaties na nieuwe rellen in Parijs, vijf agenten gewond",
-    "subtitle": null,
-    "published_at": "2023-03-18T00:37:10+01:00",
-    "updated_at": "2023-03-18T08:11:05+01:00",
-    "media_id": "2azx9dsa3zsq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255863/tientallen-arrestaties-na-nieuwe-rellen-in-parijs-vijf-agenten-gewond.html",
     "open_new_window": false,
     "partner": null
   }
