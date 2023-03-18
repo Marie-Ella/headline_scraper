@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255866,
+    "slug": "weerbericht-zacht-met-in-de-middag-kans-op-een-flinke-bui",
+    "type": "article",
+    "title": "Weerbericht: Zacht met in de middag kans op een flinke bui",
+    "subtitle": null,
+    "published_at": "2023-03-18T05:33:11+01:00",
+    "updated_at": "2023-03-18T05:34:50+01:00",
+    "media_id": "2bix678a2mn2",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255866/weerbericht-zacht-met-in-de-middag-kans-op-een-flinke-bui.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255865,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6255064/waarom-er-nog-steeds-zoveel-zwerfafval-op-straat-ligt-en-wat-jij-kunt-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255846,
-    "slug": "belg-haalt-op-nippertje-finish-van-zwaarste-ultraloop-ter-wereld",
-    "type": "video",
-    "title": "Belg haalt op nippertje finish van 'zwaarste ultraloop ter wereld'",
-    "subtitle": "Video",
-    "published_at": "2023-03-17T20:33:07+01:00",
-    "updated_at": "2023-03-17T20:37:42+01:00",
-    "media_id": "ifixyblaqpfh",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255846/belg-haalt-op-nippertje-finish-van-zwaarste-ultraloop-ter-wereld.html",
     "open_new_window": false,
     "partner": null
   }
