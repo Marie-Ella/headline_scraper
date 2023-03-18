@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255917,
+    "slug": "hake-jaar-na-ontslag-terug-in-utrecht-met-go-ahead",
+    "type": "article",
+    "title": "Hake jaar na ontslag terug in Utrecht met Go Ahead",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-03-18T16:16:38+01:00",
+    "updated_at": "2023-03-18T16:16:40+01:00",
+    "media_id": "xnbxaf9a02x6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255917/hake-jaar-na-ontslag-terug-in-utrecht-met-go-ahead.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255908,
     "slug": "verstappen-weer-klasse-apart-in-slottraining-jeddah-problemen-bij-de-vries",
     "type": "article",
     "title": "Verstappen weer klasse apart in slottraining Jeddah, problemen bij De Vries",
     "subtitle": null,
     "published_at": "2023-03-18T15:37:51+01:00",
-    "updated_at": "2023-03-18T15:48:07+01:00",
+    "updated_at": "2023-03-18T15:58:11+01:00",
     "media_id": "wdhx0wea4lv5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255883/autodief-in-vs-slaat-op-de-vlucht-op-skateboard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255882,
-    "slug": "groep-van-der-poel-en-pogacar-versnelt-in-finale-milaan-san-remo",
-    "type": "article",
-    "title": "Groep Van der Poel en Pogacar versnelt in finale Milaan-San Remo",
-    "subtitle": "Liveblog",
-    "published_at": "2023-03-18T10:41:03+01:00",
-    "updated_at": "2023-03-18T15:39:33+01:00",
-    "media_id": "gj0xz7ja8j41",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6255882/groep-van-der-poel-en-pogacar-versnelt-in-finale-milaan-san-remo.html",
     "open_new_window": false,
     "partner": null
   }
