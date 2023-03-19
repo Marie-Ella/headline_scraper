@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255976,
+    "slug": "beelden-tonen-ravage-na-aardbeving-in-ecuador",
+    "type": "video",
+    "title": "Beelden tonen ravage na aardbeving in Ecuador",
+    "subtitle": "Video",
+    "published_at": "2023-03-19T10:54:10+01:00",
+    "updated_at": "2023-03-19T10:59:13+01:00",
+    "media_id": "pyexu1haef3n",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255976/beelden-tonen-ravage-na-aardbeving-in-ecuador.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255975,
     "slug": "taron-egerton-niet-gebeld-voor-james-bond-en-vindt-zichzelf-ongeschikt",
     "type": "article",
     "title": "Taron Egerton niet gebeld voor James Bond en vindt zichzelf ongeschikt",
     "subtitle": null,
     "published_at": "2023-03-19T10:49:03+01:00",
-    "updated_at": "2023-03-19T10:49:48+01:00",
+    "updated_at": "2023-03-19T10:52:49+01:00",
     "media_id": "tzixzstaw571",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6255661/wat-is-seponeren-en-trial-by-media-antwoord-op-jullie-vragen-over-the-voice.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255727,
-    "slug": "consument-draait-op-voor-hogere-loonkosten",
-    "type": "article",
-    "title": "Consument draait op voor hogere loonkosten",
-    "subtitle": null,
-    "published_at": "2023-03-19T05:00:18+01:00",
-    "updated_at": "2023-03-19T09:57:58+01:00",
-    "media_id": "hadxtxlazepz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255727/consument-draait-op-voor-hogere-loonkosten.html",
     "open_new_window": false,
     "partner": null
   }
