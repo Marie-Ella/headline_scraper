@@ -1,5 +1,51 @@
 [
   {
+    "id": 6256049,
+    "slug": "verstappen-mag-elke-race-wel-als-15e-starten",
+    "type": "audio",
+    "title": "'Verstappen mag elke race wel als 15e starten'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-03-20T02:38:36+01:00",
+    "updated_at": "2023-03-20T02:38:37+01:00",
+    "media_id": "d7txn41aiq2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6256049/verstappen-mag-elke-race-wel-als-15e-starten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256048,
+    "slug": "verstappen-negeerde-team-voor-extra-wk-punt-groot-verschil-met-perez",
+    "type": "video",
+    "title": "Verstappen negeerde team voor extra WK-punt: 'Groot verschil met Pérez'",
+    "subtitle": "Video",
+    "published_at": "2023-03-20T01:54:53+01:00",
+    "updated_at": "2023-03-20T01:54:54+01:00",
+    "media_id": "3sqxeaka1e9g",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Saoedi-Arabië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6256048/verstappen-negeerde-team-voor-extra-wk-punt-groot-verschil-met-perez.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255813,
     "slug": "eerlijke-geldwijzer-geeft-klimaatplannen-financiele-sector-een-dikke-onvoldoende",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Verstappen en Pérez weten al dat ze alleen elkaar hoeven te verslaan",
     "subtitle": "NU+",
     "published_at": "2023-03-19T22:30:15+01:00",
-    "updated_at": "2023-03-19T22:54:19+01:00",
+    "updated_at": "2023-03-20T02:41:26+01:00",
     "media_id": "1iexndbanc4p",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Verstappen ontevreden na tweede plaats in Jeddah: ‘Alles moet perfect zijn’",
     "subtitle": "NU+",
     "published_at": "2023-03-19T21:08:21+01:00",
-    "updated_at": "2023-03-19T21:21:02+01:00",
+    "updated_at": "2023-03-20T02:40:18+01:00",
     "media_id": "tpyxsxbag5xd",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Verstappen kampte opnieuw met problemen: 'Besloot geen risico te nemen'",
     "subtitle": null,
     "published_at": "2023-03-19T20:03:23+01:00",
-    "updated_at": "2023-03-19T21:15:32+01:00",
+    "updated_at": "2023-03-20T01:57:26+01:00",
     "media_id": "2gix5nvapalb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6256025/verstappen-kampte-opnieuw-met-problemen-besloot-geen-risico-te-nemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256023,
-    "slug": "van-gerwen-neemt-revanche-op-van-duijvenbode-en-wint-players-championship",
-    "type": "article",
-    "title": "Van Gerwen neemt revanche op Van Duijvenbode en wint Players Championship",
-    "subtitle": null,
-    "published_at": "2023-03-19T19:50:31+01:00",
-    "updated_at": "2023-03-19T20:11:52+01:00",
-    "media_id": "sfuxtp1a8pmm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6256023/van-gerwen-neemt-revanche-op-van-duijvenbode-en-wint-players-championship.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255536,
-    "slug": "wat-wil-jij-weten-over-de-grand-prix-van-saoedi-arabie",
-    "type": "article",
-    "title": "Wat wil jij weten over de Grand Prix van Saoedi-Arabië?",
-    "subtitle": null,
-    "published_at": "2023-03-19T19:38:32+01:00",
-    "updated_at": "2023-03-19T19:46:16+01:00",
-    "media_id": "tzvxt10aurck",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Saoedi-Arabië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6255536/wat-wil-jij-weten-over-de-grand-prix-van-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   }
