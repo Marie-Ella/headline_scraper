@@ -1,12 +1,81 @@
 [
   {
-    "id": 6256153,
-    "slug": "amazon-dunt-personeelsbestand-toch-verder-uit",
+    "id": 6256155,
+    "slug": "documentaire-ed-sheeran-over-liefde-en-verlies-werd-heel-anders-dan-ik-dacht",
     "type": "article",
-    "title": "Amazon dunt personeelsbestand toch verder uit",
+    "title": "Documentaire Ed Sheeran over liefde en verlies: 'Werd heel anders dan ik dacht'",
+    "subtitle": null,
+    "published_at": "2023-03-20T16:33:39+01:00",
+    "updated_at": "2023-03-20T16:33:41+01:00",
+    "media_id": "clvx0zlap61s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6256155/documentaire-ed-sheeran-over-liefde-en-verlies-werd-heel-anders-dan-ik-dacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256158,
+    "slug": "koeman-verrast-door-kritiek-van-gepasseerde-tete-het-is-graag-of-niet",
+    "type": "article",
+    "title": "Koeman verrast door kritiek van gepasseerde Tete: 'Het is graag of niet'",
+    "subtitle": null,
+    "published_at": "2023-03-20T16:30:01+01:00",
+    "updated_at": "2023-03-20T16:33:43+01:00",
+    "media_id": "j7uxvnlafrck",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256158/koeman-verrast-door-kritiek-van-gepasseerde-tete-het-is-graag-of-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256156,
+    "slug": "koeman-is-niet-bang-om-wieffer-op-te-stellen-als-vervanger-van-frenkie-de-jong",
+    "type": "article",
+    "title": "Koeman is niet bang om Wieffer op te stellen als vervanger van Frenkie de Jong",
+    "subtitle": null,
+    "published_at": "2023-03-20T16:25:26+01:00",
+    "updated_at": "2023-03-20T16:33:39+01:00",
+    "media_id": "guexqv9a0req",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256156/koeman-is-niet-bang-om-wieffer-op-te-stellen-als-vervanger-van-frenkie-de-jong.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256153,
+    "slug": "amazon-dunt-personeelsbestand-toch-wel-verder-uit",
+    "type": "article",
+    "title": "Amazon dunt personeelsbestand toch wel verder uit",
     "subtitle": null,
     "published_at": "2023-03-20T16:16:24+01:00",
-    "updated_at": "2023-03-20T16:21:15+01:00",
+    "updated_at": "2023-03-20T16:34:15+01:00",
     "media_id": "7zwxsw8a1cxc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6256153/amazon-dunt-personeelsbestand-toch-verder-uit.html",
+    "url": "/economie/6256153/amazon-dunt-personeelsbestand-toch-wel-verder-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Geld- en taakstraf voor man die tonnen wegsluisde van Eurosonic Noorderslag",
     "subtitle": null,
     "published_at": "2023-03-20T16:04:10+01:00",
-    "updated_at": "2023-03-20T16:04:13+01:00",
+    "updated_at": "2023-03-20T16:27:38+01:00",
     "media_id": "fr0x62kay52r",
     "duration": null,
     "canonical_section": {
@@ -42,29 +111,6 @@
       "partner": null
     },
     "url": "/muziek/6256134/geld-en-taakstraf-voor-man-die-tonnen-wegsluisde-van-eurosonic-noorderslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256151,
-    "slug": "bekijk-de-persconferentie-van-bondscoach-ronald-koeman",
-    "type": "video",
-    "title": "Bekijk de persconferentie van bondscoach Ronald Koeman",
-    "subtitle": "Livestream",
-    "published_at": "2023-03-20T16:02:38+01:00",
-    "updated_at": "2023-03-20T16:06:54+01:00",
-    "media_id": "wnexw74a6yxl",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6256151/bekijk-de-persconferentie-van-bondscoach-ronald-koeman.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6256118/fia-gaat-opnieuw-naar-regels-kijken-na-rel-rond-alonso-in-saoedi-arabie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256119,
-    "slug": "oplettende-burger-overmeestert-man-met-vuurwapens-in-vs",
-    "type": "video",
-    "title": "Oplettende burger overmeestert man met vuurwapens in VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-20T13:37:41+01:00",
-    "updated_at": "2023-03-20T13:50:02+01:00",
-    "media_id": "n3pxydzadwrq",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256119/oplettende-burger-overmeestert-man-met-vuurwapens-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256111,
-    "slug": "oranjeafvaller-frimpong-zegt-af-voor-jong-oranje-ook-rensch-ontbreekt",
-    "type": "article",
-    "title": "Oranjeafvaller Frimpong zegt af voor Jong Oranje, ook Rensch ontbreekt",
-    "subtitle": null,
-    "published_at": "2023-03-20T13:04:57+01:00",
-    "updated_at": "2023-03-20T15:32:25+01:00",
-    "media_id": "dgaxu5faiqfj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256111/oranjeafvaller-frimpong-zegt-af-voor-jong-oranje-ook-rensch-ontbreekt.html",
     "open_new_window": false,
     "partner": null
   }
