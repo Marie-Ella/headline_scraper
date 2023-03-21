@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256209,
+    "slug": "frans-bauer-zou-carriere-opgeven-om-voor-zijn-vrouw-mariska-te-zorgen",
+    "type": "article",
+    "title": "Frans Bauer zou carrière opgeven om voor zijn vrouw Mariska te zorgen",
+    "subtitle": null,
+    "published_at": "2023-03-21T06:55:06+01:00",
+    "updated_at": "2023-03-21T07:24:25+01:00",
+    "media_id": "tgnxa6ia0vag",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6256209/frans-bauer-zou-carriere-opgeven-om-voor-zijn-vrouw-mariska-te-zorgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256208,
     "slug": "french-montana-wordt-aangeklaagd-voor-schietincident-bij-restaurant",
     "type": "article",
     "title": "French Montana wordt aangeklaagd voor schietincident bij restaurant",
     "subtitle": null,
     "published_at": "2023-03-21T06:35:17+01:00",
-    "updated_at": "2023-03-21T06:35:18+01:00",
+    "updated_at": "2023-03-21T07:09:45+01:00",
     "media_id": "jq2x3g1a8cqt",
     "duration": null,
     "canonical_section": {
@@ -25,13 +48,13 @@
   {
     "id": 6256176,
     "slug": "waarom-trump-roept-dat-hij-gearresteerd-wordt-en-het-ook-hoopt",
-    "type": "article",
+    "type": "video",
     "title": "Waarom Trump roept dat hij gearresteerd wordt (en het ook hoopt)",
     "subtitle": "Video",
     "published_at": "2023-03-21T06:33:16+01:00",
-    "updated_at": "2023-03-21T06:33:17+01:00",
+    "updated_at": "2023-03-21T06:54:08+01:00",
     "media_id": "rkdx3b5aubwg",
-    "duration": null,
+    "duration": "3:05",
     "canonical_section": {
       "id": 1771436,
       "slug": "buitenland",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6256191/oud-wereldkampioen-gary-anderson-pakt-in-duitsland-eerste-pdc-titel-in-drie-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256193,
-    "slug": "woningen-dreigen-van-klif-te-storten-na-aardverschuiving-in-vs",
-    "type": "video",
-    "title": "Woningen dreigen van klif te storten na aardverschuiving in VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-20T20:54:45+01:00",
-    "updated_at": "2023-03-20T20:54:46+01:00",
-    "media_id": "o91xfaka0w8v",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256193/woningen-dreigen-van-klif-te-storten-na-aardverschuiving-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
