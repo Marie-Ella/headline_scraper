@@ -1,12 +1,58 @@
 [
   {
+    "id": 6256424,
+    "slug": "peter-gillis-moet-vanwege-illegale-huisvesting-dwangsom-van-1-miljoen-betalen",
+    "type": "article",
+    "title": "Peter Gillis moet vanwege illegale huisvesting dwangsom van 1 miljoen betalen",
+    "subtitle": null,
+    "published_at": "2023-03-22T14:45:23+01:00",
+    "updated_at": "2023-03-22T14:45:24+01:00",
+    "media_id": "7t5xz25aym7i",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6256424/peter-gillis-moet-vanwege-illegale-huisvesting-dwangsom-van-1-miljoen-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256425,
+    "slug": "feyenoord-verliest-oefenduel-van-nec-psv-klopt-anderlecht-bij-rentree-savio",
+    "type": "article",
+    "title": "Feyenoord verliest oefenduel van NEC, PSV klopt Anderlecht bij rentree Sávio",
+    "subtitle": null,
+    "published_at": "2023-03-22T14:43:09+01:00",
+    "updated_at": "2023-03-22T14:45:36+01:00",
+    "media_id": "0syxmdkagok9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256425/feyenoord-verliest-oefenduel-van-nec-psv-klopt-anderlecht-bij-rentree-savio.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256419,
-    "slug": "oekraiense-flat-vliegt-in-brand-na-russische-raketaanval",
+    "slug": "russische-raket-slaat-in-op-oekraiense-flats",
     "type": "video",
-    "title": "Oekraïense flat vliegt in brand na Russische raketaanval",
+    "title": "Russische raket slaat in op Oekraïense flats",
     "subtitle": "Video",
     "published_at": "2023-03-22T13:56:44+01:00",
-    "updated_at": "2023-03-22T14:00:09+01:00",
+    "updated_at": "2023-03-22T14:45:34+01:00",
     "media_id": "1h8xr7bax5g0",
     "duration": "0:36",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6256419/oekraiense-flat-vliegt-in-brand-na-russische-raketaanval.html",
+    "url": "/spanningen-oekraine/6256419/russische-raket-slaat-in-op-oekraiense-flats.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Door dassen nog wekenlang geen treinen tussen Den Bosch en Eindhoven",
     "subtitle": null,
     "published_at": "2023-03-22T13:45:17+01:00",
-    "updated_at": "2023-03-22T14:30:16+01:00",
+    "updated_at": "2023-03-22T14:37:26+01:00",
     "media_id": "nd9xlb2afo3w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6256386/bestuur-meldpunt-mores-treedt-af-na-ophef-over-oud-voorzitter-janke-dekker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256378,
-    "slug": "bruce-springsteen-ontvangt-hoogste-amerikaanse-onderscheiding",
-    "type": "video",
-    "title": "Bruce Springsteen ontvangt hoogste Amerikaanse onderscheiding",
-    "subtitle": "Video",
-    "published_at": "2023-03-22T09:28:54+01:00",
-    "updated_at": "2023-03-22T11:11:43+01:00",
-    "media_id": "2unxpn9ay72k",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6256378/bruce-springsteen-ontvangt-hoogste-amerikaanse-onderscheiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256372,
-    "slug": "zangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib",
-    "type": "article",
-    "title": "Zangeres Helene Fischer stelt tournee uit vanwege een gebroken rib",
-    "subtitle": null,
-    "published_at": "2023-03-22T09:17:30+01:00",
-    "updated_at": "2023-03-22T11:22:47+01:00",
-    "media_id": "adfxad8aero2",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6256372/zangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib.html",
     "open_new_window": false,
     "partner": null
   }
