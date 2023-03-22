@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256378,
+    "slug": "bruce-springsteen-ontvangt-hoogste-amerikaanse-onderscheiding",
+    "type": "video",
+    "title": "Bruce Springsteen ontvangt hoogste Amerikaanse onderscheiding",
+    "subtitle": "Video",
+    "published_at": "2023-03-22T09:28:54+01:00",
+    "updated_at": "2023-03-22T09:28:55+01:00",
+    "media_id": "2unxpn9ay72k",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6256378/bruce-springsteen-ontvangt-hoogste-amerikaanse-onderscheiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256372,
-    "slug": "schlagerzangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib",
+    "slug": "zangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib",
     "type": "article",
-    "title": "Schlagerzangeres Helene Fischer stelt tournee uit vanwege een gebroken rib",
+    "title": "Zangeres Helene Fischer stelt tournee uit vanwege een gebroken rib",
     "subtitle": null,
     "published_at": "2023-03-22T09:17:30+01:00",
-    "updated_at": "2023-03-22T09:17:31+01:00",
+    "updated_at": "2023-03-22T09:27:59+01:00",
     "media_id": "adfxad8aero2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6256372/schlagerzangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib.html",
+    "url": "/achterklap/6256372/zangeres-helene-fischer-stelt-tournee-uit-vanwege-een-gebroken-rib.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6256368,
-    "slug": "jeugdbeschermers-gaan-minder-kinderen-en-gezinnen-bijstaan-om-werkdruk-te-verlagen",
+    "slug": "jeugdbeschermers-gaan-minder-gezinnen-bijstaan-om-werkdruk-te-verlagen",
     "type": "article",
-    "title": "Jeugdbeschermers gaan minder kinderen en gezinnen bijstaan om werkdruk te verlagen",
+    "title": "Jeugdbeschermers gaan minder gezinnen bijstaan om werkdruk te verlagen",
     "subtitle": null,
     "published_at": "2023-03-22T07:54:33+01:00",
-    "updated_at": "2023-03-22T09:07:29+01:00",
+    "updated_at": "2023-03-22T09:25:06+01:00",
     "media_id": "opsxth9ameno",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6256368/jeugdbeschermers-gaan-minder-kinderen-en-gezinnen-bijstaan-om-werkdruk-te-verlagen.html",
+    "url": "/economie/6256368/jeugdbeschermers-gaan-minder-gezinnen-bijstaan-om-werkdruk-te-verlagen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256315/penaltykiller-verbruggen-wil-bij-oranje-blijven-ben-niet-op-schoolreisje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255549,
-    "slug": "minder-hennepkwekerijen-ontmanteld-politie-vreest-lagere-meldingsbereidheid",
-    "type": "article",
-    "title": "Minder hennepkwekerijen ontmanteld, politie vreest lagere meldingsbereidheid",
-    "subtitle": null,
-    "published_at": "2023-03-22T05:07:23+01:00",
-    "updated_at": "2023-03-22T05:07:25+01:00",
-    "media_id": "r5jxuy5abhvf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6255549/minder-hennepkwekerijen-ontmanteld-politie-vreest-lagere-meldingsbereidheid.html",
     "open_new_window": false,
     "partner": null
   }
