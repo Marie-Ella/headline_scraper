@@ -1,12 +1,58 @@
 [
   {
+    "id": 6256598,
+    "slug": "virgil-van-dijk-na-ziektegolf-bij-oranje-ik-heb-lekker-gegeten",
+    "type": "video",
+    "title": "Virgil van Dijk na ziektegolf bij Oranje: 'Ik heb lekker gegeten'",
+    "subtitle": "Video",
+    "published_at": "2023-03-23T17:44:26+01:00",
+    "updated_at": "2023-03-23T17:44:28+01:00",
+    "media_id": "0e8xlcsaojzo",
+    "duration": "1:24",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6256598/virgil-van-dijk-na-ziektegolf-bij-oranje-ik-heb-lekker-gegeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256595,
+    "slug": "drone-filmt-kunstburcht-voor-dassen-langs-spoor-in-molkwerum",
+    "type": "video",
+    "title": "Drone filmt kunstburcht voor dassen langs spoor in Molkwerum",
+    "subtitle": "Video",
+    "published_at": "2023-03-23T17:35:09+01:00",
+    "updated_at": "2023-03-23T17:35:10+01:00",
+    "media_id": "xpixi50aly17",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256595/drone-filmt-kunstburcht-voor-dassen-langs-spoor-in-molkwerum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256581,
-    "slug": "valpartijen-ontsieren-waaierkoers-de-panne-britse-georgi-soleert-naar-winst",
+    "slug": "vrouwenkoers-de-panne-ontaardt-in-chaos-door-waaiers-en-massale-valpartij",
     "type": "article",
-    "title": "Valpartijen ontsieren waaierkoers De Panne, Britse Georgi soleert naar winst",
+    "title": "Vrouwenkoers De Panne ontaardt in chaos door waaiers en massale valpartij",
     "subtitle": null,
     "published_at": "2023-03-23T17:20:22+01:00",
-    "updated_at": "2023-03-23T17:20:23+01:00",
+    "updated_at": "2023-03-23T17:46:31+01:00",
     "media_id": "qqqxyn2ae2ys",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6256581/valpartijen-ontsieren-waaierkoers-de-panne-britse-georgi-soleert-naar-winst.html",
+    "url": "/wielrennen/6256581/vrouwenkoers-de-panne-ontaardt-in-chaos-door-waaiers-en-massale-valpartij.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6256590,
-    "slug": "groves-sprint-naar-ritwinst-in-ronde-van-catalonie-roglic-behoudt-leiding",
+    "slug": "groves-klopt-schelling-bij-massasprint-in-catalonie-roglic-behoudt-leiding",
     "type": "article",
-    "title": "Groves sprint naar ritwinst in Ronde van Catalonië, Roglic behoudt leiding",
+    "title": "Groves klopt Schelling bij massasprint in Catalonië, Roglic behoudt leiding",
     "subtitle": null,
     "published_at": "2023-03-23T17:17:21+01:00",
-    "updated_at": "2023-03-23T17:22:59+01:00",
+    "updated_at": "2023-03-23T17:47:40+01:00",
     "media_id": "6m0xc7xajz1e",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6256590/groves-sprint-naar-ritwinst-in-ronde-van-catalonie-roglic-behoudt-leiding.html",
+    "url": "/wielrennen/6256590/groves-klopt-schelling-bij-massasprint-in-catalonie-roglic-behoudt-leiding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Boerenactiegroep Agractie stapt uit overleg met kabinet over landbouwakkoord",
     "subtitle": null,
     "published_at": "2023-03-23T17:10:54+01:00",
-    "updated_at": "2023-03-23T17:10:55+01:00",
+    "updated_at": "2023-03-23T17:45:29+01:00",
     "media_id": "fdcxgz2a0x3z",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Koeman schrikt van ziektegolf bij Oranje: 'Geen idee wat de oorzaak is'",
     "subtitle": null,
     "published_at": "2023-03-23T17:07:03+01:00",
-    "updated_at": "2023-03-23T17:27:20+01:00",
+    "updated_at": "2023-03-23T17:42:55+01:00",
     "media_id": "fr4x0ytaug15",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6256564/uitslag-waterschapsverkiezingen-definitief-bbb-wint-in-dertien-waterschappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256559,
-    "slug": "ploeterend-mclaren-grijpt-in-en-zet-technisch-directeur-key-aan-de-kant",
-    "type": "article",
-    "title": "Ploeterend McLaren grijpt in en zet technisch directeur Key aan de kant",
-    "subtitle": null,
-    "published_at": "2023-03-23T14:59:49+01:00",
-    "updated_at": "2023-03-23T15:11:37+01:00",
-    "media_id": "a1lxm22aj4gv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6256559/ploeterend-mclaren-grijpt-in-en-zet-technisch-directeur-key-aan-de-kant.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256395,
-    "slug": "niet-mee-kunnen-of-willen-vasten-zorgt-voor-mentale-druk",
-    "type": "article",
-    "title": "Niet mee kunnen (of willen) vasten zorgt voor mentale druk",
-    "subtitle": null,
-    "published_at": "2023-03-23T14:57:33+01:00",
-    "updated_at": "2023-03-23T15:09:21+01:00",
-    "media_id": "06qxvycag3w3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256395/niet-mee-kunnen-of-willen-vasten-zorgt-voor-mentale-druk.html",
     "open_new_window": false,
     "partner": null
   }
