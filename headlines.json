@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256582,
+    "slug": "persconferentie-na-virusuitbraak-oranje-richting-duel-met-frankrijk",
+    "type": "video",
+    "title": "Persconferentie na virusuitbraak Oranje richting duel met Frankrijk",
+    "subtitle": "Livestream",
+    "published_at": "2023-03-23T16:28:32+01:00",
+    "updated_at": "2023-03-23T16:34:08+01:00",
+    "media_id": "7p4xvjka0ecg",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6256582/persconferentie-na-virusuitbraak-oranje-richting-duel-met-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256583,
     "slug": "koeman-staat-pers-te-woord-over-ziektegolf-in-selectie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6256545/prorail-mag-dassen-bij-spoor-in-molkwerum-verplaatsen-naar-nieuwe-kunstburcht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256544,
-    "slug": "arbeidsinspectie-grijpt-in-op-onveilige-bouwplaatsen-door-werk-stil-te-leggen",
-    "type": "article",
-    "title": "Arbeidsinspectie grijpt in op onveilige bouwplaatsen door werk stil te leggen",
-    "subtitle": null,
-    "published_at": "2023-03-23T13:02:43+01:00",
-    "updated_at": "2023-03-23T13:02:45+01:00",
-    "media_id": "jdpxwj8awsso",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256544/arbeidsinspectie-grijpt-in-op-onveilige-bouwplaatsen-door-werk-stil-te-leggen.html",
     "open_new_window": false,
     "partner": null
   }
