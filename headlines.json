@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256773,
+    "slug": "wegdek-in-vs-aan-diggelen-na-modderstroom",
+    "type": "video",
+    "title": "Wegdek in VS aan diggelen na modderstroom",
+    "subtitle": "Video",
+    "published_at": "2023-03-24T17:48:24+01:00",
+    "updated_at": "2023-03-24T17:48:25+01:00",
+    "media_id": "26lxvpca0ovt",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6256773/wegdek-in-vs-aan-diggelen-na-modderstroom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256758,
-    "slug": "roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim",
+    "slug": "roglic-maakt-prachtdag-jumbo-visma-compleet-met-nieuwe-ritzege-in-catalonie",
     "type": "article",
-    "title": "Roglic houdt de macht in Catalonië door Evenepoel te verslaan op loodzware klim",
+    "title": "Roglic maakt prachtdag Jumbo-Visma compleet met nieuwe ritzege in Catalonië",
     "subtitle": null,
     "published_at": "2023-03-24T17:20:31+01:00",
-    "updated_at": "2023-03-24T17:25:43+01:00",
+    "updated_at": "2023-03-24T17:47:46+01:00",
     "media_id": "anoxahyaw3p7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6256758/roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim.html",
+    "url": "/wielrennen/6256758/roglic-maakt-prachtdag-jumbo-visma-compleet-met-nieuwe-ritzege-in-catalonie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd in E3 Prijs",
     "subtitle": null,
     "published_at": "2023-03-24T17:10:59+01:00",
-    "updated_at": "2023-03-24T17:25:06+01:00",
+    "updated_at": "2023-03-24T17:42:44+01:00",
     "media_id": "xrbxk14agebh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256724/wormuth-haalt-gelijk-ontslag-bij-fc-groningen-was-in-strijd-met-de-wet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256722,
-    "slug": "grote-asteroide-scheert-zaterdag-zichtbaar-langs-de-aarde",
-    "type": "article",
-    "title": "Grote asteroïde scheert zaterdag zichtbaar langs de aarde",
-    "subtitle": null,
-    "published_at": "2023-03-24T13:43:30+01:00",
-    "updated_at": "2023-03-24T15:01:14+01:00",
-    "media_id": "varxdsrakewc",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6256722/grote-asteroide-scheert-zaterdag-zichtbaar-langs-de-aarde.html",
     "open_new_window": false,
     "partner": null
   }
