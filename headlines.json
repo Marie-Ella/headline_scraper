@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256872,
+    "slug": "monumenten-wereldwijd-in-het-donker-vanwege-earth-hour",
+    "type": "video",
+    "title": "Monumenten wereldwijd in het donker vanwege Earth Hour",
+    "subtitle": "Video",
+    "published_at": "2023-03-25T22:25:25+01:00",
+    "updated_at": "2023-03-25T22:25:31+01:00",
+    "media_id": "6fnxpqcaw50q",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256872/monumenten-wereldwijd-in-het-donker-vanwege-earth-hour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256869,
     "slug": "van-gerwen-met-fraai-gemiddelde-langs-van-barneveld-op-european-darts-open",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6256839/zomertijd-waarom-we-de-klok-vannacht-een-uur-vooruitzetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256844,
-    "slug": "ruim-100-arrestaties-bij-klimaatactie-extinction-rebellion-op-vliegveld-eindhoven",
-    "type": "article",
-    "title": "Ruim 100 arrestaties bij klimaatactie Extinction Rebellion op vliegveld Eindhoven",
-    "subtitle": null,
-    "published_at": "2023-03-25T15:23:27+01:00",
-    "updated_at": "2023-03-25T21:59:36+01:00",
-    "media_id": "u4qx2yoa6q8h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256844/ruim-100-arrestaties-bij-klimaatactie-extinction-rebellion-op-vliegveld-eindhoven.html",
     "open_new_window": false,
     "partner": null
   }
