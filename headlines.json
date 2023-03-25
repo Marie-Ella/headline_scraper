@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256809,
+    "slug": "weerbericht-onstuimige-dag-met-een-krachtige-wind-en-regelmatig-buien",
+    "type": "article",
+    "title": "Weerbericht: Onstuimige dag met een krachtige wind en regelmatig buien",
+    "subtitle": null,
+    "published_at": "2023-03-25T05:37:40+01:00",
+    "updated_at": "2023-03-25T05:47:17+01:00",
+    "media_id": "lc1xjv3al7qk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256809/weerbericht-onstuimige-dag-met-een-krachtige-wind-en-regelmatig-buien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256807,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6256556/jeugdzorgmedewerkers-over-werkdrukakkoord-even-lucht-happen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256788,
-    "slug": "van-der-poel-na-tweede-plek-in-spectaculaire-e3-ik-heb-me-wel-geamuseerd",
-    "type": "article",
-    "title": "Van der Poel na tweede plek in spectaculaire E3: 'Ik heb me wel geamuseerd'",
-    "subtitle": null,
-    "published_at": "2023-03-24T19:58:30+01:00",
-    "updated_at": "2023-03-24T20:10:00+01:00",
-    "media_id": "3rfx8muazih3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6256788/van-der-poel-na-tweede-plek-in-spectaculaire-e3-ik-heb-me-wel-geamuseerd.html",
     "open_new_window": false,
     "partner": null
   }
