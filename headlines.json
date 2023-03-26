@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256878,
+    "slug": "weerbericht-veel-bewolking-een-aantal-buien-en-lagere-temperaturen",
+    "type": "article",
+    "title": "Weerbericht: Veel bewolking, een aantal buien en lagere temperaturen",
+    "subtitle": null,
+    "published_at": "2023-03-26T05:30:06+02:00",
+    "updated_at": "2023-03-26T05:41:22+02:00",
+    "media_id": "70wxhvzam37u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256878/weerbericht-veel-bewolking-een-aantal-buien-en-lagere-temperaturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256877,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6256859/milieudemonstratie-ontaardt-in-ware-veldslag-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256855,
-    "slug": "eerste-bosbrand-van-het-jaar-in-spanje-nog-niet-onder-controle",
-    "type": "video",
-    "title": "Eerste bosbrand van het jaar in Spanje nog niet onder controle",
-    "subtitle": "Video",
-    "published_at": "2023-03-25T17:52:42+01:00",
-    "updated_at": "2023-03-25T17:52:43+01:00",
-    "media_id": "w5oxpxza60mf",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256855/eerste-bosbrand-van-het-jaar-in-spanje-nog-niet-onder-controle.html",
     "open_new_window": false,
     "partner": null
   }
