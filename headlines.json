@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256999,
+    "slug": "myanmarees-leger-toont-militaire-slagkracht-tijdens-jaarlijkse-parade",
+    "type": "video",
+    "title": "Myanmarees leger toont militaire slagkracht tijdens jaarlijkse parade",
+    "subtitle": "Video",
+    "published_at": "2023-03-27T12:10:30+02:00",
+    "updated_at": "2023-03-27T12:10:32+02:00",
+    "media_id": "ec7xdraa66vp",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6256999/myanmarees-leger-toont-militaire-slagkracht-tijdens-jaarlijkse-parade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256995,
     "slug": "komiek-wim-de-bie-83-van-iconisch-duo-van-kooten-en-de-bie-overleden",
     "type": "article",
     "title": "Komiek Wim de Bie (83) van iconisch duo Van Kooten en De Bie overleden",
     "subtitle": null,
     "published_at": "2023-03-27T11:41:06+02:00",
-    "updated_at": "2023-03-27T11:46:59+02:00",
+    "updated_at": "2023-03-27T12:14:50+02:00",
     "media_id": "hgqx6d8ax8x6",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6256992,
-    "slug": "dit-jaar-geen-loting-bij-subsidies-voor-verbeteren-basisvaardigheden-op-scholen",
+    "slug": "minder-goed-presterende-scholen-dit-jaar-vooraan-voor-subsidie-rekenen-en-taal",
     "type": "article",
-    "title": "Dit jaar geen loting bij subsidies voor verbeteren basisvaardigheden op scholen",
+    "title": "Minder goed presterende scholen dit jaar vooraan voor subsidie rekenen en taal",
     "subtitle": null,
     "published_at": "2023-03-27T11:25:51+02:00",
-    "updated_at": "2023-03-27T11:25:53+02:00",
+    "updated_at": "2023-03-27T12:19:41+02:00",
     "media_id": "ts0xgrdaaogf",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6256992/dit-jaar-geen-loting-bij-subsidies-voor-verbeteren-basisvaardigheden-op-scholen.html",
+    "url": "/binnenland/6256992/minder-goed-presterende-scholen-dit-jaar-vooraan-voor-subsidie-rekenen-en-taal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6256969,
-    "slug": "zet-netanyahu-zijn-omstreden-rechtspraakplannen-nog-door-als-israel-platligt",
+    "slug": "netanyahu-moet-kiezen-tussen-val-regering-en-stilstand-israel-dit-speelt-er",
     "type": "article",
-    "title": "Zet Netanyahu zijn omstreden rechtspraakplannen nog door als Israël platligt?",
+    "title": "Netanyahu moet kiezen tussen val regering en stilstand Israël: dit speelt er",
     "subtitle": null,
     "published_at": "2023-03-27T10:34:02+02:00",
-    "updated_at": "2023-03-27T11:35:38+02:00",
+    "updated_at": "2023-03-27T12:01:51+02:00",
     "media_id": "bllxhtsavudn",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6256969/zet-netanyahu-zijn-omstreden-rechtspraakplannen-nog-door-als-israel-platligt.html",
+    "url": "/buitenland/6256969/netanyahu-moet-kiezen-tussen-val-regering-en-stilstand-israel-dit-speelt-er.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6256961/weerbericht-winterse-buien-maar-de-zon-laat-zich-in-de-middag-meer-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256960,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-03-27T05:16:18+02:00",
-    "updated_at": "2023-03-27T05:16:19+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6256960/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
