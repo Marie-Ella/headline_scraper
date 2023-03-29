@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257249,
+    "slug": "bewakers-lopen-weg-tijdens-fatale-brand-in-mexicaans-detentiecentrum",
+    "type": "video",
+    "title": "Bewakers lopen weg tijdens fatale brand in Mexicaans detentiecentrum",
+    "subtitle": "Video",
+    "published_at": "2023-03-29T07:47:24+02:00",
+    "updated_at": "2023-03-29T07:47:38+02:00",
+    "media_id": "0smx9zrazoux",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257249/bewakers-lopen-weg-tijdens-fatale-brand-in-mexicaans-detentiecentrum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257245,
+    "slug": "topman-ralph-hamers-stapt-op-bij-zwitserse-bank-ubs",
+    "type": "article",
+    "title": "Topman Ralph Hamers stapt op bij Zwitserse bank UBS",
+    "subtitle": null,
+    "published_at": "2023-03-29T07:38:21+02:00",
+    "updated_at": "2023-03-29T07:47:45+02:00",
+    "media_id": "78yxdbnauyqn",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257245/topman-ralph-hamers-stapt-op-bij-zwitserse-bank-ubs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257243,
     "slug": "messi-viert-honderdste-goal-voor-argentinie-bij-monsterzege-op-curacao",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Stelling: Basisscholen moeten vanaf groep 1 beginnen met tweetalig lesgeven",
     "subtitle": null,
     "published_at": "2023-03-29T06:56:07+02:00",
-    "updated_at": "2023-03-29T07:14:11+02:00",
+    "updated_at": "2023-03-29T07:38:56+02:00",
     "media_id": "tpnxkzjan818",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6257229/zeldzame-pasgeboren-pantertweeling-ontdekt-verblijf-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257228,
-    "slug": "thialf-weer-gered-van-ondergang-kabinet-stopt-nog-eens-25-miljoen-in-ijsstadion",
-    "type": "article",
-    "title": "Thialf weer gered van ondergang: kabinet stopt nog eens 2,5 miljoen in ijsstadion",
-    "subtitle": null,
-    "published_at": "2023-03-28T21:36:21+02:00",
-    "updated_at": "2023-03-28T21:59:30+02:00",
-    "media_id": "9w5xzsqau84d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6257228/thialf-weer-gered-van-ondergang-kabinet-stopt-nog-eens-25-miljoen-in-ijsstadion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257227,
-    "slug": "van-de-zandschulp-kan-stunt-geen-goed-vervolg-geven-en-mist-kwartfinales-miami",
-    "type": "article",
-    "title": "Van de Zandschulp kan stunt geen goed vervolg geven en mist kwartfinales Miami",
-    "subtitle": null,
-    "published_at": "2023-03-28T21:34:16+02:00",
-    "updated_at": "2023-03-28T23:28:39+02:00",
-    "media_id": "yemxy8xatl9t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6257227/van-de-zandschulp-kan-stunt-geen-goed-vervolg-geven-en-mist-kwartfinales-miami.html",
     "open_new_window": false,
     "partner": null
   }
