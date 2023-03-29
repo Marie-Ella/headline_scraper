@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257238,
+    "slug": "weerbericht-zachte-lucht-brengt-niet-alleen-warmer-weer-maar-ook-regen",
+    "type": "article",
+    "title": "Weerbericht: Zachte lucht brengt niet alleen warmer weer, maar ook regen",
+    "subtitle": null,
+    "published_at": "2023-03-29T05:33:50+02:00",
+    "updated_at": "2023-03-29T05:33:51+02:00",
+    "media_id": "yy1xl7aapwuv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257238/weerbericht-zachte-lucht-brengt-niet-alleen-warmer-weer-maar-ook-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257239,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6257188/natte-winter-zorgt-voor-herstel-van-grondwaterpeil-van-afgelopen-zomer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257221,
-    "slug": "eneco-moet-groot-aantal-klanten-met-zonnepanelen-compenseren",
-    "type": "article",
-    "title": "Eneco moet groot aantal klanten met zonnepanelen compenseren",
-    "subtitle": null,
-    "published_at": "2023-03-28T19:54:05+02:00",
-    "updated_at": "2023-03-28T20:39:11+02:00",
-    "media_id": "t7sxyeiacon8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257221/eneco-moet-groot-aantal-klanten-met-zonnepanelen-compenseren.html",
     "open_new_window": false,
     "partner": null
   }
