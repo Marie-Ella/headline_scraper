@@ -1,12 +1,58 @@
 [
   {
+    "id": 6257283,
+    "slug": "meer-meisjes-gaan-een-technische-opleiding-volgen",
+    "type": "article",
+    "title": "Meer meisjes gaan een technische opleiding volgen",
+    "subtitle": null,
+    "published_at": "2023-03-29T11:16:13+02:00",
+    "updated_at": "2023-03-29T11:16:33+02:00",
+    "media_id": "hl0xmleajao4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257283/meer-meisjes-gaan-een-technische-opleiding-volgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257284,
+    "slug": "renard-stopt-na-bijzonder-wk-bij-saoedi-arabie-om-franse-voetbalsters-te-coachen",
+    "type": "article",
+    "title": "Renard stopt na bijzonder WK bij Saoedi-Arabië om Franse voetbalsters te coachen",
+    "subtitle": null,
+    "published_at": "2023-03-29T11:06:19+02:00",
+    "updated_at": "2023-03-29T11:13:12+02:00",
+    "media_id": "nixxn00ab0wp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257284/renard-stopt-na-bijzonder-wk-bij-saoedi-arabie-om-franse-voetbalsters-te-coachen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257281,
-    "slug": "zelensky-rusland-zal-winst-in-bakhmut-gebruiken-voor-internationale-steun",
+    "slug": "zelensky-rusland-zal-winst-in-bakhmut-gebruiken-om-steun-te-zoeken",
     "type": "video",
-    "title": "Zelensky: 'Rusland zal winst in Bakhmut gebruiken voor internationale steun'",
+    "title": "Zelensky: 'Rusland zal winst in Bakhmut gebruiken om steun te zoeken'",
     "subtitle": "Video",
     "published_at": "2023-03-29T10:49:10+02:00",
-    "updated_at": "2023-03-29T10:49:12+02:00",
+    "updated_at": "2023-03-29T11:17:12+02:00",
     "media_id": "zj6xudxac6qs",
     "duration": "0:45",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6257281/zelensky-rusland-zal-winst-in-bakhmut-gebruiken-voor-internationale-steun.html",
+    "url": "/videos/6257281/zelensky-rusland-zal-winst-in-bakhmut-gebruiken-om-steun-te-zoeken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,12 +438,12 @@
   },
   {
     "id": 6257245,
-    "slug": "topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs",
+    "slug": "nederlandse-topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs",
     "type": "article",
-    "title": "Topman Ralph Hamers vertrekt bij Zwitserse bank UBS",
+    "title": "Nederlandse topman Ralph Hamers vertrekt bij Zwitserse bank UBS",
     "subtitle": null,
     "published_at": "2023-03-29T07:38:21+02:00",
-    "updated_at": "2023-03-29T08:30:01+02:00",
+    "updated_at": "2023-03-29T11:04:41+02:00",
     "media_id": "78yxdbnauyqn",
     "duration": null,
     "canonical_section": {
@@ -409,53 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6257245/topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257243,
-    "slug": "messi-viert-honderdste-goal-voor-argentinie-bij-klinkende-zege-op-curacao",
-    "type": "article",
-    "title": "Messi viert honderdste goal voor Argentinië bij klinkende zege op Curaçao",
-    "subtitle": null,
-    "published_at": "2023-03-29T06:59:58+02:00",
-    "updated_at": "2023-03-29T08:03:19+02:00",
-    "media_id": "y33xi3xa9hzy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257243/messi-viert-honderdste-goal-voor-argentinie-bij-klinkende-zege-op-curacao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257154,
-    "slug": "stelling-basisscholen-moeten-vanaf-groep-1-beginnen-met-tweetalig-lesgeven",
-    "type": "article",
-    "title": "Stelling: Basisscholen moeten vanaf groep 1 beginnen met tweetalig lesgeven",
-    "subtitle": null,
-    "published_at": "2023-03-29T06:56:07+02:00",
-    "updated_at": "2023-03-29T07:38:56+02:00",
-    "media_id": "tpnxkzjan818",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6257154/stelling-basisscholen-moeten-vanaf-groep-1-beginnen-met-tweetalig-lesgeven.html",
+    "url": "/economie/6257245/nederlandse-topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs.html",
     "open_new_window": false,
     "partner": null
   }
