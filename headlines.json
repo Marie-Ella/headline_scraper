@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257531,
+    "slug": "koningin-maxima-vliegt-mee-met-trainingsvlucht-vanaf-gilze-rijen",
+    "type": "video",
+    "title": "Koningin Máxima vliegt mee met trainingsvlucht vanaf Gilze-Rijen",
+    "subtitle": "Video",
+    "published_at": "2023-03-30T20:29:29+02:00",
+    "updated_at": "2023-03-30T20:29:30+02:00",
+    "media_id": "milx8pjamwgs",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257531/koningin-maxima-vliegt-mee-met-trainingsvlucht-vanaf-gilze-rijen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257530,
-    "slug": "persoon-aangehouden-voor-beschieten-defensie-helikopter-boven-apeldoorn",
+    "slug": "man-uit-apeldoorn-opgepakt-voor-beschieten-apache-gevechtshelikopter",
     "type": "article",
-    "title": "Persoon aangehouden voor beschieten Defensie-helikopter boven Apeldoorn",
+    "title": "Man uit Apeldoorn opgepakt voor beschieten Apache-gevechtshelikopter",
     "subtitle": null,
     "published_at": "2023-03-30T20:20:51+02:00",
-    "updated_at": "2023-03-30T20:20:52+02:00",
+    "updated_at": "2023-03-30T20:30:35+02:00",
     "media_id": "ccexy2sanlc0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257530/persoon-aangehouden-voor-beschieten-defensie-helikopter-boven-apeldoorn.html",
+    "url": "/binnenland/6257530/man-uit-apeldoorn-opgepakt-voor-beschieten-apache-gevechtshelikopter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Guus Meeuwis stopt na 18 jaar met concertreeks Groots met een zachte G",
     "subtitle": null,
     "published_at": "2023-03-30T20:12:18+02:00",
-    "updated_at": "2023-03-30T20:17:22+02:00",
+    "updated_at": "2023-03-30T20:22:08+02:00",
     "media_id": "s1gx3cragr0l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257500/accijns-op-tabak-omhoog-pakje-sigaretten-kost-vanaf-zaterdag-ruim-9-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257490,
-    "slug": "bach-betreurt-kritiek-na-oproep-ioc-over-deelname-russen-en-belarussen",
-    "type": "article",
-    "title": "Bach betreurt kritiek na oproep IOC over deelname Russen en Belarussen",
-    "subtitle": null,
-    "published_at": "2023-03-30T16:24:57+02:00",
-    "updated_at": "2023-03-30T17:32:15+02:00",
-    "media_id": "j2px8pba8z1d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6257490/bach-betreurt-kritiek-na-oproep-ioc-over-deelname-russen-en-belarussen.html",
     "open_new_window": false,
     "partner": null
   }
