@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257536,
+    "slug": "burgers-zoo-bestaat-110-jaar-en-trakteert-olifanten-op-wat-lekkers",
+    "type": "video",
+    "title": "Burgers' Zoo bestaat 110 jaar en trakteert olifanten op wat lekkers",
+    "subtitle": "Video",
+    "published_at": "2023-03-30T21:44:08+02:00",
+    "updated_at": "2023-03-30T21:44:09+02:00",
+    "media_id": "3o7xlqdakswi",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257536/burgers-zoo-bestaat-110-jaar-en-trakteert-olifanten-op-wat-lekkers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257534,
     "slug": "vitesse-hoeft-niet-meer-te-vrezen-voor-voortbestaan-na-akkoord-over-gelredome",
     "type": "article",
     "title": "Vitesse hoeft niet meer te vrezen voor voortbestaan na akkoord over GelreDome",
     "subtitle": null,
     "published_at": "2023-03-30T21:09:03+02:00",
-    "updated_at": "2023-03-30T21:20:08+02:00",
+    "updated_at": "2023-03-30T21:50:10+02:00",
     "media_id": "4syxpwkawm2y",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Guus Meeuwis stopt na achttien jaar met concertreeks Groots met een zachte G",
     "subtitle": null,
     "published_at": "2023-03-30T20:12:18+02:00",
-    "updated_at": "2023-03-30T21:05:50+02:00",
+    "updated_at": "2023-03-30T21:38:35+02:00",
     "media_id": "s1gx3cragr0l",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Kabinet wil groep die te weinig toeslagen ontving geen compensatie beloven",
     "subtitle": null,
     "published_at": "2023-03-30T19:07:35+02:00",
-    "updated_at": "2023-03-30T19:07:36+02:00",
+    "updated_at": "2023-03-30T21:36:56+02:00",
     "media_id": "hv8xwyrai3jw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6257515/data-van-2-miljoen-nederlanders-gelekt-softwareleverancier-voor-rechter-gesleept.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257510,
-    "slug": "oekraine-valt-aan-in-melitopol-waarom-is-de-stad-zo-belangrijk",
-    "type": "video",
-    "title": "Oekraïne valt aan in Melitopol: waarom is de stad zo belangrijk?",
-    "subtitle": "Explainer",
-    "published_at": "2023-03-30T17:49:03+02:00",
-    "updated_at": "2023-03-30T17:54:46+02:00",
-    "media_id": "ilnxu2tal24u",
-    "duration": "1:48",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6257510/oekraine-valt-aan-in-melitopol-waarom-is-de-stad-zo-belangrijk.html",
     "open_new_window": false,
     "partner": null
   }
