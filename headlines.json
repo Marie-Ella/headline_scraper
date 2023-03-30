@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257383,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-03-30T05:18:11+02:00",
+    "updated_at": "2023-03-30T05:18:13+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6257383/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257287,
     "slug": "tijdelijke-bonus-om-parttimers-meer-uren-te-laten-werken-boekt-eerste-succes",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6257360/nederlandse-serie-nieuwe-buren-krijgt-engelstalige-remake.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257359,
-    "slug": "carlo-boszhard-neemt-rust-vanwege-enkelblessure",
-    "type": "article",
-    "title": "Carlo Boszhard neemt rust vanwege enkelblessure",
-    "subtitle": null,
-    "published_at": "2023-03-29T19:01:11+02:00",
-    "updated_at": "2023-03-29T19:09:17+02:00",
-    "media_id": "nncx53gav8yp",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6257359/carlo-boszhard-neemt-rust-vanwege-enkelblessure.html",
     "open_new_window": false,
     "partner": null
   }
