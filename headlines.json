@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257660,
+    "slug": "weekendweerbericht-zondag-volop-zon-maar-zaterdag-eerst-nog-regen",
+    "type": "article",
+    "title": "Weekendweerbericht: Zondag volop zon, maar zaterdag eerst nog regen",
+    "subtitle": null,
+    "published_at": "2023-03-31T15:20:49+02:00",
+    "updated_at": "2023-03-31T15:20:50+02:00",
+    "media_id": "9dtx6ljacizg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257660/weekendweerbericht-zondag-volop-zon-maar-zaterdag-eerst-nog-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257659,
+    "slug": "oekraiense-priester-besprenkelt-journalisten-met-water",
+    "type": "video",
+    "title": "Oekraïense priester besprenkelt journalisten met water",
+    "subtitle": "Video",
+    "published_at": "2023-03-31T15:01:09+02:00",
+    "updated_at": "2023-03-31T15:01:10+02:00",
+    "media_id": "rbjx96aantwf",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257659/oekraiense-priester-besprenkelt-journalisten-met-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257654,
     "slug": "kabinet-biedt-nabestaanden-peter-r-de-vries-excuses-aan-voor-falende-beveiliging",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Barcelona waagt serieuze poging Messi terug te halen: 'Er is contact geweest'",
     "subtitle": null,
     "published_at": "2023-03-31T14:28:02+02:00",
-    "updated_at": "2023-03-31T14:28:04+02:00",
+    "updated_at": "2023-03-31T15:15:08+02:00",
     "media_id": "nm8xql3ai6je",
     "duration": null,
     "canonical_section": {
@@ -231,12 +277,12 @@
   },
   {
     "id": 6257612,
-    "slug": "trump-aangeklaagd-vanwege-zwijggeld-voor-pornoster-dit-kunnen-we-verwachten",
+    "slug": "trump-vervolgd-in-zaak-rond-zwijggeld-voor-pornoster-dit-kunnen-we-verwachten",
     "type": "article",
-    "title": "Trump aangeklaagd vanwege zwijggeld voor pornoster: dit kunnen we verwachten",
+    "title": "Trump vervolgd in zaak rond zwijggeld voor pornoster: dit kunnen we verwachten",
     "subtitle": null,
     "published_at": "2023-03-31T13:19:29+02:00",
-    "updated_at": "2023-03-31T14:20:23+02:00",
+    "updated_at": "2023-03-31T15:04:37+02:00",
     "media_id": "rpwx6ubaouyh",
     "duration": null,
     "canonical_section": {
@@ -248,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6257612/trump-aangeklaagd-vanwege-zwijggeld-voor-pornoster-dit-kunnen-we-verwachten.html",
+    "url": "/buitenland/6257612/trump-vervolgd-in-zaak-rond-zwijggeld-voor-pornoster-dit-kunnen-we-verwachten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6257611/britse-wielerronde-womens-tour-gaat-niet-door-vanwege-financiele-problemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257604,
-    "slug": "wetenschappers-staan-versteld-van-platste-explosie-in-de-ruimte-ooit",
-    "type": "article",
-    "title": "Wetenschappers staan versteld van platste explosie in de ruimte ooit",
-    "subtitle": null,
-    "published_at": "2023-03-31T11:52:41+02:00",
-    "updated_at": "2023-03-31T12:57:51+02:00",
-    "media_id": "0txxj5haspn9",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6257604/wetenschappers-staan-versteld-van-platste-explosie-in-de-ruimte-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257609,
-    "slug": "waaghals-klimt-op-openstaande-brug-in-de-vs",
-    "type": "video",
-    "title": "Waaghals klimt op openstaande brug in de VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-31T11:47:35+02:00",
-    "updated_at": "2023-03-31T11:47:37+02:00",
-    "media_id": "kwsx0enaojud",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257609/waaghals-klimt-op-openstaande-brug-in-de-vs.html",
     "open_new_window": false,
     "partner": null
   }
