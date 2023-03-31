@@ -1,12 +1,58 @@
 [
   {
+    "id": 6257609,
+    "slug": "waaghals-klimt-op-openstaande-brug-in-de-vs",
+    "type": "video",
+    "title": "Waaghals klimt op openstaande brug in de VS",
+    "subtitle": "Video",
+    "published_at": "2023-03-31T11:47:35+02:00",
+    "updated_at": "2023-03-31T11:47:37+02:00",
+    "media_id": "kwsx0enaojud",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257609/waaghals-klimt-op-openstaande-brug-in-de-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257603,
+    "slug": "ook-inflatie-in-eurolanden-lager-maar-boodschappen-blijven-duur",
+    "type": "article",
+    "title": "Ook inflatie in eurolanden lager, maar boodschappen blijven duur",
+    "subtitle": null,
+    "published_at": "2023-03-31T11:35:49+02:00",
+    "updated_at": "2023-03-31T11:35:50+02:00",
+    "media_id": "220xq2qa864f",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257603/ook-inflatie-in-eurolanden-lager-maar-boodschappen-blijven-duur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257602,
     "slug": "natuur-in-zuid-holland-en-limburg-zwaar-onder-druk-analyses-andere-gebieden-volgen-later",
     "type": "article",
     "title": "Natuur in Zuid-Holland en Limburg zwaar onder druk, analyses andere gebieden volgen later",
     "subtitle": null,
     "published_at": "2023-03-31T11:27:40+02:00",
-    "updated_at": "2023-03-31T11:27:44+02:00",
+    "updated_at": "2023-03-31T11:42:26+02:00",
     "media_id": "mgzxm01aysul",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Kangoeroe die rond Ede ontsnapte blijkt nog niet te vangen: 'Keer wat anders'",
     "subtitle": null,
     "published_at": "2023-03-31T11:21:46+02:00",
-    "updated_at": "2023-03-31T11:21:48+02:00",
+    "updated_at": "2023-03-31T11:34:03+02:00",
     "media_id": "6x3x5inazy0k",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Mogelijk twee kwalificaties in sprintraceweekend GP Azerbeidzjan",
     "subtitle": null,
     "published_at": "2023-03-31T09:57:13+02:00",
-    "updated_at": "2023-03-31T10:01:14+02:00",
+    "updated_at": "2023-03-31T11:46:18+02:00",
     "media_id": "khxxx0taao1t",
     "duration": null,
     "canonical_section": {
@@ -374,8 +420,8 @@
     "title": "Verstappen derde in verregende tweede training Australië, Alonso de snelste",
     "subtitle": null,
     "published_at": "2023-03-31T08:15:56+02:00",
-    "updated_at": "2023-03-31T10:07:28+02:00",
-    "media_id": "o72xnm6a7be0",
+    "updated_at": "2023-03-31T11:45:18+02:00",
+    "media_id": "c3txz08a6cza",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6257416/wat-wil-je-weten-over-nunl-stel-hier-al-je-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257565,
-    "slug": "wesley-sneijder-niet-aan-het-daten-in-hoop-op-hereniging-met-yolanthe-cabau",
-    "type": "article",
-    "title": "Wesley Sneijder niet aan het daten in hoop op hereniging met Yolanthe Cabau",
-    "subtitle": null,
-    "published_at": "2023-03-31T07:57:56+02:00",
-    "updated_at": "2023-03-31T09:15:38+02:00",
-    "media_id": "asjx44xaylvp",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6257565/wesley-sneijder-niet-aan-het-daten-in-hoop-op-hereniging-met-yolanthe-cabau.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257564,
-    "slug": "weer-meer-omzet-voor-winkels-dankzij-hoge-prijzen",
-    "type": "article",
-    "title": "Weer meer omzet voor winkels dankzij hoge prijzen",
-    "subtitle": null,
-    "published_at": "2023-03-31T07:50:00+02:00",
-    "updated_at": "2023-03-31T08:52:13+02:00",
-    "media_id": "uwhxpqpa9r19",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257564/weer-meer-omzet-voor-winkels-dankzij-hoge-prijzen.html",
     "open_new_window": false,
     "partner": null
   }
