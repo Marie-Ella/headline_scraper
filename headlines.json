@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257721,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-01T05:24:36+02:00",
+    "updated_at": "2023-04-01T05:24:37+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6257721/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257704,
     "slug": "van-oude-naar-nieuwe-situatie-zo-wordt-je-statiegeldblikje-verwerkt",
     "type": "video",
     "title": "Van oude, naar nieuwe situatie: zo wordt je statiegeldblikje verwerkt",
     "subtitle": "Explainer",
     "published_at": "2023-04-01T05:17:27+02:00",
-    "updated_at": "2023-04-01T05:17:28+02:00",
+    "updated_at": "2023-04-01T05:19:12+02:00",
     "media_id": "vevxo3jaude4",
     "duration": "2:21",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6257707/controversiele-influencer-andrew-tate-ruilt-roemeense-cel-in-voor-huisarrest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257705,
-    "slug": "rutte-we-willen-stikstofaanpak-juist-versnellen",
-    "type": "video",
-    "title": "Rutte: 'We willen stikstofaanpak juist versnellen'",
-    "subtitle": "Video",
-    "published_at": "2023-03-31T21:15:27+02:00",
-    "updated_at": "2023-03-31T21:33:08+02:00",
-    "media_id": "z9exe0aadmhl",
-    "duration": "1:33",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6257705/rutte-we-willen-stikstofaanpak-juist-versnellen.html",
     "open_new_window": false,
     "partner": null
   }
