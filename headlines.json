@@ -1,12 +1,104 @@
 [
   {
-    "id": 6257576,
-    "slug": "verstappen-en-de-vries-bezig-aan-q2-in-melbourne",
+    "id": 6257726,
+    "slug": "verstappen-verslaat-mercedes-coureurs-voor-pole-in-australie",
     "type": "article",
-    "title": "Verstappen en De Vries bezig aan Q2 in Melbourne",
+    "title": "Verstappen verslaat Mercedes-coureurs voor pole in Australië",
+    "subtitle": null,
+    "published_at": "2023-04-01T08:12:27+02:00",
+    "updated_at": "2023-04-01T08:19:15+02:00",
+    "media_id": "uirxgcdaizz4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Australië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6257726/verstappen-verslaat-mercedes-coureurs-voor-pole-in-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257729,
+    "slug": "kantoorpersoneel-ns-vaker-in-de-trein-om-werkdruk-conducteurs-te-verlichten",
+    "type": "article",
+    "title": "Kantoorpersoneel NS vaker in de trein om werkdruk conducteurs te verlichten",
+    "subtitle": null,
+    "published_at": "2023-04-01T08:04:24+02:00",
+    "updated_at": "2023-04-01T08:10:47+02:00",
+    "media_id": "mk4ximdava47",
+    "duration": null,
+    "canonical_section": {
+      "id": 211,
+      "slug": "werk",
+      "type": "files",
+      "name": "Werk",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/werk/6257729/kantoorpersoneel-ns-vaker-in-de-trein-om-werkdruk-conducteurs-te-verlichten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257629,
+    "slug": "stelling-1-aprilgrappen-ondermijnen-het-vertrouwen-in-bedrijven",
+    "type": "article",
+    "title": "Stelling: 1 aprilgrappen ondermijnen het vertrouwen in bedrijven",
+    "subtitle": null,
+    "published_at": "2023-04-01T08:00:59+02:00",
+    "updated_at": "2023-04-01T08:18:46+02:00",
+    "media_id": "b3kxhg7a5esc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257629/stelling-1-aprilgrappen-ondermijnen-het-vertrouwen-in-bedrijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257728,
+    "slug": "tornado-richt-ravage-aan-in-vs",
+    "type": "video",
+    "title": "Tornado richt ravage aan in VS",
+    "subtitle": "Video",
+    "published_at": "2023-04-01T07:54:45+02:00",
+    "updated_at": "2023-04-01T07:59:13+02:00",
+    "media_id": "pfyx391a2f43",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6257728/tornado-richt-ravage-aan-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257576,
+    "slug": "reacties-na-pole-verstappen-in-melbourne",
+    "type": "article",
+    "title": "Reacties na pole Verstappen in Melbourne",
     "subtitle": "Liveblog",
     "published_at": "2023-04-01T06:48:24+02:00",
-    "updated_at": "2023-04-01T07:38:38+02:00",
+    "updated_at": "2023-04-01T08:14:12+02:00",
     "media_id": "q5txlm5a19qe",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6257576/verstappen-en-de-vries-bezig-aan-q2-in-melbourne.html",
+    "url": "/formule-1/6257576/reacties-na-pole-verstappen-in-melbourne.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Ricciardo is nog altijd geliefd, maar ook klaar om terug te keren?",
     "subtitle": "NU+",
     "published_at": "2023-04-01T06:26:05+02:00",
-    "updated_at": "2023-04-01T06:26:06+02:00",
+    "updated_at": "2023-04-01T08:03:52+02:00",
     "media_id": "c97xtuaa60d2",
     "duration": null,
     "canonical_section": {
@@ -47,12 +139,12 @@
   },
   {
     "id": 6257723,
-    "slug": "minneapolis-geeft-akkoord-voor-hervorming-politie-na-dood-george-floyd",
+    "slug": "minneapolis-gaat-politie-hervormen-na-dood-george-floyd",
     "type": "article",
-    "title": "Minneapolis geeft akkoord voor hervorming politie na dood George Floyd",
+    "title": "Minneapolis gaat politie hervormen na dood George Floyd",
     "subtitle": null,
     "published_at": "2023-04-01T06:24:13+02:00",
-    "updated_at": "2023-04-01T06:55:42+02:00",
+    "updated_at": "2023-04-01T08:03:13+02:00",
     "media_id": "z3dxlg5avwj0",
     "duration": null,
     "canonical_section": {
@@ -64,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6257723/minneapolis-geeft-akkoord-voor-hervorming-politie-na-dood-george-floyd.html",
+    "url": "/buitenland/6257723/minneapolis-gaat-politie-hervormen-na-dood-george-floyd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +167,7 @@
     "title": "Weerbericht: Bewolkte en regenachtige dag met in de middag flink wat wind",
     "subtitle": null,
     "published_at": "2023-04-01T05:47:04+02:00",
-    "updated_at": "2023-04-01T05:58:07+02:00",
+    "updated_at": "2023-04-01T08:04:58+02:00",
     "media_id": "m1oxdu3af5bf",
     "duration": null,
     "canonical_section": {
@@ -305,7 +397,7 @@
     "title": "Drie doden en tientallen gewonden door tornado in Amerikaanse staat Arkansas",
     "subtitle": null,
     "published_at": "2023-04-01T01:18:49+02:00",
-    "updated_at": "2023-04-01T07:00:26+02:00",
+    "updated_at": "2023-04-01T07:53:13+02:00",
     "media_id": "w4jxtliamazc",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/sport/6257716/late-goals-alderweireld-behoeden-antwerp-en-van-bommel-voor-puntenverlies.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257715,
-    "slug": "skier-redt-snowboarder-die-ondersteboven-in-sneeuw-vastzit-in-vs",
-    "type": "video",
-    "title": "Skiër redt snowboarder die ondersteboven in sneeuw vastzit in VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-31T22:38:32+02:00",
-    "updated_at": "2023-03-31T22:38:33+02:00",
-    "media_id": "aq2xj5karvjl",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257715/skier-redt-snowboarder-die-ondersteboven-in-sneeuw-vastzit-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257713,
-    "slug": "benfica-beloont-voormalig-psv-trainer-schmidt-met-nieuw-contract",
-    "type": "article",
-    "title": "Benfica beloont voormalig PSV-trainer Schmidt met nieuw contract",
-    "subtitle": null,
-    "published_at": "2023-03-31T22:15:47+02:00",
-    "updated_at": "2023-03-31T22:23:04+02:00",
-    "media_id": "j1ixntzavyst",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257713/benfica-beloont-voormalig-psv-trainer-schmidt-met-nieuw-contract.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257708,
-    "slug": "pec-zwolle-loopt-twee-punten-uit-op-heracles-en-zet-grote-stap-naar-titel",
-    "type": "article",
-    "title": "PEC Zwolle loopt twee punten uit op Heracles en zet grote stap naar titel",
-    "subtitle": null,
-    "published_at": "2023-03-31T22:04:07+02:00",
-    "updated_at": "2023-03-31T22:17:03+02:00",
-    "media_id": "l6pxodtajbn8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257708/pec-zwolle-loopt-twee-punten-uit-op-heracles-en-zet-grote-stap-naar-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257712,
-    "slug": "medvedev-triomfeert-in-russisch-onderonsje-en-haalt-vijfde-finale-op-rij",
-    "type": "article",
-    "title": "Medvedev triomfeert in Russisch onderonsje en haalt vijfde finale op rij",
-    "subtitle": null,
-    "published_at": "2023-03-31T21:54:00+02:00",
-    "updated_at": "2023-03-31T22:08:58+02:00",
-    "media_id": "7jfx8nbaqwvf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6257712/medvedev-triomfeert-in-russisch-onderonsje-en-haalt-vijfde-finale-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
