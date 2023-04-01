@@ -1,12 +1,35 @@
 [
   {
-    "id": 6257784,
-    "slug": "scheepvaart-langer-in-problemen-bij-nieuwe-waterweg-door-fout-tunnelwerk",
+    "id": 6257787,
+    "slug": "duel-tussen-az-en-heerenveen-ligt-stil-wegens-vuurwerk-op-het-veld",
     "type": "article",
-    "title": "Scheepvaart langer in problemen bij Nieuwe Waterweg door fout tunnelwerk",
+    "title": "Duel tussen AZ en Heerenveen ligt stil wegens vuurwerk op het veld",
+    "subtitle": null,
+    "published_at": "2023-04-01T16:46:58+02:00",
+    "updated_at": "2023-04-01T16:47:03+02:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257787/duel-tussen-az-en-heerenveen-ligt-stil-wegens-vuurwerk-op-het-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257784,
+    "slug": "scheepvaart-langer-in-problemen-bij-nieuwe-waterweg-door-fout-bij-tunnelwerk",
+    "type": "article",
+    "title": "Scheepvaart langer in problemen bij Nieuwe Waterweg door fout bij tunnelwerk",
     "subtitle": null,
     "published_at": "2023-04-01T16:16:38+02:00",
-    "updated_at": "2023-04-01T16:16:39+02:00",
+    "updated_at": "2023-04-01T16:44:13+02:00",
     "media_id": "f0pxlz2a8r98",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6257784/scheepvaart-langer-in-problemen-bij-nieuwe-waterweg-door-fout-tunnelwerk.html",
+    "url": "/economie/6257784/scheepvaart-langer-in-problemen-bij-nieuwe-waterweg-door-fout-bij-tunnelwerk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,13 +70,13 @@
   },
   {
     "id": 6257781,
-    "slug": "az-en-heerenveen-zetten-drukke-eredivisie-avond-in-gang",
+    "slug": "az-heerenveen-stilgelegd-na-vuurwerk-op-het-veld",
     "type": "article",
-    "title": "AZ en Heerenveen zetten drukke Eredivisie-avond in gang",
+    "title": "AZ-Heerenveen stilgelegd na vuurwerk op het veld",
     "subtitle": "Liveblog",
     "published_at": "2023-04-01T16:08:24+02:00",
-    "updated_at": "2023-04-01T16:08:25+02:00",
-    "media_id": "g24x5lsalc8y",
+    "updated_at": "2023-04-01T16:42:34+02:00",
+    "media_id": "icxxru7aeyu7",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257781/az-en-heerenveen-zetten-drukke-eredivisie-avond-in-gang.html",
+    "url": "/voetbal/6257781/az-heerenveen-stilgelegd-na-vuurwerk-op-het-veld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6257740/mercedes-coureurs-hopen-verstappen-onder-druk-te-zetten-na-sterke-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257738,
-    "slug": "van-speurkatten-bij-de-douane-tot-parkeerpop-een-selectie-van-1-aprilgrappen",
-    "type": "article",
-    "title": "Van speurkatten bij de douane tot parkeerpop: een selectie van 1 aprilgrappen",
-    "subtitle": null,
-    "published_at": "2023-04-01T09:53:38+02:00",
-    "updated_at": "2023-04-01T15:05:30+02:00",
-    "media_id": "ocox4zlach6a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257738/van-speurkatten-bij-de-douane-tot-parkeerpop-een-selectie-van-1-aprilgrappen.html",
     "open_new_window": false,
     "partner": null
   }
