@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257772,
+    "slug": "ancelotti-wordt-enthousiast-van-belangstelling-braziliaanse-bond",
+    "type": "article",
+    "title": "Ancelotti wordt enthousiast van belangstelling Braziliaanse bond",
+    "subtitle": null,
+    "published_at": "2023-04-01T13:25:09+02:00",
+    "updated_at": "2023-04-01T13:25:11+02:00",
+    "media_id": "pm2xfq0axesi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257772/ancelotti-wordt-enthousiast-van-belangstelling-braziliaanse-bond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257771,
+    "slug": "auto-in-de-prak-gereden-door-dronken-bredanaar-zonder-rijbewijs",
+    "type": "video",
+    "title": "Auto in de prak gereden door dronken Bredanaar zonder rijbewijs",
+    "subtitle": "Video",
+    "published_at": "2023-04-01T13:24:01+02:00",
+    "updated_at": "2023-04-01T13:24:02+02:00",
+    "media_id": "qg2x89razzl4",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257771/auto-in-de-prak-gereden-door-dronken-bredanaar-zonder-rijbewijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257608,
     "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6257576/reacties-na-behalen-pole-verstappen-in-melbourne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257724,
-    "slug": "ricciardo-is-nog-altijd-geliefd-maar-ook-klaar-om-terug-te-keren",
-    "type": "article",
-    "title": "Ricciardo is nog altijd geliefd, maar ook klaar om terug te keren?",
-    "subtitle": "NU+",
-    "published_at": "2023-04-01T06:26:05+02:00",
-    "updated_at": "2023-04-01T12:20:37+02:00",
-    "media_id": "c97xtuaa60d2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6257724/ricciardo-is-nog-altijd-geliefd-maar-ook-klaar-om-terug-te-keren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257723,
-    "slug": "minneapolis-gaat-politie-hervormen-na-dood-george-floyd",
-    "type": "article",
-    "title": "Minneapolis gaat politie hervormen na dood George Floyd",
-    "subtitle": null,
-    "published_at": "2023-04-01T06:24:13+02:00",
-    "updated_at": "2023-04-01T08:03:13+02:00",
-    "media_id": "z3dxlg5avwj0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257723/minneapolis-gaat-politie-hervormen-na-dood-george-floyd.html",
     "open_new_window": false,
     "partner": null
   }
