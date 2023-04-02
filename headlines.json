@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257856,
+    "slug": "weekweerbericht-eindelijk-wat-meer-zon-en-stijgende-temperaturen",
+    "type": "article",
+    "title": "Weekweerbericht: Eindelijk wat meer zon en stijgende temperaturen",
+    "subtitle": null,
+    "published_at": "2023-04-02T15:35:38+02:00",
+    "updated_at": "2023-04-02T15:35:40+02:00",
+    "media_id": "m6dxtmiagmhb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257856/weekweerbericht-eindelijk-wat-meer-zon-en-stijgende-temperaturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257872,
     "slug": "metejoor-en-vriendin-beeindigen-relatie-paar-maanden-na-roddels-over-vreemdgaan",
     "type": "article",
     "title": "Metejoor en vriendin beëindigen relatie paar maanden na roddels over vreemdgaan",
     "subtitle": null,
     "published_at": "2023-04-02T15:06:24+02:00",
-    "updated_at": "2023-04-02T15:06:25+02:00",
+    "updated_at": "2023-04-02T15:43:35+02:00",
     "media_id": "52axusoadg6i",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6257869,
-    "slug": "boze-heitinga-spreekt-schande-van-arbitrage-zo-kunnen-we-geen-prijzen-pakken",
+    "slug": "heitinga-woest-op-arbitrage-na-gelijkspel-ajax-zo-kunnen-we-geen-prijzen-pakken",
     "type": "article",
-    "title": "Boze Heitinga spreekt schande van arbitrage: 'Zo kunnen we geen prijzen pakken'",
+    "title": "Heitinga woest op arbitrage na gelijkspel Ajax: 'Zo kunnen we geen prijzen pakken'",
     "subtitle": null,
     "published_at": "2023-04-02T14:50:34+02:00",
-    "updated_at": "2023-04-02T15:26:33+02:00",
+    "updated_at": "2023-04-02T15:34:46+02:00",
     "media_id": "1oixz61aaop2",
     "duration": null,
     "canonical_section": {
@@ -64,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257869/boze-heitinga-spreekt-schande-van-arbitrage-zo-kunnen-we-geen-prijzen-pakken.html",
+    "url": "/voetbal/6257869/heitinga-woest-op-arbitrage-na-gelijkspel-ajax-zo-kunnen-we-geen-prijzen-pakken.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6257860,
-    "slug": "dode-en-gewonde-doordat-mensen-in-bootje-van-stuwdam-in-maastricht-af-varen",
+    "slug": "dode-en-gewonde-door-omgeslagen-bootje-bij-stuwdam-in-maastricht",
     "type": "article",
-    "title": "Dode en gewonde doordat mensen in bootje van stuwdam in Maastricht af varen",
+    "title": "Dode en gewonde door omgeslagen bootje bij stuwdam in Maastricht",
     "subtitle": null,
     "published_at": "2023-04-02T14:49:53+02:00",
-    "updated_at": "2023-04-02T15:18:30+02:00",
+    "updated_at": "2023-04-02T15:34:37+02:00",
     "media_id": "fttx3dqacgse",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257860/dode-en-gewonde-doordat-mensen-in-bootje-van-stuwdam-in-maastricht-af-varen.html",
+    "url": "/binnenland/6257860/dode-en-gewonde-door-omgeslagen-bootje-bij-stuwdam-in-maastricht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257848/ten-hag-staat-open-voor-langer-verblijf-weghorst-bij-manchester-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257846,
-    "slug": "feyenoord-ontsnapt-door-gemiste-penalty-aan-achterstand-bij-sparta",
-    "type": "article",
-    "title": "Feyenoord ontsnapt door gemiste penalty aan achterstand bij Sparta",
-    "subtitle": "Liveblog",
-    "published_at": "2023-04-02T11:31:58+02:00",
-    "updated_at": "2023-04-02T15:29:23+02:00",
-    "media_id": "30jxf9naxml7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257846/feyenoord-ontsnapt-door-gemiste-penalty-aan-achterstand-bij-sparta.html",
     "open_new_window": false,
     "partner": null
   }
