@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257823,
+    "slug": "nieuwe-waterweg-na-verhelpen-lekkage-weer-open-voor-scheepvaart",
+    "type": "article",
+    "title": "Nieuwe Waterweg na verhelpen lekkage weer open voor scheepvaart",
+    "subtitle": null,
+    "published_at": "2023-04-02T06:04:39+02:00",
+    "updated_at": "2023-04-02T06:04:40+02:00",
+    "media_id": "5pwxw8dapxr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257823/nieuwe-waterweg-na-verhelpen-lekkage-weer-open-voor-scheepvaart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257821,
     "slug": "weerbericht-veel-zonneschijn-en-droog-wel-kan-het-fris-aanvoelen",
     "type": "article",
     "title": "Weerbericht: Veel zonneschijn en droog, wel kan het fris aanvoelen",
     "subtitle": null,
     "published_at": "2023-04-02T05:42:21+02:00",
-    "updated_at": "2023-04-02T05:42:22+02:00",
+    "updated_at": "2023-04-02T05:49:12+02:00",
     "media_id": "nhgxaxcasa4v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6257807/iranier-gooit-yoghurt-over-vrouwen-omdat-hun-haar-niet-bedekt-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257806,
-    "slug": "van-gerwen-overleeft-twee-matchdarts-in-duitsland-van-barneveld-onderuit",
-    "type": "article",
-    "title": "Van Gerwen overleeft twee matchdarts in Duitsland, Van Barneveld onderuit",
-    "subtitle": null,
-    "published_at": "2023-04-01T21:29:52+02:00",
-    "updated_at": "2023-04-01T22:44:56+02:00",
-    "media_id": "cglxds3awlww",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6257806/van-gerwen-overleeft-twee-matchdarts-in-duitsland-van-barneveld-onderuit.html",
     "open_new_window": false,
     "partner": null
   }
