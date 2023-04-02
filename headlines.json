@@ -1,12 +1,58 @@
 [
   {
-    "id": 6257577,
-    "slug": "verstappen-passeert-hamilton-en-pakt-leiding-in-gp-australie",
+    "id": 6257827,
+    "slug": "twee-wereldrecords-in-een-week-zwemsensatie-mcintosh-piekt-ook-op-400-wissel",
     "type": "article",
-    "title": "Verstappen passeert Hamilton en pakt leiding in GP Australië",
+    "title": "Twee wereldrecords in een week: zwemsensatie McIntosh piekt ook op 400 wissel",
+    "subtitle": null,
+    "published_at": "2023-04-02T08:18:14+02:00",
+    "updated_at": "2023-04-02T08:18:15+02:00",
+    "media_id": "5lbxvlrasquu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6257827/twee-wereldrecords-in-een-week-zwemsensatie-mcintosh-piekt-ook-op-400-wissel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257618,
+    "slug": "stelling-er-moet-een-verbod-komen-op-de-e-sigaret",
+    "type": "article",
+    "title": "Stelling: Er moet een verbod komen op de e-sigaret",
+    "subtitle": null,
+    "published_at": "2023-04-02T08:00:35+02:00",
+    "updated_at": "2023-04-02T08:00:37+02:00",
+    "media_id": "xb6xub4arwit",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257618/stelling-er-moet-een-verbod-komen-op-de-e-sigaret.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257577,
+    "slug": "verstappen-leidt-comfortabel-in-gp-australie-de-vries-achteraan",
+    "type": "article",
+    "title": "Verstappen leidt comfortabel in GP Australië, De Vries achteraan",
     "subtitle": "Liveblog",
     "published_at": "2023-04-02T06:47:17+02:00",
-    "updated_at": "2023-04-02T07:41:25+02:00",
+    "updated_at": "2023-04-02T08:12:21+02:00",
     "media_id": "193xca5amz3c",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6257577/verstappen-passeert-hamilton-en-pakt-leiding-in-gp-australie.html",
+    "url": "/formule-1/6257577/verstappen-leidt-comfortabel-in-gp-australie-de-vries-achteraan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Bekerkoorts heerst in Spakenburg richting PSV: 'Hele dorp kleurt blauw'",
     "subtitle": "NU+",
     "published_at": "2023-04-02T05:02:24+02:00",
-    "updated_at": "2023-04-02T06:53:58+02:00",
+    "updated_at": "2023-04-02T08:12:47+02:00",
     "media_id": "xj2x5sva6dkw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6257814/the-big-bang-theory-actrice-kaley-cuoco-bevallen-van-dochtertje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257812,
-    "slug": "primeur-in-de-eredivisie-wedstrijden-onderbroken-vanwege-ramadan",
-    "type": "article",
-    "title": "Primeur in de Eredivisie: wedstrijden onderbroken vanwege ramadan",
-    "subtitle": null,
-    "published_at": "2023-04-01T22:37:38+02:00",
-    "updated_at": "2023-04-01T22:44:02+02:00",
-    "media_id": "6iyx0b9a3f9t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257812/primeur-in-de-eredivisie-wedstrijden-onderbroken-vanwege-ramadan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257809,
-    "slug": "verdachte-van-beschieten-gevechtshelikopter-bij-apeldoorn-weer-vrij",
-    "type": "article",
-    "title": "Verdachte van beschieten gevechtshelikopter bij Apeldoorn weer vrij",
-    "subtitle": null,
-    "published_at": "2023-04-01T22:03:31+02:00",
-    "updated_at": "2023-04-01T22:12:14+02:00",
-    "media_id": "qz5x923a3u05",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257809/verdachte-van-beschieten-gevechtshelikopter-bij-apeldoorn-weer-vrij.html",
     "open_new_window": false,
     "partner": null
   }
