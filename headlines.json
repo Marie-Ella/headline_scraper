@@ -1,12 +1,58 @@
 [
   {
+    "id": 6257968,
+    "slug": "geestelijken-vliegen-oekraiense-militair-aan-in-kerk",
+    "type": "video",
+    "title": "Geestelijken vliegen Oekraïense militair aan in kerk",
+    "subtitle": "Video",
+    "published_at": "2023-04-03T10:14:49+02:00",
+    "updated_at": "2023-04-03T10:14:50+02:00",
+    "media_id": "m03x29zasoyh",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6257968/geestelijken-vliegen-oekraiense-militair-aan-in-kerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257961,
+    "slug": "andre-hazes-geeft-op-25-november-een-soloconcert-in-ahoy",
+    "type": "article",
+    "title": "André Hazes geeft op 25 november een soloconcert in Ahoy",
+    "subtitle": null,
+    "published_at": "2023-04-03T10:06:46+02:00",
+    "updated_at": "2023-04-03T10:06:47+02:00",
+    "media_id": "baqxzq0a65ch",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6257961/andre-hazes-geeft-op-25-november-een-soloconcert-in-ahoy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257951,
     "slug": "zonneauto-lightyear-maakt-doorstart-demos-onder-de-hamer",
     "type": "article",
     "title": "Zonneauto Lightyear maakt doorstart, demo's onder de hamer",
     "subtitle": null,
     "published_at": "2023-04-03T09:45:13+02:00",
-    "updated_at": "2023-04-03T09:45:15+02:00",
+    "updated_at": "2023-04-03T10:12:48+02:00",
     "media_id": "6rbxd35ape21",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6257949,
-    "slug": "finse-premier-feliciteert-winnaars-verkiezingen-democratie-heeft-gesproken",
+    "slug": "finse-premier-feliciteert-winnaars-verkiezingen",
     "type": "video",
-    "title": "Finse premier feliciteert winnaars verkiezingen: 'Democratie heeft gesproken'",
+    "title": "Finse premier feliciteert winnaars verkiezingen",
     "subtitle": "Video",
     "published_at": "2023-04-03T09:21:15+02:00",
-    "updated_at": "2023-04-03T09:21:16+02:00",
+    "updated_at": "2023-04-03T10:10:04+02:00",
     "media_id": "fryxp94a83ba",
     "duration": "0:49",
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6257949/finse-premier-feliciteert-winnaars-verkiezingen-democratie-heeft-gesproken.html",
+    "url": "/videos/6257949/finse-premier-feliciteert-winnaars-verkiezingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6257922/pogacar-imponeert-als-legende-merckx-tadej-is-een-alien-hij-kan-alles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257930,
-    "slug": "nieuwe-engelse-druk-roman-gone-with-the-wind-krijgt-disclaimer-wegens-racisme",
-    "type": "article",
-    "title": "Nieuwe Engelse druk roman Gone with the Wind krijgt disclaimer wegens racisme",
-    "subtitle": null,
-    "published_at": "2023-04-03T06:08:22+02:00",
-    "updated_at": "2023-04-03T08:12:49+02:00",
-    "media_id": "m1oxj0wa7syp",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6257930/nieuwe-engelse-druk-roman-gone-with-the-wind-krijgt-disclaimer-wegens-racisme.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257928,
-    "slug": "trump-belooft-maandag-naar-new-york-te-vliegen-voor-voorgeleiding",
-    "type": "article",
-    "title": "Trump belooft maandag naar New York te vliegen voor voorgeleiding",
-    "subtitle": null,
-    "published_at": "2023-04-03T06:02:21+02:00",
-    "updated_at": "2023-04-03T08:39:46+02:00",
-    "media_id": "rpwx6ubaouyh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257928/trump-belooft-maandag-naar-new-york-te-vliegen-voor-voorgeleiding.html",
     "open_new_window": false,
     "partner": null
   }
