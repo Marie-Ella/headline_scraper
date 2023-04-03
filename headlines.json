@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258023,
+    "slug": "eerste-kennismaking-xpeng-p7",
+    "type": "video",
+    "title": "Eerste kennismaking: Xpeng P7",
+    "subtitle": "Video",
+    "published_at": "2023-04-03T16:46:17+02:00",
+    "updated_at": "2023-04-03T16:46:18+02:00",
+    "media_id": "xp5xbqvasgwo",
+    "duration": "5:06",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6258023/eerste-kennismaking-xpeng-p7.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258019,
     "slug": "heerenveen-wil-landelijk-stadionverbod-voor-fans-na-idiote-actie-met-vuurwerk",
     "type": "article",
     "title": "Heerenveen wil landelijk stadionverbod voor fans na 'idiote actie' met vuurwerk",
     "subtitle": null,
     "published_at": "2023-04-03T16:21:27+02:00",
-    "updated_at": "2023-04-03T16:21:28+02:00",
+    "updated_at": "2023-04-03T16:34:05+02:00",
     "media_id": "bahxgbwazwoq",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Schutter zorgboerderij Alblasserdam belde zelf 112: 'Denk niet dat ze nog leven'",
     "subtitle": null,
     "published_at": "2023-04-03T16:15:46+02:00",
-    "updated_at": "2023-04-03T16:22:43+02:00",
+    "updated_at": "2023-04-03T16:28:48+02:00",
     "media_id": "sndxu7dav3g3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257988/lindhout-fluit-halve-finale-tussen-feyenoord-en-ajax-in-knvb-beker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257987,
-    "slug": "arbeidsmarkt-op-de-schop-nulurencontract-verdwijnt-zzper-verplicht-verzekerd",
-    "type": "article",
-    "title": "Arbeidsmarkt op de schop: nulurencontract verdwijnt, zzp'er verplicht verzekerd",
-    "subtitle": null,
-    "published_at": "2023-04-03T12:22:54+02:00",
-    "updated_at": "2023-04-03T14:45:26+02:00",
-    "media_id": "ifmxav8alz4b",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257987/arbeidsmarkt-op-de-schop-nulurencontract-verdwijnt-zzper-verplicht-verzekerd.html",
     "open_new_window": false,
     "partner": null
   }
