@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258073,
+    "slug": "bekijk-hier-de-eerste-beelden-van-de-ontspoorde-trein-bij-voorschoten",
+    "type": "video",
+    "title": "Bekijk hier de eerste beelden van de ontspoorde trein bij Voorschoten",
+    "subtitle": "Video",
+    "published_at": "2023-04-04T05:52:10+02:00",
+    "updated_at": "2023-04-04T05:52:10+02:00",
+    "media_id": "84xxnm7asqm1",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6258073/bekijk-hier-de-eerste-beelden-van-de-ontspoorde-trein-bij-voorschoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257991,
     "slug": "frankfurt-wil-geen-concert-van-roger-waters-maar-hij-speelt-wel-in-amsterdam",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Russen verdelen sportwereld: 'Ze zijn goud waard voor Poetins pr-machine'",
     "subtitle": "NU+",
     "published_at": "2023-04-04T05:27:21+02:00",
-    "updated_at": "2023-04-04T05:28:55+02:00",
+    "updated_at": "2023-04-04T05:55:58+02:00",
     "media_id": "atcxdc8at65g",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6258071,
-    "slug": "hulpdiensten-bezig-gewonden-uit-ontspoorde-trein-te-halen",
+    "slug": "tientallen-gewonden-ter-plekke-behandeld-trein-wordt-veiliggesteld",
     "type": "article",
-    "title": "Hulpdiensten bezig gewonden uit ontspoorde trein te halen",
+    "title": "Tientallen gewonden ter plekke behandeld, trein wordt veiliggesteld",
     "subtitle": "Liveblog",
     "published_at": "2023-04-04T05:13:35+02:00",
-    "updated_at": "2023-04-04T05:13:59+02:00",
+    "updated_at": "2023-04-04T06:21:19+02:00",
     "media_id": "tkyxiq2akczq",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6258071/hulpdiensten-bezig-gewonden-uit-ontspoorde-trein-te-halen.html",
+    "url": "/binnenland/6258071/tientallen-gewonden-ter-plekke-behandeld-trein-wordt-veiliggesteld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Meerdere zwaargewonden nadat trein op bouwmaterieel botst bij Voorschoten",
     "subtitle": null,
     "published_at": "2023-04-04T04:51:54+02:00",
-    "updated_at": "2023-04-04T05:47:19+02:00",
+    "updated_at": "2023-04-04T06:17:03+02:00",
     "media_id": "n6exz81a27ra",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Laatste Engelandvaarder en Spitfire-piloot in WOII Leo Hendrikx (99) overleden",
     "subtitle": null,
     "published_at": "2023-04-04T00:52:46+02:00",
-    "updated_at": "2023-04-04T00:52:47+02:00",
+    "updated_at": "2023-04-04T06:04:39+02:00",
     "media_id": "73nxl47akmk4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6258058/deze-vier-astronauten-vliegen-voor-het-eerst-in-ruim-vijftig-jaar-naar-de-maan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258057,
-    "slug": "fortuna-is-te-laat-met-salarissen-maar-verhaal-over-staking-is-complete-onzin",
-    "type": "article",
-    "title": "Fortuna is te laat met salarissen: 'Maar verhaal over staking is complete onzin'",
-    "subtitle": null,
-    "published_at": "2023-04-03T22:00:49+02:00",
-    "updated_at": "2023-04-03T22:22:00+02:00",
-    "media_id": "ejtx1lxaywpg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258057/fortuna-is-te-laat-met-salarissen-maar-verhaal-over-staking-is-complete-onzin.html",
     "open_new_window": false,
     "partner": null
   }
