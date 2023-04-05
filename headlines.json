@@ -1,13 +1,36 @@
 [
   {
+    "id": 6258320,
+    "slug": "vingegaard-grijpt-de-macht-bij-chaotische-aankomst-in-ronde-van-baskenland",
+    "type": "article",
+    "title": "Vingegaard grijpt de macht bij chaotische aankomst in Ronde van Baskenland",
+    "subtitle": null,
+    "published_at": "2023-04-05T17:41:44+02:00",
+    "updated_at": "2023-04-05T17:41:45+02:00",
+    "media_id": "cmgxjrzaygfu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6258320/vingegaard-grijpt-de-macht-bij-chaotische-aankomst-in-ronde-van-baskenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258319,
     "slug": "bokito-overleden-was-een-heel-bijzondere-gorilla",
     "type": "video",
     "title": "Bokito overleden: 'Was een heel bijzondere gorilla'",
     "subtitle": "Video",
     "published_at": "2023-04-05T17:28:12+02:00",
-    "updated_at": "2023-04-05T17:28:13+02:00",
-    "media_id": "5oqxi9ja98hj",
+    "updated_at": "2023-04-05T17:35:58+02:00",
+    "media_id": "0ezxj3ravfeu",
     "duration": "1:03",
     "canonical_section": {
       "id": 1772431,
@@ -52,7 +75,7 @@
     "title": "Trump roept op tot geweld, maar zijn fans blijven thuis: hoe komt dat?",
     "subtitle": "Explainer",
     "published_at": "2023-04-05T16:59:40+02:00",
-    "updated_at": "2023-04-05T16:59:41+02:00",
+    "updated_at": "2023-04-05T17:46:04+02:00",
     "media_id": "l7axp0laf1am",
     "duration": "2:22",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/peter-r-de-vries/6258275/nieuwe-verdachte-appte-met-opdrachtgever-filmen-peter-r-de-vries-na-aanslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258285,
-    "slug": "ardern-neemt-afscheid-je-kan-moeder-zijn-en-een-land-besturen",
-    "type": "video",
-    "title": "Ardern neemt afscheid: 'Je kan moeder zijn en een land besturen'",
-    "subtitle": "Video",
-    "published_at": "2023-04-05T14:04:19+02:00",
-    "updated_at": "2023-04-05T15:02:05+02:00",
-    "media_id": "s75xyjta5io8",
-    "duration": "1:28",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258285/ardern-neemt-afscheid-je-kan-moeder-zijn-en-een-land-besturen.html",
     "open_new_window": false,
     "partner": null
   }
