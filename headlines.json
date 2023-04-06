@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258508,
+    "slug": "ravage-in-gouda-na-botsing-tussen-twee-autos",
+    "type": "video",
+    "title": "Ravage in Gouda na botsing tussen twee auto's",
+    "subtitle": "Video",
+    "published_at": "2023-04-06T19:34:33+02:00",
+    "updated_at": "2023-04-06T19:34:34+02:00",
+    "media_id": "y1ixjtaadhe3",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258508/ravage-in-gouda-na-botsing-tussen-twee-autos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258507,
     "slug": "vernielingen-en-tientallen-arrestaties-op-elfde-dag-franse-pensioenprotesten",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "KNVB scherpt regels aan: duel voortaan definitief gestaakt als speler geraakt wordt",
     "subtitle": null,
     "published_at": "2023-04-06T19:08:03+02:00",
-    "updated_at": "2023-04-06T19:17:34+02:00",
+    "updated_at": "2023-04-06T19:37:32+02:00",
     "media_id": "svaxjchafofc",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Feyenoord sluit deel van tribunes in De Kuip voor duel met AS Roma",
     "subtitle": null,
     "published_at": "2023-04-06T16:42:53+02:00",
-    "updated_at": "2023-04-06T17:07:21+02:00",
+    "updated_at": "2023-04-06T19:45:53+02:00",
     "media_id": "s02x4zxafjcc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258470/politiechef-wil-kijken-naar-beperkingen-voor-thuispubliek-bij-voetbalduels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258475,
-    "slug": "omikronvariant-corona-zorgt-voor-minder-langdurige-klachten-dan-voorganger",
-    "type": "article",
-    "title": "Omikronvariant corona zorgt voor minder langdurige klachten dan voorganger",
-    "subtitle": null,
-    "published_at": "2023-04-06T16:22:12+02:00",
-    "updated_at": "2023-04-06T16:22:24+02:00",
-    "media_id": "n4yx35wahlzl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6258475/omikronvariant-corona-zorgt-voor-minder-langdurige-klachten-dan-voorganger.html",
     "open_new_window": false,
     "partner": null
   }
