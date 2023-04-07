@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258550,
+    "slug": "brandweer-bestrijdt-uitslaande-brand-op-grote-mexicaanse-markt",
+    "type": "video",
+    "title": "Brandweer bestrijdt uitslaande brand op grote Mexicaanse markt",
+    "subtitle": "Video",
+    "published_at": "2023-04-07T09:26:59+02:00",
+    "updated_at": "2023-04-07T09:27:01+02:00",
+    "media_id": "187x5uga7jsu",
+    "duration": "45:00",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258550/brandweer-bestrijdt-uitslaande-brand-op-grote-mexicaanse-markt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258549,
+    "slug": "emmy-rossum-bevallen-van-tweede-kind-na-geheime-zwangerschap",
+    "type": "article",
+    "title": "Emmy Rossum bevallen van tweede kind na geheime zwangerschap",
+    "subtitle": null,
+    "published_at": "2023-04-07T09:23:39+02:00",
+    "updated_at": "2023-04-07T09:23:41+02:00",
+    "media_id": "uglxu44ap72e",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6258549/emmy-rossum-bevallen-van-tweede-kind-na-geheime-zwangerschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258546,
     "slug": "ook-noord-drenthe-eist-miljarden-voor-gevolgen-groningse-gaswinning",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Ferrari legt zich niet neer bij straf Sainz en vraagt FIA om nieuw oordeel",
     "subtitle": null,
     "published_at": "2023-04-07T08:05:29+02:00",
-    "updated_at": "2023-04-07T08:52:48+02:00",
+    "updated_at": "2023-04-07T09:22:02+02:00",
     "media_id": "qb4xp44atkhs",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Wiegman jubelt om nieuwe prijs én nuttige WK-lessen: 'Voel me bevoorrecht'",
     "subtitle": null,
     "published_at": "2023-04-07T07:36:18+02:00",
-    "updated_at": "2023-04-07T07:43:10+02:00",
+    "updated_at": "2023-04-07T09:23:50+02:00",
     "media_id": "q9vx7mbaraon",
     "duration": null,
     "canonical_section": {
@@ -374,8 +420,8 @@
     "title": "Kabinet staat lastige klus te wachten bij verplichte verzekering zzp'ers",
     "subtitle": null,
     "published_at": "2023-04-07T05:07:57+02:00",
-    "updated_at": "2023-04-07T05:08:32+02:00",
-    "media_id": "03cxpoganl8l",
+    "updated_at": "2023-04-07T09:18:07+02:00",
+    "media_id": "j3dx4qmap30k",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6258533/gangstas-paradise-rapper-coolio-overleed-aan-overdosis-fentanyl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258518,
-    "slug": "geen-stakingen-in-streekvervoer-meer-partijen-bereiken-eindelijk-cao-akkoord",
-    "type": "article",
-    "title": "Geen stakingen in streekvervoer meer: partijen bereiken eindelijk cao-akkoord",
-    "subtitle": null,
-    "published_at": "2023-04-07T00:15:05+02:00",
-    "updated_at": "2023-04-07T07:37:03+02:00",
-    "media_id": "yjzx6txaoq2w",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258518/geen-stakingen-in-streekvervoer-meer-partijen-bereiken-eindelijk-cao-akkoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258532,
-    "slug": "drie-mannen-gaan-levenslang-de-cel-in-voor-moord-op-rapper-xxxtentacion",
-    "type": "article",
-    "title": "Drie mannen gaan levenslang de cel in voor moord op rapper XXXTentacion",
-    "subtitle": null,
-    "published_at": "2023-04-07T00:07:31+02:00",
-    "updated_at": "2023-04-07T07:51:14+02:00",
-    "media_id": "wbfxrefa71re",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6258532/drie-mannen-gaan-levenslang-de-cel-in-voor-moord-op-rapper-xxxtentacion.html",
     "open_new_window": false,
     "partner": null
   }
