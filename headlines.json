@@ -1,12 +1,81 @@
 [
   {
+    "id": 6258631,
+    "slug": "de-nationale-vrije-dag-bestaat-die-eigenlijk-nog-wel",
+    "type": "article",
+    "title": "De nationale vrije dag: bestaat die eigenlijk nog wel?",
+    "subtitle": null,
+    "published_at": "2023-04-07T17:29:41+02:00",
+    "updated_at": "2023-04-07T17:29:45+02:00",
+    "media_id": "hq4x1r4a5wzf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258631/de-nationale-vrije-dag-bestaat-die-eigenlijk-nog-wel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258636,
+    "slug": "higuita-sterkste-van-favorietengroep-in-baskenland-vingegaard-blijft-leider",
+    "type": "article",
+    "title": "Higuita sterkste van favorietengroep in Baskenland, Vingegaard blijft leider",
+    "subtitle": null,
+    "published_at": "2023-04-07T17:27:08+02:00",
+    "updated_at": "2023-04-07T17:27:09+02:00",
+    "media_id": "wf9xybaau1gl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6258636/higuita-sterkste-van-favorietengroep-in-baskenland-vingegaard-blijft-leider.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258635,
+    "slug": "feyenoord-grijpt-in-na-aanstekerincident-het-hele-veld-afgeschermd-met-netten",
+    "type": "article",
+    "title": "Feyenoord grijpt in na aanstekerincident: het hele veld afgeschermd met netten",
+    "subtitle": null,
+    "published_at": "2023-04-07T17:17:59+02:00",
+    "updated_at": "2023-04-07T17:28:36+02:00",
+    "media_id": "0x4x3cxazdve",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258635/feyenoord-grijpt-in-na-aanstekerincident-het-hele-veld-afgeschermd-met-netten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258634,
     "slug": "treinongeluk-voorschoten-waarschijnlijk-veroorzaakt-doordat-kraan-te-vroeg-op-spoor-stond",
     "type": "article",
     "title": "Treinongeluk Voorschoten waarschijnlijk veroorzaakt doordat kraan te vroeg op spoor stond",
     "subtitle": null,
     "published_at": "2023-04-07T17:06:48+02:00",
-    "updated_at": "2023-04-07T17:13:32+02:00",
+    "updated_at": "2023-04-07T17:29:10+02:00",
     "media_id": "1fux9m7ab0zc",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/film/6258605/star-wars-komt-met-drie-nieuwe-films-daisy-ridley-keert-terug-als-rey.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258597,
-    "slug": "de-engelse-voetbalwet-hoe-supportersgeweld-daar-wordt-voorkomen",
-    "type": "article",
-    "title": "De Engelse voetbalwet: hoe supportersgeweld daar wordt voorkomen",
-    "subtitle": null,
-    "published_at": "2023-04-07T15:03:05+02:00",
-    "updated_at": "2023-04-07T15:16:54+02:00",
-    "media_id": "ryuxnyaatooy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258597/de-engelse-voetbalwet-hoe-supportersgeweld-daar-wordt-voorkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258602,
-    "slug": "containerschip-raakt-net-herstelde-spoorbrug-in-gouda-na-bijna-vijf-jaar-weer",
-    "type": "article",
-    "title": "Containerschip raakt net herstelde spoorbrug in Gouda na bijna vijf jaar wéér",
-    "subtitle": null,
-    "published_at": "2023-04-07T14:38:40+02:00",
-    "updated_at": "2023-04-07T14:39:52+02:00",
-    "media_id": "r1yxzzfaq2x7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258602/containerschip-raakt-net-herstelde-spoorbrug-in-gouda-na-bijna-vijf-jaar-weer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258600,
-    "slug": "waarde-russische-munt-blijft-maar-dalen-door-westerse-maatregelen",
-    "type": "article",
-    "title": "Waarde Russische munt blijft maar dalen door westerse maatregelen",
-    "subtitle": null,
-    "published_at": "2023-04-07T14:37:43+02:00",
-    "updated_at": "2023-04-07T14:56:18+02:00",
-    "media_id": "m1oxip4ara3h",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258600/waarde-russische-munt-blijft-maar-dalen-door-westerse-maatregelen.html",
     "open_new_window": false,
     "partner": null
   }
