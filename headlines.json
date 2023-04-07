@@ -1,12 +1,58 @@
 [
   {
-    "id": 6258564,
-    "slug": "tijgers-kunnen-net-als-mensen-extravert-of-introvert-zijn-blijkt-uit-studie",
+    "id": 6258567,
+    "slug": "helft-van-patienten-kan-langer-dan-jaar-niet-werken-door-postcovidsyndroom",
     "type": "article",
-    "title": "Tijgers kunnen net als mensen extravert of introvert zijn, blijkt uit studie",
+    "title": "Helft van patiënten kan langer dan jaar niet werken door postcovidsyndroom",
+    "subtitle": null,
+    "published_at": "2023-04-07T10:56:10+02:00",
+    "updated_at": "2023-04-07T10:56:12+02:00",
+    "media_id": "o3qxbyoakep1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258567/helft-van-patienten-kan-langer-dan-jaar-niet-werken-door-postcovidsyndroom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258568,
+    "slug": "samsung-zet-mes-in-chipproductie-omdat-tekort-afneemt",
+    "type": "article",
+    "title": "Samsung zet mes in chipproductie omdat tekort afneemt",
+    "subtitle": null,
+    "published_at": "2023-04-07T10:55:53+02:00",
+    "updated_at": "2023-04-07T10:55:54+02:00",
+    "media_id": "uifxzf1aycf3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258568/samsung-zet-mes-in-chipproductie-omdat-tekort-afneemt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258564,
+    "slug": "tijgers-kunnen-net-als-mensen-extrovert-of-introvert-zijn-blijkt-uit-studie",
+    "type": "article",
+    "title": "Tijgers kunnen net als mensen extrovert of introvert zijn, blijkt uit studie",
     "subtitle": null,
     "published_at": "2023-04-07T10:35:19+02:00",
-    "updated_at": "2023-04-07T10:35:20+02:00",
+    "updated_at": "2023-04-07T10:58:38+02:00",
     "media_id": "dpix5saamp39",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6258564/tijgers-kunnen-net-als-mensen-extravert-of-introvert-zijn-blijkt-uit-studie.html",
+    "url": "/dieren/6258564/tijgers-kunnen-net-als-mensen-extrovert-of-introvert-zijn-blijkt-uit-studie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Tesla verlaagt opnieuw prijzen in de VS",
     "subtitle": null,
     "published_at": "2023-04-07T10:18:06+02:00",
-    "updated_at": "2023-04-07T10:18:07+02:00",
+    "updated_at": "2023-04-07T11:13:54+02:00",
     "media_id": "55jxcoraujcb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitleg/6258480/tientallen-dodelijke-tornados-razen-over-de-vs-zo-zit-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258536,
-    "slug": "weerbericht-wat-het-weer-betreft-is-vandaag-bepaald-geen-goede-vrijdag",
-    "type": "article",
-    "title": "Weerbericht: Wat het weer betreft is vandaag bepaald geen goede vrijdag",
-    "subtitle": null,
-    "published_at": "2023-04-07T06:06:59+02:00",
-    "updated_at": "2023-04-07T07:24:02+02:00",
-    "media_id": "qrkxxn5a4fyf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258536/weerbericht-wat-het-weer-betreft-is-vandaag-bepaald-geen-goede-vrijdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258535,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-04-07T05:16:32+02:00",
-    "updated_at": "2023-04-07T05:16:33+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6258535/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
