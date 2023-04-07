@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258536,
+    "slug": "weerbericht-wat-het-weer-betreft-is-vandaag-bepaald-geen-goede-vrijdag",
+    "type": "article",
+    "title": "Weerbericht: Wat het weer betreft is vandaag bepaald geen goede vrijdag",
+    "subtitle": null,
+    "published_at": "2023-04-07T06:06:59+02:00",
+    "updated_at": "2023-04-07T06:07:00+02:00",
+    "media_id": "qrkxxn5a4fyf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6258536/weerbericht-wat-het-weer-betreft-is-vandaag-bepaald-geen-goede-vrijdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258535,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6258511/gedumpt-hondje-levend-gered-uit-ondergrondse-afvalcontainer-in-den-bosch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258510,
-    "slug": "franse-jongen-van-veertien-aangeklaagd-voor-terrorisme-uit-naam-van-is",
-    "type": "article",
-    "title": "Franse jongen van veertien aangeklaagd voor terrorisme uit naam van IS",
-    "subtitle": null,
-    "published_at": "2023-04-06T20:03:04+02:00",
-    "updated_at": "2023-04-06T20:54:01+02:00",
-    "media_id": "ylcxraba44qo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258510/franse-jongen-van-veertien-aangeklaagd-voor-terrorisme-uit-naam-van-is.html",
     "open_new_window": false,
     "partner": null
   }
