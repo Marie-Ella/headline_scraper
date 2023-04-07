@@ -1,12 +1,58 @@
 [
   {
+    "id": 6258555,
+    "slug": "zwitserland-start-onderzoek-naar-credit-suisse-debacle",
+    "type": "article",
+    "title": "Zwitserland start onderzoek naar Credit Suisse-debacle",
+    "subtitle": null,
+    "published_at": "2023-04-07T09:45:34+02:00",
+    "updated_at": "2023-04-07T09:45:36+02:00",
+    "media_id": "bicxffzaz1ec",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258555/zwitserland-start-onderzoek-naar-credit-suisse-debacle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258552,
+    "slug": "oekraiens-verweer-bij-bakhmut-lijkt-nu-toch-echt-op-laatste-benen-te-lopen",
+    "type": "article",
+    "title": "Oekraïens verweer bij Bakhmut lijkt nu toch echt op laatste benen te lopen",
+    "subtitle": null,
+    "published_at": "2023-04-07T09:34:07+02:00",
+    "updated_at": "2023-04-07T09:34:09+02:00",
+    "media_id": "k50x4gha59zz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6258552/oekraiens-verweer-bij-bakhmut-lijkt-nu-toch-echt-op-laatste-benen-te-lopen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258550,
     "slug": "brandweer-bestrijdt-uitslaande-brand-op-grote-mexicaanse-markt",
     "type": "video",
     "title": "Brandweer bestrijdt uitslaande brand op grote Mexicaanse markt",
     "subtitle": "Video",
     "published_at": "2023-04-07T09:26:59+02:00",
-    "updated_at": "2023-04-07T09:27:01+02:00",
+    "updated_at": "2023-04-07T09:28:30+02:00",
     "media_id": "187x5uga7jsu",
     "duration": "45:00",
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "PEC Zwolle kan vanavond al promotie naar Eredivisie veiligstellen",
     "subtitle": null,
     "published_at": "2023-04-07T06:55:13+02:00",
-    "updated_at": "2023-04-07T07:37:16+02:00",
+    "updated_at": "2023-04-07T09:32:01+02:00",
     "media_id": "bduxpx4amxil",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258502/politievakbond-wil-dat-alle-uit-en-thuisfans-geweerd-kunnen-worden-bij-risicoduels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258430,
-    "slug": "kabinet-staat-lastige-klus-te-wachten-bij-verplichte-verzekering-zzpers",
-    "type": "article",
-    "title": "Kabinet staat lastige klus te wachten bij verplichte verzekering zzp'ers",
-    "subtitle": null,
-    "published_at": "2023-04-07T05:07:57+02:00",
-    "updated_at": "2023-04-07T09:18:07+02:00",
-    "media_id": "j3dx4qmap30k",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258430/kabinet-staat-lastige-klus-te-wachten-bij-verplichte-verzekering-zzpers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258533,
-    "slug": "gangstas-paradise-rapper-coolio-overleed-aan-overdosis-fentanyl",
-    "type": "article",
-    "title": "Gangsta's Paradise-rapper Coolio overleed aan overdosis fentanyl",
-    "subtitle": null,
-    "published_at": "2023-04-07T00:31:27+02:00",
-    "updated_at": "2023-04-07T07:53:38+02:00",
-    "media_id": "8ssxuu2a2y0q",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6258533/gangstas-paradise-rapper-coolio-overleed-aan-overdosis-fentanyl.html",
     "open_new_window": false,
     "partner": null
   }
