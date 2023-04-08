@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258732,
+    "slug": "china-voert-militaire-oefening-uit-bij-taiwan",
+    "type": "video",
+    "title": "China voert militaire oefening uit bij Taiwan",
+    "subtitle": "Video",
+    "published_at": "2023-04-08T15:08:24+02:00",
+    "updated_at": "2023-04-08T15:08:25+02:00",
+    "media_id": "c1axawsa8z58",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258732/china-voert-militaire-oefening-uit-bij-taiwan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258729,
     "slug": "vlaardings-bedrijf-voor-tweede-keer-in-week-tijd-getroffen-door-explosief",
     "type": "article",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6258723,
-    "slug": "kopgroep-met-markus-rijdt-hard-weg-van-peloton-in-parijs-roubaix",
+    "slug": "kopgroep-van-achttien-betreedt-eerste-kasseistroken-van-parijs-roubaix",
     "type": "article",
-    "title": "Kopgroep met Markus rijdt hard weg van peloton in Parijs-Roubaix",
+    "title": "Kopgroep van achttien betreedt eerste kasseistroken van Parijs-Roubaix",
     "subtitle": "Liveblog",
     "published_at": "2023-04-08T13:15:24+02:00",
-    "updated_at": "2023-04-08T14:48:45+02:00",
-    "media_id": "i6txwpza0iuc",
+    "updated_at": "2023-04-08T15:10:39+02:00",
+    "media_id": "jr4x5sfa49up",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6258723/kopgroep-met-markus-rijdt-hard-weg-van-peloton-in-parijs-roubaix.html",
+    "url": "/wielrennen/6258723/kopgroep-van-achttien-betreedt-eerste-kasseistroken-van-parijs-roubaix.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Steenbergen duikt op 200 meter wisselslag onder nationaal record van Heemskerk",
     "subtitle": null,
     "published_at": "2023-04-08T11:19:17+02:00",
-    "updated_at": "2023-04-08T11:39:13+02:00",
+    "updated_at": "2023-04-08T14:56:47+02:00",
     "media_id": "4lhxp0sadx7t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6258689/israelische-politie-onderzoekt-auto-na-aanslag-op-boulevard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258686,
-    "slug": "china-begint-driedaagse-militaire-oefening-om-provocerend-taiwan-af-te-schrikken",
-    "type": "article",
-    "title": "China begint driedaagse militaire oefening om 'provocerend' Taiwan af te schrikken",
-    "subtitle": null,
-    "published_at": "2023-04-08T06:51:08+02:00",
-    "updated_at": "2023-04-08T09:22:41+02:00",
-    "media_id": "q4bxuexai5e6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258686/china-begint-driedaagse-militaire-oefening-om-provocerend-taiwan-af-te-schrikken.html",
     "open_new_window": false,
     "partner": null
   }
