@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258742,
+    "slug": "de-ligt-schiet-van-afstand-prachtig-raak-voor-bayern-munchen",
+    "type": "video",
+    "title": "De Ligt schiet van afstand prachtig raak voor Bayern München",
+    "subtitle": "Video",
+    "published_at": "2023-04-08T17:09:55+02:00",
+    "updated_at": "2023-04-08T17:13:51+02:00",
+    "media_id": "2z2x703aq1h2",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6258742/de-ligt-schiet-van-afstand-prachtig-raak-voor-bayern-munchen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258739,
     "slug": "dode-en-twee-gewonden-door-ongeluk-met-drie-autos-bij-gelderse-vuren",
     "type": "article",
@@ -139,13 +162,13 @@
   },
   {
     "id": 6258723,
-    "slug": "vos-jaagt-nog-altijd-op-peloton-na-lekke-band-parijs-roubaix",
+    "slug": "vos-komt-met-achtervolgers-dichter-bij-kopgroep-in-slotfase-parijs-roubaix",
     "type": "article",
-    "title": "Vos jaagt nog altijd op peloton na lekke band Parijs-Roubaix",
+    "title": "Vos komt met achtervolgers dichter bij kopgroep in slotfase Parijs-Roubaix",
     "subtitle": "Liveblog",
     "published_at": "2023-04-08T13:15:24+02:00",
-    "updated_at": "2023-04-08T16:42:52+02:00",
-    "media_id": "jr4x5sfa49up",
+    "updated_at": "2023-04-08T17:11:14+02:00",
+    "media_id": "dz6x7x7am0tu",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6258723/vos-jaagt-nog-altijd-op-peloton-na-lekke-band-parijs-roubaix.html",
+    "url": "/wielrennen/6258723/vos-komt-met-achtervolgers-dichter-bij-kopgroep-in-slotfase-parijs-roubaix.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Oekraïens leger schiet Russisch gevechtsvliegtuig neer",
     "subtitle": "Video",
     "published_at": "2023-04-08T08:50:05+02:00",
-    "updated_at": "2023-04-08T09:44:28+02:00",
+    "updated_at": "2023-04-08T17:01:51+02:00",
     "media_id": "xtzxpfzavy8e",
     "duration": "0:36",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6258691/oekraiens-leger-schiet-russisch-gevechtsvliegtuig-neer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258690,
-    "slug": "foute-namen-op-oorlogsmonument-eindhoven-ook-ssers-en-nsbers-herdacht",
-    "type": "article",
-    "title": "'Foute' namen op oorlogsmonument Eindhoven: ook SS'ers en NSB'ers herdacht",
-    "subtitle": null,
-    "published_at": "2023-04-08T08:40:43+02:00",
-    "updated_at": "2023-04-08T09:37:30+02:00",
-    "media_id": "144xsy4alqd7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258690/foute-namen-op-oorlogsmonument-eindhoven-ook-ssers-en-nsbers-herdacht.html",
     "open_new_window": false,
     "partner": null
   }
