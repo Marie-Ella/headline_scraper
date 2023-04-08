@@ -1,13 +1,36 @@
 [
   {
+    "id": 6258725,
+    "slug": "sevilla-voelt-zich-structureel-benadeeld-door-arbitrage-en-haalt-uit-in-verklaring",
+    "type": "article",
+    "title": "Sevilla voelt zich structureel benadeeld door arbitrage en haalt uit in verklaring",
+    "subtitle": null,
+    "published_at": "2023-04-08T13:36:27+02:00",
+    "updated_at": "2023-04-08T13:41:54+02:00",
+    "media_id": "ibkxp20ai7fp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258725/sevilla-voelt-zich-structureel-benadeeld-door-arbitrage-en-haalt-uit-in-verklaring.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258723,
     "slug": "kopecky-wil-goede-reeks-sd-worx-voortzetten-in-parijs-roubaix",
     "type": "article",
     "title": "Kopecky wil goede reeks SD Worx voortzetten in Parijs-Roubaix",
     "subtitle": "Liveblog",
     "published_at": "2023-04-08T13:15:24+02:00",
-    "updated_at": "2023-04-08T13:15:25+02:00",
-    "media_id": "x9dxk4ca11hh",
+    "updated_at": "2023-04-08T13:48:42+02:00",
+    "media_id": "23dxevoaqnbc",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258685/honderdduizenden-huishoudens-in-canada-nog-zonder-stroom-na-winterstorm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258639,
-    "slug": "alsof-je-telkens-dezelfde-kaart-trekt-zo-werkt-het-algoritme-van-tiktok",
-    "type": "video",
-    "title": "Alsof je telkens dezelfde kaart trekt: zo werkt het algoritme van TikTok",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-08T05:43:31+02:00",
-    "updated_at": "2023-04-08T05:43:33+02:00",
-    "media_id": "gjqx9zmanhz5",
-    "duration": "2:47",
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6258639/alsof-je-telkens-dezelfde-kaart-trekt-zo-werkt-het-algoritme-van-tiktok.html",
     "open_new_window": false,
     "partner": null
   }
