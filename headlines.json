@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258626,
+    "slug": "nieuwe-truc-in-parijs-roubaix-je-banden-oppompen-tijdens-het-fietsen",
+    "type": "video",
+    "title": "Nieuwe truc in Parijs-Roubaix: je banden oppompen tijdens het fietsen",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-09T05:58:15+02:00",
+    "updated_at": "2023-04-09T05:58:16+02:00",
+    "media_id": "q7lxazpaw3wv",
+    "duration": "2:26",
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6258626/nieuwe-truc-in-parijs-roubaix-je-banden-oppompen-tijdens-het-fietsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258777,
-    "slug": "weerbericht-lenteachtige-1e-paasdag-met-een-afwisseling-van-zon-en-wolken",
+    "slug": "weerbericht-lenteachtige-eerste-paasdag-met-afwisseling-van-zon-en-wolken",
     "type": "article",
-    "title": "Weerbericht: Lenteachtige 1e paasdag met een afwisseling van zon en wolken",
+    "title": "Weerbericht: Lenteachtige Eerste Paasdag met afwisseling van zon en wolken",
     "subtitle": null,
     "published_at": "2023-04-09T05:44:57+02:00",
-    "updated_at": "2023-04-09T05:44:59+02:00",
+    "updated_at": "2023-04-09T05:55:58+02:00",
     "media_id": "h8jxzgla6z7x",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6258777/weerbericht-lenteachtige-1e-paasdag-met-een-afwisseling-van-zon-en-wolken.html",
+    "url": "/binnenland/6258777/weerbericht-lenteachtige-eerste-paasdag-met-afwisseling-van-zon-en-wolken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258760/zeker-44-mensen-omgekomen-bij-twee-aanvallen-in-burkina-faso.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258764,
-    "slug": "vitesse-boekt-broodnodige-zege-van-hooijdonk-leidt-heerenveen-langs-volendam",
-    "type": "article",
-    "title": "Vitesse boekt broodnodige zege, Van Hooijdonk leidt Heerenveen langs Volendam",
-    "subtitle": null,
-    "published_at": "2023-04-08T20:41:42+02:00",
-    "updated_at": "2023-04-09T01:13:32+02:00",
-    "media_id": "nkuxi03anpd0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258764/vitesse-boekt-broodnodige-zege-van-hooijdonk-leidt-heerenveen-langs-volendam.html",
     "open_new_window": false,
     "partner": null
   }
