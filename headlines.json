@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258813,
+    "slug": "opnieuw-oefeningen-van-chinese-leger-rondom-taiwan",
+    "type": "video",
+    "title": "Opnieuw oefeningen van Chinese leger rondom Taiwan",
+    "subtitle": "Video",
+    "published_at": "2023-04-09T13:22:09+02:00",
+    "updated_at": "2023-04-09T13:23:09+02:00",
+    "media_id": "eh4xy9favvig",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6258813/opnieuw-oefeningen-van-chinese-leger-rondom-taiwan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258809,
     "slug": "witte-kerst-bleef-uit-maar-skigebieden-hebben-op-de-valreep-erg-witte-pasen",
     "type": "article",
     "title": "Witte Kerst bleef uit, maar skigebieden hebben op de valreep erg witte Pasen",
     "subtitle": null,
     "published_at": "2023-04-09T13:10:57+02:00",
-    "updated_at": "2023-04-09T13:10:58+02:00",
+    "updated_at": "2023-04-09T13:22:48+02:00",
     "media_id": "z76xfp5avriz",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6258803,
-    "slug": "twente-speelt-hopeloos-cambuur-helemaal-aan-gort",
+    "slug": "cambuur-probeert-schade-te-beperken-tegen-twente",
     "type": "article",
-    "title": "Twente speelt hopeloos Cambuur helemaal aan gort",
+    "title": "Cambuur probeert schade te beperken tegen Twente",
     "subtitle": "Liveblog",
     "published_at": "2023-04-09T11:44:29+02:00",
-    "updated_at": "2023-04-09T12:54:57+02:00",
-    "media_id": "m15x9o7awql0",
+    "updated_at": "2023-04-09T13:23:52+02:00",
+    "media_id": "k8sxa9qawazj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6258803/twente-speelt-hopeloos-cambuur-helemaal-aan-gort.html",
+    "url": "/voetbal/6258803/cambuur-probeert-schade-te-beperken-tegen-twente.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +277,12 @@
   },
   {
     "id": 6258791,
-    "slug": "eerste-kasseien-gloren-in-snelle-parijs-roubaix-van-der-poel-alert",
+    "slug": "van-der-poel-alert-op-kasseien-in-parijs-roubaix-bax-in-kopgroep",
     "type": "article",
-    "title": "Eerste kasseien gloren in snelle Parijs-Roubaix, Van der Poel alert",
+    "title": "Van der Poel alert op kasseien in Parijs-Roubaix, Bax in kopgroep",
     "subtitle": "Liveblog",
     "published_at": "2023-04-09T10:54:38+02:00",
-    "updated_at": "2023-04-09T13:10:15+02:00",
+    "updated_at": "2023-04-09T13:26:14+02:00",
     "media_id": "zytxf5da0k2g",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6258791/eerste-kasseien-gloren-in-snelle-parijs-roubaix-van-der-poel-alert.html",
+    "url": "/wielrennen/6258791/van-der-poel-alert-op-kasseien-in-parijs-roubaix-bax-in-kopgroep.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Noppert verrast door belletje Aké en Van Dijk: 'Wist niet van wie het nummer was'",
     "subtitle": null,
     "published_at": "2023-04-09T09:09:21+02:00",
-    "updated_at": "2023-04-09T09:32:16+02:00",
+    "updated_at": "2023-04-09T13:16:16+02:00",
     "media_id": "z6jx9idaqspk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258786/noppert-verrast-door-belletje-ake-en-van-dijk-wist-niet-van-wie-het-nummer-was.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258785,
-    "slug": "beelden-tonen-gapend-gat-nadat-flat-instort-in-marseille",
-    "type": "video",
-    "title": "Beelden tonen gapend gat nadat flat instort in Marseille",
-    "subtitle": "Video",
-    "published_at": "2023-04-09T08:56:38+02:00",
-    "updated_at": "2023-04-09T09:07:17+02:00",
-    "media_id": "o2sxkpqavnsv",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258785/beelden-tonen-gapend-gat-nadat-flat-instort-in-marseille.html",
     "open_new_window": false,
     "partner": null
   }
