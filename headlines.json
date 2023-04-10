@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258904,
+    "slug": "bbc-boos-dat-twitter-de-omroep-een-door-staat-gefinancierde-organisatie-noemt",
+    "type": "article",
+    "title": "BBC boos dat Twitter de omroep een door staat gefinancierde organisatie noemt",
+    "subtitle": null,
+    "published_at": "2023-04-10T13:27:57+02:00",
+    "updated_at": "2023-04-10T13:27:59+02:00",
+    "media_id": "rpmx3kjas1rr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6258904/bbc-boos-dat-twitter-de-omroep-een-door-staat-gefinancierde-organisatie-noemt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258905,
     "slug": "fc-den-bosch-vindt-in-jonge-pool-38-opvolger-van-ontslagen-trainer-de-gier",
     "type": "article",
     "title": "FC Den Bosch vindt in jonge Pool (38) opvolger van ontslagen trainer De Gier",
     "subtitle": null,
     "published_at": "2023-04-10T13:12:56+02:00",
-    "updated_at": "2023-04-10T13:12:57+02:00",
+    "updated_at": "2023-04-10T13:27:48+02:00",
     "media_id": "cdwx8c9afue3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6258868/strengere-stikstofregels-houden-traditioneel-paasvuur-niet-tegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258866,
-    "slug": "spaanse-golfer-rahm-wint-voor-de-eerste-keer-masters-dankzij-ijzersterke-slotdag",
-    "type": "article",
-    "title": "Spaanse golfer Rahm wint voor de eerste keer Masters dankzij ijzersterke slotdag",
-    "subtitle": null,
-    "published_at": "2023-04-10T07:53:35+02:00",
-    "updated_at": "2023-04-10T07:58:27+02:00",
-    "media_id": "ar0x04wahwkb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6258866/spaanse-golfer-rahm-wint-voor-de-eerste-keer-masters-dankzij-ijzersterke-slotdag.html",
     "open_new_window": false,
     "partner": null
   }
