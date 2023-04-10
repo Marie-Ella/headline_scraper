@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258861,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-10T05:38:55+02:00",
+    "updated_at": "2023-04-10T05:38:57+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6258861/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258860,
+    "slug": "twee-doden-gevonden-in-puin-ingestort-flatgebouw-marseille",
+    "type": "article",
+    "title": "Twee doden gevonden in puin ingestort flatgebouw Marseille",
+    "subtitle": null,
+    "published_at": "2023-04-10T05:38:20+02:00",
+    "updated_at": "2023-04-10T05:38:21+02:00",
+    "media_id": "d9yxnvpab04w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6258860/twee-doden-gevonden-in-puin-ingestort-flatgebouw-marseille.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258859,
     "slug": "zo-won-van-der-poel-in-roubaix-van-start-tot-finish-gereden-als-junioren",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258841/twee-mooie-goals-berghuis-leiden-royale-thuiszege-ajax-op-fortuna-sittard-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258824,
-    "slug": "dit-vinden-jullie-van-het-raketgeweld-van-israel-richting-syrie",
-    "type": "article",
-    "title": "Dit vinden jullie van het raketgeweld van Israël richting Syrië",
-    "subtitle": null,
-    "published_at": "2023-04-09T18:34:09+02:00",
-    "updated_at": "2023-04-09T19:30:49+02:00",
-    "media_id": "1abxwhca5dyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6258824/dit-vinden-jullie-van-het-raketgeweld-van-israel-richting-syrie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258826,
-    "slug": "twee-maanden-sinds-de-bevingen-zo-gaat-het-nu-in-turkije-en-syrie",
-    "type": "article",
-    "title": "Twee maanden sinds de bevingen: zo gaat het nu in Turkije en Syrië",
-    "subtitle": "NU+",
-    "published_at": "2023-04-09T18:06:32+02:00",
-    "updated_at": "2023-04-09T22:20:40+02:00",
-    "media_id": "ayzxajaaho8h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6258826/twee-maanden-sinds-de-bevingen-zo-gaat-het-nu-in-turkije-en-syrie.html",
     "open_new_window": false,
     "partner": null
   }
