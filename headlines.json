@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258862,
+    "slug": "weerbericht-nog-even-droog-in-de-ochtend-daarna-gaat-het-regenen",
+    "type": "article",
+    "title": "Weerbericht: Nog even droog in de ochtend, daarna gaat het regenen",
+    "subtitle": null,
+    "published_at": "2023-04-10T05:52:04+02:00",
+    "updated_at": "2023-04-10T06:08:56+02:00",
+    "media_id": "71bx18uatpko",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6258862/weerbericht-nog-even-droog-in-de-ochtend-daarna-gaat-het-regenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258861,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6258860,
-    "slug": "twee-doden-gevonden-in-puin-ingestort-flatgebouw-marseille",
+    "slug": "twee-doden-gevonden-in-puin-van-ingestort-flatgebouw-marseille",
     "type": "article",
-    "title": "Twee doden gevonden in puin ingestort flatgebouw Marseille",
+    "title": "Twee doden gevonden in puin van ingestort flatgebouw Marseille",
     "subtitle": null,
     "published_at": "2023-04-10T05:38:20+02:00",
-    "updated_at": "2023-04-10T05:38:21+02:00",
+    "updated_at": "2023-04-10T06:22:08+02:00",
     "media_id": "d9yxnvpab04w",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6258860/twee-doden-gevonden-in-puin-ingestort-flatgebouw-marseille.html",
+    "url": "/buitenland/6258860/twee-doden-gevonden-in-puin-van-ingestort-flatgebouw-marseille.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258799/feyenoord-jaagt-met-herstelde-geertruida-verder-op-eerste-landstitel-sinds-2017.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258841,
-    "slug": "twee-mooie-goals-berghuis-leiden-royale-thuiszege-ajax-op-fortuna-sittard-in",
-    "type": "article",
-    "title": "Twee mooie goals Berghuis leiden royale thuiszege Ajax op Fortuna Sittard in",
-    "subtitle": null,
-    "published_at": "2023-04-09T18:38:58+02:00",
-    "updated_at": "2023-04-09T18:45:10+02:00",
-    "media_id": "dqaxgkqajmi4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258841/twee-mooie-goals-berghuis-leiden-royale-thuiszege-ajax-op-fortuna-sittard-in.html",
     "open_new_window": false,
     "partner": null
   }
