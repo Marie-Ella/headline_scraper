@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258872,
+    "slug": "braziliaan-wint-sprint-op-blote-voeten",
+    "type": "video",
+    "title": "Braziliaan wint sprint op blote voeten",
+    "subtitle": "Video",
+    "published_at": "2023-04-10T09:12:05+02:00",
+    "updated_at": "2023-04-10T09:12:05+02:00",
+    "media_id": "plbx8iha4qah",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258872/braziliaan-wint-sprint-op-blote-voeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258727,
+    "slug": "zo-beeindigde-het-goedevrijdagakkoord-25-jaar-geleden-de-noord-ierse-troubles",
+    "type": "article",
+    "title": "Zo beëindigde het Goedevrijdagakkoord 25 jaar geleden de Noord-Ierse Troubles",
+    "subtitle": null,
+    "published_at": "2023-04-10T08:59:31+02:00",
+    "updated_at": "2023-04-10T09:12:04+02:00",
+    "media_id": "bq0xn8cand1q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6258727/zo-beeindigde-het-goedevrijdagakkoord-25-jaar-geleden-de-noord-ierse-troubles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258817,
     "slug": "stelling-ik-heb-liever-een-vrije-dag-met-de-verkiezingen-dan-met-pasen",
     "type": "article",
@@ -374,7 +420,7 @@
     "title": "Sprookje Gijs Brouwer in geboortestad Houston eindigt in halve finales",
     "subtitle": null,
     "published_at": "2023-04-09T21:10:07+02:00",
-    "updated_at": "2023-04-09T21:17:10+02:00",
+    "updated_at": "2023-04-10T08:53:28+02:00",
     "media_id": "vw2x154aaajk",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258852/ophef-in-engeland-over-elleboogstoot-grensrechter-aan-liverpool-back-robertson.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258851,
-    "slug": "minder-koersen-meer-winnen-monumentenman-van-der-poel-heerst-in-voorjaar",
-    "type": "article",
-    "title": "Minder koersen, meer winnen: 'Monumentenman' Van der Poel heerst in voorjaar",
-    "subtitle": null,
-    "published_at": "2023-04-09T20:53:26+02:00",
-    "updated_at": "2023-04-10T05:01:41+02:00",
-    "media_id": "l6dxlj0ae221",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6258851/minder-koersen-meer-winnen-monumentenman-van-der-poel-heerst-in-voorjaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258850,
-    "slug": "adrie-van-der-poel-dolgelukkig-na-winst-van-zoon-mathieu-in-parijs-roubaix",
-    "type": "video",
-    "title": "Adrie van der Poel dolgelukkig na winst van zoon Mathieu in Parijs-Roubaix",
-    "subtitle": "Video",
-    "published_at": "2023-04-09T20:10:24+02:00",
-    "updated_at": "2023-04-09T20:17:30+02:00",
-    "media_id": "jt8xecpaiadu",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6258850/adrie-van-der-poel-dolgelukkig-na-winst-van-zoon-mathieu-in-parijs-roubaix.html",
     "open_new_window": false,
     "partner": null
   }
