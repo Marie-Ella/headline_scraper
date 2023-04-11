@@ -1,12 +1,58 @@
 [
   {
+    "id": 6259032,
+    "slug": "rijimpressie-aiways-u6",
+    "type": "video",
+    "title": "Rijimpressie - Aiways U6",
+    "subtitle": "Video",
+    "published_at": "2023-04-11T15:37:55+02:00",
+    "updated_at": "2023-04-11T15:38:31+02:00",
+    "media_id": "knexlvvauhjz",
+    "duration": "11:40",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6259032/rijimpressie-aiways-u6.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259030,
+    "slug": "we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen",
+    "type": "article",
+    "title": "We zijn nog niet van de inflatie af, ook volgend jaar stijgen de prijzen",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:37:54+02:00",
+    "updated_at": "2023-04-11T15:37:56+02:00",
+    "media_id": "vqbx3wearxij",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259030/we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258995,
     "slug": "timmermans-waardeert-inzet-bbb-maar-stikstofreductie-speelt-cruciale-rol",
     "type": "article",
     "title": "Timmermans waardeert inzet BBB, maar stikstofreductie speelt 'cruciale rol'",
     "subtitle": null,
     "published_at": "2023-04-11T15:32:19+02:00",
-    "updated_at": "2023-04-11T15:32:20+02:00",
+    "updated_at": "2023-04-11T15:35:35+02:00",
     "media_id": "k7yx4brajyq0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6258996/china-wil-meer-controle-over-kunstmatige-intelligentie-met-nieuwe-wet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258999,
-    "slug": "vrijgelaten-oekraiense-soldaat-huilt-als-hij-zijn-moeder-weer-hoort",
-    "type": "video",
-    "title": "Vrijgelaten Oekraïense soldaat huilt als hij zijn moeder weer hoort",
-    "subtitle": "Video",
-    "published_at": "2023-04-11T12:04:44+02:00",
-    "updated_at": "2023-04-11T12:12:56+02:00",
-    "media_id": "pqgxojra0twd",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6258999/vrijgelaten-oekraiense-soldaat-huilt-als-hij-zijn-moeder-weer-hoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258990,
-    "slug": "hoe-is-jouw-werk-privebalans-praat-mee-over-bereikbaarheid-buiten-werktijd",
-    "type": "article",
-    "title": "Hoe is jouw werk-privébalans? Praat mee over bereikbaarheid buiten werktijd",
-    "subtitle": null,
-    "published_at": "2023-04-11T11:57:25+02:00",
-    "updated_at": "2023-04-11T11:57:26+02:00",
-    "media_id": "xohxzqpavcxa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6258990/hoe-is-jouw-werk-privebalans-praat-mee-over-bereikbaarheid-buiten-werktijd.html",
     "open_new_window": false,
     "partner": null
   }
