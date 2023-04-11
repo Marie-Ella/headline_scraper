@@ -1,24 +1,47 @@
 [
   {
-    "id": 6259043,
-    "slug": "zo-verloopt-de-berging-van-de-treinen-bij-voorschoten",
+    "id": 6259049,
+    "slug": "lezers-over-bereikbaar-zijn-buiten-werktijd-moet-wel-wat-tegenover-staan",
     "type": "article",
-    "title": "Zo verloopt de berging van de treinen bij Voorschoten",
-    "subtitle": "Tijdlijn",
-    "published_at": "2023-04-11T16:44:19+02:00",
-    "updated_at": "2023-04-11T16:44:20+02:00",
-    "media_id": "b77xr4xaop8e",
+    "title": "Lezers over bereikbaar zijn buiten werktijd: 'Moet wel wat tegenover staan'",
+    "subtitle": null,
+    "published_at": "2023-04-11T16:58:48+02:00",
+    "updated_at": "2023-04-11T16:58:50+02:00",
+    "media_id": "pz2xfgcaco2a",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1779134,
+      "slug": "stelling",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Stelling",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6259043/zo-verloopt-de-berging-van-de-treinen-bij-voorschoten.html",
+    "url": "/stelling/6259049/lezers-over-bereikbaar-zijn-buiten-werktijd-moet-wel-wat-tegenover-staan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259043,
+    "slug": "zo-verloopt-de-berging-van-de-ontspoorde-treinen-bij-voorschoten",
+    "type": "article",
+    "title": "Zo verloopt de berging van de ontspoorde treinen bij Voorschoten",
+    "subtitle": "Tijdlijn",
+    "published_at": "2023-04-11T16:44:19+02:00",
+    "updated_at": "2023-04-11T17:11:55+02:00",
+    "media_id": "b77xr4xaop8e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259043/zo-verloopt-de-berging-van-de-ontspoorde-treinen-bij-voorschoten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259014/frans-marineschip-vuurt-saluutschoten-af-op-het-ij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259011,
-    "slug": "millie-bobby-brown-lijkt-verloving-met-zoon-van-jon-bon-jovi-te-bevestigen",
-    "type": "article",
-    "title": "Millie Bobby Brown lijkt verloving met zoon van Jon Bon Jovi te bevestigen",
-    "subtitle": null,
-    "published_at": "2023-04-11T13:25:09+02:00",
-    "updated_at": "2023-04-11T13:26:23+02:00",
-    "media_id": "3brx9afagln5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6259011/millie-bobby-brown-lijkt-verloving-met-zoon-van-jon-bon-jovi-te-bevestigen.html",
     "open_new_window": false,
     "partner": null
   }
