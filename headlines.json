@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259053,
+    "slug": "actievoerders-verstoren-toespraak-macron-in-den-haag",
+    "type": "video",
+    "title": "Actievoerders verstoren toespraak Macron in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2023-04-11T17:19:08+02:00",
+    "updated_at": "2023-04-11T17:19:10+02:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6259053/actievoerders-verstoren-toespraak-macron-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259049,
     "slug": "lezers-over-bereikbaar-zijn-buiten-werktijd-moet-wel-wat-tegenover-staan",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6259012/verzekering-op-maat-kan-consumenten-pijn-gaan-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259014,
-    "slug": "frans-marineschip-vuurt-saluutschoten-af-op-het-ij",
-    "type": "video",
-    "title": "Frans marineschip vuurt saluutschoten af op het IJ",
-    "subtitle": "Video",
-    "published_at": "2023-04-11T13:28:05+02:00",
-    "updated_at": "2023-04-11T13:58:26+02:00",
-    "media_id": "f9px2inaraab",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259014/frans-marineschip-vuurt-saluutschoten-af-op-het-ij.html",
     "open_new_window": false,
     "partner": null
   }
