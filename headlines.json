@@ -1,12 +1,58 @@
 [
   {
+    "id": 6259038,
+    "slug": "onze-arbeidsmarkt-is-ingericht-op-deeltijdwerkende-vrouwen",
+    "type": "article",
+    "title": "Onze arbeidsmarkt is ingericht op deeltijdwerkende vrouwen",
+    "subtitle": null,
+    "published_at": "2023-04-12T00:00:30+02:00",
+    "updated_at": "2023-04-12T00:00:31+02:00",
+    "media_id": "m1mxig7a63h6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259038/onze-arbeidsmarkt-is-ingericht-op-deeltijdwerkende-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259087,
+    "slug": "oekraiens-tegenoffensief-heeft-volgens-gelekte-documenten-geen-kans-van-slagen",
+    "type": "article",
+    "title": "Oekraïens tegenoffensief heeft volgens gelekte documenten geen kans van slagen",
+    "subtitle": null,
+    "published_at": "2023-04-11T23:58:18+02:00",
+    "updated_at": "2023-04-12T00:07:18+02:00",
+    "media_id": "3k4xtglatw8a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6259087/oekraiens-tegenoffensief-heeft-volgens-gelekte-documenten-geen-kans-van-slagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259088,
     "slug": "wiegman-verliest-in-31e-interland-voor-het-eerst-met-engelse-voetbalsters",
     "type": "article",
     "title": "Wiegman verliest in 31e interland voor het eerst met Engelse voetbalsters",
     "subtitle": null,
     "published_at": "2023-04-11T23:43:10+02:00",
-    "updated_at": "2023-04-11T23:45:03+02:00",
+    "updated_at": "2023-04-11T23:47:23+02:00",
     "media_id": "e2dxjgmaerio",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259068/reacties-na-ruime-overwinning-oranjevrouwen-tegen-polen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259067,
-    "slug": "brits-leger-salueert-oekraiense-soldaten-die-terugkeren-naar-frontlinie",
-    "type": "video",
-    "title": "Brits leger salueert Oekraïense soldaten die terugkeren naar frontlinie",
-    "subtitle": "Video",
-    "published_at": "2023-04-11T19:22:00+02:00",
-    "updated_at": "2023-04-11T19:33:25+02:00",
-    "media_id": "h5qxd71apjob",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6259067/brits-leger-salueert-oekraiense-soldaten-die-terugkeren-naar-frontlinie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259066,
-    "slug": "kluivert-door-blessure-voorlopig-niet-beschikbaar-in-degradatiestrijd-valencia",
-    "type": "article",
-    "title": "Kluivert door blessure voorlopig niet beschikbaar in degradatiestrijd Valencia",
-    "subtitle": null,
-    "published_at": "2023-04-11T19:21:12+02:00",
-    "updated_at": "2023-04-11T20:45:53+02:00",
-    "media_id": "awbxhw2al9yc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259066/kluivert-door-blessure-voorlopig-niet-beschikbaar-in-degradatiestrijd-valencia.html",
     "open_new_window": false,
     "partner": null
   }
