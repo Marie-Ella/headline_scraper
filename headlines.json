@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259085,
+    "slug": "dumfries-en-inter-doen-uitstekende-zaken-met-zege-bij-benfica-in-kwartfinales-cl",
+    "type": "article",
+    "title": "Dumfries en Inter doen uitstekende zaken met zege bij Benfica in kwartfinales CL",
+    "subtitle": null,
+    "published_at": "2023-04-11T22:52:10+02:00",
+    "updated_at": "2023-04-11T23:07:20+02:00",
+    "media_id": "lb9xnsya9cg5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259085/dumfries-en-inter-doen-uitstekende-zaken-met-zege-bij-benfica-in-kwartfinales-cl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259084,
+    "slug": "ake-en-city-dicht-bij-halve-finales-cl-na-ruime-zege-op-bayern-en-de-ligt",
+    "type": "article",
+    "title": "Aké en City dicht bij halve finales CL na ruime zege op Bayern en De Ligt",
+    "subtitle": null,
+    "published_at": "2023-04-11T22:52:02+02:00",
+    "updated_at": "2023-04-11T23:07:05+02:00",
+    "media_id": "mzyxn5paythl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259084/ake-en-city-dicht-bij-halve-finales-cl-na-ruime-zege-op-bayern-en-de-ligt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259083,
     "slug": "macron-spreekt-nederlands-en-willem-alexander-frans-op-staatsbanket",
     "type": "video",
@@ -185,12 +231,12 @@
   },
   {
     "id": 6259064,
-    "slug": "haaland-lijkt-bayern-en-de-ligt-nekslag-te-geven-in-kwartfinales-cl",
+    "slug": "reacties-na-zeges-city-en-inter-in-heenduel-kwartfinales-cl",
     "type": "article",
-    "title": "Haaland lijkt Bayern en De Ligt nekslag te geven in kwartfinales CL",
+    "title": "Reacties na zeges City en Inter in heenduel kwartfinales CL",
     "subtitle": "Liveblog",
     "published_at": "2023-04-11T20:01:39+02:00",
-    "updated_at": "2023-04-11T22:37:33+02:00",
+    "updated_at": "2023-04-11T22:52:33+02:00",
     "media_id": "unsxja6azr4f",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259064/haaland-lijkt-bayern-en-de-ligt-nekslag-te-geven-in-kwartfinales-cl.html",
+    "url": "/voetbal/6259064/reacties-na-zeges-city-en-inter-in-heenduel-kwartfinales-cl.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259062/clubicoon-van-polen-viert-zeventiende-jaar-bij-pec-zwolle-met-rondje-voor-de-fans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259061,
-    "slug": "djokovic-begint-met-overwinning-aan-gravelseizoen-na-maand-afwezigheid",
-    "type": "article",
-    "title": "Djokovic begint met overwinning aan gravelseizoen na maand afwezigheid",
-    "subtitle": null,
-    "published_at": "2023-04-11T18:32:25+02:00",
-    "updated_at": "2023-04-11T20:13:28+02:00",
-    "media_id": "pstx1yia1ns4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6259061/djokovic-begint-met-overwinning-aan-gravelseizoen-na-maand-afwezigheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259059,
-    "slug": "zwitsers-parlement-keurt-reddingspakket-voor-credit-suisse-goed",
-    "type": "article",
-    "title": "Zwitsers parlement keurt reddingspakket voor Credit Suisse goed",
-    "subtitle": null,
-    "published_at": "2023-04-11T18:26:21+02:00",
-    "updated_at": "2023-04-11T18:44:21+02:00",
-    "media_id": "u1pxdhwafrv9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6259059/zwitsers-parlement-keurt-reddingspakket-voor-credit-suisse-goed.html",
     "open_new_window": false,
     "partner": null
   }
