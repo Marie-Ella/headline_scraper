@@ -1,12 +1,58 @@
 [
   {
-    "id": 6259243,
-    "slug": "voedingsmiddelen-brood-en-alcoholische-dranken-veel-duurder-in-maart",
+    "id": 6259245,
+    "slug": "lucht-in-noorden-van-china-kleurt-oranje-door-zandstorm",
+    "type": "video",
+    "title": "Lucht in noorden van China kleurt oranje door zandstorm",
+    "subtitle": "Video",
+    "published_at": "2023-04-13T07:24:14+02:00",
+    "updated_at": "2023-04-13T07:24:16+02:00",
+    "media_id": "yh5xw2zac3o2",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259245/lucht-in-noorden-van-china-kleurt-oranje-door-zandstorm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259244,
+    "slug": "courtois-wilde-cruciale-actie-in-de-rust-terugzien-dat-is-een-kwaliteit-van-mij",
     "type": "article",
-    "title": "Voedingsmiddelen, brood en alcoholische dranken veel duurder in maart",
+    "title": "Courtois wilde cruciale actie in de rust terugzien: 'Dat is een kwaliteit van mij'",
+    "subtitle": null,
+    "published_at": "2023-04-13T07:21:32+02:00",
+    "updated_at": "2023-04-13T07:21:59+02:00",
+    "media_id": "fp9x17zaz3mi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259244/courtois-wilde-cruciale-actie-in-de-rust-terugzien-dat-is-een-kwaliteit-van-mij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259243,
+    "slug": "voedingsmiddelen-brood-en-alcoholvrije-dranken-veel-duurder-in-maart",
+    "type": "article",
+    "title": "Voedingsmiddelen, brood en alcoholvrije dranken veel duurder in maart",
     "subtitle": null,
     "published_at": "2023-04-13T07:13:50+02:00",
-    "updated_at": "2023-04-13T07:13:52+02:00",
+    "updated_at": "2023-04-13T07:24:14+02:00",
     "media_id": "gj1xxd5aj1z4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6259243/voedingsmiddelen-brood-en-alcoholische-dranken-veel-duurder-in-maart.html",
+    "url": "/economie/6259243/voedingsmiddelen-brood-en-alcoholvrije-dranken-veel-duurder-in-maart.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6259231/olieprijs-blijft-stijgen-en-bereikt-hoogste-punt-van-het-jaar-tot-nu-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259212,
-    "slug": "complete-hijskraan-uit-de-zee-gevist-enorm-bijzondere-vondst",
-    "type": "article",
-    "title": "Complete hijskraan uit de zee gevist: 'Enorm bijzondere vondst'",
-    "subtitle": null,
-    "published_at": "2023-04-12T21:18:42+02:00",
-    "updated_at": "2023-04-12T21:18:43+02:00",
-    "media_id": "djux4zmapluw",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6259212/complete-hijskraan-uit-de-zee-gevist-enorm-bijzondere-vondst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259229,
-    "slug": "warner-bros-discovery-komt-in-2024-met-streamingdienst-max-naar-nederland",
-    "type": "article",
-    "title": "Warner Bros. Discovery komt in 2024 met streamingdienst MAX naar Nederland",
-    "subtitle": null,
-    "published_at": "2023-04-12T21:09:59+02:00",
-    "updated_at": "2023-04-12T21:20:00+02:00",
-    "media_id": "wg7xoqza7ovh",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6259229/warner-bros-discovery-komt-in-2024-met-streamingdienst-max-naar-nederland.html",
     "open_new_window": false,
     "partner": null
   }
