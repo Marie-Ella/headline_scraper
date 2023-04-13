@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259350,
+    "slug": "arnold-schwarzenegger-repareert-eigenhandig-wegdek-in-los-angeles",
+    "type": "video",
+    "title": "Arnold Schwarzenegger 'repareert' eigenhandig wegdek in Los Angeles",
+    "subtitle": "Video",
+    "published_at": "2023-04-13T16:20:38+02:00",
+    "updated_at": "2023-04-13T16:20:38+02:00",
+    "media_id": "mv4xkouaks9c",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259350/arnold-schwarzenegger-repareert-eigenhandig-wegdek-in-los-angeles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259344,
+    "slug": "nick-simon-en-kees-maken-documentaire-over-the-beatles",
+    "type": "article",
+    "title": "Nick, Simon en Kees maken documentaire over The Beatles",
+    "subtitle": null,
+    "published_at": "2023-04-13T16:15:54+02:00",
+    "updated_at": "2023-04-13T16:15:56+02:00",
+    "media_id": "pdwxy0dawggg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6259344/nick-simon-en-kees-maken-documentaire-over-the-beatles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259348,
     "slug": "koning-blijkt-voor-ajax-op-alle-vlakken-neutraal-behalve-bij-voetbal",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Ierse rallycoureur Breen komt om bij crash in Kroatië",
     "subtitle": null,
     "published_at": "2023-04-13T16:07:51+02:00",
-    "updated_at": "2023-04-13T16:12:32+02:00",
+    "updated_at": "2023-04-13T16:22:36+02:00",
     "media_id": "lyhx1m9afx7e",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Bayern München schorst Mané één duel voor het slaan van ploeggenoot Sané",
     "subtitle": null,
     "published_at": "2023-04-13T16:01:25+02:00",
-    "updated_at": "2023-04-13T16:11:44+02:00",
+    "updated_at": "2023-04-13T16:26:50+02:00",
     "media_id": "hymx9ygax9yz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6259287/nederland-telt-nu-negen-gebieden-waar-wolven-territorium-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259304,
-    "slug": "voormalig-ing-topman-hamers-en-commissarissen-alsnog-berispt-om-beloning",
-    "type": "article",
-    "title": "Voormalig ING-topman Hamers en commissarissen alsnog berispt om beloning",
-    "subtitle": null,
-    "published_at": "2023-04-13T12:52:40+02:00",
-    "updated_at": "2023-04-13T13:32:23+02:00",
-    "media_id": "2t7xxhua15nm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6259304/voormalig-ing-topman-hamers-en-commissarissen-alsnog-berispt-om-beloning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259288,
-    "slug": "de-elektrische-step-en-elektrische-fiets-praat-mee-over-elektrisch-vervoer",
-    "type": "article",
-    "title": "De elektrische step en elektrische fiets? Praat mee over elektrisch vervoer",
-    "subtitle": null,
-    "published_at": "2023-04-13T12:52:14+02:00",
-    "updated_at": "2023-04-13T12:52:16+02:00",
-    "media_id": "ev2xchtad7hv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259288/de-elektrische-step-en-elektrische-fiets-praat-mee-over-elektrisch-vervoer.html",
     "open_new_window": false,
     "partner": null
   }
