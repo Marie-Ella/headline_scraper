@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259238,
+    "slug": "weerbericht-de-dag-begint-wisselvallig-maar-later-wordt-het-droog-en-zonnig",
+    "type": "article",
+    "title": "Weerbericht: De dag begint wisselvallig, maar later wordt het droog en zonnig",
+    "subtitle": null,
+    "published_at": "2023-04-13T05:58:02+02:00",
+    "updated_at": "2023-04-13T06:06:25+02:00",
+    "media_id": "b9ixjoraq0t8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259238/weerbericht-de-dag-begint-wisselvallig-maar-later-wordt-het-droog-en-zonnig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259166,
     "slug": "feyenoord-treft-cynischer-as-roma-maar-mourinho-bracht-ambitie-terug",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Fantasyserie Game of Thrones krijgt nog een spin-off",
     "subtitle": null,
     "published_at": "2023-04-12T23:42:50+02:00",
-    "updated_at": "2023-04-12T23:53:59+02:00",
+    "updated_at": "2023-04-13T06:18:10+02:00",
     "media_id": "38dx5bma2nor",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6259222/oekraiense-troepen-weren-russen-met-raketwerper-bij-bakhmut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259221,
-    "slug": "az-coach-jansen-ziet-afgezakt-anderlecht-makkelijk-meedraaien-in-eredivisie-top",
-    "type": "article",
-    "title": "AZ-coach Jansen ziet afgezakt Anderlecht makkelijk meedraaien in Eredivisie-top",
-    "subtitle": null,
-    "published_at": "2023-04-12T19:39:05+02:00",
-    "updated_at": "2023-04-12T19:52:16+02:00",
-    "media_id": "pppxrjca1937",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259221/az-coach-jansen-ziet-afgezakt-anderlecht-makkelijk-meedraaien-in-eredivisie-top.html",
     "open_new_window": false,
     "partner": null
   }
