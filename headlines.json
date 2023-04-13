@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259381,
+    "slug": "landingsbanen-vliegveld-in-florida-overstromen",
+    "type": "video",
+    "title": "Landingsbanen vliegveld in Florida overstromen",
+    "subtitle": "Video",
+    "published_at": "2023-04-13T19:15:17+02:00",
+    "updated_at": "2023-04-13T19:15:18+02:00",
+    "media_id": "n0bx2w9a1u80",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259381/landingsbanen-vliegveld-in-florida-overstromen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259380,
     "slug": "helene-hendriks-vanavond-niet-op-tv-vanwege-overlijden-vader",
     "type": "article",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6259364,
-    "slug": "roma-dringt-aan-tegen-feyenoord-dybala-valt-geblesseerd-uit",
+    "slug": "roma-krijgt-strafschop-tegen-feyenoord",
     "type": "article",
-    "title": "Roma dringt aan tegen Feyenoord, Dybala valt geblesseerd uit",
+    "title": "Roma krijgt strafschop tegen Feyenoord",
     "subtitle": "Liveblog",
     "published_at": "2023-04-13T17:28:07+02:00",
-    "updated_at": "2023-04-13T19:13:25+02:00",
+    "updated_at": "2023-04-13T19:27:25+02:00",
     "media_id": "2v3xs2uaimg2",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259364/roma-dringt-aan-tegen-feyenoord-dybala-valt-geblesseerd-uit.html",
+    "url": "/voetbal/6259364/roma-krijgt-strafschop-tegen-feyenoord.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6259348/koning-blijkt-voor-ajax-op-alle-vlakken-neutraal-behalve-bij-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259342,
-    "slug": "ierse-rallycoureur-breen-komt-om-bij-crash-in-kroatie",
-    "type": "article",
-    "title": "Ierse rallycoureur Breen komt om bij crash in Kroatië",
-    "subtitle": null,
-    "published_at": "2023-04-13T16:07:51+02:00",
-    "updated_at": "2023-04-13T16:40:57+02:00",
-    "media_id": "lyhx1m9afx7e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6259342/ierse-rallycoureur-breen-komt-om-bij-crash-in-kroatie.html",
     "open_new_window": false,
     "partner": null
   }
