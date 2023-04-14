@@ -1,12 +1,35 @@
 [
   {
-    "id": 6259410,
-    "slug": "politie-houdt-vishandelaren-aan-bij-grote-actie-om-ondermaatse-vis",
+    "id": 6259411,
+    "slug": "weerbericht-een-fris-begin-van-de-dag-maar-veel-zon-in-het-vooruitzicht",
     "type": "article",
-    "title": "Politie houdt vishandelaren aan bij grote actie om ondermaatse vis",
+    "title": "Weerbericht: Een fris begin van de dag, maar veel zon in het vooruitzicht",
+    "subtitle": null,
+    "published_at": "2023-04-14T06:08:32+02:00",
+    "updated_at": "2023-04-14T06:08:33+02:00",
+    "media_id": "cyfxfi7a0grn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259411/weerbericht-een-fris-begin-van-de-dag-maar-veel-zon-in-het-vooruitzicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259410,
+    "slug": "twee-arrestaties-vanwege-handel-in-ondermaatse-vis-in-vlissingen",
+    "type": "article",
+    "title": "Twee arrestaties vanwege handel in ondermaatse vis in Vlissingen",
     "subtitle": null,
     "published_at": "2023-04-14T05:45:34+02:00",
-    "updated_at": "2023-04-14T05:45:36+02:00",
+    "updated_at": "2023-04-14T06:15:28+02:00",
     "media_id": "o3nx4kzahsxh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6259410/politie-houdt-vishandelaren-aan-bij-grote-actie-om-ondermaatse-vis.html",
+    "url": "/binnenland/6259410/twee-arrestaties-vanwege-handel-in-ondermaatse-vis-in-vlissingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Op zoek naar eerherstel zorgen Feyenoord-fans nu wél voor 'geweldige sfeer'",
     "subtitle": null,
     "published_at": "2023-04-14T05:11:49+02:00",
-    "updated_at": "2023-04-14T05:48:05+02:00",
+    "updated_at": "2023-04-14T06:20:17+02:00",
     "media_id": "u40xicja81xt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259399/mourinho-zal-goed-slapen-ondanks-verlies-bij-feyenoord-jullie-huilden-maanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259295,
-    "slug": "vlissingen-stemt-met-krappe-meerderheid-voor-excuses-slavernijverleden",
-    "type": "article",
-    "title": "Vlissingen stemt met krappe meerderheid voor excuses slavernijverleden",
-    "subtitle": null,
-    "published_at": "2023-04-13T22:04:14+02:00",
-    "updated_at": "2023-04-13T23:15:09+02:00",
-    "media_id": "owexbrwaldc3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6259295/vlissingen-stemt-met-krappe-meerderheid-voor-excuses-slavernijverleden.html",
     "open_new_window": false,
     "partner": null
   }
