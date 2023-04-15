@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259640,
+    "slug": "parcours-gold-race-ook-voor-van-vleuten-langer-we-willen-haar-op-die-erelijst",
+    "type": "article",
+    "title": "Parcours Gold Race ook voor Van Vleuten langer: 'We willen haar op die erelijst'",
+    "subtitle": null,
+    "published_at": "2023-04-15T23:23:00+02:00",
+    "updated_at": "2023-04-15T23:23:02+02:00",
+    "media_id": "txdxv04aa8uq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6259640/parcours-gold-race-ook-voor-van-vleuten-langer-we-willen-haar-op-die-erelijst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259646,
+    "slug": "bekijk-eerste-optreden-van-songfestival-duo-mia-en-don-in-nederland",
+    "type": "video",
+    "title": "Bekijk eerste optreden van Songfestival-duo Mia en Don in Nederland",
+    "subtitle": "Video",
+    "published_at": "2023-04-15T23:15:51+02:00",
+    "updated_at": "2023-04-15T23:15:53+02:00",
+    "media_id": "5wwxt2zakla8",
+    "duration": "3:10",
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6259646/bekijk-eerste-optreden-van-songfestival-duo-mia-en-don-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259645,
     "slug": "psg-zet-dankzij-mbappe-en-messi-grote-stap-naar-titel-real-piekt-laat-in-cadiz",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259621/fc-barcelona-denkt-aan-het-milieu-en-reist-per-trein-naar-duel-in-madrid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259620,
-    "slug": "malen-in-bloedvorm-bij-dortmund-spits-voor-vierde-duel-op-rij-trefzeker",
-    "type": "video",
-    "title": "Malen in bloedvorm bij Dortmund: spits voor vierde duel op rij trefzeker",
-    "subtitle": "Video",
-    "published_at": "2023-04-15T16:37:42+02:00",
-    "updated_at": "2023-04-15T16:43:05+02:00",
-    "media_id": "gh8xrk7a4u0z",
-    "duration": "1:25",
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259620/malen-in-bloedvorm-bij-dortmund-spits-voor-vierde-duel-op-rij-trefzeker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259619,
-    "slug": "songfestival-duo-over-kritiek-nederlanders-zijn-hard-voor-ons",
-    "type": "video",
-    "title": "Songfestival-duo over kritiek: 'Nederlanders zijn hard voor ons'",
-    "subtitle": "Video",
-    "published_at": "2023-04-15T16:27:07+02:00",
-    "updated_at": "2023-04-15T18:25:25+02:00",
-    "media_id": "dsexd4la006b",
-    "duration": "2:15",
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259619/songfestival-duo-over-kritiek-nederlanders-zijn-hard-voor-ons.html",
     "open_new_window": false,
     "partner": null
   }
