@@ -1,12 +1,35 @@
 [
   {
+    "id": 6259425,
+    "slug": "nachtmerrie-in-de-vs-zombiedrugs-gevaar-voor-samenleving",
+    "type": "video",
+    "title": "Nachtmerrie in de VS: zombiedrugs gevaar voor samenleving",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-15T06:38:04+02:00",
+    "updated_at": "2023-04-15T06:39:31+02:00",
+    "media_id": "01txpaoajdeh",
+    "duration": "1:21",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6259425/nachtmerrie-in-de-vs-zombiedrugs-gevaar-voor-samenleving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259562,
     "slug": "weerbericht-afwisseling-van-zon-en-wolken-in-het-oosten-kans-op-een-bui",
     "type": "article",
     "title": "Weerbericht: Afwisseling van zon en wolken, in het oosten kans op een bui",
     "subtitle": null,
     "published_at": "2023-04-15T05:57:56+02:00",
-    "updated_at": "2023-04-15T06:25:14+02:00",
+    "updated_at": "2023-04-15T06:33:15+02:00",
     "media_id": "kmyxai4axy27",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259553/weer-voorwerpen-op-veld-bij-nac-willem-ii-duel-volgens-nieuwe-regels-gestaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259552,
-    "slug": "thai-spuiten-elkaar-drijfnat-tijdens-festival",
-    "type": "video",
-    "title": "Thai spuiten elkaar drijfnat tijdens festival",
-    "subtitle": "Video",
-    "published_at": "2023-04-14T21:53:29+02:00",
-    "updated_at": "2023-04-14T21:53:31+02:00",
-    "media_id": "kphx36oa9cz7",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259552/thai-spuiten-elkaar-drijfnat-tijdens-festival.html",
     "open_new_window": false,
     "partner": null
   }
