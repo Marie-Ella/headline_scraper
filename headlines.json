@@ -1,13 +1,82 @@
 [
   {
-    "id": 6259681,
-    "slug": "sanne-wevers-pakt-ek-goud-op-de-balk-bij-terugkeer-op-internationale-podium",
+    "id": 6259446,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
     "type": "article",
-    "title": "Sanne Wevers pakt EK-goud op de balk bij terugkeer op internationale podium",
+    "title": "Nieuw op Netflix: Deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2023-04-16T13:04:09+02:00",
+    "updated_at": "2023-04-16T13:04:10+02:00",
+    "media_id": "yj6x5tpasknv",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6259446/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259494,
+    "slug": "verplicht-verzekeren-voor-zzpers-nog-veel-haken-en-ogen-aan-het-plan",
+    "type": "article",
+    "title": "Verplicht verzekeren voor zzp'ers: 'Nog veel haken en ogen aan het plan'",
+    "subtitle": null,
+    "published_at": "2023-04-16T13:02:43+02:00",
+    "updated_at": "2023-04-16T13:02:44+02:00",
+    "media_id": "flyxhorawspv",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259494/verplicht-verzekeren-voor-zzpers-nog-veel-haken-en-ogen-aan-het-plan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259684,
+    "slug": "rusland-en-oekraine-ruilen-gevangenen-uit-ter-ere-van-orthodox-pasen",
+    "type": "article",
+    "title": "Rusland en Oekraïne ruilen gevangenen uit ter ere van Orthodox Pasen",
+    "subtitle": null,
+    "published_at": "2023-04-16T12:59:52+02:00",
+    "updated_at": "2023-04-16T12:59:54+02:00",
+    "media_id": "9guxbvha4zhm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6259684/rusland-en-oekraine-ruilen-gevangenen-uit-ter-ere-van-orthodox-pasen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259681,
+    "slug": "sanne-wevers-pakt-ek-goud-op-balk-bij-terugkeer-op-internationale-podium",
+    "type": "article",
+    "title": "Sanne Wevers pakt EK-goud op balk bij terugkeer op internationale podium",
     "subtitle": null,
     "published_at": "2023-04-16T12:45:47+02:00",
-    "updated_at": "2023-04-16T12:47:17+02:00",
-    "media_id": "o4gxe34ay0kh",
+    "updated_at": "2023-04-16T13:13:11+02:00",
+    "media_id": "6enxmg0aeikm",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -18,19 +87,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6259681/sanne-wevers-pakt-ek-goud-op-de-balk-bij-terugkeer-op-internationale-podium.html",
+    "url": "/sport-overig/6259681/sanne-wevers-pakt-ek-goud-op-balk-bij-terugkeer-op-internationale-podium.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6259682,
-    "slug": "nageeye-wegens-fysieke-klachten-blij-met-derde-plek-nooit-zoveel-gehoest",
+    "slug": "nageeye-wegens-fysieke-klachten-blij-met-derde-plek-nooit-zo-veel-gehoest",
     "type": "article",
-    "title": "Nageeye wegens fysieke klachten blij met derde plek : 'Nooit zoveel gehoest'",
+    "title": "Nageeye wegens fysieke klachten blij met derde plek : 'Nooit zo veel gehoest'",
     "subtitle": null,
     "published_at": "2023-04-16T12:41:57+02:00",
-    "updated_at": "2023-04-16T12:41:58+02:00",
-    "media_id": "llpx3mbat0rf",
+    "updated_at": "2023-04-16T13:10:43+02:00",
+    "media_id": "roqxwk9awu9h",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6259682/nageeye-wegens-fysieke-klachten-blij-met-derde-plek-nooit-zoveel-gehoest.html",
+    "url": "/sport-overig/6259682/nageeye-wegens-fysieke-klachten-blij-met-derde-plek-nooit-zo-veel-gehoest.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +190,7 @@
     "title": "Bashir Abdi wint voor tweede keer marathon Rotterdam, Abdi Nageeye derde",
     "subtitle": null,
     "published_at": "2023-04-16T12:08:32+02:00",
-    "updated_at": "2023-04-16T12:48:43+02:00",
+    "updated_at": "2023-04-16T13:07:53+02:00",
     "media_id": "qk2xyz8anvqx",
     "duration": null,
     "canonical_section": {
@@ -185,13 +254,13 @@
   },
   {
     "id": 6259674,
-    "slug": "blunderende-cillessen-bezorgt-vitesse-twee-goals",
+    "slug": "vitesse-halverwege-comfortabel-op-voorsprong-door-blunderende-cillessen",
     "type": "article",
-    "title": "Blunderende Cillessen bezorgt Vitesse twee goals",
+    "title": "Vitesse halverwege comfortabel op voorsprong door blunderende Cillessen",
     "subtitle": "Liveblog",
     "published_at": "2023-04-16T11:38:38+02:00",
-    "updated_at": "2023-04-16T12:46:03+02:00",
-    "media_id": "4ohxh5ea1tyl",
+    "updated_at": "2023-04-16T13:07:57+02:00",
+    "media_id": "gsdxszqa7log",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259674/blunderende-cillessen-bezorgt-vitesse-twee-goals.html",
+    "url": "/voetbal/6259674/vitesse-halverwege-comfortabel-op-voorsprong-door-blunderende-cillessen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,13 +369,13 @@
   },
   {
     "id": 6259663,
-    "slug": "vrouwenpeloton-rijdt-richting-zwaartepunt-van-de-amstel-gold-race",
+    "slug": "brand-en-stultiens-pakken-minuut-voorsprong-in-amstel-gold-race",
     "type": "article",
-    "title": "Vrouwenpeloton rijdt richting zwaartepunt van de Amstel Gold Race",
+    "title": "Brand en Stultiens pakken minuut voorsprong in Amstel Gold Race",
     "subtitle": "Liveblog",
     "published_at": "2023-04-16T10:01:13+02:00",
-    "updated_at": "2023-04-16T12:28:17+02:00",
-    "media_id": "cj3xmm0ayocn",
+    "updated_at": "2023-04-16T13:06:22+02:00",
+    "media_id": "ntbxyz6ago3d",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6259663/vrouwenpeloton-rijdt-richting-zwaartepunt-van-de-amstel-gold-race.html",
+    "url": "/wielrennen/6259663/brand-en-stultiens-pakken-minuut-voorsprong-in-amstel-gold-race.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259662/spurs-fans-fluiten-eigen-speler-sanchez-uit-dit-heb-ik-nog-nooit-meegemaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259510,
-    "slug": "alexander-klopping-zegt-dat-we-kapotgaan-leve-nunl",
-    "type": "article",
-    "title": "Alexander Klöpping zegt dat we kapotgaan, leve NU.nl",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-04-16T09:04:18+02:00",
-    "updated_at": "2023-04-16T10:20:02+02:00",
-    "media_id": "3gvx52waxj62",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6259510/alexander-klopping-zegt-dat-we-kapotgaan-leve-nunl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259651,
-    "slug": "zestien-doden-bij-brand-in-appartementencomplex-in-oude-centrum-van-dubai",
-    "type": "article",
-    "title": "Zestien doden bij brand in appartementencomplex in oude centrum van Dubai",
-    "subtitle": null,
-    "published_at": "2023-04-16T08:53:42+02:00",
-    "updated_at": "2023-04-16T08:56:59+02:00",
-    "media_id": "eoxx1huamyu2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259651/zestien-doden-bij-brand-in-appartementencomplex-in-oude-centrum-van-dubai.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259653,
-    "slug": "jozefzoon-kan-wel-lachen-om-gigantische-misser-sta-er-zelf-ook-van-te-kijken",
-    "type": "article",
-    "title": "Jozefzoon kan wel lachen om gigantische misser: 'Sta er zelf ook van te kijken'",
-    "subtitle": null,
-    "published_at": "2023-04-16T08:41:14+02:00",
-    "updated_at": "2023-04-16T11:04:55+02:00",
-    "media_id": "7rwxo3raejrz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259653/jozefzoon-kan-wel-lachen-om-gigantische-misser-sta-er-zelf-ook-van-te-kijken.html",
     "open_new_window": false,
     "partner": null
   }
