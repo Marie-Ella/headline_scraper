@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259650,
+    "slug": "weerbericht-de-dag-begint-grijs-in-de-middag-gaat-de-zon-schijnen",
+    "type": "article",
+    "title": "Weerbericht: De dag begint grijs, in de middag gaat de zon schijnen",
+    "subtitle": null,
+    "published_at": "2023-04-16T05:54:58+02:00",
+    "updated_at": "2023-04-16T06:16:09+02:00",
+    "media_id": "m1oxr0haf4cx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259650/weerbericht-de-dag-begint-grijs-in-de-middag-gaat-de-zon-schijnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259649,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -277,12 +300,12 @@
   },
   {
     "id": 6259642,
-    "slug": "zeker-drie-vn-stafmedewerkers-gedood-in-soedan-door-oplaaiend-geweld",
+    "slug": "zeker-25-doden-en-183-gewonden-bij-geweld-in-soedan-drie-vn-medewerkers-gedood",
     "type": "article",
-    "title": "Zeker drie VN-stafmedewerkers gedood in Soedan door oplaaiend geweld",
+    "title": "Zeker 25 doden en 183 gewonden bij geweld in Soedan, drie VN-medewerkers gedood",
     "subtitle": null,
     "published_at": "2023-04-15T22:14:40+02:00",
-    "updated_at": "2023-04-16T05:37:16+02:00",
+    "updated_at": "2023-04-16T06:02:19+02:00",
     "media_id": "lgbxmr6axbvr",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6259642/zeker-drie-vn-stafmedewerkers-gedood-in-soedan-door-oplaaiend-geweld.html",
+    "url": "/buitenland/6259642/zeker-25-doden-en-183-gewonden-bij-geweld-in-soedan-drie-vn-medewerkers-gedood.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259634/sensatie-haaland-evenaart-nu-al-pl-record-met-dubbelslag-tegen-leicester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259633,
-    "slug": "auto-staat-rechtovereind-in-sloot-na-ongeval-in-bunschoten-spakenburg",
-    "type": "video",
-    "title": "Auto staat rechtovereind in sloot na ongeval in Bunschoten-Spakenburg",
-    "subtitle": "Video",
-    "published_at": "2023-04-15T19:19:27+02:00",
-    "updated_at": "2023-04-15T19:19:29+02:00",
-    "media_id": "h63x9k0ayjy3",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259633/auto-staat-rechtovereind-in-sloot-na-ongeval-in-bunschoten-spakenburg.html",
     "open_new_window": false,
     "partner": null
   }
