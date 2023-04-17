@@ -1,12 +1,58 @@
 [
   {
-    "id": 6259841,
-    "slug": "knvb-verduidelijkt-regels-bal-hoort-op-veld-vreugdebier-niet",
+    "id": 6259847,
+    "slug": "de-strijd-in-soedan-dit-zeggen-de-luchtfotos-en-hier-gaat-het-om",
+    "type": "video",
+    "title": "De strijd in Soedan: dit zeggen de luchtfoto’s en hier gaat het om",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-17T17:46:34+02:00",
+    "updated_at": "2023-04-17T17:46:35+02:00",
+    "media_id": "3wcxuudavy0a",
+    "duration": "1:57",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259847/de-strijd-in-soedan-dit-zeggen-de-luchtfotos-en-hier-gaat-het-om.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259845,
+    "slug": "crimineel-contact-van-ridouan-taghi-aangehouden-in-de-dominicaanse-republiek",
     "type": "article",
-    "title": "KNVB verduidelijkt regels: bal hoort op veld, 'vreugdebier' niet",
+    "title": "Crimineel contact van Ridouan Taghi aangehouden in de Dominicaanse Republiek",
+    "subtitle": null,
+    "published_at": "2023-04-17T17:46:10+02:00",
+    "updated_at": "2023-04-17T17:46:12+02:00",
+    "media_id": "ppnxhb1agi7f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6259845/crimineel-contact-van-ridouan-taghi-aangehouden-in-de-dominicaanse-republiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259841,
+    "slug": "knvb-verduidelijkt-regels-bal-hoort-op-het-veld-vreugdebier-niet",
+    "type": "article",
+    "title": "KNVB verduidelijkt regels: bal hoort op het veld, 'vreugdebier' niet",
     "subtitle": null,
     "published_at": "2023-04-17T17:26:00+02:00",
-    "updated_at": "2023-04-17T17:28:37+02:00",
+    "updated_at": "2023-04-17T17:31:07+02:00",
     "media_id": "u6pxd7xadbxa",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259841/knvb-verduidelijkt-regels-bal-hoort-op-veld-vreugdebier-niet.html",
+    "url": "/voetbal/6259841/knvb-verduidelijkt-regels-bal-hoort-op-het-veld-vreugdebier-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6259805/aantal-passagiers-op-schiphol-ligt-nog-ruim-een-miljoen-achter-op-2019.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259806,
-    "slug": "twee-ton-cocaine-drijft-voor-de-kust-van-sicilie",
-    "type": "video",
-    "title": "Twee ton cocaïne drijft voor de kust van Sicilië",
-    "subtitle": "Video",
-    "published_at": "2023-04-17T13:58:12+02:00",
-    "updated_at": "2023-04-17T14:05:01+02:00",
-    "media_id": "t32xq8aa0e5g",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259806/twee-ton-cocaine-drijft-voor-de-kust-van-sicilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259804,
-    "slug": "ongehoord-nederland-krijgt-geen-extra-straf-voor-twee-omstreden-uitzendingen",
-    "type": "article",
-    "title": "Ongehoord Nederland krijgt geen extra straf voor twee omstreden uitzendingen",
-    "subtitle": null,
-    "published_at": "2023-04-17T13:54:20+02:00",
-    "updated_at": "2023-04-17T14:52:04+02:00",
-    "media_id": "rmkxu2daf7zi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259804/ongehoord-nederland-krijgt-geen-extra-straf-voor-twee-omstreden-uitzendingen.html",
     "open_new_window": false,
     "partner": null
   }
