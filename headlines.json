@@ -1,12 +1,58 @@
 [
   {
-    "id": 6259693,
-    "slug": "denkt-verstappen-aan-vroeg-pensioen-er-wordt-continu-aan-hem-getrokken",
+    "id": 6259746,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Denkt Verstappen aan vroeg pensioen? 'Er wordt continu aan hem getrokken'",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-17T05:25:20+02:00",
+    "updated_at": "2023-04-17T05:25:21+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6259746/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259745,
+    "slug": "weerbericht-zon-en-wolken-wisselen-elkaar-af",
+    "type": "article",
+    "title": "Weerbericht: Zon en wolken wisselen elkaar af",
+    "subtitle": null,
+    "published_at": "2023-04-17T05:23:22+02:00",
+    "updated_at": "2023-04-17T05:23:23+02:00",
+    "media_id": "gnzxd1oaskcb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259745/weerbericht-zon-en-wolken-wisselen-elkaar-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259693,
+    "slug": "denkt-verstappen-aan-vroeg-pensioen-wordt-continu-aan-hem-getrokken",
+    "type": "article",
+    "title": "Denkt Verstappen aan vroeg pensioen? 'Wordt continu aan hem getrokken'",
     "subtitle": "NU+",
     "published_at": "2023-04-17T05:12:19+02:00",
-    "updated_at": "2023-04-17T05:13:43+02:00",
+    "updated_at": "2023-04-17T05:26:59+02:00",
     "media_id": "n56xthla1pt3",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6259693/denkt-verstappen-aan-vroeg-pensioen-er-wordt-continu-aan-hem-getrokken.html",
+    "url": "/nu-formule-1/6259693/denkt-verstappen-aan-vroeg-pensioen-wordt-continu-aan-hem-getrokken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259733/alvarez-mist-topper-ajax-tegen-psv-door-tiende-gele-kaart-van-eredivisie-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259732,
-    "slug": "koersdirecteur-gold-race-na-ophef-over-hulp-aan-pogacar-hij-had-er-niets-aan",
-    "type": "article",
-    "title": "Koersdirecteur Gold Race na ophef over 'hulp' aan Pogacar: 'Hij had er niets aan'",
-    "subtitle": null,
-    "published_at": "2023-04-16T20:55:13+02:00",
-    "updated_at": "2023-04-16T21:07:35+02:00",
-    "media_id": "gecxqi3azu40",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6259732/koersdirecteur-gold-race-na-ophef-over-hulp-aan-pogacar-hij-had-er-niets-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259729,
-    "slug": "italiaanse-oud-premier-berlusconi-van-ic-af-nog-wel-in-ziekenhuis",
-    "type": "article",
-    "title": "Italiaanse oud-premier Berlusconi van ic af, nog wel in ziekenhuis",
-    "subtitle": null,
-    "published_at": "2023-04-16T20:54:02+02:00",
-    "updated_at": "2023-04-16T22:13:20+02:00",
-    "media_id": "db3xtgyaxhmx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259729/italiaanse-oud-premier-berlusconi-van-ic-af-nog-wel-in-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   }
