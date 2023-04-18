@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260008,
+    "slug": "zelensky-bezoekt-troepen-aan-frontlinie-in-oost-oekraine",
+    "type": "video",
+    "title": "Zelensky bezoekt troepen aan frontlinie in Oost-Oekraïne",
+    "subtitle": "Video",
+    "published_at": "2023-04-18T19:09:49+02:00",
+    "updated_at": "2023-04-18T19:09:50+02:00",
+    "media_id": "mmox162a7rcn",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260008/zelensky-bezoekt-troepen-aan-frontlinie-in-oost-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260003,
+    "slug": "nfl-speler-hamlin-mag-ruim-vier-maanden-na-hartstilstand-terugkeren-op-het-veld",
+    "type": "article",
+    "title": "NFL-speler Hamlin mag ruim vier maanden na hartstilstand terugkeren op het veld",
+    "subtitle": null,
+    "published_at": "2023-04-18T18:51:50+02:00",
+    "updated_at": "2023-04-18T18:51:51+02:00",
+    "media_id": "d9fxfkqaniwf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6260003/nfl-speler-hamlin-mag-ruim-vier-maanden-na-hartstilstand-terugkeren-op-het-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259983,
     "slug": "jullie-reacties-op-de-jeugdzorgonderhandelingen-dit-is-onbegrijpelijk",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Wapenstilstand van 24 uur in Soedan, zodat burgers kunnen vluchten",
     "subtitle": null,
     "published_at": "2023-04-18T17:28:11+02:00",
-    "updated_at": "2023-04-18T18:29:39+02:00",
+    "updated_at": "2023-04-18T18:59:22+02:00",
     "media_id": "yrgxnjdazjg8",
     "duration": null,
     "canonical_section": {
@@ -254,12 +300,12 @@
   },
   {
     "id": 6259926,
-    "slug": "gesprekken-over-landbouwakkoord-verlopen-nog-steeds-stroef-half-mei-meer-duidelijkheid",
+    "slug": "gesprekken-landbouwakkoord-verlopen-nog-stroef-half-mei-meer-duidelijkheid",
     "type": "article",
-    "title": "Gesprekken over Landbouwakkoord verlopen nog steeds stroef, half mei meer duidelijkheid",
+    "title": "Gesprekken Landbouwakkoord verlopen nog stroef, half mei meer duidelijkheid",
     "subtitle": null,
     "published_at": "2023-04-18T16:38:40+02:00",
-    "updated_at": "2023-04-18T17:44:24+02:00",
+    "updated_at": "2023-04-18T19:00:08+02:00",
     "media_id": "c1wx9b2aqv2x",
     "duration": null,
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stikstof/6259926/gesprekken-over-landbouwakkoord-verlopen-nog-steeds-stroef-half-mei-meer-duidelijkheid.html",
+    "url": "/stikstof/6259926/gesprekken-landbouwakkoord-verlopen-nog-stroef-half-mei-meer-duidelijkheid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259971/autos-in-china-worden-bedolven-door-reclameborden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259962,
-    "slug": "gedetineerde-amerikaanse-journalist-blijft-tot-eind-mei-in-rusland-in-voorarrest",
-    "type": "article",
-    "title": "Gedetineerde Amerikaanse journalist blijft tot eind mei in Rusland in voorarrest",
-    "subtitle": null,
-    "published_at": "2023-04-18T14:57:19+02:00",
-    "updated_at": "2023-04-18T17:37:07+02:00",
-    "media_id": "vi5xdxva5hgn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259962/gedetineerde-amerikaanse-journalist-blijft-tot-eind-mei-in-rusland-in-voorarrest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259917,
-    "slug": "beroep-ferrari-tegen-straf-sainz-afgewezen-uitslag-gp-australie-blijft-staan",
-    "type": "article",
-    "title": "Beroep Ferrari tegen straf Sainz afgewezen, uitslag GP Australië blijft staan",
-    "subtitle": null,
-    "published_at": "2023-04-18T14:15:45+02:00",
-    "updated_at": "2023-04-18T14:34:29+02:00",
-    "media_id": "qb4xp44atkhs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6259917/beroep-ferrari-tegen-straf-sainz-afgewezen-uitslag-gp-australie-blijft-staan.html",
     "open_new_window": false,
     "partner": null
   }
