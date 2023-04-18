@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260004,
+    "slug": "vrouw-veroorzaakt-liefst-drie-ongelukken-op-a12-en-wordt-daarna-zelf-aangereden",
+    "type": "article",
+    "title": "Vrouw veroorzaakt liefst drie ongelukken op A12 en wordt daarna zelf aangereden",
+    "subtitle": null,
+    "published_at": "2023-04-18T19:21:36+02:00",
+    "updated_at": "2023-04-18T19:21:38+02:00",
+    "media_id": "rl0x5vpaqjxw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260004/vrouw-veroorzaakt-liefst-drie-ongelukken-op-a12-en-wordt-daarna-zelf-aangereden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260008,
     "slug": "zelensky-bezoekt-troepen-aan-frontlinie-in-oost-oekraine",
     "type": "video",
@@ -162,12 +185,12 @@
   },
   {
     "id": 6259989,
-    "slug": "wapenstilstand-van-24-uur-in-soedan-zodat-burgers-kunnen-vluchten",
+    "slug": "wapenstilstand-in-soedan-direct-na-ingaan-al-geschonden-door-vurende-tanks",
     "type": "article",
-    "title": "Wapenstilstand van 24 uur in Soedan, zodat burgers kunnen vluchten",
+    "title": "Wapenstilstand in Soedan direct na ingaan al geschonden door vurende tanks",
     "subtitle": null,
     "published_at": "2023-04-18T17:28:11+02:00",
-    "updated_at": "2023-04-18T18:59:22+02:00",
+    "updated_at": "2023-04-18T19:24:30+02:00",
     "media_id": "yrgxnjdazjg8",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6259989/wapenstilstand-van-24-uur-in-soedan-zodat-burgers-kunnen-vluchten.html",
+    "url": "/buitenland/6259989/wapenstilstand-in-soedan-direct-na-ingaan-al-geschonden-door-vurende-tanks.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259970/dybala-traint-mee-bij-as-roma-en-lijkt-fit-voor-return-tegen-feyenoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259971,
-    "slug": "autos-in-china-worden-bedolven-door-reclameborden",
-    "type": "video",
-    "title": "Auto's in China worden bedolven door reclameborden",
-    "subtitle": "Video",
-    "published_at": "2023-04-18T15:48:56+02:00",
-    "updated_at": "2023-04-18T15:48:58+02:00",
-    "media_id": "43cxjdpap0x3",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259971/autos-in-china-worden-bedolven-door-reclameborden.html",
     "open_new_window": false,
     "partner": null
   }
