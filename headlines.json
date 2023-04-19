@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260160,
+    "slug": "giroud-verlengt-dag-na-hoofdrol-in-champions-league-aflopend-contract-bij-milan",
+    "type": "article",
+    "title": "Giroud verlengt dag na hoofdrol in Champions League aflopend contract bij Milan",
+    "subtitle": null,
+    "published_at": "2023-04-19T18:21:00+02:00",
+    "updated_at": "2023-04-19T18:21:02+02:00",
+    "media_id": "aboxj19ar2vw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260160/giroud-verlengt-dag-na-hoofdrol-in-champions-league-aflopend-contract-bij-milan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260156,
+    "slug": "israeliers-stoppen-op-snelweg-om-holocaust-te-herdenken",
+    "type": "video",
+    "title": "Israëliërs stoppen op snelweg om Holocaust te herdenken",
+    "subtitle": "Video",
+    "published_at": "2023-04-19T18:05:00+02:00",
+    "updated_at": "2023-04-19T18:05:02+02:00",
+    "media_id": "pk2x6pwav0bu",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260156/israeliers-stoppen-op-snelweg-om-holocaust-te-herdenken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260153,
     "slug": "microsoft-mag-definitief-een-nieuw-datacenter-bouwen-in-noord-holland",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6260149,
-    "slug": "nederland-waagt-zich-nog-niet-aan-evacuaties-uit-soedan-duitse-poging-mislukt",
+    "slug": "duitse-evacuatie-uit-soedan-mislukt-nederland-durft-het-nog-niet-aan",
     "type": "article",
-    "title": "Nederland waagt zich nog niet aan evacuaties uit Soedan, Duitse poging mislukt",
+    "title": "Duitse evacuatie uit Soedan mislukt, Nederland durft het nog niet aan",
     "subtitle": null,
     "published_at": "2023-04-19T17:23:20+02:00",
-    "updated_at": "2023-04-19T17:23:21+02:00",
+    "updated_at": "2023-04-19T18:09:15+02:00",
     "media_id": "q0axs8qavbit",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260149/nederland-waagt-zich-nog-niet-aan-evacuaties-uit-soedan-duitse-poging-mislukt.html",
+    "url": "/buitenland/6260149/duitse-evacuatie-uit-soedan-mislukt-nederland-durft-het-nog-niet-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Advies aan minister: onderzoek kans op vallende vliegtuigonderdelen Maastricht",
     "subtitle": null,
     "published_at": "2023-04-19T16:23:55+02:00",
-    "updated_at": "2023-04-19T16:23:57+02:00",
+    "updated_at": "2023-04-19T17:50:17+02:00",
     "media_id": "l45x2jpa3p0g",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6260123/geen-buitenbaan-maar-milanese-congreshal-is-schaatslocatie-tijdens-spelen-2026.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260130,
-    "slug": "pizzeria-in-bologna-serveert-pizza-van-krekelmeel",
-    "type": "video",
-    "title": "Pizzeria in Bologna serveert pizza van krekelmeel",
-    "subtitle": "Video",
-    "published_at": "2023-04-19T15:37:31+02:00",
-    "updated_at": "2023-04-19T15:37:33+02:00",
-    "media_id": "60ox4sfa5a2j",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260130/pizzeria-in-bologna-serveert-pizza-van-krekelmeel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260121,
-    "slug": "foo-fighters-brengen-in-juni-eerste-album-sinds-dood-drummer-taylor-hawkins-uit",
-    "type": "article",
-    "title": "Foo Fighters brengen in juni eerste album sinds dood drummer Taylor Hawkins uit",
-    "subtitle": null,
-    "published_at": "2023-04-19T15:28:10+02:00",
-    "updated_at": "2023-04-19T15:46:40+02:00",
-    "media_id": "50jx2una6gxd",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6260121/foo-fighters-brengen-in-juni-eerste-album-sinds-dood-drummer-taylor-hawkins-uit.html",
     "open_new_window": false,
     "partner": null
   }
