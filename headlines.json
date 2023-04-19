@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260020,
+    "slug": "met-deze-mijnentactiek-is-oekraine-de-russische-tanks-te-slim-af",
+    "type": "video",
+    "title": "Met deze mijnentactiek is Oekraïne de Russische tanks te slim af",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-19T06:31:41+02:00",
+    "updated_at": "2023-04-19T06:34:24+02:00",
+    "media_id": "2sixnqnasl2o",
+    "duration": "1:41",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6260020/met-deze-mijnentactiek-is-oekraine-de-russische-tanks-te-slim-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260037,
     "slug": "weerbericht-vanmiddag-wordt-het-flink-zonnig-met-wat-stapelwolken",
     "type": "article",
@@ -50,9 +73,9 @@
     "slug": "leuk-die-foto-van-je-kind-op-instagram-heb-je-daar-ook-toestemming-voor",
     "type": "article",
     "title": "Leuk, die foto van je kind op Instagram: heb je daar ook toestemming voor?",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-04-19T05:13:07+02:00",
-    "updated_at": "2023-04-19T06:07:10+02:00",
+    "updated_at": "2023-04-19T06:29:16+02:00",
     "media_id": "furx2ytaevf7",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Niet koekhappen, wel op watertaxi's: organisatie Koningsdag wil clichés vermijden",
     "subtitle": null,
     "published_at": "2023-04-19T05:11:47+02:00",
-    "updated_at": "2023-04-19T05:11:48+02:00",
+    "updated_at": "2023-04-19T06:30:13+02:00",
     "media_id": "e75xsbraj9ib",
     "duration": null,
     "canonical_section": {
@@ -282,19 +305,19 @@
     "title": "Fox News treft schikking en betaalt stemmachinefabrikant bijna 800 miljoen dollar",
     "subtitle": null,
     "published_at": "2023-04-18T22:50:17+02:00",
-    "updated_at": "2023-04-18T23:21:43+02:00",
+    "updated_at": "2023-04-19T06:24:55+02:00",
     "media_id": "tlcxx8tavv6l",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1771675,
+      "slug": "media",
       "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
+      "name": "Media",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260032/fox-news-treft-schikking-en-betaalt-stemmachinefabrikant-bijna-800-miljoen-dollar.html",
+    "url": "/media/6260032/fox-news-treft-schikking-en-betaalt-stemmachinefabrikant-bijna-800-miljoen-dollar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6260023/urn-uit-vroege-middeleeuwen-opgegraven-in-utrechts-dorp-amerongen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260010,
-    "slug": "ruim-14000-arrestaties-in-zuid-amerika-bij-grootste-antivuurwapenoperatie-ooit",
-    "type": "article",
-    "title": "Ruim 14.000 arrestaties in Zuid-Amerika bij grootste antivuurwapenoperatie ooit",
-    "subtitle": null,
-    "published_at": "2023-04-18T21:09:20+02:00",
-    "updated_at": "2023-04-18T21:09:22+02:00",
-    "media_id": "gyexyfra9b4u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260010/ruim-14000-arrestaties-in-zuid-amerika-bij-grootste-antivuurwapenoperatie-ooit.html",
     "open_new_window": false,
     "partner": null
   }
