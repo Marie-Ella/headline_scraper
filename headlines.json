@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260225,
+    "slug": "mysterieuze-flits-verlicht-hemel-boven-kyiv",
+    "type": "video",
+    "title": "Mysterieuze flits verlicht hemel boven Kyiv",
+    "subtitle": "Video",
+    "published_at": "2023-04-20T10:15:51+02:00",
+    "updated_at": "2023-04-20T10:15:52+02:00",
+    "media_id": "ud8xexuat8qu",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260225/mysterieuze-flits-verlicht-hemel-boven-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260215,
+    "slug": "nederland-en-denemarken-kopen-nog-eens-veertien-tanks-voor-oekraine",
+    "type": "article",
+    "title": "Nederland en Denemarken kopen nog eens veertien tanks voor Oekraïne",
+    "subtitle": null,
+    "published_at": "2023-04-20T10:02:43+02:00",
+    "updated_at": "2023-04-20T10:02:44+02:00",
+    "media_id": "4gjxc0padsy6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6260215/nederland-en-denemarken-kopen-nog-eens-veertien-tanks-voor-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260219,
     "slug": "drone-filmt-ooievaarsnest-op-heimachine-in-letland",
     "type": "video",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6260218,
-    "slug": "familie-michael-schumacher-wil-duits-weekblad-aanklagen-na-nepinterview",
+    "slug": "familie-michael-schumacher-wil-weekblad-aanklagen-na-nepinterview-met-ai",
     "type": "article",
-    "title": "Familie Michael Schumacher wil Duits weekblad aanklagen na nepinterview",
+    "title": "Familie Michael Schumacher wil weekblad aanklagen na nepinterview met AI",
     "subtitle": null,
     "published_at": "2023-04-20T09:41:44+02:00",
-    "updated_at": "2023-04-20T09:41:45+02:00",
+    "updated_at": "2023-04-20T10:09:56+02:00",
     "media_id": "m1rxrwhav9ik",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6260218/familie-michael-schumacher-wil-duits-weekblad-aanklagen-na-nepinterview.html",
+    "url": "/media/6260218/familie-michael-schumacher-wil-weekblad-aanklagen-na-nepinterview-met-ai.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6260195/tientallen-doden-door-stormloop-bij-uitdelen-van-geld-in-jemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260188,
-    "slug": "zo-recyclet-deze-unieke-slooprobot-iphones-op-milieubewuste-manier",
-    "type": "video",
-    "title": "Zo recyclet deze unieke 'slooprobot' iPhones op milieubewuste manier",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-20T06:35:11+02:00",
-    "updated_at": "2023-04-20T06:35:31+02:00",
-    "media_id": "m1uxxumazkbd",
-    "duration": "2:40",
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6260188/zo-recyclet-deze-unieke-slooprobot-iphones-op-milieubewuste-manier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260193,
-    "slug": "weerbericht-wolken-en-regen-maar-tussendoor-schijnt-de-zon",
-    "type": "article",
-    "title": "Weerbericht: Wolken en regen, maar tussendoor schijnt de zon",
-    "subtitle": null,
-    "published_at": "2023-04-20T06:01:20+02:00",
-    "updated_at": "2023-04-20T07:38:49+02:00",
-    "media_id": "rosxkb1a90ip",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260193/weerbericht-wolken-en-regen-maar-tussendoor-schijnt-de-zon.html",
     "open_new_window": false,
     "partner": null
   }
