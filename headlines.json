@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260219,
+    "slug": "drone-filmt-ooievaarsnest-op-heimachine-in-letland",
+    "type": "video",
+    "title": "Drone filmt ooievaarsnest op heimachine in Letland",
+    "subtitle": "Video",
+    "published_at": "2023-04-20T09:42:03+02:00",
+    "updated_at": "2023-04-20T09:42:05+02:00",
+    "media_id": "eyrxrt3aalxk",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260219/drone-filmt-ooievaarsnest-op-heimachine-in-letland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260218,
+    "slug": "familie-michael-schumacher-wil-duits-weekblad-aanklagen-na-nepinterview",
+    "type": "article",
+    "title": "Familie Michael Schumacher wil Duits weekblad aanklagen na nepinterview",
+    "subtitle": null,
+    "published_at": "2023-04-20T09:41:44+02:00",
+    "updated_at": "2023-04-20T09:41:45+02:00",
+    "media_id": "m1rxrwhav9ik",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6260218/familie-michael-schumacher-wil-duits-weekblad-aanklagen-na-nepinterview.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260208,
     "slug": "benfica-trainer-schmidt-begrijpt-de-var-niet-meer-ze-mogen-hem-afschaffen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260193/weerbericht-wolken-en-regen-maar-tussendoor-schijnt-de-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260192,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-04-20T05:45:26+02:00",
-    "updated_at": "2023-04-20T05:45:27+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6260192/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260191,
-    "slug": "eerste-treinen-rijden-weer-langs-station-voorschoten-na-ongeluk",
-    "type": "article",
-    "title": "Eerste treinen rijden weer langs station Voorschoten na ongeluk",
-    "subtitle": null,
-    "published_at": "2023-04-20T05:40:05+02:00",
-    "updated_at": "2023-04-20T07:16:27+02:00",
-    "media_id": "0jtxp01ahsby",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260191/eerste-treinen-rijden-weer-langs-station-voorschoten-na-ongeluk.html",
     "open_new_window": false,
     "partner": null
   }
