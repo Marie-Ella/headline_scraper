@@ -1,5 +1,97 @@
 [
   {
+    "id": 6260306,
+    "slug": "hoe-kan-het-dat-een-chatbot-onwenselijk-gedrag-vertoont",
+    "type": "video",
+    "title": "Hoe kan het dat een chatbot onwenselijk gedrag vertoont?",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-21T06:44:38+02:00",
+    "updated_at": "2023-04-21T06:44:39+02:00",
+    "media_id": "5wbxs4tagssd",
+    "duration": "2:07",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6260306/hoe-kan-het-dat-een-chatbot-onwenselijk-gedrag-vertoont.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260267,
+    "slug": "ouders-hebben-moeite-om-woonplek-te-vinden-voor-kind-met-ernstige-beperking",
+    "type": "article",
+    "title": "Ouders hebben moeite om woonplek te vinden voor kind met ernstige beperking",
+    "subtitle": null,
+    "published_at": "2023-04-21T06:44:21+02:00",
+    "updated_at": "2023-04-21T06:44:22+02:00",
+    "media_id": "qmqx9waax80s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260267/ouders-hebben-moeite-om-woonplek-te-vinden-voor-kind-met-ernstige-beperking.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260359,
+    "slug": "haagse-politicus-de-mos-hoort-vandaag-of-hij-de-cel-in-moet-wegens-corruptie",
+    "type": "article",
+    "title": "Haagse politicus De Mos hoort vandaag of hij de cel in moet wegens corruptie",
+    "subtitle": null,
+    "published_at": "2023-04-21T06:41:22+02:00",
+    "updated_at": "2023-04-21T06:41:23+02:00",
+    "media_id": "9ykxvpuaqp6p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260359/haagse-politicus-de-mos-hoort-vandaag-of-hij-de-cel-in-moet-wegens-corruptie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260353,
+    "slug": "meerdink-treedt-in-voetsporen-vader-hij-wil-beelden-van-toen-niet-terugzien",
+    "type": "article",
+    "title": "Meerdink treedt in voetsporen vader: 'Hij wil beelden van toen niet terugzien'",
+    "subtitle": null,
+    "published_at": "2023-04-21T06:37:44+02:00",
+    "updated_at": "2023-04-21T06:37:45+02:00",
+    "media_id": "y35xnija3ngy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260353/meerdink-treedt-in-voetsporen-vader-hij-wil-beelden-van-toen-niet-terugzien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259994,
     "slug": "is-sylvia-geersen-de-eerste-bekende-nederlander-die-de-liefde-vindt-via-tv",
     "type": "article",
@@ -190,7 +282,7 @@
     "title": "Mourinho zoekt Slot na winst nog even op: 'Vaker naar Roma kijken, niet naar City'",
     "subtitle": null,
     "published_at": "2023-04-21T01:04:26+02:00",
-    "updated_at": "2023-04-21T02:13:24+02:00",
+    "updated_at": "2023-04-21T06:42:17+02:00",
     "media_id": "gg2x5geabbqk",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260346/tweede-kamer-staat-achter-plan-voor-hervorming-van-persoonsbeveiliging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260345,
-    "slug": "az-dankt-penaltyheld-ryan-hij-weet-zelfs-waar-jeugdspelers-schieten",
-    "type": "article",
-    "title": "AZ dankt penaltyheld Ryan: 'Hij weet zelfs waar jeugdspelers schieten'",
-    "subtitle": null,
-    "published_at": "2023-04-20T23:20:24+02:00",
-    "updated_at": "2023-04-20T23:20:25+02:00",
-    "media_id": "d2qxufmaddkt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260345/az-dankt-penaltyheld-ryan-hij-weet-zelfs-waar-jeugdspelers-schieten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260337,
-    "slug": "jeugdhulpverlener-in-emmen-werd-doodgestoken-tijdens-zoektocht-naar-geld",
-    "type": "article",
-    "title": "Jeugdhulpverlener in Emmen werd doodgestoken tijdens zoektocht naar geld",
-    "subtitle": null,
-    "published_at": "2023-04-20T23:15:52+02:00",
-    "updated_at": "2023-04-20T23:17:52+02:00",
-    "media_id": "jzax0t4ax0b0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260337/jeugdhulpverlener-in-emmen-werd-doodgestoken-tijdens-zoektocht-naar-geld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260340,
-    "slug": "ten-hag-met-united-ten-onder-in-sevilla-nederlanders-scoren-voor-leverkusen",
-    "type": "article",
-    "title": "Ten Hag met United ten onder in Sevilla, Nederlanders scoren voor Leverkusen",
-    "subtitle": null,
-    "published_at": "2023-04-20T22:54:59+02:00",
-    "updated_at": "2023-04-20T23:42:00+02:00",
-    "media_id": "q6zxncca2fx6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260340/ten-hag-met-united-ten-onder-in-sevilla-nederlanders-scoren-voor-leverkusen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260339,
-    "slug": "william-en-kate-darten-tijdens-bezoek-aan-pub-in-birmingham",
-    "type": "video",
-    "title": "William en Kate darten tijdens bezoek aan pub in Birmingham",
-    "subtitle": "Video",
-    "published_at": "2023-04-20T22:47:37+02:00",
-    "updated_at": "2023-04-20T23:36:51+02:00",
-    "media_id": "dx6xgnca7vsf",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772801,
-      "slug": "entertainmentvideos",
-      "type": "default",
-      "name": "Entertainmentvideo's",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainmentvideos/6260339/william-en-kate-darten-tijdens-bezoek-aan-pub-in-birmingham.html",
     "open_new_window": false,
     "partner": null
   }
