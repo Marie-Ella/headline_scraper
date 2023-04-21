@@ -1,5 +1,74 @@
 [
   {
+    "id": 6260427,
+    "slug": "van-nistelrooij-niet-rouwig-om-absentie-alvarez-zijn-mentaliteit-is-top",
+    "type": "article",
+    "title": "Van Nistelrooij niet rouwig om absentie Álvarez: 'Zijn mentaliteit is top'",
+    "subtitle": null,
+    "published_at": "2023-04-21T13:25:26+02:00",
+    "updated_at": "2023-04-21T13:27:16+02:00",
+    "media_id": "cf0xep2a9xzl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260427/van-nistelrooij-niet-rouwig-om-absentie-alvarez-zijn-mentaliteit-is-top.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260426,
+    "slug": "de-mos-om-heeft-den-haag-35-jaar-lang-politiek-gegijzeld",
+    "type": "video",
+    "title": "De Mos: 'OM heeft Den Haag 3,5 jaar lang politiek gegijzeld'",
+    "subtitle": "Video",
+    "published_at": "2023-04-21T13:23:58+02:00",
+    "updated_at": "2023-04-21T13:23:59+02:00",
+    "media_id": "ea2xamqaqakm",
+    "duration": "1:29",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6260426/de-mos-om-heeft-den-haag-35-jaar-lang-politiek-gegijzeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260396,
+    "slug": "we-laten-ons-sinds-corona-vaker-testen-op-soas-vooral-meer-gonorroegevallen",
+    "type": "article",
+    "title": "We laten ons sinds corona vaker testen op soa's, vooral meer gonorroegevallen",
+    "subtitle": null,
+    "published_at": "2023-04-21T13:16:21+02:00",
+    "updated_at": "2023-04-21T13:16:23+02:00",
+    "media_id": "nhvxn36azwfo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260396/we-laten-ons-sinds-corona-vaker-testen-op-soas-vooral-meer-gonorroegevallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260421,
     "slug": "gestolen-auto-joshua-nolet-teruggevonden-dankzij-tip-via-sociale-media",
     "type": "article",
@@ -374,7 +443,7 @@
     "title": "Eerste dag van meivakantie verloopt dit keer wél soepel op Schiphol",
     "subtitle": null,
     "published_at": "2023-04-21T10:21:49+02:00",
-    "updated_at": "2023-04-21T10:34:41+02:00",
+    "updated_at": "2023-04-21T13:22:00+02:00",
     "media_id": "sx1xddra32i8",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6260397/eerste-dag-van-meivakantie-verloopt-dit-keer-wel-soepel-op-schiphol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260393,
-    "slug": "cocu-keert-na-twee-weken-terug-bij-vitesse-na-blindedarmontsteking",
-    "type": "article",
-    "title": "Cocu keert na twee weken terug bij Vitesse na blindedarmontsteking",
-    "subtitle": null,
-    "published_at": "2023-04-21T10:18:10+02:00",
-    "updated_at": "2023-04-21T10:40:29+02:00",
-    "media_id": "4s1x097aoch2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260393/cocu-keert-na-twee-weken-terug-bij-vitesse-na-blindedarmontsteking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260392,
-    "slug": "nieuwe-tarieven-schiphol-zijn-volgens-toezichthouder-niet-onredelijk",
-    "type": "article",
-    "title": "Nieuwe tarieven Schiphol zijn volgens toezichthouder niet onredelijk",
-    "subtitle": null,
-    "published_at": "2023-04-21T10:12:13+02:00",
-    "updated_at": "2023-04-21T11:43:33+02:00",
-    "media_id": "t4bx6o0ay6ti",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260392/nieuwe-tarieven-schiphol-zijn-volgens-toezichthouder-niet-onredelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260387,
-    "slug": "spurs-directeur-paratici-neemt-ontslag-omdat-schorsing-wegens-fraude-blijft-staan",
-    "type": "article",
-    "title": "Spurs-directeur Paratici neemt ontslag omdat schorsing wegens fraude blijft staan",
-    "subtitle": null,
-    "published_at": "2023-04-21T10:05:33+02:00",
-    "updated_at": "2023-04-21T10:17:37+02:00",
-    "media_id": "misx4lba3ez8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260387/spurs-directeur-paratici-neemt-ontslag-omdat-schorsing-wegens-fraude-blijft-staan.html",
     "open_new_window": false,
     "partner": null
   }
