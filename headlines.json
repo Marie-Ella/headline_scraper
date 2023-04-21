@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260397,
+    "slug": "eerste-dag-van-meivakantie-verloopt-dit-keer-wel-soepel-op-schiphol",
+    "type": "article",
+    "title": "Eerste dag van meivakantie verloopt dit keer wél soepel op Schiphol",
+    "subtitle": null,
+    "published_at": "2023-04-21T10:21:49+02:00",
+    "updated_at": "2023-04-21T10:21:50+02:00",
+    "media_id": "sx1xddra32i8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260397/eerste-dag-van-meivakantie-verloopt-dit-keer-wel-soepel-op-schiphol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260393,
     "slug": "cocu-keert-na-twee-weken-terug-bij-vitesse-na-blindedarmontsteking",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Aangepaste tarieven Schiphol zijn volgens toezichthouder niet onredelijk",
     "subtitle": null,
     "published_at": "2023-04-21T10:12:13+02:00",
-    "updated_at": "2023-04-21T10:17:00+02:00",
+    "updated_at": "2023-04-21T10:26:50+02:00",
     "media_id": "t4bx6o0ay6ti",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6260388,
-    "slug": "kijk-hier-live-naar-de-uitspraak-in-de-rechtszaak-tegen-richard-de-mos",
+    "slug": "kijk-hier-live-naar-uitspraak-in-rechtszaak-tegen-richard-de-mos",
     "type": "video",
-    "title": "Kijk hier live naar de uitspraak in de rechtszaak tegen Richard de Mos",
+    "title": "Kijk hier live naar uitspraak in rechtszaak tegen Richard de Mos",
     "subtitle": "Livestream",
     "published_at": "2023-04-21T09:58:03+02:00",
-    "updated_at": "2023-04-21T09:58:04+02:00",
+    "updated_at": "2023-04-21T10:21:05+02:00",
     "media_id": "en3xuegafk77",
     "duration": "0:01",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6260388/kijk-hier-live-naar-de-uitspraak-in-de-rechtszaak-tegen-richard-de-mos.html",
+    "url": "/algemeen/6260388/kijk-hier-live-naar-uitspraak-in-rechtszaak-tegen-richard-de-mos.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260267/ouders-hebben-moeite-om-woonplek-te-vinden-voor-kind-met-ernstige-beperking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260359,
-    "slug": "haagse-politicus-de-mos-hoort-vandaag-of-hij-de-cel-in-moet-wegens-corruptie",
-    "type": "article",
-    "title": "Haagse politicus De Mos hoort vandaag of hij de cel in moet wegens corruptie",
-    "subtitle": null,
-    "published_at": "2023-04-21T06:41:22+02:00",
-    "updated_at": "2023-04-21T07:39:39+02:00",
-    "media_id": "9ykxvpuaqp6p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260359/haagse-politicus-de-mos-hoort-vandaag-of-hij-de-cel-in-moet-wegens-corruptie.html",
     "open_new_window": false,
     "partner": null
   }
