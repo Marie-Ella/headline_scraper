@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260407,
+    "slug": "staat-moet-alsnog-ruim-800-miljoen-euro-betalen-aan-voormalige-sns-beleggers",
+    "type": "article",
+    "title": "Staat moet alsnog ruim 800 miljoen euro betalen aan voormalige SNS-beleggers",
+    "subtitle": null,
+    "published_at": "2023-04-21T11:08:40+02:00",
+    "updated_at": "2023-04-21T11:08:41+02:00",
+    "media_id": "6nyx1v5ar5g9",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260407/staat-moet-alsnog-ruim-800-miljoen-euro-betalen-aan-voormalige-sns-beleggers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260404,
+    "slug": "ontploffing-laat-spoor-van-vernieling-na-in-amsterdamse-flat",
+    "type": "video",
+    "title": "Ontploffing laat spoor van vernieling na in Amsterdamse flat",
+    "subtitle": "Video",
+    "published_at": "2023-04-21T10:56:02+02:00",
+    "updated_at": "2023-04-21T10:56:04+02:00",
+    "media_id": "k4rxy9oazj1u",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260404/ontploffing-laat-spoor-van-vernieling-na-in-amsterdamse-flat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260397,
     "slug": "eerste-dag-van-meivakantie-verloopt-dit-keer-wel-soepel-op-schiphol",
     "type": "article",
@@ -185,12 +231,12 @@
   },
   {
     "id": 6260371,
-    "slug": "rob-de-nijs-opgenomen-in-het-ziekenhuis",
+    "slug": "rob-de-nijs-in-zorgelijke-toestand-opgenomen-in-het-ziekenhuis",
     "type": "article",
-    "title": "Rob de Nijs opgenomen in het ziekenhuis",
+    "title": "Rob de Nijs in zorgelijke toestand opgenomen in het ziekenhuis",
     "subtitle": null,
     "published_at": "2023-04-21T08:53:00+02:00",
-    "updated_at": "2023-04-21T09:24:56+02:00",
+    "updated_at": "2023-04-21T11:11:45+02:00",
     "media_id": "ssgximnal5wv",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6260371/rob-de-nijs-opgenomen-in-het-ziekenhuis.html",
+    "url": "/muziek/6260371/rob-de-nijs-in-zorgelijke-toestand-opgenomen-in-het-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport/6260360/bekijk-de-knappe-zege-van-az-op-anderlecht-in-de-conference-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260306,
-    "slug": "hoe-kan-het-dat-een-chatbot-onwenselijk-gedrag-vertoont",
-    "type": "video",
-    "title": "Hoe kan het dat een chatbot onwenselijk gedrag vertoont?",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-21T06:44:38+02:00",
-    "updated_at": "2023-04-21T10:35:15+02:00",
-    "media_id": "5wbxs4tagssd",
-    "duration": "2:07",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6260306/hoe-kan-het-dat-een-chatbot-onwenselijk-gedrag-vertoont.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260267,
-    "slug": "ouders-hebben-moeite-om-woonplek-te-vinden-voor-kind-met-ernstige-beperking",
-    "type": "article",
-    "title": "Ouders hebben moeite om woonplek te vinden voor kind met ernstige beperking",
-    "subtitle": null,
-    "published_at": "2023-04-21T06:44:21+02:00",
-    "updated_at": "2023-04-21T07:36:14+02:00",
-    "media_id": "qmqx9waax80s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260267/ouders-hebben-moeite-om-woonplek-te-vinden-voor-kind-met-ernstige-beperking.html",
     "open_new_window": false,
     "partner": null
   }
