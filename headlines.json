@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260487,
+    "slug": "dit-is-het-positieve-en-vrolijke-nieuws-van-deze-week",
+    "type": "article",
+    "title": "Dit is het positieve en vrolijke nieuws van deze week",
+    "subtitle": "Overzicht",
+    "published_at": "2023-04-22T12:01:44+02:00",
+    "updated_at": "2023-04-22T12:01:45+02:00",
+    "media_id": "43txsfpalk58",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260487/dit-is-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260574,
     "slug": "brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2",
     "type": "video",
@@ -374,7 +397,7 @@
     "title": "Stelling: Van mij mag het nog wel even duren voordat temperaturen omhooggaan",
     "subtitle": null,
     "published_at": "2023-04-22T08:02:57+02:00",
-    "updated_at": "2023-04-22T08:02:59+02:00",
+    "updated_at": "2023-04-22T12:10:49+02:00",
     "media_id": "mokxfnaaps5w",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6260527/hoofdredacteur-duits-tijdschrift-ontslagen-na-nepinterview-michael-schumacher.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260525,
-    "slug": "hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar",
-    "type": "article",
-    "title": "Hooggerechtshof VS schort verbod op: abortuspil blijft beschikbaar",
-    "subtitle": null,
-    "published_at": "2023-04-22T07:20:35+02:00",
-    "updated_at": "2023-04-22T09:02:51+02:00",
-    "media_id": "epoxsbtawm6o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260525/hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar.html",
     "open_new_window": false,
     "partner": null
   }
