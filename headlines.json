@@ -1,12 +1,58 @@
 [
   {
-    "id": 6260606,
-    "slug": "duizenden-inwoners-keren-terug-naar-russische-stad-na-russisch-bombardement",
+    "id": 6260613,
+    "slug": "waarom-er-toch-een-druppeltje-alcohol-in-je-00-biertje-zit",
+    "type": "video",
+    "title": "Waarom er tóch een druppeltje alcohol in je 0.0 biertje zit",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-22T17:14:31+02:00",
+    "updated_at": "2023-04-22T17:14:48+02:00",
+    "media_id": "la5xpwnaibuf",
+    "duration": "2:03",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6260613/waarom-er-toch-een-druppeltje-alcohol-in-je-00-biertje-zit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260607,
+    "slug": "van-de-zandschulp-naar-tweede-atp-finale-uit-loopbaan-na-indrukwekkende-zege",
     "type": "article",
-    "title": "Duizenden inwoners keren terug naar Russische stad na Russisch bombardement",
+    "title": "Van de Zandschulp naar tweede ATP-finale uit loopbaan na indrukwekkende zege",
+    "subtitle": null,
+    "published_at": "2023-04-22T17:11:20+02:00",
+    "updated_at": "2023-04-22T17:15:09+02:00",
+    "media_id": "etkx0xkafhro",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6260607/van-de-zandschulp-naar-tweede-atp-finale-uit-loopbaan-na-indrukwekkende-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260606,
+    "slug": "duizenden-inwoners-terug-naar-huis-na-russisch-bombardement-op-eigen-stad",
+    "type": "article",
+    "title": "Duizenden inwoners terug naar huis na Russisch bombardement op eigen stad",
     "subtitle": null,
     "published_at": "2023-04-22T16:28:25+02:00",
-    "updated_at": "2023-04-22T16:38:10+02:00",
+    "updated_at": "2023-04-22T16:53:36+02:00",
     "media_id": "4nsxkpvaof0v",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6260606/duizenden-inwoners-keren-terug-naar-russische-stad-na-russisch-bombardement.html",
+    "url": "/spanningen-oekraine/6260606/duizenden-inwoners-terug-naar-huis-na-russisch-bombardement-op-eigen-stad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "Frenkie de Jong terug bij Barcelona, ook vijftienjarige aanvaller geselecteerd",
     "subtitle": null,
     "published_at": "2023-04-22T13:03:19+02:00",
-    "updated_at": "2023-04-22T14:09:50+02:00",
+    "updated_at": "2023-04-22T16:51:48+02:00",
     "media_id": "3tzxz9na3tlt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260487/positief-nieuws-sneeuwt-vaak-onder-maar-is-er-wel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260574,
-    "slug": "brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2",
-    "type": "video",
-    "title": "Brandende touringcar zorgt voor dikke rookwolken boven A2",
-    "subtitle": "Video",
-    "published_at": "2023-04-22T11:45:42+02:00",
-    "updated_at": "2023-04-22T13:12:08+02:00",
-    "media_id": "nllxizeapphh",
-    "duration": "0:14",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260574/brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260568,
-    "slug": "a2-weer-bijna-helemaal-open-nadat-touringcar-in-brand-was-gevlogen",
-    "type": "article",
-    "title": "A2 weer bijna helemaal open nadat touringcar in brand was gevlogen",
-    "subtitle": null,
-    "published_at": "2023-04-22T11:18:11+02:00",
-    "updated_at": "2023-04-22T12:43:04+02:00",
-    "media_id": "xgqxbksaajig",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260568/a2-weer-bijna-helemaal-open-nadat-touringcar-in-brand-was-gevlogen.html",
     "open_new_window": false,
     "partner": null
   }
