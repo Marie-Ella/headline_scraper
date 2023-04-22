@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260443,
+    "slug": "hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot",
+    "type": "video",
+    "title": "Hoe jij straks gaat betalen voor je CO2-uitstoot",
+    "subtitle": "Video",
+    "published_at": "2023-04-22T06:26:03+02:00",
+    "updated_at": "2023-04-22T06:27:53+02:00",
+    "media_id": "wunxasyay1d6",
+    "duration": "1:37",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6260443/hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260523,
     "slug": "weerbericht-het-wordt-een-zachte-dag-maar-wel-met-bewolking-en-regen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260509/fc-volendam-duwt-met-zege-in-kelderkraker-cambuur-naar-rand-van-de-afgrond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260508,
-    "slug": "slecht-weer-leidt-in-hele-land-tot-problemen-kamasutrabeurs-in-utrecht-afgelast",
-    "type": "article",
-    "title": "Slecht weer leidt in hele land tot problemen, Kamasutrabeurs in Utrecht afgelast",
-    "subtitle": null,
-    "published_at": "2023-04-21T21:52:39+02:00",
-    "updated_at": "2023-04-22T00:36:10+02:00",
-    "media_id": "uzwxckmavi6h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260508/slecht-weer-leidt-in-hele-land-tot-problemen-kamasutrabeurs-in-utrecht-afgelast.html",
     "open_new_window": false,
     "partner": null
   }
