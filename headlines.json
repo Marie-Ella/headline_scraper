@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260662,
+    "slug": "draak-in-disneyland-gaat-tijdens-show-in-vlammen-op",
+    "type": "video",
+    "title": "Draak in Disneyland gaat tijdens show in vlammen op",
+    "subtitle": "Video",
+    "published_at": "2023-04-23T11:37:30+02:00",
+    "updated_at": "2023-04-23T11:37:30+02:00",
+    "media_id": "q7xx24gaxcch",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6260662/draak-in-disneyland-gaat-tijdens-show-in-vlammen-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260660,
-    "slug": "situatie-zieke-rob-de-nijs-hoopvol-we-zijn-voorzichtig-positief",
+    "slug": "toestand-zieke-rob-de-nijs-biedt-hoop-we-zijn-voorzichtig-positief",
     "type": "article",
-    "title": "Situatie zieke Rob de Nijs 'hoopvol': 'We zijn voorzichtig positief'",
+    "title": "Toestand zieke Rob de Nijs biedt hoop: 'We zijn voorzichtig positief'",
     "subtitle": null,
     "published_at": "2023-04-23T11:19:59+02:00",
-    "updated_at": "2023-04-23T11:20:00+02:00",
+    "updated_at": "2023-04-23T11:32:27+02:00",
     "media_id": "r5dx40pa0yi3",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6260660/situatie-zieke-rob-de-nijs-hoopvol-we-zijn-voorzichtig-positief.html",
+    "url": "/muziek/6260660/toestand-zieke-rob-de-nijs-biedt-hoop-we-zijn-voorzichtig-positief.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Hollywoodsterren vieren historische promotie van hun club Wrexham",
     "subtitle": "In beeld",
     "published_at": "2023-04-23T10:50:07+02:00",
-    "updated_at": "2023-04-23T11:15:52+02:00",
+    "updated_at": "2023-04-23T11:35:30+02:00",
     "media_id": "5zmx0ewa41cq",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6260652,
-    "slug": "niewiadoma-verlaat-kopgroep-na-lekke-band-in-luik-bastenaken-luik",
+    "slug": "reusser-lost-spratt-en-rijdt-solo-op-kop-in-luik-bastenaken-luik",
     "type": "article",
-    "title": "Niewiadoma verlaat kopgroep na lekke band in Luik-Bastenaken-Luik",
+    "title": "Reusser lost Spratt en rijdt solo op kop in Luik-Bastenaken-Luik",
     "subtitle": "Liveblog",
     "published_at": "2023-04-23T09:52:07+02:00",
-    "updated_at": "2023-04-23T11:25:26+02:00",
+    "updated_at": "2023-04-23T11:37:15+02:00",
     "media_id": "sadx0gfaa8uh",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6260652/niewiadoma-verlaat-kopgroep-na-lekke-band-in-luik-bastenaken-luik.html",
+    "url": "/wielrennen/6260652/reusser-lost-spratt-en-rijdt-solo-op-kop-in-luik-bastenaken-luik.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260639/weerbericht-droge-en-zonnige-ochtend-later-op-de-dag-kans-op-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260640,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-04-23T05:20:16+02:00",
-    "updated_at": "2023-04-23T05:20:17+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6260640/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
