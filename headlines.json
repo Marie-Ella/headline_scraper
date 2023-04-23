@@ -1,35 +1,58 @@
 [
   {
-    "id": 6260650,
-    "slug": "ook-nederland-gaat-landgenoten-uit-soedan-evacueren",
+    "id": 6260652,
+    "slug": "vollering-en-pogacar-willen-bijzondere-trilogie-compleet-maken",
     "type": "article",
-    "title": "Ook Nederland gaat landgenoten uit Soedan evacueren",
+    "title": "Vollering en Pogacar willen bijzondere trilogie compleet maken",
+    "subtitle": "Liveblog",
+    "published_at": "2023-04-23T09:52:07+02:00",
+    "updated_at": "2023-04-23T10:04:22+02:00",
+    "media_id": "imdxfgfal7i3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6260652/vollering-en-pogacar-willen-bijzondere-trilogie-compleet-maken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260650,
+    "slug": "nederland-begint-met-evacuaties-uit-soedan-verplaatsing-niet-zonder-risicos",
+    "type": "article",
+    "title": "Nederland begint met evacuaties uit Soedan: 'Verplaatsing niet zonder risico's'",
     "subtitle": null,
     "published_at": "2023-04-23T09:40:04+02:00",
-    "updated_at": "2023-04-23T09:49:47+02:00",
+    "updated_at": "2023-04-23T10:17:06+02:00",
     "media_id": "0obx8onayys9",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771436,
+      "slug": "buitenland",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Buitenland",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6260650/ook-nederland-gaat-landgenoten-uit-soedan-evacueren.html",
+    "url": "/buitenland/6260650/nederland-begint-met-evacuaties-uit-soedan-verplaatsing-niet-zonder-risicos.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6260649,
-    "slug": "ryan-reynolds-sommeert-keeper-van-zijn-voetbalclub-om-shirt-af-te-staan",
+    "slug": "ryan-reynolds-eist-shirt-van-keeper-na-promotie-voetbalclub",
     "type": "video",
-    "title": "Ryan Reynolds sommeert keeper van zijn voetbalclub om shirt af te staan",
+    "title": "Ryan Reynolds eist shirt van keeper na promotie voetbalclub",
     "subtitle": "Video",
     "published_at": "2023-04-23T09:37:56+02:00",
-    "updated_at": "2023-04-23T09:37:57+02:00",
+    "updated_at": "2023-04-23T10:12:18+02:00",
     "media_id": "c8cxkaoa88b4",
     "duration": "1:05",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6260649/ryan-reynolds-sommeert-keeper-van-zijn-voetbalclub-om-shirt-af-te-staan.html",
+    "url": "/videos/6260649/ryan-reynolds-eist-shirt-van-keeper-na-promotie-voetbalclub.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260637/fc-groningen-directeur-gudde-heeft-begrip-voor-staking-regels-zijn-duidelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260636,
-    "slug": "belgische-douane-vernietigt-ruim-2000-amerikaanse-bierblikjes",
-    "type": "video",
-    "title": "Belgische douane vernietigt ruim 2.000 Amerikaanse bierblikjes",
-    "subtitle": "Video",
-    "published_at": "2023-04-22T21:48:44+02:00",
-    "updated_at": "2023-04-22T22:17:21+02:00",
-    "media_id": "64ox6msazief",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260636/belgische-douane-vernietigt-ruim-2000-amerikaanse-bierblikjes.html",
     "open_new_window": false,
     "partner": null
   }
