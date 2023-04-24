@@ -1,12 +1,35 @@
 [
   {
-    "id": 6260797,
-    "slug": "npo-vraagt-ministerie-om-de-vergunning-van-omroep-ongehoord-nederland-in-te-trekken",
+    "id": 6260798,
+    "slug": "lvmh-is-het-eerste-europese-bedrijf-met-beurswaarde-van-500-miljard-dollar",
     "type": "article",
-    "title": "NPO vraagt ministerie om de vergunning van omroep Ongehoord Nederland in te trekken",
+    "title": "LVMH is het eerste Europese bedrijf met beurswaarde van 500 miljard dollar",
+    "subtitle": null,
+    "published_at": "2023-04-24T13:38:35+02:00",
+    "updated_at": "2023-04-24T13:42:20+02:00",
+    "media_id": "p6axongauf4w",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260798/lvmh-is-het-eerste-europese-bedrijf-met-beurswaarde-van-500-miljard-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260797,
+    "slug": "npo-vraagt-ministerie-om-vergunning-van-omroep-ongehoord-nederland-in-te-trekken",
+    "type": "article",
+    "title": "NPO vraagt ministerie om vergunning van omroep Ongehoord Nederland in te trekken",
     "subtitle": null,
     "published_at": "2023-04-24T13:07:12+02:00",
-    "updated_at": "2023-04-24T13:28:27+02:00",
+    "updated_at": "2023-04-24T13:45:28+02:00",
     "media_id": "p3axcs9a1p9x",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6260797/npo-vraagt-ministerie-om-de-vergunning-van-omroep-ongehoord-nederland-in-te-trekken.html",
+    "url": "/media/6260797/npo-vraagt-ministerie-om-vergunning-van-omroep-ongehoord-nederland-in-te-trekken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "ING verhelpt storing op salarisdag: klanten kunnen weer geld overmaken",
     "subtitle": null,
     "published_at": "2023-04-24T10:49:48+02:00",
-    "updated_at": "2023-04-24T12:53:29+02:00",
+    "updated_at": "2023-04-24T13:38:20+02:00",
     "media_id": "bhox7raa8t8m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6260744/philips-legt-nog-eens-05-miljard-opzij-voor-schadeclaims-slaapapneuapparaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260743,
-    "slug": "eerste-nederlandse-toestel-met-evacues-uit-soedan-geland-in-jordanie",
-    "type": "article",
-    "title": "Eerste Nederlandse toestel met evacués uit Soedan geland in Jordanië",
-    "subtitle": null,
-    "published_at": "2023-04-24T07:54:20+02:00",
-    "updated_at": "2023-04-24T12:17:16+02:00",
-    "media_id": "kxzxj8tafbyj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260743/eerste-nederlandse-toestel-met-evacues-uit-soedan-geland-in-jordanie.html",
     "open_new_window": false,
     "partner": null
   }
