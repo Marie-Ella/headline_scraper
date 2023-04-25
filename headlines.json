@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261010,
+    "slug": "eerste-commerciele-landing-op-de-maan-zeer-waarschijnlijk-mislukt",
+    "type": "article",
+    "title": "Eerste commerciële landing op de maan zeer waarschijnlijk mislukt",
+    "subtitle": null,
+    "published_at": "2023-04-25T19:43:31+02:00",
+    "updated_at": "2023-04-25T19:43:32+02:00",
+    "media_id": "ee5xni7aycmx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6261010/eerste-commerciele-landing-op-de-maan-zeer-waarschijnlijk-mislukt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261004,
     "slug": "nutri-score-moet-je-gezond-laten-kiezen-in-supermarkt-ook-tussen-pizzas",
     "type": "article",
     "title": "Nutri-Score moet je gezond laten kiezen in supermarkt, ook tussen pizza's",
     "subtitle": null,
     "published_at": "2023-04-25T19:05:23+02:00",
-    "updated_at": "2023-04-25T19:09:26+02:00",
+    "updated_at": "2023-04-25T19:48:23+02:00",
     "media_id": "tg9xno5agmy3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260981/groningen-ontevreden-met-kabinetscompensatie-ereschuld-is-niet-ingelost.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260986,
-    "slug": "degradatie-nabij-voor-fc-groningen-na-verlies-tegen-nec-in-restant-gestaakt-duel",
-    "type": "article",
-    "title": "Degradatie nabij voor FC Groningen na verlies tegen NEC in restant gestaakt duel",
-    "subtitle": null,
-    "published_at": "2023-04-25T16:33:11+02:00",
-    "updated_at": "2023-04-25T17:28:15+02:00",
-    "media_id": "agaxg54akprk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260986/degradatie-nabij-voor-fc-groningen-na-verlies-tegen-nec-in-restant-gestaakt-duel.html",
     "open_new_window": false,
     "partner": null
   }
