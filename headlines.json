@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261020,
+    "slug": "otter-ramt-telefoon-van-bezoeker-tegen-rotsen-in-portugese-dierentuin",
+    "type": "video",
+    "title": "Otter ramt telefoon van bezoeker tegen rotsen in Portugese dierentuin",
+    "subtitle": "Video",
+    "published_at": "2023-04-25T22:21:21+02:00",
+    "updated_at": "2023-04-25T22:21:23+02:00",
+    "media_id": "do8xi6tad03g",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261020/otter-ramt-telefoon-van-bezoeker-tegen-rotsen-in-portugese-dierentuin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261017,
     "slug": "spierwitte-kangoeroe-die-ontsnapte-bij-ede-en-zich-niet-liet-vangen-is-doodgereden",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6261015,
-    "slug": "vliegtuig-uit-soedan-landt-in-eindhoven-een-evacue-heeft-schotwond",
+    "slug": "vliegtuig-met-evacues-uit-soedan-landt-in-eindhoven-een-persoon-met-schotwond",
     "type": "article",
-    "title": "Vliegtuig uit Soedan landt in Eindhoven, een evacué heeft schotwond",
+    "title": "Vliegtuig met evacués uit Soedan landt in Eindhoven, één persoon met schotwond",
     "subtitle": null,
     "published_at": "2023-04-25T21:58:15+02:00",
-    "updated_at": "2023-04-25T22:05:52+02:00",
+    "updated_at": "2023-04-25T22:29:27+02:00",
     "media_id": "lvtxh3xa27xc",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261015/vliegtuig-uit-soedan-landt-in-eindhoven-een-evacue-heeft-schotwond.html",
+    "url": "/buitenland/6261015/vliegtuig-met-evacues-uit-soedan-landt-in-eindhoven-een-persoon-met-schotwond.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "GP Azerbeidzjan definitief eerste sprintraceweekend met twee kwalificaties",
     "subtitle": null,
     "published_at": "2023-04-25T17:49:56+02:00",
-    "updated_at": "2023-04-25T18:47:17+02:00",
+    "updated_at": "2023-04-25T22:29:01+02:00",
     "media_id": "6v3xyvma76dk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6260970/ruud-de-wild-heeft-moeite-zichzelf-terug-te-vinden-na-ziekte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260995,
-    "slug": "spaanse-bmxer-showt-trucs-tussen-nederlandse-tulpen",
-    "type": "video",
-    "title": "Spaanse BMX’er showt trucs tussen Nederlandse tulpen",
-    "subtitle": "Video",
-    "published_at": "2023-04-25T17:16:00+02:00",
-    "updated_at": "2023-04-25T17:16:01+02:00",
-    "media_id": "e50x2tua5xyx",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260995/spaanse-bmxer-showt-trucs-tussen-nederlandse-tulpen.html",
     "open_new_window": false,
     "partner": null
   }
