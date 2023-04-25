@@ -1,12 +1,58 @@
 [
   {
+    "id": 6260934,
+    "slug": "shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year",
+    "type": "article",
+    "title": "Shakira door Billboard uitgeroepen tot eerste Latin Woman of the Year",
+    "subtitle": null,
+    "published_at": "2023-04-25T12:41:36+02:00",
+    "updated_at": "2023-04-25T12:41:37+02:00",
+    "media_id": "srfxsbua95ni",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6260934/shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260929,
+    "slug": "ziekteverzuim-in-de-zorg-daalt-eindelijk-weer",
+    "type": "article",
+    "title": "Ziekteverzuim in de zorg daalt (eindelijk) weer",
+    "subtitle": null,
+    "published_at": "2023-04-25T12:35:14+02:00",
+    "updated_at": "2023-04-25T12:35:15+02:00",
+    "media_id": "w62xc2qae694",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260929/ziekteverzuim-in-de-zorg-daalt-eindelijk-weer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260930,
     "slug": "randstad-pakt-tekorten-kinderopvang-aan-32000-nieuwe-mensen-in-2025",
     "type": "article",
     "title": "Randstad pakt tekorten kinderopvang aan: 32.000 nieuwe mensen in 2025",
     "subtitle": null,
     "published_at": "2023-04-25T12:13:56+02:00",
-    "updated_at": "2023-04-25T12:13:57+02:00",
+    "updated_at": "2023-04-25T12:36:07+02:00",
     "media_id": "rp1xj6iagxr6",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Joe Biden gaat definitief voor tweede termijn als Amerikaanse president",
     "subtitle": null,
     "published_at": "2023-04-25T12:03:25+02:00",
-    "updated_at": "2023-04-25T12:11:12+02:00",
+    "updated_at": "2023-04-25T12:45:39+02:00",
     "media_id": "pavx32aakvn6",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Nederlands iDEAL moet het Europese antwoord op creditcard worden",
     "subtitle": null,
     "published_at": "2023-04-25T10:26:34+02:00",
-    "updated_at": "2023-04-25T12:04:02+02:00",
+    "updated_at": "2023-04-25T12:48:06+02:00",
     "media_id": "r24xqe5au96c",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260894/meerdink-dankzij-privejet-uitblinker-in-youth-league-finale-hectische-24-uur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260893,
-    "slug": "koningsdag-wordt-kouder-dan-nieuwjaarsdag",
-    "type": "article",
-    "title": "Koningsdag wordt kouder dan Nieuwjaarsdag",
-    "subtitle": null,
-    "published_at": "2023-04-25T08:25:28+02:00",
-    "updated_at": "2023-04-25T08:25:30+02:00",
-    "media_id": "5f1xrzgafyhx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260893/koningsdag-wordt-kouder-dan-nieuwjaarsdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260891,
-    "slug": "politie-onderzoekt-portiek-na-tweede-explosie-in-rotterdamse-straat",
-    "type": "video",
-    "title": "Politie onderzoekt portiek na tweede explosie in Rotterdamse straat",
-    "subtitle": "Video",
-    "published_at": "2023-04-25T08:05:46+02:00",
-    "updated_at": "2023-04-25T08:21:04+02:00",
-    "media_id": "fk1xgtkai3o1",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260891/politie-onderzoekt-portiek-na-tweede-explosie-in-rotterdamse-straat.html",
     "open_new_window": false,
     "partner": null
   }
