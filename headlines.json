@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260893,
+    "slug": "koningsdag-wordt-kouder-dan-nieuwjaarsdag",
+    "type": "article",
+    "title": "Koningsdag wordt kouder dan Nieuwjaarsdag",
+    "subtitle": null,
+    "published_at": "2023-04-25T08:25:28+02:00",
+    "updated_at": "2023-04-25T08:25:30+02:00",
+    "media_id": "5f1xrzgafyhx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260893/koningsdag-wordt-kouder-dan-nieuwjaarsdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260891,
     "slug": "politie-onderzoekt-portiek-na-tweede-explosie-in-rotterdamse-straat",
     "type": "video",
     "title": "Politie onderzoekt portiek na tweede explosie in Rotterdamse straat",
     "subtitle": "Video",
     "published_at": "2023-04-25T08:05:46+02:00",
-    "updated_at": "2023-04-25T08:05:47+02:00",
+    "updated_at": "2023-04-25T08:21:04+02:00",
     "media_id": "fk1xgtkai3o1",
     "duration": "0:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6260868/apen-kunnen-voor-en-nadelen-afwegen-bij-het-nemen-van-moeilijke-beslissingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260873,
-    "slug": "agenten-vangen-alligator-met-lasso-in-amerikaanse-woonwijk",
-    "type": "video",
-    "title": "Agenten vangen alligator met lasso in Amerikaanse woonwijk",
-    "subtitle": "Video",
-    "published_at": "2023-04-24T22:13:01+02:00",
-    "updated_at": "2023-04-24T22:13:02+02:00",
-    "media_id": "1ovxjfkamokl",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260873/agenten-vangen-alligator-met-lasso-in-amerikaanse-woonwijk.html",
     "open_new_window": false,
     "partner": null
   }
