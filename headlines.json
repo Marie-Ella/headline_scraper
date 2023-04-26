@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261026,
+    "slug": "weerbericht-aanloop-koningsdag-als-een-slechte-tompouce-droog-en-te-koud",
+    "type": "article",
+    "title": "Weerbericht: Aanloop Koningsdag als een slechte tompouce: droog en (te) koud",
+    "subtitle": null,
+    "published_at": "2023-04-26T05:58:19+02:00",
+    "updated_at": "2023-04-26T06:16:35+02:00",
+    "media_id": "xzmx26eandy4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261026/weerbericht-aanloop-koningsdag-als-een-slechte-tompouce-droog-en-te-koud.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261025,
     "slug": "japans-bedrijf-bevestigt-dat-eerste-commerciele-landing-op-de-maan-is-mislukt",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Er komen steeds minder Oekraïense vluchtelingen naar Nederland",
     "subtitle": null,
     "published_at": "2023-04-26T00:09:01+02:00",
-    "updated_at": "2023-04-26T00:09:02+02:00",
+    "updated_at": "2023-04-26T06:18:56+02:00",
     "media_id": "a27xxd4ajzwh",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Vliegtuig met evacués uit Soedan in Eindhoven, één Nederlander met schotwond",
     "subtitle": null,
     "published_at": "2023-04-25T21:58:15+02:00",
-    "updated_at": "2023-04-26T05:21:40+02:00",
+    "updated_at": "2023-04-26T06:12:50+02:00",
     "media_id": "lvtxh3xa27xc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6261010/eerste-commerciele-landing-op-de-maan-zeer-waarschijnlijk-mislukt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261004,
-    "slug": "nutri-score-moet-je-gezond-laten-kiezen-in-supermarkt-ook-tussen-pizzas",
-    "type": "article",
-    "title": "Nutri-Score moet je gezond laten kiezen in supermarkt, ook tussen pizza's",
-    "subtitle": null,
-    "published_at": "2023-04-25T19:05:23+02:00",
-    "updated_at": "2023-04-25T19:52:12+02:00",
-    "media_id": "tg9xno5agmy3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261004/nutri-score-moet-je-gezond-laten-kiezen-in-supermarkt-ook-tussen-pizzas.html",
     "open_new_window": false,
     "partner": null
   }
