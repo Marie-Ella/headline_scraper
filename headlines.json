@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261245,
+    "slug": "zuipen-feesten-gamen-en-stunten-belg-brecel-zet-snookerwereld-op-zijn-kop",
+    "type": "article",
+    "title": "Zuipen, feesten, gamen én stunten: Belg Brecel zet snookerwereld op zijn kop",
+    "subtitle": null,
+    "published_at": "2023-04-27T11:27:32+02:00",
+    "updated_at": "2023-04-27T11:33:14+02:00",
+    "media_id": "ja9xo5jaimsp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6261245/zuipen-feesten-gamen-en-stunten-belg-brecel-zet-snookerwereld-op-zijn-kop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261241,
     "slug": "vattenfall-verliest-klanten-in-nederland-maar-ziet-winst-stijgen",
     "type": "article",
     "title": "Vattenfall verliest klanten in Nederland, maar ziet winst stijgen",
     "subtitle": null,
     "published_at": "2023-04-27T11:26:07+02:00",
-    "updated_at": "2023-04-27T11:26:07+02:00",
+    "updated_at": "2023-04-27T11:40:09+02:00",
     "media_id": "cvhx2pma9uzh",
     "duration": null,
     "canonical_section": {
@@ -31,7 +54,7 @@
     "published_at": "2023-04-27T11:17:50+02:00",
     "updated_at": "2023-04-27T11:17:52+02:00",
     "media_id": "r70xqc2am1bq",
-    "duration": "0:44",
+    "duration": "1:02",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -98,7 +121,7 @@
     "title": "Tussen Zwolle en Deventer rijden tot 14.15 uur geen treinen",
     "subtitle": null,
     "published_at": "2023-04-27T11:01:45+02:00",
-    "updated_at": "2023-04-27T11:24:24+02:00",
+    "updated_at": "2023-04-27T11:32:40+02:00",
     "media_id": "0c3xezna9wky",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Dit dragen Máxima, Amalia, Ariane en Willem-Alexander op Koningsdag",
     "subtitle": null,
     "published_at": "2023-04-27T10:44:00+02:00",
-    "updated_at": "2023-04-27T11:24:56+02:00",
+    "updated_at": "2023-04-27T11:32:41+02:00",
     "media_id": "08uxhw1a0yzh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningsdag/6261216/feestelijke-koningsnacht-zonder-grote-incidenten-meerdere-locaties-snel-vol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261213,
-    "slug": "volop-feest-in-meerdere-steden-op-koningsnacht",
-    "type": "video",
-    "title": "Volop feest in meerdere steden op Koningsnacht",
-    "subtitle": "Video",
-    "published_at": "2023-04-27T07:20:50+02:00",
-    "updated_at": "2023-04-27T07:20:51+02:00",
-    "media_id": "5uoxccjauhug",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261213/volop-feest-in-meerdere-steden-op-koningsnacht.html",
     "open_new_window": false,
     "partner": null
   }
