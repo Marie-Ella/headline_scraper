@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261290,
+    "slug": "steeds-drukker-in-onder-meer-amsterdam-gemeentes-vragen-mensen-weg-te-blijven",
+    "type": "article",
+    "title": "Steeds drukker in onder meer Amsterdam, gemeentes vragen mensen weg te blijven",
+    "subtitle": null,
+    "published_at": "2023-04-27T17:09:09+02:00",
+    "updated_at": "2023-04-27T17:09:11+02:00",
+    "media_id": "ovzxvuhalubr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261290/steeds-drukker-in-onder-meer-amsterdam-gemeentes-vragen-mensen-weg-te-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261287,
     "slug": "clubicoon-reus-33-verlengt-contract-en-gaat-twaalfde-seizoen-bij-dortmund-in",
     "type": "article",
@@ -27,33 +50,33 @@
     "slug": "hagelstenen-als-honkballen-teisteren-delen-vs",
     "type": "video",
     "title": "Hagelstenen als honkballen teisteren delen VS",
-    "subtitle": null,
+    "subtitle": "Video",
     "published_at": "2023-04-27T16:31:02+02:00",
-    "updated_at": "2023-04-27T16:40:41+02:00",
+    "updated_at": "2023-04-27T16:53:14+02:00",
     "media_id": "z8bxtw8avezc",
     "duration": "0:33",
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1772431,
+      "slug": "videos",
       "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
+      "name": "Video's",
+      "style": null,
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261286/hagelstenen-als-honkballen-teisteren-delen-vs.html",
+    "url": "/videos/6261286/hagelstenen-als-honkballen-teisteren-delen-vs.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6261285,
-    "slug": "talkshowpresentator-jerry-springer-op-79-jarige-leeftijd-overleden",
+    "slug": "voormalig-talkshowpresentator-jerry-springer-op-79-jarige-leeftijd-overleden",
     "type": "article",
-    "title": "Talkshowpresentator Jerry Springer op 79-jarige leeftijd overleden",
+    "title": "Voormalig talkshowpresentator Jerry Springer op 79-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-04-27T16:20:14+02:00",
-    "updated_at": "2023-04-27T16:46:28+02:00",
-    "media_id": "6e7xcoxatpjq",
+    "updated_at": "2023-04-27T17:14:46+02:00",
+    "media_id": "b98xrlwaamz8",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6261285/talkshowpresentator-jerry-springer-op-79-jarige-leeftijd-overleden.html",
+    "url": "/media/6261285/voormalig-talkshowpresentator-jerry-springer-op-79-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261258/koning-gooit-mis-amalia-krijgt-basketbal-wel-door-het-net.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261257,
-    "slug": "team-dsm-neemt-met-tusveld-een-nederlander-mee-naar-giro-ditalia",
-    "type": "article",
-    "title": "Team DSM neemt met Tusveld één Nederlander mee naar Giro d'Italia",
-    "subtitle": null,
-    "published_at": "2023-04-27T13:04:25+02:00",
-    "updated_at": "2023-04-27T13:10:25+02:00",
-    "media_id": "r7ex3m3a3b7n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6261257/team-dsm-neemt-met-tusveld-een-nederlander-mee-naar-giro-ditalia.html",
     "open_new_window": false,
     "partner": null
   }
