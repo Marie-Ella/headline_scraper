@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261487,
+    "slug": "qatarese-sjeik-brengt-nieuw-miljardenbod-uit-op-manchester-united",
+    "type": "article",
+    "title": "Qatarese sjeik brengt nieuw miljardenbod uit op Manchester United",
+    "subtitle": null,
+    "published_at": "2023-04-29T08:45:17+02:00",
+    "updated_at": "2023-04-29T08:46:46+02:00",
+    "media_id": "0aux4sja0qpy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6261487/qatarese-sjeik-brengt-nieuw-miljardenbod-uit-op-manchester-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261484,
-    "slug": "grote-rookwolken-boven-de-krim-na-inslag-russische-drone",
+    "slug": "grote-rookwolken-boven-de-krim-na-inslag-drone",
     "type": "video",
-    "title": "Grote rookwolken boven de Krim na inslag Russische drone",
+    "title": "Grote rookwolken boven de Krim na inslag drone",
     "subtitle": "Video",
     "published_at": "2023-04-29T08:17:28+02:00",
-    "updated_at": "2023-04-29T08:17:30+02:00",
+    "updated_at": "2023-04-29T08:33:26+02:00",
     "media_id": "h44x1z8alk68",
     "duration": "0:44",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6261484/grote-rookwolken-boven-de-krim-na-inslag-russische-drone.html",
+    "url": "/videos/6261484/grote-rookwolken-boven-de-krim-na-inslag-drone.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Het doelpuntrijke seizoen van promovendus Heracles",
     "subtitle": "In beeld",
     "published_at": "2023-04-29T00:47:10+02:00",
-    "updated_at": "2023-04-29T01:35:31+02:00",
+    "updated_at": "2023-04-29T08:35:12+02:00",
     "media_id": "fbjxj6dahjpd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6261461/pec-zwolle-doet-goede-zaken-in-titelrace-mvv-moet-feestje-uitstellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261468,
-    "slug": "dode-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen",
-    "type": "article",
-    "title": "Dode Keniaanse sekteleden die zichzelf uithongerden zijn vooral kinderen",
-    "subtitle": null,
-    "published_at": "2023-04-28T22:00:36+02:00",
-    "updated_at": "2023-04-28T22:11:20+02:00",
-    "media_id": "mlxx8r2arty0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6261468/dode-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen.html",
     "open_new_window": false,
     "partner": null
   }
