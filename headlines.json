@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261605,
+    "slug": "drone-filmt-friese-velden-vol-bloeiende-tulpen",
+    "type": "video",
+    "title": "Drone filmt Friese velden vol bloeiende tulpen",
+    "subtitle": "Video",
+    "published_at": "2023-04-30T11:27:07+02:00",
+    "updated_at": "2023-04-30T11:27:51+02:00",
+    "media_id": "f4ox4rbawna6",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261605/drone-filmt-friese-velden-vol-bloeiende-tulpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261603,
     "slug": "we-hebben-de-natste-april-sinds-1998-achter-de-rug-mei-nog-onzeker",
     "type": "article",
     "title": "We hebben de natste april sinds 1998 achter de rug, mei nog onzeker",
     "subtitle": null,
     "published_at": "2023-04-30T11:13:15+02:00",
-    "updated_at": "2023-04-30T11:13:23+02:00",
+    "updated_at": "2023-04-30T11:27:37+02:00",
     "media_id": "t59x5y0aktpd",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6261517,
-    "slug": "april-meistakingen-na-80-jaar-herdacht-waarom-werd-het-werk-neergelegd",
+    "slug": "april-meistakingen-na-tachtig-jaar-herdacht-waarom-werd-het-werk-neergelegd",
     "type": "article",
-    "title": "April-meistakingen na 80 jaar herdacht: Waarom werd het werk neergelegd?",
+    "title": "April-meistakingen na tachtig jaar herdacht: waarom werd het werk neergelegd?",
     "subtitle": null,
     "published_at": "2023-04-30T10:47:41+02:00",
-    "updated_at": "2023-04-30T10:47:42+02:00",
+    "updated_at": "2023-04-30T11:17:41+02:00",
     "media_id": "4nzxbv3a6gqe",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6261517/april-meistakingen-na-80-jaar-herdacht-waarom-werd-het-werk-neergelegd.html",
+    "url": "/binnenland/6261517/april-meistakingen-na-tachtig-jaar-herdacht-waarom-werd-het-werk-neergelegd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Vooruitblik GP Azerbeidzjan: Stelt gefrustreerde Verstappen orde op zaken?",
     "subtitle": null,
     "published_at": "2023-04-30T09:06:40+02:00",
-    "updated_at": "2023-04-30T09:30:24+02:00",
+    "updated_at": "2023-04-30T11:26:35+02:00",
     "media_id": "4lhx3y9a6zea",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6261442/dit-is-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261153,
-    "slug": "asielzoekers-komen-talloze-hindernissen-tegen-op-weg-naar-de-arbeidsmarkt",
-    "type": "article",
-    "title": "Asielzoekers komen talloze hindernissen tegen op weg naar de arbeidsmarkt",
-    "subtitle": null,
-    "published_at": "2023-04-30T05:00:07+02:00",
-    "updated_at": "2023-04-30T05:00:08+02:00",
-    "media_id": "fp5xl4nabcse",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261153/asielzoekers-komen-talloze-hindernissen-tegen-op-weg-naar-de-arbeidsmarkt.html",
     "open_new_window": false,
     "partner": null
   }
