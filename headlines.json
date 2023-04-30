@@ -1,12 +1,58 @@
 [
   {
+    "id": 6261644,
+    "slug": "waarom-verstappen-door-een-instelling-niet-net-zo-snel-als-perez-was",
+    "type": "video",
+    "title": "Waarom Verstappen door een instelling niet net zo snel als Pérez was",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-30T17:42:54+02:00",
+    "updated_at": "2023-04-30T17:42:55+02:00",
+    "media_id": "4vfx9o5alpyf",
+    "duration": "1:36",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261644/waarom-verstappen-door-een-instelling-niet-net-zo-snel-als-perez-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261642,
+    "slug": "misvatting-dat-perez-echt-met-verstappen-om-de-titel-gaat-strijden",
+    "type": "article",
+    "title": "Misvatting dat Pérez echt met Verstappen om de titel gaat strijden",
+    "subtitle": "NU+",
+    "published_at": "2023-04-30T17:34:08+02:00",
+    "updated_at": "2023-04-30T17:34:09+02:00",
+    "media_id": "hzgxnnyaxjvn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261642/misvatting-dat-perez-echt-met-verstappen-om-de-titel-gaat-strijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261643,
     "slug": "bayern-profiteert-met-mazraoui-van-misstap-dortmund-en-herovert-koppositie",
     "type": "article",
     "title": "Bayern profiteert met Mazraoui van misstap Dortmund en herovert koppositie",
     "subtitle": null,
     "published_at": "2023-04-30T17:24:06+02:00",
-    "updated_at": "2023-04-30T17:24:07+02:00",
+    "updated_at": "2023-04-30T17:37:15+02:00",
     "media_id": "0jpxp93a2ua7",
     "duration": null,
     "canonical_section": {
@@ -346,12 +392,12 @@
   },
   {
     "id": 6261626,
-    "slug": "de-kuip-stroomt-vol-in-aanloop-naar-bekerfinale-tussen-ajax-en-psv",
+    "slug": "de-kuip-stroomt-vol-bekerfinale-tussen-ajax-en-psv-begint-bijna",
     "type": "article",
-    "title": "De Kuip stroomt vol in aanloop naar bekerfinale tussen Ajax en PSV",
+    "title": "De Kuip stroomt vol, bekerfinale tussen Ajax en PSV begint bijna",
     "subtitle": "Liveblog",
     "published_at": "2023-04-30T15:29:11+02:00",
-    "updated_at": "2023-04-30T17:03:40+02:00",
+    "updated_at": "2023-04-30T17:39:42+02:00",
     "media_id": "jetxt3xaqduo",
     "duration": null,
     "canonical_section": {
@@ -363,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6261626/de-kuip-stroomt-vol-in-aanloop-naar-bekerfinale-tussen-ajax-en-psv.html",
+    "url": "/voetbal/6261626/de-kuip-stroomt-vol-bekerfinale-tussen-ajax-en-psv-begint-bijna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6261625/haaland-helpt-city-met-recordgoal-aan-koppositie-ook-driepunter-voor-ten-hag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261623,
-    "slug": "voormalig-rkc-en-fc-twente-speler-yuri-petrov-48-overleden",
-    "type": "article",
-    "title": "Voormalig RKC- en FC Twente-speler Yuri Petrov (48) overleden",
-    "subtitle": null,
-    "published_at": "2023-04-30T15:10:23+02:00",
-    "updated_at": "2023-04-30T16:11:25+02:00",
-    "media_id": "yycxriyahw7a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261623/voormalig-rkc-en-fc-twente-speler-yuri-petrov-48-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261044,
-    "slug": "wat-wil-jij-weten-over-de-grand-prix-van-azerbeidzjan",
-    "type": "article",
-    "title": "Wat wil jij weten over de Grand Prix van Azerbeidzjan?",
-    "subtitle": null,
-    "published_at": "2023-04-30T14:44:48+02:00",
-    "updated_at": "2023-04-30T14:45:54+02:00",
-    "media_id": "f67xk6oawcxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Azerbeidzjan",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6261044/wat-wil-jij-weten-over-de-grand-prix-van-azerbeidzjan.html",
     "open_new_window": false,
     "partner": null
   }
