@@ -1,5 +1,51 @@
 [
   {
+    "id": 6261750,
+    "slug": "ondanks-krappe-arbeidsmarkt-nemen-machines-ons-werk-nog-niet-over",
+    "type": "article",
+    "title": "Ondanks krappe arbeidsmarkt nemen machines ons werk (nog) niet over",
+    "subtitle": null,
+    "published_at": "2023-05-01T13:24:37+02:00",
+    "updated_at": "2023-05-01T13:24:39+02:00",
+    "media_id": "rjexf5radsei",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6261750/ondanks-krappe-arbeidsmarkt-nemen-machines-ons-werk-nog-niet-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261726,
+    "slug": "terugblik-perez-deed-niks-fout-en-won-verdiend-in-azerbeidzjan",
+    "type": "article",
+    "title": "Terugblik: 'Pérez deed niks fout en won verdiend in Azerbeidzjan'",
+    "subtitle": "NU+",
+    "published_at": "2023-05-01T13:19:16+02:00",
+    "updated_at": "2023-05-01T13:19:17+02:00",
+    "media_id": "538xeaxa8yh2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261726/terugblik-perez-deed-niks-fout-en-won-verdiend-in-azerbeidzjan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261749,
     "slug": "amerikaanse-scholieren-gaan-in-tank-naar-schoolgala",
     "type": "video",
@@ -98,7 +144,7 @@
     "title": "De computer weet wat je ziet: hoe breinsignalen worden omgezet in beeld",
     "subtitle": "NU+",
     "published_at": "2023-05-01T12:45:05+02:00",
-    "updated_at": "2023-05-01T12:45:06+02:00",
+    "updated_at": "2023-05-01T13:19:57+02:00",
     "media_id": "rt5xfwoadzoe",
     "duration": null,
     "canonical_section": {
@@ -231,12 +277,12 @@
   },
   {
     "id": 6261733,
-    "slug": "zeven-nederlanders-aangehouden-bij-illegale-rave-in-belgie",
+    "slug": "zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie",
     "type": "article",
-    "title": "Zeven Nederlanders aangehouden bij illegale rave in België",
+    "title": "Zeven Nederlanders opgepakt voor organiseren illegale rave in België",
     "subtitle": null,
     "published_at": "2023-05-01T12:07:40+02:00",
-    "updated_at": "2023-05-01T13:08:34+02:00",
+    "updated_at": "2023-05-01T13:22:33+02:00",
     "media_id": "ihcx1xda2abp",
     "duration": null,
     "canonical_section": {
@@ -248,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261733/zeven-nederlanders-aangehouden-bij-illegale-rave-in-belgie.html",
+    "url": "/buitenland/6261733/zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6261713/het-loopt-storm-bij-noodfonds-energie-aanvragen-kan-een-week-langer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261711,
-    "slug": "derde-amerikaanse-bank-in-korte-tijd-valt-om",
-    "type": "article",
-    "title": "Derde Amerikaanse bank in korte tijd valt om",
-    "subtitle": null,
-    "published_at": "2023-05-01T09:54:50+02:00",
-    "updated_at": "2023-05-01T12:26:11+02:00",
-    "media_id": "i08x6lxa7u77",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261711/derde-amerikaanse-bank-in-korte-tijd-valt-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261707,
-    "slug": "feestgangers-druipen-af-na-illegale-raveparty-in-belgie",
-    "type": "video",
-    "title": "Feestgangers druipen af na illegale raveparty in België",
-    "subtitle": "Video",
-    "published_at": "2023-05-01T09:37:56+02:00",
-    "updated_at": "2023-05-01T10:11:32+02:00",
-    "media_id": "yvlxy39anf6r",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261707/feestgangers-druipen-af-na-illegale-raveparty-in-belgie.html",
     "open_new_window": false,
     "partner": null
   }
