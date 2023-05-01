@@ -1,5 +1,74 @@
 [
   {
+    "id": 6261745,
+    "slug": "nederlandse-regionale-omroepen-komen-met-eigen-songfestival-versie",
+    "type": "article",
+    "title": "Nederlandse regionale omroepen komen met eigen Songfestival-versie",
+    "subtitle": null,
+    "published_at": "2023-05-01T12:47:21+02:00",
+    "updated_at": "2023-05-01T12:47:22+02:00",
+    "media_id": "6i5xdcsas38r",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6261745/nederlandse-regionale-omroepen-komen-met-eigen-songfestival-versie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261140,
+    "slug": "de-computer-weet-wat-je-ziet-hoe-breinsignalen-worden-omgezet-in-beeld",
+    "type": "article",
+    "title": "De computer weet wat je ziet: hoe breinsignalen worden omgezet in beeld",
+    "subtitle": "NU+",
+    "published_at": "2023-05-01T12:45:05+02:00",
+    "updated_at": "2023-05-01T12:45:06+02:00",
+    "media_id": "rt5xfwoadzoe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6261140/de-computer-weet-wat-je-ziet-hoe-breinsignalen-worden-omgezet-in-beeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261724,
+    "slug": "praat-mee-over-de-dag-van-de-arbeid",
+    "type": "article",
+    "title": "Praat mee over de Dag van de Arbeid",
+    "subtitle": null,
+    "published_at": "2023-05-01T12:40:17+02:00",
+    "updated_at": "2023-05-01T12:40:18+02:00",
+    "media_id": "xjnxsexatw7o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6261724/praat-mee-over-de-dag-van-de-arbeid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261737,
     "slug": "masterchef-australia-presentator-jock-zonfrillo-op-46-jarige-leeftijd-overleden",
     "type": "article",
@@ -75,7 +144,7 @@
     "title": "Fans PSV en Ajax richten schade aan in De Kuip: kapotte toiletten en stoelen",
     "subtitle": null,
     "published_at": "2023-05-01T12:08:31+02:00",
-    "updated_at": "2023-05-01T12:08:33+02:00",
+    "updated_at": "2023-05-01T12:30:11+02:00",
     "media_id": "7nvx9niapkeu",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Judoka's uit Oekraïne boycotten WK omdat Russen mogen meedoen",
     "subtitle": null,
     "published_at": "2023-05-01T12:03:29+02:00",
-    "updated_at": "2023-05-01T12:03:31+02:00",
+    "updated_at": "2023-05-01T12:46:37+02:00",
     "media_id": "rvfx1oza32ep",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6261702/beleggers-zijn-wel-vrij-op-dag-van-de-arbeid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261701,
-    "slug": "bijna-twee-miljoen-kijkers-zien-psv-voor-elfde-keer-bekerfinale-winnen",
-    "type": "article",
-    "title": "Bijna twee miljoen kijkers zien PSV voor elfde keer bekerfinale winnen",
-    "subtitle": null,
-    "published_at": "2023-05-01T08:45:27+02:00",
-    "updated_at": "2023-05-01T09:09:04+02:00",
-    "media_id": "e54xgf6awyo9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6261701/bijna-twee-miljoen-kijkers-zien-psv-voor-elfde-keer-bekerfinale-winnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261700,
-    "slug": "spelers-psv-feesten-met-fans-na-bekerwinst",
-    "type": "video",
-    "title": "Spelers PSV feesten met fans na bekerwinst",
-    "subtitle": "Video",
-    "published_at": "2023-05-01T08:32:47+02:00",
-    "updated_at": "2023-05-01T08:32:48+02:00",
-    "media_id": "i84x2u3am6z5",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261700/spelers-psv-feesten-met-fans-na-bekerwinst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261696,
-    "slug": "verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede",
-    "type": "article",
-    "title": "Verwarde schutter door politie neergeschoten en opgepakt in Wijk bij Duurstede",
-    "subtitle": null,
-    "published_at": "2023-05-01T08:20:26+02:00",
-    "updated_at": "2023-05-01T08:20:28+02:00",
-    "media_id": "o4tx1yyakto5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261696/verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede.html",
     "open_new_window": false,
     "partner": null
   }
