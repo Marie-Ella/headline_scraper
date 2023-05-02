@@ -1,5 +1,74 @@
 [
   {
+    "id": 6261826,
+    "slug": "voordeur-aan-diggelen-na-explosie-in-hellevoetsluis",
+    "type": "video",
+    "title": "Voordeur aan diggelen na explosie in Hellevoetsluis",
+    "subtitle": "Video",
+    "published_at": "2023-05-02T08:08:44+02:00",
+    "updated_at": "2023-05-02T08:08:50+02:00",
+    "media_id": "8yjx2qna0ojf",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261826/voordeur-aan-diggelen-na-explosie-in-hellevoetsluis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261825,
+    "slug": "aantal-starters-met-een-hypotheek-neemt-toe",
+    "type": "article",
+    "title": "Aantal starters met een hypotheek neemt toe",
+    "subtitle": null,
+    "published_at": "2023-05-02T08:00:11+02:00",
+    "updated_at": "2023-05-02T08:00:12+02:00",
+    "media_id": "yhmxwp6altfp",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6261825/aantal-starters-met-een-hypotheek-neemt-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261822,
+    "slug": "snookersensatie-brecel-ontroerd-door-wereldtitel-het-zal-nu-ontploffen-in-belgie",
+    "type": "article",
+    "title": "Snookersensatie Brecel ontroerd door wereldtitel: 'Het zal nu ontploffen in België'",
+    "subtitle": null,
+    "published_at": "2023-05-02T07:52:07+02:00",
+    "updated_at": "2023-05-02T08:08:15+02:00",
+    "media_id": "omhx7hqatjn7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6261822/snookersensatie-brecel-ontroerd-door-wereldtitel-het-zal-nu-ontploffen-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261820,
     "slug": "zandstorm-laat-spoor-van-vernieling-achter-op-snelweg-vs",
     "type": "video",
@@ -139,12 +208,12 @@
   },
   {
     "id": 6261812,
-    "slug": "reizigers-naar-belgie-en-duitsland-moeten-wegens-drukte-zitplaats-reserveren",
+    "slug": "treinreizigers-naar-belgie-en-duitsland-moeten-wegens-drukte-zitplaats-reserveren",
     "type": "article",
-    "title": "Reizigers naar België en Duitsland moeten wegens drukte zitplaats reserveren",
+    "title": "Treinreizigers naar België en Duitsland moeten wegens drukte zitplaats reserveren",
     "subtitle": null,
     "published_at": "2023-05-02T06:04:40+02:00",
-    "updated_at": "2023-05-02T06:04:41+02:00",
+    "updated_at": "2023-05-02T07:56:47+02:00",
     "media_id": "vp0x56caqeh3",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6261812/reizigers-naar-belgie-en-duitsland-moeten-wegens-drukte-zitplaats-reserveren.html",
+    "url": "/binnenland/6261812/treinreizigers-naar-belgie-en-duitsland-moeten-wegens-drukte-zitplaats-reserveren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +328,7 @@
     "title": "Tijdschema GP Miami: hoe laat komen Verstappen en De Vries in actie?",
     "subtitle": null,
     "published_at": "2023-05-02T05:03:12+02:00",
-    "updated_at": "2023-05-02T05:03:14+02:00",
+    "updated_at": "2023-05-02T08:17:35+02:00",
     "media_id": "6ydxvx2av8ce",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Breakdancer India Sardjoe (16) gaat met WK-titel op zak voor olympische droom",
     "subtitle": null,
     "published_at": "2023-05-02T05:02:35+02:00",
-    "updated_at": "2023-05-02T05:02:36+02:00",
+    "updated_at": "2023-05-02T08:15:01+02:00",
     "media_id": "x52xzb8apm90",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6261807/vn-waarschuwt-dat-humanitaire-situatie-in-soedan-breekpunt-bereikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261806,
-    "slug": "leicester-city-en-everton-schieten-weinig-op-met-gelijkspel-in-degradatiethriller",
-    "type": "article",
-    "title": "Leicester City en Everton schieten weinig op met gelijkspel in degradatiethriller",
-    "subtitle": null,
-    "published_at": "2023-05-01T23:23:52+02:00",
-    "updated_at": "2023-05-01T23:42:45+02:00",
-    "media_id": "jgdxbknaxupm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261806/leicester-city-en-everton-schieten-weinig-op-met-gelijkspel-in-degradatiethriller.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261794,
-    "slug": "snookersprookje-voltooid-sensatie-brecel-wint-als-eerste-belg-ooit-wereldtitel",
-    "type": "article",
-    "title": "Snookersprookje voltooid: sensatie Brecel wint als eerste Belg ooit wereldtitel",
-    "subtitle": null,
-    "published_at": "2023-05-01T23:08:09+02:00",
-    "updated_at": "2023-05-02T07:29:12+02:00",
-    "media_id": "qx1x67aasy0a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6261794/snookersprookje-voltooid-sensatie-brecel-wint-als-eerste-belg-ooit-wereldtitel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261804,
-    "slug": "leger-belgie-bewaakt-kerncentrale-omdat-politie-drugscriminaliteit-moet-bestrijden",
-    "type": "article",
-    "title": "Leger België bewaakt kerncentrale omdat politie drugscriminaliteit moet bestrijden",
-    "subtitle": null,
-    "published_at": "2023-05-01T22:40:01+02:00",
-    "updated_at": "2023-05-02T07:17:22+02:00",
-    "media_id": "bawxrdca5hb2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6261804/leger-belgie-bewaakt-kerncentrale-omdat-politie-drugscriminaliteit-moet-bestrijden.html",
     "open_new_window": false,
     "partner": null
   }
