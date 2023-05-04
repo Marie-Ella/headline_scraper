@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262257,
+    "slug": "dieuwertje-blok-tijdens-herdenking-wat-doe-je-met-onverdraagzaamheid-van-nu",
+    "type": "article",
+    "title": "Dieuwertje Blok tijdens herdenking: 'Wat doe je met onverdraagzaamheid van nu?'",
+    "subtitle": null,
+    "published_at": "2023-05-04T20:47:15+02:00",
+    "updated_at": "2023-05-04T20:47:17+02:00",
+    "media_id": "ufgx0ngazbig",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262257/dieuwertje-blok-tijdens-herdenking-wat-doe-je-met-onverdraagzaamheid-van-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262253,
     "slug": "ed-sheeran-krijgt-gelijk-van-rechter-thinking-out-loud-is-geen-plagiaat",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Zelensky's missie: met deze wensenlijst kwam hij naar Nederland",
     "subtitle": "Explainer",
     "published_at": "2023-05-04T18:59:36+02:00",
-    "updated_at": "2023-05-04T19:07:04+02:00",
-    "media_id": "2a3xxptab1m2",
+    "updated_at": "2023-05-04T20:40:49+02:00",
+    "media_id": "kpxx90oaqxh0",
     "duration": "2:29",
     "canonical_section": {
       "id": 1778980,
@@ -167,19 +190,19 @@
     "title": "Kransen en toespraken op de Dam na twee minuten stilte",
     "subtitle": "Liveblog 4 mei",
     "published_at": "2023-05-04T17:58:31+02:00",
-    "updated_at": "2023-05-04T20:24:48+02:00",
+    "updated_at": "2023-05-04T20:37:04+02:00",
     "media_id": "vuwxte8a7prd",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
+      "id": 1772492,
+      "slug": "4-en-5-mei",
+      "type": "files",
+      "name": "4 en 5 mei",
       "style": "nu",
-      "media_id": null,
+      "media_id": "m1oxrh7a86wb",
       "partner": null
     },
-    "url": "/binnenland/6262211/kransen-en-toespraken-op-de-dam-na-twee-minuten-stilte.html",
+    "url": "/4-en-5-mei/6262211/kransen-en-toespraken-op-de-dam-na-twee-minuten-stilte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6261139/profiel-inez-weski-gewaardeerde-jurist-kunstminnaar-en-gesloten-boek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262223,
-    "slug": "ree-springt-tijdens-reddingsactie-in-almelo-opnieuw-het-water-in",
-    "type": "video",
-    "title": "Ree springt tijdens reddingsactie in Almelo opnieuw het water in",
-    "subtitle": "Video",
-    "published_at": "2023-05-04T15:34:47+02:00",
-    "updated_at": "2023-05-04T15:34:48+02:00",
-    "media_id": "sc9x1hlaokbt",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262223/ree-springt-tijdens-reddingsactie-in-almelo-opnieuw-het-water-in.html",
     "open_new_window": false,
     "partner": null
   }
