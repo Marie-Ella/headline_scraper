@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262400,
+    "slug": "magazijn-in-vs-in-lichterlaaie-door-grote-brand",
+    "type": "video",
+    "title": "Magazijn in VS in lichterlaaie door grote brand",
+    "subtitle": "Video",
+    "published_at": "2023-05-05T21:20:14+02:00",
+    "updated_at": "2023-05-05T21:20:16+02:00",
+    "media_id": "5z4xfrza7ccu",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262400/magazijn-in-vs-in-lichterlaaie-door-grote-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262398,
     "slug": "russell-en-hamilton-verrassend-snel-in-eerste-training-miami-verstappen-vierde",
     "type": "article",
     "title": "Russell en Hamilton verrassend snel in eerste training Miami, Verstappen vierde",
     "subtitle": null,
     "published_at": "2023-05-05T21:03:30+02:00",
-    "updated_at": "2023-05-05T21:09:51+02:00",
+    "updated_at": "2023-05-05T21:20:24+02:00",
     "media_id": "9c4x5xjabs8r",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6262396,
-    "slug": "mensenrechtenactivist-klaas-de-jonge-overleden-op-85-jarige-leeftijd",
+    "slug": "mensenrechtenactivist-klaas-de-jonge-op-85-jarige-leeftijd-overleden",
     "type": "article",
-    "title": "Mensenrechtenactivist Klaas de Jonge overleden op 85-jarige leeftijd",
+    "title": "Mensenrechtenactivist Klaas de Jonge op 85-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-05-05T20:55:07+02:00",
-    "updated_at": "2023-05-05T21:00:29+02:00",
+    "updated_at": "2023-05-05T21:28:45+02:00",
     "media_id": "3zqxo75arcsd",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6262396/mensenrechtenactivist-klaas-de-jonge-overleden-op-85-jarige-leeftijd.html",
+    "url": "/binnenland/6262396/mensenrechtenactivist-klaas-de-jonge-op-85-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +98,8 @@
     "title": "De Graafschap-MVV tijdelijk stilgelegd omdat fans bekertjes op veld gooien",
     "subtitle": null,
     "published_at": "2023-05-05T20:54:03+02:00",
-    "updated_at": "2023-05-05T21:03:34+02:00",
-    "media_id": "u47x3vqarl5r",
+    "updated_at": "2023-05-05T21:18:03+02:00",
+    "media_id": "houxqojavyvr",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -144,7 +167,7 @@
     "title": "Reacties na vierde tijd Verstappen en snelste rondje Russell in Miami",
     "subtitle": "Liveblog F1",
     "published_at": "2023-05-05T19:45:47+02:00",
-    "updated_at": "2023-05-05T21:01:28+02:00",
+    "updated_at": "2023-05-05T21:27:35+02:00",
     "media_id": "506x1ojangqm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6262372/duitse-paraglider-na-elf-uur-gered-uit-kabels-van-kabelbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262373,
-    "slug": "az-mist-karlsson-tegen-ajax-maar-kan-weer-over-pavlidis-en-odgaard-beschikken",
-    "type": "article",
-    "title": "AZ mist Karlsson tegen Ajax, maar kan weer over Pavlidis en Odgaard beschikken",
-    "subtitle": null,
-    "published_at": "2023-05-05T17:08:58+02:00",
-    "updated_at": "2023-05-05T17:58:03+02:00",
-    "media_id": "qhzxnvmasjeh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262373/az-mist-karlsson-tegen-ajax-maar-kan-weer-over-pavlidis-en-odgaard-beschikken.html",
     "open_new_window": false,
     "partner": null
   }
