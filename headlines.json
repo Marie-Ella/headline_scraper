@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262386,
+    "slug": "brandweer-krijgt-overstroomde-action-in-ermelo-niet-droog",
+    "type": "video",
+    "title": "Brandweer krijgt overstroomde Action in Ermelo niet droog",
+    "subtitle": "Video",
+    "published_at": "2023-05-05T19:14:03+02:00",
+    "updated_at": "2023-05-05T19:14:04+02:00",
+    "media_id": "6zex1goau66y",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262386/brandweer-krijgt-overstroomde-action-in-ermelo-niet-droog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262351,
     "slug": "dit-vinden-jullie-van-de-zorgen-over-de-kinderopvangtoeslag",
     "type": "article",
@@ -300,12 +323,12 @@
   },
   {
     "id": 6262369,
-    "slug": "nog-meer-pech-bij-giro-ploeg-jumbo-visma-trainingsongeluk-voor-tratnik",
+    "slug": "nog-meer-pech-bij-giro-ploeg-jumbo-visma-tratnik-valt-weg-na-aanrijding",
     "type": "article",
-    "title": "Nog meer pech bij Giro-ploeg Jumbo-Visma: trainingsongeluk voor Tratnik",
+    "title": "Nog meer pech bij Giro-ploeg Jumbo-Visma: Tratnik valt weg na aanrijding",
     "subtitle": null,
     "published_at": "2023-05-05T16:21:49+02:00",
-    "updated_at": "2023-05-05T17:16:44+02:00",
+    "updated_at": "2023-05-05T18:59:03+02:00",
     "media_id": "dw6x0tuae1gs",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6262369/nog-meer-pech-bij-giro-ploeg-jumbo-visma-trainingsongeluk-voor-tratnik.html",
+    "url": "/wielrennen/6262369/nog-meer-pech-bij-giro-ploeg-jumbo-visma-tratnik-valt-weg-na-aanrijding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6262338/kamperende-fans-en-lego-charles-de-sfeer-in-londen-voor-de-kroning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262008,
-    "slug": "de-vries-voelt-de-hete-adem-van-lawson",
-    "type": "audio",
-    "title": "'De Vries voelt de hete adem van Lawson'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-05-05T15:09:57+02:00",
-    "updated_at": "2023-05-05T15:09:58+02:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1776659,
-      "slug": "de-boordradio",
-      "type": "default",
-      "name": "De Boordradio",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/de-boordradio/6262008/de-vries-voelt-de-hete-adem-van-lawson.html",
     "open_new_window": false,
     "partner": null
   }
