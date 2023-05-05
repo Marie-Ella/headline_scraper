@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262320,
+    "slug": "brandweer-blust-grote-brand-in-natuurgebied-bij-assen",
+    "type": "video",
+    "title": "Brandweer blust grote brand in natuurgebied bij Assen",
+    "subtitle": "Video",
+    "published_at": "2023-05-05T11:30:23+02:00",
+    "updated_at": "2023-05-05T11:30:25+02:00",
+    "media_id": "6cdxvbba77ly",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262320/brandweer-blust-grote-brand-in-natuurgebied-bij-assen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262312,
-    "slug": "baas-van-wagner-group-zegt-dat-huurlingenleger-over-vijf-dagen-bakhmut-verlaat",
+    "slug": "baas-van-wagner-group-zegt-dat-huurlingen-bakhmut-over-vijf-dagen-verlaten",
     "type": "article",
-    "title": "Baas van Wagner Group zegt dat huurlingenleger over vijf dagen Bakhmut verlaat",
+    "title": "Baas van Wagner Group zegt dat huurlingen Bakhmut over vijf dagen verlaten",
     "subtitle": null,
     "published_at": "2023-05-05T10:44:01+02:00",
-    "updated_at": "2023-05-05T10:44:02+02:00",
+    "updated_at": "2023-05-05T11:20:41+02:00",
     "media_id": "osoxmisaxna0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6262312/baas-van-wagner-group-zegt-dat-huurlingenleger-over-vijf-dagen-bakhmut-verlaat.html",
+    "url": "/spanningen-oekraine/6262312/baas-van-wagner-group-zegt-dat-huurlingen-bakhmut-over-vijf-dagen-verlaten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Zerrouki krijgt zijn zin: Feyenoord en FC Twente nu wél akkoord over transfer",
     "subtitle": null,
     "published_at": "2023-05-05T10:35:09+02:00",
-    "updated_at": "2023-05-05T11:13:16+02:00",
+    "updated_at": "2023-05-05T11:21:49+02:00",
     "media_id": "xroxn5na38p9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6262220/stelling-ik-heb-liever-jaarlijks-op-5-mei-vrij-dan-met-pinksteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262196,
-    "slug": "gevoelige-tik-voor-poetin-9-meivieringen-anders-dan-eerdere-jaren",
-    "type": "video",
-    "title": "Gevoelige tik voor Poetin: 9 meivieringen anders dan eerdere jaren",
-    "subtitle": "Explainer",
-    "published_at": "2023-05-05T06:39:52+02:00",
-    "updated_at": "2023-05-05T06:39:53+02:00",
-    "media_id": "n54xqkuaw517",
-    "duration": "2:12",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6262196/gevoelige-tik-voor-poetin-9-meivieringen-anders-dan-eerdere-jaren.html",
     "open_new_window": false,
     "partner": null
   }
