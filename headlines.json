@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262502,
+    "slug": "verstappen-steekt-er-ook-in-laatste-training-met-kop-en-schouders-bovenuit",
+    "type": "article",
+    "title": "Verstappen steekt er ook in laatste training met kop en schouders bovenuit",
+    "subtitle": null,
+    "published_at": "2023-05-06T19:35:59+02:00",
+    "updated_at": "2023-05-06T19:48:06+02:00",
+    "media_id": "o71x84gag5mm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Miami",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6262502/verstappen-steekt-er-ook-in-laatste-training-met-kop-en-schouders-bovenuit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262505,
     "slug": "ten-cate-vervolgt-trainersloopbaan-als-assistent-bij-surinaamse-nationale-ploeg",
     "type": "article",
     "title": "Ten Cate vervolgt trainersloopbaan als assistent bij Surinaamse nationale ploeg",
     "subtitle": null,
     "published_at": "2023-05-06T19:26:08+02:00",
-    "updated_at": "2023-05-06T19:26:09+02:00",
+    "updated_at": "2023-05-06T19:30:04+02:00",
     "media_id": "pxex5kwa83vh",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6262493,
-    "slug": "verstappen-domineert-in-derde-vrije-training-miami",
+    "slug": "reacties-na-derde-vrije-training-in-miami",
     "type": "article",
-    "title": "Verstappen domineert in derde vrije training Miami",
+    "title": "Reacties na derde vrije training in Miami",
     "subtitle": "Liveblog F1",
     "published_at": "2023-05-06T18:14:22+02:00",
-    "updated_at": "2023-05-06T19:08:56+02:00",
+    "updated_at": "2023-05-06T19:36:52+02:00",
     "media_id": "5y9xfbsa8rit",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6262493/verstappen-domineert-in-derde-vrije-training-miami.html",
+    "url": "/formule-1/6262493/reacties-na-derde-vrije-training-in-miami.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +208,12 @@
   },
   {
     "id": 6262489,
-    "slug": "sparta-knokt-zich-terug-tegen-sterk-psv",
+    "slug": "psv-heeft-handen-vol-aan-goed-georganiseerd-sparta",
     "type": "article",
-    "title": "Sparta knokt zich terug tegen sterk PSV",
+    "title": "PSV heeft handen vol aan goed georganiseerd Sparta",
     "subtitle": "Liveblog",
     "published_at": "2023-05-06T18:00:15+02:00",
-    "updated_at": "2023-05-06T19:22:40+02:00",
+    "updated_at": "2023-05-06T19:30:10+02:00",
     "media_id": "2axxmzkaoyre",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6262489/sparta-knokt-zich-terug-tegen-sterk-psv.html",
+    "url": "/voetbal/6262489/psv-heeft-handen-vol-aan-goed-georganiseerd-sparta.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262488/milan-doet-met-zege-op-lazio-goede-zaken-in-spannende-strijd-om-cl-tickets.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262485,
-    "slug": "bekijk-hier-de-hoogtepunten-van-de-kroning-van-charles",
-    "type": "video",
-    "title": "Bekijk hier de hoogtepunten van de kroning van Charles",
-    "subtitle": "Video",
-    "published_at": "2023-05-06T16:34:02+02:00",
-    "updated_at": "2023-05-06T16:48:48+02:00",
-    "media_id": "hlnx3k5audlb",
-    "duration": "2:00",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6262485/bekijk-hier-de-hoogtepunten-van-de-kroning-van-charles.html",
     "open_new_window": false,
     "partner": null
   }
