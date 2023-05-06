@@ -1,5 +1,51 @@
 [
   {
+    "id": 6262485,
+    "slug": "bekijk-hier-de-hoogtepunten-van-de-kroning-van-charles",
+    "type": "video",
+    "title": "Bekijk hier de hoogtepunten van de kroning van Charles",
+    "subtitle": "Video",
+    "published_at": "2023-05-06T16:34:02+02:00",
+    "updated_at": "2023-05-06T16:48:48+02:00",
+    "media_id": "hlnx3k5audlb",
+    "duration": "2:00",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6262485/bekijk-hier-de-hoogtepunten-van-de-kroning-van-charles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262484,
+    "slug": "afsluitdijk-in-beide-richtingen-dicht-door-storing",
+    "type": "article",
+    "title": "Afsluitdijk in beide richtingen dicht door storing",
+    "subtitle": null,
+    "published_at": "2023-05-06T16:31:59+02:00",
+    "updated_at": "2023-05-06T16:36:14+02:00",
+    "media_id": "15bx46za3bsh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262484/afsluitdijk-in-beide-richtingen-dicht-door-storing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262482,
     "slug": "mintgroene-verf-op-standbeeld-pim-fortuyn-gesmeerd-op-sterfdag",
     "type": "video",
@@ -116,13 +162,13 @@
   },
   {
     "id": 6262469,
-    "slug": "evenepoel-en-roglic-beginnen-bijna-aan-openingstijdrit-giro",
+    "slug": "evenepoel-ganna-en-roglic-begonnen-aan-openingstijdrit-giro",
     "type": "article",
-    "title": "Evenepoel en Roglic beginnen bijna aan openingstijdrit Giro",
+    "title": "Evenepoel, Ganna en Roglic begonnen aan openingstijdrit Giro",
     "subtitle": "Liveblog",
     "published_at": "2023-05-06T13:35:18+02:00",
-    "updated_at": "2023-05-06T16:10:35+02:00",
-    "media_id": "xcyxbnkaws8x",
+    "updated_at": "2023-05-06T16:39:24+02:00",
+    "media_id": "yzbxnm8azgdr",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6262469/evenepoel-en-roglic-beginnen-bijna-aan-openingstijdrit-giro.html",
+    "url": "/wielrennen/6262469/evenepoel-ganna-en-roglic-begonnen-aan-openingstijdrit-giro.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6262453/bekijk-hier-de-kroning-van-charles-iii.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262437,
-    "slug": "overmars-merkt-gevolgen-infarct-dagelijks-hart-is-voor-45-procent-afgestorven",
-    "type": "article",
-    "title": "Overmars merkt gevolgen infarct dagelijks: 'Hart is voor 45 procent afgestorven'",
-    "subtitle": null,
-    "published_at": "2023-05-06T10:37:21+02:00",
-    "updated_at": "2023-05-06T11:15:40+02:00",
-    "media_id": "ddaxa1ma7ff1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262437/overmars-merkt-gevolgen-infarct-dagelijks-hart-is-voor-45-procent-afgestorven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262441,
-    "slug": "leider-van-britse-antimonarchisten-opgepakt-bij-kroningsprotest",
-    "type": "article",
-    "title": "Leider van Britse antimonarchisten opgepakt bij kroningsprotest",
-    "subtitle": null,
-    "published_at": "2023-05-06T10:37:16+02:00",
-    "updated_at": "2023-05-06T15:07:13+02:00",
-    "media_id": "rbrx1sda67h9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262441/leider-van-britse-antimonarchisten-opgepakt-bij-kroningsprotest.html",
     "open_new_window": false,
     "partner": null
   }
