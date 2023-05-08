@@ -1,28 +1,5 @@
 [
   {
-    "id": 6262771,
-    "slug": "bekijk-beelden-van-de-generale-repetitie-van-mia-en-dion",
-    "type": "video",
-    "title": "Bekijk beelden van de generale repetitie van Mia en Dion",
-    "subtitle": "Video",
-    "published_at": "2023-05-08T18:47:55+02:00",
-    "updated_at": "2023-05-08T18:47:56+02:00",
-    "media_id": "g0vxor1api76",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262771/bekijk-beelden-van-de-generale-repetitie-van-mia-en-dion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6262657,
     "slug": "stelling-kleurcodes-voor-gevaarlijk-weer-zijn-veel-te-verwarrend",
     "type": "article",
@@ -52,7 +29,7 @@
     "title": "Lindhout fluit mogelijke kampioenswedstrijd Feyenoord tegen Go Ahead Eagles",
     "subtitle": null,
     "published_at": "2023-05-08T18:31:03+02:00",
-    "updated_at": "2023-05-08T18:49:32+02:00",
+    "updated_at": "2023-05-08T18:57:19+02:00",
     "media_id": "2toxvx7a2e4i",
     "duration": null,
     "canonical_section": {
@@ -93,12 +70,12 @@
   },
   {
     "id": 6262753,
-    "slug": "vijf-vragen-over-de-vechtpartij-in-de-rai-heeft-erdogan-hier-baat-bij",
+    "slug": "vijf-vragen-over-vechtpartij-rai-wat-deden-politieke-waarnemers-daar",
     "type": "article",
-    "title": "Vijf vragen over de vechtpartij in de RAI: heeft Erdogan hier baat bij?",
+    "title": "Vijf vragen over vechtpartij RAI: wat deden politieke waarnemers daar?",
     "subtitle": "NU+",
     "published_at": "2023-05-08T18:27:09+02:00",
-    "updated_at": "2023-05-08T18:30:52+02:00",
+    "updated_at": "2023-05-08T18:57:23+02:00",
     "media_id": "mc7xkzyagudu",
     "duration": null,
     "canonical_section": {
@@ -110,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6262753/vijf-vragen-over-de-vechtpartij-in-de-rai-heeft-erdogan-hier-baat-bij.html",
+    "url": "/buitenland/6262753/vijf-vragen-over-vechtpartij-rai-wat-deden-politieke-waarnemers-daar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +208,12 @@
   },
   {
     "id": 6262749,
-    "slug": "songfestival-update-mia-dion-treden-voor-het-eerst-op-voor-publiek",
+    "slug": "songfestival-update-mia-en-dion-treden-voor-het-eerst-op-voor-publiek",
     "type": "article",
-    "title": "Songfestival-update: Mia & Dion treden voor het eerst op voor publiek",
+    "title": "Songfestival-update: Mia en Dion treden voor het eerst op voor publiek",
     "subtitle": null,
     "published_at": "2023-05-08T17:28:49+02:00",
-    "updated_at": "2023-05-08T18:26:04+02:00",
+    "updated_at": "2023-05-08T19:11:43+02:00",
     "media_id": "7gnxr9cajw7c",
     "duration": null,
     "canonical_section": {
@@ -248,7 +225,7 @@
       "media_id": "4a9xjerag1rk",
       "partner": null
     },
-    "url": "/songfestival/6262749/songfestival-update-mia-dion-treden-voor-het-eerst-op-voor-publiek.html",
+    "url": "/songfestival/6262749/songfestival-update-mia-en-dion-treden-voor-het-eerst-op-voor-publiek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6262732/clubs-stellen-stemming-over-espn-bod-op-uitzendrechten-eredivisie-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262738,
+    "slug": "zes-tieners-vast-voor-mishandelen-en-op-spoor-duwen-persoon-bij-bijlmer-arena",
+    "type": "article",
+    "title": "Zes tieners vast voor mishandelen en op spoor duwen persoon bij Bijlmer Arena",
+    "subtitle": null,
+    "published_at": "2023-05-08T15:24:55+02:00",
+    "updated_at": "2023-05-08T16:28:41+02:00",
+    "media_id": "tksxxrmahghm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262738/zes-tieners-vast-voor-mishandelen-en-op-spoor-duwen-persoon-bij-bijlmer-arena.html",
     "open_new_window": false,
     "partner": null
   }
