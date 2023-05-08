@@ -1,12 +1,58 @@
 [
   {
+    "id": 6262645,
+    "slug": "albert-heijn-om-tafel-met-vakbonden-loonsverhogingen-of-weer-lege-schappen",
+    "type": "article",
+    "title": "Albert Heijn om tafel met vakbonden: loonsverhogingen of weer lege schappen?",
+    "subtitle": null,
+    "published_at": "2023-05-08T07:38:35+02:00",
+    "updated_at": "2023-05-08T07:45:24+02:00",
+    "media_id": "dlvxpzdanzbx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262645/albert-heijn-om-tafel-met-vakbonden-loonsverhogingen-of-weer-lege-schappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262653,
+    "slug": "politie-grijpt-in-bij-vechtpartijen-tussen-turkse-stemmers-in-amsterdam",
+    "type": "video",
+    "title": "Politie grijpt in bij vechtpartijen tussen Turkse stemmers in Amsterdam",
+    "subtitle": "Video",
+    "published_at": "2023-05-08T07:38:03+02:00",
+    "updated_at": "2023-05-08T07:38:05+02:00",
+    "media_id": "mc4xkqaab46y",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262653/politie-grijpt-in-bij-vechtpartijen-tussen-turkse-stemmers-in-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262649,
     "slug": "ten-hag-houdt-ondanks-nieuwe-blunder-volledig-vertrouwen-in-keeper-de-gea",
     "type": "article",
     "title": "Ten Hag houdt ondanks nieuwe blunder 'volledig vertrouwen' in keeper De Gea",
     "subtitle": null,
     "published_at": "2023-05-08T07:08:08+02:00",
-    "updated_at": "2023-05-08T07:09:47+02:00",
+    "updated_at": "2023-05-08T07:36:24+02:00",
     "media_id": "wg0xw0ka1bsp",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Voor veelwinnaar Sherida Spitse is een titel met 'haar' club Ajax net wat specialer",
     "subtitle": null,
     "published_at": "2023-05-08T05:05:54+02:00",
-    "updated_at": "2023-05-08T07:06:07+02:00",
+    "updated_at": "2023-05-08T07:34:40+02:00",
     "media_id": "ewnx5lnaj81u",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Nyck de Vries zelfkritisch na incident met Norris bij de start: 'Het was mijn fout'",
     "subtitle": null,
     "published_at": "2023-05-07T23:57:02+02:00",
-    "updated_at": "2023-05-07T23:57:03+02:00",
+    "updated_at": "2023-05-08T07:40:53+02:00",
     "media_id": "4roxi64ajbyt",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Verstappen genoot van inhaalrace in Miami: 'Onze strategie maakte het verschil'",
     "subtitle": null,
     "published_at": "2023-05-07T23:16:15+02:00",
-    "updated_at": "2023-05-08T02:48:17+02:00",
+    "updated_at": "2023-05-08T07:36:31+02:00",
     "media_id": "hrcxv0da4kes",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6262632/verstappen-wint-grand-prix-van-miami-na-prachtige-inhaalrace.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262630,
-    "slug": "van-gerwen-knokt-zich-langs-humphries-en-pakt-in-belgie-tweede-titel-van-dit-jaar",
-    "type": "article",
-    "title": "Van Gerwen knokt zich langs Humphries en pakt in België tweede titel van dit jaar",
-    "subtitle": null,
-    "published_at": "2023-05-07T22:44:43+02:00",
-    "updated_at": "2023-05-07T22:49:21+02:00",
-    "media_id": "j29x8eiaykm8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6262630/van-gerwen-knokt-zich-langs-humphries-en-pakt-in-belgie-tweede-titel-van-dit-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262626,
-    "slug": "vechtpartijen-bij-rai-amsterdam-op-laatste-dag-van-turkse-verkiezingen",
-    "type": "article",
-    "title": "Vechtpartijen bij RAI Amsterdam op laatste dag van Turkse verkiezingen",
-    "subtitle": null,
-    "published_at": "2023-05-07T22:36:41+02:00",
-    "updated_at": "2023-05-08T07:08:26+02:00",
-    "media_id": "4lixylfa1bqw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6262626/vechtpartijen-bij-rai-amsterdam-op-laatste-dag-van-turkse-verkiezingen.html",
     "open_new_window": false,
     "partner": null
   }
