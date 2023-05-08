@@ -1,12 +1,58 @@
 [
   {
+    "id": 6262692,
+    "slug": "spaarrente-bij-asn-sns-en-regiobank-ook-omhoog",
+    "type": "article",
+    "title": "Spaarrente bij ASN, SNS en RegioBank ook omhoog",
+    "subtitle": null,
+    "published_at": "2023-05-08T11:09:02+02:00",
+    "updated_at": "2023-05-08T11:09:04+02:00",
+    "media_id": "py4xq5ja0t35",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262692/spaarrente-bij-asn-sns-en-regiobank-ook-omhoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262689,
+    "slug": "mattie-valk-na-vier-jaar-weer-vrijgezel",
+    "type": "article",
+    "title": "Mattie Valk na vier jaar weer vrijgezel",
+    "subtitle": null,
+    "published_at": "2023-05-08T10:50:28+02:00",
+    "updated_at": "2023-05-08T11:04:20+02:00",
+    "media_id": "y2oxalyae65z",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6262689/mattie-valk-na-vier-jaar-weer-vrijgezel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262682,
     "slug": "alonso-heeft-vrede-met-weer-een-derde-plek-vanwege-onbreekbare-red-bulls",
     "type": "article",
     "title": "Alonso heeft vrede met wéér een derde plek vanwege 'onbreekbare' Red Bulls",
     "subtitle": null,
     "published_at": "2023-05-08T10:25:06+02:00",
-    "updated_at": "2023-05-08T10:34:46+02:00",
+    "updated_at": "2023-05-08T11:03:27+02:00",
     "media_id": "ousx77wa96qm",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Alderweireld laat bedreigingen aan adres van familie zien: 'Gaat ver over de grens'",
     "subtitle": null,
     "published_at": "2023-05-08T08:31:18+02:00",
-    "updated_at": "2023-05-08T08:41:06+02:00",
+    "updated_at": "2023-05-08T10:48:15+02:00",
     "media_id": "ntvxkzgayvdk",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Ten Hag houdt ondanks nieuwe blunder 'volledig vertrouwen' in keeper De Gea",
     "subtitle": null,
     "published_at": "2023-05-08T07:08:08+02:00",
-    "updated_at": "2023-05-08T08:01:18+02:00",
+    "updated_at": "2023-05-08T10:51:11+02:00",
     "media_id": "wg0xw0ka1bsp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6262580/stelling-mannen-zijn-even-geschikt-als-verzorger-van-kinderen-als-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262648,
-    "slug": "relatie-van-tygo-gernandt-en-dianne-is-voorbij",
-    "type": "article",
-    "title": "Relatie van Tygo Gernandt en Dianne is voorbij",
-    "subtitle": null,
-    "published_at": "2023-05-08T06:41:14+02:00",
-    "updated_at": "2023-05-08T07:27:09+02:00",
-    "media_id": "41kxo9har4hw",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6262648/relatie-van-tygo-gernandt-en-dianne-is-voorbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262639,
-    "slug": "waarom-nederland-niet-zelf-de-inzending-voor-het-songfestival-kiest",
-    "type": "video",
-    "title": "Waarom Nederland niet zelf de inzending voor het Songfestival kiest",
-    "subtitle": "Explainer",
-    "published_at": "2023-05-08T06:37:54+02:00",
-    "updated_at": "2023-05-08T07:07:18+02:00",
-    "media_id": "p6rx9jgajpzu",
-    "duration": "3:15",
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "4a9xjerag1rk",
-      "partner": null
-    },
-    "url": "/songfestival/6262639/waarom-nederland-niet-zelf-de-inzending-voor-het-songfestival-kiest.html",
     "open_new_window": false,
     "partner": null
   }
