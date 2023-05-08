@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262697,
+    "slug": "weer-ontploffing-in-regio-rotterdam-huis-in-capelle-aan-den-ijssel-beschadigd",
+    "type": "article",
+    "title": "Weer ontploffing in regio Rotterdam: huis in Capelle aan den IJssel beschadigd",
+    "subtitle": null,
+    "published_at": "2023-05-08T11:57:05+02:00",
+    "updated_at": "2023-05-08T12:03:15+02:00",
+    "media_id": "j3fxwwea383i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262697/weer-ontploffing-in-regio-rotterdam-huis-in-capelle-aan-den-ijssel-beschadigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262696,
     "slug": "oekraiense-brandweer-bestrijdt-grote-brand-na-russische-raketaanval",
     "type": "video",
     "title": "Oekraïense brandweer bestrijdt grote brand na Russische raketaanval",
     "subtitle": "Video",
     "published_at": "2023-05-08T11:46:16+02:00",
-    "updated_at": "2023-05-08T11:46:17+02:00",
+    "updated_at": "2023-05-08T12:00:37+02:00",
     "media_id": "3ffx3zpa0wq4",
     "duration": "0:44",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Vechtpartij in RAI ging tussen afgevaardigden van partijen bij Turkse verkiezingen",
     "subtitle": null,
     "published_at": "2023-05-08T11:17:11+02:00",
-    "updated_at": "2023-05-08T11:17:12+02:00",
+    "updated_at": "2023-05-08T12:15:33+02:00",
     "media_id": "ehuxtwdadw3q",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Spaarrente bij ASN, SNS en RegioBank ook omhoog",
     "subtitle": null,
     "published_at": "2023-05-08T11:09:02+02:00",
-    "updated_at": "2023-05-08T11:09:04+02:00",
+    "updated_at": "2023-05-08T12:09:56+02:00",
     "media_id": "py4xq5ja0t35",
     "duration": null,
     "canonical_section": {
@@ -213,19 +236,19 @@
     "title": "Serie Arcadia sluit seizoen af met ruim 300.000 minder kijkers",
     "subtitle": null,
     "published_at": "2023-05-08T09:29:15+02:00",
-    "updated_at": "2023-05-08T09:29:17+02:00",
+    "updated_at": "2023-05-08T11:59:15+02:00",
     "media_id": "ji2xhf5aycjr",
     "duration": null,
     "canonical_section": {
-      "id": 127,
-      "slug": "film",
+      "id": 1771675,
+      "slug": "media",
       "type": "default",
-      "name": "Films & Series",
+      "name": "Media",
       "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6262665/serie-arcadia-sluit-seizoen-af-met-ruim-300000-minder-kijkers.html",
+    "url": "/media/6262665/serie-arcadia-sluit-seizoen-af-met-ruim-300000-minder-kijkers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6262658/postnl-maakt-weer-minder-winst-door-afname-pakketbezorging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262645,
-    "slug": "albert-heijn-om-tafel-met-vakbonden-loonsverhogingen-of-weer-lege-schappen",
-    "type": "article",
-    "title": "Albert Heijn om tafel met vakbonden: loonsverhogingen of weer lege schappen?",
-    "subtitle": null,
-    "published_at": "2023-05-08T07:38:35+02:00",
-    "updated_at": "2023-05-08T07:48:35+02:00",
-    "media_id": "dlvxpzdanzbx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6262645/albert-heijn-om-tafel-met-vakbonden-loonsverhogingen-of-weer-lege-schappen.html",
     "open_new_window": false,
     "partner": null
   }
