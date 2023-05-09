@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262901,
+    "slug": "grote-onrust-in-pakistan-na-arrestatie-van-oud-premier-khan",
+    "type": "video",
+    "title": "Grote onrust in Pakistan na arrestatie van oud-premier Khan",
+    "subtitle": "Video",
+    "published_at": "2023-05-09T16:12:03+02:00",
+    "updated_at": "2023-05-09T16:12:04+02:00",
+    "media_id": "92xxt5yaqtf6",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262901/grote-onrust-in-pakistan-na-arrestatie-van-oud-premier-khan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262704,
-    "slug": "werknemers-distributiecentra-albert-heijn-krijgen-loonsverhoging-van-10-procent",
+    "slug": "albert-heijn-en-personeel-akkoord-over-10-procent-meer-loon-na-lange-stakingen",
     "type": "article",
-    "title": "Werknemers distributiecentra Albert Heijn krijgen loonsverhoging van 10 procent",
+    "title": "Albert Heijn en personeel akkoord over 10 procent meer loon na lange stakingen",
     "subtitle": null,
     "published_at": "2023-05-09T15:47:47+02:00",
-    "updated_at": "2023-05-09T15:47:51+02:00",
+    "updated_at": "2023-05-09T16:10:42+02:00",
     "media_id": "4wvxq1hapxjb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6262704/werknemers-distributiecentra-albert-heijn-krijgen-loonsverhoging-van-10-procent.html",
+    "url": "/economie/6262704/albert-heijn-en-personeel-akkoord-over-10-procent-meer-loon-na-lange-stakingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Schrale militaire parade met maar één tank in Moskou",
     "subtitle": "Video",
     "published_at": "2023-05-09T15:37:00+02:00",
-    "updated_at": "2023-05-09T15:46:12+02:00",
+    "updated_at": "2023-05-09T15:52:47+02:00",
     "media_id": "amexc8kashop",
     "duration": "0:43",
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Pakistaanse oud-premier Imran Khan opgepakt vanwege corruptie",
     "subtitle": null,
     "published_at": "2023-05-09T13:51:58+02:00",
-    "updated_at": "2023-05-09T15:17:16+02:00",
+    "updated_at": "2023-05-09T16:12:26+02:00",
     "media_id": "j7kxuvmax2wp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262685/sampdoria-en-groningen-alle-gepromoveerde-en-gedegradeerde-clubs-in-europa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262860,
-    "slug": "nintendo-switch-lijkt-over-hoogtepunt-heen-vijfde-minder-spelcomputers-verkocht",
-    "type": "article",
-    "title": "Nintendo Switch lijkt over hoogtepunt heen: vijfde minder spelcomputers verkocht",
-    "subtitle": null,
-    "published_at": "2023-05-09T12:21:59+02:00",
-    "updated_at": "2023-05-09T12:21:59+02:00",
-    "media_id": "u67xkrqa1fwi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6262860/nintendo-switch-lijkt-over-hoogtepunt-heen-vijfde-minder-spelcomputers-verkocht.html",
     "open_new_window": false,
     "partner": null
   }
