@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262956,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-10T05:19:03+02:00",
+    "updated_at": "2023-05-10T05:19:04+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6262956/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261577,
     "slug": "polling-dankzij-baby-op-wolk-van-geluk-naar-wk-judo-medaille-zou-bizar-zijn",
     "type": "article",
@@ -374,19 +397,19 @@
     "title": "Franse journalist omgekomen bij raketinslag in Bakhmut",
     "subtitle": null,
     "published_at": "2023-05-09T21:29:52+02:00",
-    "updated_at": "2023-05-09T21:29:53+02:00",
+    "updated_at": "2023-05-10T05:16:32+02:00",
     "media_id": "t9nx6qraende",
     "duration": null,
     "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6262943/franse-journalist-omgekomen-bij-raketinslag-in-bakhmut.html",
+    "url": "/entertainment/6262943/franse-journalist-omgekomen-bij-raketinslag-in-bakhmut.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6262940/touringcar-zwaar-beschadigd-na-ongeluk-met-vrachtwagen-in-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262939,
-    "slug": "bootjes-uit-venezuela-na-ruim-vier-jaar-terug-op-drijvende-markt-van-curacao",
-    "type": "article",
-    "title": "Bootjes uit Venezuela na ruim vier jaar terug op drijvende markt van Curaçao",
-    "subtitle": null,
-    "published_at": "2023-05-09T20:26:25+02:00",
-    "updated_at": "2023-05-09T20:40:09+02:00",
-    "media_id": "rloxiswadou1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262939/bootjes-uit-venezuela-na-ruim-vier-jaar-terug-op-drijvende-markt-van-curacao.html",
     "open_new_window": false,
     "partner": null
   }
