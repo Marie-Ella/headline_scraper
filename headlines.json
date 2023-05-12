@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263305,
+    "slug": "auto-geramd-door-trein-tijdens-woordenwisseling-in-belgie",
+    "type": "video",
+    "title": "Auto geramd door trein tijdens woordenwisseling in België",
+    "subtitle": "Video",
+    "published_at": "2023-05-12T10:24:43+02:00",
+    "updated_at": "2023-05-12T10:26:18+02:00",
+    "media_id": "zfnxxxqaecfw",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6263305/auto-geramd-door-trein-tijdens-woordenwisseling-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263303,
     "slug": "ebu-weigert-videoboodschap-zelensky-uit-te-zenden-bij-songfestival-finale",
     "type": "article",
     "title": "EBU weigert videoboodschap Zelensky uit te zenden bij Songfestival-finale",
     "subtitle": null,
     "published_at": "2023-05-12T10:17:50+02:00",
-    "updated_at": "2023-05-12T10:17:51+02:00",
+    "updated_at": "2023-05-12T10:24:46+02:00",
     "media_id": "oz5xi0naa5bi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6263201/ook-op-vakantie-ontkom-je-niet-aan-inflatie-voedselprijzen-stijgen-overal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262896,
-    "slug": "verkiezingsupdate-na-campagnes-is-spanning-om-te-snijden-in-turkije",
-    "type": "article",
-    "title": "Verkiezingsupdate: Na campagnes is spanning om te snijden in Turkije",
-    "subtitle": "NU+",
-    "published_at": "2023-05-12T05:09:12+02:00",
-    "updated_at": "2023-05-12T07:09:06+02:00",
-    "media_id": "dmix6m1a3l1r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262896/verkiezingsupdate-na-campagnes-is-spanning-om-te-snijden-in-turkije.html",
     "open_new_window": false,
     "partner": null
   }
