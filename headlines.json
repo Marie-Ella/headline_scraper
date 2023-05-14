@@ -1,12 +1,35 @@
 [
   {
-    "id": 6263633,
-    "slug": "feyenoord-supporters-duiken-hofpleinfontein-in",
+    "id": 6263637,
+    "slug": "zo-reageren-feyenoord-fans-na-het-laatste-fluitsignaal",
     "type": "video",
-    "title": "Feyenoord-supporters duiken Hofpleinfontein in",
+    "title": "Zo reageren Feyenoord-fans na het laatste fluitsignaal",
+    "subtitle": "Livestream",
+    "published_at": "2023-05-14T19:43:37+02:00",
+    "updated_at": "2023-05-14T19:43:48+02:00",
+    "media_id": "rlexzbvanezh",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6263637/zo-reageren-feyenoord-fans-na-het-laatste-fluitsignaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6263633,
+    "slug": "zo-reageren-feyenoord-fans-na-het-laatste-fluitsignaal",
+    "type": "video",
+    "title": "Zo reageren Feyenoord-fans na het laatste fluitsignaal",
     "subtitle": "Video",
     "published_at": "2023-05-14T19:17:07+02:00",
-    "updated_at": "2023-05-14T19:26:16+02:00",
+    "updated_at": "2023-05-14T19:41:39+02:00",
     "media_id": "5a0xj2fagnkq",
     "duration": "0:27",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6263633/feyenoord-supporters-duiken-hofpleinfontein-in.html",
+    "url": "/videos/6263633/zo-reageren-feyenoord-fans-na-het-laatste-fluitsignaal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Hartman in tranen na eerste titel met Feyenoord: 'Dit is toch niet normaal?'",
     "subtitle": null,
     "published_at": "2023-05-14T19:09:47+02:00",
-    "updated_at": "2023-05-14T19:18:44+02:00",
+    "updated_at": "2023-05-14T19:34:45+02:00",
     "media_id": "fqgxf5oa3pbl",
     "duration": null,
     "canonical_section": {
@@ -392,13 +415,13 @@
   },
   {
     "id": 6263618,
-    "slug": "manchester-city-blijft-mede-dankzij-36e-goal-haaland-vol-op-kampioenskoers",
+    "slug": "manchester-city-ziet-arsenal-verliezen-en-staat-op-matchpoint-in-titelrace",
     "type": "article",
-    "title": "Manchester City blijft mede dankzij 36e goal Haaland vol op kampioenskoers",
+    "title": "Manchester City ziet Arsenal verliezen en staat 'op matchpoint' in titelrace",
     "subtitle": null,
     "published_at": "2023-05-14T16:56:09+02:00",
-    "updated_at": "2023-05-14T17:12:18+02:00",
-    "media_id": "yv0xqcaaqw3y",
+    "updated_at": "2023-05-14T19:35:26+02:00",
+    "media_id": "nmexd6caendr",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6263618/manchester-city-blijft-mede-dankzij-36e-goal-haaland-vol-op-kampioenskoers.html",
+    "url": "/voetbal/6263618/manchester-city-ziet-arsenal-verliezen-en-staat-op-matchpoint-in-titelrace.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6263616/politie-beeindigt-illegaal-feest-in-gelderland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263615,
-    "slug": "ridouan-taghi-ontkent-verboden-contact-met-neef-vanuit-extra-beveiligde-inrichting",
-    "type": "article",
-    "title": "Ridouan Taghi ontkent verboden contact met neef vanuit extra beveiligde inrichting",
-    "subtitle": null,
-    "published_at": "2023-05-14T16:27:10+02:00",
-    "updated_at": "2023-05-14T17:42:05+02:00",
-    "media_id": "hozxt1vadhfa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778794,
-      "slug": "marengo-proces",
-      "type": "default",
-      "name": "Marengo-proces",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/marengo-proces/6263615/ridouan-taghi-ontkent-verboden-contact-met-neef-vanuit-extra-beveiligde-inrichting.html",
     "open_new_window": false,
     "partner": null
   }
