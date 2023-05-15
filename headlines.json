@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263664,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-15T05:55:23+02:00",
+    "updated_at": "2023-05-15T05:55:24+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6263664/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263663,
     "slug": "weerbericht-bewolkt-en-soms-een-beetje-regenachtig-begin-van-de-week",
     "type": "article",
     "title": "Weerbericht: Bewolkt (en soms een beetje regenachtig) begin van de week",
     "subtitle": null,
     "published_at": "2023-05-15T05:45:39+02:00",
-    "updated_at": "2023-05-15T05:45:40+02:00",
+    "updated_at": "2023-05-15T06:03:32+02:00",
     "media_id": "tybxuanazvp8",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6263595,
-    "slug": "turkse-presidentsverkiezingen-richting-tweede-ronde-erdogan-op-voorsprong",
+    "slug": "turkse-presidentsverkiezingen-stevenen-af-op-tweede-ronde-erdogan-op-voorsprong",
     "type": "article",
-    "title": "Turkse presidentsverkiezingen richting tweede ronde, Erdogan op voorsprong",
+    "title": "Turkse presidentsverkiezingen stevenen af op tweede ronde, Erdogan op voorsprong",
     "subtitle": null,
     "published_at": "2023-05-15T05:41:35+02:00",
-    "updated_at": "2023-05-15T05:41:36+02:00",
+    "updated_at": "2023-05-15T06:06:09+02:00",
     "media_id": "f9hxgdiao37p",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6263595/turkse-presidentsverkiezingen-richting-tweede-ronde-erdogan-op-voorsprong.html",
+    "url": "/buitenland/6263595/turkse-presidentsverkiezingen-stevenen-af-op-tweede-ronde-erdogan-op-voorsprong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Slot geniet na nat pak van titel met Feyenoord: 'Was niet de leukste thuis'",
     "subtitle": null,
     "published_at": "2023-05-14T22:40:55+02:00",
-    "updated_at": "2023-05-15T00:46:32+02:00",
+    "updated_at": "2023-05-15T06:06:15+02:00",
     "media_id": "cspxhdfa4ofn",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Zeker honderd aanhoudingen rond kampioenswedstrijd Feyenoord in Rotterdam",
     "subtitle": null,
     "published_at": "2023-05-14T22:21:05+02:00",
-    "updated_at": "2023-05-15T00:58:46+02:00",
+    "updated_at": "2023-05-15T06:12:28+02:00",
     "media_id": "csax16yaf31g",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "PSV ontsnapt dankzij Xavi Simons tegen Fortuna en is vrijwel zeker van plek twee",
     "subtitle": null,
     "published_at": "2023-05-14T21:54:56+02:00",
-    "updated_at": "2023-05-15T00:41:01+02:00",
+    "updated_at": "2023-05-15T06:05:18+02:00",
     "media_id": "ownx6a3axttd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6263641/feyenoord-spelers-gooien-arne-slot-in-bad-na-kampioenschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263640,
-    "slug": "klimaatactivisten-doen-aangifte-tegen-tu-eindhoven-wegens-mishandeling",
-    "type": "article",
-    "title": "Klimaatactivisten doen aangifte tegen TU Eindhoven wegens mishandeling",
-    "subtitle": null,
-    "published_at": "2023-05-14T20:43:24+02:00",
-    "updated_at": "2023-05-14T21:06:01+02:00",
-    "media_id": "orbxe2ya4meo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6263640/klimaatactivisten-doen-aangifte-tegen-tu-eindhoven-wegens-mishandeling.html",
     "open_new_window": false,
     "partner": null
   }
