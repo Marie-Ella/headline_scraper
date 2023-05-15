@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263715,
+    "slug": "bekijk-hier-live-de-huldiging-van-feyenoord",
+    "type": "video",
+    "title": "Bekijk hier live de huldiging van Feyenoord",
+    "subtitle": "Livestream",
+    "published_at": "2023-05-15T11:44:30+02:00",
+    "updated_at": "2023-05-15T11:44:31+02:00",
+    "media_id": "e2dxb3tax5wb",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6263715/bekijk-hier-live-de-huldiging-van-feyenoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263712,
     "slug": "kabinet-krijgt-tik-op-vingers-voor-begroting-geen-buffers-voor-tegenvallers",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Vattenfall verlaagt tarieven voor stroom en gas tot onder het prijsplafond",
     "subtitle": null,
     "published_at": "2023-05-15T11:12:10+02:00",
-    "updated_at": "2023-05-15T11:12:11+02:00",
+    "updated_at": "2023-05-15T11:32:36+02:00",
     "media_id": "i6hxt2nandyh",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Tien mensen missen huldiging Feyenoord na arrestatie rond kampioenschap",
     "subtitle": null,
     "published_at": "2023-05-15T11:04:27+02:00",
-    "updated_at": "2023-05-15T11:10:41+02:00",
+    "updated_at": "2023-05-15T11:49:12+02:00",
     "media_id": "q16xocuaze0r",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Vast energiecontract opzeggen wordt duurder",
     "subtitle": null,
     "published_at": "2023-05-15T09:53:26+02:00",
-    "updated_at": "2023-05-15T09:55:25+02:00",
+    "updated_at": "2023-05-15T11:46:21+02:00",
     "media_id": "8vqxjxva4mza",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Wat wil je weten over de Turkse verkiezingsuitslag? Vraag het onze verslaggever",
     "subtitle": null,
     "published_at": "2023-05-15T09:29:15+02:00",
-    "updated_at": "2023-05-15T10:56:32+02:00",
+    "updated_at": "2023-05-15T11:48:01+02:00",
     "media_id": "90rxx42aqyl7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6263675/radio-dj-max-bolhuis-ontvangt-gouden-plaat-voor-hit-dyscalculie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263674,
-    "slug": "treinen-naar-rotterdam-gezellig-druk-vanwege-huldiging-feyenoord",
-    "type": "article",
-    "title": "Treinen naar Rotterdam 'gezellig druk' vanwege huldiging Feyenoord",
-    "subtitle": null,
-    "published_at": "2023-05-15T08:27:00+02:00",
-    "updated_at": "2023-05-15T10:21:57+02:00",
-    "media_id": "zj9xbrfa9l3t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6263674/treinen-naar-rotterdam-gezellig-druk-vanwege-huldiging-feyenoord.html",
     "open_new_window": false,
     "partner": null
   }
