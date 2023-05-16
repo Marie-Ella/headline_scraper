@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263961,
+    "slug": "touringcar-vliegt-in-brand-in-lunteren",
+    "type": "video",
+    "title": "Touringcar vliegt in brand in Lunteren",
+    "subtitle": "Video",
+    "published_at": "2023-05-16T21:22:18+02:00",
+    "updated_at": "2023-05-16T21:22:19+02:00",
+    "media_id": "crdxf60akb8d",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6263961/touringcar-vliegt-in-brand-in-lunteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263959,
     "slug": "songfestival-winnaar-gehuldigd-in-stockholm",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Boze Djokovic beticht Norrie van onsportief gedrag na smash op lichaam",
     "subtitle": null,
     "published_at": "2023-05-16T20:03:38+02:00",
-    "updated_at": "2023-05-16T20:26:41+02:00",
+    "updated_at": "2023-05-16T21:16:51+02:00",
     "media_id": "xwpx32aarsyg",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6263953,
-    "slug": "onana-houdt-inter-overeind-in-halve-finale-cl-tegen-milan",
+    "slug": "inter-houdt-voorlopig-stand-tegen-milan-in-return-halve-finale-cl",
     "type": "article",
-    "title": "Onana houdt Inter overeind in halve finale CL tegen Milan",
+    "title": "Inter houdt voorlopig stand tegen Milan in return halve finale CL",
     "subtitle": "Liveblog",
     "published_at": "2023-05-16T20:01:37+02:00",
-    "updated_at": "2023-05-16T21:11:38+02:00",
-    "media_id": "momxl81akni7",
+    "updated_at": "2023-05-16T21:18:03+02:00",
+    "media_id": "li3xpt1amoke",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6263953/onana-houdt-inter-overeind-in-halve-finale-cl-tegen-milan.html",
+    "url": "/voetbal/6263953/inter-houdt-voorlopig-stand-tegen-milan-in-return-halve-finale-cl.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6263948,
-    "slug": "levenslang-geeist-tegen-verdachten-van-vergismoord-op-stagiair-17-in-amsterdam",
+    "slug": "levenslang-geeist-in-zaak-vergismoord-op-stagiair-17-in-amsterdam",
     "type": "article",
-    "title": "Levenslang geëist tegen verdachten van vergismoord op stagiair (17) in Amsterdam",
+    "title": "Levenslang geëist in zaak vergismoord op stagiair (17) in Amsterdam",
     "subtitle": null,
     "published_at": "2023-05-16T19:21:55+02:00",
-    "updated_at": "2023-05-16T20:46:50+02:00",
+    "updated_at": "2023-05-16T21:21:45+02:00",
     "media_id": "szixlngarr64",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6263948/levenslang-geeist-tegen-verdachten-van-vergismoord-op-stagiair-17-in-amsterdam.html",
+    "url": "/binnenland/6263948/levenslang-geeist-in-zaak-vergismoord-op-stagiair-17-in-amsterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6263929/zo-ziet-het-opengestelde-mausoleum-van-voetbalicoon-pele-eruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263914,
-    "slug": "ajax-mag-nog-hopen-op-tweede-plek-na-winst-op-fc-groningen-in-lege-euroborg",
-    "type": "article",
-    "title": "Ajax mag nog hopen op tweede plek na winst op FC Groningen in lege Euroborg",
-    "subtitle": null,
-    "published_at": "2023-05-16T16:45:08+02:00",
-    "updated_at": "2023-05-16T21:02:27+02:00",
-    "media_id": "w0uxeqna7x18",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263914/ajax-mag-nog-hopen-op-tweede-plek-na-winst-op-fc-groningen-in-lege-euroborg.html",
     "open_new_window": false,
     "partner": null
   }
