@@ -1,12 +1,81 @@
 [
   {
+    "id": 6264218,
+    "slug": "bekijk-de-eerste-beelden-van-de-nieuwe-scorsese-film-met-dicaprio",
+    "type": "video",
+    "title": "Bekijk de eerste beelden van de nieuwe Scorsese-film met DiCaprio",
+    "subtitle": "Video",
+    "published_at": "2023-05-18T15:45:59+02:00",
+    "updated_at": "2023-05-18T15:48:25+02:00",
+    "media_id": "9naxygza2iw6",
+    "duration": "1:50",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6264218/bekijk-de-eerste-beelden-van-de-nieuwe-scorsese-film-met-dicaprio.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264217,
+    "slug": "sting-vreest-vanwege-kunstmatige-intelligentie-voor-toekomst-van-muziek",
+    "type": "article",
+    "title": "Sting vreest vanwege kunstmatige intelligentie voor toekomst van muziek",
+    "subtitle": null,
+    "published_at": "2023-05-18T15:39:46+02:00",
+    "updated_at": "2023-05-18T15:47:33+02:00",
+    "media_id": "vbtxsdwam651",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6264217/sting-vreest-vanwege-kunstmatige-intelligentie-voor-toekomst-van-muziek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264209,
+    "slug": "twente-vrouwen-strijdt-met-psv-vrouwen-om-bekerwinst",
+    "type": "article",
+    "title": "Twente Vrouwen strijdt met PSV Vrouwen om bekerwinst",
+    "subtitle": "Liveblog",
+    "published_at": "2023-05-18T15:30:46+02:00",
+    "updated_at": "2023-05-18T15:43:01+02:00",
+    "media_id": "7wjxco2awso6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264209/twente-vrouwen-strijdt-met-psv-vrouwen-om-bekerwinst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264210,
     "slug": "nieuw-ontdekte-dinosaurus-in-argentinie-omgedoopt-tot-roerei",
     "type": "article",
     "title": "Nieuw ontdekte dinosaurus in Argentinië omgedoopt tot roerei",
     "subtitle": null,
     "published_at": "2023-05-18T15:24:05+02:00",
-    "updated_at": "2023-05-18T15:24:06+02:00",
+    "updated_at": "2023-05-18T15:40:55+02:00",
     "media_id": "5fgx2ival0cc",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Rolf Sanchez en vriendin Sophia zijn na vier jaar uit elkaar",
     "subtitle": null,
     "published_at": "2023-05-18T15:18:52+02:00",
-    "updated_at": "2023-05-18T15:18:54+02:00",
+    "updated_at": "2023-05-18T15:31:59+02:00",
     "media_id": "tdfxdsrapckr",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Wapens, cocaïne en dreiging: Rotterdam komt in 24 uur alle problemen tegen",
     "subtitle": null,
     "published_at": "2023-05-18T15:18:40+02:00",
-    "updated_at": "2023-05-18T15:23:20+02:00",
+    "updated_at": "2023-05-18T15:43:09+02:00",
     "media_id": "9irxu1baw0ja",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Uitspraak Aboukhlal toch niet vrouwonvriendelijk, Toulouse trekt schorsing in",
     "subtitle": null,
     "published_at": "2023-05-18T15:15:05+02:00",
-    "updated_at": "2023-05-18T15:15:06+02:00",
+    "updated_at": "2023-05-18T15:39:47+02:00",
     "media_id": "jlxxex1a5s5e",
     "duration": null,
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "De graandeal is weer verlengd: waarom is dat belangrijk?",
     "subtitle": null,
     "published_at": "2023-05-18T12:41:40+02:00",
-    "updated_at": "2023-05-18T12:56:47+02:00",
+    "updated_at": "2023-05-18T15:39:50+02:00",
     "media_id": "76hxb5waoxnl",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6264077/apple-houdt-zich-afzijdig-in-de-nieuwe-ai-race-mist-het-bedrijf-de-boot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264026,
-    "slug": "praat-mee-over-meepraten-wat-vind-je-van-de-reactiemogelijkheden-op-nunl",
-    "type": "article",
-    "title": "Praat mee over meepraten: wat vind je van de reactiemogelijkheden op NU.nl?",
-    "subtitle": null,
-    "published_at": "2023-05-18T12:07:11+02:00",
-    "updated_at": "2023-05-18T12:15:25+02:00",
-    "media_id": "2e5x45qa30ek",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6264026/praat-mee-over-meepraten-wat-vind-je-van-de-reactiemogelijkheden-op-nunl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264186,
-    "slug": "haal-die-zakdoeken-maar-tevoorschijn-de-graspollen-komen-er-nu-echt-aan",
-    "type": "article",
-    "title": "Haal die zakdoeken maar tevoorschijn: de graspollen komen er nu echt aan",
-    "subtitle": null,
-    "published_at": "2023-05-18T12:04:44+02:00",
-    "updated_at": "2023-05-18T13:12:24+02:00",
-    "media_id": "a7cxnxiaoaif",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264186/haal-die-zakdoeken-maar-tevoorschijn-de-graspollen-komen-er-nu-echt-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264188,
-    "slug": "thaise-reddingswerkers-bevrijden-babyolifant-uit-diepe-put",
-    "type": "video",
-    "title": "Thaise reddingswerkers bevrijden babyolifant uit diepe put",
-    "subtitle": "Video",
-    "published_at": "2023-05-18T11:44:30+02:00",
-    "updated_at": "2023-05-18T11:44:31+02:00",
-    "media_id": "13sxzyeaeym2",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264188/thaise-reddingswerkers-bevrijden-babyolifant-uit-diepe-put.html",
     "open_new_window": false,
     "partner": null
   }
