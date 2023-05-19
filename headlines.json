@@ -1,12 +1,58 @@
 [
   {
+    "id": 6264330,
+    "slug": "binnenvaart-moet-schoner-gaan-werken-bij-het-ontgassen-van-de-laadruimte",
+    "type": "article",
+    "title": "Binnenvaart moet schoner gaan werken bij het ontgassen van de laadruimte",
+    "subtitle": null,
+    "published_at": "2023-05-19T11:42:47+02:00",
+    "updated_at": "2023-05-19T11:42:48+02:00",
+    "media_id": "gj3xfa2apwj6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6264330/binnenvaart-moet-schoner-gaan-werken-bij-het-ontgassen-van-de-laadruimte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264324,
+    "slug": "az-kan-nog-niet-trots-zijn-op-europees-jaar-wat-was-ik-graag-naar-praag-gegaan",
+    "type": "article",
+    "title": "AZ kan nog niet trots zijn op Europees jaar: 'Wat was ik graag naar Praag gegaan'",
+    "subtitle": null,
+    "published_at": "2023-05-19T11:31:31+02:00",
+    "updated_at": "2023-05-19T11:49:53+02:00",
+    "media_id": "o35xu0bahny9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264324/az-kan-nog-niet-trots-zijn-op-europees-jaar-wat-was-ik-graag-naar-praag-gegaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264323,
     "slug": "bergrit-in-giro-ditalia-verder-ingekort-vanwege-slechte-weersomstandigheden",
     "type": "article",
     "title": "Bergrit in Giro d'Italia verder ingekort vanwege slechte weersomstandigheden",
     "subtitle": null,
     "published_at": "2023-05-19T10:58:19+02:00",
-    "updated_at": "2023-05-19T11:28:34+02:00",
+    "updated_at": "2023-05-19T11:38:31+02:00",
     "media_id": "qrfxotdavsu2",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Nog geen aanhoudingen na bestorming hoofdtribune door AZ-supporters",
     "subtitle": null,
     "published_at": "2023-05-19T09:57:31+02:00",
-    "updated_at": "2023-05-19T09:57:33+02:00",
+    "updated_at": "2023-05-19T11:36:26+02:00",
     "media_id": "xgbxvo2ae8cf",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Vijf miljoen mensen hebben goedkoper Netflix-abonnement met reclame",
     "subtitle": null,
     "published_at": "2023-05-19T09:49:11+02:00",
-    "updated_at": "2023-05-19T09:58:37+02:00",
+    "updated_at": "2023-05-19T11:37:31+02:00",
     "media_id": "cdixpbpad5jr",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6264283/disney-trekt-bouwplannen-in-na-pesterijen-door-gouverneur-florida.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264287,
-    "slug": "openai-brengt-ai-chatbot-chatgpt-uit-als-app-voor-iphone",
-    "type": "article",
-    "title": "OpenAI brengt AI-chatbot ChatGPT uit als app voor iPhone",
-    "subtitle": null,
-    "published_at": "2023-05-19T08:55:51+02:00",
-    "updated_at": "2023-05-19T08:56:53+02:00",
-    "media_id": "6muxy0zatctm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6264287/openai-brengt-ai-chatbot-chatgpt-uit-als-app-voor-iphone.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264285,
-    "slug": "nederland-mag-na-uitstekend-coefficientenjaar-hopen-op-derde-cl-ticket",
-    "type": "article",
-    "title": "Nederland mag na uitstekend coëfficiëntenjaar hopen op derde CL-ticket",
-    "subtitle": null,
-    "published_at": "2023-05-19T08:46:42+02:00",
-    "updated_at": "2023-05-19T08:46:44+02:00",
-    "media_id": "c9fxlt7azzdf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264285/nederland-mag-na-uitstekend-coefficientenjaar-hopen-op-derde-cl-ticket.html",
     "open_new_window": false,
     "partner": null
   }
