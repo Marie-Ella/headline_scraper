@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264440,
+    "slug": "heracles-fans-rennen-veld-op-na-gewonnen-kampioenschap",
+    "type": "video",
+    "title": "Heracles-fans rennen veld op na gewonnen kampioenschap",
+    "subtitle": "Video",
+    "published_at": "2023-05-20T09:00:16+02:00",
+    "updated_at": "2023-05-20T09:00:17+02:00",
+    "media_id": "q21x8uqab4fm",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6264440/heracles-fans-rennen-veld-op-na-gewonnen-kampioenschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264439,
-    "slug": "77-voudig-oranje-international-kika-van-es-zet-punt-achter-carriere",
+    "slug": "oranje-international-kika-van-es-kondigt-afscheid-aan-maar-hoopt-nog-op-wk",
     "type": "article",
-    "title": "77-voudig Oranje-international Kika van Es zet punt achter carrière",
+    "title": "Oranje-international Kika van Es kondigt afscheid aan, maar hoopt nog op WK",
     "subtitle": null,
     "published_at": "2023-05-20T08:48:02+02:00",
-    "updated_at": "2023-05-20T08:48:03+02:00",
+    "updated_at": "2023-05-20T09:14:30+02:00",
     "media_id": "1gwxiejaiy1u",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264439/77-voudig-oranje-international-kika-van-es-zet-punt-achter-carriere.html",
+    "url": "/voetbal/6264439/oranje-international-kika-van-es-kondigt-afscheid-aan-maar-hoopt-nog-op-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Heracles viert uitbundig feest na titel: 'De komende 72 uur zijn we niet nuchter'",
     "subtitle": null,
     "published_at": "2023-05-19T23:04:23+02:00",
-    "updated_at": "2023-05-20T07:59:06+02:00",
+    "updated_at": "2023-05-20T09:01:39+02:00",
     "media_id": "vsmxbega1ku4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264420/heracles-viert-uitbundig-feest-na-titel-de-komende-72-uur-zijn-we-niet-nuchter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264419,
-    "slug": "sheriff-redt-jonge-dolfijn-in-nood-in-de-golf-van-mexico",
-    "type": "video",
-    "title": "Sheriff redt jonge dolfijn in nood in de Golf van Mexico",
-    "subtitle": "Video",
-    "published_at": "2023-05-19T22:47:07+02:00",
-    "updated_at": "2023-05-19T22:56:16+02:00",
-    "media_id": "31fxm66ar08r",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264419/sheriff-redt-jonge-dolfijn-in-nood-in-de-golf-van-mexico.html",
     "open_new_window": false,
     "partner": null
   }
