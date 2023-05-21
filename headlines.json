@@ -1,12 +1,58 @@
 [
   {
-    "id": 6264518,
-    "slug": "manchester-city-haalt-gram-met-nieuwe-titel-arsenal-dreef-ons-tot-het-uiterste",
+    "id": 6264373,
+    "slug": "hoe-onze-formule-1-verslaggever-in-een-rampgebied-terechtkwam",
     "type": "article",
-    "title": "Manchester City haalt gram met nieuwe titel: 'Arsenal dreef ons tot het uiterste'",
+    "title": "Hoe onze Formule 1-verslaggever in een rampgebied terechtkwam",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2023-05-21T10:43:35+02:00",
+    "updated_at": "2023-05-21T10:43:36+02:00",
+    "media_id": "8cdx951ar2ny",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6264373/hoe-onze-formule-1-verslaggever-in-een-rampgebied-terechtkwam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264532,
+    "slug": "tottenham-meldde-zich-nog-niet-voor-slot-wel-tevergeefs-voor-directeur-te-kloese",
+    "type": "article",
+    "title": "Tottenham meldde zich nog niet voor Slot, wel tevergeefs voor directeur Te Kloese",
+    "subtitle": null,
+    "published_at": "2023-05-21T10:35:08+02:00",
+    "updated_at": "2023-05-21T10:48:26+02:00",
+    "media_id": "cspxhdfa4ofn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264532/tottenham-meldde-zich-nog-niet-voor-slot-wel-tevergeefs-voor-directeur-te-kloese.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264518,
+    "slug": "city-krijgt-loon-naar-werken-met-nieuwe-titel-arsenal-dreef-ons-tot-het-uiterste",
+    "type": "article",
+    "title": "City krijgt loon naar werken met nieuwe titel: 'Arsenal dreef ons tot het uiterste'",
     "subtitle": null,
     "published_at": "2023-05-21T09:30:36+02:00",
-    "updated_at": "2023-05-21T09:37:56+02:00",
+    "updated_at": "2023-05-21T10:30:15+02:00",
     "media_id": "xljxddoaa062",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264518/manchester-city-haalt-gram-met-nieuwe-titel-arsenal-dreef-ons-tot-het-uiterste.html",
+    "url": "/voetbal/6264518/city-krijgt-loon-naar-werken-met-nieuwe-titel-arsenal-dreef-ons-tot-het-uiterste.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264499/ac-milan-spoelt-champions-league-kater-weg-met-fraaie-zege-op-sampdoria.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264498,
-    "slug": "bayern-geeft-initiatief-in-zinderende-titelrace-weg-begrijp-er-helemaal-niets-van",
-    "type": "article",
-    "title": "Bayern geeft initiatief in zinderende titelrace weg: 'Begrijp er helemaal niets van'",
-    "subtitle": null,
-    "published_at": "2023-05-20T22:23:49+02:00",
-    "updated_at": "2023-05-20T22:54:14+02:00",
-    "media_id": "smtxhlnaivgi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264498/bayern-geeft-initiatief-in-zinderende-titelrace-weg-begrijp-er-helemaal-niets-van.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264496,
-    "slug": "manchester-city-fans-trekken-naar-stadion-om-kampioenschap-te-vieren",
-    "type": "article",
-    "title": "Manchester City-fans trekken naar stadion om kampioenschap te vieren",
-    "subtitle": "In beeld",
-    "published_at": "2023-05-20T21:53:43+02:00",
-    "updated_at": "2023-05-20T22:50:48+02:00",
-    "media_id": "zzmxwuualkkd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264496/manchester-city-fans-trekken-naar-stadion-om-kampioenschap-te-vieren.html",
     "open_new_window": false,
     "partner": null
   }
