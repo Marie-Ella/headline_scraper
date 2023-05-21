@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264346,
+    "slug": "waarom-we-in-nederland-steeds-minder-vogels-zien",
+    "type": "video",
+    "title": "Waarom we in Nederland steeds minder vogels zien",
+    "subtitle": "Explainers",
+    "published_at": "2023-05-21T06:09:41+02:00",
+    "updated_at": "2023-05-21T06:09:41+02:00",
+    "media_id": "hb1xrpfaop6o",
+    "duration": "2:08",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6264346/waarom-we-in-nederland-steeds-minder-vogels-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264506,
     "slug": "weerbericht-warme-dag-met-in-de-avond-kans-op-stevige-buien-met-onweer",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6264473/lezers-over-stelen-bij-zelfscankassas-dit-staat-vooruitgang-in-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264484,
-    "slug": "gevechtsvliegtuig-stort-neer-op-luchtbasis-zaragoza",
-    "type": "video",
-    "title": "Gevechtsvliegtuig stort neer op luchtbasis Zaragoza",
-    "subtitle": "Video",
-    "published_at": "2023-05-20T18:22:45+02:00",
-    "updated_at": "2023-05-20T18:32:43+02:00",
-    "media_id": "l84xi25anpin",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264484/gevechtsvliegtuig-stort-neer-op-luchtbasis-zaragoza.html",
     "open_new_window": false,
     "partner": null
   }
