@@ -1,12 +1,58 @@
 [
   {
-    "id": 6264573,
-    "slug": "kersverse-kampioen-manchester-city-neemt-met-zege-op-chelsea-beker-in-ontvangst",
+    "id": 6264575,
+    "slug": "dortmund-profiteert-door-haller-van-misstap-bayern-en-zet-grote-stap-richting-titel",
     "type": "article",
-    "title": "Kersverse kampioen Manchester City neemt met zege op Chelsea beker in ontvangst",
+    "title": "Dortmund profiteert door Haller van misstap Bayern en zet grote stap richting titel",
+    "subtitle": null,
+    "published_at": "2023-05-21T19:25:49+02:00",
+    "updated_at": "2023-05-21T19:25:50+02:00",
+    "media_id": "eubxshgabs4e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264575/dortmund-profiteert-door-haller-van-misstap-bayern-en-zet-grote-stap-richting-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264574,
+    "slug": "medvedev-wint-in-rome-ten-koste-van-rune-eerste-graveltoernooi-uit-carriere",
+    "type": "article",
+    "title": "Medvedev wint in Rome ten koste van Rune eerste graveltoernooi uit carrière",
+    "subtitle": null,
+    "published_at": "2023-05-21T19:24:55+02:00",
+    "updated_at": "2023-05-21T19:26:43+02:00",
+    "media_id": "k4pxjmoacf6s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6264574/medvedev-wint-in-rome-ten-koste-van-rune-eerste-graveltoernooi-uit-carriere.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264573,
+    "slug": "kersverse-kampioen-city-neemt-met-zege-op-chelsea-beker-in-ontvangst",
+    "type": "article",
+    "title": "Kersverse kampioen City neemt met zege op Chelsea beker in ontvangst",
     "subtitle": null,
     "published_at": "2023-05-21T19:02:19+02:00",
-    "updated_at": "2023-05-21T19:02:20+02:00",
+    "updated_at": "2023-05-21T19:26:35+02:00",
     "media_id": "vphxe4yak7kb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264573/kersverse-kampioen-manchester-city-neemt-met-zege-op-chelsea-beker-in-ontvangst.html",
+    "url": "/voetbal/6264573/kersverse-kampioen-city-neemt-met-zege-op-chelsea-beker-in-ontvangst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6264546/nederlands-vliegtuigje-neergestort-in-bosrijk-gebied-kroatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264082,
-    "slug": "studenten-hoeven-minder-punten-te-halen-ontspannen-ook-belangrijk",
-    "type": "article",
-    "title": "Studenten hoeven minder punten te halen: 'Ontspannen ook belangrijk'",
-    "subtitle": "NU+",
-    "published_at": "2023-05-21T13:58:01+02:00",
-    "updated_at": "2023-05-21T15:59:07+02:00",
-    "media_id": "bn8xfarahffj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6264082/studenten-hoeven-minder-punten-te-halen-ontspannen-ook-belangrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264545,
-    "slug": "code-geel-in-deel-van-het-land-kans-op-zware-onweersbuien",
-    "type": "article",
-    "title": "Code geel in deel van het land, kans op zware onweersbuien",
-    "subtitle": null,
-    "published_at": "2023-05-21T13:53:21+02:00",
-    "updated_at": "2023-05-21T14:32:00+02:00",
-    "media_id": "2x5xq9fagzr1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264545/code-geel-in-deel-van-het-land-kans-op-zware-onweersbuien.html",
     "open_new_window": false,
     "partner": null
   }
