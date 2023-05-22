@@ -1,12 +1,35 @@
 [
   {
-    "id": 6264633,
-    "slug": "facebook-moederbedrijf-krijgt-13-miljard-dollar-boete-van-brussel",
+    "id": 6264634,
+    "slug": "songfestival-winnares-loreen-komt-in-november-naar-paradiso",
     "type": "article",
-    "title": "Facebook-moederbedrijf krijgt 1,3 miljard dollar boete van Brussel",
+    "title": "Songfestival-winnares Loreen komt in november naar Paradiso",
+    "subtitle": null,
+    "published_at": "2023-05-22T11:19:20+02:00",
+    "updated_at": "2023-05-22T11:19:21+02:00",
+    "media_id": "u9fxejkau7gx",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6264634/songfestival-winnares-loreen-komt-in-november-naar-paradiso.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264633,
+    "slug": "facebook-moederbedrijf-krijgt-12-miljard-euro-boete-van-brussel",
+    "type": "article",
+    "title": "Facebook-moederbedrijf krijgt 1,2 miljard euro boete van Brussel",
     "subtitle": null,
     "published_at": "2023-05-22T11:10:35+02:00",
-    "updated_at": "2023-05-22T11:17:20+02:00",
+    "updated_at": "2023-05-22T11:25:56+02:00",
     "media_id": "b5vxarjalfyw",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6264633/facebook-moederbedrijf-krijgt-13-miljard-dollar-boete-van-brussel.html",
+    "url": "/tech/6264633/facebook-moederbedrijf-krijgt-12-miljard-euro-boete-van-brussel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6264599/mariska-bauer-is-nog-niet-de-oude-na-herseninfarct-van-vorig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264597,
-    "slug": "weerbericht-thermometer-zegt-langs-de-kust-iets-heel-anders-dan-in-binnenland",
-    "type": "article",
-    "title": "Weerbericht: Thermometer zegt langs de kust iets heel anders dan in binnenland",
-    "subtitle": null,
-    "published_at": "2023-05-22T05:45:07+02:00",
-    "updated_at": "2023-05-22T07:29:46+02:00",
-    "media_id": "71nxp1labiom",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264597/weerbericht-thermometer-zegt-langs-de-kust-iets-heel-anders-dan-in-binnenland.html",
     "open_new_window": false,
     "partner": null
   }
