@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264848,
+    "slug": "minister-wiersma-biedt-vvd-fractie-en-medewerkers-excuses-aan-voor-gedrag",
+    "type": "article",
+    "title": "Minister Wiersma biedt VVD-fractie en medewerkers excuses aan voor gedrag",
+    "subtitle": null,
+    "published_at": "2023-05-23T17:21:45+02:00",
+    "updated_at": "2023-05-23T17:21:47+02:00",
+    "media_id": "piqxj7qaykvk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6264848/minister-wiersma-biedt-vvd-fractie-en-medewerkers-excuses-aan-voor-gedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264850,
     "slug": "auto-van-spoor-getild-na-botsing-met-trein-in-bergen-op-zoom",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Thomas rijdt weg bij Roglic en verovert roze trui, Almeida wint bergrit in Giro",
     "subtitle": null,
     "published_at": "2023-05-23T17:02:23+02:00",
-    "updated_at": "2023-05-23T17:13:10+02:00",
+    "updated_at": "2023-05-23T17:19:12+02:00",
     "media_id": "sr9xdu0ahie9",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6264843,
-    "slug": "klimaatactivisten-verstoren-vergadering-van-shell-in-londen",
+    "slug": "shell-bijeenkomst-stilgelegd-britse-activisten-proberen-podium-te-betreden",
     "type": "video",
-    "title": "Klimaatactivisten verstoren vergadering van Shell in Londen",
+    "title": "Shell-bijeenkomst stilgelegd, Britse activisten proberen podium te betreden",
     "subtitle": "Video",
     "published_at": "2023-05-23T16:50:52+02:00",
-    "updated_at": "2023-05-23T16:50:56+02:00",
+    "updated_at": "2023-05-23T17:21:12+02:00",
     "media_id": "f91xqieampze",
     "duration": "0:45",
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6264843/klimaatactivisten-verstoren-vergadering-van-shell-in-londen.html",
+    "url": "/videos/6264843/shell-bijeenkomst-stilgelegd-britse-activisten-proberen-podium-te-betreden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,19 +282,19 @@
     "title": "Eerste Kamer stemt in met pandemiewet",
     "subtitle": null,
     "published_at": "2023-05-23T15:06:04+02:00",
-    "updated_at": "2023-05-23T15:18:15+02:00",
+    "updated_at": "2023-05-23T17:19:09+02:00",
     "media_id": "4y4x1bsasn9m",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 1771437,
+      "slug": "politiek",
       "type": "default",
-      "name": "Binnenland",
+      "name": "Politiek",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6264825/eerste-kamer-stemt-in-met-pandemiewet.html",
+    "url": "/politiek/6264825/eerste-kamer-stemt-in-met-pandemiewet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264816/fc-twente-icoon-brama-36-zet-na-dit-seizoen-punt-achter-loopbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264811,
-    "slug": "vorig-jaar-minder-kinderen-uit-huis-geplaatst-maar-dat-leidt-ook-tot-zorgen",
-    "type": "article",
-    "title": "Vorig jaar minder kinderen uit huis geplaatst, maar dat leidt ook tot zorgen",
-    "subtitle": null,
-    "published_at": "2023-05-23T13:45:58+02:00",
-    "updated_at": "2023-05-23T13:45:59+02:00",
-    "media_id": "4ftxcznanpyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264811/vorig-jaar-minder-kinderen-uit-huis-geplaatst-maar-dat-leidt-ook-tot-zorgen.html",
     "open_new_window": false,
     "partner": null
   }
