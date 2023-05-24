@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265026,
+    "slug": "bruce-springsteen-fans-wachten-dagen-bij-arena-voor-goed-plekje",
+    "type": "video",
+    "title": "Bruce Springsteen-fans wachten dagen bij ArenA voor goed plekje",
+    "subtitle": "Video",
+    "published_at": "2023-05-24T18:41:30+02:00",
+    "updated_at": "2023-05-24T18:41:31+02:00",
+    "media_id": "w2hxbi8azh0w",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265026/bruce-springsteen-fans-wachten-dagen-bij-arena-voor-goed-plekje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265023,
     "slug": "de-graafschap-gaat-niet-verder-met-revaliderende-poldervaart-erg-lastig-besluit",
     "type": "article",
     "title": "De Graafschap gaat niet verder met revaliderende Poldervaart: 'Erg lastig besluit'",
     "subtitle": null,
     "published_at": "2023-05-24T18:25:15+02:00",
-    "updated_at": "2023-05-24T18:25:23+02:00",
+    "updated_at": "2023-05-24T18:41:13+02:00",
     "media_id": "25pxmffaioq3",
     "duration": null,
     "canonical_section": {
@@ -167,8 +190,8 @@
     "title": "Dwarslaesiepatiënt kan als eerste benen bewegen met hersenen door implantaten",
     "subtitle": null,
     "published_at": "2023-05-24T17:20:02+02:00",
-    "updated_at": "2023-05-24T18:33:09+02:00",
-    "media_id": "atuxyozaguy9",
+    "updated_at": "2023-05-24T18:41:50+02:00",
+    "media_id": "8kzxol7acr1z",
     "duration": null,
     "canonical_section": {
       "id": 478878,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264977/acht-sleutelmomenten-uit-het-roerige-psv-seizoen-van-van-nistelrooij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264974,
-    "slug": "kabinet-wil-contract-met-ns-verlengen-voor-merendeel-van-nederlandse-sporen",
-    "type": "article",
-    "title": "Kabinet wil contract met NS verlengen voor merendeel van Nederlandse sporen",
-    "subtitle": null,
-    "published_at": "2023-05-24T14:38:25+02:00",
-    "updated_at": "2023-05-24T17:03:22+02:00",
-    "media_id": "yr4xhrpaygm5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6264974/kabinet-wil-contract-met-ns-verlengen-voor-merendeel-van-nederlandse-sporen.html",
     "open_new_window": false,
     "partner": null
   }
