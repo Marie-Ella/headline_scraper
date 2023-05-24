@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264893,
+    "slug": "weerbericht-frisse-lentebries-zorgt-opnieuw-voor-koude-maar-droge-dag",
+    "type": "article",
+    "title": "Weerbericht: Frisse lentebries zorgt opnieuw voor koude maar droge dag",
+    "subtitle": null,
+    "published_at": "2023-05-24T05:57:21+02:00",
+    "updated_at": "2023-05-24T06:10:04+02:00",
+    "media_id": "gnnx3hcap3eo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6264893/weerbericht-frisse-lentebries-zorgt-opnieuw-voor-koude-maar-droge-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264892,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Kurkdroge regio's in Zuid-Spanje getroffen door zware regenval",
     "subtitle": null,
     "published_at": "2023-05-24T01:05:43+02:00",
-    "updated_at": "2023-05-24T01:10:27+02:00",
+    "updated_at": "2023-05-24T06:15:17+02:00",
     "media_id": "tygxyfkahmk5",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6264879,
-    "slug": "peter-gillis-heeft-een-nieuwe-liefde-aan-de-haak-geslagen",
+    "slug": "peter-gillis-is-drie-maanden-na-breuk-met-ex-weer-gelukkig-in-de-liefde",
     "type": "article",
-    "title": "Peter Gillis heeft een nieuwe liefde aan de haak geslagen",
+    "title": "Peter Gillis is drie maanden na breuk met ex weer gelukkig in de liefde",
     "subtitle": null,
     "published_at": "2023-05-23T21:35:32+02:00",
-    "updated_at": "2023-05-23T21:35:34+02:00",
+    "updated_at": "2023-05-24T06:16:24+02:00",
     "media_id": "905xcz3aj4aw",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6264879/peter-gillis-heeft-een-nieuwe-liefde-aan-de-haak-geslagen.html",
+    "url": "/achterklap/6264879/peter-gillis-is-drie-maanden-na-breuk-met-ex-weer-gelukkig-in-de-liefde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264866/west-ham-beloont-fan-knollsy-met-finaleticket-na-tegenhouden-van-az-hooligans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264855,
-    "slug": "microsoft-zet-ai-centraal-in-windows-11-met-persoonlijke-assistent-copilot",
-    "type": "article",
-    "title": "Microsoft zet AI centraal in Windows 11 met persoonlijke assistent Copilot",
-    "subtitle": null,
-    "published_at": "2023-05-23T18:34:00+02:00",
-    "updated_at": "2023-05-23T20:55:48+02:00",
-    "media_id": "80dxojia7nsd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6264855/microsoft-zet-ai-centraal-in-windows-11-met-persoonlijke-assistent-copilot.html",
     "open_new_window": false,
     "partner": null
   }
