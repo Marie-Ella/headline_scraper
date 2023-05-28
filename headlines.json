@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265550,
+    "slug": "het-programma-van-deze-bomvolle-sportdag",
+    "type": "article",
+    "title": "Het programma van deze bomvolle sportdag",
+    "subtitle": "Overzicht",
+    "published_at": "2023-05-28T10:41:51+02:00",
+    "updated_at": "2023-05-28T10:43:56+02:00",
+    "media_id": "kqjxs89aa1f4",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6265550/het-programma-van-deze-bomvolle-sportdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265548,
     "slug": "luton-speler-mpanzu-bekroont-bijzondere-opmars-heb-het-voetbal-uitgespeeld",
     "type": "article",
     "title": "Luton-speler Mpanzu bekroont bijzondere opmars: 'Heb het voetbal uitgespeeld'",
     "subtitle": null,
     "published_at": "2023-05-28T10:19:55+02:00",
-    "updated_at": "2023-05-28T10:21:44+02:00",
+    "updated_at": "2023-05-28T10:34:29+02:00",
     "media_id": "5sfxfq8aihax",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262335/feyenoord-kan-eerste-kampioen-sinds-2005-worden-met-maar-een-nederlaag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265487,
-    "slug": "ook-de-glamour-en-rijkdom-kunnen-de-gp-van-monaco-niet-redden",
-    "type": "article",
-    "title": "Ook de glamour en rijkdom kunnen de GP van Monaco niet redden",
-    "subtitle": "NU+",
-    "published_at": "2023-05-28T05:05:32+02:00",
-    "updated_at": "2023-05-28T05:38:44+02:00",
-    "media_id": "9kix55baurd7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6265487/ook-de-glamour-en-rijkdom-kunnen-de-gp-van-monaco-niet-redden.html",
     "open_new_window": false,
     "partner": null
   }
