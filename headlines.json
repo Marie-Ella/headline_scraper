@@ -1,35 +1,12 @@
 [
   {
-    "id": 6265158,
-    "slug": "grote-zorgen-over-de-opdrogende-coloradorivier-waar-gaat-het-water-naartoe",
-    "type": "video",
-    "title": "Grote zorgen over de opdrogende Coloradorivier: waar gaat het water naartoe?",
-    "subtitle": "Explainer",
-    "published_at": "2023-05-28T07:05:15+02:00",
-    "updated_at": "2023-05-28T07:05:17+02:00",
-    "media_id": "splxv52ammmp",
-    "duration": "1:56",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6265158/grote-zorgen-over-de-opdrogende-coloradorivier-waar-gaat-het-water-naartoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6265530,
     "slug": "inhalen-in-monaco-is-lastig-deze-aanpassing-maakt-het-makkelijker",
     "type": "video",
     "title": "Inhalen in Monaco is lastig: deze aanpassing maakt het makkelijker",
     "subtitle": "Explainer",
     "published_at": "2023-05-28T06:42:00+02:00",
-    "updated_at": "2023-05-28T06:42:01+02:00",
+    "updated_at": "2023-05-28T07:45:10+02:00",
     "media_id": "f5bxn7da83mp",
     "duration": "1:43",
     "canonical_section": {
@@ -47,12 +24,12 @@
   },
   {
     "id": 6265534,
-    "slug": "eerste-vlucht-c919-van-chinese-rivaal-boeing-vertrokken",
+    "slug": "eerste-vlucht-c919-van-chinese-rivaal-boeing-geslaagd",
     "type": "article",
-    "title": "Eerste vlucht C919 van Chinese rivaal Boeing vertrokken",
+    "title": "Eerste vlucht C919 van Chinese rivaal Boeing geslaagd",
     "subtitle": null,
     "published_at": "2023-05-28T06:23:21+02:00",
-    "updated_at": "2023-05-28T06:23:23+02:00",
+    "updated_at": "2023-05-28T07:44:12+02:00",
     "media_id": "vkyxu1uar3w5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6265534/eerste-vlucht-c919-van-chinese-rivaal-boeing-vertrokken.html",
+    "url": "/economie/6265534/eerste-vlucht-c919-van-chinese-rivaal-boeing-geslaagd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +52,7 @@
     "title": "Weerbericht: Warme dag met een mix van zon en wat wolkenvelden",
     "subtitle": null,
     "published_at": "2023-05-28T06:03:40+02:00",
-    "updated_at": "2023-05-28T06:03:42+02:00",
+    "updated_at": "2023-05-28T07:39:06+02:00",
     "media_id": "m1mxmaja74mm",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/videos/6265522/egypte-toont-eeuwenoude-net-ontdekte-tombes-en-werkplaatsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265521,
+    "slug": "alfred-schreuder-tekent-vier-maanden-na-ontslag-bij-ajax-in-midden-oosten",
+    "type": "article",
+    "title": "Alfred Schreuder tekent vier maanden na ontslag bij Ajax in Midden-Oosten",
+    "subtitle": null,
+    "published_at": "2023-05-27T21:31:49+02:00",
+    "updated_at": "2023-05-27T22:24:02+02:00",
+    "media_id": "cm1xxrqail1j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265521/alfred-schreuder-tekent-vier-maanden-na-ontslag-bij-ajax-in-midden-oosten.html",
     "open_new_window": false,
     "partner": null
   }
