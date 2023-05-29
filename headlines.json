@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265662,
+    "slug": "70-procent-van-turkse-nederlanders-stemt-op-erdogan-in-tweede-ronde",
+    "type": "article",
+    "title": "70 procent van Turkse Nederlanders stemt op Erdogan in tweede ronde",
+    "subtitle": null,
+    "published_at": "2023-05-29T10:36:40+02:00",
+    "updated_at": "2023-05-29T10:44:49+02:00",
+    "media_id": "cxux4mia9mcg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6265662/70-procent-van-turkse-nederlanders-stemt-op-erdogan-in-tweede-ronde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265660,
     "slug": "president-erdogan-roept-op-tot-eenheid-in-overwinningsspeech",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6265659,
-    "slug": "wat-wil-jij-weten-over-de-winst-van-erdogan-vraag-het-onze-verslaggever",
+    "slug": "wat-wil-jij-weten-over-erdogans-winst-vraag-het-onze-verslaggever",
     "type": "article",
-    "title": "Wat wil jij weten over de winst van Erdogan? Vraag het onze verslaggever",
+    "title": "Wat wil jij weten over Erdogans winst? Vraag het onze verslaggever",
     "subtitle": "Oproep",
     "published_at": "2023-05-29T10:20:18+02:00",
-    "updated_at": "2023-05-29T10:21:07+02:00",
+    "updated_at": "2023-05-29T10:37:30+02:00",
     "media_id": "4v8xb3uavfpx",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/vragenoproep/6265659/wat-wil-jij-weten-over-de-winst-van-erdogan-vraag-het-onze-verslaggever.html",
+    "url": "/vragenoproep/6265659/wat-wil-jij-weten-over-erdogans-winst-vraag-het-onze-verslaggever.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265633/aanblijven-xavi-simons-bij-psv-nog-onzeker-hij-kan-ooit-in-europese-top-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265381,
-    "slug": "de-digitale-euro-komt-eraan-dit-is-wat-we-al-weten",
-    "type": "article",
-    "title": "De digitale euro komt eraan, dit is wat we al weten",
-    "subtitle": "NU+",
-    "published_at": "2023-05-29T05:02:09+02:00",
-    "updated_at": "2023-05-29T05:02:10+02:00",
-    "media_id": "hrlx3aia9vzp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6265381/de-digitale-euro-komt-eraan-dit-is-wat-we-al-weten.html",
     "open_new_window": false,
     "partner": null
   }
