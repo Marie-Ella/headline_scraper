@@ -1,12 +1,58 @@
 [
   {
+    "id": 6265706,
+    "slug": "auto-botst-bijna-tegen-voorligger-tijdens-natuurbrand-in-canada",
+    "type": "video",
+    "title": "Auto botst bijna tegen voorligger tijdens natuurbrand in Canada",
+    "subtitle": "Video",
+    "published_at": "2023-05-29T17:27:29+02:00",
+    "updated_at": "2023-05-29T17:27:31+02:00",
+    "media_id": "9i6xbi5ag0fd",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265706/auto-botst-bijna-tegen-voorligger-tijdens-natuurbrand-in-canada.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265705,
+    "slug": "speelsters-ajax-spraken-met-directie-over-afblazen-huldiging-dit-was-niet-goed",
+    "type": "article",
+    "title": "Speelsters Ajax spraken met directie over afblazen huldiging: 'Dit was niet goed'",
+    "subtitle": null,
+    "published_at": "2023-05-29T17:26:52+02:00",
+    "updated_at": "2023-05-29T17:28:28+02:00",
+    "media_id": "g9nxhpha6h28",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265705/speelsters-ajax-spraken-met-directie-over-afblazen-huldiging-dit-was-niet-goed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265608,
     "slug": "ajax-legt-transfervrije-van-den-boomen-voor-vier-seizoenen-vast",
     "type": "article",
     "title": "Ajax legt transfervrije Van den Boomen voor vier seizoenen vast",
     "subtitle": null,
     "published_at": "2023-05-29T17:04:07+02:00",
-    "updated_at": "2023-05-29T17:08:54+02:00",
+    "updated_at": "2023-05-29T17:20:09+02:00",
     "media_id": "s1vxmngab5dv",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Ook Amsterdam sluit kantoren Suri-Change na explosies, nu alle filialen dicht",
     "subtitle": null,
     "published_at": "2023-05-29T17:02:31+02:00",
-    "updated_at": "2023-05-29T17:13:54+02:00",
+    "updated_at": "2023-05-29T17:25:56+02:00",
     "media_id": "ci6x3wqaule7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6265683/in-spanbroek-ontvoerde-man-na-drie-dagen-aangetroffen-in-beverwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265677,
-    "slug": "extra-agenten-op-straat-in-rotterdam-na-zes-explosies-geldwisselketen",
-    "type": "article",
-    "title": "Extra agenten op straat in Rotterdam na zes explosies geldwisselketen",
-    "subtitle": null,
-    "published_at": "2023-05-29T13:17:32+02:00",
-    "updated_at": "2023-05-29T16:51:01+02:00",
-    "media_id": "40txwina47ec",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6265677/extra-agenten-op-straat-in-rotterdam-na-zes-explosies-geldwisselketen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265682,
-    "slug": "felgroen-water-in-beroemd-kanaal-venetie-is-niet-gevaarlijk",
-    "type": "article",
-    "title": "Felgroen water in beroemd kanaal Venetië is niet gevaarlijk",
-    "subtitle": null,
-    "published_at": "2023-05-29T13:01:37+02:00",
-    "updated_at": "2023-05-29T13:01:38+02:00",
-    "media_id": "sxjx1j9a7hzm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6265682/felgroen-water-in-beroemd-kanaal-venetie-is-niet-gevaarlijk.html",
     "open_new_window": false,
     "partner": null
   }
