@@ -1,12 +1,58 @@
 [
   {
-    "id": 6265636,
-    "slug": "turkse-nederlanders-vieren-feest-na-de-turkse-verkiezingsuitslag",
+    "id": 6265643,
+    "slug": "jort-kelder-niet-goed-in-relaties-ontkent-geruchten-rond-collega-welmoed",
     "type": "article",
-    "title": "Turkse Nederlanders vieren feest na de Turkse verkiezingsuitslag",
+    "title": "Jort kelder niet goed in relaties, ontkent geruchten rond collega Welmoed",
+    "subtitle": null,
+    "published_at": "2023-05-29T07:10:04+02:00",
+    "updated_at": "2023-05-29T07:10:05+02:00",
+    "media_id": "9y2x9gxanhfu",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6265643/jort-kelder-niet-goed-in-relaties-ontkent-geruchten-rond-collega-welmoed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265585,
+    "slug": "stelling-dodenherdenking-moet-in-nederland-een-vrije-dag-worden-net-als-in-de-vs",
+    "type": "article",
+    "title": "Stelling: Dodenherdenking moet in Nederland een vrije dag worden, net als in de VS",
+    "subtitle": null,
+    "published_at": "2023-05-29T07:04:02+02:00",
+    "updated_at": "2023-05-29T07:04:04+02:00",
+    "media_id": "l5wxjrlab6s6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6265585/stelling-dodenherdenking-moet-in-nederland-een-vrije-dag-worden-net-als-in-de-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265636,
+    "slug": "turkse-nederlanders-vieren-feest-na-winst-erdogan",
+    "type": "article",
+    "title": "Turkse Nederlanders vieren feest na winst Erdogan",
     "subtitle": "In beeld",
     "published_at": "2023-05-29T06:33:55+02:00",
-    "updated_at": "2023-05-29T06:36:37+02:00",
+    "updated_at": "2023-05-29T07:03:53+02:00",
     "media_id": "1qyx5gva28vr",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6265636/turkse-nederlanders-vieren-feest-na-de-turkse-verkiezingsuitslag.html",
+    "url": "/binnenland/6265636/turkse-nederlanders-vieren-feest-na-winst-erdogan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Hoe Verstappen bij muren en vangrails grenzen opzocht van Monaco",
     "subtitle": "Explainer",
     "published_at": "2023-05-29T01:39:31+02:00",
-    "updated_at": "2023-05-29T06:12:56+02:00",
+    "updated_at": "2023-05-29T07:13:56+02:00",
     "media_id": "z83xrmyai7jn",
     "duration": "1:25",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265625/fc-barcelona-zwaait-camp-nou-in-stijl-uit-ac-milan-ten-koste-van-juve-naar-cl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265623,
-    "slug": "erdogan-viert-voorlopige-winst-turkse-verkiezingen",
-    "type": "video",
-    "title": "Erdogan viert voorlopige winst Turkse verkiezingen",
-    "subtitle": "Video",
-    "published_at": "2023-05-28T20:42:16+02:00",
-    "updated_at": "2023-05-28T20:48:37+02:00",
-    "media_id": "4m2x5yjaoy6y",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265623/erdogan-viert-voorlopige-winst-turkse-verkiezingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265622,
-    "slug": "teambaas-plugge-trots-op-roglic-al-sloeg-ik-gisteren-nog-salontafel-in-tweeen",
-    "type": "article",
-    "title": "Teambaas Plugge trots op Roglic: 'Al sloeg ik gisteren nog salontafel in tweeën'",
-    "subtitle": null,
-    "published_at": "2023-05-28T20:41:16+02:00",
-    "updated_at": "2023-05-28T20:50:18+02:00",
-    "media_id": "cmyxf4uamwfh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6265622/teambaas-plugge-trots-op-roglic-al-sloeg-ik-gisteren-nog-salontafel-in-tweeen.html",
     "open_new_window": false,
     "partner": null
   }
