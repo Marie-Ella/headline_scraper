@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265850,
+    "slug": "ziekenhuizen-en-metrostations-overstroomd-na-hevige-regenval-in-madrid",
+    "type": "video",
+    "title": "Ziekenhuizen en metrostations overstroomd na hevige regenval in Madrid",
+    "subtitle": "Video",
+    "published_at": "2023-05-30T18:21:20+02:00",
+    "updated_at": "2023-05-30T18:21:21+02:00",
+    "media_id": "6ypx4byapn6o",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265850/ziekenhuizen-en-metrostations-overstroomd-na-hevige-regenval-in-madrid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265846,
     "slug": "medvedev-blameert-zich-tegen-qualifier-in-slopende-vijfsetter-op-roland-garros",
     "type": "article",
     "title": "Medvedev blameert zich tegen qualifier in slopende vijfsetter op Roland Garros",
     "subtitle": null,
     "published_at": "2023-05-30T17:52:47+02:00",
-    "updated_at": "2023-05-30T18:13:49+02:00",
+    "updated_at": "2023-05-30T18:22:38+02:00",
     "media_id": "jgtx14ga3z0r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6265806/toni-erdmann-acteur-peter-simonischek-overleden-op-76-jarige-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265493,
-    "slug": "alles-wordt-anders-na-de-historische-hervorming-van-het-pensioenstelsel",
-    "type": "article",
-    "title": "Alles wordt anders na de historische hervorming van het pensioenstelsel",
-    "subtitle": null,
-    "published_at": "2023-05-30T13:48:36+02:00",
-    "updated_at": "2023-05-30T13:55:47+02:00",
-    "media_id": "g3dx6y2aqymw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6265493/alles-wordt-anders-na-de-historische-hervorming-van-het-pensioenstelsel.html",
     "open_new_window": false,
     "partner": null
   }
