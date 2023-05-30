@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265741,
+    "slug": "zo-ontstaat-een-spookfile",
+    "type": "video",
+    "title": "Zo ontstaat een spookfile",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-30T06:37:18+02:00",
+    "updated_at": "2023-05-30T06:39:44+02:00",
+    "media_id": "dsqx7dhaxikj",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265741/zo-ontstaat-een-spookfile.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265739,
     "slug": "weerbericht-een-bewolkte-dag-maar-de-zon-zal-snel-weer-doorbreken",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6265303,
-    "slug": "stakingen-supermarkten-haast-uitgesloten-hogere-lonen-belangrijkste-speerpunt",
+    "slug": "hoger-loon-voor-werknemers-in-de-supermarkten",
     "type": "article",
-    "title": "Stakingen supermarkten haast uitgesloten: hogere lonen belangrijkste speerpunt",
+    "title": "Hoger loon voor werknemers in de supermarkten",
     "subtitle": null,
     "published_at": "2023-05-30T05:07:33+02:00",
-    "updated_at": "2023-05-30T05:07:34+02:00",
+    "updated_at": "2023-05-30T06:43:46+02:00",
     "media_id": "qgmxul2a0tq2",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6265303/stakingen-supermarkten-haast-uitgesloten-hogere-lonen-belangrijkste-speerpunt.html",
+    "url": "/economie/6265303/hoger-loon-voor-werknemers-in-de-supermarkten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +162,12 @@
   },
   {
     "id": 6265736,
-    "slug": "autopassagiers-veerboot-terug-naar-ameland-door-problemen-met-autobrug",
+    "slug": "automobilisten-op-veerboot-mee-terug-naar-ameland-door-probleem-autobrug",
     "type": "article",
-    "title": "Autopassagiers veerboot terug naar Ameland door problemen met autobrug",
+    "title": "Automobilisten op veerboot mee terug naar Ameland door probleem autobrug",
     "subtitle": null,
     "published_at": "2023-05-30T00:15:41+02:00",
-    "updated_at": "2023-05-30T01:13:37+02:00",
+    "updated_at": "2023-05-30T06:39:10+02:00",
     "media_id": "g2zxcwvabio1",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6265736/autopassagiers-veerboot-terug-naar-ameland-door-problemen-met-autobrug.html",
+    "url": "/binnenland/6265736/automobilisten-op-veerboot-mee-terug-naar-ameland-door-probleem-autobrug.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6265703/basketballers-leiden-bekronen-sensationele-comeback-in-slotfase-met-landstitel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265706,
-    "slug": "auto-botst-bijna-tegen-voorligger-tijdens-natuurbrand-in-canada",
-    "type": "video",
-    "title": "Auto botst bijna tegen voorligger tijdens natuurbrand in Canada",
-    "subtitle": "Video",
-    "published_at": "2023-05-29T17:27:29+02:00",
-    "updated_at": "2023-05-29T17:27:31+02:00",
-    "media_id": "9i6xbi5ag0fd",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265706/auto-botst-bijna-tegen-voorligger-tijdens-natuurbrand-in-canada.html",
     "open_new_window": false,
     "partner": null
   }
