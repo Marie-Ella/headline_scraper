@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265953,
+    "slug": "duitsland-zoekt-naar-nederlandse-verdachte-die-geld-overmaakte-naar-is",
+    "type": "article",
+    "title": "Duitsland zoekt naar Nederlandse verdachte die geld overmaakte naar IS",
+    "subtitle": null,
+    "published_at": "2023-05-31T13:17:27+02:00",
+    "updated_at": "2023-05-31T13:17:29+02:00",
+    "media_id": "cu3xgo5ay61t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6265953/duitsland-zoekt-naar-nederlandse-verdachte-die-geld-overmaakte-naar-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265952,
     "slug": "vrouwen-in-gevangenis-nieuwersluis-slachtoffer-grensoverschrijdend-gedrag-personeel",
     "type": "article",
     "title": "Vrouwen in gevangenis Nieuwersluis slachtoffer grensoverschrijdend gedrag personeel",
     "subtitle": null,
     "published_at": "2023-05-31T13:08:45+02:00",
-    "updated_at": "2023-05-31T13:09:27+02:00",
+    "updated_at": "2023-05-31T13:25:46+02:00",
     "media_id": "m1mxww8adcmo",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Ongehoord Nederland afwezig bij zitting over NPO-sanctie",
     "subtitle": null,
     "published_at": "2023-05-31T12:14:26+02:00",
-    "updated_at": "2023-05-31T12:17:34+02:00",
+    "updated_at": "2023-05-31T13:19:11+02:00",
     "media_id": "slvxszva8fbp",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6265929,
-    "slug": "historisch-hoogtepunt-voor-lonen-gemiddeld-met-78-procent-omhoog-in-mei",
+    "slug": "salarissen-steeds-verder-omhoog-gemiddeld-7-procent-erbij-dit-jaar",
     "type": "article",
-    "title": "Historisch hoogtepunt voor lonen: gemiddeld met 7,8 procent omhoog in mei",
+    "title": "Salarissen steeds verder omhoog; gemiddeld 7 procent erbij dit jaar",
     "subtitle": null,
     "published_at": "2023-05-31T11:37:27+02:00",
-    "updated_at": "2023-05-31T11:44:30+02:00",
+    "updated_at": "2023-05-31T13:20:46+02:00",
     "media_id": "dzkxmw0acclq",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6265929/historisch-hoogtepunt-voor-lonen-gemiddeld-met-78-procent-omhoog-in-mei.html",
+    "url": "/economie/6265929/salarissen-steeds-verder-omhoog-gemiddeld-7-procent-erbij-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6265910/vragen-afvuren-op-chatgpt-kan-in-nederland-nu-ook-via-iphone-app.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265913,
-    "slug": "dj-immer-hansi-schiet-danseres-omver-met-confettibazooka",
-    "type": "video",
-    "title": "Dj Immer Hansi schiet danseres omver met confettibazooka",
-    "subtitle": "Video",
-    "published_at": "2023-05-31T10:17:12+02:00",
-    "updated_at": "2023-05-31T10:17:14+02:00",
-    "media_id": "qtrx2hwa0v8l",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265913/dj-immer-hansi-schiet-danseres-omver-met-confettibazooka.html",
     "open_new_window": false,
     "partner": null
   }
