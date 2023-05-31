@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265945,
+    "slug": "brusselse-brandweer-rukt-uit-voor-beknelde-man-op-metrostation",
+    "type": "video",
+    "title": "Brusselse brandweer rukt uit voor beknelde man op metrostation",
+    "subtitle": "Video",
+    "published_at": "2023-05-31T12:37:03+02:00",
+    "updated_at": "2023-05-31T12:37:04+02:00",
+    "media_id": "db2xv21agt3l",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265945/brusselse-brandweer-rukt-uit-voor-beknelde-man-op-metrostation.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265943,
     "slug": "kosteloos-geld-opnemen-en-voldoende-geldautomaten-worden-bij-wet-geregeld",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Je energiecontract opzeggen is vanaf morgen veel duurder",
     "subtitle": null,
     "published_at": "2023-05-31T12:00:55+02:00",
-    "updated_at": "2023-05-31T12:00:56+02:00",
+    "updated_at": "2023-05-31T12:40:20+02:00",
     "media_id": "kdaxp7taf8w3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6265899/maagverkleining-heeft-volgens-onderzoek-ook-positief-effect-op-hersenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265892,
-    "slug": "financieel-stelsel-is-ondanks-inflatie-weerbaar-wel-vrees-voor-recessie",
-    "type": "article",
-    "title": "Financieel stelsel is ondanks inflatie weerbaar, wel vrees voor recessie",
-    "subtitle": null,
-    "published_at": "2023-05-31T09:02:50+02:00",
-    "updated_at": "2023-05-31T09:02:52+02:00",
-    "media_id": "wnxxc2ea6kkr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6265892/financieel-stelsel-is-ondanks-inflatie-weerbaar-wel-vrees-voor-recessie.html",
     "open_new_window": false,
     "partner": null
   }
