@@ -1,24 +1,47 @@
 [
   {
+    "id": 6266183,
+    "slug": "tennisser-middelkoop-klaar-met-bedreigingen-hoeft-maar-een-keer-mis-te-gaan",
+    "type": "article",
+    "title": "Tennisser Middelkoop klaar met bedreigingen: 'Hoeft maar één keer mis te gaan'",
+    "subtitle": null,
+    "published_at": "2023-06-01T22:13:43+02:00",
+    "updated_at": "2023-06-01T22:13:44+02:00",
+    "media_id": "g83xxqrargtz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6266183/tennisser-middelkoop-klaar-met-bedreigingen-hoeft-maar-een-keer-mis-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266185,
     "slug": "biden-valt-op-podium-tijdens-diploma-uitreiking-bij-air-force-academy",
     "type": "video",
     "title": "Biden valt op podium tijdens diploma-uitreiking bij Air Force Academy",
     "subtitle": "Video",
     "published_at": "2023-06-01T21:40:09+02:00",
-    "updated_at": "2023-06-01T21:40:09+02:00",
+    "updated_at": "2023-06-01T22:15:35+02:00",
     "media_id": "pjpxgzbau898",
     "duration": "0:33",
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Algemeen",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6266185/biden-valt-op-podium-tijdens-diploma-uitreiking-bij-air-force-academy.html",
+    "url": "/algemeen/6266185/biden-valt-op-podium-tijdens-diploma-uitreiking-bij-air-force-academy.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Romy Monteiro door tijdschrift FMH uitgeroepen tot mooiste vrouw van Nederland",
     "subtitle": null,
     "published_at": "2023-06-01T21:36:22+02:00",
-    "updated_at": "2023-06-01T21:36:23+02:00",
+    "updated_at": "2023-06-01T22:03:43+02:00",
     "media_id": "6a7xr5iadhhv",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Hoe een rechter bedrijfseigenaar Sanderink buitenspel kan zetten",
     "subtitle": "NU+",
     "published_at": "2023-06-01T20:05:13+02:00",
-    "updated_at": "2023-06-01T21:08:39+02:00",
+    "updated_at": "2023-06-01T22:02:33+02:00",
     "media_id": "aq7xoc4a5l84",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6266164,
-    "slug": "lauritsen-zet-sparta-nog-voor-rust-op-0-2-in-utrecht",
+    "slug": "effectief-sparta-leidt-comfortabel-in-utrecht",
     "type": "article",
-    "title": "Lauritsen zet Sparta nog voor rust op 0-2 in Utrecht",
+    "title": "Effectief Sparta leidt comfortabel in Utrecht",
     "subtitle": "Liveblog",
     "published_at": "2023-06-01T18:05:55+02:00",
-    "updated_at": "2023-06-01T21:44:01+02:00",
+    "updated_at": "2023-06-01T21:57:33+02:00",
     "media_id": "jrwx6q2atmq8",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6266164/lauritsen-zet-sparta-nog-voor-rust-op-0-2-in-utrecht.html",
+    "url": "/voetbal/6266164/effectief-sparta-leidt-comfortabel-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6266153/ecb-president-lagarde-vindt-inflatie-nog-steeds-te-hoog-en-zint-op-renteverhoging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266148,
-    "slug": "sinner-laat-matchpoints-liggen-in-marathonpartij-swiatek-en-gauff-simpel-door",
-    "type": "article",
-    "title": "Sinner laat matchpoints liggen in marathonpartij, Swiatek en Gauff simpel door",
-    "subtitle": null,
-    "published_at": "2023-06-01T17:15:04+02:00",
-    "updated_at": "2023-06-01T21:22:50+02:00",
-    "media_id": "47nx3gkau912",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6266148/sinner-laat-matchpoints-liggen-in-marathonpartij-swiatek-en-gauff-simpel-door.html",
     "open_new_window": false,
     "partner": null
   }
