@@ -1,5 +1,51 @@
 [
   {
+    "id": 6266032,
+    "slug": "vs-parlement-keurt-deal-schuldenplafond-goed-en-stemt-voor-verhoging",
+    "type": "article",
+    "title": "VS-parlement keurt deal schuldenplafond goed en stemt voor verhoging",
+    "subtitle": null,
+    "published_at": "2023-06-01T05:30:57+02:00",
+    "updated_at": "2023-06-01T05:30:58+02:00",
+    "media_id": "691xh0fapfus",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6266032/vs-parlement-keurt-deal-schuldenplafond-goed-en-stemt-voor-verhoging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266031,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-01T05:20:04+02:00",
+    "updated_at": "2023-06-01T05:20:05+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6266031/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265909,
     "slug": "de-jordaanse-kroonprins-gaat-trouwen-royale-gastenlijst-maar-geen-tiaras",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Acteur Danny Masterson schuldig verklaard in verkrachtingszaak",
     "subtitle": null,
     "published_at": "2023-06-01T00:09:37+02:00",
-    "updated_at": "2023-06-01T00:30:39+02:00",
+    "updated_at": "2023-06-01T05:16:07+02:00",
     "media_id": "byvxqvbaw2f7",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Sevilla wint Europa League voor 7e keer na penalty's tegen Roma van Mourinho",
     "subtitle": null,
     "published_at": "2023-06-01T00:03:43+02:00",
-    "updated_at": "2023-06-01T00:13:32+02:00",
+    "updated_at": "2023-06-01T05:16:49+02:00",
     "media_id": "hx4xexya1ad7",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Merendeel ExxonMobil-aandeelhouders wijst dwingende klimaataanpak af",
     "subtitle": null,
     "published_at": "2023-05-31T23:02:21+02:00",
-    "updated_at": "2023-06-01T00:49:03+02:00",
+    "updated_at": "2023-06-01T05:19:21+02:00",
     "media_id": "illx86yauwz8",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Griekspoor kan net niet stunten in zinderende vijfsetter op Roland Garros",
     "subtitle": null,
     "published_at": "2023-05-31T21:37:11+02:00",
-    "updated_at": "2023-06-01T00:08:35+02:00",
+    "updated_at": "2023-06-01T05:18:01+02:00",
     "media_id": "dc1x1fmamgko",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6266018/auto-vliegt-door-de-lucht-na-botsing-met-sleepwagen-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266015,
-    "slug": "slachthuizen-onder-verscherpt-toezicht-vanwege-structurele-dierenmishandeling",
-    "type": "article",
-    "title": "Slachthuizen onder verscherpt toezicht vanwege 'structurele dierenmishandeling'",
-    "subtitle": null,
-    "published_at": "2023-05-31T20:19:55+02:00",
-    "updated_at": "2023-05-31T22:02:49+02:00",
-    "media_id": "dj5xliyazgs3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266015/slachthuizen-onder-verscherpt-toezicht-vanwege-structurele-dierenmishandeling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266013,
-    "slug": "reacties-na-europa-league-winst-sevilla-ten-koste-van-roma",
-    "type": "article",
-    "title": "Reacties na Europa League-winst Sevilla ten koste van Roma",
-    "subtitle": "Liveblog",
-    "published_at": "2023-05-31T19:45:49+02:00",
-    "updated_at": "2023-06-01T00:05:50+02:00",
-    "media_id": "72lxae4a5ly3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266013/reacties-na-europa-league-winst-sevilla-ten-koste-van-roma.html",
     "open_new_window": false,
     "partner": null
   }
