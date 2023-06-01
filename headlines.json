@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266033,
+    "slug": "weerbericht-een-stuk-frisser-maar-van-de-zon-kunnen-we-nog-blijven-genieten",
+    "type": "article",
+    "title": "Weerbericht: Een stuk frisser, maar van de zon kunnen we nog blijven genieten",
+    "subtitle": null,
+    "published_at": "2023-06-01T05:54:30+02:00",
+    "updated_at": "2023-06-01T06:01:12+02:00",
+    "media_id": "xrbxgona9a3n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266033/weerbericht-een-stuk-frisser-maar-van-de-zon-kunnen-we-nog-blijven-genieten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266032,
     "slug": "vs-parlement-keurt-deal-schuldenplafond-goed-en-stemt-voor-verhoging",
     "type": "article",
     "title": "VS-parlement keurt deal schuldenplafond goed en stemt voor verhoging",
     "subtitle": null,
     "published_at": "2023-06-01T05:30:57+02:00",
-    "updated_at": "2023-06-01T05:30:58+02:00",
+    "updated_at": "2023-06-01T06:03:10+02:00",
     "media_id": "691xh0fapfus",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Jonker: 'Van de Sanden en Van Es horen bij beste dertig speelsters van Oranje'",
     "subtitle": null,
     "published_at": "2023-06-01T05:10:47+02:00",
-    "updated_at": "2023-06-01T05:10:49+02:00",
+    "updated_at": "2023-06-01T06:08:22+02:00",
     "media_id": "dokx2ixavtzh",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Vooruitblik: 'Bandenvoordeel Red Bull wordt uitvergroot in Barcelona'",
     "subtitle": "NU+",
     "published_at": "2023-06-01T05:09:18+02:00",
-    "updated_at": "2023-06-01T05:09:19+02:00",
+    "updated_at": "2023-06-01T06:15:47+02:00",
     "media_id": "vdqxvpkaummu",
     "duration": null,
     "canonical_section": {
@@ -185,24 +208,24 @@
   },
   {
     "id": 6266027,
-    "slug": "acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak",
+    "slug": "that-70s-show-acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak",
     "type": "article",
-    "title": "Acteur Danny Masterson schuldig verklaard in verkrachtingszaak",
+    "title": "That '70s Show-acteur Danny Masterson schuldig verklaard in verkrachtingszaak",
     "subtitle": null,
     "published_at": "2023-06-01T00:09:37+02:00",
-    "updated_at": "2023-06-01T05:16:07+02:00",
+    "updated_at": "2023-06-01T06:19:21+02:00",
     "media_id": "byvxqvbaw2f7",
     "duration": null,
     "canonical_section": {
-      "id": 1778994,
-      "slug": "media-en-cultuur",
+      "id": 127,
+      "slug": "film",
       "type": "default",
-      "name": "Entertainment",
-      "style": "nuentertainment",
+      "name": "Films & Series",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/media-en-cultuur/6266027/acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak.html",
+    "url": "/film/6266027/that-70s-show-acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Merendeel ExxonMobil-aandeelhouders wijst dwingende klimaataanpak af",
     "subtitle": null,
     "published_at": "2023-05-31T23:02:21+02:00",
-    "updated_at": "2023-06-01T05:19:21+02:00",
+    "updated_at": "2023-06-01T06:17:57+02:00",
     "media_id": "illx86yauwz8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266019/fc-emmen-straft-fout-nac-doelman-af-en-wint-eerste-duel-in-strijd-om-lijfsbehoud.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266018,
-    "slug": "auto-vliegt-door-de-lucht-na-botsing-met-sleepwagen-in-vs",
-    "type": "video",
-    "title": "Auto vliegt door de lucht na botsing met sleepwagen in VS",
-    "subtitle": "Video",
-    "published_at": "2023-05-31T20:42:23+02:00",
-    "updated_at": "2023-05-31T20:42:25+02:00",
-    "media_id": "6wqx99oa75bg",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6266018/auto-vliegt-door-de-lucht-na-botsing-met-sleepwagen-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
