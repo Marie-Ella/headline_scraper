@@ -1,5 +1,51 @@
 [
   {
+    "id": 6266199,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-02T05:40:53+02:00",
+    "updated_at": "2023-06-02T05:40:55+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6266199/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266198,
+    "slug": "iran-executeert-meer-mensen-om-drugsmisdaad-dan-vorig-jaar-zegt-amnesty",
+    "type": "article",
+    "title": "Iran executeert meer mensen om drugsmisdaad dan vorig jaar, zegt Amnesty",
+    "subtitle": null,
+    "published_at": "2023-06-02T05:39:53+02:00",
+    "updated_at": "2023-06-02T05:39:54+02:00",
+    "media_id": "1vwxfycaogva",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6266198/iran-executeert-meer-mensen-om-drugsmisdaad-dan-vorig-jaar-zegt-amnesty.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265939,
     "slug": "sza-geeft-twee-concerten-in-de-ziggo-dome-maar-wie-is-ze-eigenlijk",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266180/fc-twente-slaat-in-slotfase-toe-tegen-heerenveen-in-strijd-om-europees-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266178,
-    "slug": "honkballer-gooit-handschoen-met-bal-erin-naar-honk",
-    "type": "video",
-    "title": "Honkballer gooit handschoen met bal erin naar honk",
-    "subtitle": "Video",
-    "published_at": "2023-06-01T20:25:22+02:00",
-    "updated_at": "2023-06-01T23:23:55+02:00",
-    "media_id": "fsgx6fba7bwc",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6266178/honkballer-gooit-handschoen-met-bal-erin-naar-honk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266150,
-    "slug": "experts-over-rapport-amnesty-dit-wil-je-in-een-democratie-liever-niet",
-    "type": "article",
-    "title": "Experts over rapport Amnesty: 'Dit wil je in een democratie liever niet'",
-    "subtitle": "Gesprek van de dag",
-    "published_at": "2023-06-01T20:06:27+02:00",
-    "updated_at": "2023-06-01T20:06:29+02:00",
-    "media_id": "330xmf5asfdv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6266150/experts-over-rapport-amnesty-dit-wil-je-in-een-democratie-liever-niet.html",
     "open_new_window": false,
     "partner": null
   }
