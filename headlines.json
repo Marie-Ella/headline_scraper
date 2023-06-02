@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266209,
+    "slug": "zo-werd-bekendgemaakt-hoeveel-geld-is-opgehaald-tijdens-alpe-dhuzes",
+    "type": "video",
+    "title": "Zo werd bekendgemaakt hoeveel geld is opgehaald tijdens Alpe d'HuZes",
+    "subtitle": "Video",
+    "published_at": "2023-06-02T08:50:16+02:00",
+    "updated_at": "2023-06-02T08:52:29+02:00",
+    "media_id": "3hgxn7tae1xb",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266209/zo-werd-bekendgemaakt-hoeveel-geld-is-opgehaald-tijdens-alpe-dhuzes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266207,
     "slug": "mexicaanse-politie-vindt-45-zakken-met-menselijke-resten-in-ravijn",
     "type": "article",
     "title": "Mexicaanse politie vindt 45 zakken met menselijke resten in ravijn",
     "subtitle": null,
     "published_at": "2023-06-02T08:47:21+02:00",
-    "updated_at": "2023-06-02T08:48:45+02:00",
+    "updated_at": "2023-06-02T08:50:29+02:00",
     "media_id": "22lxrqzae95x",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6266205,
-    "slug": "verstappen-en-nederlandse-grand-prix-verliezen-jumbo-als-sponsor",
+    "slug": "verstappen-en-nederlandse-grand-prix-verliezen-jumbo-als-geldschieter",
     "type": "article",
-    "title": "Verstappen en Nederlandse Grand Prix verliezen Jumbo als sponsor",
+    "title": "Verstappen en Nederlandse Grand Prix verliezen Jumbo als geldschieter",
     "subtitle": null,
     "published_at": "2023-06-02T07:59:46+02:00",
-    "updated_at": "2023-06-02T08:40:49+02:00",
+    "updated_at": "2023-06-02T09:05:38+02:00",
     "media_id": "vbjxwwuahkgm",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6266205/verstappen-en-nederlandse-grand-prix-verliezen-jumbo-als-sponsor.html",
+    "url": "/formule-1/6266205/verstappen-en-nederlandse-grand-prix-verliezen-jumbo-als-geldschieter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/asielcrisis/6266196/delftse-noodopvang-voor-asielzoekers-blijft-nog-jaren-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266195,
-    "slug": "bill-cosby-is-opnieuw-aangeklaagd-voor-seksueel-misbruik",
-    "type": "article",
-    "title": "Bill Cosby is opnieuw aangeklaagd voor seksueel misbruik",
-    "subtitle": null,
-    "published_at": "2023-06-02T00:19:25+02:00",
-    "updated_at": "2023-06-02T06:25:57+02:00",
-    "media_id": "8zqxirmat37s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6266195/bill-cosby-is-opnieuw-aangeklaagd-voor-seksueel-misbruik.html",
     "open_new_window": false,
     "partner": null
   }
