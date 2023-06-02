@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266200,
+    "slug": "weerbericht-bewolkt-begin-van-de-dag-met-veel-zon-in-het-vooruitzicht",
+    "type": "article",
+    "title": "Weerbericht: Bewolkt begin van de dag met veel zon in het vooruitzicht",
+    "subtitle": null,
+    "published_at": "2023-06-02T06:06:16+02:00",
+    "updated_at": "2023-06-02T06:18:17+02:00",
+    "media_id": "sckx7eaai5bf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266200/weerbericht-bewolkt-begin-van-de-dag-met-veel-zon-in-het-vooruitzicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266199,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Iran executeert meer mensen om drugsmisdaad dan vorig jaar, zegt Amnesty",
     "subtitle": null,
     "published_at": "2023-06-02T05:39:53+02:00",
-    "updated_at": "2023-06-02T05:39:54+02:00",
+    "updated_at": "2023-06-02T06:12:17+02:00",
     "media_id": "1vwxfycaogva",
     "duration": null,
     "canonical_section": {
@@ -190,19 +213,19 @@
     "title": "Bill Cosby is opnieuw aangeklaagd voor seksueel misbruik",
     "subtitle": null,
     "published_at": "2023-06-02T00:19:25+02:00",
-    "updated_at": "2023-06-02T05:18:05+02:00",
+    "updated_at": "2023-06-02T06:14:28+02:00",
     "media_id": "8zqxirmat37s",
     "duration": null,
     "canonical_section": {
-      "id": 1778994,
-      "slug": "media-en-cultuur",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Entertainment",
-      "style": "nuentertainment",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/media-en-cultuur/6266195/bill-cosby-is-opnieuw-aangeklaagd-voor-seksueel-misbruik.html",
+    "url": "/entertainment/6266195/bill-cosby-is-opnieuw-aangeklaagd-voor-seksueel-misbruik.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6266182/kamerleden-vinden-dat-twitter-moet-optreden-tegen-intimidatie-van-journalisten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266180,
-    "slug": "fc-twente-slaat-in-slotfase-toe-tegen-heerenveen-in-strijd-om-europees-voetbal",
-    "type": "article",
-    "title": "FC Twente slaat in slotfase toe tegen Heerenveen in strijd om Europees voetbal",
-    "subtitle": null,
-    "published_at": "2023-06-01T20:48:19+02:00",
-    "updated_at": "2023-06-01T23:04:33+02:00",
-    "media_id": "8rcx610anqk7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266180/fc-twente-slaat-in-slotfase-toe-tegen-heerenveen-in-strijd-om-europees-voetbal.html",
     "open_new_window": false,
     "partner": null
   }
