@@ -1,13 +1,36 @@
 [
   {
+    "id": 6266409,
+    "slug": "asensio-kiest-voor-nieuwe-uitdaging-na-bijna-tien-jaar-real-madrid",
+    "type": "article",
+    "title": "Asensio kiest voor nieuwe uitdaging na bijna tien jaar Real Madrid",
+    "subtitle": null,
+    "published_at": "2023-06-03T13:58:25+02:00",
+    "updated_at": "2023-06-03T14:05:32+02:00",
+    "media_id": "gonxqp1a9mx3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6266409/asensio-kiest-voor-nieuwe-uitdaging-na-bijna-tien-jaar-real-madrid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266407,
     "slug": "weinig-rondes-voor-verstappen-en-de-vries-in-halfnatte-derde-training-gp-spanje",
     "type": "article",
     "title": "Weinig rondes voor Verstappen en De Vries in halfnatte derde training GP Spanje",
     "subtitle": null,
     "published_at": "2023-06-03T13:39:11+02:00",
-    "updated_at": "2023-06-03T13:39:54+02:00",
-    "media_id": "t1rxsn3aob4i",
+    "updated_at": "2023-06-03T14:02:27+02:00",
+    "media_id": "ivexwsvavdkx",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -52,7 +75,7 @@
     "title": "Reacties na halfnatte training in Barcelona",
     "subtitle": "Liveblog",
     "published_at": "2023-06-03T12:24:05+02:00",
-    "updated_at": "2023-06-03T13:36:08+02:00",
+    "updated_at": "2023-06-03T13:50:18+02:00",
     "media_id": "n74xym0adphy",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Man overleden nadat hij klem zat tussen rolluiken op Brussels metrostation",
     "subtitle": null,
     "published_at": "2023-06-03T12:14:00+02:00",
-    "updated_at": "2023-06-03T12:53:33+02:00",
+    "updated_at": "2023-06-03T14:27:54+02:00",
     "media_id": "65cxu5qafzhy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6266362/weerbericht-zonnige-dag-als-start-van-een-zomers-weekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266083,
-    "slug": "spanje-is-chicane-kwijt-hoe-f1-autos-nu-anders-afgesteld-worden",
-    "type": "video",
-    "title": "Spanje is chicane kwijt: hoe F1-auto's nu anders afgesteld worden",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-03T05:49:32+02:00",
-    "updated_at": "2023-06-03T05:49:32+02:00",
-    "media_id": "8guxhlsa8m5h",
-    "duration": "1:41",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6266083/spanje-is-chicane-kwijt-hoe-f1-autos-nu-anders-afgesteld-worden.html",
     "open_new_window": false,
     "partner": null
   }
