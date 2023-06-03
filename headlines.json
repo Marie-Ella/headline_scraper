@@ -1,5 +1,51 @@
 [
   {
+    "id": 6266463,
+    "slug": "grote-brand-in-appartementencomplex-amsterdam-oost-knooppunt-amstel-dicht",
+    "type": "article",
+    "title": "Grote brand in appartementencomplex Amsterdam-Oost, knooppunt Amstel dicht",
+    "subtitle": null,
+    "published_at": "2023-06-03T21:29:40+02:00",
+    "updated_at": "2023-06-03T21:39:33+02:00",
+    "media_id": "9oixlcaa025a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266463/grote-brand-in-appartementencomplex-amsterdam-oost-knooppunt-amstel-dicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266465,
+    "slug": "drone-brengt-dodelijk-treinongeluk-in-india-in-beeld",
+    "type": "video",
+    "title": "Drone brengt dodelijk treinongeluk in India in beeld",
+    "subtitle": "Video",
+    "published_at": "2023-06-03T21:29:10+02:00",
+    "updated_at": "2023-06-03T21:29:16+02:00",
+    "media_id": "jfux7wyabxrh",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266465/drone-brengt-dodelijk-treinongeluk-in-india-in-beeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266461,
     "slug": "vier-gedupeerden-spoorloos-willen-schadevergoeding-vanwege-mismatch",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Verdriet bij Janssen na verloren CL-finale met Wolfsburg: 'Ben niet boos op Wilms'",
     "subtitle": null,
     "published_at": "2023-06-03T21:12:21+02:00",
-    "updated_at": "2023-06-03T21:12:27+02:00",
+    "updated_at": "2023-06-03T21:31:36+02:00",
     "media_id": "uqix6d3ar04j",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266438/city-verslaat-united-en-ten-hag-in-fa-cup-finale-en-houdt-trebledroom-levend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266437,
-    "slug": "roord-janssen-en-wilms-grijpen-op-dramatische-wijze-naast-cl-met-wolfsburg",
-    "type": "article",
-    "title": "Roord, Janssen en Wilms grijpen op dramatische wijze naast CL met Wolfsburg",
-    "subtitle": null,
-    "published_at": "2023-06-03T17:56:57+02:00",
-    "updated_at": "2023-06-03T19:18:24+02:00",
-    "media_id": "y80xbf7albji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266437/roord-janssen-en-wilms-grijpen-op-dramatische-wijze-naast-cl-met-wolfsburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266435,
-    "slug": "toptalent-olav-kooij-zet-zichzelf-in-de-etalage-met-fraaie-zege-in-heistse-pijl",
-    "type": "article",
-    "title": "Toptalent Olav Kooij zet zichzelf in de etalage met fraaie zege in Heistse Pijl",
-    "subtitle": null,
-    "published_at": "2023-06-03T17:39:23+02:00",
-    "updated_at": "2023-06-03T17:51:35+02:00",
-    "media_id": "139xv9hao4mc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6266435/toptalent-olav-kooij-zet-zichzelf-in-de-etalage-met-fraaie-zege-in-heistse-pijl.html",
     "open_new_window": false,
     "partner": null
   }
