@@ -1,5 +1,51 @@
 [
   {
+    "id": 6266250,
+    "slug": "verstappen-door-winst-in-barcelona-jongste-coureur-met-veertig-grand-prix-zeges",
+    "type": "article",
+    "title": "Verstappen door winst in Barcelona jongste coureur met veertig Grand Prix-zeges",
+    "subtitle": null,
+    "published_at": "2023-06-04T16:33:06+02:00",
+    "updated_at": "2023-06-04T16:33:50+02:00",
+    "media_id": "zkixj7aafqfe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Spanje",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6266250/verstappen-door-winst-in-barcelona-jongste-coureur-met-veertig-grand-prix-zeges.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266531,
+    "slug": "verstappen-boekt-in-barcelona-op-dominante-wijze-zijn-veertigste-grand-prix-zege",
+    "type": "article",
+    "title": "Verstappen boekt in Barcelona op dominante wijze zijn veertigste Grand Prix-zege",
+    "subtitle": null,
+    "published_at": "2023-06-04T16:31:44+02:00",
+    "updated_at": "2023-06-04T16:43:27+02:00",
+    "media_id": "x43xri0aaz6p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Spanje",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6266531/verstappen-boekt-in-barcelona-op-dominante-wijze-zijn-veertigste-grand-prix-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266533,
     "slug": "fc-twente-laat-heerenveen-kansloos-in-grolsch-veste-en-is-finalist-in-play-offs",
     "type": "article",
@@ -93,12 +139,12 @@
   },
   {
     "id": 6266521,
-    "slug": "dominante-verstappen-leidt-in-gp-spanje-perez-rukt-op",
+    "slug": "reacties-na-dominante-zege-verstappen-in-gp-spanje",
     "type": "article",
-    "title": "Dominante Verstappen leidt in GP Spanje, Pérez rukt op",
+    "title": "Reacties na dominante zege Verstappen in GP Spanje",
     "subtitle": "Liveblog",
     "published_at": "2023-06-04T14:13:01+02:00",
-    "updated_at": "2023-06-04T15:59:08+02:00",
+    "updated_at": "2023-06-04T16:35:30+02:00",
     "media_id": "slxxwkpa7djf",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6266521/dominante-verstappen-leidt-in-gp-spanje-perez-rukt-op.html",
+    "url": "/formule-1/6266521/reacties-na-dominante-zege-verstappen-in-gp-spanje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -164,10 +210,10 @@
     "id": 6266514,
     "slug": "onderzoek-naar-dodelijke-treinramp-india-in-volle-gang-dit-weten-we-nu",
     "type": "article",
-    "title": "Onderzoek naar dodelijke treinramp India in volle gang, dit weten we nu",
+    "title": "Onderzoek naar dodelijke treinramp India in volle gang: dit weten we nu",
     "subtitle": null,
     "published_at": "2023-06-04T13:12:26+02:00",
-    "updated_at": "2023-06-04T14:45:04+02:00",
+    "updated_at": "2023-06-04T16:29:40+02:00",
     "media_id": "hdxxgdgauig8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6266508/opruimen-dodelijk-treinongeluk-india-begonnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266507,
-    "slug": "zes-mannen-gewond-bij-mogelijke-straatrace-in-helmond",
-    "type": "article",
-    "title": "Zes mannen gewond bij mogelijke straatrace in Helmond",
-    "subtitle": null,
-    "published_at": "2023-06-04T11:00:34+02:00",
-    "updated_at": "2023-06-04T12:01:52+02:00",
-    "media_id": "r75xncda1lnv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6266507/zes-mannen-gewond-bij-mogelijke-straatrace-in-helmond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266506,
-    "slug": "egypte-zet-sleepboten-in-voor-tanker-met-pech-in-suezkanaal",
-    "type": "article",
-    "title": "Egypte zet sleepboten in voor tanker met pech in Suezkanaal",
-    "subtitle": null,
-    "published_at": "2023-06-04T10:47:45+02:00",
-    "updated_at": "2023-06-04T13:48:32+02:00",
-    "media_id": "lkjxm8uar5q3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266506/egypte-zet-sleepboten-in-voor-tanker-met-pech-in-suezkanaal.html",
     "open_new_window": false,
     "partner": null
   }
