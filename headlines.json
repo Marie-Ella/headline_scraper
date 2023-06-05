@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266668,
+    "slug": "jumbo-bekijkt-of-het-met-sommige-producten-wat-minder-kan",
+    "type": "article",
+    "title": "Jumbo bekijkt of het met sommige producten wat minder kan",
+    "subtitle": null,
+    "published_at": "2023-06-05T13:22:39+02:00",
+    "updated_at": "2023-06-05T13:22:40+02:00",
+    "media_id": "k4vxq70a0p4k",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6266668/jumbo-bekijkt-of-het-met-sommige-producten-wat-minder-kan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266667,
     "slug": "hoofdredacteur-gert-jaap-hoekman-verruilt-nunl-voor-nos-sport",
     "type": "article",
     "title": "Hoofdredacteur Gert-Jaap Hoekman verruilt NU.nl voor NOS Sport",
     "subtitle": null,
     "published_at": "2023-06-05T12:59:15+02:00",
-    "updated_at": "2023-06-05T13:06:35+02:00",
+    "updated_at": "2023-06-05T13:16:08+02:00",
     "media_id": "191xu7fau9bu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266630/psv-kan-genk-loten-dit-zijn-de-mogelijke-tegenstanders-in-voorronde-cl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266625,
-    "slug": "zwitserse-bankenreus-krijgt-op-12-juni-gestalte",
-    "type": "article",
-    "title": "Zwitserse bankenreus krijgt op 12 juni gestalte",
-    "subtitle": null,
-    "published_at": "2023-06-05T09:49:25+02:00",
-    "updated_at": "2023-06-05T09:49:26+02:00",
-    "media_id": "bw1x4hyaa8zz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266625/zwitserse-bankenreus-krijgt-op-12-juni-gestalte.html",
     "open_new_window": false,
     "partner": null
   }
