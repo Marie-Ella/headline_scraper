@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267144,
+    "slug": "douwe-bob-plonst-in-de-gracht-tijdens-rondvaart-door-amsterdam",
+    "type": "video",
+    "title": "Douwe Bob plonst in de gracht tijdens rondvaart door Amsterdam",
+    "subtitle": "Video",
+    "published_at": "2023-06-08T13:43:08+02:00",
+    "updated_at": "2023-06-08T13:43:44+02:00",
+    "media_id": "jirxjtxa6j5q",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6267144/douwe-bob-plonst-in-de-gracht-tijdens-rondvaart-door-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267137,
     "slug": "rutte-naar-tunesie-met-eu-kopstuk-von-der-leyen-voor-overleg-migratiedeal",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nedcar-personeel mag geheim document van opdrachtgever BMW toch inzien",
     "subtitle": null,
     "published_at": "2023-06-08T12:58:45+02:00",
-    "updated_at": "2023-06-08T12:58:48+02:00",
+    "updated_at": "2023-06-08T13:30:51+02:00",
     "media_id": "x05x27ra1ijy",
     "duration": null,
     "canonical_section": {
@@ -165,9 +188,9 @@
     "slug": "gasveld-groningen-mogelijk-dicht-hoe-wordt-zon-gasveld-gesloten",
     "type": "video",
     "title": "Gasveld Groningen mogelijk dicht, hoe wordt zo'n gasveld gesloten?",
-    "subtitle": "Video",
+    "subtitle": "Explainer",
     "published_at": "2023-06-08T12:16:32+02:00",
-    "updated_at": "2023-06-08T12:39:08+02:00",
+    "updated_at": "2023-06-08T13:32:43+02:00",
     "media_id": "u8ixo2mazfyi",
     "duration": "1:02",
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Verdachte van moord op Gino (9) kreeg in verleden niet altijd passende zorg",
     "subtitle": null,
     "published_at": "2023-06-08T11:41:25+02:00",
-    "updated_at": "2023-06-08T11:47:41+02:00",
+    "updated_at": "2023-06-08T13:34:02+02:00",
     "media_id": "p42x2wuao558",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267113/timelapse-toont-hoe-new-york-oranje-kleurt-door-bosbranden-in-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267108,
-    "slug": "het-zesde-en-laatste-seizoen-van-mocro-maffia-verschijnt-volgend-jaar",
-    "type": "article",
-    "title": "Het zesde en laatste seizoen van Mocro Maffia verschijnt volgend jaar",
-    "subtitle": null,
-    "published_at": "2023-06-08T10:54:22+02:00",
-    "updated_at": "2023-06-08T11:16:28+02:00",
-    "media_id": "s5yxi9bazv1d",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6267108/het-zesde-en-laatste-seizoen-van-mocro-maffia-verschijnt-volgend-jaar.html",
     "open_new_window": false,
     "partner": null
   }
