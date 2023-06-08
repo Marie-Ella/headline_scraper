@@ -1,12 +1,58 @@
 [
   {
+    "id": 6267102,
+    "slug": "minister-komt-met-nieuw-plan-voor-sociale-veiligheid-van-studenten",
+    "type": "article",
+    "title": "Minister komt met nieuw plan voor sociale veiligheid van studenten",
+    "subtitle": null,
+    "published_at": "2023-06-08T10:43:48+02:00",
+    "updated_at": "2023-06-08T10:43:49+02:00",
+    "media_id": "b90xqjta3q27",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267102/minister-komt-met-nieuw-plan-voor-sociale-veiligheid-van-studenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267103,
+    "slug": "werkzaamheden-leggen-treinverkeer-tussen-meppel-en-assen-twee-weken-plat",
+    "type": "article",
+    "title": "Werkzaamheden leggen treinverkeer tussen Meppel en Assen twee weken plat",
+    "subtitle": null,
+    "published_at": "2023-06-08T10:30:31+02:00",
+    "updated_at": "2023-06-08T10:30:32+02:00",
+    "media_id": "miuxde6aq0g9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267103/werkzaamheden-leggen-treinverkeer-tussen-meppel-en-assen-twee-weken-plat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267105,
     "slug": "zus-tupac-houdt-emotionele-toespraak-bij-onthulling-ster-op-walk-of-fame",
     "type": "video",
     "title": "Zus Tupac houdt emotionele toespraak bij onthulling ster op Walk of Fame",
     "subtitle": "Video",
     "published_at": "2023-06-08T10:20:40+02:00",
-    "updated_at": "2023-06-08T10:21:11+02:00",
+    "updated_at": "2023-06-08T10:33:00+02:00",
     "media_id": "s0kx592a1z7h",
     "duration": "1:20",
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Waarom 24 uur van Le Mans (mét Ferrari en Porsche) kraker kan worden",
     "subtitle": "NU+ ",
     "published_at": "2023-06-08T09:06:23+02:00",
-    "updated_at": "2023-06-08T10:14:20+02:00",
+    "updated_at": "2023-06-08T10:44:31+02:00",
     "media_id": "fd1xpqgarkei",
     "duration": null,
     "canonical_section": {
@@ -397,8 +443,8 @@
     "title": "Opnieuw twee explosies in Rotterdam, bewoner van een van panden lichtgewond",
     "subtitle": null,
     "published_at": "2023-06-08T05:55:04+02:00",
-    "updated_at": "2023-06-08T09:43:37+02:00",
-    "media_id": "bn9xpy4ar89x",
+    "updated_at": "2023-06-08T10:33:18+02:00",
+    "media_id": "ugvxbylatv7i",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6267073/opnieuw-twee-explosies-in-rotterdam-bewoner-van-een-van-panden-lichtgewond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267072,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-06-08T05:32:07+02:00",
-    "updated_at": "2023-06-08T05:32:08+02:00",
-    "media_id": "pynxtntartmr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6267072/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266857,
-    "slug": "gravin-eloise-verjongt-het-koningshuis-we-kennen-haar-beter-dan-amalia",
-    "type": "article",
-    "title": "Gravin Eloise verjongt het koningshuis: 'We kennen haar beter dan Amalia'",
-    "subtitle": "NU+",
-    "published_at": "2023-06-08T05:03:29+02:00",
-    "updated_at": "2023-06-08T10:14:53+02:00",
-    "media_id": "gvtxqpoauqli",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6266857/gravin-eloise-verjongt-het-koningshuis-we-kennen-haar-beter-dan-amalia.html",
     "open_new_window": false,
     "partner": null
   }
