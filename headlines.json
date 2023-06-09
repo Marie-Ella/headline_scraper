@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267352,
+    "slug": "franse-media-interviewen-man-die-dader-van-steekpartij-te-lijf-ging",
+    "type": "video",
+    "title": "Franse media interviewen man die dader van steekpartij te lijf ging",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T17:23:31+02:00",
+    "updated_at": "2023-06-09T17:23:32+02:00",
+    "media_id": "pvhxfifajlk2",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267352/franse-media-interviewen-man-die-dader-van-steekpartij-te-lijf-ging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267325,
     "slug": "borstkankerbehandeling-kan-prettiger-en-goedkoper-met-minder-medicijn",
     "type": "article",
     "title": "Borstkankerbehandeling kan prettiger en goedkoper met minder medicijn",
     "subtitle": null,
     "published_at": "2023-06-09T17:14:16+02:00",
-    "updated_at": "2023-06-09T17:14:17+02:00",
+    "updated_at": "2023-06-09T17:24:29+02:00",
     "media_id": "9fyxbs6axpub",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "In Utrecht is het een jaar lang verboden om tabakswinkel te openen",
     "subtitle": null,
     "published_at": "2023-06-09T14:57:04+02:00",
-    "updated_at": "2023-06-09T15:46:26+02:00",
+    "updated_at": "2023-06-09T17:26:11+02:00",
     "media_id": "8zpxw7bapcva",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6267290/ns-personeel-moet-over-alle-vakantie-uren-onregelmatigheidstoeslag-krijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267302,
-    "slug": "door-explosies-getroffen-winkelcentrum-in-arnhem-wordt-met-cameras-bewaakt",
-    "type": "article",
-    "title": "Door explosies getroffen winkelcentrum in Arnhem wordt met camera's bewaakt",
-    "subtitle": null,
-    "published_at": "2023-06-09T13:37:18+02:00",
-    "updated_at": "2023-06-09T16:54:07+02:00",
-    "media_id": "i7jx9eyaew40",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267302/door-explosies-getroffen-winkelcentrum-in-arnhem-wordt-met-cameras-bewaakt.html",
     "open_new_window": false,
     "partner": null
   }
