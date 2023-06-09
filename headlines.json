@@ -1,12 +1,104 @@
 [
   {
+    "id": 6267255,
+    "slug": "helikopter-filmt-opgedroogd-lavameer-op-hawai",
+    "type": "video",
+    "title": "Helikopter filmt 'opgedroogd' lavameer op Hawaï",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T09:13:49+02:00",
+    "updated_at": "2023-06-09T09:13:51+02:00",
+    "media_id": "necx0ddar06c",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267255/helikopter-filmt-opgedroogd-lavameer-op-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267252,
+    "slug": "pas-na-de-zomer-besluit-over-toekomst-beboete-omroep-ongehoord-nederland",
+    "type": "article",
+    "title": "Pas na de zomer besluit over toekomst beboete omroep Ongehoord Nederland",
+    "subtitle": null,
+    "published_at": "2023-06-09T09:11:09+02:00",
+    "updated_at": "2023-06-09T09:11:11+02:00",
+    "media_id": "eu1xtn0a07ep",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6267252/pas-na-de-zomer-besluit-over-toekomst-beboete-omroep-ongehoord-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267226,
+    "slug": "le-mans-voor-gevorderden-wat-de-franse-klassieker-zo-interessant-maakt",
+    "type": "article",
+    "title": "Le Mans voor gevorderden: wat de Franse klassieker zo interessant maakt",
+    "subtitle": "NU+",
+    "published_at": "2023-06-09T09:08:07+02:00",
+    "updated_at": "2023-06-09T09:08:08+02:00",
+    "media_id": "t9jx48hainye",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6267226/le-mans-voor-gevorderden-wat-de-franse-klassieker-zo-interessant-maakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267250,
+    "slug": "gouden-bal-vol-stadion-en-vuurwerk-benzema-onthaald-in-saoedi-arabie",
+    "type": "video",
+    "title": "Gouden bal, vol stadion en vuurwerk: Benzema onthaald in Saoedi-Arabië",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T08:49:26+02:00",
+    "updated_at": "2023-06-09T08:55:45+02:00",
+    "media_id": "zttxj90alxqx",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6267250/gouden-bal-vol-stadion-en-vuurwerk-benzema-onthaald-in-saoedi-arabie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267247,
     "slug": "haringvlietbrug-acht-weken-dicht-extra-reistijd-loopt-op-tot-meer-dan-een-uur",
     "type": "article",
     "title": "Haringvlietbrug acht weken dicht, extra reistijd loopt op tot meer dan een uur",
     "subtitle": null,
     "published_at": "2023-06-09T08:46:34+02:00",
-    "updated_at": "2023-06-09T08:46:35+02:00",
+    "updated_at": "2023-06-09T08:49:13+02:00",
     "media_id": "dsfxnr4ad4cm",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Dag na aantreffen verdachte pakketjes explosies in Arnhems winkelcentrum",
     "subtitle": null,
     "published_at": "2023-06-09T07:10:38+02:00",
-    "updated_at": "2023-06-09T07:45:40+02:00",
+    "updated_at": "2023-06-09T08:49:31+02:00",
     "media_id": "nv6xzdoaqsmd",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Groot deel Curaçao heeft weer stroom na urenlange storing",
     "subtitle": null,
     "published_at": "2023-06-09T07:06:54+02:00",
-    "updated_at": "2023-06-09T07:45:47+02:00",
+    "updated_at": "2023-06-09T08:49:47+02:00",
     "media_id": "buexqvka3m6k",
     "duration": null,
     "canonical_section": {
@@ -167,7 +259,7 @@
     "title": "Yolanthe Cabau bouwt aan nieuw leven in Los Angeles: 'Droom die uitkomt'",
     "subtitle": null,
     "published_at": "2023-06-09T06:03:56+02:00",
-    "updated_at": "2023-06-09T06:03:57+02:00",
+    "updated_at": "2023-06-09T09:12:34+02:00",
     "media_id": "49ix0xeamxa5",
     "duration": null,
     "canonical_section": {
@@ -282,7 +374,7 @@
     "title": "'Natuurtalent' Alcaraz speelt kraker tegen Djokovic: 'Kan een icoon worden'",
     "subtitle": "NU+",
     "published_at": "2023-06-09T05:03:47+02:00",
-    "updated_at": "2023-06-09T05:34:13+02:00",
+    "updated_at": "2023-06-09T09:10:55+02:00",
     "media_id": "w8qxno6ae2qo",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6267232/trump-opnieuw-aangeklaagd-nu-voor-opslag-geheime-documenten-op-landgoed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267230,
-    "slug": "russische-man-omgekomen-door-aanval-van-haai-in-egypte",
-    "type": "article",
-    "title": "Russische man omgekomen door aanval van haai in Egypte",
-    "subtitle": null,
-    "published_at": "2023-06-09T00:46:49+02:00",
-    "updated_at": "2023-06-09T06:49:21+02:00",
-    "media_id": "jc1xswoatacv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6267230/russische-man-omgekomen-door-aanval-van-haai-in-egypte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267231,
-    "slug": "meer-samenwerking-tussen-vs-en-vk-om-rusland-en-china-tegenwicht-te-bieden",
-    "type": "article",
-    "title": "Meer samenwerking tussen VS en VK om Rusland en China tegenwicht te bieden",
-    "subtitle": null,
-    "published_at": "2023-06-09T00:38:07+02:00",
-    "updated_at": "2023-06-09T07:18:56+02:00",
-    "media_id": "nkex85zaqa9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6267231/meer-samenwerking-tussen-vs-en-vk-om-rusland-en-china-tegenwicht-te-bieden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267228,
-    "slug": "mensen-met-slaapproblemen-hebben-meer-kans-op-een-beroerte",
-    "type": "article",
-    "title": "Mensen met slaapproblemen hebben meer kans op een beroerte",
-    "subtitle": null,
-    "published_at": "2023-06-09T00:01:53+02:00",
-    "updated_at": "2023-06-09T00:10:58+02:00",
-    "media_id": "5rgxu99at2n9",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6267228/mensen-met-slaapproblemen-hebben-meer-kans-op-een-beroerte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267229,
-    "slug": "gemaskerde-held-zerrouki-redt-fc-twente-ik-hou-dat-ding-komende-tijd-maar-op",
-    "type": "article",
-    "title": "Gemaskerde held Zerrouki redt FC Twente: 'Ik hou dat ding komende tijd maar op'",
-    "subtitle": null,
-    "published_at": "2023-06-08T23:33:30+02:00",
-    "updated_at": "2023-06-09T07:51:49+02:00",
-    "media_id": "8pexxggat8an",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267229/gemaskerde-held-zerrouki-redt-fc-twente-ik-hou-dat-ding-komende-tijd-maar-op.html",
     "open_new_window": false,
     "partner": null
   }
