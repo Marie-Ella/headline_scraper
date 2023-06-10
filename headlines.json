@@ -1,5 +1,51 @@
 [
   {
+    "id": 6267432,
+    "slug": "rijkswaterstaat-stelt-zondag-hitteprotocol-in-voor-heel-nederland",
+    "type": "article",
+    "title": "Rijkswaterstaat stelt zondag hitteprotocol in voor heel Nederland",
+    "subtitle": null,
+    "published_at": "2023-06-10T11:07:14+02:00",
+    "updated_at": "2023-06-10T11:07:17+02:00",
+    "media_id": "ld2x79ca9lug",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267432/rijkswaterstaat-stelt-zondag-hitteprotocol-in-voor-heel-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267429,
+    "slug": "amerikaan-komt-na-honderd-dagen-in-capsule-weer-boven-water",
+    "type": "video",
+    "title": "Amerikaan komt na honderd dagen in capsule weer boven water",
+    "subtitle": "Video",
+    "published_at": "2023-06-10T11:00:53+02:00",
+    "updated_at": "2023-06-10T11:00:55+02:00",
+    "media_id": "q1axxafao558",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267429/amerikaan-komt-na-honderd-dagen-in-capsule-weer-boven-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267422,
     "slug": "luchtvaartautoriteit-personeelstekort-zet-veiligheid-in-luchtvaart-onder-druk",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267393/rookwolken-stijgen-uit-boven-brandende-bedrijfspanden-in-ter-aar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266813,
-    "slug": "psv-heeft-nieuwe-trainer-topkandidaat-bosz-volgt-van-nistelrooij-op",
-    "type": "article",
-    "title": "PSV heeft nieuwe trainer: topkandidaat Bosz volgt Van Nistelrooij op",
-    "subtitle": null,
-    "published_at": "2023-06-09T22:50:30+02:00",
-    "updated_at": "2023-06-10T09:24:01+02:00",
-    "media_id": "zgkx87faj7pn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266813/psv-heeft-nieuwe-trainer-topkandidaat-bosz-volgt-van-nistelrooij-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267383,
-    "slug": "guardiola-wuift-favorietenrol-city-weg-inter-onderschatten-zou-grootste-fout-zijn",
-    "type": "article",
-    "title": "Guardiola wuift favorietenrol City weg: 'Inter onderschatten zou grootste fout zijn'",
-    "subtitle": null,
-    "published_at": "2023-06-09T22:35:59+02:00",
-    "updated_at": "2023-06-09T22:36:01+02:00",
-    "media_id": "12mx9vaadm9k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267383/guardiola-wuift-favorietenrol-city-weg-inter-onderschatten-zou-grootste-fout-zijn.html",
     "open_new_window": false,
     "partner": null
   }
