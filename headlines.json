@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267528,
+    "slug": "gigantische-explosies-bij-brand-in-hamburg",
+    "type": "video",
+    "title": "Gigantische explosies bij brand in Hamburg",
+    "subtitle": "Video",
+    "published_at": "2023-06-11T11:10:57+02:00",
+    "updated_at": "2023-06-11T11:10:58+02:00",
+    "media_id": "8kjxrumarmzf",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267528/gigantische-explosies-bij-brand-in-hamburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267525,
     "slug": "hitteprotocol-rijkswaterstaat-geldt-ook-maandag-behalve-in-het-noorden",
     "type": "article",
     "title": "Hitteprotocol Rijkswaterstaat geldt ook maandag, behalve in het noorden",
     "subtitle": null,
     "published_at": "2023-06-11T10:47:42+02:00",
-    "updated_at": "2023-06-11T10:47:44+02:00",
+    "updated_at": "2023-06-11T11:07:45+02:00",
     "media_id": "tblx0alaym58",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6267515,
-    "slug": "oorzaak-stroomstoring-vlaardingen-gevonden-alle-klanten-hebben-weer-stroom",
+    "slug": "stroomstoring-vlaardingen-opgelost-elfduizend-klanten-hebben-weer-stroom",
     "type": "article",
-    "title": "Oorzaak stroomstoring Vlaardingen gevonden, alle klanten hebben weer stroom",
+    "title": "Stroomstoring Vlaardingen opgelost, elfduizend klanten hebben weer stroom",
     "subtitle": null,
     "published_at": "2023-06-11T07:39:09+02:00",
-    "updated_at": "2023-06-11T10:48:53+02:00",
+    "updated_at": "2023-06-11T10:57:01+02:00",
     "media_id": "p10xee2ac2fj",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6267515/oorzaak-stroomstoring-vlaardingen-gevonden-alle-klanten-hebben-weer-stroom.html",
+    "url": "/binnenland/6267515/stroomstoring-vlaardingen-opgelost-elfduizend-klanten-hebben-weer-stroom.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Quincy Promes lijkt alleen in Rusland arrestatie te kunnen ontlopen",
     "subtitle": null,
     "published_at": "2023-06-11T04:58:54+02:00",
-    "updated_at": "2023-06-11T04:58:56+02:00",
+    "updated_at": "2023-06-11T10:59:56+02:00",
     "media_id": "aqbxta5a6m1l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6267494/spelende-kinderen-vinden-gemummificeerde-katten-in-barneveld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266688,
-    "slug": "feyenoord-door-winst-manchester-city-in-pot-1-bij-loting-groepsfase-cl",
-    "type": "article",
-    "title": "Feyenoord door winst Manchester City in pot 1 bij loting groepsfase CL",
-    "subtitle": null,
-    "published_at": "2023-06-10T23:02:06+02:00",
-    "updated_at": "2023-06-10T23:02:07+02:00",
-    "media_id": "3qjx8inaghhp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266688/feyenoord-door-winst-manchester-city-in-pot-1-bij-loting-groepsfase-cl.html",
     "open_new_window": false,
     "partner": null
   }
