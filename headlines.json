@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267329,
+    "slug": "kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd",
+    "type": "video",
+    "title": "Kyiv steeds vaker aangevallen, zo wordt de stad beschermd",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-11T06:23:26+02:00",
+    "updated_at": "2023-06-11T06:23:27+02:00",
+    "media_id": "425x2iza92oy",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6267329/kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267511,
     "slug": "tunesie-zegt-voor-migratietop-al-dat-het-geen-grenswacht-van-europa-wil-zijn",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Na Boris Johnson stappen nog twee Britse parlementsleden op",
     "subtitle": null,
     "published_at": "2023-06-10T20:28:05+02:00",
-    "updated_at": "2023-06-10T20:37:45+02:00",
+    "updated_at": "2023-06-11T06:24:08+02:00",
     "media_id": "4u0xsoia426e",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6267499/city-begint-met-ake-aan-champions-league-finale-dumfries-start-bij-inter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267498,
-    "slug": "city-spelers-uitzinnig-na-zwaarbevochten-winst-op-inter-in-cl-finale",
-    "type": "article",
-    "title": "City-spelers uitzinnig na zwaarbevochten winst op Inter in CL-finale",
-    "subtitle": "Liveblog",
-    "published_at": "2023-06-10T19:44:41+02:00",
-    "updated_at": "2023-06-11T00:22:24+02:00",
-    "media_id": "6rqxjsgaootd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267498/city-spelers-uitzinnig-na-zwaarbevochten-winst-op-inter-in-cl-finale.html",
     "open_new_window": false,
     "partner": null
   }
