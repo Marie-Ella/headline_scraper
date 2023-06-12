@@ -1,28 +1,5 @@
 [
   {
-    "id": 6267743,
-    "slug": "eerste-kennismaking-mitsubishi-colt",
-    "type": "video",
-    "title": "Eerste kennismaking: Mitsubishi Colt",
-    "subtitle": "Video",
-    "published_at": "2023-06-12T22:31:23+02:00",
-    "updated_at": "2023-06-12T22:37:25+02:00",
-    "media_id": "2p3x9rzaq9y6",
-    "duration": "5:58",
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6267743/eerste-kennismaking-mitsubishi-colt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6267742,
     "slug": "gekkenhuis-in-manchester-bij-huldiging-city-na-droomseizoen",
     "type": "article",
@@ -213,7 +190,7 @@
     "title": "Zweedse voetbalster: Moesten geslachtsdeel laten zien bij WK van 2011",
     "subtitle": null,
     "published_at": "2023-06-12T20:02:29+02:00",
-    "updated_at": "2023-06-12T22:45:24+02:00",
+    "updated_at": "2023-06-12T23:01:57+02:00",
     "media_id": "t7bxzwha1nf4",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6267706/promotierel-in-frankrijk-komt-na-tien-dagen-ten-einde-fc-metz-naar-ligue-1.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267710,
+    "slug": "doodsoorzaak-baby-in-ter-apel-nog-onduidelijk-wel-negatief-advies-over-sporthal",
+    "type": "article",
+    "title": "Doodsoorzaak baby in Ter Apel nog onduidelijk, wel negatief advies over sporthal",
+    "subtitle": null,
+    "published_at": "2023-06-12T18:09:58+02:00",
+    "updated_at": "2023-06-12T20:26:06+02:00",
+    "media_id": "1vpxck0a9um4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267710/doodsoorzaak-baby-in-ter-apel-nog-onduidelijk-wel-negatief-advies-over-sporthal.html",
     "open_new_window": false,
     "partner": null
   }
