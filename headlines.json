@@ -1,12 +1,58 @@
 [
   {
-    "id": 6267771,
-    "slug": "vrouw-in-ecuador-blijkt-tijdens-eigen-begrafenis-nog-te-leven",
+    "id": 6267780,
+    "slug": "vlammen-van-brandende-luchtballon-slaan-over-op-braziliaans-flat",
+    "type": "video",
+    "title": "Vlammen van brandende luchtballon slaan over op Braziliaans flat",
+    "subtitle": "Video",
+    "published_at": "2023-06-13T10:32:22+02:00",
+    "updated_at": "2023-06-13T10:32:23+02:00",
+    "media_id": "hjjx2gwaplie",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267780/vlammen-van-brandende-luchtballon-slaan-over-op-braziliaans-flat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267776,
+    "slug": "beatles-demo-van-john-lennon-krijgt-officiele-release-dankzij-ai",
     "type": "article",
-    "title": "Vrouw in Ecuador blijkt tijdens eigen begrafenis nog te leven",
+    "title": "Beatles-demo van John Lennon krijgt officiële release dankzij AI",
+    "subtitle": null,
+    "published_at": "2023-06-13T10:26:26+02:00",
+    "updated_at": "2023-06-13T10:26:27+02:00",
+    "media_id": "sypx527aytg9",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6267776/beatles-demo-van-john-lennon-krijgt-officiele-release-dankzij-ai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267771,
+    "slug": "vrouw-in-ecuador-blijkt-tijdens-eigen-uitvaart-nog-te-leven",
+    "type": "article",
+    "title": "Vrouw in Ecuador blijkt tijdens eigen uitvaart nog te leven",
     "subtitle": null,
     "published_at": "2023-06-13T09:55:19+02:00",
-    "updated_at": "2023-06-13T10:15:43+02:00",
+    "updated_at": "2023-06-13T10:29:26+02:00",
     "media_id": "jbgx724aoge5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6267771/vrouw-in-ecuador-blijkt-tijdens-eigen-begrafenis-nog-te-leven.html",
+    "url": "/opmerkelijk/6267771/vrouw-in-ecuador-blijkt-tijdens-eigen-uitvaart-nog-te-leven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "Acteur Treat Williams (71) om het leven gekomen bij motorongeluk",
     "subtitle": null,
     "published_at": "2023-06-13T06:29:43+02:00",
-    "updated_at": "2023-06-13T07:28:32+02:00",
+    "updated_at": "2023-06-13T10:24:21+02:00",
     "media_id": "wqjxqi8a4gcx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6267675/wijnaldum-is-na-seizoen-van-vier-maanden-extra-blij-met-nations-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267631,
-    "slug": "we-moeten-zuiniger-omgaan-met-ons-watergebruik-en-dit-is-waarom",
-    "type": "article",
-    "title": "We moeten zuiniger omgaan met ons watergebruik en dit is waarom",
-    "subtitle": "NU+",
-    "published_at": "2023-06-13T05:04:06+02:00",
-    "updated_at": "2023-06-13T06:24:02+02:00",
-    "media_id": "ihjxhfdaaila",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6267631/we-moeten-zuiniger-omgaan-met-ons-watergebruik-en-dit-is-waarom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267688,
-    "slug": "minister-van-der-wal-hoopt-op-vertrouwen-van-de-boer-het-is-oke-als-je-stopt",
-    "type": "article",
-    "title": "Minister Van der Wal hoopt op vertrouwen van de boer: 'Het is oké als je stopt'",
-    "subtitle": null,
-    "published_at": "2023-06-13T04:59:28+02:00",
-    "updated_at": "2023-06-13T05:00:47+02:00",
-    "media_id": "et4xl9ea7vp5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6267688/minister-van-der-wal-hoopt-op-vertrouwen-van-de-boer-het-is-oke-als-je-stopt.html",
     "open_new_window": false,
     "partner": null
   }
