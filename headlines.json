@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267755,
+    "slug": "brand-woedt-in-oekraiense-flat-na-russische-luchtaanvallen",
+    "type": "video",
+    "title": "Brand woedt in Oekraïense flat na Russische luchtaanvallen",
+    "subtitle": "Video",
+    "published_at": "2023-06-13T07:35:23+02:00",
+    "updated_at": "2023-06-13T07:35:25+02:00",
+    "media_id": "k20xvudakbk2",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6267755/brand-woedt-in-oekraiense-flat-na-russische-luchtaanvallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267753,
-    "slug": "smaakmaker-jokic-leidt-denver-nuggets-naar-eerste-nba-titel-uit-clubhistorie",
+    "slug": "smaakmaker-jokic-leidt-denver-nuggets-naar-eerste-nba-titel-in-clubhistorie",
     "type": "article",
-    "title": "Smaakmaker Jokic leidt Denver Nuggets naar eerste NBA-titel uit clubhistorie",
+    "title": "Smaakmaker Jokic leidt Denver Nuggets naar eerste NBA-titel in clubhistorie",
     "subtitle": null,
     "published_at": "2023-06-13T07:21:06+02:00",
-    "updated_at": "2023-06-13T07:22:53+02:00",
+    "updated_at": "2023-06-13T07:29:51+02:00",
     "media_id": "kquxgswa2bil",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6267753/smaakmaker-jokic-leidt-denver-nuggets-naar-eerste-nba-titel-uit-clubhistorie.html",
+    "url": "/sport-overig/6267753/smaakmaker-jokic-leidt-denver-nuggets-naar-eerste-nba-titel-in-clubhistorie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,8 +144,8 @@
     "title": "Mogelijk doden en gewonden bij Russische luchtaanvallen op Oekraïense steden",
     "subtitle": null,
     "published_at": "2023-06-13T05:59:14+02:00",
-    "updated_at": "2023-06-13T07:28:11+02:00",
-    "media_id": "4k2xatbabfj0",
+    "updated_at": "2023-06-13T07:36:03+02:00",
+    "media_id": "28cxlm9alglv",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267734/supporters-feesten-bij-huldiging-na-unieke-promotie-almere-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267731,
-    "slug": "duitsland-speelt-in-duizendste-interland-op-het-nippertje-gelijk-tegen-oekraine",
-    "type": "article",
-    "title": "Duitsland speelt in duizendste interland op het nippertje gelijk tegen Oekraïne",
-    "subtitle": null,
-    "published_at": "2023-06-12T20:37:22+02:00",
-    "updated_at": "2023-06-12T21:29:21+02:00",
-    "media_id": "36cxzgsasvag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267731/duitsland-speelt-in-duizendste-interland-op-het-nippertje-gelijk-tegen-oekraine.html",
     "open_new_window": false,
     "partner": null
   }
