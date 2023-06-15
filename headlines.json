@@ -1,5 +1,51 @@
 [
   {
+    "id": 6268042,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-15T05:36:28+02:00",
+    "updated_at": "2023-06-15T05:36:29+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6268042/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268041,
+    "slug": "weerbericht-temperatuur-loopt-snel-op-door-uitbundig-schijnende-zon",
+    "type": "article",
+    "title": "Weerbericht: Temperatuur loopt snel op door uitbundig schijnende zon",
+    "subtitle": null,
+    "published_at": "2023-06-15T05:34:49+02:00",
+    "updated_at": "2023-06-15T05:34:50+02:00",
+    "media_id": "4lyxj7jams4p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268041/weerbericht-temperatuur-loopt-snel-op-door-uitbundig-schijnende-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266997,
     "slug": "dit-kunnen-we-in-2023-nog-verwachten-van-rico-verhoeven-en-zijn-rivalen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6268020/videoland-maakt-serie-gebaseerd-op-boek-van-peter-r-de-vries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268017,
-    "slug": "ook-coalities-gevormd-in-zeeland-en-zuid-holland",
-    "type": "article",
-    "title": "Ook coalities gevormd in Zeeland en Zuid-Holland",
-    "subtitle": null,
-    "published_at": "2023-06-14T20:27:13+02:00",
-    "updated_at": "2023-06-14T23:15:41+02:00",
-    "media_id": "o7fx4h0aiteh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6268017/ook-coalities-gevormd-in-zeeland-en-zuid-holland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268022,
-    "slug": "wk-vrouwen-na-akkoord-ebu-en-fifa-in-bijna-heel-europa-te-zien",
-    "type": "article",
-    "title": "WK vrouwen na akkoord EBU en FIFA in bijna heel Europa te zien",
-    "subtitle": null,
-    "published_at": "2023-06-14T20:20:38+02:00",
-    "updated_at": "2023-06-14T20:22:44+02:00",
-    "media_id": "4iixrjnatj4e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268022/wk-vrouwen-na-akkoord-ebu-en-fifa-in-bijna-heel-europa-te-zien.html",
     "open_new_window": false,
     "partner": null
   }
