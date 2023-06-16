@@ -1,5 +1,51 @@
 [
   {
+    "id": 6268211,
+    "slug": "chaos-op-canadese-snelweg-na-dodelijk-verkeersongeluk",
+    "type": "video",
+    "title": "Chaos op Canadese snelweg na dodelijk verkeersongeluk",
+    "subtitle": "Video",
+    "published_at": "2023-06-16T07:25:01+02:00",
+    "updated_at": "2023-06-16T07:25:03+02:00",
+    "media_id": "xplx4hja1nif",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268211/chaos-op-canadese-snelweg-na-dodelijk-verkeersongeluk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268112,
+    "slug": "stelling-vanwege-de-klimaatcrisis-wil-ik-geen-kinderen-meer-op-aarde-zetten",
+    "type": "article",
+    "title": "Stelling: Vanwege de klimaatcrisis wil ik geen kinderen (meer) op aarde zetten",
+    "subtitle": null,
+    "published_at": "2023-06-16T07:24:03+02:00",
+    "updated_at": "2023-06-16T07:24:05+02:00",
+    "media_id": "ksaxtfxab3w7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6268112/stelling-vanwege-de-klimaatcrisis-wil-ik-geen-kinderen-meer-op-aarde-zetten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268208,
     "slug": "ronnie-flex-weet-niet-of-hij-ooit-nog-een-album-wil-maken-de-koek-is-op",
     "type": "article",
@@ -346,12 +392,12 @@
   },
   {
     "id": 6268195,
-    "slug": "zeker-vijftien-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada",
+    "slug": "zeker-vijftien-doden-bij-zwaar-ongeluk-met-vrachtwagen-en-bus-in-canada",
     "type": "article",
-    "title": "Zeker vijftien doden bij zwaar ongeluk tussen vrachtwagen en bus in Canada",
+    "title": "Zeker vijftien doden bij zwaar ongeluk met vrachtwagen en bus in Canada",
     "subtitle": null,
     "published_at": "2023-06-15T23:06:14+02:00",
-    "updated_at": "2023-06-16T06:50:11+02:00",
+    "updated_at": "2023-06-16T07:27:01+02:00",
     "media_id": "paux2a6aknmc",
     "duration": null,
     "canonical_section": {
@@ -363,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268195/zeker-vijftien-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada.html",
+    "url": "/buitenland/6268195/zeker-vijftien-doden-bij-zwaar-ongeluk-met-vrachtwagen-en-bus-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268193/oranje-treft-italie-in-troostfinale-nations-league-spanje-na-late-goal-naar-eindstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268192,
-    "slug": "geen-onderzoek-naar-uitspraak-in-zaak-rond-de-dood-van-student-sanda-dia",
-    "type": "article",
-    "title": "Geen onderzoek naar uitspraak in zaak rond de dood van student Sanda Dia",
-    "subtitle": null,
-    "published_at": "2023-06-15T22:04:55+02:00",
-    "updated_at": "2023-06-15T22:31:53+02:00",
-    "media_id": "fesx2twacoox",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6268192/geen-onderzoek-naar-uitspraak-in-zaak-rond-de-dood-van-student-sanda-dia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268191,
-    "slug": "fatale-botsing-met-lamborghini-laat-sporen-na-in-rome",
-    "type": "video",
-    "title": "Fatale botsing met Lamborghini laat sporen na in Rome",
-    "subtitle": "Video",
-    "published_at": "2023-06-15T22:01:57+02:00",
-    "updated_at": "2023-06-15T22:06:38+02:00",
-    "media_id": "k53xda6anf1e",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6268191/fatale-botsing-met-lamborghini-laat-sporen-na-in-rome.html",
     "open_new_window": false,
     "partner": null
   }
