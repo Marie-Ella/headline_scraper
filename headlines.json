@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268367,
+    "slug": "explosie-in-magazijn-blaast-ruiten-uit-woning-op-filipijnen",
+    "type": "video",
+    "title": "Explosie in magazijn blaast ruiten uit woning op Filipijnen",
+    "subtitle": "Video",
+    "published_at": "2023-06-16T21:38:07+02:00",
+    "updated_at": "2023-06-16T21:38:08+02:00",
+    "media_id": "hhxx731abqz3",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268367/explosie-in-magazijn-blaast-ruiten-uit-woning-op-filipijnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268366,
-    "slug": "pentagon-papers-klokkenluider-daniel-ellsberg-92-overleden",
+    "slug": "klokkenluider-pentagon-papers-over-vietnamoorlog-overleden-op-92-jarige-leeftijd",
     "type": "article",
-    "title": "Pentagon Papers-klokkenluider Daniel Ellsberg (92) overleden",
+    "title": "Klokkenluider Pentagon Papers over Vietnamoorlog overleden op 92-jarige leeftijd",
     "subtitle": null,
     "published_at": "2023-06-16T21:07:19+02:00",
-    "updated_at": "2023-06-16T21:14:51+02:00",
+    "updated_at": "2023-06-16T21:37:51+02:00",
     "media_id": "33zxp21a4a4e",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268366/pentagon-papers-klokkenluider-daniel-ellsberg-92-overleden.html",
+    "url": "/buitenland/6268366/klokkenluider-pentagon-papers-over-vietnamoorlog-overleden-op-92-jarige-leeftijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Belgische volleybalbond wil met veelbesproken geschorste coach naar EK",
     "subtitle": null,
     "published_at": "2023-06-16T20:02:02+02:00",
-    "updated_at": "2023-06-16T21:02:34+02:00",
+    "updated_at": "2023-06-16T21:45:57+02:00",
     "media_id": "1dfxf14a4z8e",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6268347/hockeyers-boeken-na-doelpuntrijke-slotfase-overwinning-op-spanje-in-pro-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268267,
-    "slug": "jullie-ervaringen-met-agressie-op-werk-sinds-corona-alle-grenzen-weg",
-    "type": "article",
-    "title": "Jullie ervaringen met agressie op werk: 'Sinds corona alle grenzen weg'",
-    "subtitle": "NU+",
-    "published_at": "2023-06-16T18:04:25+02:00",
-    "updated_at": "2023-06-16T20:37:02+02:00",
-    "media_id": "b09x2ykajwe8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6268267/jullie-ervaringen-met-agressie-op-werk-sinds-corona-alle-grenzen-weg.html",
     "open_new_window": false,
     "partner": null
   }
