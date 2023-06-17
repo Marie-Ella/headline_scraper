@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268476,
+    "slug": "griekspoor-finalist-in-rosmalen-hoop-met-het-publiek-op-een-heel-mooie-dag",
+    "type": "article",
+    "title": "Griekspoor finalist in Rosmalen: 'Hoop met het publiek op een heel mooie dag'",
+    "subtitle": null,
+    "published_at": "2023-06-17T19:05:07+02:00",
+    "updated_at": "2023-06-17T19:05:09+02:00",
+    "media_id": "aftxf32amtnr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6268476/griekspoor-finalist-in-rosmalen-hoop-met-het-publiek-op-een-heel-mooie-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268475,
     "slug": "griekspoor-nog-een-overwinning-verwijderd-van-toernooizege-in-rosmalen",
     "type": "article",
     "title": "Griekspoor nog één overwinning verwijderd van toernooizege in Rosmalen",
     "subtitle": null,
     "published_at": "2023-06-17T18:27:16+02:00",
-    "updated_at": "2023-06-17T18:39:56+02:00",
+    "updated_at": "2023-06-17T19:11:14+02:00",
     "media_id": "ozyxbk1azj2d",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6268471,
-    "slug": "coureurs-zoeken-naar-grip-in-kletsnatte-training-montreal",
+    "slug": "kletsnatte-derde-training-montreal-hervat-na-crash-sainz",
     "type": "article",
-    "title": "Coureurs zoeken naar grip in kletsnatte training Montreal",
+    "title": "Kletsnatte derde training Montreal hervat na crash Sainz",
     "subtitle": "Liveblog",
     "published_at": "2023-06-17T18:17:58+02:00",
-    "updated_at": "2023-06-17T18:43:21+02:00",
+    "updated_at": "2023-06-17T19:08:49+02:00",
     "media_id": "xmtx8njab23l",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6268471/coureurs-zoeken-naar-grip-in-kletsnatte-training-montreal.html",
+    "url": "/formule-1/6268471/kletsnatte-derde-training-montreal-hervat-na-crash-sainz.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Van der Poel neemt met indrukwekkende ritwinst voorschot op eindzege in België",
     "subtitle": null,
     "published_at": "2023-06-17T17:05:32+02:00",
-    "updated_at": "2023-06-17T18:10:35+02:00",
+    "updated_at": "2023-06-17T18:51:33+02:00",
     "media_id": "mp9xs8qaav8q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268427/zwemmen-nog-afgeraden-ondanks-warmte-bel-112-als-je-kind-in-hete-auto-ziet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268441,
-    "slug": "negende-zomerse-dag-op-rij-betekent-weer-een-record-langste-reeks-ooit-in-juni",
-    "type": "article",
-    "title": "Negende zomerse dag op rij betekent weer een record: langste reeks ooit in juni",
-    "subtitle": null,
-    "published_at": "2023-06-17T13:32:35+02:00",
-    "updated_at": "2023-06-17T13:52:07+02:00",
-    "media_id": "6p5xh3wafyh5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268441/negende-zomerse-dag-op-rij-betekent-weer-een-record-langste-reeks-ooit-in-juni.html",
     "open_new_window": false,
     "partner": null
   }
