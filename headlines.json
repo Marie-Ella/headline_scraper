@@ -1,24 +1,47 @@
 [
   {
+    "id": 6268501,
+    "slug": "leclerc-gefrustreerd-door-keuzes-ferrari-maken-het-onszelf-zo-moeilijk",
+    "type": "article",
+    "title": "Leclerc gefrustreerd door keuzes Ferrari: 'Maken het onszelf zo moeilijk'",
+    "subtitle": null,
+    "published_at": "2023-06-18T01:30:22+02:00",
+    "updated_at": "2023-06-18T01:30:23+02:00",
+    "media_id": "s5vxnucaoomc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Canada",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6268501/leclerc-gefrustreerd-door-keuzes-ferrari-maken-het-onszelf-zo-moeilijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268500,
     "slug": "verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen",
     "type": "article",
     "title": "Verstappen en Red Bull werkten vrijdag lang door om auto op orde te krijgen",
     "subtitle": "NU+",
     "published_at": "2023-06-18T00:52:36+02:00",
-    "updated_at": "2023-06-18T00:52:37+02:00",
+    "updated_at": "2023-06-18T01:30:35+02:00",
     "media_id": "49vxg69anprb",
     "duration": null,
     "canonical_section": {
-      "id": 1778843,
-      "slug": "login-vereist",
+      "id": 1778846,
+      "slug": "nu-formule-1",
       "type": "default",
-      "name": "login-vereist",
-      "style": "nu",
-      "media_id": null,
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/login-vereist/6268500/verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen.html",
+    "url": "/nu-formule-1/6268500/verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6268476/griekspoor-finalist-in-rosmalen-hoop-met-het-publiek-op-een-heel-mooie-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268475,
-    "slug": "griekspoor-nog-een-overwinning-verwijderd-van-toernooizege-in-rosmalen",
-    "type": "article",
-    "title": "Griekspoor nog één overwinning verwijderd van toernooizege in Rosmalen",
-    "subtitle": null,
-    "published_at": "2023-06-17T18:27:16+02:00",
-    "updated_at": "2023-06-17T21:52:07+02:00",
-    "media_id": "ymlxdmjalbe8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6268475/griekspoor-nog-een-overwinning-verwijderd-van-toernooizege-in-rosmalen.html",
     "open_new_window": false,
     "partner": null
   }
