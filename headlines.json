@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268490,
+    "slug": "oekraiense-troepen-geven-rondleiding-door-heroverd-dorp",
+    "type": "video",
+    "title": "Oekraïense troepen geven rondleiding door heroverd dorp",
+    "subtitle": "Video",
+    "published_at": "2023-06-17T22:09:55+02:00",
+    "updated_at": "2023-06-17T22:09:55+02:00",
+    "media_id": "ge3xfr7ad2cp",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268490/oekraiense-troepen-geven-rondleiding-door-heroverd-dorp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268488,
     "slug": "noppert-en-van-duijvenbode-verrassend-onderuit-tegen-veelbesproken-belgen",
     "type": "article",
     "title": "Noppert en Van Duijvenbode verrassend onderuit tegen veelbesproken Belgen",
     "subtitle": null,
     "published_at": "2023-06-17T21:44:15+02:00",
-    "updated_at": "2023-06-17T21:44:22+02:00",
+    "updated_at": "2023-06-17T21:53:58+02:00",
     "media_id": "841xtjba6knm",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Nederlandse kickbokser Overmeer grijpt in Ahoy naast wereldtitel bij GLORY",
     "subtitle": null,
     "published_at": "2023-06-17T21:35:56+02:00",
-    "updated_at": "2023-06-17T21:43:26+02:00",
+    "updated_at": "2023-06-17T22:09:35+02:00",
     "media_id": "rkax4vua63qf",
     "duration": null,
     "canonical_section": {
@@ -236,8 +259,8 @@
     "title": "Griekspoor finalist in Rosmalen: 'Hoop met het publiek op een heel mooie dag'",
     "subtitle": null,
     "published_at": "2023-06-17T19:05:07+02:00",
-    "updated_at": "2023-06-17T21:47:58+02:00",
-    "media_id": "ymlxdmjalbe8",
+    "updated_at": "2023-06-17T21:51:49+02:00",
+    "media_id": "kgqxe6raa3gv",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -259,8 +282,8 @@
     "title": "Griekspoor nog één overwinning verwijderd van toernooizege in Rosmalen",
     "subtitle": null,
     "published_at": "2023-06-17T18:27:16+02:00",
-    "updated_at": "2023-06-17T21:33:18+02:00",
-    "media_id": "ozyxbk1azj2d",
+    "updated_at": "2023-06-17T21:52:07+02:00",
+    "media_id": "ymlxdmjalbe8",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -300,12 +323,12 @@
   },
   {
     "id": 6268471,
-    "slug": "reacties-na-kletsnatte-derde-training-in-montreal",
+    "slug": "verstappen-en-de-vries-proberen-q2-te-halen-in-canada",
     "type": "article",
-    "title": "Reacties na kletsnatte derde training in Montreal",
+    "title": "Verstappen en De Vries proberen Q2 te halen in Canada",
     "subtitle": "Liveblog",
     "published_at": "2023-06-17T18:17:58+02:00",
-    "updated_at": "2023-06-17T19:28:53+02:00",
+    "updated_at": "2023-06-17T22:14:09+02:00",
     "media_id": "x2sxk6manabo",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6268471/reacties-na-kletsnatte-derde-training-in-montreal.html",
+    "url": "/formule-1/6268471/verstappen-en-de-vries-proberen-q2-te-halen-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6268465/duitse-industrie-verwacht-niet-dat-economie-in-het-land-gaat-groeien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268464,
-    "slug": "evenepoel-eert-overleden-mader-met-winst-versoberde-etappe-in-zwitserland",
-    "type": "article",
-    "title": "Evenepoel eert overleden Mäder met winst versoberde etappe in Zwitserland",
-    "subtitle": null,
-    "published_at": "2023-06-17T17:07:30+02:00",
-    "updated_at": "2023-06-17T21:20:06+02:00",
-    "media_id": "nrjxyzoao00j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6268464/evenepoel-eert-overleden-mader-met-winst-versoberde-etappe-in-zwitserland.html",
     "open_new_window": false,
     "partner": null
   }
