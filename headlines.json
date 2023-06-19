@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268607,
+    "slug": "verstappen-had-het-lastiger-dan-het-eruit-zag",
+    "type": "audio",
+    "title": "'Verstappen had het lastiger dan het eruit zag'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-06-19T03:50:00+02:00",
+    "updated_at": "2023-06-19T03:50:01+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Canada",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6268607/verstappen-had-het-lastiger-dan-het-eruit-zag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268606,
     "slug": "hoe-albon-in-de-slechtste-auto-de-drs-trein-achter-zich-hield",
     "type": "video",
     "title": "Hoe Albon in de slechtste auto de 'DRS-trein' achter zich hield",
     "subtitle": "Explainer",
     "published_at": "2023-06-19T03:45:41+02:00",
-    "updated_at": "2023-06-19T03:45:42+02:00",
+    "updated_at": "2023-06-19T03:48:59+02:00",
     "media_id": "se1xdjja7eco",
     "duration": "1:30",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6268576/reacties-na-nieuwe-superieure-zege-van-verstappen-in-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268575,
-    "slug": "ajax-heeft-volgende-versterking-binnen-middenvelder-20-komt-over-van-roma",
-    "type": "article",
-    "title": "Ajax heeft volgende versterking binnen: middenvelder (20) komt over van Roma",
-    "subtitle": null,
-    "published_at": "2023-06-18T18:36:51+02:00",
-    "updated_at": "2023-06-18T19:02:06+02:00",
-    "media_id": "8ghxb2gab5d8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268575/ajax-heeft-volgende-versterking-binnen-middenvelder-20-komt-over-van-roma.html",
     "open_new_window": false,
     "partner": null
   }
