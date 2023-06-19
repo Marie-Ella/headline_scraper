@@ -1,12 +1,58 @@
 [
   {
-    "id": 6268741,
-    "slug": "in-de-vs-vieren-ze-vandaag-juneteenth-waar-staat-deze-dag-voor",
+    "id": 6268669,
+    "slug": "zij-lijden-aan-postcovid-ik-ben-mens-ik-wil-niet-thuis-opgesloten-zitten",
     "type": "article",
-    "title": "In de VS vieren ze vandaag Juneteenth: waar staat deze dag voor?",
+    "title": "Zij lijden aan postcovid: 'Ik ben mens, ik wil niet thuis opgesloten zitten'",
     "subtitle": "NU+",
+    "published_at": "2023-06-19T20:18:47+02:00",
+    "updated_at": "2023-06-19T20:18:49+02:00",
+    "media_id": "p5qxrqxa192s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6268669/zij-lijden-aan-postcovid-ik-ben-mens-ik-wil-niet-thuis-opgesloten-zitten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268745,
+    "slug": "bebe-rexha-krijgt-telefoon-in-gezicht-gegooid-tijdens-concert",
+    "type": "video",
+    "title": "Bebe Rexha krijgt telefoon in gezicht gegooid tijdens concert",
+    "subtitle": null,
+    "published_at": "2023-06-19T20:09:01+02:00",
+    "updated_at": "2023-06-19T20:11:11+02:00",
+    "media_id": "m4yx523aa4wk",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268745/bebe-rexha-krijgt-telefoon-in-gezicht-gegooid-tijdens-concert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268741,
+    "slug": "in-de-verenigde-staten-vieren-ze-vandaag-juneteenth-waar-staat-deze-dag-voor",
+    "type": "article",
+    "title": "In de Verenigde Staten vieren ze vandaag Juneteenth: waar staat deze dag voor?",
+    "subtitle": null,
     "published_at": "2023-06-19T19:32:25+02:00",
-    "updated_at": "2023-06-19T19:37:31+02:00",
+    "updated_at": "2023-06-19T20:11:41+02:00",
     "media_id": "16cxux3avpih",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268741/in-de-vs-vieren-ze-vandaag-juneteenth-waar-staat-deze-dag-voor.html",
+    "url": "/buitenland/6268741/in-de-verenigde-staten-vieren-ze-vandaag-juneteenth-waar-staat-deze-dag-voor.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6268712/voormalig-klm-topman-bestelt-500-vliegtuigen-voor-zijn-nieuwe-maatschappij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268704,
-    "slug": "shell-en-eneco-leveren-eerste-stroom-van-nieuw-windpark-op-zee",
-    "type": "article",
-    "title": "Shell en Eneco leveren eerste stroom van nieuw windpark op zee",
-    "subtitle": null,
-    "published_at": "2023-06-19T16:14:36+02:00",
-    "updated_at": "2023-06-19T16:14:38+02:00",
-    "media_id": "v5jxairag96a",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268704/shell-en-eneco-leveren-eerste-stroom-van-nieuw-windpark-op-zee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268706,
-    "slug": "eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-familie",
-    "type": "article",
-    "title": "Eerherstel voor schrijver en verzetsheld Anton de Kom, excuses aan familie",
-    "subtitle": null,
-    "published_at": "2023-06-19T16:09:02+02:00",
-    "updated_at": "2023-06-19T16:59:49+02:00",
-    "media_id": "6ovxmo4ah1s6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268706/eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-familie.html",
     "open_new_window": false,
     "partner": null
   }
