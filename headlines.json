@@ -1,12 +1,81 @@
 [
   {
+    "id": 6268756,
+    "slug": "grote-brand-in-europa-park-in-duitsland",
+    "type": "video",
+    "title": "Grote brand in Europa-Park in Duitsland",
+    "subtitle": "Video",
+    "published_at": "2023-06-19T22:08:51+02:00",
+    "updated_at": "2023-06-19T22:08:52+02:00",
+    "media_id": "z0vxqxga1q31",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268756/grote-brand-in-europa-park-in-duitsland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268755,
+    "slug": "wiegman-helpt-oranje-in-strijd-om-speelsters-richting-wk-zware-bevalling",
+    "type": "article",
+    "title": "Wiegman helpt Oranje in strijd om speelsters richting WK: 'Zware bevalling'",
+    "subtitle": null,
+    "published_at": "2023-06-19T21:59:08+02:00",
+    "updated_at": "2023-06-19T22:17:07+02:00",
+    "media_id": "17oxewjasy0f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268755/wiegman-helpt-oranje-in-strijd-om-speelsters-richting-wk-zware-bevalling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268749,
+    "slug": "steeds-meer-daken-hebben-zonnepanelen-maar-hoe-blussen-we-die-bij-brand",
+    "type": "article",
+    "title": "Steeds meer daken hebben zonnepanelen, maar hoe blussen we die bij brand?",
+    "subtitle": null,
+    "published_at": "2023-06-19T21:44:49+02:00",
+    "updated_at": "2023-06-19T21:58:21+02:00",
+    "media_id": "c8hxyyfans2l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6268749/steeds-meer-daken-hebben-zonnepanelen-maar-hoe-blussen-we-die-bij-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268754,
     "slug": "vitesse-heeft-met-jong-psv-aanvoerder-tielemans-eerste-zomeraanwinst-binnen",
     "type": "article",
     "title": "Vitesse heeft met Jong PSV-aanvoerder Tielemans eerste zomeraanwinst binnen",
     "subtitle": null,
     "published_at": "2023-06-19T21:33:47+02:00",
-    "updated_at": "2023-06-19T21:38:01+02:00",
+    "updated_at": "2023-06-19T21:47:23+02:00",
     "media_id": "ycdxtqta7401",
     "duration": null,
     "canonical_section": {
@@ -24,12 +93,12 @@
   },
   {
     "id": 6268753,
-    "slug": "glasplaten-met-namen-van-overleden-kankerpatienten-vernield-op-gedenkplek-kwf",
+    "slug": "glasplaten-met-namen-overleden-kankerpatienten-vernield-op-gedenkplek-kwf",
     "type": "article",
-    "title": "Glasplaten met namen van overleden kankerpatiënten vernield op gedenkplek KWF",
+    "title": "Glasplaten met namen overleden kankerpatiënten vernield op gedenkplek KWF",
     "subtitle": null,
     "published_at": "2023-06-19T21:22:37+02:00",
-    "updated_at": "2023-06-19T21:28:24+02:00",
+    "updated_at": "2023-06-19T21:42:22+02:00",
     "media_id": "x86xo29a5shm",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6268753/glasplaten-met-namen-van-overleden-kankerpatienten-vernield-op-gedenkplek-kwf.html",
+    "url": "/binnenland/6268753/glasplaten-met-namen-overleden-kankerpatienten-vernield-op-gedenkplek-kwf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Nieuw-Zeeland weigert tweede helft te spelen tegen Qatar na racistisch incident",
     "subtitle": null,
     "published_at": "2023-06-19T21:15:52+02:00",
-    "updated_at": "2023-06-19T21:31:38+02:00",
+    "updated_at": "2023-06-19T22:12:27+02:00",
     "media_id": "hzbx4tca5k60",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Auto's botsen met kudde op A4: twaalf schapen dood en één automobilist gewond",
     "subtitle": null,
     "published_at": "2023-06-19T21:09:24+02:00",
-    "updated_at": "2023-06-19T21:14:57+02:00",
+    "updated_at": "2023-06-19T21:56:00+02:00",
     "media_id": "b4gxshran2c6",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6268750,
-    "slug": "hockeyers-spelen-na-drie-zeges-op-rij-teleurstellend-gelijk-tegen-spanje",
+    "slug": "hockeyers-kunnen-na-drie-zeges-op-rij-niet-overtuigen-en-winnen-niet-van-spanje",
     "type": "article",
-    "title": "Hockeyers spelen na drie zeges op rij teleurstellend gelijk tegen Spanje",
+    "title": "Hockeyers kunnen na drie zeges op rij niet overtuigen en winnen niet van Spanje",
     "subtitle": null,
     "published_at": "2023-06-19T21:02:34+02:00",
-    "updated_at": "2023-06-19T21:09:58+02:00",
+    "updated_at": "2023-06-19T21:43:23+02:00",
     "media_id": "lp1xlheaqnxg",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6268750/hockeyers-spelen-na-drie-zeges-op-rij-teleurstellend-gelijk-tegen-spanje.html",
+    "url": "/sport-overig/6268750/hockeyers-kunnen-na-drie-zeges-op-rij-niet-overtuigen-en-winnen-niet-van-spanje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +397,7 @@
     "title": "Oranjevrouwen beginnen in zonnig Zeist aan WK-voorbereiding",
     "subtitle": "In beeld",
     "published_at": "2023-06-19T18:11:43+02:00",
-    "updated_at": "2023-06-19T19:26:53+02:00",
+    "updated_at": "2023-06-19T22:10:59+02:00",
     "media_id": "bkux1z1a83sz",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6268715/duikboot-vermist-waarmee-titanic-bezocht-kan-worden-passagiers-aan-boord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268713,
-    "slug": "recensieoverzicht-show-beyonce-spectaculair-maar-pauzes-duurden-te-lang",
-    "type": "article",
-    "title": "Recensieoverzicht: 'Show Beyoncé spectaculair, maar pauzes duurden te lang'",
-    "subtitle": null,
-    "published_at": "2023-06-19T17:20:17+02:00",
-    "updated_at": "2023-06-19T19:17:25+02:00",
-    "media_id": "8cuxzpeayp9v",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6268713/recensieoverzicht-show-beyonce-spectaculair-maar-pauzes-duurden-te-lang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268719,
-    "slug": "duitsland-hengelt-met-miljardensubsidie-nieuwe-chipfabrieken-intel-binnen",
-    "type": "article",
-    "title": "Duitsland hengelt met miljardensubsidie nieuwe chipfabrieken Intel binnen",
-    "subtitle": null,
-    "published_at": "2023-06-19T17:18:01+02:00",
-    "updated_at": "2023-06-19T17:33:48+02:00",
-    "media_id": "fqvxirsa9inr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268719/duitsland-hengelt-met-miljardensubsidie-nieuwe-chipfabrieken-intel-binnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268718,
-    "slug": "bnnvara-moet-aflevering-over-nederlandse-gevangene-in-vs-toch-offline-halen",
-    "type": "article",
-    "title": "BNNVARA moet aflevering over Nederlandse gevangene in VS toch offline halen",
-    "subtitle": null,
-    "published_at": "2023-06-19T17:15:29+02:00",
-    "updated_at": "2023-06-19T17:15:32+02:00",
-    "media_id": "xtkxio5a7ofl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6268718/bnnvara-moet-aflevering-over-nederlandse-gevangene-in-vs-toch-offline-halen.html",
     "open_new_window": false,
     "partner": null
   }
