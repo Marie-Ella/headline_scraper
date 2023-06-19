@@ -1,5 +1,74 @@
 [
   {
+    "id": 6268676,
+    "slug": "beyonce-danst-met-dochter-blue-op-het-podium-van-de-arena",
+    "type": "video",
+    "title": "Beyoncé danst met dochter Blue op het podium van de Arena",
+    "subtitle": "Video",
+    "published_at": "2023-06-19T13:43:11+02:00",
+    "updated_at": "2023-06-19T13:43:12+02:00",
+    "media_id": "vgqxtj1adblj",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268676/beyonce-danst-met-dochter-blue-op-het-podium-van-de-arena.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268674,
+    "slug": "morrende-clubs-staken-strijd-oranje-begint-vrijwel-compleet-aan-wk-voorbereiding",
+    "type": "article",
+    "title": "Morrende clubs staken strijd: Oranje begint vrijwel compleet aan WK-voorbereiding",
+    "subtitle": null,
+    "published_at": "2023-06-19T13:35:00+02:00",
+    "updated_at": "2023-06-19T13:43:10+02:00",
+    "media_id": "44gxvosa7i3g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268674/morrende-clubs-staken-strijd-oranje-begint-vrijwel-compleet-aan-wk-voorbereiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268673,
+    "slug": "vier-van-acht-huizen-na-brand-arnhem-gesloopt-andere-volgen-mogelijk-nog",
+    "type": "article",
+    "title": "Vier van acht huizen na brand Arnhem gesloopt, andere volgen mogelijk nog",
+    "subtitle": null,
+    "published_at": "2023-06-19T13:31:27+02:00",
+    "updated_at": "2023-06-19T13:38:48+02:00",
+    "media_id": "heqxioraiuzo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268673/vier-van-acht-huizen-na-brand-arnhem-gesloopt-andere-volgen-mogelijk-nog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268670,
     "slug": "john-de-bever-en-partner-kees-volgend-jaar-te-zien-in-theatershow",
     "type": "article",
@@ -98,7 +167,7 @@
     "title": "Amsterdams studentencorps krijgt ook dit jaar geen geld van onderwijsinstellingen",
     "subtitle": null,
     "published_at": "2023-06-19T12:29:40+02:00",
-    "updated_at": "2023-06-19T12:29:41+02:00",
+    "updated_at": "2023-06-19T13:36:42+02:00",
     "media_id": "9paxn9aajdul",
     "duration": null,
     "canonical_section": {
@@ -259,7 +328,7 @@
     "title": "China stelt VS bij zeldzaam bezoek voor keuze: samenwerking óf conflict",
     "subtitle": null,
     "published_at": "2023-06-19T10:10:09+02:00",
-    "updated_at": "2023-06-19T13:26:58+02:00",
+    "updated_at": "2023-06-19T13:36:32+02:00",
     "media_id": "r6pxst5aghiw",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268541/quincy-promes-veroordeeld-tot-15-jaar-cel-voor-neersteken-neef-op-familiefeest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268629,
-    "slug": "bijna-honderd-doden-door-extreme-hittegolf-in-india",
-    "type": "article",
-    "title": "Bijna honderd doden door extreme hittegolf in India",
-    "subtitle": null,
-    "published_at": "2023-06-19T09:09:05+02:00",
-    "updated_at": "2023-06-19T09:52:01+02:00",
-    "media_id": "9mrx9c6ajqlo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6268629/bijna-honderd-doden-door-extreme-hittegolf-in-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268628,
-    "slug": "dinsdagmiddag-in-heel-het-land-code-geel-vanwege-onweer-en-hagel",
-    "type": "article",
-    "title": "Dinsdagmiddag in heel het land code geel vanwege onweer en hagel",
-    "subtitle": null,
-    "published_at": "2023-06-19T08:47:39+02:00",
-    "updated_at": "2023-06-19T13:12:55+02:00",
-    "media_id": "vtcxml3a1cyv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268628/dinsdagmiddag-in-heel-het-land-code-geel-vanwege-onweer-en-hagel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268625,
-    "slug": "golfer-clark-stunt-op-us-open-met-briefje-van-zijn-overleden-moeder-op-zak",
-    "type": "article",
-    "title": "Golfer Clark stunt op US Open met briefje van zijn overleden moeder op zak",
-    "subtitle": null,
-    "published_at": "2023-06-19T08:45:53+02:00",
-    "updated_at": "2023-06-19T09:41:12+02:00",
-    "media_id": "pdixbg3a9cs8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6268625/golfer-clark-stunt-op-us-open-met-briefje-van-zijn-overleden-moeder-op-zak.html",
     "open_new_window": false,
     "partner": null
   }
