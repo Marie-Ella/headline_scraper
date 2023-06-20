@@ -1,12 +1,58 @@
 [
   {
+    "id": 6268783,
+    "slug": "toezichthouders-moeten-ons-beter-beschermen-tegen-de-gevaren-van-ai",
+    "type": "article",
+    "title": "Toezichthouders moeten ons beter beschermen tegen de gevaren van AI",
+    "subtitle": null,
+    "published_at": "2023-06-20T09:10:33+02:00",
+    "updated_at": "2023-06-20T09:10:35+02:00",
+    "media_id": "m8fx55taotvj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6268783/toezichthouders-moeten-ons-beter-beschermen-tegen-de-gevaren-van-ai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268781,
+    "slug": "dode-bij-steekpartij-in-een-albert-heijn-in-den-haag",
+    "type": "article",
+    "title": "Dode bij steekpartij in een Albert Heijn in Den Haag",
+    "subtitle": null,
+    "published_at": "2023-06-20T08:53:24+02:00",
+    "updated_at": "2023-06-20T08:58:11+02:00",
+    "media_id": "ysxxo13ag0y1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268781/dode-bij-steekpartij-in-een-albert-heijn-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268780,
     "slug": "arsenal-brengt-miljoenenbod-uit-op-ajax-verdediger-en-oranje-international-timber",
     "type": "article",
     "title": "Arsenal brengt miljoenenbod uit op Ajax-verdediger en Oranje-international Timber",
     "subtitle": null,
     "published_at": "2023-06-20T08:48:14+02:00",
-    "updated_at": "2023-06-20T08:48:16+02:00",
+    "updated_at": "2023-06-20T09:00:52+02:00",
     "media_id": "uc7xruqapgas",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Zoektocht naar vermiste onderzeeër bij Titanic verloopt moeizaam",
     "subtitle": null,
     "published_at": "2023-06-20T08:28:39+02:00",
-    "updated_at": "2023-06-20T08:47:58+02:00",
+    "updated_at": "2023-06-20T09:01:10+02:00",
     "media_id": "mjpxhqha329u",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Burgercollectieven willen strengere uitstootregels voor Tata Steel afdwingen",
     "subtitle": null,
     "published_at": "2023-06-20T07:50:52+02:00",
-    "updated_at": "2023-06-20T07:58:11+02:00",
+    "updated_at": "2023-06-20T09:01:42+02:00",
     "media_id": "xwexexaav5lo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-voetbal/6268764/meditatie-helpt-van-de-sanden-aan-oranjerentree-zie-me-al-op-wk-staan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268665,
-    "slug": "belgen-kijken-met-jaloezie-naar-onze-sociale-koning-willem-alexander",
-    "type": "article",
-    "title": "Belgen kijken met jaloezie naar onze sociale koning Willem-Alexander",
-    "subtitle": "NU+",
-    "published_at": "2023-06-20T05:02:38+02:00",
-    "updated_at": "2023-06-20T07:32:30+02:00",
-    "media_id": "gc7xd21a7rik",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6268665/belgen-kijken-met-jaloezie-naar-onze-sociale-koning-willem-alexander.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268680,
-    "slug": "veel-winkeliers-vrezen-kopje-onder-te-gaan-door-stijgende-kosten",
-    "type": "article",
-    "title": "Veel winkeliers vrezen kopje-onder te gaan door stijgende kosten",
-    "subtitle": null,
-    "published_at": "2023-06-20T05:01:35+02:00",
-    "updated_at": "2023-06-20T08:19:44+02:00",
-    "media_id": "v0gxrrwa8rgt",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268680/veel-winkeliers-vrezen-kopje-onder-te-gaan-door-stijgende-kosten.html",
     "open_new_window": false,
     "partner": null
   }
