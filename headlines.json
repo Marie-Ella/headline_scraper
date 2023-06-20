@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268777,
+    "slug": "zoektocht-naar-vermiste-onderzeeer-bij-titanic-verloopt-moeizaam",
+    "type": "article",
+    "title": "Zoektocht naar vermiste onderzeeër bij Titanic verloopt moeizaam",
+    "subtitle": null,
+    "published_at": "2023-06-20T08:28:39+02:00",
+    "updated_at": "2023-06-20T08:29:04+02:00",
+    "media_id": "mjpxhqha329u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6268777/zoektocht-naar-vermiste-onderzeeer-bij-titanic-verloopt-moeizaam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268779,
     "slug": "zo-ziet-de-vermiste-onderzeeer-eruit-die-onderweg-was-naar-titanic",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268273/overheid-haalt-eigen-diversiteitsdoelen-niet-of-nauwelijks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268695,
-    "slug": "kolen-zorgen-voor-record-goederenvervoer-op-het-spoor",
-    "type": "article",
-    "title": "Kolen zorgen voor record goederenvervoer op het spoor",
-    "subtitle": null,
-    "published_at": "2023-06-20T00:03:51+02:00",
-    "updated_at": "2023-06-20T00:03:52+02:00",
-    "media_id": "j25xh8vam6y6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268695/kolen-zorgen-voor-record-goederenvervoer-op-het-spoor.html",
     "open_new_window": false,
     "partner": null
   }
