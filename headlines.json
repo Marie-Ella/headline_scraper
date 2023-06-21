@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269067,
+    "slug": "beyonce-raakt-geirriteerd-bij-fout-tijdens-optreden-in-amsterdam",
+    "type": "video",
+    "title": "Beyoncé raakt geïrriteerd bij fout tijdens optreden in Amsterdam",
+    "subtitle": "Video",
+    "published_at": "2023-06-21T21:47:29+02:00",
+    "updated_at": "2023-06-21T21:47:30+02:00",
+    "media_id": "17axlgza4c2z",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269067/beyonce-raakt-geirriteerd-bij-fout-tijdens-optreden-in-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269066,
+    "slug": "rammstein-krijgt-van-groningen-ontheffing-om-meer-geluid-te-produceren",
+    "type": "article",
+    "title": "Rammstein krijgt van Groningen ontheffing om meer geluid te produceren",
+    "subtitle": null,
+    "published_at": "2023-06-21T21:27:27+02:00",
+    "updated_at": "2023-06-21T21:27:29+02:00",
+    "media_id": "s59x6dba4g0t",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6269066/rammstein-krijgt-van-groningen-ontheffing-om-meer-geluid-te-produceren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269038,
     "slug": "dit-weten-we-nu-over-het-dodelijke-steekincident-in-de-haagse-supermarkt",
     "type": "article",
@@ -167,8 +213,8 @@
     "title": "Ravage na grote gasexplosie in centrum van Parijs",
     "subtitle": "Video",
     "published_at": "2023-06-21T19:59:50+02:00",
-    "updated_at": "2023-06-21T19:59:51+02:00",
-    "media_id": "f5wxko4aemra",
+    "updated_at": "2023-06-21T21:47:53+02:00",
+    "media_id": "wmfxuaka3n86",
     "duration": "0:37",
     "canonical_section": {
       "id": 1772431,
@@ -259,7 +305,7 @@
     "title": "Bijna dertig gewonden bij grote gasexplosie in binnenstad Parijs",
     "subtitle": null,
     "published_at": "2023-06-21T18:28:43+02:00",
-    "updated_at": "2023-06-21T21:20:52+02:00",
+    "updated_at": "2023-06-21T21:39:48+02:00",
     "media_id": "9evx9peaj4p5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6269041/van-emden-onttroont-mollema-bij-nk-tijdrijden-markus-klopt-vollering-bij-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269039,
-    "slug": "reacties-na-gelijkspel-jong-oranje-tegen-belgie-in-eerste-ek-wedstrijd",
-    "type": "article",
-    "title": "Reacties na gelijkspel Jong Oranje tegen België in eerste EK-wedstrijd",
-    "subtitle": "Liveblog",
-    "published_at": "2023-06-21T17:20:57+02:00",
-    "updated_at": "2023-06-21T20:52:05+02:00",
-    "media_id": "x1hxzemagfgt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269039/reacties-na-gelijkspel-jong-oranje-tegen-belgie-in-eerste-ek-wedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269037,
-    "slug": "herlings-is-langer-uitgeschakeld-en-moet-derde-wereldtitel-uit-zijn-hoofd-zetten",
-    "type": "article",
-    "title": "Herlings is langer uitgeschakeld en moet derde wereldtitel uit zijn hoofd zetten",
-    "subtitle": null,
-    "published_at": "2023-06-21T17:18:43+02:00",
-    "updated_at": "2023-06-21T17:50:13+02:00",
-    "media_id": "vtrx4pga0imk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6269037/herlings-is-langer-uitgeschakeld-en-moet-derde-wereldtitel-uit-zijn-hoofd-zetten.html",
     "open_new_window": false,
     "partner": null
   }
