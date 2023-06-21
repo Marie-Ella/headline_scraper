@@ -1,12 +1,58 @@
 [
   {
+    "id": 6269038,
+    "slug": "dit-weten-we-nu-over-het-dodelijke-steekincident-in-de-haagse-supermarkt",
+    "type": "article",
+    "title": "Dit weten we nu over het dodelijke steekincident in de Haagse supermarkt",
+    "subtitle": null,
+    "published_at": "2023-06-21T21:02:21+02:00",
+    "updated_at": "2023-06-21T21:02:23+02:00",
+    "media_id": "eq4x7rtaqcy1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269038/dit-weten-we-nu-over-het-dodelijke-steekincident-in-de-haagse-supermarkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269065,
+    "slug": "verbruggen-na-cruciale-reddingen-voor-jong-oranje-ben-vooral-teleurgesteld",
+    "type": "article",
+    "title": "Verbruggen na cruciale reddingen voor Jong Oranje: 'Ben vooral teleurgesteld'",
+    "subtitle": null,
+    "published_at": "2023-06-21T20:59:25+02:00",
+    "updated_at": "2023-06-21T21:03:48+02:00",
+    "media_id": "b3gxok5avd4f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269065/verbruggen-na-cruciale-reddingen-voor-jong-oranje-ben-vooral-teleurgesteld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269063,
     "slug": "koning-maakt-pokergrapje-tijdens-staatsbezoek-in-belgie",
     "type": "video",
     "title": "Koning maakt pokergrapje tijdens staatsbezoek in België",
     "subtitle": "Video",
     "published_at": "2023-06-21T20:42:13+02:00",
-    "updated_at": "2023-06-21T20:42:14+02:00",
+    "updated_at": "2023-06-21T21:01:22+02:00",
     "media_id": "06bxjhia5ncl",
     "duration": "0:53",
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Jonker passeert EK-doelpuntenmaker Leuchter voor WK, Van Es mag nog dromen",
     "subtitle": null,
     "published_at": "2023-06-21T20:36:55+02:00",
-    "updated_at": "2023-06-21T20:48:04+02:00",
+    "updated_at": "2023-06-21T21:11:08+02:00",
     "media_id": "ljzxftvavuln",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Reacties na gelijkspel Jong Oranje tegen België in eerste EK-wedstrijd",
     "subtitle": "Liveblog",
     "published_at": "2023-06-21T17:20:57+02:00",
-    "updated_at": "2023-06-21T20:21:36+02:00",
+    "updated_at": "2023-06-21T20:52:05+02:00",
     "media_id": "x1hxzemagfgt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269037/herlings-is-langer-uitgeschakeld-en-moet-derde-wereldtitel-uit-zijn-hoofd-zetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269036,
-    "slug": "taylor-swift-na-kaartverkoopchaos-in-vs-naar-europa-wat-ging-mis",
-    "type": "video",
-    "title": "Taylor Swift na kaartverkoopchaos in VS naar Europa: wat ging mis?",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-21T17:12:45+02:00",
-    "updated_at": "2023-06-21T17:27:29+02:00",
-    "media_id": "2anxpswadrgg",
-    "duration": "2:10",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6269036/taylor-swift-na-kaartverkoopchaos-in-vs-naar-europa-wat-ging-mis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269035,
-    "slug": "mourinho-vier-europese-duels-geschorst-voor-belagen-scheidsrechter-taylor",
-    "type": "article",
-    "title": "Mourinho vier Europese duels geschorst voor belagen scheidsrechter Taylor",
-    "subtitle": null,
-    "published_at": "2023-06-21T17:12:09+02:00",
-    "updated_at": "2023-06-21T17:49:17+02:00",
-    "media_id": "clzx6s9awwsh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269035/mourinho-vier-europese-duels-geschorst-voor-belagen-scheidsrechter-taylor.html",
     "open_new_window": false,
     "partner": null
   }
