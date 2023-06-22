@@ -1,5 +1,97 @@
 [
   {
+    "id": 6269074,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-22T05:15:51+02:00",
+    "updated_at": "2023-06-22T05:15:52+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6269074/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269010,
+    "slug": "moeten-we-ons-zorgen-maken-over-de-nederlandse-economie",
+    "type": "article",
+    "title": "Moeten we ons zorgen maken over de Nederlandse economie?",
+    "subtitle": "NU+",
+    "published_at": "2023-06-22T05:04:17+02:00",
+    "updated_at": "2023-06-22T05:04:33+02:00",
+    "media_id": "8z4xzjdakeo5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6269010/moeten-we-ons-zorgen-maken-over-de-nederlandse-economie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269050,
+    "slug": "zorgmedewerkers-kunnen-asielzoekers-niet-goed-meer-helpen-en-luiden-noodklok",
+    "type": "article",
+    "title": "Zorgmedewerkers kunnen asielzoekers niet goed meer helpen en luiden noodklok",
+    "subtitle": null,
+    "published_at": "2023-06-22T05:03:26+02:00",
+    "updated_at": "2023-06-22T05:13:59+02:00",
+    "media_id": "f57xgubaebzc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779109,
+      "slug": "asielcrisis",
+      "type": "default",
+      "name": "Asielcrisis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/asielcrisis/6269050/zorgmedewerkers-kunnen-asielzoekers-niet-goed-meer-helpen-en-luiden-noodklok.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268961,
+    "slug": "wachten-op-de-eerste-grote-aanval-van-het-oekraiense-tegenoffensief",
+    "type": "article",
+    "title": "Wachten op de eerste grote aanval van het Oekraïense tegenoffensief",
+    "subtitle": null,
+    "published_at": "2023-06-22T05:02:52+02:00",
+    "updated_at": "2023-06-22T05:13:30+02:00",
+    "media_id": "a78xkdpav77u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6268961/wachten-op-de-eerste-grote-aanval-van-het-oekraiense-tegenoffensief.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269071,
     "slug": "man-die-wordt-verdacht-van-lekken-pentagon-documenten-zegt-onschuldig-te-zijn",
     "type": "article",
@@ -29,7 +121,7 @@
     "title": "Prijzen van koopwoningen blijven dalen",
     "subtitle": null,
     "published_at": "2023-06-22T00:01:04+02:00",
-    "updated_at": "2023-06-22T00:01:05+02:00",
+    "updated_at": "2023-06-22T05:03:45+02:00",
     "media_id": "i0lxsjfaggog",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "Jonker passeert Leuchter verrassend voor WK, Kika van Es mag nog dromen",
     "subtitle": null,
     "published_at": "2023-06-21T20:36:55+02:00",
-    "updated_at": "2023-06-21T23:39:51+02:00",
+    "updated_at": "2023-06-22T05:15:19+02:00",
     "media_id": "ljzxftvavuln",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269061/ravage-na-grote-gasexplosie-in-centrum-van-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269058,
-    "slug": "uitblinker-verbruggen-voorkomt-nederlaag-jong-oranje-tegen-belgie-op-ek",
-    "type": "article",
-    "title": "Uitblinker Verbruggen voorkomt nederlaag Jong Oranje tegen België op EK",
-    "subtitle": null,
-    "published_at": "2023-06-21T19:51:54+02:00",
-    "updated_at": "2023-06-21T20:12:16+02:00",
-    "media_id": "rsxxctua19jf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269058/uitblinker-verbruggen-voorkomt-nederlaag-jong-oranje-tegen-belgie-op-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269046,
-    "slug": "zweden-bewijst-waarom-bijna-gratis-kinderopvang-wel-kan-werken",
-    "type": "article",
-    "title": "Zweden bewijst waarom bijna gratis kinderopvang wél kan werken",
-    "subtitle": null,
-    "published_at": "2023-06-21T19:03:53+02:00",
-    "updated_at": "2023-06-22T00:19:35+02:00",
-    "media_id": "ierx1qwaxjsi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6269046/zweden-bewijst-waarom-bijna-gratis-kinderopvang-wel-kan-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269055,
-    "slug": "oranjeopponent-vs-met-blikvangers-rapinoe-en-morgan-naar-wk-voor-vrouwen",
-    "type": "article",
-    "title": "Oranjeopponent VS met blikvangers Rapinoe en Morgan naar WK voor vrouwen",
-    "subtitle": null,
-    "published_at": "2023-06-21T19:01:29+02:00",
-    "updated_at": "2023-06-21T19:13:18+02:00",
-    "media_id": "l8cxx6fa9tnp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269055/oranjeopponent-vs-met-blikvangers-rapinoe-en-morgan-naar-wk-voor-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269051,
-    "slug": "bijna-dertig-gewonden-bij-grote-gasexplosie-in-binnenstad-parijs",
-    "type": "article",
-    "title": "Bijna dertig gewonden bij grote gasexplosie in binnenstad Parijs",
-    "subtitle": null,
-    "published_at": "2023-06-21T18:28:43+02:00",
-    "updated_at": "2023-06-21T21:53:50+02:00",
-    "media_id": "9evx9peaj4p5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269051/bijna-dertig-gewonden-bij-grote-gasexplosie-in-binnenstad-parijs.html",
     "open_new_window": false,
     "partner": null
   }
