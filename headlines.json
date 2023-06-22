@@ -1,12 +1,58 @@
 [
   {
+    "id": 6269241,
+    "slug": "andre-rieu-gaat-bij-paus-franciscus-langs",
+    "type": "article",
+    "title": "André Rieu gaat bij paus Franciscus langs",
+    "subtitle": null,
+    "published_at": "2023-06-22T22:48:43+02:00",
+    "updated_at": "2023-06-22T22:48:44+02:00",
+    "media_id": "h9jx7z1ae2it",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6269241/andre-rieu-gaat-bij-paus-franciscus-langs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269240,
+    "slug": "amerikaanse-kustwacht-brokstukken-onderzeeer-wijzen-op-implosie",
+    "type": "video",
+    "title": "Amerikaanse kustwacht: 'Brokstukken onderzeeër wijzen op implosie'",
+    "subtitle": "Video",
+    "published_at": "2023-06-22T22:37:16+02:00",
+    "updated_at": "2023-06-22T22:37:17+02:00",
+    "media_id": "6n0x2naat0kv",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269240/amerikaanse-kustwacht-brokstukken-onderzeeer-wijzen-op-implosie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269238,
     "slug": "nederland-en-marokko-sluiten-verdrag-over-uitleveren-misdadigers-kamer-aan-zet",
     "type": "article",
     "title": "Nederland en Marokko sluiten verdrag over uitleveren misdadigers, Kamer aan zet",
     "subtitle": null,
     "published_at": "2023-06-22T22:23:17+02:00",
-    "updated_at": "2023-06-22T22:26:47+02:00",
+    "updated_at": "2023-06-22T22:34:27+02:00",
     "media_id": "ivwx4thaapeu",
     "duration": null,
     "canonical_section": {
@@ -29,8 +75,8 @@
     "title": "Griekspoor neemt in thriller revanche op Hurkacz en zet zegereeks voort in Halle",
     "subtitle": null,
     "published_at": "2023-06-22T21:49:00+02:00",
-    "updated_at": "2023-06-22T22:11:26+02:00",
-    "media_id": "1mhxntiaa76e",
+    "updated_at": "2023-06-22T22:49:33+02:00",
+    "media_id": "ql9xd07aa5by",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -52,7 +98,7 @@
     "title": "Amerikaanse eigenaar Chelsea breidt imperium uit en koopt Strasbourg",
     "subtitle": null,
     "published_at": "2023-06-22T21:32:39+02:00",
-    "updated_at": "2023-06-22T22:13:35+02:00",
+    "updated_at": "2023-06-22T22:35:29+02:00",
     "media_id": "4wlx07jape8x",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Kustwacht VS denkt dat opvarenden van onderzeeër zijn overleden na implosie",
     "subtitle": null,
     "published_at": "2023-06-22T20:52:17+02:00",
-    "updated_at": "2023-06-22T22:23:34+02:00",
+    "updated_at": "2023-06-22T22:38:10+02:00",
     "media_id": "f5yx2ytajx3h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6269203/steun-voor-plan-om-eisen-te-stellen-aan-huizenverkoop-tot-355000-euro-onzeker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269198,
-    "slug": "waarom-er-geen-bak-met-geld-klaarstaat-voor-de-philips-nazaten",
-    "type": "video",
-    "title": "Waarom er geen bak met geld klaarstaat voor de Philips-nazaten",
-    "subtitle": "Video",
-    "published_at": "2023-06-22T17:00:22+02:00",
-    "updated_at": "2023-06-22T18:57:37+02:00",
-    "media_id": "fjfxi1garw3q",
-    "duration": "18:12",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269198/waarom-er-geen-bak-met-geld-klaarstaat-voor-de-philips-nazaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269195,
-    "slug": "engelse-kerk-stapt-uit-shell-vanwege-onvrede-over-klimaatbeleid",
-    "type": "article",
-    "title": "Engelse kerk stapt uit Shell vanwege onvrede over klimaatbeleid",
-    "subtitle": null,
-    "published_at": "2023-06-22T16:59:55+02:00",
-    "updated_at": "2023-06-22T17:16:46+02:00",
-    "media_id": "288xq33aho3s",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6269195/engelse-kerk-stapt-uit-shell-vanwege-onvrede-over-klimaatbeleid.html",
     "open_new_window": false,
     "partner": null
   }
