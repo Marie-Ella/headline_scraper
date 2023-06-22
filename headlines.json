@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269114,
-    "slug": "na-nacht-tevergeefs-zoeken-naar-onderzeeer-verdwijnt-langzaam-laatste-hoop",
+    "id": 6269116,
+    "slug": "toezichthouder-beschuldigt-amazon-van-misleiding-met-prime-abonnementen",
     "type": "article",
-    "title": "Na nacht tevergeefs zoeken naar onderzeeër verdwijnt langzaam laatste hoop",
+    "title": "Toezichthouder beschuldigt Amazon van misleiding met Prime-abonnementen",
+    "subtitle": null,
+    "published_at": "2023-06-22T10:36:23+02:00",
+    "updated_at": "2023-06-22T10:36:25+02:00",
+    "media_id": "002x1pxasxfe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6269116/toezichthouder-beschuldigt-amazon-van-misleiding-met-prime-abonnementen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269114,
+    "slug": "zoektocht-naar-onderzeeer-nadert-cruciale-fase-laatste-hoop-verdwijnt-langzaam",
+    "type": "article",
+    "title": "Zoektocht naar onderzeeër nadert cruciale fase, laatste hoop verdwijnt langzaam",
     "subtitle": null,
     "published_at": "2023-06-22T10:14:41+02:00",
-    "updated_at": "2023-06-22T10:20:14+02:00",
+    "updated_at": "2023-06-22T10:36:46+02:00",
     "media_id": "rpxxz8xah914",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269114/na-nacht-tevergeefs-zoeken-naar-onderzeeer-verdwijnt-langzaam-laatste-hoop.html",
+    "url": "/buitenland/6269114/zoektocht-naar-onderzeeer-nadert-cruciale-fase-laatste-hoop-verdwijnt-langzaam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6269078/bnnvara-stopt-met-op1-vanwege-conflict-en-onveilige-werksfeer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269072,
-    "slug": "dit-is-het-plan-van-saoedi-arabie-achter-transfers-van-topvoetballers",
-    "type": "video",
-    "title": "Dit is het plan van Saoedi-Arabië achter transfers van topvoetballers",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-22T06:37:20+02:00",
-    "updated_at": "2023-06-22T09:20:25+02:00",
-    "media_id": "7tcx3z2a6aki",
-    "duration": "2:58",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6269072/dit-is-het-plan-van-saoedi-arabie-achter-transfers-van-topvoetballers.html",
     "open_new_window": false,
     "partner": null
   }
