@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269369,
+    "slug": "weekendweerbericht-zon-maakt-overuren-in-aanloop-naar-wisselvallige-week",
+    "type": "article",
+    "title": "Weekendweerbericht: Zon maakt overuren in aanloop naar wisselvallige week",
+    "subtitle": null,
+    "published_at": "2023-06-23T16:47:32+02:00",
+    "updated_at": "2023-06-23T16:47:33+02:00",
+    "media_id": "l4jx4enacwwz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269369/weekendweerbericht-zon-maakt-overuren-in-aanloop-naar-wisselvallige-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269371,
+    "slug": "directeur-vertelde-in-vlog-uit-2021-dat-hij-regels-overtrad-bij-bouw-onderzeeer",
+    "type": "video",
+    "title": "Directeur vertelde in vlog uit 2021 dat hij regels overtrad bij bouw onderzeeër",
+    "subtitle": "Video",
+    "published_at": "2023-06-23T16:35:12+02:00",
+    "updated_at": "2023-06-23T16:48:36+02:00",
+    "media_id": "iy7xd9xaazot",
+    "duration": "0:20",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269371/directeur-vertelde-in-vlog-uit-2021-dat-hij-regels-overtrad-bij-bouw-onderzeeer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269367,
     "slug": "nick-cannon-vindt-zichzelf-geen-goede-vader-ik-verkloot-het-de-hele-tijd",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Onderzeeër Titan was helemaal niet veilig en dat konden de passagiers weten",
     "subtitle": null,
     "published_at": "2023-06-23T13:54:13+02:00",
-    "updated_at": "2023-06-23T16:20:48+02:00",
+    "updated_at": "2023-06-23T16:42:07+02:00",
     "media_id": "scox7wua1kfh",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269308/duitsland-maakt-arbeidsmarkt-toegankelijker-voor-geschoolde-migranten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269306,
-    "slug": "pvda-gaat-strijd-aan-met-in-opspraak-gekomen-vvder-om-voorzitterschap-senaat",
-    "type": "article",
-    "title": "PvdA gaat strijd aan met in opspraak gekomen VVD'er om voorzitterschap senaat",
-    "subtitle": null,
-    "published_at": "2023-06-23T13:14:18+02:00",
-    "updated_at": "2023-06-23T13:40:47+02:00",
-    "media_id": "fxzxdzma1j6q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6269306/pvda-gaat-strijd-aan-met-in-opspraak-gekomen-vvder-om-voorzitterschap-senaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269302,
-    "slug": "philips-erkent-fout-bij-melding-van-overlijden-gebruiker-apneuapparaat",
-    "type": "article",
-    "title": "Philips erkent fout bij melding van overlijden gebruiker apneuapparaat",
-    "subtitle": null,
-    "published_at": "2023-06-23T13:05:09+02:00",
-    "updated_at": "2023-06-23T13:43:04+02:00",
-    "media_id": "erbxmzwamn6z",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6269302/philips-erkent-fout-bij-melding-van-overlijden-gebruiker-apneuapparaat.html",
     "open_new_window": false,
     "partner": null
   }
