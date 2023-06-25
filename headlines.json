@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269511,
+    "slug": "weerbericht-snikhete-dag-met-tropische-temperaturen-en-volop-zon",
+    "type": "article",
+    "title": "Weerbericht: Snikhete dag met tropische temperaturen en volop zon",
+    "subtitle": null,
+    "published_at": "2023-06-25T06:04:58+02:00",
+    "updated_at": "2023-06-25T06:04:59+02:00",
+    "media_id": "o1txql1a42kq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269511/weerbericht-snikhete-dag-met-tropische-temperaturen-en-volop-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269510,
     "slug": "vs-wisten-half-juni-al-dat-prigozjin-in-opstand-wilde-komen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269498/wagner-baas-stemt-in-met-de-escalatie-en-stopt-opmars-richting-moskou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269493,
-    "slug": "nederlandse-titel-vollering-bevestigt-dominantie-sd-worx-het-is-absurd",
-    "type": "article",
-    "title": "Nederlandse titel Vollering bevestigt dominantie SD Worx: 'Het is absurd'",
-    "subtitle": null,
-    "published_at": "2023-06-24T19:39:13+02:00",
-    "updated_at": "2023-06-24T20:11:00+02:00",
-    "media_id": "zrzxssta3kvd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6269493/nederlandse-titel-vollering-bevestigt-dominantie-sd-worx-het-is-absurd.html",
     "open_new_window": false,
     "partner": null
   }
