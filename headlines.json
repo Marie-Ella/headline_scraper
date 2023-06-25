@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269514,
+    "slug": "wagner-baas-prigozjin-vertrekt-onder-luid-gejuich-uit-rostov",
+    "type": "video",
+    "title": "Wagner-baas Prigozjin vertrekt onder luid gejuich uit Rostov",
+    "subtitle": "Video",
+    "published_at": "2023-06-25T08:20:55+02:00",
+    "updated_at": "2023-06-25T08:20:57+02:00",
+    "media_id": "6arxyg6ayh6a",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269514/wagner-baas-prigozjin-vertrekt-onder-luid-gejuich-uit-rostov.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269472,
+    "slug": "stelling-het-nieuws-over-de-wagner-opstand-in-rusland-is-moeilijk-te-volgen",
+    "type": "article",
+    "title": "Stelling: Het nieuws over de Wagner-opstand in Rusland is moeilijk te volgen",
+    "subtitle": null,
+    "published_at": "2023-06-25T08:07:58+02:00",
+    "updated_at": "2023-06-25T08:08:00+02:00",
+    "media_id": "4ifxro3ab2g4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6269472/stelling-het-nieuws-over-de-wagner-opstand-in-rusland-is-moeilijk-te-volgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269512,
     "slug": "wat-betekenen-de-vlaggen-op-het-strand",
     "type": "video",
@@ -144,7 +190,7 @@
     "title": "Dit verandert er op 1 juli allemaal voor je portemonnee",
     "subtitle": "NU+",
     "published_at": "2023-06-25T05:04:46+02:00",
-    "updated_at": "2023-06-25T05:19:56+02:00",
+    "updated_at": "2023-06-25T07:48:33+02:00",
     "media_id": "ji1xuuaaz10h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6269015/groot-risico-op-natuurbranden-door-het-hele-land-dit-gaan-we-vaker-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269343,
-    "slug": "milieuactivisten-protesteren-in-hart-van-tata-steel-ziek-van-deze-fabriek",
-    "type": "article",
-    "title": "Milieuactivisten protesteren in hart van Tata Steel: 'Ziek van deze fabriek!'",
-    "subtitle": "NU+",
-    "published_at": "2023-06-24T20:00:58+02:00",
-    "updated_at": "2023-06-24T20:53:31+02:00",
-    "media_id": "ydhx54vapfy5",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6269343/milieuactivisten-protesteren-in-hart-van-tata-steel-ziek-van-deze-fabriek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269499,
-    "slug": "brobbey-helpt-jong-oranje-aan-belangrijk-punt-tegen-jong-portugal-op-ek",
-    "type": "article",
-    "title": "Brobbey helpt Jong Oranje aan belangrijk punt tegen Jong Portugal op EK",
-    "subtitle": null,
-    "published_at": "2023-06-24T19:52:36+02:00",
-    "updated_at": "2023-06-24T21:00:09+02:00",
-    "media_id": "5e8xri1ac8a7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269499/brobbey-helpt-jong-oranje-aan-belangrijk-punt-tegen-jong-portugal-op-ek.html",
     "open_new_window": false,
     "partner": null
   }
