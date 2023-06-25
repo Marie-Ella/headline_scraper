@@ -1,24 +1,47 @@
 [
   {
+    "id": 6269525,
+    "slug": "van-der-weijden-wandelt-over-finish-elfstedentriatlon-in-leeuwarden",
+    "type": "video",
+    "title": "Van der Weijden wandelt over finish Elfstedentriatlon in Leeuwarden",
+    "subtitle": "Video",
+    "published_at": "2023-06-25T10:43:05+02:00",
+    "updated_at": "2023-06-25T10:43:08+02:00",
+    "media_id": "qlxxpalak606",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269525/van-der-weijden-wandelt-over-finish-elfstedentriatlon-in-leeuwarden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269523,
     "slug": "lichaam-gevonden-in-bergen-waar-britse-acteur-julian-sands-verdween",
     "type": "article",
     "title": "Lichaam gevonden in bergen waar Britse acteur Julian Sands verdween",
     "subtitle": null,
     "published_at": "2023-06-25T10:24:38+02:00",
-    "updated_at": "2023-06-25T10:28:09+02:00",
+    "updated_at": "2023-06-25T10:38:52+02:00",
     "media_id": "71lxy83al8vy",
     "duration": null,
     "canonical_section": {
-      "id": 1778994,
-      "slug": "media-en-cultuur",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Entertainment",
-      "style": "nuentertainment",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/media-en-cultuur/6269523/lichaam-gevonden-in-bergen-waar-britse-acteur-julian-sands-verdween.html",
+    "url": "/entertainment/6269523/lichaam-gevonden-in-bergen-waar-britse-acteur-julian-sands-verdween.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Grieken opnieuw naar de stembus, premier hoopt op meerderheid in tweede ronde",
     "subtitle": null,
     "published_at": "2023-06-25T09:50:39+02:00",
-    "updated_at": "2023-06-25T10:18:55+02:00",
+    "updated_at": "2023-06-25T10:48:36+02:00",
     "media_id": "xbtxo28avz70",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Maarten van der Weijden voltooit Elfstedentriatlon en haalt 3,7 miljoen euro op",
     "subtitle": null,
     "published_at": "2023-06-25T09:27:03+02:00",
-    "updated_at": "2023-06-25T10:18:40+02:00",
+    "updated_at": "2023-06-25T10:42:04+02:00",
     "media_id": "4mkx55caf9cc",
     "duration": null,
     "canonical_section": {
@@ -190,19 +213,19 @@
     "title": "Wat betekenen de vlaggen op het strand?",
     "subtitle": "Explainer",
     "published_at": "2023-06-25T07:15:26+02:00",
-    "updated_at": "2023-06-25T07:15:56+02:00",
+    "updated_at": "2023-06-25T10:43:58+02:00",
     "media_id": "i5nxvsearweu",
     "duration": "1:10",
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1778830,
+      "slug": "nu-uitgelegd",
       "type": "default",
-      "name": "Algemeen",
+      "name": "NU-uitgelegd",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6269512/wat-betekenen-de-vlaggen-op-het-strand.html",
+    "url": "/nu-uitgelegd/6269512/wat-betekenen-de-vlaggen-op-het-strand.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269507/doden-en-gewonden-tijdens-duits-vader-kindweekend-na-ongeluk-met-shovel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269506,
-    "slug": "deurloo-luistert-rentree-als-turner-ondanks-val-op-met-bronzen-medaille-bij-nk",
-    "type": "article",
-    "title": "Deurloo luistert rentree als turner ondanks val op met bronzen medaille bij NK",
-    "subtitle": null,
-    "published_at": "2023-06-24T22:35:14+02:00",
-    "updated_at": "2023-06-24T22:38:54+02:00",
-    "media_id": "mf2xssta71cz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6269506/deurloo-luistert-rentree-als-turner-ondanks-val-op-met-bronzen-medaille-bij-nk.html",
     "open_new_window": false,
     "partner": null
   }
