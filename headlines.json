@@ -1,12 +1,58 @@
 [
   {
+    "id": 6269649,
+    "slug": "tornados-laten-spoor-van-verwoesting-achter-in-indiana",
+    "type": "video",
+    "title": "Tornado's laten spoor van verwoesting achter in Indiana",
+    "subtitle": "Video",
+    "published_at": "2023-06-26T12:45:31+02:00",
+    "updated_at": "2023-06-26T12:45:32+02:00",
+    "media_id": "7ddxlsga25vv",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269649/tornados-laten-spoor-van-verwoesting-achter-in-indiana.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269644,
+    "slug": "britse-hacker-krijgt-vijf-jaar-cel-voor-grote-twitter-hack-in-2020",
+    "type": "article",
+    "title": "Britse hacker krijgt vijf jaar cel voor grote Twitter-hack in 2020",
+    "subtitle": null,
+    "published_at": "2023-06-26T12:37:25+02:00",
+    "updated_at": "2023-06-26T12:37:26+02:00",
+    "media_id": "h15x6tgaev2a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6269644/britse-hacker-krijgt-vijf-jaar-cel-voor-grote-twitter-hack-in-2020.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269645,
     "slug": "modric-weerstaat-saoedische-miljoenen-en-gaat-voor-twaalfde-jaar-bij-real",
     "type": "article",
     "title": "Modric weerstaat Saoedische miljoenen en gaat voor twaalfde jaar bij Real",
     "subtitle": null,
     "published_at": "2023-06-26T12:27:14+02:00",
-    "updated_at": "2023-06-26T12:33:19+02:00",
+    "updated_at": "2023-06-26T12:49:12+02:00",
     "media_id": "75kx8alag0nj",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Topfavoriet Pogacar krijgt Adam Yates en Majka als luxeknechten in Tour",
     "subtitle": null,
     "published_at": "2023-06-26T12:09:43+02:00",
-    "updated_at": "2023-06-26T12:09:44+02:00",
+    "updated_at": "2023-06-26T12:42:21+02:00",
     "media_id": "pp1x92laq0qn",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "FC Eindhoven haalt Willem Weijs als opvolger van Penders terug naar Nederland",
     "subtitle": null,
     "published_at": "2023-06-26T11:08:42+02:00",
-    "updated_at": "2023-06-26T12:30:54+02:00",
+    "updated_at": "2023-06-26T12:36:17+02:00",
     "media_id": "2i7xwvla5zy4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269610/drone-filmt-hoe-bultrug-kajak-volgt-langs-australische-kust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269603,
-    "slug": "amerikaanse-kustwacht-gaat-proberen-wrakstukken-onderzeeer-titan-op-te-vissen",
-    "type": "article",
-    "title": "Amerikaanse kustwacht gaat proberen wrakstukken onderzeeër Titan op te vissen",
-    "subtitle": null,
-    "published_at": "2023-06-26T08:58:39+02:00",
-    "updated_at": "2023-06-26T09:14:39+02:00",
-    "media_id": "g9mxw6laitj4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269603/amerikaanse-kustwacht-gaat-proberen-wrakstukken-onderzeeer-titan-op-te-vissen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269605,
-    "slug": "luiten-maakt-reuzensprong-op-wereldranglijst-ondanks-mislopen-titel-in-munchen",
-    "type": "article",
-    "title": "Luiten maakt reuzensprong op wereldranglijst ondanks mislopen titel in München",
-    "subtitle": null,
-    "published_at": "2023-06-26T08:47:20+02:00",
-    "updated_at": "2023-06-26T08:49:50+02:00",
-    "media_id": "jrlx14kaznnc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6269605/luiten-maakt-reuzensprong-op-wereldranglijst-ondanks-mislopen-titel-in-munchen.html",
     "open_new_window": false,
     "partner": null
   }
