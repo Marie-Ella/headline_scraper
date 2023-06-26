@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269361,
+    "slug": "hoe-verpleegkundige-theodoor-v-na-biecht-over-doden-patienten-vrijkwam",
+    "type": "article",
+    "title": "Hoe verpleegkundige Theodoor V. na biecht over doden patiënten vrijkwam",
+    "subtitle": "NU+",
+    "published_at": "2023-06-26T05:26:47+02:00",
+    "updated_at": "2023-06-26T05:33:11+02:00",
+    "media_id": "vnexe4rarito",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269361/hoe-verpleegkundige-theodoor-v-na-biecht-over-doden-patienten-vrijkwam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269379,
+    "slug": "veel-kinderen-zijn-te-zwaar-maar-dat-los-je-niet-alleen-op-met-minder-eten",
+    "type": "article",
+    "title": "Veel kinderen zijn te zwaar, maar dat los je niet (alleen) op met minder eten",
+    "subtitle": null,
+    "published_at": "2023-06-26T05:25:01+02:00",
+    "updated_at": "2023-06-26T05:25:03+02:00",
+    "media_id": "1omxh32aky8c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269379/veel-kinderen-zijn-te-zwaar-maar-dat-los-je-niet-alleen-op-met-minder-eten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269589,
     "slug": "klm-vliegtuig-na-landing-in-ecuador-ontruimd-wegens-bommelding",
     "type": "article",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6269586,
-    "slug": "griekse-premier-wint-tweede-verkiezingsronde-en-behaalt-meerderheid-in-parlement",
+    "slug": "griekse-premier-wint-nieuwe-verkiezingsronde-en-haalt-meerderheid-in-parlement",
     "type": "article",
-    "title": "Griekse premier wint tweede verkiezingsronde en behaalt meerderheid in parlement",
+    "title": "Griekse premier wint nieuwe verkiezingsronde en haalt meerderheid in parlement",
     "subtitle": null,
     "published_at": "2023-06-25T21:46:21+02:00",
-    "updated_at": "2023-06-25T22:13:56+02:00",
+    "updated_at": "2023-06-26T05:29:02+02:00",
     "media_id": "m0bxsmoaobx7",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269586/griekse-premier-wint-tweede-verkiezingsronde-en-behaalt-meerderheid-in-parlement.html",
+    "url": "/buitenland/6269586/griekse-premier-wint-nieuwe-verkiezingsronde-en-haalt-meerderheid-in-parlement.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6269569/dode-en-gewonde-bij-schietpartij-in-maarheeze-verdachte-aangehouden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269568,
-    "slug": "van-baarle-troeft-topfavoriet-van-der-poel-af-in-strijd-om-nationale-titel-op-de-weg",
-    "type": "article",
-    "title": "Van Baarle troeft topfavoriet Van der Poel af in strijd om nationale titel op de weg",
-    "subtitle": null,
-    "published_at": "2023-06-25T17:42:01+02:00",
-    "updated_at": "2023-06-25T23:54:06+02:00",
-    "media_id": "noxxxi0aydd6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6269568/van-baarle-troeft-topfavoriet-van-der-poel-af-in-strijd-om-nationale-titel-op-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269567,
-    "slug": "ehboers-koelen-deelnemer-ironman-in-hoorn",
-    "type": "video",
-    "title": "EHBO'ers koelen deelnemer Ironman in Hoorn",
-    "subtitle": "Video",
-    "published_at": "2023-06-25T17:30:22+02:00",
-    "updated_at": "2023-06-25T17:50:16+02:00",
-    "media_id": "4wqxcrtaimff",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269567/ehboers-koelen-deelnemer-ironman-in-hoorn.html",
     "open_new_window": false,
     "partner": null
   }
