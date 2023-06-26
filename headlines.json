@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269719,
+    "slug": "dit-zeggen-de-russische-media-en-propagandisten-over-de-muiterij",
+    "type": "video",
+    "title": "Dit zeggen de Russische media en propagandisten over de muiterij",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-26T18:00:13+02:00",
+    "updated_at": "2023-06-26T18:00:47+02:00",
+    "media_id": "slgxwm5ahv2f",
+    "duration": "2:42",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269719/dit-zeggen-de-russische-media-en-propagandisten-over-de-muiterij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269159,
     "slug": "noorse-prinses-ingrid-alexandra-gaat-op-basisschool-werken-en-in-het-leger",
     "type": "article",
     "title": "Noorse prinses Ingrid Alexandra gaat op basisschool werken en in het leger",
     "subtitle": null,
     "published_at": "2023-06-26T17:46:29+02:00",
-    "updated_at": "2023-06-26T17:46:31+02:00",
+    "updated_at": "2023-06-26T17:52:07+02:00",
     "media_id": "ahnx256ay6re",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6269713,
-    "slug": "prigozhin-verklaart-opstand-was-nodig-om-vernietiging-wagner-te-voorkomen",
+    "slug": "prigozhin-legt-opstand-uit-was-nodig-om-vernietiging-wagner-te-voorkomen",
     "type": "article",
-    "title": "Prigozhin verklaart opstand: 'Was nodig om vernietiging Wagner te voorkomen'",
+    "title": "Prigozhin legt opstand uit: 'Was nodig om vernietiging Wagner te voorkomen'",
     "subtitle": null,
     "published_at": "2023-06-26T17:19:28+02:00",
-    "updated_at": "2023-06-26T17:41:39+02:00",
+    "updated_at": "2023-06-26T17:59:49+02:00",
     "media_id": "448xirvargsq",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6269713/prigozhin-verklaart-opstand-was-nodig-om-vernietiging-wagner-te-voorkomen.html",
+    "url": "/spanningen-oekraine/6269713/prigozhin-legt-opstand-uit-was-nodig-om-vernietiging-wagner-te-voorkomen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Overtollige zonnestroom wordt minder waard voor klanten bij Vattenfall",
     "subtitle": null,
     "published_at": "2023-06-26T17:14:46+02:00",
-    "updated_at": "2023-06-26T17:14:48+02:00",
+    "updated_at": "2023-06-26T18:17:17+02:00",
     "media_id": "t6wxsmvaff05",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "OM eist zeven jaar tegen asielzoeker die hete olie over azc-medewerkers gooide",
     "subtitle": null,
     "published_at": "2023-06-26T16:29:55+02:00",
-    "updated_at": "2023-06-26T16:29:56+02:00",
+    "updated_at": "2023-06-26T18:01:53+02:00",
     "media_id": "lv8x7b2a9d80",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "KNSB schort maatregel voor buitenlandse schaatsers op na kritiek van teams",
     "subtitle": null,
     "published_at": "2023-06-26T16:06:44+02:00",
-    "updated_at": "2023-06-26T16:13:24+02:00",
+    "updated_at": "2023-06-26T18:07:44+02:00",
     "media_id": "erux5iwach1l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6269677/jong-oranje-staat-voor-cruciaal-duel-met-georgie-wij-zijn-in-principe-beter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269678,
-    "slug": "koning-charles-lanceert-met-grote-sterren-youtube-kanaal-over-klimaat",
-    "type": "video",
-    "title": "Koning Charles lanceert met grote sterren YouTube-kanaal over klimaat",
-    "subtitle": "Video",
-    "published_at": "2023-06-26T14:52:23+02:00",
-    "updated_at": "2023-06-26T15:11:09+02:00",
-    "media_id": "p1nx1h6aobcw",
-    "duration": "3:34",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6269678/koning-charles-lanceert-met-grote-sterren-youtube-kanaal-over-klimaat.html",
     "open_new_window": false,
     "partner": null
   }
