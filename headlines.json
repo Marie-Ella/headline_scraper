@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269972,
+    "slug": "griekspoor-beleeft-primeur-met-geplaatste-status-op-wimbledon",
+    "type": "article",
+    "title": "Griekspoor beleeft primeur met geplaatste status op Wimbledon",
+    "subtitle": null,
+    "published_at": "2023-06-28T12:38:58+02:00",
+    "updated_at": "2023-06-28T12:39:35+02:00",
+    "media_id": "la9x87ja9qb7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6269972/griekspoor-beleeft-primeur-met-geplaatste-status-op-wimbledon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269967,
+    "slug": "carlsen-hoeft-omstreden-schaker-niemann-geen-100-miljoen-dollar-te-betalen",
+    "type": "article",
+    "title": "Carlsen hoeft omstreden schaker Niemann geen 100 miljoen dollar te betalen",
+    "subtitle": null,
+    "published_at": "2023-06-28T12:36:04+02:00",
+    "updated_at": "2023-06-28T12:36:08+02:00",
+    "media_id": "st7xefha6jpd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6269967/carlsen-hoeft-omstreden-schaker-niemann-geen-100-miljoen-dollar-te-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269955,
     "slug": "mars-in-groningen-tegen-komst-van-wangedrag-beschuldigde-rammstein-zanger",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Tour de France-kijker krijgt gesprekken tussen renner en ploegleiding te horen",
     "subtitle": null,
     "published_at": "2023-06-28T11:31:14+02:00",
-    "updated_at": "2023-06-28T12:31:14+02:00",
+    "updated_at": "2023-06-28T12:41:35+02:00",
     "media_id": "oq7xzvaa70oc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6269927/russische-topgeneraal-was-mogelijk-op-de-hoogte-van-wagner-opstand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269926,
-    "slug": "grote-brand-in-rotterdam-onder-controle-nog-wel-rookwolken-boven-de-stad",
-    "type": "article",
-    "title": "Grote brand in Rotterdam onder controle, nog wel rookwolken boven de stad",
-    "subtitle": null,
-    "published_at": "2023-06-28T08:28:33+02:00",
-    "updated_at": "2023-06-28T11:25:26+02:00",
-    "media_id": "jh6x2l7ajeru",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6269926/grote-brand-in-rotterdam-onder-controle-nog-wel-rookwolken-boven-de-stad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269923,
-    "slug": "weerbericht-regen-en-wind-kunnen-niet-voorkomen-dat-de-zon-lokaal-doorbreekt",
-    "type": "article",
-    "title": "Weerbericht: Regen en wind kunnen niet voorkomen dat de zon lokaal doorbreekt",
-    "subtitle": null,
-    "published_at": "2023-06-28T07:33:14+02:00",
-    "updated_at": "2023-06-28T08:06:53+02:00",
-    "media_id": "6ulxhpoagtfe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6269923/weerbericht-regen-en-wind-kunnen-niet-voorkomen-dat-de-zon-lokaal-doorbreekt.html",
     "open_new_window": false,
     "partner": null
   }
