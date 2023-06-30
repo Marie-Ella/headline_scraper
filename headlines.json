@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270386,
+    "slug": "oekraine-stuurt-troepen-naar-het-noorden-na-verhuizing-prigozhin-naar-belarus",
+    "type": "article",
+    "title": "Oekraïne stuurt troepen naar het noorden na verhuizing Prigozhin naar Belarus",
+    "subtitle": null,
+    "published_at": "2023-06-30T20:56:27+02:00",
+    "updated_at": "2023-06-30T20:59:32+02:00",
+    "media_id": "5mjxvu9am4w4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6270386/oekraine-stuurt-troepen-naar-het-noorden-na-verhuizing-prigozhin-naar-belarus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270385,
     "slug": "chelsea-haalt-met-jackson-nieuwe-spits-en-verkoopt-loftus-cheek-aan-ac-milan",
     "type": "article",
     "title": "Chelsea haalt met Jackson nieuwe spits en verkoopt Loftus-Cheek aan AC Milan",
     "subtitle": null,
     "published_at": "2023-06-30T20:49:20+02:00",
-    "updated_at": "2023-06-30T20:49:21+02:00",
+    "updated_at": "2023-06-30T21:02:05+02:00",
     "media_id": "h73xsuxaqnck",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Griekspoor, Van de Zandschulp én Brouwer spelen dinsdag op Wimbledon",
     "subtitle": null,
     "published_at": "2023-06-30T20:13:30+02:00",
-    "updated_at": "2023-06-30T20:13:31+02:00",
+    "updated_at": "2023-06-30T21:10:47+02:00",
     "media_id": "n1exuzea0obk",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Verstappen ziet geen snelle oplossing voor tracklimits: 'We leken wel amateurs'",
     "subtitle": "NU+",
     "published_at": "2023-06-30T20:04:46+02:00",
-    "updated_at": "2023-06-30T20:04:47+02:00",
+    "updated_at": "2023-06-30T21:08:38+02:00",
     "media_id": "0fexps8a7dt8",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6270270,
-    "slug": "dit-is-er-te-doen-rond-de-jubileumherdenking-van-ons-slavernijverleden",
+    "slug": "zo-herdenkt-nederland-slavernijverleden-en-vieren-we-het-einde-ervan",
     "type": "article",
-    "title": "Dit is er te doen rond de jubileumherdenking van ons slavernijverleden",
+    "title": "Zo herdenkt Nederland slavernijverleden (en vieren we het einde ervan)",
     "subtitle": "NU+",
     "published_at": "2023-06-30T20:03:16+02:00",
-    "updated_at": "2023-06-30T20:29:15+02:00",
+    "updated_at": "2023-06-30T21:03:28+02:00",
     "media_id": "o66xteaaedw7",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6270270/dit-is-er-te-doen-rond-de-jubileumherdenking-van-ons-slavernijverleden.html",
+    "url": "/binnenland/6270270/zo-herdenkt-nederland-slavernijverleden-en-vieren-we-het-einde-ervan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Vitesse strikt Franse spits Boutrah, Heerenveen huurt speler van Chelsea",
     "subtitle": null,
     "published_at": "2023-06-30T20:02:04+02:00",
-    "updated_at": "2023-06-30T20:25:45+02:00",
+    "updated_at": "2023-06-30T21:03:11+02:00",
     "media_id": "c4xx53xa6vz2",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Kan wielrennen echt veiliger worden? Ook met SafeR blijft dat de vraag",
     "subtitle": null,
     "published_at": "2023-06-30T20:00:49+02:00",
-    "updated_at": "2023-06-30T20:46:08+02:00",
+    "updated_at": "2023-06-30T20:54:42+02:00",
     "media_id": "kd1xmhxa8mco",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Zweedse politie zoekt uit of moeder en zoon die van veerboot vielen vermoord zijn",
     "subtitle": null,
     "published_at": "2023-06-30T19:59:06+02:00",
-    "updated_at": "2023-06-30T20:33:15+02:00",
+    "updated_at": "2023-06-30T21:12:18+02:00",
     "media_id": "otkx1imautwo",
     "duration": null,
     "canonical_section": {
@@ -305,8 +328,8 @@
     "title": "Componist Ruud Bos (87) van Efteling- en Bassie & Adriaan-muziek overleden",
     "subtitle": null,
     "published_at": "2023-06-30T18:57:08+02:00",
-    "updated_at": "2023-06-30T20:21:40+02:00",
-    "media_id": "f13xn7laxlns",
+    "updated_at": "2023-06-30T21:09:22+02:00",
+    "media_id": "6i8x5eqa29ym",
     "duration": null,
     "canonical_section": {
       "id": 100,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6270354/pantheon-in-rome-gaat-miljoenen-bezoekers-om-entreegeld-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270357,
-    "slug": "tankfiles-op-vooravond-van-verhoging-accijns-op-brandstof",
-    "type": "video",
-    "title": "Tankfiles op vooravond van verhoging accijns op brandstof",
-    "subtitle": "Video",
-    "published_at": "2023-06-30T17:53:53+02:00",
-    "updated_at": "2023-06-30T17:53:55+02:00",
-    "media_id": "b3bx5t8aik2q",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270357/tankfiles-op-vooravond-van-verhoging-accijns-op-brandstof.html",
     "open_new_window": false,
     "partner": null
   }
