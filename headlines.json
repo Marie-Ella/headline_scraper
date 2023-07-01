@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270403,
+    "slug": "explosies-en-branden-tijdens-vierde-nacht-rellen-in-frankrijk",
+    "type": "video",
+    "title": "Explosies en branden tijdens vierde nacht rellen in Frankrijk",
+    "subtitle": "Video",
+    "published_at": "2023-07-01T08:18:20+02:00",
+    "updated_at": "2023-07-01T08:18:44+02:00",
+    "media_id": "87bx7n3afh9g",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270403/explosies-en-branden-tijdens-vierde-nacht-rellen-in-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270402,
+    "slug": "jarige-patrick-kluivert-blaast-trainerscarriere-bij-turkse-club-nieuw-leven-in",
+    "type": "article",
+    "title": "Jarige Patrick Kluivert blaast trainerscarrière bij Turkse club nieuw leven in",
+    "subtitle": null,
+    "published_at": "2023-07-01T08:15:32+02:00",
+    "updated_at": "2023-07-01T08:20:14+02:00",
+    "media_id": "corx6f2afwos",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270402/jarige-patrick-kluivert-blaast-trainerscarriere-bij-turkse-club-nieuw-leven-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270399,
     "slug": "ontvoerde-mexicaanse-politiemedewerkers-na-drie-dagen-vrijgelaten",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Het nieuwe pensioen staat voor de deur, dit ga je ervan merken",
     "subtitle": "NU+",
     "published_at": "2023-07-01T07:20:28+02:00",
-    "updated_at": "2023-07-01T07:20:30+02:00",
+    "updated_at": "2023-07-01T08:15:23+02:00",
     "media_id": "2jzxqocaot3y",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Weerbericht: Grijze en bewolkte dag met vooral in de ochtend kans op regen",
     "subtitle": null,
     "published_at": "2023-07-01T05:44:06+02:00",
-    "updated_at": "2023-07-01T05:44:07+02:00",
+    "updated_at": "2023-07-01T07:51:40+02:00",
     "media_id": "m1oxdu3af5bf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6270384/man-begint-te-schieten-op-vliegveld-omdat-moldavie-hem-toegang-weigert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270383,
-    "slug": "cardiff-city-moet-nantes-volledige-transfersom-voor-verongelukte-sala-betalen",
-    "type": "article",
-    "title": "Cardiff City moet Nantes volledige transfersom voor verongelukte Sala betalen",
-    "subtitle": null,
-    "published_at": "2023-06-30T20:38:43+02:00",
-    "updated_at": "2023-06-30T21:16:48+02:00",
-    "media_id": "1jexa8ea56lt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270383/cardiff-city-moet-nantes-volledige-transfersom-voor-verongelukte-sala-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270381,
-    "slug": "griekspoor-van-de-zandschulp-en-brouwer-spelen-dinsdag-op-wimbledon",
-    "type": "article",
-    "title": "Griekspoor, Van de Zandschulp én Brouwer spelen dinsdag op Wimbledon",
-    "subtitle": null,
-    "published_at": "2023-06-30T20:13:30+02:00",
-    "updated_at": "2023-06-30T21:10:47+02:00",
-    "media_id": "n1exuzea0obk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6270381/griekspoor-van-de-zandschulp-en-brouwer-spelen-dinsdag-op-wimbledon.html",
     "open_new_window": false,
     "partner": null
   }
