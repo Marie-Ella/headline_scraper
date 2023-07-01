@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270367,
+    "slug": "waarom-de-eerste-tour-week-de-zwaarste-van-deze-eeuw-wordt",
+    "type": "video",
+    "title": "Waarom de eerste Tour-week de zwaarste van deze eeuw wordt",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-01T06:28:00+02:00",
+    "updated_at": "2023-07-01T06:28:01+02:00",
+    "media_id": "15yxc7raxfq7",
+    "duration": "1:55",
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6270367/waarom-de-eerste-tour-week-de-zwaarste-van-deze-eeuw-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270395,
     "slug": "zeker-471-mensen-aangehouden-tijdens-vierde-nacht-van-protesten-in-frankrijk",
     "type": "article",
     "title": "Zeker 471 mensen aangehouden tijdens vierde nacht van protesten in Frankrijk",
     "subtitle": null,
     "published_at": "2023-07-01T06:08:28+02:00",
-    "updated_at": "2023-07-01T06:15:20+02:00",
+    "updated_at": "2023-07-01T06:21:04+02:00",
     "media_id": "4f8xph2amvvl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6270380/prinses-alexia-neemt-tussenjaar-heel-even-terug-naar-mezelf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270377,
-    "slug": "vitesse-strikt-franse-spits-boutrah-heerenveen-huurt-speler-van-chelsea",
-    "type": "article",
-    "title": "Vitesse strikt Franse spits Boutrah, Heerenveen huurt speler van Chelsea",
-    "subtitle": null,
-    "published_at": "2023-06-30T20:02:04+02:00",
-    "updated_at": "2023-06-30T22:10:58+02:00",
-    "media_id": "c4xx53xa6vz2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270377/vitesse-strikt-franse-spits-boutrah-heerenveen-huurt-speler-van-chelsea.html",
     "open_new_window": false,
     "partner": null
   }
