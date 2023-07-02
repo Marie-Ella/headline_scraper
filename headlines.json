@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270529,
+    "slug": "weekweerbericht-alleen-aan-het-begin-van-de-week-heb-je-een-paraplu-nodig",
+    "type": "article",
+    "title": "Weekweerbericht: Alleen aan het begin van de week heb je een paraplu nodig",
+    "subtitle": null,
+    "published_at": "2023-07-02T16:21:28+02:00",
+    "updated_at": "2023-07-02T16:21:29+02:00",
+    "media_id": "2kdxbhpawcy7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270529/weekweerbericht-alleen-aan-het-begin-van-de-week-heb-je-een-paraplu-nodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270538,
     "slug": "analyse-activistengroep-shell-handelt-nog-altijd-in-russisch-gas",
     "type": "article",
@@ -162,12 +185,12 @@
   },
   {
     "id": 6270530,
-    "slug": "verstappen-koerst-af-op-eenvoudige-zege-in-oostenrijkse-grand-prix",
+    "slug": "reacties-na-wederom-een-overtuigende-zege-van-verstappen",
     "type": "article",
-    "title": "Verstappen koerst af op eenvoudige zege in Oostenrijkse Grand Prix",
+    "title": "Reacties na wederom een overtuigende zege van Verstappen",
     "subtitle": "Liveblog",
     "published_at": "2023-07-02T14:16:44+02:00",
-    "updated_at": "2023-07-02T16:00:35+02:00",
+    "updated_at": "2023-07-02T16:28:41+02:00",
     "media_id": "1scxpeha50hn",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6270530/verstappen-koerst-af-op-eenvoudige-zege-in-oostenrijkse-grand-prix.html",
+    "url": "/formule-1/6270530/reacties-na-wederom-een-overtuigende-zege-van-verstappen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Van Barneveld wint thriller en is kwartfinalist na eerdere stunt tegen Van Gerwen",
     "subtitle": null,
     "published_at": "2023-07-02T13:49:47+02:00",
-    "updated_at": "2023-07-02T15:50:22+02:00",
+    "updated_at": "2023-07-02T16:25:06+02:00",
     "media_id": "pqnxjgnagyfz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6270513/vooruitblik-gp-oostenrijk-verstappen-hoeft-alleen-ferrari-te-verslaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270508,
-    "slug": "nederlander-omgekomen-bij-hardloopevenement-in-oostenrijkse-alpen",
-    "type": "article",
-    "title": "Nederlander omgekomen bij hardloopevenement in Oostenrijkse Alpen",
-    "subtitle": null,
-    "published_at": "2023-07-02T09:59:27+02:00",
-    "updated_at": "2023-07-02T11:49:59+02:00",
-    "media_id": "2f2xyh3azppb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6270508/nederlander-omgekomen-bij-hardloopevenement-in-oostenrijkse-alpen.html",
     "open_new_window": false,
     "partner": null
   }
