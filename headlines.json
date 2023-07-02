@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270584,
+    "slug": "25-punten-is-niet-meer-genoeg-voor-verstappen",
+    "type": "audio",
+    "title": "'25 punten is niet meer genoeg voor Verstappen'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-07-03T01:41:50+02:00",
+    "updated_at": "2023-07-03T01:41:52+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6270584/25-punten-is-niet-meer-genoeg-voor-verstappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270583,
+    "slug": "waarom-de-f1-moeite-heeft-om-de-ruim-1200-track-limits-te-voorkomen",
+    "type": "video",
+    "title": "Waarom de F1 moeite heeft om de ruim 1200 track limits te voorkomen",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-03T01:37:56+02:00",
+    "updated_at": "2023-07-03T01:37:57+02:00",
+    "media_id": "zcnxkdpa5blj",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270583/waarom-de-f1-moeite-heeft-om-de-ruim-1200-track-limits-te-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270581,
     "slug": "verliezend-finalist-kyrgios-meldt-zich-op-de-valreep-af-voor-wimbledon",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6270564/frenkie-de-jong-en-zijn-vriendin-mikky-kiemeney-verwachten-eerste-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270562,
-    "slug": "kogelstootster-schilder-plaatst-zich-voor-spelen-maar-grijpt-net-naast-overwinning",
-    "type": "article",
-    "title": "Kogelstootster Schilder plaatst zich voor Spelen, maar grijpt net naast overwinning",
-    "subtitle": null,
-    "published_at": "2023-07-02T19:10:29+02:00",
-    "updated_at": "2023-07-02T20:08:49+02:00",
-    "media_id": "5sxxk1paamat",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6270562/kogelstootster-schilder-plaatst-zich-voor-spelen-maar-grijpt-net-naast-overwinning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270560,
-    "slug": "golfer-luiten-grijpt-ook-op-britse-masters-naast-eerste-titel-sinds-2018",
-    "type": "article",
-    "title": "Golfer Luiten grijpt ook op Britse Masters naast eerste titel sinds 2018",
-    "subtitle": null,
-    "published_at": "2023-07-02T18:49:45+02:00",
-    "updated_at": "2023-07-02T19:05:18+02:00",
-    "media_id": "qv0x6s4ahxd8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6270560/golfer-luiten-grijpt-ook-op-britse-masters-naast-eerste-titel-sinds-2018.html",
     "open_new_window": false,
     "partner": null
   }
