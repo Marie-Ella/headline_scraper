@@ -1,13 +1,36 @@
 [
   {
+    "id": 6270501,
+    "slug": "weerbericht-mix-van-zon-en-wolken-en-aangename-temperaturen",
+    "type": "article",
+    "title": "Weerbericht: Mix van zon en wolken en aangename temperaturen",
+    "subtitle": null,
+    "published_at": "2023-07-02T05:59:35+02:00",
+    "updated_at": "2023-07-02T06:08:52+02:00",
+    "media_id": "015xq3ca8lu4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270501/weerbericht-mix-van-zon-en-wolken-en-aangename-temperaturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270500,
     "slug": "brandstichting-bij-huis-franse-burgemeester-echtgenote-raakt-gewond",
     "type": "article",
     "title": "Brandstichting bij huis Franse burgemeester, echtgenote raakt gewond",
     "subtitle": null,
     "published_at": "2023-07-02T05:37:55+02:00",
-    "updated_at": "2023-07-02T05:42:50+02:00",
-    "media_id": "903xguuap9w0",
+    "updated_at": "2023-07-02T06:22:58+02:00",
+    "media_id": "2azx9dsa3zsq",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -93,12 +116,12 @@
   },
   {
     "id": 6270285,
-    "slug": "hoe-hans-de-booij-met-een-grote-hit-op-zak-toch-in-financieel-zwaar-weer-raakte",
+    "slug": "hoe-hans-de-booij-met-een-hit-op-zak-toch-in-financieel-zwaar-weer-raakte",
     "type": "article",
-    "title": "Hoe Hans de Booij met een grote hit op zak toch in financieel zwaar weer raakte",
+    "title": "Hoe Hans de Booij met een hit op zak toch in financieel zwaar weer raakte",
     "subtitle": "NU+",
     "published_at": "2023-07-02T05:04:49+02:00",
-    "updated_at": "2023-07-02T05:04:50+02:00",
+    "updated_at": "2023-07-02T06:03:27+02:00",
     "media_id": "yhzxc2zabmm4",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6270285/hoe-hans-de-booij-met-een-grote-hit-op-zak-toch-in-financieel-zwaar-weer-raakte.html",
+    "url": "/muziek/6270285/hoe-hans-de-booij-met-een-hit-op-zak-toch-in-financieel-zwaar-weer-raakte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Sprintrace F1 bijzaak door dood Van 't Hoff: 'Hij had dezelfde droom als wij'",
     "subtitle": "NU+",
     "published_at": "2023-07-01T19:49:12+02:00",
-    "updated_at": "2023-07-01T20:52:32+02:00",
+    "updated_at": "2023-07-02T06:17:56+02:00",
     "media_id": "vhixn8zalhrg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6270477/sprintrace-f1-bijzaak-door-dood-van-t-hoff-hij-had-dezelfde-droom-als-wij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270478,
-    "slug": "luiten-gaat-aan-kop-op-britse-masters-en-mag-hopen-op-eerste-titel-sinds-2018",
-    "type": "article",
-    "title": "Luiten gaat aan kop op Britse Masters en mag hopen op eerste titel sinds 2018",
-    "subtitle": null,
-    "published_at": "2023-07-01T19:41:30+02:00",
-    "updated_at": "2023-07-01T19:47:59+02:00",
-    "media_id": "kh5xaoua0jdd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6270478/luiten-gaat-aan-kop-op-britse-masters-en-mag-hopen-op-eerste-titel-sinds-2018.html",
     "open_new_window": false,
     "partner": null
   }
