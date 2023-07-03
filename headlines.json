@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270703,
+    "slug": "naast-nederland-had-ook-verenigd-koninkrijk-de-warmste-juni-ooit-gemeten",
+    "type": "article",
+    "title": "Naast Nederland had ook Verenigd Koninkrijk de warmste juni ooit gemeten",
+    "subtitle": null,
+    "published_at": "2023-07-03T17:42:32+02:00",
+    "updated_at": "2023-07-03T17:42:34+02:00",
+    "media_id": "3jrxqxcaya3l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270703/naast-nederland-had-ook-verenigd-koninkrijk-de-warmste-juni-ooit-gemeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270702,
     "slug": "van-gerwen-krijgt-beugel-en-moet-zich-vaker-laten-opereren-aan-gebit",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6270681,
-    "slug": "coronacorrectie-voorbij-we-boeken-weer-minder-vakantiereizen-voor-de-zomer",
+    "slug": "we-boeken-weer-minder-vakantiereizen-voor-de-zomer-dan-vlak-na-corona",
     "type": "article",
-    "title": "'Coronacorrectie' voorbij, we boeken weer minder vakantiereizen voor de zomer",
+    "title": "We boeken weer minder vakantiereizen voor de zomer dan vlak na corona",
     "subtitle": null,
     "published_at": "2023-07-03T17:04:00+02:00",
-    "updated_at": "2023-07-03T17:04:01+02:00",
+    "updated_at": "2023-07-03T17:40:08+02:00",
     "media_id": "7igxicxaf0rx",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6270681/coronacorrectie-voorbij-we-boeken-weer-minder-vakantiereizen-voor-de-zomer.html",
+    "url": "/algemeen/6270681/we-boeken-weer-minder-vakantiereizen-voor-de-zomer-dan-vlak-na-corona.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Eerder gespotte dode bultrug aangespoeld op strand in Zeeland",
     "subtitle": null,
     "published_at": "2023-07-03T16:17:10+02:00",
-    "updated_at": "2023-07-03T16:31:15+02:00",
+    "updated_at": "2023-07-03T17:43:29+02:00",
     "media_id": "dllxaataz8ku",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6270660/terugblik-f1-coureurs-zoeken-zelf-baanlimieten-op-voor-tijdwinst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270641,
-    "slug": "vrouwen-krijgen-automatisch-zelftest-voor-onderzoek-naar-baarmoederhalskanker",
-    "type": "article",
-    "title": "Vrouwen krijgen automatisch zelftest voor onderzoek naar baarmoederhalskanker",
-    "subtitle": null,
-    "published_at": "2023-07-03T14:30:06+02:00",
-    "updated_at": "2023-07-03T14:30:27+02:00",
-    "media_id": "5kcxobea2myr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270641/vrouwen-krijgen-automatisch-zelftest-voor-onderzoek-naar-baarmoederhalskanker.html",
     "open_new_window": false,
     "partner": null
   }
