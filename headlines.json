@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270740,
+    "slug": "tijdschema-gp-groot-brittannie-zo-laat-komen-verstappen-en-de-vries-in-actie",
+    "type": "article",
+    "title": "Tijdschema GP Groot-Brittannië: zo laat komen Verstappen en De Vries in actie",
+    "subtitle": null,
+    "published_at": "2023-07-04T08:09:09+02:00",
+    "updated_at": "2023-07-04T08:09:11+02:00",
+    "media_id": "4v6x3xwato9c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270740/tijdschema-gp-groot-brittannie-zo-laat-komen-verstappen-en-de-vries-in-actie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270739,
+    "slug": "huiseigenaren-lenen-gretig-voor-aanschaf-zonnepanelen-of-isolatie",
+    "type": "article",
+    "title": "Huiseigenaren lenen gretig voor aanschaf zonnepanelen of isolatie",
+    "subtitle": null,
+    "published_at": "2023-07-04T07:57:00+02:00",
+    "updated_at": "2023-07-04T08:04:55+02:00",
+    "media_id": "l1gxmisaki88",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270739/huiseigenaren-lenen-gretig-voor-aanschaf-zonnepanelen-of-isolatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270645,
     "slug": "stelling-ik-zie-dat-de-eu-een-positieve-invloed-op-mijn-dagelijks-leven-heeft",
     "type": "article",
@@ -276,29 +322,6 @@
     "partner": null
   },
   {
-    "id": 6270732,
-    "slug": "minister-dijkgraaf-verbiedt-scholen-om-leerlingen-uit-de-kast-te-dwingen",
-    "type": "article",
-    "title": "Minister Dijkgraaf verbiedt scholen om leerlingen uit de kast te dwingen",
-    "subtitle": null,
-    "published_at": "2023-07-03T23:45:28+02:00",
-    "updated_at": "2023-07-04T06:43:24+02:00",
-    "media_id": "mhhxeloamukp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270732/minister-dijkgraaf-verbiedt-scholen-om-leerlingen-uit-de-kast-te-dwingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6270730,
     "slug": "haagse-gemeenteraad-stelt-voormalig-minister-arie-slob-aan-als-verkenner",
     "type": "article",
@@ -397,19 +420,19 @@
     "title": "Kleinzoon van acteur Robert De Niro op negentienjarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-07-03T21:27:37+02:00",
-    "updated_at": "2023-07-04T06:09:33+02:00",
+    "updated_at": "2023-07-04T08:02:29+02:00",
     "media_id": "f93xnvoar8u0",
     "duration": null,
     "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
+      "id": 127,
+      "slug": "film",
       "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
+      "name": "Films & Series",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6270725/kleinzoon-van-acteur-robert-de-niro-op-negentienjarige-leeftijd-overleden.html",
+    "url": "/film/6270725/kleinzoon-van-acteur-robert-de-niro-op-negentienjarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6270724/kus-aan-k3-zangeres-julia-zorgt-voor-hilariteit-tijdens-show-in-gent.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270723,
-    "slug": "justitieminister-wil-naar-italiaans-voorbeeld-langere-celstraffen-voor-drugshandel",
-    "type": "article",
-    "title": "Justitieminister wil naar Italiaans voorbeeld langere celstraffen voor drugshandel",
-    "subtitle": null,
-    "published_at": "2023-07-03T20:58:31+02:00",
-    "updated_at": "2023-07-03T21:23:08+02:00",
-    "media_id": "vidxeovae2fm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6270723/justitieminister-wil-naar-italiaans-voorbeeld-langere-celstraffen-voor-drugshandel.html",
     "open_new_window": false,
     "partner": null
   }
