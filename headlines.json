@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271016,
+    "slug": "onze-afvalberg-is-geslonken-tot-laagste-niveau-in-bijna-dertig-jaar",
+    "type": "article",
+    "title": "Onze afvalberg is geslonken tot laagste niveau in bijna dertig jaar",
+    "subtitle": null,
+    "published_at": "2023-07-06T00:01:29+02:00",
+    "updated_at": "2023-07-06T00:01:30+02:00",
+    "media_id": "ovyxrm0a5nia",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271016/onze-afvalberg-is-geslonken-tot-laagste-niveau-in-bijna-dertig-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271017,
+    "slug": "het-verbinden-van-natuurgebieden-wil-nog-steeds-niet-echt-vlotten",
+    "type": "article",
+    "title": "Het verbinden van natuurgebieden wil nog steeds niet echt vlotten",
+    "subtitle": null,
+    "published_at": "2023-07-06T00:00:35+02:00",
+    "updated_at": "2023-07-06T00:00:37+02:00",
+    "media_id": "4nfxkura5b1j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6271017/het-verbinden-van-natuurgebieden-wil-nog-steeds-niet-echt-vlotten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271072,
     "slug": "griekspoor-voelde-druk-op-wimbledon-misschien-ging-het-allemaal-iets-te-goed",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271040/brussel-onderzoekt-wettelijk-verbod-handel-in-haaienvinnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271043,
-    "slug": "treinverkeer-in-noord-nederland-ligt-nog-plat-donderdag-mogelijk-ook-hinder",
-    "type": "article",
-    "title": "Treinverkeer in Noord-Nederland ligt nog plat, donderdag mogelijk ook hinder",
-    "subtitle": null,
-    "published_at": "2023-07-05T18:31:15+02:00",
-    "updated_at": "2023-07-05T20:28:18+02:00",
-    "media_id": "sl8xc0pa2ojp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778989,
-      "slug": "storm-eunice",
-      "type": "default",
-      "name": "Storm Poly",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/storm-eunice/6271043/treinverkeer-in-noord-nederland-ligt-nog-plat-donderdag-mogelijk-ook-hinder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271044,
-    "slug": "drone-filmt-gigantische-explosie-bij-russische-militaire-basis",
-    "type": "video",
-    "title": "Drone filmt gigantische explosie bij Russische militaire basis",
-    "subtitle": "Video",
-    "published_at": "2023-07-05T18:29:21+02:00",
-    "updated_at": "2023-07-05T18:31:49+02:00",
-    "media_id": "kiaxl2fayanh",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6271044/drone-filmt-gigantische-explosie-bij-russische-militaire-basis.html",
     "open_new_window": false,
     "partner": null
   }
