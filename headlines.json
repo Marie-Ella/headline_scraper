@@ -1,12 +1,58 @@
 [
   {
+    "id": 6271031,
+    "slug": "dassen-gelokt-en-vervolgens-gedood-in-het-gelderse-loo",
+    "type": "article",
+    "title": "Dassen gelokt en vervolgens gedood in het Gelderse Loo",
+    "subtitle": null,
+    "published_at": "2023-07-05T17:30:20+02:00",
+    "updated_at": "2023-07-05T17:30:21+02:00",
+    "media_id": "84gxqj8amgja",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271031/dassen-gelokt-en-vervolgens-gedood-in-het-gelderse-loo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271018,
+    "slug": "tour-de-france-op-zn-kop-vingegaard-kraakt-pogacar-hindley-in-geel-na-ritwinst",
+    "type": "article",
+    "title": "Tour de France op z'n kop: Vingegaard kraakt Pogacar, Hindley in geel na ritwinst",
+    "subtitle": null,
+    "published_at": "2023-07-05T17:22:15+02:00",
+    "updated_at": "2023-07-05T17:31:27+02:00",
+    "media_id": "ox0x2jvaz7hk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271018/tour-de-france-op-zn-kop-vingegaard-kraakt-pogacar-hindley-in-geel-na-ritwinst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271019,
     "slug": "waarom-het-knmi-pas-zo-laat-met-weercodes-oranje-en-rood-kwam",
     "type": "article",
     "title": "Waarom het KNMI pas zo laat met weercodes oranje en rood kwam",
     "subtitle": null,
     "published_at": "2023-07-05T17:16:15+02:00",
-    "updated_at": "2023-07-05T17:16:17+02:00",
+    "updated_at": "2023-07-05T17:31:21+02:00",
     "media_id": "88yxf9jap0lz",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "PSG stelt Luis Enrique aan als nieuwe coach na breuk met Galtier",
     "subtitle": null,
     "published_at": "2023-07-05T17:01:03+02:00",
-    "updated_at": "2023-07-05T17:17:25+02:00",
+    "updated_at": "2023-07-05T17:22:23+02:00",
     "media_id": "dbtx0wwab8xf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/storm-eunice/6270977/poly-officieel-geen-storm-meer-nog-wel-problemen-op-de-weg-en-het-spoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270973,
-    "slug": "stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek",
-    "type": "video",
-    "title": "Stormachtige landing op Schiphol: 'Iedereen ging over zijn nek'",
-    "subtitle": "Video",
-    "published_at": "2023-07-05T13:46:57+02:00",
-    "updated_at": "2023-07-05T15:59:25+02:00",
-    "media_id": "4g9xgdkauw09",
-    "duration": "1:13",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270973/stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270954,
-    "slug": "stelling-bij-code-rood-moeten-alle-scholen-dicht",
-    "type": "article",
-    "title": "Stelling: Bij code rood moeten alle scholen dicht",
-    "subtitle": null,
-    "published_at": "2023-07-05T13:44:23+02:00",
-    "updated_at": "2023-07-05T17:06:37+02:00",
-    "media_id": "cy8xqvoacoxh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6270954/stelling-bij-code-rood-moeten-alle-scholen-dicht.html",
     "open_new_window": false,
     "partner": null
   }
