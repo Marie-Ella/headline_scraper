@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270876,
+    "slug": "huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is",
+    "type": "video",
+    "title": "Huizen en kantoren CO2-negatief bouwen: het kan als het biobased is",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-05T06:34:54+02:00",
+    "updated_at": "2023-07-05T06:34:55+02:00",
+    "media_id": "1yvxhb5a78en",
+    "duration": "2:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270876/huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270881,
     "slug": "weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu",
     "type": "article",
@@ -50,9 +73,9 @@
     "slug": "festival-of-museumbezoek-is-knap-lastig-als-je-prikkelgevoelig-bent",
     "type": "article",
     "title": "Festival- of museumbezoek is knap lastig als je prikkelgevoelig bent",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-07-05T05:10:11+02:00",
-    "updated_at": "2023-07-05T05:10:13+02:00",
+    "updated_at": "2023-07-05T06:44:06+02:00",
     "media_id": "nprxiqpans5e",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Ook op een circuit is sprinten in de Tour chaotisch: 'Het was supergevaarlijk'",
     "subtitle": null,
     "published_at": "2023-07-05T05:06:24+02:00",
-    "updated_at": "2023-07-05T05:06:25+02:00",
+    "updated_at": "2023-07-05T06:43:25+02:00",
     "media_id": "l7txvwracwu2",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6270879,
-    "slug": "knmi-waarschuwt-voor-storm-poly-code-oranje-om-zeer-zware-windstoten",
+    "slug": "knmi-waarschuwt-voor-storm-poly-code-oranje-vanwege-zeer-zware-windstoten",
     "type": "article",
-    "title": "KNMI waarschuwt voor storm Poly: code oranje om zeer zware windstoten",
+    "title": "KNMI waarschuwt voor storm Poly: code oranje vanwege zeer zware windstoten",
     "subtitle": null,
     "published_at": "2023-07-05T04:31:33+02:00",
-    "updated_at": "2023-07-05T06:00:57+02:00",
+    "updated_at": "2023-07-05T06:42:37+02:00",
     "media_id": "2yoxvz6aoe3s",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6270879/knmi-waarschuwt-voor-storm-poly-code-oranje-om-zeer-zware-windstoten.html",
+    "url": "/binnenland/6270879/knmi-waarschuwt-voor-storm-poly-code-oranje-vanwege-zeer-zware-windstoten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -210,10 +233,10 @@
     "id": 6270878,
     "slug": "jetten-waarschuwt-kabinet-kan-klimaatmiljarden-ook-zonder-fonds-uitgeven",
     "type": "article",
-    "title": "Jetten waarschuwt: kabinet kan klimaatmiljarden ook zonder fonds uitgeven",
+    "title": "Jetten waarschuwt: Kabinet kan klimaatmiljarden ook zonder fonds uitgeven",
     "subtitle": null,
     "published_at": "2023-07-05T01:43:27+02:00",
-    "updated_at": "2023-07-05T01:43:29+02:00",
+    "updated_at": "2023-07-05T06:42:04+02:00",
     "media_id": "phpxsavajnnn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6270866/belgische-koning-albert-mag-woensdag-het-ziekenhuis-verlaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270864,
-    "slug": "voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd",
-    "type": "article",
-    "title": "Voetbalcoach Vera Pauw in 2018 bedreigd door staflid: 'Schiet kogel door je hoofd'",
-    "subtitle": null,
-    "published_at": "2023-07-04T21:01:27+02:00",
-    "updated_at": "2023-07-04T22:36:08+02:00",
-    "media_id": "c48x2ghazwdt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270864/voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd.html",
     "open_new_window": false,
     "partner": null
   }
