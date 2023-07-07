@@ -1,13 +1,59 @@
 [
   {
-    "id": 6271348,
-    "slug": "verstappen-met-red-bull-op-recordjacht-in-silverstone",
+    "id": 6271349,
+    "slug": "klimaatfonds-van-34-miljard-euro-krijgt-groen-licht-van-tweede-kamer",
     "type": "article",
-    "title": "Verstappen met Red Bull op recordjacht in Silverstone",
+    "title": "Klimaatfonds van 34 miljard euro krijgt groen licht van Tweede Kamer",
+    "subtitle": null,
+    "published_at": "2023-07-07T13:40:30+02:00",
+    "updated_at": "2023-07-07T13:40:31+02:00",
+    "media_id": "7cxxdvmazajg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271349/klimaatfonds-van-34-miljard-euro-krijgt-groen-licht-van-tweede-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271339,
+    "slug": "koeman-en-simons-belden-met-elkaar-ik-hoop-dat-hij-bij-psv-blijft",
+    "type": "article",
+    "title": "Koeman en Simons belden met elkaar: 'Ik hoop dat hij bij PSV blijft'",
+    "subtitle": null,
+    "published_at": "2023-07-07T13:32:32+02:00",
+    "updated_at": "2023-07-07T13:36:25+02:00",
+    "media_id": "qs8xzivac1oi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271339/koeman-en-simons-belden-met-elkaar-ik-hoop-dat-hij-bij-psv-blijft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271348,
+    "slug": "verstappen-direct-snel-onderweg-op-silverstone",
+    "type": "article",
+    "title": "Verstappen direct snel onderweg op Silverstone",
     "subtitle": "Liveblog",
     "published_at": "2023-07-07T13:24:20+02:00",
-    "updated_at": "2023-07-07T13:27:20+02:00",
-    "media_id": "nqixoo9ajscd",
+    "updated_at": "2023-07-07T13:48:20+02:00",
+    "media_id": "swuxa18ai9d9",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6271348/verstappen-met-red-bull-op-recordjacht-in-silverstone.html",
+    "url": "/formule-1/6271348/verstappen-direct-snel-onderweg-op-silverstone.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +144,8 @@
     "title": "Pepi tekent vijfjarig contract bij PSV: 'Willen op elke plek dubbel bezet zijn'",
     "subtitle": null,
     "published_at": "2023-07-07T12:40:51+02:00",
-    "updated_at": "2023-07-07T12:59:13+02:00",
-    "media_id": "13ax4j7a8unb",
+    "updated_at": "2023-07-07T13:36:00+02:00",
+    "media_id": "hkjxta5ao6pk",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -185,13 +231,13 @@
   },
   {
     "id": 6271311,
-    "slug": "cavendish-jaagt-op-recordzege-in-vlakke-tour-etappe-na-pyreneeengeweld",
+    "slug": "guglielmi-heeft-pyreneeen-prima-overleefd-en-rijdt-hard-weg-van-tour-peloton",
     "type": "article",
-    "title": "Cavendish jaagt op recordzege in vlakke Tour-etappe na Pyreneeëngeweld",
+    "title": "Guglielmi heeft Pyreneeën prima overleefd en rijdt hard weg van Tour-peloton",
     "subtitle": "Liveblog",
     "published_at": "2023-07-07T12:12:41+02:00",
-    "updated_at": "2023-07-07T13:02:09+02:00",
-    "media_id": "m7sxei6asq4b",
+    "updated_at": "2023-07-07T13:47:35+02:00",
+    "media_id": "9qcxquwagngf",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271311/cavendish-jaagt-op-recordzege-in-vlakke-tour-etappe-na-pyreneeengeweld.html",
+    "url": "/tour-de-france/6271311/guglielmi-heeft-pyreneeen-prima-overleefd-en-rijdt-hard-weg-van-tour-peloton.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +420,7 @@
     "title": "SLAM! en Sublime van de FM na veiling, DPG Media komt met nieuwe zender",
     "subtitle": null,
     "published_at": "2023-07-07T11:20:41+02:00",
-    "updated_at": "2023-07-07T13:14:02+02:00",
+    "updated_at": "2023-07-07T13:39:27+02:00",
     "media_id": "0tvx3wkayh0j",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6271315/bakker-verruilt-bayer-leverkusen-voor-nederlands-getint-atalanta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271313,
-    "slug": "andre-rieu-speelt-wilhelmus-bij-grand-prix-van-nederland-in-zandvoort",
-    "type": "article",
-    "title": "André Rieu speelt Wilhelmus bij Grand Prix van Nederland in Zandvoort",
-    "subtitle": null,
-    "published_at": "2023-07-07T11:11:52+02:00",
-    "updated_at": "2023-07-07T11:16:18+02:00",
-    "media_id": "os5xr2faus00",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6271313/andre-rieu-speelt-wilhelmus-bij-grand-prix-van-nederland-in-zandvoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271308,
-    "slug": "warner-verdedigt-omstreden-landkaart-in-barbie-film-een-kindertekening",
-    "type": "article",
-    "title": "Warner verdedigt omstreden landkaart in Barbie-film: 'Een kindertekening'",
-    "subtitle": null,
-    "published_at": "2023-07-07T11:07:20+02:00",
-    "updated_at": "2023-07-07T11:50:18+02:00",
-    "media_id": "dyixnqvatax0",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6271308/warner-verdedigt-omstreden-landkaart-in-barbie-film-een-kindertekening.html",
     "open_new_window": false,
     "partner": null
   }
