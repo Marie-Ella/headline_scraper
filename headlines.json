@@ -1,12 +1,58 @@
 [
   {
-    "id": 6271468,
-    "slug": "nieuwe-verkiezingen-vinden-op-zn-vroegst-half-november-plaats",
+    "id": 6271469,
+    "slug": "koning-komt-vroegtijdig-terug-van-vakantie-vanwege-kabinetsval",
     "type": "article",
-    "title": "Nieuwe verkiezingen vinden op z'n vroegst half november plaats",
+    "title": "Koning komt vroegtijdig terug van vakantie vanwege kabinetsval",
+    "subtitle": null,
+    "published_at": "2023-07-07T23:25:33+02:00",
+    "updated_at": "2023-07-07T23:25:34+02:00",
+    "media_id": "jfcx163a1ifm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271469/koning-komt-vroegtijdig-terug-van-vakantie-vanwege-kabinetsval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271449,
+    "slug": "rutte-steun-oekraine-afhandeling-toeslagenschandaal-en-groningen-gaan-door",
+    "type": "article",
+    "title": "Rutte: Steun Oekraïne, afhandeling toeslagenschandaal en Groningen gaan door",
+    "subtitle": null,
+    "published_at": "2023-07-07T23:22:36+02:00",
+    "updated_at": "2023-07-07T23:22:38+02:00",
+    "media_id": "8gdxk6sabhzd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271449/rutte-steun-oekraine-afhandeling-toeslagenschandaal-en-groningen-gaan-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271468,
+    "slug": "nieuwe-verkiezingen-vinden-op-zijn-vroegst-half-november-plaats",
+    "type": "article",
+    "title": "Nieuwe verkiezingen vinden op zijn vroegst half november plaats",
     "subtitle": null,
     "published_at": "2023-07-07T23:16:04+02:00",
-    "updated_at": "2023-07-07T23:16:05+02:00",
+    "updated_at": "2023-07-07T23:27:10+02:00",
     "media_id": "nd3xbggayqo9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/val-kabinet/6271468/nieuwe-verkiezingen-vinden-op-zn-vroegst-half-november-plaats.html",
+    "url": "/val-kabinet/6271468/nieuwe-verkiezingen-vinden-op-zijn-vroegst-half-november-plaats.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Bekijk hier de persconferentie over de val van kabinet-Rutte IV terug",
     "subtitle": "Video",
     "published_at": "2023-07-07T22:36:14+02:00",
-    "updated_at": "2023-07-07T23:15:44+02:00",
+    "updated_at": "2023-07-07T23:27:44+02:00",
     "media_id": "cyix6b5a16ja",
     "duration": "0:01",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6271438/koeien-rennen-uit-brandende-stal-als-politieagent-ze-komt-bevrijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271437,
-    "slug": "thuisfavoriet-murray-strandt-in-tweede-ronde-wimbledon-na-thriller-tegen-tsitsipas",
-    "type": "article",
-    "title": "Thuisfavoriet Murray strandt in tweede ronde Wimbledon na thriller tegen Tsitsipás",
-    "subtitle": null,
-    "published_at": "2023-07-07T19:37:56+02:00",
-    "updated_at": "2023-07-07T20:21:38+02:00",
-    "media_id": "prmxzw9a9xye",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6271437/thuisfavoriet-murray-strandt-in-tweede-ronde-wimbledon-na-thriller-tegen-tsitsipas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271432,
-    "slug": "twitter-concurrent-threads-heeft-al-70-miljoen-gebruikers",
-    "type": "article",
-    "title": "Twitter-concurrent Threads heeft al 70 miljoen gebruikers",
-    "subtitle": null,
-    "published_at": "2023-07-07T19:35:11+02:00",
-    "updated_at": "2023-07-07T19:35:14+02:00",
-    "media_id": "x1kxjxbaijk6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6271432/twitter-concurrent-threads-heeft-al-70-miljoen-gebruikers.html",
     "open_new_window": false,
     "partner": null
   }
