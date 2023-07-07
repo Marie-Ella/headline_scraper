@@ -1,24 +1,47 @@
 [
   {
-    "id": 6271447,
-    "slug": "volg-hier-de-laatste-ontwikkelingen-rond-de-val-van-het-kabinet",
+    "id": 6271218,
+    "slug": "vs-gaat-overstag-en-levert-controversiele-clustermunitie-aan-oekraine",
     "type": "article",
-    "title": "Volg hier de laatste ontwikkelingen rond de val van het kabinet",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-07T20:24:22+02:00",
-    "updated_at": "2023-07-07T20:24:22+02:00",
-    "media_id": "cgux0r0arbjj",
+    "title": "VS gaat overstag en levert controversiële clustermunitie aan Oekraïne",
+    "subtitle": null,
+    "published_at": "2023-07-07T20:43:23+02:00",
+    "updated_at": "2023-07-07T20:43:25+02:00",
+    "media_id": "jc1xx50a74ls",
     "duration": null,
     "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
       "type": "default",
-      "name": "Politiek",
+      "name": "Oorlog in Oekraïne",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271447/volg-hier-de-laatste-ontwikkelingen-rond-de-val-van-het-kabinet.html",
+    "url": "/spanningen-oekraine/6271218/vs-gaat-overstag-en-levert-controversiele-clustermunitie-aan-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271447,
+    "slug": "christenunie-lijkt-initiatief-voor-kabinetsval-te-hebben-genomen",
+    "type": "article",
+    "title": "ChristenUnie lijkt initiatief voor kabinetsval te hebben genomen",
+    "subtitle": "Liveblog",
+    "published_at": "2023-07-07T20:24:22+02:00",
+    "updated_at": "2023-07-07T20:45:45+02:00",
+    "media_id": "cgux0r0arbjj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271447/christenunie-lijkt-initiatief-voor-kabinetsval-te-hebben-genomen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,19 +52,19 @@
     "title": "Het kabinet is gevallen: wat gebeurt er nu?",
     "subtitle": null,
     "published_at": "2023-07-07T20:22:51+02:00",
-    "updated_at": "2023-07-07T20:22:52+02:00",
+    "updated_at": "2023-07-07T20:43:33+02:00",
     "media_id": "cjyxzv0a8bpd",
     "duration": null,
     "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
+      "id": 1779274,
+      "slug": "val-kabinet",
       "type": "default",
-      "name": "Politiek",
+      "name": "Val kabinet",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271433/het-kabinet-is-gevallen-wat-gebeurt-er-nu.html",
+    "url": "/val-kabinet/6271433/het-kabinet-is-gevallen-wat-gebeurt-er-nu.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Kabinet-Rutte IV valt: partijen worden het niet eens over migratie",
     "subtitle": null,
     "published_at": "2023-07-07T20:09:31+02:00",
-    "updated_at": "2023-07-07T20:21:18+02:00",
+    "updated_at": "2023-07-07T20:46:31+02:00",
     "media_id": "9zxxk1ean8g1",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Voormalig Ajax-directeur Edwin van der Sar op intensive care na hersenbloeding",
     "subtitle": null,
     "published_at": "2023-07-07T18:02:41+02:00",
-    "updated_at": "2023-07-07T19:50:31+02:00",
+    "updated_at": "2023-07-07T20:32:05+02:00",
     "media_id": "7kdxl5va43hp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271416/jarenlange-scheersoap-tussen-lidl-en-philips-krijgt-nieuw-hoofdstuk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271405,
-    "slug": "duo-philipsen-van-der-poel-opnieuw-onklopbaar-in-tour-derde-ritzege-voor-belg",
-    "type": "article",
-    "title": "Duo Philipsen-Van der Poel opnieuw onklopbaar in Tour: derde ritzege voor Belg",
-    "subtitle": null,
-    "published_at": "2023-07-07T17:17:00+02:00",
-    "updated_at": "2023-07-07T17:49:44+02:00",
-    "media_id": "8ihxocuakscd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271405/duo-philipsen-van-der-poel-opnieuw-onklopbaar-in-tour-derde-ritzege-voor-belg.html",
     "open_new_window": false,
     "partner": null
   }
