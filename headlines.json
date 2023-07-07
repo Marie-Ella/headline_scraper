@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271467,
+    "slug": "bekijk-hier-de-livestream-over-de-val-van-kabinet-rutte-iv",
+    "type": "video",
+    "title": "Bekijk hier de livestream over de val van kabinet-Rutte IV",
+    "subtitle": "Livestream",
+    "published_at": "2023-07-07T22:36:14+02:00",
+    "updated_at": "2023-07-07T22:37:06+02:00",
+    "media_id": "cyix6b5a16ja",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271467/bekijk-hier-de-livestream-over-de-val-van-kabinet-rutte-iv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271466,
     "slug": "van-gerwen-richt-zich-na-vervelende-operatie-op-met-overtuigende-zege-in-polen",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Oud-Feyenoorder Tonny Vilhena vervolgt tocht door Europa bij Panathinaikos",
     "subtitle": null,
     "published_at": "2023-07-07T21:53:17+02:00",
-    "updated_at": "2023-07-07T22:03:44+02:00",
+    "updated_at": "2023-07-07T22:49:05+02:00",
     "media_id": "l7kx3o4ajr97",
     "duration": null,
     "canonical_section": {
@@ -167,8 +190,8 @@
     "title": "Welke vragen heb jij over de val van het kabinet? Stel ze hier",
     "subtitle": null,
     "published_at": "2023-07-07T20:59:39+02:00",
-    "updated_at": "2023-07-07T21:01:15+02:00",
-    "media_id": "cyix6b5a16ja",
+    "updated_at": "2023-07-07T22:42:49+02:00",
+    "media_id": "rvuxy0uaayr1",
     "duration": null,
     "canonical_section": {
       "id": 1779274,
@@ -231,13 +254,13 @@
   },
   {
     "id": 6271447,
-    "slug": "persconferentie-rutte-begint-zo-volg-hier-de-laatste-ontwikkelingen",
+    "slug": "volg-hier-live-de-persconferentie-over-de-val-van-het-kabinet",
     "type": "article",
-    "title": "Persconferentie Rutte begint zo, volg hier de laatste ontwikkelingen",
+    "title": "Volg hier live de persconferentie over de val van het kabinet",
     "subtitle": "Liveblog",
     "published_at": "2023-07-07T20:24:22+02:00",
-    "updated_at": "2023-07-07T22:20:45+02:00",
-    "media_id": "lh5xvl7aoiwp",
+    "updated_at": "2023-07-07T22:41:18+02:00",
+    "media_id": "mmexwhradfsp",
     "duration": null,
     "canonical_section": {
       "id": 1779274,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/val-kabinet/6271447/persconferentie-rutte-begint-zo-volg-hier-de-laatste-ontwikkelingen.html",
+    "url": "/val-kabinet/6271447/volg-hier-live-de-persconferentie-over-de-val-van-het-kabinet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Het kabinet is gevallen: wat gebeurt er nu?",
     "subtitle": null,
     "published_at": "2023-07-07T20:22:51+02:00",
-    "updated_at": "2023-07-07T22:28:18+02:00",
+    "updated_at": "2023-07-07T22:42:14+02:00",
     "media_id": "cjyxzv0a8bpd",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Kabinet-Rutte IV valt: partijen worden het niet eens over migratie",
     "subtitle": null,
     "published_at": "2023-07-07T20:09:31+02:00",
-    "updated_at": "2023-07-07T22:25:07+02:00",
+    "updated_at": "2023-07-07T22:49:11+02:00",
     "media_id": "9zxxk1ean8g1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6271436/man-die-23-mensen-doodschoot-in-texas-krijgt-negentig-keer-levenslang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271435,
-    "slug": "marieke-elsinga-na-ruim-een-dag-herenigd-met-haar-verdwenen-kat",
-    "type": "article",
-    "title": "Marieke Elsinga na ruim een dag herenigd met haar verdwenen kat",
-    "subtitle": null,
-    "published_at": "2023-07-07T19:24:24+02:00",
-    "updated_at": "2023-07-07T19:37:32+02:00",
-    "media_id": "66qxe9ea4bbl",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6271435/marieke-elsinga-na-ruim-een-dag-herenigd-met-haar-verdwenen-kat.html",
     "open_new_window": false,
     "partner": null
   }
