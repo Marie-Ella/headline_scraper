@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271523,
+    "slug": "de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale",
+    "type": "article",
+    "title": "De Vrij verlengt week na aflopen contract alsnog bij Internazionale",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:41:35+02:00",
+    "updated_at": "2023-07-08T13:41:36+02:00",
+    "media_id": "gd9x525av097",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271523/de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271521,
+    "slug": "verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone",
+    "type": "article",
+    "title": "Verstappen klokt mede door regen achtste tijd in laatste vrije training Silverstone",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:35:48+02:00",
+    "updated_at": "2023-07-08T13:46:30+02:00",
+    "media_id": "ap6xjm2a1rja",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Groot-Brittannië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6271521/verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271515,
     "slug": "tesla-domineert-op-duitse-elektrische-automarkt",
     "type": "article",
@@ -208,12 +254,12 @@
   },
   {
     "id": 6271501,
-    "slug": "regen-tijdens-laatste-training-op-silverstone-verstappen-doet-het-rustig-aan",
+    "slug": "lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone",
     "type": "article",
-    "title": "Regen tijdens laatste training op Silverstone, Verstappen doet het rustig aan",
+    "title": "Lastige weersomstandigheden tijdens tweede dag op Silverstone",
     "subtitle": "Liveblog",
     "published_at": "2023-07-08T12:03:13+02:00",
-    "updated_at": "2023-07-08T13:28:47+02:00",
+    "updated_at": "2023-07-08T13:37:53+02:00",
     "media_id": "onbxf1bao8wt",
     "duration": null,
     "canonical_section": {
@@ -225,19 +271,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6271501/regen-tijdens-laatste-training-op-silverstone-verstappen-doet-het-rustig-aan.html",
+    "url": "/formule-1/6271501/lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271500,
-    "slug": "van-der-poel-en-van-aert-ruiken-kansen-in-achtste-tour-etappe",
+    "slug": "peloton-geeft-drie-vluchters-alle-ruimte-in-heuvelrit-tour-de-france",
     "type": "article",
-    "title": "Van der Poel en Van Aert ruiken kansen in achtste Tour-etappe",
+    "title": "Peloton geeft drie vluchters alle ruimte in heuvelrit Tour de France",
     "subtitle": "Liveblog",
     "published_at": "2023-07-08T12:02:13+02:00",
-    "updated_at": "2023-07-08T12:04:09+02:00",
-    "media_id": "t6fxuykadrzs",
+    "updated_at": "2023-07-08T13:46:22+02:00",
+    "media_id": "ff0xnniae7y3",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -248,18 +294,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271500/van-der-poel-en-van-aert-ruiken-kansen-in-achtste-tour-etappe.html",
+    "url": "/tour-de-france/6271500/peloton-geeft-drie-vluchters-alle-ruimte-in-heuvelrit-tour-de-france.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271499,
-    "slug": "huizenhoge-opslagtank-wurmt-zich-door-limburgs-dorp-naar-chemiebedrijf",
+    "slug": "huizenhoge-opslagtank-wurmt-zich-door-dorp-naar-chemiebedrijf",
     "type": "video",
-    "title": "Huizenhoge opslagtank wurmt zich door Limburgs dorp naar chemiebedrijf",
+    "title": "Huizenhoge opslagtank wurmt zich door dorp naar chemiebedrijf",
     "subtitle": "Video",
     "published_at": "2023-07-08T11:58:34+02:00",
-    "updated_at": "2023-07-08T11:59:36+02:00",
+    "updated_at": "2023-07-08T13:48:25+02:00",
     "media_id": "aklx9ivaqse9",
     "duration": "0:46",
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6271499/huizenhoge-opslagtank-wurmt-zich-door-limburgs-dorp-naar-chemiebedrijf.html",
+    "url": "/videos/6271499/huizenhoge-opslagtank-wurmt-zich-door-dorp-naar-chemiebedrijf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6271170/dit-is-het-verschil-tussen-zonnebrandcremes-en-hier-moet-je-op-letten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271485,
-    "slug": "djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet",
-    "type": "article",
-    "title": "Djokovic bereikt mijlpaal op Wimbledon: 'Ik kan versnellen wanneer het moet'",
-    "subtitle": null,
-    "published_at": "2023-07-08T09:42:04+02:00",
-    "updated_at": "2023-07-08T10:07:27+02:00",
-    "media_id": "hv5xiemag0c1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6271485/djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271487,
-    "slug": "miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv",
-    "type": "article",
-    "title": "Miljoenen kijkers voor journaals rondom val van kabinet-Rutte IV",
-    "subtitle": null,
-    "published_at": "2023-07-08T09:29:39+02:00",
-    "updated_at": "2023-07-08T12:12:34+02:00",
-    "media_id": "6yjx2iiaaga1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6271487/miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv.html",
     "open_new_window": false,
     "partner": null
   }
