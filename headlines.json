@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271478,
+    "slug": "rutte-praat-koning-bij-die-eerder-van-vakantie-terugkeert",
+    "type": "article",
+    "title": "Rutte praat koning bij, die eerder van vakantie terugkeert",
+    "subtitle": null,
+    "published_at": "2023-07-08T06:42:46+02:00",
+    "updated_at": "2023-07-08T06:46:22+02:00",
+    "media_id": "6yjx2iiaaga1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271478/rutte-praat-koning-bij-die-eerder-van-vakantie-terugkeert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271477,
     "slug": "weerbericht-het-wordt-de-warmste-dag-van-het-jaar-tot-nu-toe",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6271465/swiatek-evenaart-haar-beste-wimbledon-prestatie-ook-sabalenka-door.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271462,
-    "slug": "eerste-reacties-op-val-van-kabinet-rutte-iv",
-    "type": "video",
-    "title": "Eerste reacties op val van kabinet-Rutte IV",
-    "subtitle": "Video",
-    "published_at": "2023-07-07T21:58:22+02:00",
-    "updated_at": "2023-07-07T22:00:28+02:00",
-    "media_id": "ecbx1kta2j3d",
-    "duration": "1:58",
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271462/eerste-reacties-op-val-van-kabinet-rutte-iv.html",
     "open_new_window": false,
     "partner": null
   }
