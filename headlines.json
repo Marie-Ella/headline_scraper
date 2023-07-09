@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271651,
+    "slug": "weekweerbericht-nederlands-zomerweer-met-zon-wolken-en-regen",
+    "type": "article",
+    "title": "Weekweerbericht: Nederlands zomerweer met zon, wolken en regen",
+    "subtitle": null,
+    "published_at": "2023-07-09T21:28:27+02:00",
+    "updated_at": "2023-07-09T21:42:22+02:00",
+    "media_id": "tm2x706axkji",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271651/weekweerbericht-nederlands-zomerweer-met-zon-wolken-en-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271645,
     "slug": "noodweer-zorgt-voor-ongemak-maar-levert-weinig-grote-problemen-op",
     "type": "article",
     "title": "Noodweer zorgt voor ongemak, maar levert weinig grote problemen op",
     "subtitle": "In beeld",
     "published_at": "2023-07-09T21:03:25+02:00",
-    "updated_at": "2023-07-09T21:12:13+02:00",
+    "updated_at": "2023-07-09T21:41:52+02:00",
     "media_id": "te7xsb3aid1r",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Verstappen heerst ook in Silverstone en wint voor het eerst zes races op rij",
     "subtitle": null,
     "published_at": "2023-07-09T17:29:07+02:00",
-    "updated_at": "2023-07-09T19:42:30+02:00",
+    "updated_at": "2023-07-09T21:30:03+02:00",
     "media_id": "i6ixyz0aacey",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6271647/verstappen-heerst-ook-in-silverstone-en-wint-voor-het-eerst-zes-races-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271644,
-    "slug": "drentse-schapenhouder-die-door-wolf-werd-gebeten-is-weer-thuis",
-    "type": "article",
-    "title": "Drentse schapenhouder die door wolf werd gebeten is weer thuis",
-    "subtitle": null,
-    "published_at": "2023-07-09T17:08:00+02:00",
-    "updated_at": "2023-07-09T18:44:18+02:00",
-    "media_id": "7dvx0fyav4wy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6271644/drentse-schapenhouder-die-door-wolf-werd-gebeten-is-weer-thuis.html",
     "open_new_window": false,
     "partner": null
   }
