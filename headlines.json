@@ -1,13 +1,36 @@
 [
   {
+    "id": 6271629,
+    "slug": "verstappen-begint-van-pole-aan-gp-groot-brittannie",
+    "type": "article",
+    "title": "Verstappen begint van pole aan GP Groot-Brittannië",
+    "subtitle": "Liveblog",
+    "published_at": "2023-07-09T15:25:15+02:00",
+    "updated_at": "2023-07-09T15:25:16+02:00",
+    "media_id": "6onxteva777m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Groot-Brittannië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6271629/verstappen-begint-van-pole-aan-gp-groot-brittannie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271628,
     "slug": "ook-in-drenthe-en-groningen-code-oranje-vanwege-stevige-onweersbuien",
     "type": "article",
     "title": "Ook in Drenthe en Groningen code oranje vanwege stevige onweersbuien",
     "subtitle": null,
     "published_at": "2023-07-09T15:20:44+02:00",
-    "updated_at": "2023-07-09T15:20:51+02:00",
-    "media_id": "gvzxkn9akexw",
+    "updated_at": "2023-07-09T15:29:46+02:00",
+    "media_id": "3p2x2cjax5oo",
     "duration": null,
     "canonical_section": {
       "id": 100,
@@ -75,7 +98,7 @@
     "title": "Oppermachtige Van Vleuten grijpt in afscheidsjaar weer eindzege in Giro Donne",
     "subtitle": null,
     "published_at": "2023-07-09T15:03:58+02:00",
-    "updated_at": "2023-07-09T15:22:54+02:00",
+    "updated_at": "2023-07-09T15:28:20+02:00",
     "media_id": "ffdxt3yagttl",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Wolf doden mag alleen bij 'acuut' gevaar, nog onduidelijk of dat in Drenthe zo was",
     "subtitle": null,
     "published_at": "2023-07-09T14:54:13+02:00",
-    "updated_at": "2023-07-09T15:22:30+02:00",
+    "updated_at": "2023-07-09T15:24:27+02:00",
     "media_id": "6isx0v0agbjh",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Vooruitblik GP Groot-Brittannië: Strijd woedt vooral achter Verstappen",
     "subtitle": null,
     "published_at": "2023-07-09T12:26:58+02:00",
-    "updated_at": "2023-07-09T12:26:59+02:00",
+    "updated_at": "2023-07-09T15:30:39+02:00",
     "media_id": "u1bx8saady56",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6271605/vooruitblik-gp-groot-brittannie-strijd-woedt-vooral-achter-verstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271590,
-    "slug": "groepje-van-14-rijdt-ver-voor-peloton-in-tour-bergetappe-met-listige-slotklim",
-    "type": "article",
-    "title": "Groepje van 14 rijdt ver voor peloton in Tour-bergetappe met listige slotklim",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-09T12:26:14+02:00",
-    "updated_at": "2023-07-09T14:51:02+02:00",
-    "media_id": "o8rxucua6hc5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271590/groepje-van-14-rijdt-ver-voor-peloton-in-tour-bergetappe-met-listige-slotklim.html",
     "open_new_window": false,
     "partner": null
   }
