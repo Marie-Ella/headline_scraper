@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271828,
+    "slug": "drone-filmt-lavastroom-na-vulkaanuitbarsting-op-ijsland",
+    "type": "video",
+    "title": "Drone filmt lavastroom na vulkaanuitbarsting op IJsland",
+    "subtitle": "Video",
+    "published_at": "2023-07-10T22:01:22+02:00",
+    "updated_at": "2023-07-10T22:01:24+02:00",
+    "media_id": "okaxxatac0s9",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271828/drone-filmt-lavastroom-na-vulkaanuitbarsting-op-ijsland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271827,
     "slug": "turkije-gaat-toch-akkoord-met-navo-lidmaatschap-zweden-een-historische-stap",
     "type": "article",
     "title": "Turkije gaat tóch akkoord met NAVO-lidmaatschap Zweden: 'Een historische stap'",
     "subtitle": null,
     "published_at": "2023-07-10T21:31:42+02:00",
-    "updated_at": "2023-07-10T21:46:14+02:00",
+    "updated_at": "2023-07-10T22:18:02+02:00",
     "media_id": "v2kxscjag8f0",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6271783,
-    "slug": "djokovic-houdt-zicht-op-echte-grand-slam-ook-wimbledon-sensatie-eubanks-door",
+    "slug": "djokovic-en-alcaraz-in-vier-sets-naar-kwartfinales-ook-revelatie-eubanks-verder",
     "type": "article",
-    "title": "Djokovic houdt zicht op echte Grand Slam, ook Wimbledon-sensatie Eubanks door",
+    "title": "Djokovic en Alcaraz in vier sets naar kwartfinales, ook revelatie Eubanks verder",
     "subtitle": null,
     "published_at": "2023-07-10T17:02:59+02:00",
-    "updated_at": "2023-07-10T21:23:46+02:00",
+    "updated_at": "2023-07-10T22:10:31+02:00",
     "media_id": "hesx2e5a5iqq",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6271783/djokovic-houdt-zicht-op-echte-grand-slam-ook-wimbledon-sensatie-eubanks-door.html",
+    "url": "/tennis/6271783/djokovic-en-alcaraz-in-vier-sets-naar-kwartfinales-ook-revelatie-eubanks-verder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6271792/rutte-dankt-kamer-voor-lovende-woorden-maar-kist-staat-nog-boven-de-grond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271789,
-    "slug": "man-doodgeschoten-op-woonwagenkamp-in-eindhoven-verdachte-voortvluchtig",
-    "type": "article",
-    "title": "Man doodgeschoten op woonwagenkamp in Eindhoven, verdachte voortvluchtig",
-    "subtitle": null,
-    "published_at": "2023-07-10T16:42:07+02:00",
-    "updated_at": "2023-07-10T17:02:25+02:00",
-    "media_id": "cwdxlxea1dhx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6271789/man-doodgeschoten-op-woonwagenkamp-in-eindhoven-verdachte-voortvluchtig.html",
     "open_new_window": false,
     "partner": null
   }
