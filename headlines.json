@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271727,
+    "slug": "hypotheekrentes-stijgen-deze-week-door-aanhoudende-inflatie",
+    "type": "article",
+    "title": "Hypotheekrentes stijgen deze week door aanhoudende inflatie",
+    "subtitle": null,
+    "published_at": "2023-07-10T11:41:47+02:00",
+    "updated_at": "2023-07-10T11:41:48+02:00",
+    "media_id": "zlzxn02abtp3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271727/hypotheekrentes-stijgen-deze-week-door-aanhoudende-inflatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271728,
+    "slug": "inflatie-china-afgekoeld-tot-nul-procent",
+    "type": "article",
+    "title": "Inflatie China afgekoeld tot nul procent",
+    "subtitle": null,
+    "published_at": "2023-07-10T11:39:45+02:00",
+    "updated_at": "2023-07-10T11:39:47+02:00",
+    "media_id": "jyhxbciavvyx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271728/inflatie-china-afgekoeld-tot-nul-procent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271724,
     "slug": "tim-douwsma-is-voor-de-tweede-keer-vader-geworden",
     "type": "article",
@@ -29,14 +75,14 @@
     "title": "Oppositiepartijen over besluit van Rutte om te stoppen: 'Enige juiste besluit'",
     "subtitle": null,
     "published_at": "2023-07-10T10:58:58+02:00",
-    "updated_at": "2023-07-10T11:23:54+02:00",
+    "updated_at": "2023-07-10T11:49:13+02:00",
     "media_id": "v9gxjlra7dgs",
     "duration": null,
     "canonical_section": {
       "id": 1779274,
       "slug": "val-kabinet",
       "type": "default",
-      "name": "Val kabinet",
+      "name": "Val kabinet en vertrek Rutte",
       "style": "nu",
       "media_id": null,
       "partner": null
@@ -144,7 +190,7 @@
     "title": "VVD-leider Mark Rutte verlaat politiek: 'Mijn positie is volstrekt ondergeschikt'",
     "subtitle": null,
     "published_at": "2023-07-10T10:21:55+02:00",
-    "updated_at": "2023-07-10T11:22:39+02:00",
+    "updated_at": "2023-07-10T11:41:16+02:00",
     "media_id": "hu3xuega2b8r",
     "duration": null,
     "canonical_section": {
@@ -174,7 +220,7 @@
       "id": 1779274,
       "slug": "val-kabinet",
       "type": "default",
-      "name": "Val kabinet",
+      "name": "Val kabinet en vertrek Rutte",
       "style": "nu",
       "media_id": null,
       "partner": null
@@ -213,8 +259,8 @@
     "title": "Oppositiepartijen zien door vertrek Rutte af van motie van wantrouwen",
     "subtitle": "Liveblog",
     "published_at": "2023-07-10T09:47:08+02:00",
-    "updated_at": "2023-07-10T11:23:30+02:00",
-    "media_id": "eq2xw30ahu4h",
+    "updated_at": "2023-07-10T11:36:38+02:00",
+    "media_id": "pfexymoacms1",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6271693/influencer-lizzy-van-der-ligt-gewond-aan-gezicht-bij-aanval-op-straat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271691,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-07-10T06:00:43+02:00",
-    "updated_at": "2023-07-10T06:04:25+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6271691/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271690,
-    "slug": "wopke-hoekstra-niet-meer-beschikbaar-als-lijsttrekker-cda",
-    "type": "article",
-    "title": "Wopke Hoekstra niet meer beschikbaar als lijsttrekker CDA",
-    "subtitle": null,
-    "published_at": "2023-07-10T05:54:07+02:00",
-    "updated_at": "2023-07-10T10:43:34+02:00",
-    "media_id": "pv4xn4pankxf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6271690/wopke-hoekstra-niet-meer-beschikbaar-als-lijsttrekker-cda.html",
     "open_new_window": false,
     "partner": null
   }
