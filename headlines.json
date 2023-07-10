@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271746,
+    "slug": "klaver-kruiste-vaak-degens-met-rutte-nooit-persoonlijk-altijd-inhoudelijk",
+    "type": "video",
+    "title": "Klaver kruiste vaak degens met Rutte: 'Nooit persoonlijk, altijd inhoudelijk'",
+    "subtitle": "Video",
+    "published_at": "2023-07-10T12:46:24+02:00",
+    "updated_at": "2023-07-10T12:48:36+02:00",
+    "media_id": "prtxgamaclcl",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271746/klaver-kruiste-vaak-degens-met-rutte-nooit-persoonlijk-altijd-inhoudelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271743,
+    "slug": "praat-mee-wie-moet-mark-rutte-opvolgen-bij-de-vvd",
+    "type": "article",
+    "title": "Praat mee: Wie moet Mark Rutte opvolgen bij de VVD?",
+    "subtitle": null,
+    "published_at": "2023-07-10T12:45:36+02:00",
+    "updated_at": "2023-07-10T12:45:37+02:00",
+    "media_id": "1wix71ka1edm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6271743/praat-mee-wie-moet-mark-rutte-opvolgen-bij-de-vvd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271744,
     "slug": "wie-gaat-cda-leiden-ook-fractievoorzitter-heerma-niet-meer-verkiesbaar",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Bezoekers van door noodweer afgelaste festivals krijgen geld (deels) terug",
     "subtitle": null,
     "published_at": "2023-07-10T12:25:05+02:00",
-    "updated_at": "2023-07-10T12:31:51+02:00",
+    "updated_at": "2023-07-10T12:44:10+02:00",
     "media_id": "vk9xk2jaxuui",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Oppositie prijst 'tomeloze inzet' Rutte: 'Maar vertrek is enige juiste besluit'",
     "subtitle": null,
     "published_at": "2023-07-10T10:58:58+02:00",
-    "updated_at": "2023-07-10T12:35:40+02:00",
+    "updated_at": "2023-07-10T12:45:56+02:00",
     "media_id": "v9gxjlra7dgs",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6271717/schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271716,
-    "slug": "vvd-leider-mark-rutte-verlaat-politiek-mijn-positie-is-volstrekt-ondergeschikt",
-    "type": "article",
-    "title": "VVD-leider Mark Rutte verlaat politiek: 'Mijn positie is volstrekt ondergeschikt'",
-    "subtitle": null,
-    "published_at": "2023-07-10T10:21:55+02:00",
-    "updated_at": "2023-07-10T12:20:46+02:00",
-    "media_id": "7ocx6ukat80x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6271716/vvd-leider-mark-rutte-verlaat-politiek-mijn-positie-is-volstrekt-ondergeschikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271713,
-    "slug": "kijk-hier-live-mee-met-kamerdebat-over-val-kabinet-en-vertrek-rutte",
-    "type": "video",
-    "title": "Kijk hier live mee met Kamerdebat over val kabinet en vertrek Rutte",
-    "subtitle": "Livestream",
-    "published_at": "2023-07-10T10:14:03+02:00",
-    "updated_at": "2023-07-10T12:03:01+02:00",
-    "media_id": "m9xx1hcaxmnh",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet en vertrek Rutte",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271713/kijk-hier-live-mee-met-kamerdebat-over-val-kabinet-en-vertrek-rutte.html",
     "open_new_window": false,
     "partner": null
   }
