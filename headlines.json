@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271701,
+    "slug": "schade-na-explosies-op-twee-locaties-in-amsterdam",
+    "type": "video",
+    "title": "Schade na explosies op twee locaties in Amsterdam",
+    "subtitle": "Video",
+    "published_at": "2023-07-10T08:54:20+02:00",
+    "updated_at": "2023-07-10T08:54:21+02:00",
+    "media_id": "b4rxuqaaei8q",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271701/schade-na-explosies-op-twee-locaties-in-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271700,
     "slug": "jamie-foxx-voor-het-eerst-in-openbaar-verschenen-na-ziekenhuisopname",
     "type": "article",
     "title": "Jamie Foxx voor het eerst in openbaar verschenen na ziekenhuisopname",
     "subtitle": null,
     "published_at": "2023-07-10T08:41:50+02:00",
-    "updated_at": "2023-07-10T08:41:52+02:00",
+    "updated_at": "2023-07-10T09:06:42+02:00",
     "media_id": "fhuxt66afuat",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Belarussische Azarenka begrijpt niet waarom Wimbledon-publiek haar uitjouwde",
     "subtitle": null,
     "published_at": "2023-07-10T08:14:58+02:00",
-    "updated_at": "2023-07-10T08:23:24+02:00",
+    "updated_at": "2023-07-10T08:49:40+02:00",
     "media_id": "bklxt1fa6kz3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6271684/lotto-dstny-ploegleider-biedt-excuses-aan-na-beschuldiging-van-online-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271679,
-    "slug": "topsprinter-fabio-jakobsen-vertrekt-na-dit-seizoen-bij-soudal-quick-step",
-    "type": "article",
-    "title": "Topsprinter Fabio Jakobsen vertrekt na dit seizoen bij Soudal Quick-Step",
-    "subtitle": null,
-    "published_at": "2023-07-09T23:35:24+02:00",
-    "updated_at": "2023-07-10T06:30:39+02:00",
-    "media_id": "w9jx8s7amchl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6271679/topsprinter-fabio-jakobsen-vertrekt-na-dit-seizoen-bij-soudal-quick-step.html",
     "open_new_window": false,
     "partner": null
   }
