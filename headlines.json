@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271991,
+    "slug": "regenboogwolk-breekt-door-donkere-wolken-in-colombia",
+    "type": "video",
+    "title": "Regenboogwolk breekt door donkere wolken in Colombia",
+    "subtitle": "Video",
+    "published_at": "2023-07-11T22:00:42+02:00",
+    "updated_at": "2023-07-11T22:00:44+02:00",
+    "media_id": "p4fxnv6afmpw",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271991/regenboogwolk-breekt-door-donkere-wolken-in-colombia.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271989,
     "slug": "autobiografie-britney-spears-verschijnt-eind-oktober-ook-boekcover-onthuld",
     "type": "article",
     "title": "Autobiografie Britney Spears verschijnt eind oktober, ook boekcover onthuld",
     "subtitle": null,
     "published_at": "2023-07-11T21:30:34+02:00",
-    "updated_at": "2023-07-11T21:42:07+02:00",
+    "updated_at": "2023-07-11T21:51:00+02:00",
     "media_id": "gtlxb8za82ew",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6271965/pierie-kiest-na-nul-wedstrijden-in-hoofdmacht-ajax-nu-definitief-voor-excelsior.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271960,
-    "slug": "exit-nyck-de-vries-te-hoge-verwachtingen-te-weinig-indruk-gemaakt",
-    "type": "article",
-    "title": "Exit Nyck de Vries: te hoge verwachtingen, te weinig indruk gemaakt",
-    "subtitle": "NU+",
-    "published_at": "2023-07-11T18:27:38+02:00",
-    "updated_at": "2023-07-11T19:12:09+02:00",
-    "media_id": "e7nx4gba1pgc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6271960/exit-nyck-de-vries-te-hoge-verwachtingen-te-weinig-indruk-gemaakt.html",
     "open_new_window": false,
     "partner": null
   }
