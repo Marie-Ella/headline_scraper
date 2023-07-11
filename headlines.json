@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271922,
+    "slug": "libische-kustwacht-beschiet-rode-kruis-op-middellandse-zee",
+    "type": "video",
+    "title": "Libische kustwacht beschiet Rode Kruis op Middellandse Zee",
+    "subtitle": "Video",
+    "published_at": "2023-07-11T15:11:38+02:00",
+    "updated_at": "2023-07-11T15:30:59+02:00",
+    "media_id": "2ooxepeaqg0l",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6271922/libische-kustwacht-beschiet-rode-kruis-op-middellandse-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271916,
     "slug": "belg-valt-door-opblaaspalm-door-de-mand-man-heeft-nog-18-jaar-cel-tegoed",
     "type": "article",
     "title": "Belg valt door opblaaspalm door de mand: man heeft nog 18 jaar cel tegoed",
     "subtitle": null,
     "published_at": "2023-07-11T15:06:07+02:00",
-    "updated_at": "2023-07-11T15:06:13+02:00",
+    "updated_at": "2023-07-11T15:30:22+02:00",
     "media_id": "v7bxwixay9fv",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6271901,
-    "slug": "30-srebrenica-slachtoffers-begraven-op-herdenkingsdag-in-bosnie-en-herzegovina",
+    "slug": "herdenkingsdag-srebrenica-30-slachtoffers-begraven-in-bosnie-en-herzegovina",
     "type": "article",
-    "title": "30 Srebrenica-slachtoffers begraven op herdenkingsdag in Bosnië en Herzegovina",
+    "title": "Herdenkingsdag Srebrenica: 30 slachtoffers begraven in Bosnië en Herzegovina",
     "subtitle": null,
     "published_at": "2023-07-11T15:05:26+02:00",
-    "updated_at": "2023-07-11T15:05:28+02:00",
+    "updated_at": "2023-07-11T15:13:02+02:00",
     "media_id": "h8wxv7jast5v",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6271901/30-srebrenica-slachtoffers-begraven-op-herdenkingsdag-in-bosnie-en-herzegovina.html",
+    "url": "/binnenland/6271901/herdenkingsdag-srebrenica-30-slachtoffers-begraven-in-bosnie-en-herzegovina.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +438,12 @@
   },
   {
     "id": 6271881,
-    "slug": "van-der-poel-en-van-aert-weer-bij-tour-peloton-na-chaotisch-begin",
+    "slug": "chaves-rijdt-weg-van-tour-kopgroep-op-de-vierde-beklimming",
     "type": "article",
-    "title": "Van der Poel en Van Aert weer bij Tour-peloton na chaotisch begin",
+    "title": "Chaves rijdt weg van Tour-kopgroep op de vierde beklimming",
     "subtitle": "Liveblog",
     "published_at": "2023-07-11T12:07:12+02:00",
-    "updated_at": "2023-07-11T15:07:55+02:00",
+    "updated_at": "2023-07-11T15:17:30+02:00",
     "media_id": "e8oxq1yashr3",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271881/van-der-poel-en-van-aert-weer-bij-tour-peloton-na-chaotisch-begin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271892,
-    "slug": "vollering-krijgt-voorkeur-boven-van-vleuten-als-kopvrouw-nederlandse-wk-ploeg",
-    "type": "article",
-    "title": "Vollering krijgt voorkeur boven Van Vleuten als kopvrouw Nederlandse WK-ploeg",
-    "subtitle": null,
-    "published_at": "2023-07-11T12:05:30+02:00",
-    "updated_at": "2023-07-11T12:40:50+02:00",
-    "media_id": "qh0xcrga94qa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6271892/vollering-krijgt-voorkeur-boven-van-vleuten-als-kopvrouw-nederlandse-wk-ploeg.html",
+    "url": "/tour-de-france/6271881/chaves-rijdt-weg-van-tour-kopgroep-op-de-vierde-beklimming.html",
     "open_new_window": false,
     "partner": null
   }
