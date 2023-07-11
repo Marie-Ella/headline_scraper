@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271839,
+    "slug": "vermeend-slachtoffer-ontkent-misbruikt-te-zijn-door-bbc-presentator",
+    "type": "article",
+    "title": "Vermeend slachtoffer ontkent misbruikt te zijn door BBC-presentator",
+    "subtitle": null,
+    "published_at": "2023-07-11T07:39:13+02:00",
+    "updated_at": "2023-07-11T07:39:14+02:00",
+    "media_id": "xgjxlzjaoql1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6271839/vermeend-slachtoffer-ontkent-misbruikt-te-zijn-door-bbc-presentator.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271817,
     "slug": "stelling-de-stikstofcrisis-kan-niet-wachten-op-een-nieuw-kabinet",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Inflatie daalt een beetje in juni: prijzen 5,7 procent hoger dan jaar eerder",
     "subtitle": null,
     "published_at": "2023-07-11T06:58:17+02:00",
-    "updated_at": "2023-07-11T07:27:41+02:00",
+    "updated_at": "2023-07-11T07:31:45+02:00",
     "media_id": "srexbu9akc6w",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6271815/spaanse-kustwacht-redt-86-migranten-van-boot-bij-canarische-eilanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271741,
-    "slug": "buitenlandse-media-over-rutte-teflon-mark-gaat-nieuw-gevecht-uit-de-weg",
-    "type": "article",
-    "title": "Buitenlandse media over Rutte: 'Teflon Mark gaat nieuw gevecht uit de weg'",
-    "subtitle": null,
-    "published_at": "2023-07-10T19:32:29+02:00",
-    "updated_at": "2023-07-11T07:12:25+02:00",
-    "media_id": "grpx2rratrbn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet en vertrek Rutte",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271741/buitenlandse-media-over-rutte-teflon-mark-gaat-nieuw-gevecht-uit-de-weg.html",
     "open_new_window": false,
     "partner": null
   }
