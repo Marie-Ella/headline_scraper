@@ -1,12 +1,81 @@
 [
   {
+    "id": 6272001,
+    "slug": "greenpeace-eist-nu-via-rechter-beter-stikstofplan-van-kabinet",
+    "type": "article",
+    "title": "Greenpeace eist nu via rechter beter stikstofplan van kabinet",
+    "subtitle": null,
+    "published_at": "2023-07-12T00:10:08+02:00",
+    "updated_at": "2023-07-12T00:10:09+02:00",
+    "media_id": "gghxo28adblv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778778,
+      "slug": "stikstof",
+      "type": "default",
+      "name": "Stikstof",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stikstof/6272001/greenpeace-eist-nu-via-rechter-beter-stikstofplan-van-kabinet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271926,
+    "slug": "vakantie-in-eigen-land-legt-het-af-tegen-buitenlandse-trip",
+    "type": "article",
+    "title": "Vakantie in eigen land legt het af tegen buitenlandse trip",
+    "subtitle": null,
+    "published_at": "2023-07-12T00:02:53+02:00",
+    "updated_at": "2023-07-12T00:02:55+02:00",
+    "media_id": "2z8x75na5cbm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271926/vakantie-in-eigen-land-legt-het-af-tegen-buitenlandse-trip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272000,
+    "slug": "senaat-gaat-akkoord-doxing-is-binnenkort-strafbaar",
+    "type": "article",
+    "title": "Senaat gaat akkoord: doxing is binnenkort strafbaar",
+    "subtitle": null,
+    "published_at": "2023-07-11T23:59:26+02:00",
+    "updated_at": "2023-07-11T23:59:28+02:00",
+    "media_id": "ugrxqivarc3i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6272000/senaat-gaat-akkoord-doxing-is-binnenkort-strafbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271998,
     "slug": "nieuwe-miss-nederland-rikkie-kolle-ontvangt-doodsbedreigingen-heel-heftig",
     "type": "article",
     "title": "Nieuwe Miss Nederland Rikkie Kolle ontvangt doodsbedreigingen: 'Heel heftig'",
     "subtitle": null,
     "published_at": "2023-07-11T23:28:25+02:00",
-    "updated_at": "2023-07-11T23:44:11+02:00",
+    "updated_at": "2023-07-12T00:03:59+02:00",
     "media_id": "57bxvf2a2gjq",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "Acteur Jonah Hill beschuldigd van emotioneel misbruiken ex: dit speelt er",
     "subtitle": "NU+",
     "published_at": "2023-07-11T20:01:37+02:00",
-    "updated_at": "2023-07-11T21:44:43+02:00",
+    "updated_at": "2023-07-12T00:00:45+02:00",
     "media_id": "s9tx7sial1tj",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6271893/acteur-jonah-hill-beschuldigd-van-emotioneel-misbruiken-ex-dit-speelt-er.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271974,
-    "slug": "van-der-sar-ligt-nog-altijd-op-intensive-care-hij-is-in-staat-te-communiceren",
-    "type": "article",
-    "title": "Van der Sar ligt nog altijd op intensive care: 'Hij is in staat te communiceren'",
-    "subtitle": null,
-    "published_at": "2023-07-11T19:36:05+02:00",
-    "updated_at": "2023-07-11T20:15:52+02:00",
-    "media_id": "r8uxnjfa0899",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6271974/van-der-sar-ligt-nog-altijd-op-intensive-care-hij-is-in-staat-te-communiceren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271913,
-    "slug": "zeehond-netty-gaat-volledig-herstellen-en-zwemt-snel-weer-in-de-waddenzee",
-    "type": "article",
-    "title": "Zeehond Netty gaat volledig herstellen en zwemt snel weer in de Waddenzee",
-    "subtitle": null,
-    "published_at": "2023-07-11T19:14:00+02:00",
-    "updated_at": "2023-07-11T22:24:23+02:00",
-    "media_id": "juzxa3sagym3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6271913/zeehond-netty-gaat-volledig-herstellen-en-zwemt-snel-weer-in-de-waddenzee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271968,
-    "slug": "microsoft-mag-maker-van-games-call-of-duty-en-candy-crush-kopen",
-    "type": "article",
-    "title": "Microsoft mag maker van games Call of Duty en Candy Crush kopen",
-    "subtitle": null,
-    "published_at": "2023-07-11T19:11:45+02:00",
-    "updated_at": "2023-07-11T19:14:02+02:00",
-    "media_id": "wqjx3ozauw37",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6271968/microsoft-mag-maker-van-games-call-of-duty-en-candy-crush-kopen.html",
     "open_new_window": false,
     "partner": null
   }
