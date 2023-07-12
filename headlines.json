@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272074,
+    "slug": "hooikoortspatienten-hebben-het-bijzonder-zwaar-te-verduren-dit-jaar",
+    "type": "article",
+    "title": "Hooikoortspatiënten hebben het bijzonder zwaar te verduren dit jaar",
+    "subtitle": null,
+    "published_at": "2023-07-12T15:48:31+02:00",
+    "updated_at": "2023-07-12T15:48:32+02:00",
+    "media_id": "74axnq1a8e79",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272074/hooikoortspatienten-hebben-het-bijzonder-zwaar-te-verduren-dit-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272089,
+    "slug": "inbrekers-vluchten-van-politie-via-dak-van-woning-in-rotterdam",
+    "type": "video",
+    "title": "Inbrekers vluchten van politie via dak van woning in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2023-07-12T15:29:33+02:00",
+    "updated_at": "2023-07-12T15:29:34+02:00",
+    "media_id": "s7nxronajovl",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272089/inbrekers-vluchten-van-politie-via-dak-van-woning-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272084,
     "slug": "zelensky-schudt-handen-met-biden-op-navo-top",
     "type": "video",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6272019/xavier-durlinger-19-werd-met-vijftien-messteken-om-het-leven-gebracht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272040,
-    "slug": "drietal-op-kop-krijgt-weinig-speelruimte-van-peloton-in-vlakke-tour-rit",
-    "type": "article",
-    "title": "Drietal op kop krijgt weinig speelruimte van peloton in vlakke Tour-rit",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-12T12:05:11+02:00",
-    "updated_at": "2023-07-12T15:26:24+02:00",
-    "media_id": "cr9xyw2ao2eg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272040/drietal-op-kop-krijgt-weinig-speelruimte-van-peloton-in-vlakke-tour-rit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271883,
-    "slug": "zo-kan-je-vanaf-je-vakantieadres-op-je-huis-passen-als-de-buren-er-niet-zijn",
-    "type": "article",
-    "title": "Zo kan je vanaf je vakantieadres op je huis passen als de buren er niet zijn",
-    "subtitle": "NU+",
-    "published_at": "2023-07-12T12:02:43+02:00",
-    "updated_at": "2023-07-12T15:08:11+02:00",
-    "media_id": "ut3xid5aa9nk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6271883/zo-kan-je-vanaf-je-vakantieadres-op-je-huis-passen-als-de-buren-er-niet-zijn.html",
     "open_new_window": false,
     "partner": null
   }
