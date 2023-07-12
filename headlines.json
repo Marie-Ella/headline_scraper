@@ -1,12 +1,58 @@
 [
   {
+    "id": 6272128,
+    "slug": "meerdere-amerikaanse-ministeries-gehackt-door-chinese-spionagegroep",
+    "type": "article",
+    "title": "Meerdere Amerikaanse ministeries gehackt door Chinese spionagegroep",
+    "subtitle": null,
+    "published_at": "2023-07-12T21:05:27+02:00",
+    "updated_at": "2023-07-12T21:12:34+02:00",
+    "media_id": "707x55vaq278",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272128/meerdere-amerikaanse-ministeries-gehackt-door-chinese-spionagegroep.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272127,
+    "slug": "concerten-van-taylor-swift-in-amsterdam-zijn-uitverkocht",
+    "type": "article",
+    "title": "Concerten van Taylor Swift in Amsterdam zijn uitverkocht",
+    "subtitle": null,
+    "published_at": "2023-07-12T21:01:59+02:00",
+    "updated_at": "2023-07-12T21:08:50+02:00",
+    "media_id": "350xeqba7nhi",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6272127/concerten-van-taylor-swift-in-amsterdam-zijn-uitverkocht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272124,
     "slug": "feyenoord-grijpt-definitief-mis-szymanski-voor-bijna-10-miljoen-naar-fenerbahce",
     "type": "article",
     "title": "Feyenoord grijpt definitief mis: Szymanski voor bijna 10 miljoen naar Fenerbahçe",
     "subtitle": null,
     "published_at": "2023-07-12T20:04:03+02:00",
-    "updated_at": "2023-07-12T20:34:40+02:00",
+    "updated_at": "2023-07-12T20:51:16+02:00",
     "media_id": "h7pxal2a6dni",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/eten-en-drinken/6271138/zo-gezond-is-vette-vis-sommige-vissoorten-bevatten-erg-veel-zout.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272064,
-    "slug": "om-het-zicht-te-verbeteren-wil-de-f1-deze-spatborden-installeren",
-    "type": "video",
-    "title": "Om het zicht te verbeteren, wil de F1 deze spatborden installeren",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-12T17:12:31+02:00",
-    "updated_at": "2023-07-12T19:13:18+02:00",
-    "media_id": "poexwuxarbxf",
-    "duration": "1:28",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6272064/om-het-zicht-te-verbeteren-wil-de-f1-deze-spatborden-installeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272102,
-    "slug": "natuurbrand-in-vs-verwoest-gebouwen-en-autos",
-    "type": "video",
-    "title": "Natuurbrand in VS verwoest gebouwen en auto's",
-    "subtitle": "Video",
-    "published_at": "2023-07-12T17:06:44+02:00",
-    "updated_at": "2023-07-12T17:06:45+02:00",
-    "media_id": "qn4xbetaxh1n",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272102/natuurbrand-in-vs-verwoest-gebouwen-en-autos.html",
     "open_new_window": false,
     "partner": null
   }
