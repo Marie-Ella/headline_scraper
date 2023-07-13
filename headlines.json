@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272251,
+    "slug": "feit-of-fabel-voelen-zomers-in-zuid-europa-echt-minder-warm-aan-dan-hier",
+    "type": "article",
+    "title": "Feit of fabel: voelen zomers in Zuid-Europa echt minder warm aan dan hier?",
+    "subtitle": "NU+",
+    "published_at": "2023-07-13T21:05:11+02:00",
+    "updated_at": "2023-07-13T21:05:13+02:00",
+    "media_id": "znlxq8racysh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272251/feit-of-fabel-voelen-zomers-in-zuid-europa-echt-minder-warm-aan-dan-hier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272281,
     "slug": "ajax-grijpt-mis-sepp-van-den-berg-blijft-op-huurbasis-actief-in-bundesliga",
     "type": "article",
     "title": "Ajax grijpt mis: Sepp van den Berg blijft op huurbasis actief in Bundesliga",
     "subtitle": null,
     "published_at": "2023-07-13T20:11:23+02:00",
-    "updated_at": "2023-07-13T20:40:50+02:00",
+    "updated_at": "2023-07-13T21:07:44+02:00",
     "media_id": "schxjhaag9qc",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6272069,
-    "slug": "john-s-hoort-straf-dit-is-wat-er-gebeurde-op-de-zorgboerderij-in-alblasserdam",
+    "slug": "john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-op-zorgboerderij",
     "type": "article",
-    "title": "John S. hoort straf: dit is wat er gebeurde op de zorgboerderij in Alblasserdam",
+    "title": "John S. hoort straf: dit ging vooraf aan dodelijke schietpartij op zorgboerderij",
     "subtitle": null,
     "published_at": "2023-07-13T20:00:09+02:00",
-    "updated_at": "2023-07-13T20:45:15+02:00",
+    "updated_at": "2023-07-13T20:52:44+02:00",
     "media_id": "lmjxba9ak85k",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6272069/john-s-hoort-straf-dit-is-wat-er-gebeurde-op-de-zorgboerderij-in-alblasserdam.html",
+    "url": "/binnenland/6272069/john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-op-zorgboerderij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Van der Poel valt aan tegen beter weten in: 'Lichaam is nog niet klaar voor ritzege'",
     "subtitle": null,
     "published_at": "2023-07-13T18:19:09+02:00",
-    "updated_at": "2023-07-13T19:37:53+02:00",
+    "updated_at": "2023-07-13T20:59:46+02:00",
     "media_id": "1wux920axp0w",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Van der Poel kleurt zinderende Tour-etappe, maar moet zege aan Izagirre laten",
     "subtitle": null,
     "published_at": "2023-07-13T17:18:38+02:00",
-    "updated_at": "2023-07-13T18:06:27+02:00",
+    "updated_at": "2023-07-13T20:55:59+02:00",
     "media_id": "klxx202akdyp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6272237/controleer-jij-altijd-op-teken-praat-mee-over-lyme-en-tekenbeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272253,
-    "slug": "fietsenmaker-cowboy-komt-met-app-om-digitale-vanmoof-sleutel-te-bewaren",
-    "type": "article",
-    "title": "Fietsenmaker Cowboy komt met app om digitale VanMoof-sleutel te bewaren",
-    "subtitle": null,
-    "published_at": "2023-07-13T16:49:30+02:00",
-    "updated_at": "2023-07-13T16:49:32+02:00",
-    "media_id": "fbnx0ora2qdm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6272253/fietsenmaker-cowboy-komt-met-app-om-digitale-vanmoof-sleutel-te-bewaren.html",
     "open_new_window": false,
     "partner": null
   }
