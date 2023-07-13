@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272103,
+    "slug": "hoe-een-vast-rondje-hardlopen-een-russische-commandant-fataal-werd",
+    "type": "video",
+    "title": "Hoe een vast rondje hardlopen een Russische commandant fataal werd",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-13T06:43:43+02:00",
+    "updated_at": "2023-07-13T06:43:44+02:00",
+    "media_id": "yb6xctfa6aod",
+    "duration": "2:31",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6272103/hoe-een-vast-rondje-hardlopen-een-russische-commandant-fataal-werd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272139,
+    "slug": "weerbericht-zwemmen-aan-de-kust-of-regen-landinwaarts-grote-kans-op-natheid",
+    "type": "article",
+    "title": "Weerbericht: Zwemmen aan de kust of regen landinwaarts, grote kans op natheid",
+    "subtitle": null,
+    "published_at": "2023-07-13T06:38:39+02:00",
+    "updated_at": "2023-07-13T06:44:33+02:00",
+    "media_id": "fq0x09fa110c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272139/weerbericht-zwemmen-aan-de-kust-of-regen-landinwaarts-grote-kans-op-natheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272137,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6272135,
-    "slug": "jasper-disaster-nu-beste-sprinter-ter-wereld-hij-lijkt-niet-te-stoppen",
+    "slug": "jasper-disaster-is-nu-de-beste-sprinter-ter-wereld-hij-lijkt-niet-te-stoppen",
     "type": "article",
-    "title": "'Jasper Disaster' nu beste sprinter ter wereld: 'Hij lijkt niet te stoppen'",
+    "title": "'Jasper Disaster' is nu de beste sprinter ter wereld: 'Hij lijkt niet te stoppen'",
     "subtitle": "NU+",
     "published_at": "2023-07-13T05:13:24+02:00",
-    "updated_at": "2023-07-13T06:15:56+02:00",
+    "updated_at": "2023-07-13T06:39:46+02:00",
     "media_id": "8cmx2flamsom",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6272135/jasper-disaster-nu-beste-sprinter-ter-wereld-hij-lijkt-niet-te-stoppen.html",
+    "url": "/tour-de-france/6272135/jasper-disaster-is-nu-de-beste-sprinter-ter-wereld-hij-lijkt-niet-te-stoppen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6272120/van-wangedrag-beschuldigde-bbc-journalist-is-nieuwslezer-huw-edwards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272119,
-    "slug": "groenewegen-geloofde-heilig-in-ritzege-maar-er-kwam-een-groene-gast-overheen",
-    "type": "article",
-    "title": "Groenewegen geloofde heilig in ritzege: 'Maar er kwam een groene gast overheen'",
-    "subtitle": null,
-    "published_at": "2023-07-12T19:13:36+02:00",
-    "updated_at": "2023-07-13T05:09:58+02:00",
-    "media_id": "6zrx36yadsax",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272119/groenewegen-geloofde-heilig-in-ritzege-maar-er-kwam-een-groene-gast-overheen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272118,
-    "slug": "medvedev-beeindigt-wimbledon-sprookje-eubanks-ook-alcaraz-naar-halve-finales",
-    "type": "article",
-    "title": "Medvedev beëindigt Wimbledon-sprookje Eubanks, ook Alcaraz naar halve finales",
-    "subtitle": null,
-    "published_at": "2023-07-12T19:08:05+02:00",
-    "updated_at": "2023-07-12T20:01:29+02:00",
-    "media_id": "0bdx9ona88me",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6272118/medvedev-beeindigt-wimbledon-sprookje-eubanks-ook-alcaraz-naar-halve-finales.html",
     "open_new_window": false,
     "partner": null
   }
