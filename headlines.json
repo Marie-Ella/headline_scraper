@@ -1,12 +1,58 @@
 [
   {
+    "id": 6272436,
+    "slug": "drone-filmt-grote-brand-op-bedrijventerrein-heerenveen",
+    "type": "video",
+    "title": "Drone filmt grote brand op bedrijventerrein Heerenveen",
+    "subtitle": "Video",
+    "published_at": "2023-07-14T21:27:46+02:00",
+    "updated_at": "2023-07-14T21:27:47+02:00",
+    "media_id": "on6x96fac9e5",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272436/drone-filmt-grote-brand-op-bedrijventerrein-heerenveen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272374,
+    "slug": "thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden",
+    "type": "article",
+    "title": "Thora- en bijbelverbranding mag bij Israëlische ambassade in Zweden",
+    "subtitle": null,
+    "published_at": "2023-07-14T21:19:32+02:00",
+    "updated_at": "2023-07-14T21:19:34+02:00",
+    "media_id": "nivxvekae8q6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272374/thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272435,
     "slug": "colombiaanse-junglekinderen-maken-het-goed-en-zijn-ontslagen-uit-ziekenhuis",
     "type": "article",
     "title": "Colombiaanse 'junglekinderen' maken het goed en zijn ontslagen uit ziekenhuis",
     "subtitle": null,
     "published_at": "2023-07-14T21:09:32+02:00",
-    "updated_at": "2023-07-14T21:09:33+02:00",
+    "updated_at": "2023-07-14T21:18:32+02:00",
     "media_id": "8b5xg3hasn1a",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Wimbledon krijgt droomfinale: Djokovic en Alcaraz gaan strijden om titel",
     "subtitle": null,
     "published_at": "2023-07-14T17:27:27+02:00",
-    "updated_at": "2023-07-14T21:14:22+02:00",
+    "updated_at": "2023-07-14T21:19:25+02:00",
     "media_id": "dprxll7a41un",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6272412/wimbledon-krijgt-droomfinale-djokovic-en-alcaraz-gaan-strijden-om-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272411,
-    "slug": "spanning-in-tour-neemt-verder-toe-pogacar-nadert-vingegaard-tot-op-9-seconden",
-    "type": "article",
-    "title": "Spanning in Tour neemt verder toe: Pogacar nadert Vingegaard tot op 9 seconden",
-    "subtitle": null,
-    "published_at": "2023-07-14T17:17:51+02:00",
-    "updated_at": "2023-07-14T17:48:34+02:00",
-    "media_id": "8mbxlgvatgdx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272411/spanning-in-tour-neemt-verder-toe-pogacar-nadert-vingegaard-tot-op-9-seconden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272380,
-    "slug": "weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind",
-    "type": "article",
-    "title": "Weekendweerbericht: Broeierig en buiig weekend sluit af met veel wind",
-    "subtitle": null,
-    "published_at": "2023-07-14T17:09:53+02:00",
-    "updated_at": "2023-07-14T17:09:56+02:00",
-    "media_id": "hyvxix5ar5sf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272380/weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind.html",
     "open_new_window": false,
     "partner": null
   }
