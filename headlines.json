@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272453,
+    "slug": "vuurwerkpijlen-schieten-uit-eiffeltoren-op-franse-feestdag",
+    "type": "video",
+    "title": "Vuurwerkpijlen schieten uit Eiffeltoren op Franse feestdag",
+    "subtitle": "Video",
+    "published_at": "2023-07-15T07:48:37+02:00",
+    "updated_at": "2023-07-15T07:48:38+02:00",
+    "media_id": "t3jxz9ra89nw",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272453/vuurwerkpijlen-schieten-uit-eiffeltoren-op-franse-feestdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272041,
+    "slug": "vera-pauw-en-haar-ierse-droom-belachelijk-dat-dit-mijn-eerste-wk-wordt",
+    "type": "article",
+    "title": "Vera Pauw en haar Ierse droom: 'Belachelijk dat dit mijn eerste WK wordt'",
+    "subtitle": null,
+    "published_at": "2023-07-15T07:46:02+02:00",
+    "updated_at": "2023-07-15T07:46:35+02:00",
+    "media_id": "l6rx7i4af3xw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6272041/vera-pauw-en-haar-ierse-droom-belachelijk-dat-dit-mijn-eerste-wk-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272452,
     "slug": "nederlandse-fiscalist-van-de-sterren-in-vs-aangeklaagd",
     "type": "article",
@@ -346,12 +392,12 @@
   },
   {
     "id": 6272438,
-    "slug": "marga-minco-schrijfster-van-het-bittere-kruid-op-103-jarige-leeftijd-overleden",
+    "slug": "het-bittere-kruid-schrijfster-marga-minco-op-103-jarige-leeftijd-overleden",
     "type": "article",
-    "title": "Marga Minco, schrijfster van Het bittere kruid, op 103-jarige leeftijd overleden",
+    "title": "Het bittere kruid-schrijfster Marga Minco op 103-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-07-14T22:04:54+02:00",
-    "updated_at": "2023-07-14T23:09:10+02:00",
+    "updated_at": "2023-07-15T07:43:29+02:00",
     "media_id": "qe6xvmiaakm3",
     "duration": null,
     "canonical_section": {
@@ -363,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6272438/marga-minco-schrijfster-van-het-bittere-kruid-op-103-jarige-leeftijd-overleden.html",
+    "url": "/cultuur-overig/6272438/het-bittere-kruid-schrijfster-marga-minco-op-103-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6272368/ontevreden-tadic-vertrekt-per-direct-bij-ajax-maar-hij-is-altijd-weer-welkom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272436,
-    "slug": "drone-filmt-grote-brand-op-bedrijventerrein-heerenveen",
-    "type": "video",
-    "title": "Drone filmt grote brand op bedrijventerrein Heerenveen",
-    "subtitle": "Video",
-    "published_at": "2023-07-14T21:27:46+02:00",
-    "updated_at": "2023-07-14T21:35:52+02:00",
-    "media_id": "on6x96fac9e5",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272436/drone-filmt-grote-brand-op-bedrijventerrein-heerenveen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272374,
-    "slug": "thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden",
-    "type": "article",
-    "title": "Thora- en bijbelverbranding mag bij Israëlische ambassade in Zweden",
-    "subtitle": null,
-    "published_at": "2023-07-14T21:19:32+02:00",
-    "updated_at": "2023-07-14T21:19:34+02:00",
-    "media_id": "nivxvekae8q6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6272374/thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden.html",
     "open_new_window": false,
     "partner": null
   }
