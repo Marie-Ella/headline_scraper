@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272096,
+    "slug": "extreme-hitte-in-zuid-europa-zorgt-na-de-zomer-ook-voor-ellende",
+    "type": "video",
+    "title": "Extreme hitte in Zuid-Europa: 'Zorgt na de zomer ook voor ellende'",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-16T05:35:45+02:00",
+    "updated_at": "2023-07-16T05:35:46+02:00",
+    "media_id": "wwmxc8gapaue",
+    "duration": "2:07",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272096/extreme-hitte-in-zuid-europa-zorgt-na-de-zomer-ook-voor-ellende.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272565,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-16T05:24:24+02:00",
+    "updated_at": "2023-07-16T05:24:25+02:00",
+    "media_id": "ngsxpv6ahbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6272565/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272393,
     "slug": "is-de-recordhoge-woz-waarde-reden-tot-juichen-of-mopperen",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "De waanzinnige strijd om één seconde in Tour: 'Deze rit is een film waard'",
     "subtitle": "NU+",
     "published_at": "2023-07-16T00:46:14+02:00",
-    "updated_at": "2023-07-16T01:33:17+02:00",
+    "updated_at": "2023-07-16T05:31:30+02:00",
     "media_id": "pfsxoygalbel",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272550/ritwinnaar-rodriguez-is-kwiatkowski-dankbaar-voor-inspiratie-en-gehaalde-bidons.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272548,
-    "slug": "vingegaard-koos-eigen-tempo-op-loodzware-slotklim-ik-wilde-niet-ontploffen",
-    "type": "article",
-    "title": "Vingegaard koos eigen tempo op loodzware slotklim: 'Ik wilde niet ontploffen'",
-    "subtitle": null,
-    "published_at": "2023-07-15T19:11:23+02:00",
-    "updated_at": "2023-07-15T19:58:28+02:00",
-    "media_id": "y4ix8ciam5y8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272548/vingegaard-koos-eigen-tempo-op-loodzware-slotklim-ik-wilde-niet-ontploffen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272542,
-    "slug": "pogacar-mild-na-incident-met-motoren-heeft-resultaat-niet-bepaald",
-    "type": "article",
-    "title": "Pogacar mild na incident met motoren: 'Heeft resultaat niet bepaald'",
-    "subtitle": null,
-    "published_at": "2023-07-15T18:59:35+02:00",
-    "updated_at": "2023-07-15T22:22:41+02:00",
-    "media_id": "8n2xtq8abdqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272542/pogacar-mild-na-incident-met-motoren-heeft-resultaat-niet-bepaald.html",
     "open_new_window": false,
     "partner": null
   }
