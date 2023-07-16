@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272647,
+    "slug": "poels-soleert-op-prachtige-wijze-naar-ritwinst-in-tour-de-france",
+    "type": "video",
+    "title": "Poels soleert op prachtige wijze naar ritwinst in Tour de France",
+    "subtitle": "Video",
+    "published_at": "2023-07-16T21:28:12+02:00",
+    "updated_at": "2023-07-16T21:28:13+02:00",
+    "media_id": "7mqxmeka7h31",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6272647/poels-soleert-op-prachtige-wijze-naar-ritwinst-in-tour-de-france.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272592,
+    "slug": "tadic-vindt-na-vertrek-bij-ajax-razendsnel-nieuwe-uitdaging-bij-fenerbahce",
+    "type": "article",
+    "title": "Tadic vindt na vertrek bij Ajax razendsnel nieuwe uitdaging bij Fenerbahçe",
+    "subtitle": null,
+    "published_at": "2023-07-16T21:15:45+02:00",
+    "updated_at": "2023-07-16T21:30:28+02:00",
+    "media_id": "or3xoiuazp7d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272592/tadic-vindt-na-vertrek-bij-ajax-razendsnel-nieuwe-uitdaging-bij-fenerbahce.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272644,
     "slug": "arantxa-rus-wint-tweede-toernooi-op-rij-en-nadert-haar-hoogste-notering-ooit",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Europese Unie en Tunesië sluiten migratiedeal, Rutte spreekt van 'ware mijlpaal'",
     "subtitle": null,
     "published_at": "2023-07-16T18:22:45+02:00",
-    "updated_at": "2023-07-16T21:05:40+02:00",
+    "updated_at": "2023-07-16T21:19:01+02:00",
     "media_id": "fkrx2xna3m50",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272619/laatste-schip-verlaat-haven-odesa-voor-aflopen-van-graandeal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272618,
-    "slug": "vissers-redden-man-die-met-hond-maanden-op-stille-oceaan-ronddobberde",
-    "type": "video",
-    "title": "Vissers redden man die met hond maanden op Stille Oceaan ronddobberde",
-    "subtitle": "Video",
-    "published_at": "2023-07-16T16:37:50+02:00",
-    "updated_at": "2023-07-16T16:40:07+02:00",
-    "media_id": "4x0xdh9aovv6",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6272618/vissers-redden-man-die-met-hond-maanden-op-stille-oceaan-ronddobberde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272617,
-    "slug": "klaver-na-bol-als-tweede-nederlandse-onder-grens-van-50-seconden-op-400-meter",
-    "type": "article",
-    "title": "Klaver na Bol als tweede Nederlandse onder grens van 50 seconden op 400 meter",
-    "subtitle": null,
-    "published_at": "2023-07-16T16:33:48+02:00",
-    "updated_at": "2023-07-16T16:43:40+02:00",
-    "media_id": "zmrxmlqa7ekq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6272617/klaver-na-bol-als-tweede-nederlandse-onder-grens-van-50-seconden-op-400-meter.html",
     "open_new_window": false,
     "partner": null
   }
