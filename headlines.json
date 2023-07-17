@@ -1,12 +1,58 @@
 [
   {
-    "id": 6272710,
-    "slug": "vierdaagse-zet-safetycar-in-om-gevaarlijke-snelwandelaars-te-beteugelen",
+    "id": 6272714,
+    "slug": "gasprijs-zakt-naar-laagste-punt-in-bijna-twee-jaar",
     "type": "article",
-    "title": "Vierdaagse zet 'safetycar' in om gevaarlijke 'snelwandelaars' te beteugelen",
+    "title": "Gasprijs zakt naar laagste punt in bijna twee jaar",
+    "subtitle": null,
+    "published_at": "2023-07-17T12:16:55+02:00",
+    "updated_at": "2023-07-17T12:16:56+02:00",
+    "media_id": "i02x19xa0q8d",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272714/gasprijs-zakt-naar-laagste-punt-in-bijna-twee-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272705,
+    "slug": "bosbrand-op-spaans-eiland-la-palma-mogelijk-veroorzaakt-door-feest",
+    "type": "article",
+    "title": "Bosbrand op Spaans eiland La Palma mogelijk veroorzaakt door feest",
+    "subtitle": null,
+    "published_at": "2023-07-17T11:51:52+02:00",
+    "updated_at": "2023-07-17T11:58:09+02:00",
+    "media_id": "g7yxem5a7ppd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272705/bosbrand-op-spaans-eiland-la-palma-mogelijk-veroorzaakt-door-feest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272710,
+    "slug": "vierdaagse-zet-safetycar-in-om-te-enthousiaste-snelwandelaars-te-beteugelen",
+    "type": "article",
+    "title": "Vierdaagse zet 'safetycar' in om te enthousiaste snelwandelaars te beteugelen",
     "subtitle": null,
     "published_at": "2023-07-17T11:44:29+02:00",
-    "updated_at": "2023-07-17T11:44:30+02:00",
+    "updated_at": "2023-07-17T12:18:26+02:00",
     "media_id": "96dxx9la1mi7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6272710/vierdaagse-zet-safetycar-in-om-gevaarlijke-snelwandelaars-te-beteugelen.html",
+    "url": "/binnenland/6272710/vierdaagse-zet-safetycar-in-om-te-enthousiaste-snelwandelaars-te-beteugelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Royals en een gapende Brad Pitt: sterren spotten op Wimbledon",
     "subtitle": "In beeld",
     "published_at": "2023-07-17T11:17:14+02:00",
-    "updated_at": "2023-07-17T11:18:33+02:00",
+    "updated_at": "2023-07-17T11:59:36+02:00",
     "media_id": "it5xpocaslys",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6272676/bikker-wordt-lijsttrekker-christenunie-bij-verkiezingen-sluit-pvv-en-fvd-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272675,
-    "slug": "tomtom-verkoopt-meer-navigatiesystemen-door-toegenomen-autoverkoop",
-    "type": "article",
-    "title": "TomTom verkoopt meer navigatiesystemen door toegenomen autoverkoop",
-    "subtitle": null,
-    "published_at": "2023-07-17T08:14:31+02:00",
-    "updated_at": "2023-07-17T08:24:39+02:00",
-    "media_id": "6twxdttamfna",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272675/tomtom-verkoopt-meer-navigatiesystemen-door-toegenomen-autoverkoop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272674,
-    "slug": "recensieoverzicht-coldplay-energieke-chris-martin-lijkt-frontman-van-twee-bands",
-    "type": "article",
-    "title": "Recensieoverzicht Coldplay: Energieke Chris Martin lijkt frontman van twee bands",
-    "subtitle": null,
-    "published_at": "2023-07-17T08:04:12+02:00",
-    "updated_at": "2023-07-17T08:14:40+02:00",
-    "media_id": "tpwxwceac74j",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6272674/recensieoverzicht-coldplay-energieke-chris-martin-lijkt-frontman-van-twee-bands.html",
     "open_new_window": false,
     "partner": null
   }
