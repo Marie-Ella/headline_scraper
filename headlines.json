@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272709,
+    "slug": "groenlinks-en-pvda-gaan-verkiezingen-in-met-gezamenlijke-lijst-en-een-programma",
+    "type": "article",
+    "title": "GroenLinks en PvdA gaan verkiezingen in met gezamenlijke lijst en één programma",
+    "subtitle": null,
+    "published_at": "2023-07-17T16:57:52+02:00",
+    "updated_at": "2023-07-17T17:16:22+02:00",
+    "media_id": "iy0xgmoaff1v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6272709/groenlinks-en-pvda-gaan-verkiezingen-in-met-gezamenlijke-lijst-en-een-programma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272769,
+    "slug": "ploeg-van-der-poel-verdiende-dankzij-philipsen-tot-nu-toe-meeste-geld-in-tour",
+    "type": "article",
+    "title": "Ploeg Van der Poel verdiende dankzij Philipsen tot nu toe meeste geld in Tour",
+    "subtitle": null,
+    "published_at": "2023-07-17T16:56:51+02:00",
+    "updated_at": "2023-07-17T17:08:06+02:00",
+    "media_id": "3vwxm0marh3m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272769/ploeg-van-der-poel-verdiende-dankzij-philipsen-tot-nu-toe-meeste-geld-in-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272766,
     "slug": "tientallen-konijnen-huppelen-rond-door-amerikaanse-woonwijk",
     "type": "video",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6272762,
-    "slug": "jumbo-visma-geeft-stevig-signaal-af-met-aangifte-tegen-fan-die-val-veroorzaakte",
+    "slug": "jumbo-visma-doet-aangifte-tegen-fan-die-massale-valpartij-in-tour-veroorzaakte",
     "type": "article",
-    "title": "Jumbo-Visma geeft 'stevig signaal' af met aangifte tegen fan die val veroorzaakte",
+    "title": "Jumbo-Visma doet aangifte tegen fan die massale valpartij in Tour veroorzaakte",
     "subtitle": null,
     "published_at": "2023-07-17T16:23:17+02:00",
-    "updated_at": "2023-07-17T16:29:10+02:00",
+    "updated_at": "2023-07-17T17:11:14+02:00",
     "media_id": "4fwxt5aazxwn",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6272762/jumbo-visma-geeft-stevig-signaal-af-met-aangifte-tegen-fan-die-val-veroorzaakte.html",
+    "url": "/tour-de-france/6272762/jumbo-visma-doet-aangifte-tegen-fan-die-massale-valpartij-in-tour-veroorzaakte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272715/rusland-trekt-zich-terug-uit-graandeal-met-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272720,
-    "slug": "op1-heeft-nieuwe-hoofdredacteur-herman-meijer-weet-hoe-je-talkshow-maakt",
-    "type": "article",
-    "title": "Op1 heeft nieuwe hoofdredacteur: 'Herman Meijer weet hoe je talkshow maakt'",
-    "subtitle": null,
-    "published_at": "2023-07-17T12:32:07+02:00",
-    "updated_at": "2023-07-17T13:10:26+02:00",
-    "media_id": "5ypxq8fag01v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6272720/op1-heeft-nieuwe-hoofdredacteur-herman-meijer-weet-hoe-je-talkshow-maakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272721,
-    "slug": "toeristen-trotseren-56-graden-in-death-valley-tijdens-hittegolf",
-    "type": "video",
-    "title": "Toeristen trotseren 56 graden in Death Valley tijdens hittegolf",
-    "subtitle": "Video",
-    "published_at": "2023-07-17T12:28:11+02:00",
-    "updated_at": "2023-07-17T12:46:49+02:00",
-    "media_id": "h3dx2msa9wd1",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272721/toeristen-trotseren-56-graden-in-death-valley-tijdens-hittegolf.html",
     "open_new_window": false,
     "partner": null
   }
