@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272810,
+    "slug": "weerbericht-de-warmste-dag-van-de-werkweek-daarna-wisselvallig",
+    "type": "article",
+    "title": "Weerbericht: De warmste dag van de werkweek, daarna wisselvallig",
+    "subtitle": null,
+    "published_at": "2023-07-18T05:42:35+02:00",
+    "updated_at": "2023-07-18T05:42:36+02:00",
+    "media_id": "qxpx86qa2mfl",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6272810/weerbericht-de-warmste-dag-van-de-werkweek-daarna-wisselvallig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272809,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6272790/psv-trainer-bosz-zag-vertrek-simons-al-aankomen-maar-het-blijft-erg-jammer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272789,
-    "slug": "duiker-maakt-zeldzame-beelden-van-koning-der-zalmen-bij-taiwan",
-    "type": "video",
-    "title": "Duiker maakt zeldzame beelden van 'koning der zalmen' bij Taiwan",
-    "subtitle": "Video",
-    "published_at": "2023-07-17T19:09:28+02:00",
-    "updated_at": "2023-07-17T21:02:29+02:00",
-    "media_id": "q6jx6qga8uqo",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6272789/duiker-maakt-zeldzame-beelden-van-koning-der-zalmen-bij-taiwan.html",
     "open_new_window": false,
     "partner": null
   }
