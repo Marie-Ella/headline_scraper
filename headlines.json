@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272910,
+    "slug": "journalist-doet-aangifte-tegen-vvd-perschef-wegens-weggooien-microfoon",
+    "type": "article",
+    "title": "Journalist doet aangifte tegen VVD-perschef wegens weggooien microfoon",
+    "subtitle": null,
+    "published_at": "2023-07-18T16:38:36+02:00",
+    "updated_at": "2023-07-18T16:38:38+02:00",
+    "media_id": "um5xs32atgh6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6272910/journalist-doet-aangifte-tegen-vvd-perschef-wegens-weggooien-microfoon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272913,
     "slug": "vliegtuigen-en-helikopters-bestrijden-natuurbrand-bij-athene",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272869/koersval-turkse-munt-zet-door-euro-breekt-door-grens-van-30-lira.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272868,
-    "slug": "manchester-united-icoon-giggs-vrijgesproken-in-beruchte-mishandelingszaak",
-    "type": "article",
-    "title": "Manchester United-icoon Giggs vrijgesproken in beruchte mishandelingszaak",
-    "subtitle": null,
-    "published_at": "2023-07-18T12:31:44+02:00",
-    "updated_at": "2023-07-18T12:42:12+02:00",
-    "media_id": "6iqx0s1axml4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272868/manchester-united-icoon-giggs-vrijgesproken-in-beruchte-mishandelingszaak.html",
     "open_new_window": false,
     "partner": null
   }
