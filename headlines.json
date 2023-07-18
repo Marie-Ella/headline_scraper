@@ -1,12 +1,35 @@
 [
   {
-    "id": 6272919,
-    "slug": "onderzoeksjury-bekijkt-welke-rol-trump-speelde-bij-bestorming-capitool",
+    "id": 6272924,
+    "slug": "appelbloesemkever-zorgt-dit-jaar-mogelijk-voor-lagere-oogst",
     "type": "article",
-    "title": "Onderzoeksjury bekijkt welke rol Trump speelde bij bestorming Capitool",
+    "title": "Appelbloesemkever zorgt dit jaar mogelijk voor lagere oogst",
+    "subtitle": null,
+    "published_at": "2023-07-18T17:20:57+02:00",
+    "updated_at": "2023-07-18T17:20:58+02:00",
+    "media_id": "g5exf4yabzn2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272924/appelbloesemkever-zorgt-dit-jaar-mogelijk-voor-lagere-oogst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272919,
+    "slug": "onderzoeksjury-kijkt-of-trump-moet-worden-vervolgd-voor-capitoolbestorming",
+    "type": "article",
+    "title": "Onderzoeksjury kijkt of Trump moet worden vervolgd voor Capitoolbestorming",
     "subtitle": null,
     "published_at": "2023-07-18T17:00:22+02:00",
-    "updated_at": "2023-07-18T17:00:24+02:00",
+    "updated_at": "2023-07-18T17:29:16+02:00",
     "media_id": "cx8xwk9aiqi1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6272919/onderzoeksjury-bekijkt-welke-rol-trump-speelde-bij-bestorming-capitool.html",
+    "url": "/buitenland/6272919/onderzoeksjury-kijkt-of-trump-moet-worden-vervolgd-voor-capitoolbestorming.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6272877/boze-vanmoof-klanten-bellen-politie-over-diefstal-maar-wij-kunnen-niets-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272875,
-    "slug": "nieuw-amerikaans-oorlogsschip-vaart-sydney-binnen",
-    "type": "video",
-    "title": "Nieuw Amerikaans oorlogsschip vaart Sydney binnen",
-    "subtitle": "Video",
-    "published_at": "2023-07-18T13:09:56+02:00",
-    "updated_at": "2023-07-18T13:38:05+02:00",
-    "media_id": "5doxg5oaicbz",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6272875/nieuw-amerikaans-oorlogsschip-vaart-sydney-binnen.html",
     "open_new_window": false,
     "partner": null
   }
