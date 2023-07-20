@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273268,
+    "slug": "opvallend-veel-vierdaagse-afvallers-en-recorddrukte-bij-blarenpost",
+    "type": "article",
+    "title": "Opvallend veel Vierdaagse-afvallers en recorddrukte bij blarenpost",
+    "subtitle": null,
+    "published_at": "2023-07-20T20:23:42+02:00",
+    "updated_at": "2023-07-20T20:32:21+02:00",
+    "media_id": "scrxx31afys1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273268/opvallend-veel-vierdaagse-afvallers-en-recorddrukte-bij-blarenpost.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273262,
     "slug": "f1-team-alpine-schuift-baas-rossi-opzij-en-kiest-voor-ervaren-krief",
     "type": "article",
     "title": "F1-Team Alpine schuift baas Rossi opzij en kiest voor ervaren Krief",
     "subtitle": null,
     "published_at": "2023-07-20T20:09:43+02:00",
-    "updated_at": "2023-07-20T20:09:44+02:00",
+    "updated_at": "2023-07-20T20:26:04+02:00",
     "media_id": "qljxfrtaz5j3",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6273253,
-    "slug": "belgie-maakt-homogenezing-strafbaar-en-dreigt-met-gevangenisstraffen",
+    "slug": "belgie-maakt-homogenezing-wel-strafbaar-en-dreigt-met-gevangenisstraffen",
     "type": "article",
-    "title": "België maakt 'homogenezing' strafbaar en dreigt met gevangenisstraffen",
+    "title": "België maakt 'homogenezing' wel strafbaar en dreigt met gevangenisstraffen",
     "subtitle": null,
     "published_at": "2023-07-20T19:29:17+02:00",
-    "updated_at": "2023-07-20T19:44:21+02:00",
+    "updated_at": "2023-07-20T20:30:42+02:00",
     "media_id": "kgfx46aafibi",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6273253/belgie-maakt-homogenezing-strafbaar-en-dreigt-met-gevangenisstraffen.html",
+    "url": "/buitenland/6273253/belgie-maakt-homogenezing-wel-strafbaar-en-dreigt-met-gevangenisstraffen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6273226/uitmarkt-na-45-jaar-niet-meer-in-amsterdam-maar-elk-jaar-in-andere-stad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273231,
-    "slug": "ooggetuige-vertelt-hoe-overloper-naar-noord-korea-ging-dit-weten-we",
-    "type": "video",
-    "title": "Ooggetuige vertelt hoe overloper naar Noord-Korea ging: dit weten we",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-20T16:47:21+02:00",
-    "updated_at": "2023-07-20T17:11:42+02:00",
-    "media_id": "3dyxfxpantnu",
-    "duration": "2:21",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6273231/ooggetuige-vertelt-hoe-overloper-naar-noord-korea-ging-dit-weten-we.html",
     "open_new_window": false,
     "partner": null
   }
