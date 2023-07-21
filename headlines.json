@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273295,
+    "slug": "italie-deelt-beelden-van-grootste-drugsvangst-ooit",
+    "type": "video",
+    "title": "Italië deelt beelden van grootste drugsvangst ooit",
+    "subtitle": "Video",
+    "published_at": "2023-07-21T09:41:14+02:00",
+    "updated_at": "2023-07-21T09:41:16+02:00",
+    "media_id": "jzjx0nza4ks4",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273295/italie-deelt-beelden-van-grootste-drugsvangst-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273293,
+    "slug": "huiszoeking-in-onderzoek-naar-moord-op-tupac-was-bij-vermeende-getuige",
+    "type": "article",
+    "title": "Huiszoeking in onderzoek naar moord op Tupac was bij vermeende getuige",
+    "subtitle": null,
+    "published_at": "2023-07-21T09:40:34+02:00",
+    "updated_at": "2023-07-21T09:40:35+02:00",
+    "media_id": "4zwxebta8i1j",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6273293/huiszoeking-in-onderzoek-naar-moord-op-tupac-was-bij-vermeende-getuige.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273291,
     "slug": "berlijn-zoekt-verder-naar-loslopende-leeuwin-gebrul-blijkt-grap-van-burgers",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Italië onderschept 5.300 kilo cocaïne op zee: 'Grootste vangst ooit in het land'",
     "subtitle": null,
     "published_at": "2023-07-21T06:02:51+02:00",
-    "updated_at": "2023-07-21T06:59:24+02:00",
+    "updated_at": "2023-07-21T09:41:55+02:00",
     "media_id": "pj1xoydazhtj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6273200/krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273218,
-    "slug": "oekraiens-offensief-gaat-slechter-dan-gehoopt-maar-de-strijd-is-nog-niet-gestreden",
-    "type": "article",
-    "title": "Oekraïens offensief gaat slechter dan gehoopt, maar de strijd is nog niet gestreden",
-    "subtitle": null,
-    "published_at": "2023-07-21T05:14:00+02:00",
-    "updated_at": "2023-07-21T07:02:41+02:00",
-    "media_id": "4u0xmfuaovcu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6273218/oekraiens-offensief-gaat-slechter-dan-gehoopt-maar-de-strijd-is-nog-niet-gestreden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273277,
-    "slug": "duitse-politie-hervat-zoektocht-naar-leeuw-blijven-actief-tot-dier-is-gevonden",
-    "type": "article",
-    "title": "Duitse politie hervat zoektocht naar leeuw: 'Blijven actief tot dier is gevonden'",
-    "subtitle": null,
-    "published_at": "2023-07-21T01:01:43+02:00",
-    "updated_at": "2023-07-21T08:25:17+02:00",
-    "media_id": "juqxg0cafh53",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6273277/duitse-politie-hervat-zoektocht-naar-leeuw-blijven-actief-tot-dier-is-gevonden.html",
     "open_new_window": false,
     "partner": null
   }
