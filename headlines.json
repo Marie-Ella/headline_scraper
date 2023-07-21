@@ -1,12 +1,58 @@
 [
   {
+    "id": 6273411,
+    "slug": "hulpdiensten-halen-5-mensen-uit-nederrijn-bij-rhenen",
+    "type": "video",
+    "title": "Hulpdiensten halen 5 mensen uit Nederrijn bij Rhenen",
+    "subtitle": "Video",
+    "published_at": "2023-07-21T21:02:20+02:00",
+    "updated_at": "2023-07-21T21:02:21+02:00",
+    "media_id": "mrnxgx4ab7oe",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273411/hulpdiensten-halen-5-mensen-uit-nederrijn-bij-rhenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273409,
+    "slug": "kipyegon-verpulvert-wereldrecord-van-sifan-hassan-op-engelse-mijl",
+    "type": "article",
+    "title": "Kipyegon verpulvert wereldrecord van Sifan Hassan op Engelse mijl",
+    "subtitle": null,
+    "published_at": "2023-07-21T20:55:04+02:00",
+    "updated_at": "2023-07-21T21:08:50+02:00",
+    "media_id": "adxx5idajlz5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6273409/kipyegon-verpulvert-wereldrecord-van-sifan-hassan-op-engelse-mijl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273407,
     "slug": "klaver-duikt-in-aanloop-naar-wk-weer-onder-magische-grens-van-50-seconden-op-400-meter",
     "type": "article",
     "title": "Klaver duikt in aanloop naar WK weer onder magische grens van 50 seconden op 400 meter",
     "subtitle": null,
     "published_at": "2023-07-21T20:31:10+02:00",
-    "updated_at": "2023-07-21T20:39:42+02:00",
+    "updated_at": "2023-07-21T21:09:11+02:00",
     "media_id": "mgwxkbia0y0g",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272166/vooruitblik-etappe-20-tour-de-france-deze-dag-had-legendarisch-kunnen-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273378,
-    "slug": "zinderende-ontknoping-in-tour-rit-mohoric-klopt-asgreen-met-banddikte-verschil",
-    "type": "article",
-    "title": "Zinderende ontknoping in Tour-rit: Mohoric klopt Asgreen met banddikte verschil",
-    "subtitle": null,
-    "published_at": "2023-07-21T17:09:45+02:00",
-    "updated_at": "2023-07-21T18:50:55+02:00",
-    "media_id": "envx3jva6cc3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6273378/zinderende-ontknoping-in-tour-rit-mohoric-klopt-asgreen-met-banddikte-verschil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273374,
-    "slug": "bezoeker-zwarte-cross-zwaargewond-na-val-van-attractie",
-    "type": "article",
-    "title": "Bezoeker Zwarte Cross zwaargewond na val van attractie",
-    "subtitle": null,
-    "published_at": "2023-07-21T16:49:52+02:00",
-    "updated_at": "2023-07-21T19:32:33+02:00",
-    "media_id": "82oxvzga8ofx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6273374/bezoeker-zwarte-cross-zwaargewond-na-val-van-attractie.html",
     "open_new_window": false,
     "partner": null
   }
