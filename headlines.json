@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273200,
+    "slug": "krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer",
+    "type": "article",
+    "title": "Krapte op arbeidsmarkt leidt tot meer conflicten op werkvloer",
+    "subtitle": null,
+    "published_at": "2023-07-21T05:15:22+02:00",
+    "updated_at": "2023-07-21T05:15:24+02:00",
+    "media_id": "s5jxc2magxaf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273200/krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273218,
+    "slug": "grote-uitdagingen-en-hoge-kosten-oekraiens-offensief-kruipt-vooruit",
+    "type": "article",
+    "title": "Grote uitdagingen en hoge kosten: Oekraïens offensief kruipt vooruit",
+    "subtitle": null,
+    "published_at": "2023-07-21T05:14:00+02:00",
+    "updated_at": "2023-07-21T05:14:02+02:00",
+    "media_id": "4u0xmfuaovcu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6273218/grote-uitdagingen-en-hoge-kosten-oekraiens-offensief-kruipt-vooruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273277,
     "slug": "duitse-politie-zoekt-vannacht-door-naar-leeuw-we-blijven-in-actie-tot-het-dier-is-gevonden",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6273246/werkloosheid-blijft-erg-laag-35-procent-heeft-geen-baan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273245,
-    "slug": "brandweer-redt-18-varkens-uit-mestput-in-espel",
-    "type": "video",
-    "title": "Brandweer redt 18 varkens uit mestput in Espel",
-    "subtitle": "Video",
-    "published_at": "2023-07-20T18:11:10+02:00",
-    "updated_at": "2023-07-20T19:20:38+02:00",
-    "media_id": "8tkxvbqa5vga",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273245/brandweer-redt-18-varkens-uit-mestput-in-espel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273237,
-    "slug": "man-die-vastzit-voor-dodelijke-steekpartij-leiden-verdacht-van-moord",
-    "type": "article",
-    "title": "Man die vastzit voor dodelijke steekpartij Leiden verdacht van moord",
-    "subtitle": null,
-    "published_at": "2023-07-20T18:09:56+02:00",
-    "updated_at": "2023-07-20T18:14:09+02:00",
-    "media_id": "vfpxlpta8w57",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273237/man-die-vastzit-voor-dodelijke-steekpartij-leiden-verdacht-van-moord.html",
     "open_new_window": false,
     "partner": null
   }
