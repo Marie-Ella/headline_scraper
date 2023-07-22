@@ -1,5 +1,97 @@
 [
   {
+    "id": 6273466,
+    "slug": "italiaan-filmt-tornado-vlak-bij-milaan",
+    "type": "video",
+    "title": "Italiaan filmt tornado vlak bij Milaan",
+    "subtitle": "Video",
+    "published_at": "2023-07-22T10:43:59+02:00",
+    "updated_at": "2023-07-22T10:44:00+02:00",
+    "media_id": "3xwxebeadg5i",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273466/italiaan-filmt-tornado-vlak-bij-milaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273464,
+    "slug": "wiegman-begint-met-engeland-aan-jacht-op-eerste-wk-titel",
+    "type": "article",
+    "title": "Wiegman begint met Engeland aan jacht op eerste WK-titel",
+    "subtitle": "Liveblog",
+    "published_at": "2023-07-22T10:34:01+02:00",
+    "updated_at": "2023-07-22T10:38:43+02:00",
+    "media_id": "x0yxm6baoho5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273464/wiegman-begint-met-engeland-aan-jacht-op-eerste-wk-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273463,
+    "slug": "jamie-foxx-weer-begonnen-met-werken-na-ziekenhuisopname",
+    "type": "article",
+    "title": "Jamie Foxx weer begonnen met werken na ziekenhuisopname",
+    "subtitle": null,
+    "published_at": "2023-07-22T10:31:33+02:00",
+    "updated_at": "2023-07-22T10:31:57+02:00",
+    "media_id": "1fyxu1caod9o",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6273463/jamie-foxx-weer-begonnen-met-werken-na-ziekenhuisopname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273462,
+    "slug": "amazon-wil-op-enorme-locatie-bij-nasa-in-florida-satellieten-gaan-bouwen",
+    "type": "article",
+    "title": "Amazon wil op enorme locatie bij NASA in Florida satellieten gaan bouwen",
+    "subtitle": null,
+    "published_at": "2023-07-22T10:31:11+02:00",
+    "updated_at": "2023-07-22T10:44:53+02:00",
+    "media_id": "7zwxsw8a1cxc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6273462/amazon-wil-op-enorme-locatie-bij-nasa-in-florida-satellieten-gaan-bouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273426,
     "slug": "bij-de-afscheidstournee-van-van-der-gragt-er-zijn-weinig-speelsters-zoals-zij",
     "type": "article",
@@ -47,12 +139,12 @@
   },
   {
     "id": 6273461,
-    "slug": "dertienjarig-ontvoerd-meisje-uit-vs-gered-dankzij-help-me-bordje",
+    "slug": "ontvoerd-meisje-13-in-verenigde-staten-gered-dankzij-help-me-bordje",
     "type": "article",
-    "title": "Dertienjarig ontvoerd meisje uit VS gered dankzij 'help me'-bordje",
+    "title": "Ontvoerd meisje (13) in Verenigde Staten gered dankzij 'help me'-bordje",
     "subtitle": null,
     "published_at": "2023-07-22T10:25:43+02:00",
-    "updated_at": "2023-07-22T10:27:34+02:00",
+    "updated_at": "2023-07-22T10:40:01+02:00",
     "media_id": "gcnxq23anyxk",
     "duration": null,
     "canonical_section": {
@@ -64,18 +156,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6273461/dertienjarig-ontvoerd-meisje-uit-vs-gered-dankzij-help-me-bordje.html",
+    "url": "/buitenland/6273461/ontvoerd-meisje-13-in-verenigde-staten-gered-dankzij-help-me-bordje.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6273457,
-    "slug": "bedrijf-achter-brillenmerk-ray-ban-aangeklaagd-voor-enorm-opdrijven-van-prijzen",
+    "slug": "grootste-brillenconcern-ter-wereld-aangeklaagd-voor-opblazen-van-prijzen",
     "type": "article",
-    "title": "Bedrijf achter brillenmerk Ray-Ban aangeklaagd voor enorm opdrijven van prijzen",
+    "title": "Grootste brillenconcern ter wereld aangeklaagd voor opblazen van prijzen",
     "subtitle": null,
     "published_at": "2023-07-22T10:16:50+02:00",
-    "updated_at": "2023-07-22T10:27:21+02:00",
+    "updated_at": "2023-07-22T10:33:09+02:00",
     "media_id": "yzvxla9ayufv",
     "duration": null,
     "canonical_section": {
@@ -87,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6273457/bedrijf-achter-brillenmerk-ray-ban-aangeklaagd-voor-enorm-opdrijven-van-prijzen.html",
+    "url": "/economie/6273457/grootste-brillenconcern-ter-wereld-aangeklaagd-voor-opblazen-van-prijzen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +300,12 @@
   },
   {
     "id": 6273434,
-    "slug": "oranje-laat-veldsaga-achter-zich-voor-duel-met-portugal-er-is-genoeg-over-gezegd",
+    "slug": "oranje-laat-veldsaga-achter-zich-voor-duel-met-portugal-genoeg-over-gezegd",
     "type": "article",
-    "title": "Oranje laat veldsaga achter zich voor duel met Portugal: 'Er is genoeg over gezegd'",
+    "title": "Oranje laat veldsaga achter zich voor duel met Portugal: 'Genoeg over gezegd'",
     "subtitle": null,
     "published_at": "2023-07-22T08:16:45+02:00",
-    "updated_at": "2023-07-22T09:40:31+02:00",
+    "updated_at": "2023-07-22T10:37:01+02:00",
     "media_id": "j7xx5uia75d6",
     "duration": null,
     "canonical_section": {
@@ -225,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal-2023/6273434/oranje-laat-veldsaga-achter-zich-voor-duel-met-portugal-er-is-genoeg-over-gezegd.html",
+    "url": "/wk-voetbal-2023/6273434/oranje-laat-veldsaga-achter-zich-voor-duel-met-portugal-genoeg-over-gezegd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6273427/vs-kan-niet-overtuigen-voor-wk-topper-tegen-oranje-magere-zege-op-vietnam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273017,
-    "slug": "etappeschema-tour-de-france-femmes-nederlands-spektakel-verwacht",
-    "type": "article",
-    "title": "Etappeschema Tour de France Femmes: Nederlands spektakel verwacht",
-    "subtitle": null,
-    "published_at": "2023-07-22T05:08:46+02:00",
-    "updated_at": "2023-07-22T09:18:00+02:00",
-    "media_id": "nlzx9y3a937f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6273017/etappeschema-tour-de-france-femmes-nederlands-spektakel-verwacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273425,
-    "slug": "ricciardo-geniet-van-rentree-in-formule-1-voelt-alsof-ik-nooit-ben-weggeweest",
-    "type": "article",
-    "title": "Ricciardo geniet van rentree in Formule 1: 'Voelt alsof ik nooit ben weggeweest'",
-    "subtitle": null,
-    "published_at": "2023-07-22T05:06:25+02:00",
-    "updated_at": "2023-07-22T09:10:06+02:00",
-    "media_id": "i9qx9xtai1in",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273425/ricciardo-geniet-van-rentree-in-formule-1-voelt-alsof-ik-nooit-ben-weggeweest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271635,
-    "slug": "voetballende-meisjes-overtuigden-jonker-critici-zijn-om-als-ze-oranje-zien",
-    "type": "article",
-    "title": "Voetballende meisjes overtuigden Jonker: 'Critici zijn om als ze Oranje zien'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-22T05:04:05+02:00",
-    "updated_at": "2023-07-22T05:04:07+02:00",
-    "media_id": "4lnxjlnaodxz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6271635/voetballende-meisjes-overtuigden-jonker-critici-zijn-om-als-ze-oranje-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273336,
-    "slug": "alternatieven-genoeg-maar-chaotisch-twitter-steekt-er-nog-altijd-bovenuit",
-    "type": "article",
-    "title": "Alternatieven genoeg, maar chaotisch Twitter steekt er nog altijd bovenuit",
-    "subtitle": "NU+",
-    "published_at": "2023-07-22T05:01:32+02:00",
-    "updated_at": "2023-07-22T05:01:33+02:00",
-    "media_id": "irjxm44aqg2n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6273336/alternatieven-genoeg-maar-chaotisch-twitter-steekt-er-nog-altijd-bovenuit.html",
     "open_new_window": false,
     "partner": null
   }
