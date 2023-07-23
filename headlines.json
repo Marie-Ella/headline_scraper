@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273631,
+    "slug": "kritische-verstappen-streeft-naar-perfectie-met-chagrijn",
+    "type": "audio",
+    "title": "'Kritische Verstappen streeft naar perfectie met chagrijn'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-07-24T01:40:06+02:00",
+    "updated_at": "2023-07-24T01:40:07+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273631/kritische-verstappen-streeft-naar-perfectie-met-chagrijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273630,
+    "slug": "waarom-verstappens-auto-in-de-race-beter-was-dan-in-de-kwalificatie",
+    "type": "video",
+    "title": "Waarom Verstappens auto in de race beter was dan in de kwalificatie",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-24T01:34:44+02:00",
+    "updated_at": "2023-07-24T01:35:20+02:00",
+    "media_id": "wd1xrqjaa4i0",
+    "duration": "1:40",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273630/waarom-verstappens-auto-in-de-race-beter-was-dan-in-de-kwalificatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273629,
     "slug": "net-geen-regeringsmeerderheid-voor-grootste-rechtse-partijen-in-spanje",
     "type": "article",
@@ -213,7 +259,7 @@
     "title": "Verstappen en Red Bull schrijven historie: 'Dagen als deze zijn zeldzaam'",
     "subtitle": "NU+",
     "published_at": "2023-07-23T20:00:09+02:00",
-    "updated_at": "2023-07-23T20:46:02+02:00",
+    "updated_at": "2023-07-24T01:36:40+02:00",
     "media_id": "fs1xwh1adzu0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6273605/femke-bol-loopt-op-droomlocatie-naar-derde-tijd-ooit-dit-stadion-is-echt-bizar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273604,
-    "slug": "vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-nu-rustig-zijn",
-    "type": "article",
-    "title": "Vollering grapt na ritzege en gele trui Kopecky in Tour: 'België kan nu rustig zijn'",
-    "subtitle": null,
-    "published_at": "2023-07-23T17:27:17+02:00",
-    "updated_at": "2023-07-23T17:40:49+02:00",
-    "media_id": "szcxx0ca6fx3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6273604/vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-nu-rustig-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273603,
-    "slug": "verstappen-ook-in-hongarije-oppermachtig-had-eindelijk-een-heel-goede-start",
-    "type": "article",
-    "title": "Verstappen ook in Hongarije oppermachtig: 'Had eindelijk een heel goede start'",
-    "subtitle": null,
-    "published_at": "2023-07-23T17:06:22+02:00",
-    "updated_at": "2023-07-23T17:27:27+02:00",
-    "media_id": "ze5x0dxam5yf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273603/verstappen-ook-in-hongarije-oppermachtig-had-eindelijk-een-heel-goede-start.html",
     "open_new_window": false,
     "partner": null
   }
