@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273547,
+    "slug": "hunkeren-naar-een-biertje-zo-werkt-een-verslaving",
+    "type": "video",
+    "title": "Hunkeren naar een biertje: zo werkt een verslaving",
+    "subtitle": "Video",
+    "published_at": "2023-07-23T07:23:12+02:00",
+    "updated_at": "2023-07-23T07:23:13+02:00",
+    "media_id": "jszx9h5awszi",
+    "duration": "11:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273547/hunkeren-naar-een-biertje-zo-werkt-een-verslaving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273545,
     "slug": "weerbericht-grijze-en-regenachtige-dag-maar-in-de-middag-droge-perioden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6273530/toeristen-ontvluchten-het-griekse-rhodos-vanwege-hevige-bosbranden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273527,
-    "slug": "duizenden-mensen-op-grieks-eiland-rhodos-geevacueerd-vanwege-bosbranden",
-    "type": "article",
-    "title": "Duizenden mensen op Grieks eiland Rhodos geëvacueerd vanwege bosbranden",
-    "subtitle": null,
-    "published_at": "2023-07-22T18:30:11+02:00",
-    "updated_at": "2023-07-22T22:00:28+02:00",
-    "media_id": "69cx1oua1mpb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6273527/duizenden-mensen-op-grieks-eiland-rhodos-geevacueerd-vanwege-bosbranden.html",
     "open_new_window": false,
     "partner": null
   }
