@@ -1,5 +1,74 @@
 [
   {
+    "id": 6273587,
+    "slug": "weekweerbericht-de-gemiddeld-warmste-periode-van-het-jaar-valt-nu-vies-tegen",
+    "type": "article",
+    "title": "Weekweerbericht: De gemiddeld warmste periode van het jaar valt nu vies tegen",
+    "subtitle": null,
+    "published_at": "2023-07-23T15:15:31+02:00",
+    "updated_at": "2023-07-23T15:15:32+02:00",
+    "media_id": "tdxxhhzaxtyb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273587/weekweerbericht-de-gemiddeld-warmste-periode-van-het-jaar-valt-nu-vies-tegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273595,
+    "slug": "vlaamse-journalist-en-nieuwslezer-martine-tanghe-67-overleden",
+    "type": "article",
+    "title": "Vlaamse journalist en nieuwslezer Martine Tanghe (67) overleden",
+    "subtitle": null,
+    "published_at": "2023-07-23T15:09:54+02:00",
+    "updated_at": "2023-07-23T15:11:15+02:00",
+    "media_id": "iq6xi29akw67",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6273595/vlaamse-journalist-en-nieuwslezer-martine-tanghe-67-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273593,
+    "slug": "nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut",
+    "type": "article",
+    "title": "Nederlandse transgender vrouw Van Leuven verliest bij World Matchplay-debuut",
+    "subtitle": null,
+    "published_at": "2023-07-23T15:05:05+02:00",
+    "updated_at": "2023-07-23T15:05:06+02:00",
+    "media_id": "ymexxtwaqzzk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6273593/nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273592,
     "slug": "bonje-met-de-buren-na-vijf-jaar-weer-op-tv-natasja-froger-terug-als-presentator",
     "type": "article",
@@ -47,13 +116,13 @@
   },
   {
     "id": 6273588,
-    "slug": "coureurs-bereiden-zich-voor-op-gp-hongarije",
+    "slug": "verstappen-na-sterke-start-comfortabel-aan-de-leiding-in-boedapest",
     "type": "article",
-    "title": "Coureurs bereiden zich voor op GP Hongarije",
+    "title": "Verstappen na sterke start comfortabel aan de leiding in Boedapest",
     "subtitle": "Liveblog",
     "published_at": "2023-07-23T14:14:11+02:00",
-    "updated_at": "2023-07-23T14:44:33+02:00",
-    "media_id": "pikxdela2pql",
+    "updated_at": "2023-07-23T15:11:33+02:00",
+    "media_id": "g2sxebia32a8",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273588/coureurs-bereiden-zich-voor-op-gp-hongarije.html",
+    "url": "/formule-1/6273588/verstappen-na-sterke-start-comfortabel-aan-de-leiding-in-boedapest.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +167,7 @@
     "title": "Nederlandse zwemsters kunnen met zesde plaats niet stunten op 4x100 meter vrij",
     "subtitle": null,
     "published_at": "2023-07-23T14:06:53+02:00",
-    "updated_at": "2023-07-23T14:47:08+02:00",
+    "updated_at": "2023-07-23T15:06:26+02:00",
     "media_id": "96kxt8fa2mef",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Beerensteyn verlaat stadion op krukken, ernst blessure nog onduidelijk",
     "subtitle": null,
     "published_at": "2023-07-23T13:44:52+02:00",
-    "updated_at": "2023-07-23T14:16:46+02:00",
+    "updated_at": "2023-07-23T15:05:18+02:00",
     "media_id": "yf4xn6uaakp8",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "Wind bemoeilijkt blussen bosbranden Rhodos, vluchten naar eiland geschrapt",
     "subtitle": null,
     "published_at": "2023-07-23T11:32:51+02:00",
-    "updated_at": "2023-07-23T13:38:33+02:00",
+    "updated_at": "2023-07-23T14:53:47+02:00",
     "media_id": "k8ixw05awap6",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6273572/wind-bemoeilijkt-blussen-bosbranden-rhodos-vluchten-naar-eiland-geschrapt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273571,
-    "slug": "timelapse-toont-enorme-zandstorm-die-over-mexicaanse-stad-trekt",
-    "type": "video",
-    "title": "Timelapse toont enorme zandstorm die over Mexicaanse stad trekt",
-    "subtitle": "Video",
-    "published_at": "2023-07-23T11:28:53+02:00",
-    "updated_at": "2023-07-23T11:33:46+02:00",
-    "media_id": "apfx7ywa7cve",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273571/timelapse-toont-enorme-zandstorm-die-over-mexicaanse-stad-trekt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273541,
-    "slug": "oranje-wint-dankzij-van-der-gragt-van-portugal-en-kan-achtste-finales-wk-ruiken",
-    "type": "article",
-    "title": "Oranje wint dankzij Van der Gragt van Portugal en kan achtste finales WK ruiken",
-    "subtitle": null,
-    "published_at": "2023-07-23T11:24:42+02:00",
-    "updated_at": "2023-07-23T12:52:42+02:00",
-    "media_id": "hb2xw1xa36dv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6273541/oranje-wint-dankzij-van-der-gragt-van-portugal-en-kan-achtste-finales-wk-ruiken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273568,
-    "slug": "vooruitblik-gp-hongarije-start-bepalend-voor-kansen-hamilton-tegen-verstappen",
-    "type": "article",
-    "title": "Vooruitblik GP Hongarije: Start bepalend voor kansen Hamilton tegen Verstappen",
-    "subtitle": null,
-    "published_at": "2023-07-23T11:22:11+02:00",
-    "updated_at": "2023-07-23T13:48:23+02:00",
-    "media_id": "u1cxlacaakbq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273568/vooruitblik-gp-hongarije-start-bepalend-voor-kansen-hamilton-tegen-verstappen.html",
     "open_new_window": false,
     "partner": null
   }
