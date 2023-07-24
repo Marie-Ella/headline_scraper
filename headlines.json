@@ -75,7 +75,7 @@
     "title": "Weerbericht: Regenachtige en koele dag, voorlopig geen zicht op zomerweer",
     "subtitle": null,
     "published_at": "2023-07-24T06:09:52+02:00",
-    "updated_at": "2023-07-24T06:09:53+02:00",
+    "updated_at": "2023-07-24T06:42:22+02:00",
     "media_id": "bvpxu29ap27k",
     "duration": null,
     "canonical_section": {
@@ -92,13 +92,36 @@
     "partner": null
   },
   {
+    "id": 6273626,
+    "slug": "jumbo-visma-verdient-weer-het-meeste-geld-in-tour-maar-minder-dan-vorig-jaar",
+    "type": "article",
+    "title": "Jumbo-Visma verdient weer het meeste geld in Tour, maar minder dan vorig jaar",
+    "subtitle": null,
+    "published_at": "2023-07-24T06:08:50+02:00",
+    "updated_at": "2023-07-24T06:34:21+02:00",
+    "media_id": "m85xgb2a361t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6273626/jumbo-visma-verdient-weer-het-meeste-geld-in-tour-maar-minder-dan-vorig-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273633,
     "slug": "ook-evacuaties-op-griekse-eilanden-corfu-en-evia-vanwege-bosbranden",
     "type": "article",
     "title": "Ook evacuaties op Griekse eilanden Corfu en Evia vanwege bosbranden",
     "subtitle": null,
     "published_at": "2023-07-24T05:45:55+02:00",
-    "updated_at": "2023-07-24T05:45:56+02:00",
+    "updated_at": "2023-07-24T06:48:49+02:00",
     "media_id": "u9lxknqa9me7",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Rusland meldt droneaanvallen op kantoorgebouwen in Moskou",
     "subtitle": null,
     "published_at": "2023-07-24T05:24:34+02:00",
-    "updated_at": "2023-07-24T05:24:35+02:00",
+    "updated_at": "2023-07-24T06:33:55+02:00",
     "media_id": "z1nx5w3at6k0",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6273631,
-    "slug": "kritische-verstappen-streeft-naar-perfectie-met-chagrijn",
+    "slug": "kritische-verstappen-streeft-met-chagrijn-naar-perfectie",
     "type": "audio",
-    "title": "'Kritische Verstappen streeft naar perfectie met chagrijn'",
+    "title": "'Kritische Verstappen streeft met chagrijn naar perfectie'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-07-24T01:40:06+02:00",
-    "updated_at": "2023-07-24T06:15:23+02:00",
+    "updated_at": "2023-07-24T06:40:43+02:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273631/kritische-verstappen-streeft-naar-perfectie-met-chagrijn.html",
+    "url": "/formule-1/6273631/kritische-verstappen-streeft-met-chagrijn-naar-perfectie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Burna Boy stelt fans wéér op de proef: show in GelreDome begint twee uur te laat",
     "subtitle": null,
     "published_at": "2023-07-23T22:46:49+02:00",
-    "updated_at": "2023-07-23T23:38:04+02:00",
+    "updated_at": "2023-07-24T06:43:48+02:00",
     "media_id": "0c7x8gda36l6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6273618/van-bommel-verovert-na-beker-en-landstitel-ook-belgische-supercup-met-antwerp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273613,
-    "slug": "verstappen-en-red-bull-schrijven-historie-dagen-als-deze-zijn-zeldzaam",
-    "type": "article",
-    "title": "Verstappen en Red Bull schrijven historie: 'Dagen als deze zijn zeldzaam'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-23T20:00:09+02:00",
-    "updated_at": "2023-07-24T01:36:40+02:00",
-    "media_id": "fs1xwh1adzu0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273613/verstappen-en-red-bull-schrijven-historie-dagen-als-deze-zijn-zeldzaam.html",
     "open_new_window": false,
     "partner": null
   }
