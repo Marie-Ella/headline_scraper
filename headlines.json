@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273364,
+    "slug": "waarom-vrouwen-eerder-overlijden-door-extreme-hitte",
+    "type": "video",
+    "title": "Waarom vrouwen eerder overlijden door extreme hitte",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-24T06:29:25+02:00",
+    "updated_at": "2023-07-24T06:29:26+02:00",
+    "media_id": "5x7x4rya3t8z",
+    "duration": "1:35",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6273364/waarom-vrouwen-eerder-overlijden-door-extreme-hitte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273635,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-07-24T06:17:09+02:00",
-    "updated_at": "2023-07-24T06:17:10+02:00",
+    "updated_at": "2023-07-24T06:22:05+02:00",
     "media_id": "ngsxpv6ahbiv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6273613/verstappen-en-red-bull-schrijven-historie-dagen-als-deze-zijn-zeldzaam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273616,
-    "slug": "hamilton-baalt-van-openingsfase-kon-de-top-drie-niet-bijhouden",
-    "type": "article",
-    "title": "Hamilton baalt van openingsfase: 'Kon de top drie niet bijhouden'",
-    "subtitle": null,
-    "published_at": "2023-07-23T19:49:03+02:00",
-    "updated_at": "2023-07-23T20:30:56+02:00",
-    "media_id": "wcvx1b2ahvpc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273616/hamilton-baalt-van-openingsfase-kon-de-top-drie-niet-bijhouden.html",
     "open_new_window": false,
     "partner": null
   }
