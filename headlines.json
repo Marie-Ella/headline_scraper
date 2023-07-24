@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273722,
+    "slug": "spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval",
+    "type": "video",
+    "title": "Spaanse politie arresteert mensensmokkelaars tijdens inval",
+    "subtitle": "Video",
+    "published_at": "2023-07-24T16:41:57+02:00",
+    "updated_at": "2023-07-24T16:41:59+02:00",
+    "media_id": "0mux3wda8qvr",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273722/spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273717,
+    "slug": "snackbars-willen-wel-minder-wegwerpplastic-maar-hergebruik-lukt-nog-niet",
+    "type": "article",
+    "title": "Snackbars willen wel minder wegwerpplastic, maar hergebruik lukt nog niet",
+    "subtitle": null,
+    "published_at": "2023-07-24T16:32:21+02:00",
+    "updated_at": "2023-07-24T16:32:23+02:00",
+    "media_id": "hlsxtzoa4dv0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273717/snackbars-willen-wel-minder-wegwerpplastic-maar-hergebruik-lukt-nog-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273718,
     "slug": "meeste-statiegeldmachines-doen-het-weer-na-cyberaanval",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6273183/woondrama-britse-royals-charles-moet-huur-betalen-andrew-wil-niet-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273689,
-    "slug": "duitsland-maakt-indruk-en-bezorgt-marokko-wk-debuut-om-snel-te-vergeten",
-    "type": "article",
-    "title": "Duitsland maakt indruk en bezorgt Marokko WK-debuut om snel te vergeten",
-    "subtitle": null,
-    "published_at": "2023-07-24T12:29:48+02:00",
-    "updated_at": "2023-07-24T12:35:50+02:00",
-    "media_id": "22sxualan9ij",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6273689/duitsland-maakt-indruk-en-bezorgt-marokko-wk-debuut-om-snel-te-vergeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273682,
-    "slug": "psv-begint-jacht-op-champions-league-ticket-met-tweeluik-tegen-sturm-graz",
-    "type": "article",
-    "title": "PSV begint jacht op Champions League-ticket met tweeluik tegen Sturm Graz",
-    "subtitle": null,
-    "published_at": "2023-07-24T12:16:11+02:00",
-    "updated_at": "2023-07-24T12:34:03+02:00",
-    "media_id": "luyxv9ta4wmi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273682/psv-begint-jacht-op-champions-league-ticket-met-tweeluik-tegen-sturm-graz.html",
     "open_new_window": false,
     "partner": null
   }
