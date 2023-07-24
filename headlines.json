@@ -1,5 +1,97 @@
 [
   {
+    "id": 6273742,
+    "slug": "beelden-vanuit-iss-tonen-omvang-griekse-bosbranden",
+    "type": "video",
+    "title": "Beelden vanuit ISS tonen omvang Griekse bosbranden",
+    "subtitle": "Video",
+    "published_at": "2023-07-24T19:06:48+02:00",
+    "updated_at": "2023-07-24T19:16:54+02:00",
+    "media_id": "fl1xyrraxdvi",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6273742/beelden-vanuit-iss-tonen-omvang-griekse-bosbranden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273713,
+    "slug": "politie-komt-per-toeval-man-op-het-spoor-die-voor-vier-ton-mensen-oplichtte",
+    "type": "article",
+    "title": "Politie komt per toeval man op het spoor die voor vier ton mensen oplichtte",
+    "subtitle": null,
+    "published_at": "2023-07-24T19:06:17+02:00",
+    "updated_at": "2023-07-24T19:06:19+02:00",
+    "media_id": "0y0xreqakmbw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273713/politie-komt-per-toeval-man-op-het-spoor-die-voor-vier-ton-mensen-oplichtte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273738,
+    "slug": "engels-voetbalicoon-en-million-pound-man-trevor-francis-69-overleden",
+    "type": "article",
+    "title": "Engels voetbalicoon en 'million pound man' Trevor Francis (69) overleden",
+    "subtitle": null,
+    "published_at": "2023-07-24T19:00:46+02:00",
+    "updated_at": "2023-07-24T19:07:12+02:00",
+    "media_id": "ah2xjp0aisr1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273738/engels-voetbalicoon-en-million-pound-man-trevor-francis-69-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273739,
+    "slug": "denk-fractievoorzitter-farid-azarkan-stapt-uit-landelijke-politiek",
+    "type": "article",
+    "title": "DENK-fractievoorzitter Farid Azarkan stapt uit landelijke politiek",
+    "subtitle": null,
+    "published_at": "2023-07-24T18:59:20+02:00",
+    "updated_at": "2023-07-24T19:05:23+02:00",
+    "media_id": "v66xlkza1a1u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6273739/denk-fractievoorzitter-farid-azarkan-stapt-uit-landelijke-politiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273736,
     "slug": "reisadvies-voor-drie-griekse-eilanden-aangescherpt-vanwege-hevige-bosbranden",
     "type": "article",
@@ -52,7 +144,7 @@
     "title": "Kijkcijfers achter slot en grendel: vanaf augustus zijn ze pas na zes dagen bekend",
     "subtitle": null,
     "published_at": "2023-07-24T18:00:16+02:00",
-    "updated_at": "2023-07-24T18:05:40+02:00",
+    "updated_at": "2023-07-24T18:59:52+02:00",
     "media_id": "m1mx5a6aqfyl",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Van Vleuten ziet ploeggenoot Lippert winnen in verraderlijke finale van Tour-rit",
     "subtitle": null,
     "published_at": "2023-07-24T17:44:43+02:00",
-    "updated_at": "2023-07-24T18:32:32+02:00",
+    "updated_at": "2023-07-24T19:10:48+02:00",
     "media_id": "iytx49dalaxo",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Kamminga sluit 'rotjaar' af met WK-zilver: 'Hij heeft echt heel diep gezeten'",
     "subtitle": null,
     "published_at": "2023-07-24T17:28:37+02:00",
-    "updated_at": "2023-07-24T18:35:11+02:00",
+    "updated_at": "2023-07-24T19:15:47+02:00",
     "media_id": "413x23dav1dt",
     "duration": null,
     "canonical_section": {
@@ -282,7 +374,7 @@
     "title": "Politie neemt 25 verwaarloosde labradors in beslag bij hondenfokker in Overijssel",
     "subtitle": null,
     "published_at": "2023-07-24T15:47:15+02:00",
-    "updated_at": "2023-07-24T16:18:21+02:00",
+    "updated_at": "2023-07-24T19:00:11+02:00",
     "media_id": "slixviyagb6e",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/videos/6273709/ravage-nadat-vliegtuigje-op-dak-van-amerikaanse-woning-crasht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273657,
-    "slug": "israelisch-parlement-stemt-in-met-omstreden-wet-die-macht-rechters-beperkt",
-    "type": "article",
-    "title": "Israëlisch parlement stemt in met omstreden wet die macht rechters beperkt",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:53:17+02:00",
-    "updated_at": "2023-07-24T18:29:16+02:00",
-    "media_id": "8w0xkx2amnpa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6273657/israelisch-parlement-stemt-in-met-omstreden-wet-die-macht-rechters-beperkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273705,
-    "slug": "journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden",
-    "type": "article",
-    "title": "Journalist en gezicht van BBC News George Alagiah (67) overleden",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:44:10+02:00",
-    "updated_at": "2023-07-24T14:44:12+02:00",
-    "media_id": "edrxmj6arbrw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6273705/journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273699,
-    "slug": "sterrenstelsel-zonder-donkere-materie-zet-onze-kennis-over-de-ruimte-op-zn-kop",
-    "type": "article",
-    "title": "Sterrenstelsel zonder donkere materie zet onze kennis over de ruimte op z'n kop",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:35:03+02:00",
-    "updated_at": "2023-07-24T18:02:23+02:00",
-    "media_id": "rn0xl1zayjvb",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6273699/sterrenstelsel-zonder-donkere-materie-zet-onze-kennis-over-de-ruimte-op-zn-kop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273703,
-    "slug": "spotify-wordt-voor-het-eerst-duurder-1-tot-3-euro-per-maand-erbij",
-    "type": "article",
-    "title": "Spotify wordt voor het eerst duurder: 1 tot 3 euro per maand erbij",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:26:29+02:00",
-    "updated_at": "2023-07-24T18:43:07+02:00",
-    "media_id": "vv1x3kraf6ap",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6273703/spotify-wordt-voor-het-eerst-duurder-1-tot-3-euro-per-maand-erbij.html",
     "open_new_window": false,
     "partner": null
   }
