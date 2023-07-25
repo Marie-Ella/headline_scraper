@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273858,
+    "slug": "klm-en-andere-vliegers-vechten-krimp-van-schiphol-nog-eens-aan",
+    "type": "article",
+    "title": "KLM en andere vliegers vechten krimp van Schiphol nog eens aan",
+    "subtitle": null,
+    "published_at": "2023-07-25T15:47:06+02:00",
+    "updated_at": "2023-07-25T15:47:19+02:00",
+    "media_id": "2orx77yaffth",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273858/klm-en-andere-vliegers-vechten-krimp-van-schiphol-nog-eens-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273850,
     "slug": "unilever-verdedigt-activiteiten-in-rusland-dit-is-de-minst-slechte-optie",
     "type": "article",
     "title": "Unilever verdedigt activiteiten in Rusland: 'Dit is de minst slechte optie'",
     "subtitle": null,
     "published_at": "2023-07-25T15:30:46+02:00",
-    "updated_at": "2023-07-25T15:30:47+02:00",
+    "updated_at": "2023-07-25T15:33:46+02:00",
     "media_id": "7hzxcxmat6ws",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Renteverhogingen ECB bereiken doel: lenen is duur en onaantrekkelijk",
     "subtitle": null,
     "published_at": "2023-07-25T14:43:03+02:00",
-    "updated_at": "2023-07-25T14:49:15+02:00",
+    "updated_at": "2023-07-25T15:38:45+02:00",
     "media_id": "s3hx494a3oi6",
     "duration": null,
     "canonical_section": {
@@ -369,13 +392,13 @@
   },
   {
     "id": 6273821,
-    "slug": "peloton-weer-compleet-wiebes-tempert-verwachtingen-in-vlakke-tour-rit",
+    "slug": "peloton-weer-compleet-wiebes-en-vos-temperen-verwachtingen-in-vlakke-tour-rit",
     "type": "article",
-    "title": "Peloton weer compleet, Wiebes tempert verwachtingen in vlakke Tour-rit",
+    "title": "Peloton weer compleet, Wiebes en Vos temperen verwachtingen in vlakke Tour-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-07-25T12:52:13+02:00",
-    "updated_at": "2023-07-25T15:27:58+02:00",
-    "media_id": "a2wxce3aleug",
+    "updated_at": "2023-07-25T15:43:48+02:00",
+    "media_id": "k8yx4eian6vs",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6273821/peloton-weer-compleet-wiebes-tempert-verwachtingen-in-vlakke-tour-rit.html",
+    "url": "/wielrennen/6273821/peloton-weer-compleet-wiebes-en-vos-temperen-verwachtingen-in-vlakke-tour-rit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6273814/geblesseerde-beerensteyn-gaat-wk-clash-tegen-vs-hoogstwaarschijnlijk-missen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273813,
-    "slug": "krapte-op-arbeidsmarkt-blijft-met-450000-openstaande-vacatures-zorgelijk",
-    "type": "article",
-    "title": "Krapte op arbeidsmarkt blijft met 450.000 openstaande vacatures zorgelijk",
-    "subtitle": null,
-    "published_at": "2023-07-25T12:23:00+02:00",
-    "updated_at": "2023-07-25T12:23:02+02:00",
-    "media_id": "c8lxhffafdac",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6273813/krapte-op-arbeidsmarkt-blijft-met-450000-openstaande-vacatures-zorgelijk.html",
     "open_new_window": false,
     "partner": null
   }
