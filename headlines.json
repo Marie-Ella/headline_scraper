@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273918,
+    "slug": "kustwacht-brengt-opvarenden-aan-wal-na-dodelijke-scheepsbrand-bij-ameland",
+    "type": "video",
+    "title": "Kustwacht brengt opvarenden aan wal na dodelijke scheepsbrand bij Ameland",
+    "subtitle": "Video",
+    "published_at": "2023-07-26T08:31:03+02:00",
+    "updated_at": "2023-07-26T08:31:13+02:00",
+    "media_id": "9g0xkygatj0f",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273918/kustwacht-brengt-opvarenden-aan-wal-na-dodelijke-scheepsbrand-bij-ameland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273915,
     "slug": "techreuzen-alphabet-en-microsoft-lopen-binnen-door-hun-clouddiensten",
     "type": "article",
     "title": "Techreuzen Alphabet en Microsoft lopen binnen door hun clouddiensten",
     "subtitle": null,
     "published_at": "2023-07-26T08:17:40+02:00",
-    "updated_at": "2023-07-26T08:17:42+02:00",
+    "updated_at": "2023-07-26T08:23:14+02:00",
     "media_id": "fkjx7poag5ng",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Dode en gewonden bij brand op vrachtschip met bijna 3.000 auto's boven Ameland",
     "subtitle": null,
     "published_at": "2023-07-26T05:15:55+02:00",
-    "updated_at": "2023-07-26T08:08:22+02:00",
+    "updated_at": "2023-07-26T08:31:15+02:00",
     "media_id": "ad6xmxpa8g3q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6273894/vechtende-zeeleeuwen-verjagen-toeristen-van-strandje-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273893,
-    "slug": "eindhoven-past-oorlogsmonument-met-namen-van-nsbers-en-ssers-aan",
-    "type": "article",
-    "title": "Eindhoven past oorlogsmonument met namen van NSB'ers en SS'ers aan",
-    "subtitle": null,
-    "published_at": "2023-07-25T20:29:13+02:00",
-    "updated_at": "2023-07-25T20:43:41+02:00",
-    "media_id": "144xsy4alqd7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273893/eindhoven-past-oorlogsmonument-met-namen-van-nsbers-en-ssers-aan.html",
     "open_new_window": false,
     "partner": null
   }
