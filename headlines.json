@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274001,
+    "slug": "1500-jaar-oude-boeddhatempel-afgebrand-in-china",
+    "type": "video",
+    "title": "1.500 jaar oude boeddhatempel afgebrand in China",
+    "subtitle": "Video",
+    "published_at": "2023-07-26T16:25:06+02:00",
+    "updated_at": "2023-07-26T16:25:07+02:00",
+    "media_id": "h7cxffhak4y5",
+    "duration": "0:27",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274001/1500-jaar-oude-boeddhatempel-afgebrand-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273784,
     "slug": "kevin-spacey-door-jury-niet-schuldig-bevonden-aan-seksueel-misbruik",
     "type": "article",
     "title": "Kevin Spacey door jury niet schuldig bevonden aan seksueel misbruik",
     "subtitle": null,
     "published_at": "2023-07-26T16:09:08+02:00",
-    "updated_at": "2023-07-26T16:09:53+02:00",
+    "updated_at": "2023-07-26T16:26:33+02:00",
     "media_id": "kxoxn7na3x1w",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Twitter nam account @X over van vorige eigenaar zonder ervoor te betalen",
     "subtitle": null,
     "published_at": "2023-07-26T15:36:34+02:00",
-    "updated_at": "2023-07-26T15:36:37+02:00",
+    "updated_at": "2023-07-26T16:28:12+02:00",
     "media_id": "soqx1xpaxx3o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6273967/inflatie-of-niet-dure-tassen-en-juwelen-blijven-populair.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273965,
-    "slug": "scheepsbrand-bij-ameland-kan-nog-dagen-duren-gewonden-niet-in-levensgevaar",
-    "type": "article",
-    "title": "Scheepsbrand bij Ameland kan nog dagen duren, gewonden niet in levensgevaar",
-    "subtitle": null,
-    "published_at": "2023-07-26T12:45:20+02:00",
-    "updated_at": "2023-07-26T14:16:39+02:00",
-    "media_id": "7cqx4xgar99y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273965/scheepsbrand-bij-ameland-kan-nog-dagen-duren-gewonden-niet-in-levensgevaar.html",
     "open_new_window": false,
     "partner": null
   }
