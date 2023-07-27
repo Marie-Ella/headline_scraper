@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274079,
+    "slug": "sinead-oconnor-maakte-een-hit-van-prince-nummer-maar-vrienden-werden-ze-niet",
+    "type": "article",
+    "title": "Sinéad O'Connor maakte een hit van Prince-nummer, maar vrienden werden ze niet",
+    "subtitle": "NU+",
+    "published_at": "2023-07-27T12:44:56+02:00",
+    "updated_at": "2023-07-27T12:44:57+02:00",
+    "media_id": "s1oxq85ajzd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6274079/sinead-oconnor-maakte-een-hit-van-prince-nummer-maar-vrienden-werden-ze-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274112,
+    "slug": "eu-onderzoekt-microsoft-vanwege-bundelen-teams-en-office",
+    "type": "article",
+    "title": "EU onderzoekt Microsoft vanwege bundelen Teams en Office",
+    "subtitle": null,
+    "published_at": "2023-07-27T12:37:53+02:00",
+    "updated_at": "2023-07-27T12:37:55+02:00",
+    "media_id": "copxordaa9cq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6274112/eu-onderzoekt-microsoft-vanwege-bundelen-teams-en-office.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274113,
     "slug": "herten-schuilen-samen-met-japanners-voor-regen",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Ook KitKat-maker Nestlé profiteert van prijsverhogingen",
     "subtitle": null,
     "published_at": "2023-07-27T11:47:30+02:00",
-    "updated_at": "2023-07-27T11:47:31+02:00",
+    "updated_at": "2023-07-27T12:31:24+02:00",
     "media_id": "28fxg2rahcka",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Storing bij Slack opgelost, berichten komen weer aan",
     "subtitle": null,
     "published_at": "2023-07-27T11:47:17+02:00",
-    "updated_at": "2023-07-27T12:28:06+02:00",
+    "updated_at": "2023-07-27T12:28:54+02:00",
     "media_id": "0vixvg1al106",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6274078/vermeende-nieuwe-vriend-van-ariana-grande-vraagt-scheiding-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274073,
-    "slug": "oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-verdediging-te-breken",
-    "type": "article",
-    "title": "Oekraïne zet hoofdaanval in en lijkt door eerste Russische verdediging te breken",
-    "subtitle": null,
-    "published_at": "2023-07-27T09:02:54+02:00",
-    "updated_at": "2023-07-27T12:19:51+02:00",
-    "media_id": "ihkxkleal0qg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6274073/oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-verdediging-te-breken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274077,
-    "slug": "lagere-prijzen-voor-olie-en-gas-doen-shell-pijn",
-    "type": "article",
-    "title": "Lagere prijzen voor olie en gas doen Shell pijn",
-    "subtitle": null,
-    "published_at": "2023-07-27T09:02:38+02:00",
-    "updated_at": "2023-07-27T11:59:12+02:00",
-    "media_id": "f9axefsayjko",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274077/lagere-prijzen-voor-olie-en-gas-doen-shell-pijn.html",
     "open_new_window": false,
     "partner": null
   }
