@@ -1,24 +1,70 @@
 [
   {
+    "id": 6274175,
+    "slug": "marcel-keizer-volgt-wereldsterren-en-wordt-trainer-in-saoedi-arabie",
+    "type": "article",
+    "title": "Marcel Keizer volgt wereldsterren en wordt trainer in Saoedi-Arabië",
+    "subtitle": null,
+    "published_at": "2023-07-27T21:32:21+02:00",
+    "updated_at": "2023-07-27T21:32:23+02:00",
+    "media_id": "xuox1q8a7bdd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274175/marcel-keizer-volgt-wereldsterren-en-wordt-trainer-in-saoedi-arabie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274176,
+    "slug": "ledematen-in-luikse-koelkast-blijken-van-74-jarige-vrouw-zoon-opgepakt",
+    "type": "article",
+    "title": "Ledematen in Luikse koelkast blijken van 74-jarige vrouw, zoon opgepakt",
+    "subtitle": null,
+    "published_at": "2023-07-27T21:32:00+02:00",
+    "updated_at": "2023-07-27T21:35:08+02:00",
+    "media_id": "yrxxpkfaygdc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6274176/ledematen-in-luikse-koelkast-blijken-van-74-jarige-vrouw-zoon-opgepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274174,
     "slug": "drie-walvissen-springen-synchroon-uit-het-water-bij-cape-cod",
     "type": "video",
     "title": "Drie walvissen springen synchroon uit het water bij Cape Cod",
     "subtitle": "Video",
     "published_at": "2023-07-27T20:58:37+02:00",
-    "updated_at": "2023-07-27T20:58:38+02:00",
+    "updated_at": "2023-07-27T21:41:01+02:00",
     "media_id": "hrrxtgtad3ee",
     "duration": "0:37",
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Algemeen",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6274174/drie-walvissen-springen-synchroon-uit-het-water-bij-cape-cod.html",
+    "url": "/algemeen/6274174/drie-walvissen-springen-synchroon-uit-het-water-bij-cape-cod.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Feyenoord komt bij debuut Stengs niet verder dan gelijkspel tegen Villarreal",
     "subtitle": null,
     "published_at": "2023-07-27T20:54:44+02:00",
-    "updated_at": "2023-07-27T20:58:08+02:00",
+    "updated_at": "2023-07-27T21:36:15+02:00",
     "media_id": "ri7xh6nado5e",
     "duration": null,
     "canonical_section": {
@@ -162,13 +208,13 @@
   },
   {
     "id": 6274168,
-    "slug": "steijn-zet-twente-op-voorsprong-tegen-hammarby-in-europees-duel",
+    "slug": "fc-twente-verdedigt-minimale-voorsprong-op-slordig-hammarby",
     "type": "article",
-    "title": "Steijn zet Twente op voorsprong tegen Hammarby in Europees duel",
+    "title": "FC Twente verdedigt minimale voorsprong op slordig Hammarby",
     "subtitle": "Liveblog",
     "published_at": "2023-07-27T19:43:26+02:00",
-    "updated_at": "2023-07-27T21:19:06+02:00",
-    "media_id": "thaxmtcalz5n",
+    "updated_at": "2023-07-27T21:38:27+02:00",
+    "media_id": "lq5x7dxaulli",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274168/steijn-zet-twente-op-voorsprong-tegen-hammarby-in-europees-duel.html",
+    "url": "/voetbal/6274168/fc-twente-verdedigt-minimale-voorsprong-op-slordig-hammarby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6273802/expert-paintballgeweer-beste-optie-om-wolf-af-te-schrikken-maar-geen-garanties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274150,
-    "slug": "geen-grote-zorgen-om-gevaar-op-nat-spa-monaco-is-veel-gevaarlijker",
-    "type": "article",
-    "title": "Geen grote zorgen om gevaar op nat Spa: 'Monaco is veel gevaarlijker'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-27T17:30:26+02:00",
-    "updated_at": "2023-07-27T20:18:10+02:00",
-    "media_id": "k46xchsae21r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274150/geen-grote-zorgen-om-gevaar-op-nat-spa-monaco-is-veel-gevaarlijker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274152,
-    "slug": "waarom-een-elektrische-auto-in-bad-moet-als-hij-brandt",
-    "type": "video",
-    "title": "Waarom een elektrische auto in bad moet als hij brandt",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-27T17:21:51+02:00",
-    "updated_at": "2023-07-27T18:44:48+02:00",
-    "media_id": "uaex39wa67fp",
-    "duration": "2:30",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6274152/waarom-een-elektrische-auto-in-bad-moet-als-hij-brandt.html",
     "open_new_window": false,
     "partner": null
   }
