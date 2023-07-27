@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274097,
+    "slug": "demonstranten-gaan-de-straat-op-tegen-staatsgreep-in-niger",
+    "type": "video",
+    "title": "Demonstranten gaan de straat op tegen staatsgreep in Niger",
+    "subtitle": "Video",
+    "published_at": "2023-07-27T10:46:03+02:00",
+    "updated_at": "2023-07-27T10:46:05+02:00",
+    "media_id": "50fxzota1xqz",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274097/demonstranten-gaan-de-straat-op-tegen-staatsgreep-in-niger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274094,
+    "slug": "ministerie-vernietigde-dossiers-over-adoptie-jarenlang-op-verkeerde-manier",
+    "type": "article",
+    "title": "Ministerie vernietigde dossiers over adoptie jarenlang op verkeerde manier",
+    "subtitle": null,
+    "published_at": "2023-07-27T10:45:24+02:00",
+    "updated_at": "2023-07-27T10:45:25+02:00",
+    "media_id": "287x2kwamolx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274094/ministerie-vernietigde-dossiers-over-adoptie-jarenlang-op-verkeerde-manier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274091,
     "slug": "lymfeklierkanker-ontdekt-bij-borussia-monchengladbach-verdediger-lainer",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6274093,
-    "slug": "herman-van-der-zandt-verruilt-na-ruim-20-jaar-nos-voor-kro-ncrv",
+    "slug": "herman-de-schermman-van-der-zandt-verruilt-nos-na-23-jaar-voor-kro-ncrv",
     "type": "article",
-    "title": "Herman van der Zandt verruilt na ruim 20 jaar NOS voor KRO-NCRV",
+    "title": "Herman 'de Schermman' van der Zandt verruilt NOS na 23 jaar voor KRO-NCRV",
     "subtitle": null,
     "published_at": "2023-07-27T10:07:17+02:00",
-    "updated_at": "2023-07-27T10:23:56+02:00",
+    "updated_at": "2023-07-27T10:43:58+02:00",
     "media_id": "5b1x8vdahpkz",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6274093/herman-van-der-zandt-verruilt-na-ruim-20-jaar-nos-voor-kro-ncrv.html",
+    "url": "/media/6274093/herman-de-schermman-van-der-zandt-verruilt-nos-na-23-jaar-voor-kro-ncrv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Omzet stijgt bij Facebook-moederbedrijf, maar met de Metaverse schiet het niet op",
     "subtitle": null,
     "published_at": "2023-07-27T09:47:53+02:00",
-    "updated_at": "2023-07-27T09:47:54+02:00",
+    "updated_at": "2023-07-27T10:47:32+02:00",
     "media_id": "a9txo30ahjsg",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6274066/wat-wil-jij-nog-weten-over-oranje-op-het-wk-voetbal-na-gelijkspel-tegen-de-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274065,
-    "slug": "toestand-van-op-ic-opgenomen-tori-kelly-is-verbeterd-ze-lacht-weer",
-    "type": "article",
-    "title": "Toestand van op ic opgenomen Tori Kelly is verbeterd: 'Ze lacht weer'",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:46:22+02:00",
-    "updated_at": "2023-07-27T08:43:11+02:00",
-    "media_id": "ri6xh55ap5ff",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6274065/toestand-van-op-ic-opgenomen-tori-kelly-is-verbeterd-ze-lacht-weer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274064,
-    "slug": "oranje-haalt-opgelucht-adem-wissel-van-der-gragt-was-uit-voorzorg",
-    "type": "article",
-    "title": "Oranje haalt opgelucht adem: wissel Van der Gragt was uit voorzorg",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:33:45+02:00",
-    "updated_at": "2023-07-27T09:33:29+02:00",
-    "media_id": "mllxxsha0dku",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6274064/oranje-haalt-opgelucht-adem-wissel-van-der-gragt-was-uit-voorzorg.html",
     "open_new_window": false,
     "partner": null
   }
