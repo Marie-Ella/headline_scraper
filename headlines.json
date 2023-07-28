@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274240,
+    "slug": "fc-twente-start-onderzoek-naar-supportersrellen-na-duel-met-hammarby",
+    "type": "article",
+    "title": "FC Twente start onderzoek naar supportersrellen na duel met Hammarby",
+    "subtitle": null,
+    "published_at": "2023-07-28T11:10:28+02:00",
+    "updated_at": "2023-07-28T11:10:30+02:00",
+    "media_id": "vaexpvcasl5b",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6274240/fc-twente-start-onderzoek-naar-supportersrellen-na-duel-met-hammarby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274239,
+    "slug": "fors-minder-verstekelingen-proberen-vanuit-nederlandse-havens-engeland-te-halen",
+    "type": "article",
+    "title": "Fors minder verstekelingen proberen vanuit Nederlandse havens Engeland te halen",
+    "subtitle": null,
+    "published_at": "2023-07-28T11:05:43+02:00",
+    "updated_at": "2023-07-28T11:12:11+02:00",
+    "media_id": "tbexanta82il",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274239/fors-minder-verstekelingen-proberen-vanuit-nederlandse-havens-engeland-te-halen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274235,
     "slug": "griekse-natuurbranden-zwakken-wat-af-maar-gevaar-is-nog-niet-geweken",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6274225,
-    "slug": "gasly-eert-hubert-en-van-t-hoff-op-spa-dit-is-heel-belangrijk-voor-mij",
+    "slug": "gasly-eert-hubert-en-van-t-hoff-rond-gp-heel-belangrijk-voor-mij",
     "type": "article",
-    "title": "Gasly eert Hubert en Van ’t Hoff op Spa: ‘Dit is heel belangrijk voor mij’",
+    "title": "Gasly eert Hubert en Van ’t Hoff rond GP: 'Heel belangrijk voor mij'",
     "subtitle": "NU+",
     "published_at": "2023-07-28T10:43:52+02:00",
-    "updated_at": "2023-07-28T10:43:54+02:00",
+    "updated_at": "2023-07-28T11:15:03+02:00",
     "media_id": "h77xxw4akmx8",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6274225/gasly-eert-hubert-en-van-t-hoff-op-spa-dit-is-heel-belangrijk-voor-mij.html",
+    "url": "/nu-formule-1/6274225/gasly-eert-hubert-en-van-t-hoff-rond-gp-heel-belangrijk-voor-mij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Waterpolosters azen tegen Spanje op eerste WK-goud sinds 1991",
     "subtitle": "Liveblog",
     "published_at": "2023-07-28T10:33:59+02:00",
-    "updated_at": "2023-07-28T10:47:38+02:00",
+    "updated_at": "2023-07-28T10:49:40+02:00",
     "media_id": "je4x1ilac51o",
     "duration": null,
     "canonical_section": {
@@ -185,13 +231,13 @@
   },
   {
     "id": 6274223,
-    "slug": "droomstart-engeland-en-wiegman-tegen-denemarken",
+    "slug": "engeland-van-wiegman-verdedigt-voorsprong-tegen-denemarken",
     "type": "article",
-    "title": "Droomstart Engeland en Wiegman tegen Denemarken",
+    "title": "Engeland van Wiegman verdedigt voorsprong tegen Denemarken",
     "subtitle": "Liveblog",
     "published_at": "2023-07-28T10:00:56+02:00",
-    "updated_at": "2023-07-28T10:41:54+02:00",
-    "media_id": "vnpxwxsaun2h",
+    "updated_at": "2023-07-28T11:06:09+02:00",
+    "media_id": "22cxuvfa8sjg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274223/droomstart-engeland-en-wiegman-tegen-denemarken.html",
+    "url": "/voetbal/6274223/engeland-van-wiegman-verdedigt-voorsprong-tegen-denemarken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +374,7 @@
     "title": "Vrachtschip vervoerde niet 25 maar 498 elektrische auto's, brand woedt minder fel",
     "subtitle": null,
     "published_at": "2023-07-28T08:54:04+02:00",
-    "updated_at": "2023-07-28T10:49:02+02:00",
+    "updated_at": "2023-07-28T10:50:31+02:00",
     "media_id": "aowxclxau4k8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6274201/klm-groeit-ondanks-problemen-bij-transavia-en-cityhopper.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274200,
-    "slug": "negen-te-late-rensters-stonden-voor-dichte-overweg-en-mogen-toch-door-in-tour",
-    "type": "article",
-    "title": "Negen te late rensters stonden voor dichte overweg en mogen tóch door in Tour",
-    "subtitle": null,
-    "published_at": "2023-07-28T08:01:14+02:00",
-    "updated_at": "2023-07-28T10:46:36+02:00",
-    "media_id": "ye1xftgay3r6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274200/negen-te-late-rensters-stonden-voor-dichte-overweg-en-mogen-toch-door-in-tour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274198,
-    "slug": "fc-twente-trainer-oosting-vreesde-even-voor-zijn-gezin-bij-rellen-op-tribunes",
-    "type": "article",
-    "title": "FC Twente-trainer Oosting vreesde even voor zijn gezin bij rellen op tribunes",
-    "subtitle": null,
-    "published_at": "2023-07-28T07:40:13+02:00",
-    "updated_at": "2023-07-28T07:43:02+02:00",
-    "media_id": "d7ixsvpaelb7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274198/fc-twente-trainer-oosting-vreesde-even-voor-zijn-gezin-bij-rellen-op-tribunes.html",
     "open_new_window": false,
     "partner": null
   }
