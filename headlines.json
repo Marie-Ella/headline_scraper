@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274470,
+    "slug": "drie-gewonden-na-schietpartij-op-coolsingel-tijdens-zomercarnaval",
+    "type": "video",
+    "title": "Drie gewonden na schietpartij op Coolsingel tijdens Zomercarnaval",
+    "subtitle": "Video",
+    "published_at": "2023-07-29T23:05:06+02:00",
+    "updated_at": "2023-07-29T23:05:06+02:00",
+    "media_id": "87lx44ua8g9n",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6274470/drie-gewonden-na-schietpartij-op-coolsingel-tijdens-zomercarnaval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274469,
-    "slug": "brandende-vrachtschip-voorlopig-niet-verplaatst-wegens-wind-uit-zuidwesten",
+    "slug": "brandend-vrachtschip-wegens-wind-uit-zuidwesten-voorlopig-niet-verplaatst",
     "type": "article",
-    "title": "Brandende vrachtschip voorlopig niet verplaatst wegens wind uit zuidwesten",
+    "title": "Brandend vrachtschip wegens wind uit zuidwesten voorlopig niet verplaatst",
     "subtitle": null,
     "published_at": "2023-07-29T22:45:40+02:00",
-    "updated_at": "2023-07-29T22:46:49+02:00",
+    "updated_at": "2023-07-29T23:03:36+02:00",
     "media_id": "2wxxpesallq5",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6274469/brandende-vrachtschip-voorlopig-niet-verplaatst-wegens-wind-uit-zuidwesten.html",
+    "url": "/binnenland-en-buitenland/6274469/brandend-vrachtschip-wegens-wind-uit-zuidwesten-voorlopig-niet-verplaatst.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6274468,
-    "slug": "tweede-schietpartij-in-centrum-rotterdam-tijdens-zomercarnaval",
+    "slug": "tweede-schietpartij-in-centrum-rotterdam-tijdens-zomercarnaval-meerdere-gewonden",
     "type": "article",
-    "title": "Tweede schietpartij in centrum Rotterdam tijdens Zomercarnaval",
+    "title": "Tweede schietpartij in centrum Rotterdam tijdens Zomercarnaval, meerdere gewonden",
     "subtitle": null,
     "published_at": "2023-07-29T22:26:23+02:00",
-    "updated_at": "2023-07-29T22:32:03+02:00",
+    "updated_at": "2023-07-29T23:03:55+02:00",
     "media_id": "nytxgy5ao6nk",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6274468/tweede-schietpartij-in-centrum-rotterdam-tijdens-zomercarnaval.html",
+    "url": "/binnenland/6274468/tweede-schietpartij-in-centrum-rotterdam-tijdens-zomercarnaval-meerdere-gewonden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "FC Twente laat fans ondanks rellen naar Zweden gaan voor duel met Hammarby",
     "subtitle": null,
     "published_at": "2023-07-29T22:14:22+02:00",
-    "updated_at": "2023-07-29T22:46:50+02:00",
+    "updated_at": "2023-07-29T22:58:45+02:00",
     "media_id": "3syxuvbapsex",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6274460,
-    "slug": "zorgen-om-zicht-op-natte-baan-geen-regenraces-meer-zou-zonde-zijn",
+    "slug": "zorgen-om-zicht-op-natte-f1-baan-geen-regenraces-meer-zou-zonde-zijn",
     "type": "article",
-    "title": "Zorgen om zicht op natte baan: 'Geen regenraces meer zou zonde zijn'",
+    "title": "Zorgen om zicht op natte F1-baan: 'Geen regenraces meer zou zonde zijn'",
     "subtitle": "NU+",
     "published_at": "2023-07-29T20:29:20+02:00",
-    "updated_at": "2023-07-29T22:48:15+02:00",
+    "updated_at": "2023-07-29T23:01:35+02:00",
     "media_id": "t3xx16haxtne",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6274460/zorgen-om-zicht-op-natte-baan-geen-regenraces-meer-zou-zonde-zijn.html",
+    "url": "/nu-formule-1/6274460/zorgen-om-zicht-op-natte-f1-baan-geen-regenraces-meer-zou-zonde-zijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6274448/schot-gelost-op-coolsingel-tijdens-rotterdams-zomercarnaval-geen-gewonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274446,
-    "slug": "femke-bol-snelt-naar-persoonlijk-record-op-200-meter-bij-nk-atletiek",
-    "type": "article",
-    "title": "Femke Bol snelt naar persoonlijk record op 200 meter bij NK atletiek",
-    "subtitle": null,
-    "published_at": "2023-07-29T17:32:10+02:00",
-    "updated_at": "2023-07-29T19:47:46+02:00",
-    "media_id": "ke7xii5aimc5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6274446/femke-bol-snelt-naar-persoonlijk-record-op-200-meter-bij-nk-atletiek.html",
     "open_new_window": false,
     "partner": null
   }
