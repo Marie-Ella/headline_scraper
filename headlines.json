@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274562,
+    "slug": "paris-hilton-maakt-uitglijder-op-podium-van-tomorrowland",
+    "type": "video",
+    "title": "Paris Hilton maakt uitglijder op podium van Tomorrowland",
+    "subtitle": "Video",
+    "published_at": "2023-07-30T22:46:54+02:00",
+    "updated_at": "2023-07-30T22:46:56+02:00",
+    "media_id": "fzmx24dakysb",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274562/paris-hilton-maakt-uitglijder-op-podium-van-tomorrowland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274559,
     "slug": "engineer-vindt-verstappen-veel-te-hard-gaan",
     "type": "audio",
@@ -29,7 +52,7 @@
     "title": "Broersen kroont zich jaar na geboorte kind tot Nederlands kampioen meerkamp",
     "subtitle": null,
     "published_at": "2023-07-30T21:36:01+02:00",
-    "updated_at": "2023-07-30T21:36:01+02:00",
+    "updated_at": "2023-07-30T22:34:22+02:00",
     "media_id": "dkexbqoajagn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6274272/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274538,
-    "slug": "verstappen-is-ook-vanaf-zesde-startplek-niet-te-stoppen-heb-echt-weer-genoten",
-    "type": "article",
-    "title": "Verstappen is ook vanaf zesde startplek niet te stoppen: 'Heb echt weer genoten'",
-    "subtitle": null,
-    "published_at": "2023-07-30T16:52:08+02:00",
-    "updated_at": "2023-07-30T19:25:02+02:00",
-    "media_id": "aukx20ua5b86",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274538/verstappen-is-ook-vanaf-zesde-startplek-niet-te-stoppen-heb-echt-weer-genoten.html",
     "open_new_window": false,
     "partner": null
   }
