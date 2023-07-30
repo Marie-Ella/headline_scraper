@@ -1,12 +1,58 @@
 [
   {
+    "id": 6274272,
+    "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
+    "type": "article",
+    "title": "Dit was het positieve en vrolijke nieuws van deze week",
+    "subtitle": null,
+    "published_at": "2023-07-30T16:59:51+02:00",
+    "updated_at": "2023-07-30T16:59:52+02:00",
+    "media_id": "k85xg54apeva",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6274272/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274538,
+    "slug": "verstappen-is-ook-vanaf-zesde-startplek-niet-te-stoppen-het-was-weer-genieten",
+    "type": "article",
+    "title": "Verstappen is ook vanaf zesde startplek niet te stoppen: 'Het was weer genieten'",
+    "subtitle": null,
+    "published_at": "2023-07-30T16:52:08+02:00",
+    "updated_at": "2023-07-30T16:58:41+02:00",
+    "media_id": "e79xtsuaihly",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274538/verstappen-is-ook-vanaf-zesde-startplek-niet-te-stoppen-het-was-weer-genieten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274536,
     "slug": "tientallen-doden-door-bomexplosie-bij-politieke-bijeenkomst-in-pakistan",
     "type": "article",
     "title": "Tientallen doden door bomexplosie bij politieke bijeenkomst in Pakistan",
     "subtitle": null,
     "published_at": "2023-07-30T16:34:57+02:00",
-    "updated_at": "2023-07-30T16:41:34+02:00",
+    "updated_at": "2023-07-30T16:57:44+02:00",
     "media_id": "yr3xyptaxaen",
     "duration": null,
     "canonical_section": {
@@ -75,8 +121,8 @@
     "title": "Oppermachtige Verstappen declasseert Pérez en wint in België achtste GP op rij",
     "subtitle": null,
     "published_at": "2023-07-30T16:28:07+02:00",
-    "updated_at": "2023-07-30T16:46:09+02:00",
-    "media_id": "uv6xjc6aahlt",
+    "updated_at": "2023-07-30T16:54:36+02:00",
+    "media_id": "ovmxlbcajtzp",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -98,7 +144,7 @@
     "title": "Femke Bol grijpt verrassend naast Nederlandse titel op 200 meter",
     "subtitle": null,
     "published_at": "2023-07-30T16:25:37+02:00",
-    "updated_at": "2023-07-30T16:34:29+02:00",
+    "updated_at": "2023-07-30T16:56:16+02:00",
     "media_id": "7f6xgu4a72hd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6274519/israel-investeert-miljarden-in-uitbreiding-spoornetwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274514,
-    "slug": "cardi-b-gooit-microfoon-naar-toeschouwer-die-een-drankje-op-haar-gooit",
-    "type": "article",
-    "title": "Cardi B gooit microfoon naar toeschouwer die een drankje op haar gooit",
-    "subtitle": null,
-    "published_at": "2023-07-30T14:14:43+02:00",
-    "updated_at": "2023-07-30T15:44:24+02:00",
-    "media_id": "dpmxpwraf1ib",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6274514/cardi-b-gooit-microfoon-naar-toeschouwer-die-een-drankje-op-haar-gooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274487,
-    "slug": "trouwen-contract-of-gewoon-samenwonen-praat-mee-over-relaties-anno-2023",
-    "type": "article",
-    "title": "Trouwen, contract of 'gewoon' samenwonen? Praat mee over relaties anno 2023",
-    "subtitle": null,
-    "published_at": "2023-07-30T14:08:17+02:00",
-    "updated_at": "2023-07-30T14:08:19+02:00",
-    "media_id": "iwoxv0sal986",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6274487/trouwen-contract-of-gewoon-samenwonen-praat-mee-over-relaties-anno-2023.html",
     "open_new_window": false,
     "partner": null
   }
