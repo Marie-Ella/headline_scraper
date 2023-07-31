@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274698,
+    "slug": "dodelijke-tyfoon-zet-peking-onder-water",
+    "type": "video",
+    "title": "Dodelijke tyfoon zet Peking onder water",
+    "subtitle": "Video",
+    "published_at": "2023-07-31T21:39:31+02:00",
+    "updated_at": "2023-07-31T21:39:33+02:00",
+    "media_id": "0ggxwz8aco4p",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6274698/dodelijke-tyfoon-zet-peking-onder-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274696,
     "slug": "om-meldt-dat-vermoedelijke-schutter-zomercarnaval-26-jarige-man-is",
     "type": "article",
     "title": "OM meldt dat vermoedelijke schutter Zomercarnaval 26-jarige man is",
     "subtitle": null,
     "published_at": "2023-07-31T21:28:30+02:00",
-    "updated_at": "2023-07-31T21:28:32+02:00",
+    "updated_at": "2023-07-31T21:34:00+02:00",
     "media_id": "87lx44ua8g9n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6274671/engelse-voetbalbond-scherpt-regels-aan-direct-geel-voor-arbiter-omsingelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274642,
-    "slug": "telraam-erbij-want-oranje-wil-heel-veel-gaan-scoren-tegen-vietnam",
-    "type": "video",
-    "title": "Telraam erbij, want Oranje wil heel veel gaan scoren tegen Vietnam",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-31T17:04:00+02:00",
-    "updated_at": "2023-07-31T17:04:02+02:00",
-    "media_id": "1e9xxguau420",
-    "duration": "1:58",
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6274642/telraam-erbij-want-oranje-wil-heel-veel-gaan-scoren-tegen-vietnam.html",
     "open_new_window": false,
     "partner": null
   }
