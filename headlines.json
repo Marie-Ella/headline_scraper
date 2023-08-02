@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275002,
+    "slug": "vrachtschip-wordt-naar-verwachting-donderdagochtend-naar-eemshaven-gesleept",
+    "type": "article",
+    "title": "Vrachtschip wordt naar verwachting donderdagochtend naar Eemshaven gesleept",
+    "subtitle": null,
+    "published_at": "2023-08-03T00:30:02+02:00",
+    "updated_at": "2023-08-03T00:30:03+02:00",
+    "media_id": "7o4xs4sa6ri6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275002/vrachtschip-wordt-naar-verwachting-donderdagochtend-naar-eemshaven-gesleept.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275001,
     "slug": "griekspoor-viert-rentree-na-wimbledon-sof-met-zege-in-tweede-ronde-washington",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6274982/gevangene-ontsnapt-tijdens-transport-in-vught-nam-de-benen-na-plaspauze.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274981,
-    "slug": "honderden-haaien-zwemmen-langs-boorplatform-in-vs",
-    "type": "video",
-    "title": "Honderden haaien zwemmen langs boorplatform in VS",
-    "subtitle": "Video",
-    "published_at": "2023-08-02T19:23:46+02:00",
-    "updated_at": "2023-08-02T20:55:29+02:00",
-    "media_id": "r2sx1j7a8iq9",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274981/honderden-haaien-zwemmen-langs-boorplatform-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
