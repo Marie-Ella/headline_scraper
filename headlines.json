@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274861,
+    "slug": "geredde-witte-tijger-verkent-nieuw-verblijf-in-duitsland",
+    "type": "video",
+    "title": "Geredde witte tijger verkent nieuw verblijf in Duitsland",
+    "subtitle": "Video",
+    "published_at": "2023-08-02T06:28:28+02:00",
+    "updated_at": "2023-08-02T06:28:29+02:00",
+    "media_id": "ujfxej8a1j14",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274861/geredde-witte-tijger-verkent-nieuw-verblijf-in-duitsland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274860,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Weerbericht: Regenachtig met kans op stevige onweersbuien in het zuidoosten",
     "subtitle": null,
     "published_at": "2023-08-02T06:11:30+02:00",
-    "updated_at": "2023-08-02T06:11:31+02:00",
+    "updated_at": "2023-08-02T06:25:45+02:00",
     "media_id": "czwx813aneia",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6274818,
-    "slug": "verregende-nederlanders-ontvluchten-het-weer-hele-tour-door-europa-gehad",
+    "slug": "natte-nederlanders-ontvluchten-het-weer-hele-tour-door-europa-gehad",
     "type": "article",
-    "title": "Verregende Nederlanders ontvluchten het weer: 'Hele tour door Europa gehad'",
+    "title": "Natte Nederlanders ontvluchten het weer: 'Hele tour door Europa gehad'",
     "subtitle": "NU+",
     "published_at": "2023-08-02T05:04:11+02:00",
-    "updated_at": "2023-08-02T05:04:12+02:00",
+    "updated_at": "2023-08-02T06:25:03+02:00",
     "media_id": "yi8xloeat9vp",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6274818/verregende-nederlanders-ontvluchten-het-weer-hele-tour-door-europa-gehad.html",
+    "url": "/binnenland/6274818/natte-nederlanders-ontvluchten-het-weer-hele-tour-door-europa-gehad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Donald Trump aangeklaagd voor pogingen om verkiezingsuitslag te beïnvloeden",
     "subtitle": null,
     "published_at": "2023-08-01T23:58:19+02:00",
-    "updated_at": "2023-08-02T06:13:48+02:00",
+    "updated_at": "2023-08-02T06:27:59+02:00",
     "media_id": "35exi00aoouo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-vrouwenvoetbal/6274845/wiegman-vol-lof-over-uitblinker-james-bij-engeland-ze-vliegt-over-het-veld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274846,
-    "slug": "noord-korea-wil-eindelijk-praten-over-amerikaanse-militair-die-grens-overstak",
-    "type": "article",
-    "title": "Noord-Korea wil eindelijk praten over Amerikaanse militair die grens overstak",
-    "subtitle": null,
-    "published_at": "2023-08-01T21:01:05+02:00",
-    "updated_at": "2023-08-01T22:01:08+02:00",
-    "media_id": "07jx20baxfz4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274846/noord-korea-wil-eindelijk-praten-over-amerikaanse-militair-die-grens-overstak.html",
     "open_new_window": false,
     "partner": null
   }
