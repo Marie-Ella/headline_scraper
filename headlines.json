@@ -1,12 +1,58 @@
 [
   {
-    "id": 6274933,
-    "slug": "caicedo-18-herstelde-van-kanker-en-is-nu-de-wk-sensatie-van-colombia",
+    "id": 6275004,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Caicedo (18) herstelde van kanker en is nu de WK-sensatie van Colombia",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-08-03T05:35:21+02:00",
+    "updated_at": "2023-08-03T05:35:22+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6275004/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275003,
+    "slug": "weerbericht-de-dag-begint-nat-en-grijs-maar-later-ruimte-voor-de-zon",
+    "type": "article",
+    "title": "Weerbericht: De dag begint nat en grijs, maar later ruimte voor de zon",
+    "subtitle": null,
+    "published_at": "2023-08-03T05:32:46+02:00",
+    "updated_at": "2023-08-03T05:32:47+02:00",
+    "media_id": "k55xkpwa9leh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275003/weerbericht-de-dag-begint-nat-en-grijs-maar-later-ruimte-voor-de-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274933,
+    "slug": "caicedo-herstelde-van-kanker-en-is-nu-de-ster-bij-wk-sensatie-colombia",
+    "type": "article",
+    "title": "Caicedo herstelde van kanker en is nu de ster bij WK-sensatie Colombia",
     "subtitle": "NU+",
     "published_at": "2023-08-03T05:02:10+02:00",
-    "updated_at": "2023-08-03T05:14:10+02:00",
+    "updated_at": "2023-08-03T05:41:39+02:00",
     "media_id": "digx7usaxk4v",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal-2023/6274933/caicedo-18-herstelde-van-kanker-en-is-nu-de-wk-sensatie-van-colombia.html",
+    "url": "/wk-voetbal-2023/6274933/caicedo-herstelde-van-kanker-en-is-nu-de-ster-bij-wk-sensatie-colombia.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6274975/oekraiense-president-zelenksy-wil-in-de-herfst-een-wereldwijde-vredestop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274984,
-    "slug": "biden-maakt-fietstochtje-met-stoet-aan-beveiliging-achter-zich",
-    "type": "video",
-    "title": "Biden maakt fietstochtje met stoet aan beveiliging achter zich",
-    "subtitle": "Video",
-    "published_at": "2023-08-02T19:55:42+02:00",
-    "updated_at": "2023-08-02T19:55:43+02:00",
-    "media_id": "o1sxmh8axth7",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274984/biden-maakt-fietstochtje-met-stoet-aan-beveiliging-achter-zich.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274979,
-    "slug": "plots-nieuwe-dopinggevallen-in-wielersport-twee-renners-lopen-tegen-de-lamp",
-    "type": "article",
-    "title": "Plots nieuwe dopinggevallen in wielersport: twee renners lopen tegen de lamp",
-    "subtitle": null,
-    "published_at": "2023-08-02T19:50:53+02:00",
-    "updated_at": "2023-08-03T05:05:26+02:00",
-    "media_id": "04ixaq9ar616",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274979/plots-nieuwe-dopinggevallen-in-wielersport-twee-renners-lopen-tegen-de-lamp.html",
     "open_new_window": false,
     "partner": null
   }
