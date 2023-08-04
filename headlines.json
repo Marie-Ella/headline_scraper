@@ -1,5 +1,51 @@
 [
   {
+    "id": 6275298,
+    "slug": "oud-politicus-mona-keijzer-verlaat-cda",
+    "type": "article",
+    "title": "Oud-politicus Mona Keijzer verlaat CDA",
+    "subtitle": null,
+    "published_at": "2023-08-04T20:26:41+02:00",
+    "updated_at": "2023-08-04T20:31:22+02:00",
+    "media_id": "qj4xxxfa3467",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6275298/oud-politicus-mona-keijzer-verlaat-cda.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275297,
+    "slug": "belgie-heeft-ijzersterke-wk-ploeg-zou-bang-zijn-als-ik-nederland-of-frankrijk-was",
+    "type": "article",
+    "title": "België heeft ijzersterke WK-ploeg: 'Zou bang zijn als ik Nederland of Frankrijk was'",
+    "subtitle": null,
+    "published_at": "2023-08-04T20:21:09+02:00",
+    "updated_at": "2023-08-04T20:30:00+02:00",
+    "media_id": "5axxr1iafpcn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6275297/belgie-heeft-ijzersterke-wk-ploeg-zou-bang-zijn-als-ik-nederland-of-frankrijk-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275282,
     "slug": "waarom-ziet-de-pridevlag-er-steeds-anders-uit",
     "type": "article",
@@ -300,13 +346,13 @@
   },
   {
     "id": 6275280,
-    "slug": "feyenoord-krijgt-eerste-grote-kans-in-duel-om-johan-cruijff-schaal",
+    "slug": "feyenoord-iets-dreigender-in-duel-om-johan-cruijff-schaal",
     "type": "article",
-    "title": "Feyenoord krijgt eerste grote kans in duel om Johan Cruijff Schaal",
+    "title": "Feyenoord iets dreigender in duel om Johan Cruijff Schaal",
     "subtitle": "Liveblog",
     "published_at": "2023-08-04T18:23:53+02:00",
-    "updated_at": "2023-08-04T20:12:02+02:00",
-    "media_id": "cs0xyitad1bk",
+    "updated_at": "2023-08-04T20:20:10+02:00",
+    "media_id": "5t1xgoyami1p",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6275280/feyenoord-krijgt-eerste-grote-kans-in-duel-om-johan-cruijff-schaal.html",
+    "url": "/voetbal/6275280/feyenoord-iets-dreigender-in-duel-om-johan-cruijff-schaal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6275265/documentaireserie-over-leven-van-geniale-johan-cruijff-in-de-maak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275264,
-    "slug": "somalische-atlete-loopt-de-100-meter-extreem-langzaam",
-    "type": "video",
-    "title": "Somalische atlete loopt de 100 meter extreem langzaam",
-    "subtitle": "Video",
-    "published_at": "2023-08-04T16:43:11+02:00",
-    "updated_at": "2023-08-04T16:49:22+02:00",
-    "media_id": "zmuxqlaan26r",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275264/somalische-atlete-loopt-de-100-meter-extreem-langzaam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275262,
-    "slug": "recensieoverzicht-haunted-mansion-voelt-als-een-goedkope-haastklus",
-    "type": "article",
-    "title": "Recensieoverzicht Haunted Mansion: 'Voelt als een goedkope haastklus'",
-    "subtitle": null,
-    "published_at": "2023-08-04T16:34:01+02:00",
-    "updated_at": "2023-08-04T16:34:02+02:00",
-    "media_id": "qm5xbkca2xnz",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6275262/recensieoverzicht-haunted-mansion-voelt-als-een-goedkope-haastklus.html",
     "open_new_window": false,
     "partner": null
   }
