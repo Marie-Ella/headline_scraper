@@ -1,13 +1,59 @@
 [
   {
-    "id": 6275209,
-    "slug": "russische-oppositieleider-navalny-krijgt-nog-eens-19-jaar-cel-in-schijnproces",
+    "id": 6275264,
+    "slug": "somalische-atlete-loopt-de-100-meter-extreem-langzaam",
+    "type": "video",
+    "title": "Somalische atlete loopt de 100 meter extreem langzaam",
+    "subtitle": "Video",
+    "published_at": "2023-08-04T16:43:11+02:00",
+    "updated_at": "2023-08-04T16:43:11+02:00",
+    "media_id": "zmuxqlaan26r",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275264/somalische-atlete-loopt-de-100-meter-extreem-langzaam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275262,
+    "slug": "recensieoverzicht-haunted-mansion-voelt-als-een-goedkope-haastklus",
     "type": "article",
-    "title": "Russische oppositieleider Navalny krijgt nog eens 19 jaar cel in schijnproces",
+    "title": "Recensieoverzicht Haunted Mansion: 'Voelt als een goedkope haastklus'",
+    "subtitle": null,
+    "published_at": "2023-08-04T16:34:01+02:00",
+    "updated_at": "2023-08-04T16:34:02+02:00",
+    "media_id": "qm5xbkca2xnz",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6275262/recensieoverzicht-haunted-mansion-voelt-als-een-goedkope-haastklus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275209,
+    "slug": "russische-oppositieleider-navalny-krijgt-nog-eens-negentien-jaar-cel-in-schijnproces",
+    "type": "article",
+    "title": "Russische oppositieleider Navalny krijgt nog eens negentien jaar cel in schijnproces",
     "subtitle": null,
     "published_at": "2023-08-04T16:10:59+02:00",
-    "updated_at": "2023-08-04T16:26:15+02:00",
-    "media_id": "do5xkaxa8q47",
+    "updated_at": "2023-08-04T16:45:54+02:00",
+    "media_id": "oznxj23as8ni",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6275209/russische-oppositieleider-navalny-krijgt-nog-eens-19-jaar-cel-in-schijnproces.html",
+    "url": "/buitenland/6275209/russische-oppositieleider-navalny-krijgt-nog-eens-negentien-jaar-cel-in-schijnproces.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6275210/influencers-bekende-acteurs-en-zangers-praat-mee-over-rolmodellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275207,
-    "slug": "meer-typefoutjes-en-minder-hard-werken-de-werkdip-op-vrijdag-bestaat-echt",
-    "type": "article",
-    "title": "Meer typefoutjes en minder hard werken: de werkdip op vrijdag bestaat écht",
-    "subtitle": null,
-    "published_at": "2023-08-04T12:16:17+02:00",
-    "updated_at": "2023-08-04T15:46:35+02:00",
-    "media_id": "6gxxwpgal5u8",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6275207/meer-typefoutjes-en-minder-hard-werken-de-werkdip-op-vrijdag-bestaat-echt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275186,
-    "slug": "lamprou-keert-na-acht-jaar-terug-bij-jeugdliefde-feyenoord-als-derde-doelman",
-    "type": "article",
-    "title": "Lamprou keert na acht jaar terug bij jeugdliefde Feyenoord als derde doelman",
-    "subtitle": null,
-    "published_at": "2023-08-04T12:04:24+02:00",
-    "updated_at": "2023-08-04T12:14:57+02:00",
-    "media_id": "5tkxgf5ao2j0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275186/lamprou-keert-na-acht-jaar-terug-bij-jeugdliefde-feyenoord-als-derde-doelman.html",
     "open_new_window": false,
     "partner": null
   }
