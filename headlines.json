@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275105,
+    "slug": "grote-stad-of-juist-rustige-regio-praat-mee",
+    "type": "article",
+    "title": "Grote stad of juist rustige regio? Praat mee",
+    "subtitle": null,
+    "published_at": "2023-08-04T07:05:17+02:00",
+    "updated_at": "2023-08-04T07:05:18+02:00",
+    "media_id": "inixxsyaa9fu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6275105/grote-stad-of-juist-rustige-regio-praat-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275116,
-    "slug": "spanningen-bij-poolse-grens-wagner-troepen-en-dreigende-grapjes",
+    "slug": "provocaties-aan-poolse-grens-vanuit-alle-hoeken-wat-is-het-doel",
     "type": "video",
-    "title": "Spanningen bij Poolse grens: Wagner-troepen en dreigende 'grapjes'",
+    "title": "Provocaties aan Poolse grens vanuit alle hoeken: wat is het doel?",
     "subtitle": "Explainer",
     "published_at": "2023-08-04T06:38:32+02:00",
-    "updated_at": "2023-08-04T06:41:36+02:00",
+    "updated_at": "2023-08-04T07:03:30+02:00",
     "media_id": "l1ixfbza96ky",
     "duration": "2:34",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6275116/spanningen-bij-poolse-grens-wagner-troepen-en-dreigende-grapjes.html",
+    "url": "/algemeen/6275116/provocaties-aan-poolse-grens-vanuit-alle-hoeken-wat-is-het-doel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Oranje krijgt ondanks harde kritiek weer te maken met scheidsrechter Yamashita",
     "subtitle": null,
     "published_at": "2023-08-04T05:47:03+02:00",
-    "updated_at": "2023-08-04T06:47:52+02:00",
+    "updated_at": "2023-08-04T06:59:15+02:00",
     "media_id": "6nhx0b2a7zek",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6275142,
-    "slug": "teamsprinter-van-den-berg-terug-na-enge-tijd-rug-naar-de-kloten",
+    "slug": "van-den-berg-niet-meer-zwakste-schakel-bij-teamsprint-leefde-als-monnik",
     "type": "article",
-    "title": "Teamsprinter Van den Berg terug na enge tijd: 'Rug naar de kloten'",
+    "title": "Van den Berg niet meer zwakste schakel bij teamsprint: 'Leefde als monnik'",
     "subtitle": "NU+",
     "published_at": "2023-08-04T05:05:01+02:00",
-    "updated_at": "2023-08-04T06:45:40+02:00",
+    "updated_at": "2023-08-04T07:14:27+02:00",
     "media_id": "b4qx7qya3c7s",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6275142/teamsprinter-van-den-berg-terug-na-enge-tijd-rug-naar-de-kloten.html",
+    "url": "/wielrennen/6275142/van-den-berg-niet-meer-zwakste-schakel-bij-teamsprint-leefde-als-monnik.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +162,12 @@
   },
   {
     "id": 6274883,
-    "slug": "wordt-vergismoord-op-amsterdamse-stagiair-17-bestraft-met-levenslang",
+    "slug": "krijgt-laf-en-meedogenloos-tweetal-levenslang-voor-drie-kille-moorden",
     "type": "article",
-    "title": "Wordt vergismoord op Amsterdamse stagiair (17) bestraft met levenslang?",
+    "title": "Krijgt 'laf en meedogenloos' tweetal levenslang voor drie kille moorden?",
     "subtitle": null,
     "published_at": "2023-08-04T05:02:24+02:00",
-    "updated_at": "2023-08-04T05:02:26+02:00",
+    "updated_at": "2023-08-04T07:02:35+02:00",
     "media_id": "noixim8atkoy",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6274883/wordt-vergismoord-op-amsterdamse-stagiair-17-bestraft-met-levenslang.html",
+    "url": "/binnenland/6274883/krijgt-laf-en-meedogenloos-tweetal-levenslang-voor-drie-kille-moorden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Ajax legt minimaal 14 miljoen euro op tafel voor Manchester City-talent Borges",
     "subtitle": null,
     "published_at": "2023-08-03T22:00:38+02:00",
-    "updated_at": "2023-08-03T23:53:16+02:00",
+    "updated_at": "2023-08-04T06:53:36+02:00",
     "media_id": "t1uxk1hakk1u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6275133/migranten-varen-ruim-5000-kilometer-op-roer-vrachtschip-naar-brazilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274265,
-    "slug": "drukste-dag-voor-vakantieverkeer-is-hier-zo-kom-je-zwarte-zaterdag-door",
-    "type": "article",
-    "title": "Drukste dag voor vakantieverkeer is hier: zo kom je Zwarte Zaterdag door",
-    "subtitle": "NU+",
-    "published_at": "2023-08-03T20:07:42+02:00",
-    "updated_at": "2023-08-03T20:51:17+02:00",
-    "media_id": "6qhx6v2at449",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6274265/drukste-dag-voor-vakantieverkeer-is-hier-zo-kom-je-zwarte-zaterdag-door.html",
     "open_new_window": false,
     "partner": null
   }
