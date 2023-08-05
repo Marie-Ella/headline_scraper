@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275315,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-08-05T05:17:15+02:00",
+    "updated_at": "2023-08-05T05:17:16+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6275315/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275312,
     "slug": "slot-ziet-sterk-psv-en-feyenoord-is-fysiek-nog-niet-op-niveau-van-vorig-jaar",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6272228,
-    "slug": "koplopers-elektrische-bouwmachines-opladen-zonder-file-op-het-stroomnet",
+    "slug": "koplopers-elektrische-bouwmachines-opladen-zonder-file-op-stroomnet",
     "type": "article",
-    "title": "Koplopers: Elektrische bouwmachines opladen zonder file op het stroomnet",
+    "title": "Koplopers: Elektrische bouwmachines opladen zonder file op stroomnet",
     "subtitle": "NU+",
     "published_at": "2023-08-05T05:02:49+02:00",
-    "updated_at": "2023-08-05T05:02:51+02:00",
+    "updated_at": "2023-08-05T05:24:27+02:00",
     "media_id": "h1sx7v1a6xbg",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6272228/koplopers-elektrische-bouwmachines-opladen-zonder-file-op-het-stroomnet.html",
+    "url": "/klimaat/6272228/koplopers-elektrische-bouwmachines-opladen-zonder-file-op-stroomnet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Nederlandse teamsprinters nemen revanche op Australië en heroveren wereldtitel",
     "subtitle": null,
     "published_at": "2023-08-04T21:18:58+02:00",
-    "updated_at": "2023-08-04T23:05:27+02:00",
+    "updated_at": "2023-08-05T05:23:34+02:00",
     "media_id": "zqtxy1pawv9k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6275298/oud-staatssecretaris-en-partijprominent-mona-keijzer-breekt-met-cda.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275297,
-    "slug": "belgie-heeft-ijzersterke-wk-ploeg-zou-bang-zijn-als-ik-nederland-of-frankrijk-was",
-    "type": "article",
-    "title": "België heeft ijzersterke WK-ploeg: 'Zou bang zijn als ik Nederland of Frankrijk was'",
-    "subtitle": null,
-    "published_at": "2023-08-04T20:21:09+02:00",
-    "updated_at": "2023-08-04T20:30:00+02:00",
-    "media_id": "5axxr1iafpcn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6275297/belgie-heeft-ijzersterke-wk-ploeg-zou-bang-zijn-als-ik-nederland-of-frankrijk-was.html",
     "open_new_window": false,
     "partner": null
   }
