@@ -1,24 +1,47 @@
 [
   {
-    "id": 6275324,
-    "slug": "spanje-krabbelt-op-na-afgang-en-is-mogelijk-opponent-van-oranje-in-kwartfinales-wk",
+    "id": 6275325,
+    "slug": "griekspoor-wint-twee-keer-op-een-dag-en-bereikt-halve-finales-in-washington",
     "type": "article",
-    "title": "Spanje krabbelt op na afgang en is mogelijk opponent van Oranje in kwartfinales WK",
+    "title": "Griekspoor wint twee keer op één dag en bereikt halve finales in Washington",
+    "subtitle": null,
+    "published_at": "2023-08-05T09:23:50+02:00",
+    "updated_at": "2023-08-05T09:23:51+02:00",
+    "media_id": "oxkxpf5aurwj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6275325/griekspoor-wint-twee-keer-op-een-dag-en-bereikt-halve-finales-in-washington.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275324,
+    "slug": "spanje-krabbelt-op-na-afgang-en-treft-mogelijk-oranje-in-kwartfinales-wk",
+    "type": "article",
+    "title": "Spanje krabbelt op na afgang en treft mogelijk Oranje in kwartfinales WK",
     "subtitle": null,
     "published_at": "2023-08-05T08:55:43+02:00",
-    "updated_at": "2023-08-05T09:10:13+02:00",
+    "updated_at": "2023-08-05T09:26:27+02:00",
     "media_id": "l8ixnt9ahpsi",
     "duration": null,
     "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
       "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
+      "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal/6275324/spanje-krabbelt-op-na-afgang-en-is-mogelijk-opponent-van-oranje-in-kwartfinales-wk.html",
+    "url": "/wk-voetbal-2023/6275324/spanje-krabbelt-op-na-afgang-en-treft-mogelijk-oranje-in-kwartfinales-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275308/matchwinner-noa-lang-genoot-van-vijandige-ontvangst-in-de-kuip-is-toch-mooi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275306,
-    "slug": "amerikaanse-politie-achtervolgt-loslopende-hond-op-snelweg",
-    "type": "video",
-    "title": "Amerikaanse politie achtervolgt loslopende hond op snelweg",
-    "subtitle": "Video",
-    "published_at": "2023-08-04T22:48:15+02:00",
-    "updated_at": "2023-08-04T22:48:16+02:00",
-    "media_id": "ztnx3hma0sdc",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275306/amerikaanse-politie-achtervolgt-loslopende-hond-op-snelweg.html",
     "open_new_window": false,
     "partner": null
   }
