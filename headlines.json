@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275385,
+    "slug": "amsterdamse-grachten-vol-met-regenboogboten-tijdens-canal-parade",
+    "type": "video",
+    "title": "Amsterdamse grachten vol met regenboogboten tijdens Canal Parade",
+    "subtitle": "Video",
+    "published_at": "2023-08-05T18:22:54+02:00",
+    "updated_at": "2023-08-05T18:22:55+02:00",
+    "media_id": "zv7xxlhaosth",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275385/amsterdamse-grachten-vol-met-regenboogboten-tijdens-canal-parade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275382,
     "slug": "clasie-heeft-geen-zin-in-buitenlands-avontuur-en-verlengt-contract-bij-az",
     "type": "article",
     "title": "Clasie heeft geen zin in buitenlands avontuur en verlengt contract bij AZ",
     "subtitle": null,
     "published_at": "2023-08-05T18:07:57+02:00",
-    "updated_at": "2023-08-05T18:11:20+02:00",
+    "updated_at": "2023-08-05T18:29:36+02:00",
     "media_id": "hq2x1g3aorxt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6274607/united-van-ten-hag-maakt-spits-hjlund-met-afstand-duurste-deen-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275288,
-    "slug": "vacature-nunl-zoekt-een-nieuwe-hoofdredacteur",
-    "type": "article",
-    "title": "Vacature: NU.nl zoekt een nieuwe hoofdredacteur",
-    "subtitle": null,
-    "published_at": "2023-08-05T13:21:18+02:00",
-    "updated_at": "2023-08-05T13:21:37+02:00",
-    "media_id": "ytvx43fardoy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1774574,
-      "slug": "vacatures",
-      "type": "default",
-      "name": "Vacatures bij NU.nl",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vacatures/6275288/vacature-nunl-zoekt-een-nieuwe-hoofdredacteur.html",
     "open_new_window": false,
     "partner": null
   }
