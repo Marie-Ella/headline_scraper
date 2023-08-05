@@ -1,12 +1,58 @@
 [
   {
-    "id": 6275342,
-    "slug": "1700-uur-nederlanders-in-noodweer-slovenie-hij-wist-dat-de-camping-de-pineut-was",
+    "id": 6275378,
+    "slug": "snelweg-bij-sittard-bezaaid-met-aardappelen-nadat-vrachtwagen-kantelt",
+    "type": "video",
+    "title": "Snelweg bij Sittard bezaaid met aardappelen nadat vrachtwagen kantelt",
+    "subtitle": "Video",
+    "published_at": "2023-08-05T16:32:36+02:00",
+    "updated_at": "2023-08-05T16:44:32+02:00",
+    "media_id": "eo7xswjagogf",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275378/snelweg-bij-sittard-bezaaid-met-aardappelen-nadat-vrachtwagen-kantelt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275377,
+    "slug": "klokkenluider-panama-papers-wil-miljoenen-zien-voor-lekken-documenten",
     "type": "article",
-    "title": "17.00 UUR Nederlanders in noodweer Slovenië: 'Hij wist dat de camping de pineut was'",
+    "title": "Klokkenluider Panama Papers wil miljoenen zien voor lekken documenten",
+    "subtitle": null,
+    "published_at": "2023-08-05T16:31:17+02:00",
+    "updated_at": "2023-08-05T16:44:07+02:00",
+    "media_id": "nd0x6rga19fc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275377/klokkenluider-panama-papers-wil-miljoenen-zien-voor-lekken-documenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275342,
+    "slug": "nederlanders-in-noodweer-slovenie-hij-wist-dat-de-camping-de-pineut-was",
+    "type": "article",
+    "title": "Nederlanders in noodweer Slovenië: 'Hij wist dat de camping de pineut was'",
     "subtitle": null,
     "published_at": "2023-08-05T16:11:44+02:00",
-    "updated_at": "2023-08-05T16:29:31+02:00",
+    "updated_at": "2023-08-05T16:33:48+02:00",
     "media_id": "wdyxh3wa6iad",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6275342/1700-uur-nederlanders-in-noodweer-slovenie-hij-wist-dat-de-camping-de-pineut-was.html",
+    "url": "/buitenland/6275342/nederlanders-in-noodweer-slovenie-hij-wist-dat-de-camping-de-pineut-was.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6275351/eerste-gesprek-in-maanden-tussen-scriptschrijvers-en-studios-levert-niets-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275350,
-    "slug": "oekraine-raakt-dag-na-oorlogsschip-ook-russische-olietanker-met-zeedrone",
-    "type": "article",
-    "title": "Oekraïne raakt dag na oorlogsschip ook Russische olietanker met zeedrone",
-    "subtitle": null,
-    "published_at": "2023-08-05T12:12:48+02:00",
-    "updated_at": "2023-08-05T16:13:56+02:00",
-    "media_id": "hkmx5dtadclq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6275350/oekraine-raakt-dag-na-oorlogsschip-ook-russische-olietanker-met-zeedrone.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275343,
-    "slug": "babadi-maakt-indruk-bij-psv-ik-vroeg-of-hij-weleens-in-de-kuip-had-gespeeld",
-    "type": "article",
-    "title": "Babadi maakt indruk bij PSV: 'Ik vroeg of hij weleens in De Kuip had gespeeld'",
-    "subtitle": null,
-    "published_at": "2023-08-05T11:58:01+02:00",
-    "updated_at": "2023-08-05T12:19:22+02:00",
-    "media_id": "232x0bjaz80d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275343/babadi-maakt-indruk-bij-psv-ik-vroeg-of-hij-weleens-in-de-kuip-had-gespeeld.html",
     "open_new_window": false,
     "partner": null
   }
