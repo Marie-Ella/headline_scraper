@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275497,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-08-07T05:29:52+02:00",
+    "updated_at": "2023-08-07T05:29:54+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6275497/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275496,
     "slug": "weerbericht-van-een-onstuimige-ochtend-tot-een-beetje-zomers-in-de-middag",
     "type": "article",
@@ -208,12 +231,12 @@
   },
   {
     "id": 6275474,
-    "slug": "opnieuw-aanval-op-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking",
+    "slug": "nieuwe-aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking",
     "type": "article",
-    "title": "Opnieuw aanval op Krimbrug, oliepijpleiding naar Europa deels buiten werking",
+    "title": "Nieuwe aanval Krimbrug, oliepijpleiding naar Europa deels buiten werking",
     "subtitle": "Overzicht",
     "published_at": "2023-08-06T20:51:34+02:00",
-    "updated_at": "2023-08-06T23:37:49+02:00",
+    "updated_at": "2023-08-07T05:31:13+02:00",
     "media_id": "mk9xebeahauq",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6275474/opnieuw-aanval-op-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking.html",
+    "url": "/spanningen-oekraine/6275474/nieuwe-aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6275471/nederlander-overleden-in-spanje-vermoedelijk-door-steekincident.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275469,
-    "slug": "ajax-besluit-roerige-voorbereiding-met-verlies-bij-borussia-dortmund",
-    "type": "article",
-    "title": "Ajax besluit roerige voorbereiding met verlies bij Borussia Dortmund",
-    "subtitle": null,
-    "published_at": "2023-08-06T18:52:39+02:00",
-    "updated_at": "2023-08-06T19:42:48+02:00",
-    "media_id": "cw4x9o9a3jhc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275469/ajax-besluit-roerige-voorbereiding-met-verlies-bij-borussia-dortmund.html",
     "open_new_window": false,
     "partner": null
   }
