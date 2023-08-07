@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275496,
+    "slug": "weerbericht-van-een-onstuimige-ochtend-tot-een-beetje-zomers-in-de-middag",
+    "type": "article",
+    "title": "Weerbericht: van een onstuimige ochtend tot een beetje zomers in de middag",
+    "subtitle": null,
+    "published_at": "2023-08-07T05:28:39+02:00",
+    "updated_at": "2023-08-07T05:28:40+02:00",
+    "media_id": "ksgxdg0axbgl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275496/weerbericht-van-een-onstuimige-ochtend-tot-een-beetje-zomers-in-de-middag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275494,
     "slug": "vijf-dagen-geen-treinen-tussen-zwolle-en-amersfoort",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275469/ajax-besluit-roerige-voorbereiding-met-verlies-bij-borussia-dortmund.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275468,
-    "slug": "van-der-poel-geniet-volop-van-wereldtitel-mijn-carriere-is-zo-goed-als-compleet",
-    "type": "article",
-    "title": "Van der Poel geniet volop van wereldtitel: 'Mijn carrière is zo goed als compleet'",
-    "subtitle": null,
-    "published_at": "2023-08-06T18:16:51+02:00",
-    "updated_at": "2023-08-06T23:10:01+02:00",
-    "media_id": "bktxwrkaghul",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6275468/van-der-poel-geniet-volop-van-wereldtitel-mijn-carriere-is-zo-goed-als-compleet.html",
     "open_new_window": false,
     "partner": null
   }
