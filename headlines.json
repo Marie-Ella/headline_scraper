@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275504,
+    "slug": "sjoerd-sjoerdsma-d66-vertrekt-na-ruim-tien-jaar-uit-tweede-kamer",
+    "type": "article",
+    "title": "Sjoerd Sjoerdsma (D66) vertrekt na ruim tien jaar uit Tweede Kamer",
+    "subtitle": null,
+    "published_at": "2023-08-07T07:49:09+02:00",
+    "updated_at": "2023-08-07T07:49:10+02:00",
+    "media_id": "sk2xwcsaswj1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6275504/sjoerd-sjoerdsma-d66-vertrekt-na-ruim-tien-jaar-uit-tweede-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275500,
     "slug": "messi-pakt-opnieuw-hoofdrol-bij-inter-miami-met-openingsgoal-en-schitterende-4-4",
     "type": "article",
     "title": "Messi pakt opnieuw hoofdrol bij Inter Miami met openingsgoal en schitterende 4-4",
     "subtitle": null,
     "published_at": "2023-08-07T07:20:31+02:00",
-    "updated_at": "2023-08-07T07:27:33+02:00",
+    "updated_at": "2023-08-07T07:32:39+02:00",
     "media_id": "craxg8oa02al",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Griekspoor grijpt naast zijn grootste toernooizege ooit na topweek in Washington",
     "subtitle": null,
     "published_at": "2023-08-07T06:42:15+02:00",
-    "updated_at": "2023-08-07T07:29:14+02:00",
+    "updated_at": "2023-08-07T07:40:59+02:00",
     "media_id": "xytxr0aa9qbi",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Zelfs Pogacar trekt wit weg na wegrit WK: 'Het duurde mij twee rondjes te lang'",
     "subtitle": null,
     "published_at": "2023-08-07T06:27:48+02:00",
-    "updated_at": "2023-08-07T06:38:05+02:00",
+    "updated_at": "2023-08-07T07:35:54+02:00",
     "media_id": "44ixfbmadjks",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6275494,
-    "slug": "vijf-dagen-geen-treinen-tussen-zwolle-en-amersfoort",
+    "slug": "tot-en-met-vrijdag-rijden-er-geen-treinen-tussen-zwolle-en-amersfoort",
     "type": "article",
-    "title": "Vijf dagen geen treinen tussen Zwolle en Amersfoort",
+    "title": "Tot en met vrijdag rijden er geen treinen tussen Zwolle en Amersfoort",
     "subtitle": null,
     "published_at": "2023-08-07T05:10:32+02:00",
-    "updated_at": "2023-08-07T06:06:34+02:00",
+    "updated_at": "2023-08-07T07:43:54+02:00",
     "media_id": "4f7x2lzai49p",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275494/vijf-dagen-geen-treinen-tussen-zwolle-en-amersfoort.html",
+    "url": "/binnenland/6275494/tot-en-met-vrijdag-rijden-er-geen-treinen-tussen-zwolle-en-amersfoort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Film Barbie brengt wereldwijd binnen 17 dagen meer dan 1 miljard dollar op",
     "subtitle": null,
     "published_at": "2023-08-06T20:59:58+02:00",
-    "updated_at": "2023-08-07T07:23:58+02:00",
+    "updated_at": "2023-08-07T07:31:24+02:00",
     "media_id": "r2uxg0ba5wh1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6275480/van-der-poel-dook-huis-in-bij-pauze-wk-wegrit-bedankt-dat-ik-naar-de-wc-mocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275478,
-    "slug": "niet-alleen-veel-regen-vandaag-was-ook-de-koudste-6-augustus-in-nederland-ooit",
-    "type": "article",
-    "title": "Niet alleen veel regen: vandaag was ook de koudste 6 augustus in Nederland ooit",
-    "subtitle": null,
-    "published_at": "2023-08-06T20:25:52+02:00",
-    "updated_at": "2023-08-06T21:43:05+02:00",
-    "media_id": "7yexusfatp9u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6275478/niet-alleen-veel-regen-vandaag-was-ook-de-koudste-6-augustus-in-nederland-ooit.html",
     "open_new_window": false,
     "partner": null
   }
