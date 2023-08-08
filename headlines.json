@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275642,
+    "slug": "weerbericht-in-de-aanloop-naar-beter-weer-blijft-het-nog-waaien-en-regenen",
+    "type": "article",
+    "title": "Weerbericht: In de aanloop naar beter weer blijft het nog waaien en regenen",
+    "subtitle": null,
+    "published_at": "2023-08-08T05:34:04+02:00",
+    "updated_at": "2023-08-08T05:34:05+02:00",
+    "media_id": "elaxntia8cwt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6275642/weerbericht-in-de-aanloop-naar-beter-weer-blijft-het-nog-waaien-en-regenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275641,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6275633,
-    "slug": "vijf-doden-en-tientallen-gewonden-door-russische-raketaanvallen-op-pokrovsk",
+    "slug": "acht-doden-en-tientallen-gewonden-door-russische-raketaanvallen-op-pokrovsk",
     "type": "article",
-    "title": "Vijf doden en tientallen gewonden door Russische raketaanvallen op Pokrovsk",
+    "title": "Acht doden en tientallen gewonden door Russische raketaanvallen op Pokrovsk",
     "subtitle": null,
     "published_at": "2023-08-07T21:15:11+02:00",
-    "updated_at": "2023-08-07T21:49:12+02:00",
+    "updated_at": "2023-08-08T05:38:55+02:00",
     "media_id": "efbx8utav9rk",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6275633/vijf-doden-en-tientallen-gewonden-door-russische-raketaanvallen-op-pokrovsk.html",
+    "url": "/spanningen-oekraine/6275633/acht-doden-en-tientallen-gewonden-door-russische-raketaanvallen-op-pokrovsk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6275622/man-dobbert-in-zinkende-roeiboot-20-kilometer-van-amerikaanse-kust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275618,
-    "slug": "tientallen-uit-slovenie-geevacueerde-nederlanders-weer-thuis",
-    "type": "article",
-    "title": "Tientallen uit Slovenië geëvacueerde Nederlanders weer thuis",
-    "subtitle": null,
-    "published_at": "2023-08-07T19:10:29+02:00",
-    "updated_at": "2023-08-07T20:26:38+02:00",
-    "media_id": "h3vxk1oa1m37",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275618/tientallen-uit-slovenie-geevacueerde-nederlanders-weer-thuis.html",
     "open_new_window": false,
     "partner": null
   }
