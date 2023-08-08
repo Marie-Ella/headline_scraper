@@ -1,5 +1,51 @@
 [
   {
+    "id": 6275650,
+    "slug": "energie-is-een-derde-goedkoper-maar-boodschappen-houden-inflatie-hoog",
+    "type": "article",
+    "title": "Energie is een derde goedkoper, maar boodschappen houden inflatie hoog",
+    "subtitle": null,
+    "published_at": "2023-08-08T07:36:27+02:00",
+    "updated_at": "2023-08-08T07:44:43+02:00",
+    "media_id": "zqzxb05akep1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275650/energie-is-een-derde-goedkoper-maar-boodschappen-houden-inflatie-hoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275639,
+    "slug": "vrouwen-geven-mannen-goede-voorbeeld-op-wk-sfeer-een-verademing",
+    "type": "article",
+    "title": "Vrouwen geven mannen goede voorbeeld op WK: 'Sfeer een verademing'",
+    "subtitle": "NU+",
+    "published_at": "2023-08-08T07:33:45+02:00",
+    "updated_at": "2023-08-08T07:44:13+02:00",
+    "media_id": "15ox4sia6tl5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6275639/vrouwen-geven-mannen-goede-voorbeeld-op-wk-sfeer-een-verademing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275649,
     "slug": "barca-icoon-iniesta-39-wil-nog-niet-stoppen-en-tekent-contract-in-de-emiraten",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-08-08T05:19:50+02:00",
-    "updated_at": "2023-08-08T05:19:51+02:00",
+    "updated_at": "2023-08-08T07:41:33+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -213,8 +259,8 @@
     "title": "Waarom juist Middellandse Zee-toeristen meer te maken krijgen met extreem weer",
     "subtitle": null,
     "published_at": "2023-08-08T05:01:11+02:00",
-    "updated_at": "2023-08-08T06:19:24+02:00",
-    "media_id": "fu0xcmwayi34",
+    "updated_at": "2023-08-08T07:31:09+02:00",
+    "media_id": "h3kxd9iaakis",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275631/inter-pikt-keeper-sommer-op-bij-bayern-als-opvolger-van-onana.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275628,
-    "slug": "rookwolken-stijgen-boven-turkse-haven-uit-na-enorme-stofexplosie",
-    "type": "video",
-    "title": "Rookwolken stijgen boven Turkse haven uit na enorme stofexplosie",
-    "subtitle": "Video",
-    "published_at": "2023-08-07T20:03:21+02:00",
-    "updated_at": "2023-08-08T07:02:45+02:00",
-    "media_id": "3o9x721aa27a",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275628/rookwolken-stijgen-boven-turkse-haven-uit-na-enorme-stofexplosie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275589,
-    "slug": "dit-is-wat-het-niet-opnemen-van-vakantie-kan-doen-met-je-gezondheid",
-    "type": "article",
-    "title": "Dit is wat het niet opnemen van vakantie kan doen met je gezondheid",
-    "subtitle": "NU+",
-    "published_at": "2023-08-07T19:59:49+02:00",
-    "updated_at": "2023-08-07T20:43:20+02:00",
-    "media_id": "a0kxq6dah316",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779221,
-      "slug": "nuplus",
-      "type": "default",
-      "name": "NUplus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuplus/6275589/dit-is-wat-het-niet-opnemen-van-vakantie-kan-doen-met-je-gezondheid.html",
     "open_new_window": false,
     "partner": null
   }
