@@ -1,12 +1,58 @@
 [
   {
-    "id": 6275692,
-    "slug": "cl-duel-aek-dinamo-zagreb-uitgesteld-om-dodelijke-steekpartij-bij-supportersrellen",
+    "id": 6275694,
+    "slug": "veldwijk-voorlopig-alleen-uit-selectie-gezet-door-suwon-fc-na-rijden-onder-invloed",
     "type": "article",
-    "title": "CL-duel AEK-Dinamo Zagreb uitgesteld om dodelijke steekpartij bij supportersrellen",
+    "title": "Veldwijk voorlopig alleen uit selectie gezet door Suwon FC na rijden onder invloed",
+    "subtitle": null,
+    "published_at": "2023-08-08T11:45:58+02:00",
+    "updated_at": "2023-08-08T11:45:59+02:00",
+    "media_id": "22nxb41azq7a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275694/veldwijk-voorlopig-alleen-uit-selectie-gezet-door-suwon-fc-na-rijden-onder-invloed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275695,
+    "slug": "nederlandse-scouts-in-zuid-korea-onder-applaus-onthaald",
+    "type": "video",
+    "title": "Nederlandse scouts in Zuid-Korea onder applaus onthaald",
+    "subtitle": "Video",
+    "published_at": "2023-08-08T11:44:28+02:00",
+    "updated_at": "2023-08-08T11:44:29+02:00",
+    "media_id": "whlxvaqab5vc",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275695/nederlandse-scouts-in-zuid-korea-onder-applaus-onthaald.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275692,
+    "slug": "aek-dinamo-zagreb-uitgesteld-om-dodelijke-steekpartij-bij-supportersrellen",
+    "type": "article",
+    "title": "AEK-Dinamo Zagreb uitgesteld om dodelijke steekpartij bij supportersrellen",
     "subtitle": null,
     "published_at": "2023-08-08T11:21:52+02:00",
-    "updated_at": "2023-08-08T11:23:52+02:00",
+    "updated_at": "2023-08-08T11:42:44+02:00",
     "media_id": "d6bxxb6a63m1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6275692/cl-duel-aek-dinamo-zagreb-uitgesteld-om-dodelijke-steekpartij-bij-supportersrellen.html",
+    "url": "/voetbal/6275692/aek-dinamo-zagreb-uitgesteld-om-dodelijke-steekpartij-bij-supportersrellen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +167,7 @@
     "title": "Zuid-Korea begint met evacuatie van tienduizenden scouts vanwege tyfoon",
     "subtitle": null,
     "published_at": "2023-08-08T10:40:47+02:00",
-    "updated_at": "2023-08-08T10:40:48+02:00",
+    "updated_at": "2023-08-08T11:39:54+02:00",
     "media_id": "7gjxi6ra3x3k",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6275655/machinekamer-en-veel-autos-op-fremantle-highway-nog-intact-na-grote-brand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275652,
-    "slug": "wibi-soerjadi-en-hond-voelen-zich-weer-beter-na-aanval-op-straat",
-    "type": "article",
-    "title": "Wibi Soerjadi en hond voelen zich weer beter na aanval op straat",
-    "subtitle": null,
-    "published_at": "2023-08-08T08:04:26+02:00",
-    "updated_at": "2023-08-08T08:22:49+02:00",
-    "media_id": "mprxdecayyc7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6275652/wibi-soerjadi-en-hond-voelen-zich-weer-beter-na-aanval-op-straat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275653,
-    "slug": "zelensky-deelt-beelden-van-ravage-na-raketaanvallen-op-pokrovsk",
-    "type": "video",
-    "title": "Zelensky deelt beelden van ravage na raketaanvallen op Pokrovsk",
-    "subtitle": "Video",
-    "published_at": "2023-08-08T07:53:18+02:00",
-    "updated_at": "2023-08-08T07:53:20+02:00",
-    "media_id": "e6exxc7a7ifk",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275653/zelensky-deelt-beelden-van-ravage-na-raketaanvallen-op-pokrovsk.html",
     "open_new_window": false,
     "partner": null
   }
