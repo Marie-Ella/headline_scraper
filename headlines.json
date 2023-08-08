@@ -1,5 +1,51 @@
 [
   {
+    "id": 6275609,
+    "slug": "stelling-ik-vind-15-cent-niet-de-moeite-waard-om-mijn-blikjes-voor-in-te-leveren",
+    "type": "article",
+    "title": "Stelling: Ik vind 15 cent niet de moeite waard om mijn blikjes voor in te leveren",
+    "subtitle": null,
+    "published_at": "2023-08-08T07:04:52+02:00",
+    "updated_at": "2023-08-08T07:04:53+02:00",
+    "media_id": "igmxvknaqe3s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6275609/stelling-ik-vind-15-cent-niet-de-moeite-waard-om-mijn-blikjes-voor-in-te-leveren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275647,
+    "slug": "13000-inwoners-uit-dusseldorf-geevacueerd-vanwege-zware-wo-ii-bom",
+    "type": "article",
+    "title": "13.000 inwoners uit Düsseldorf geëvacueerd vanwege zware WO II-bom",
+    "subtitle": null,
+    "published_at": "2023-08-08T07:00:36+02:00",
+    "updated_at": "2023-08-08T07:08:30+02:00",
+    "media_id": "u4jxjybaesk8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6275647/13000-inwoners-uit-dusseldorf-geevacueerd-vanwege-zware-wo-ii-bom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275617,
     "slug": "zo-deelt-zelensky-een-klap-uit-aan-het-russische-erfgoed-in-oekraine",
     "type": "video",
@@ -351,7 +397,7 @@
     "title": "Rookwolken stijgen boven Turkse haven uit na enorme stofexplosie",
     "subtitle": "Video",
     "published_at": "2023-08-07T20:03:21+02:00",
-    "updated_at": "2023-08-07T20:23:58+02:00",
+    "updated_at": "2023-08-08T07:02:45+02:00",
     "media_id": "3o9x721aa27a",
     "duration": "0:51",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6275624/the-exorcist-regisseur-william-friedkin-op-87-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275619,
-    "slug": "duitser-opgepakt-die-vrouw-12-jaar-zou-hebben-gegijzeld-gemarteld-en-misbruikt",
-    "type": "article",
-    "title": "Duitser opgepakt die vrouw 12 jaar zou hebben gegijzeld, gemarteld en misbruikt",
-    "subtitle": null,
-    "published_at": "2023-08-07T19:36:40+02:00",
-    "updated_at": "2023-08-07T19:36:41+02:00",
-    "media_id": "ws1xu2oax58g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275619/duitser-opgepakt-die-vrouw-12-jaar-zou-hebben-gegijzeld-gemarteld-en-misbruikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275625,
-    "slug": "gevluchte-belarussische-atlete-tsimanouskaya-mag-voor-polen-uitkomen",
-    "type": "article",
-    "title": "Gevluchte Belarussische atlete Tsimanouskaya mag voor Polen uitkomen",
-    "subtitle": null,
-    "published_at": "2023-08-07T19:30:58+02:00",
-    "updated_at": "2023-08-07T19:45:45+02:00",
-    "media_id": "xuzxqaia0qqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6275625/gevluchte-belarussische-atlete-tsimanouskaya-mag-voor-polen-uitkomen.html",
     "open_new_window": false,
     "partner": null
   }
