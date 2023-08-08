@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275617,
+    "slug": "zo-deelt-zelensky-een-klap-uit-aan-het-russische-erfgoed-in-oekraine",
+    "type": "video",
+    "title": "Zo deelt Zelensky een klap uit aan het Russische erfgoed in Oekraïne",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-08T06:27:04+02:00",
+    "updated_at": "2023-08-08T06:27:05+02:00",
+    "media_id": "md0x5g4a71l4",
+    "duration": "2:15",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6275617/zo-deelt-zelensky-een-klap-uit-aan-het-russische-erfgoed-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275642,
     "slug": "weerbericht-in-aanloop-naar-beter-weer-nog-meer-wind-en-regen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6275625/gevluchte-belarussische-atlete-tsimanouskaya-mag-voor-polen-uitkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275622,
-    "slug": "man-dobbert-in-zinkende-roeiboot-20-kilometer-van-amerikaanse-kust",
-    "type": "video",
-    "title": "Man dobbert in zinkende roeiboot 20 kilometer van Amerikaanse kust",
-    "subtitle": "Video",
-    "published_at": "2023-08-07T19:20:50+02:00",
-    "updated_at": "2023-08-07T19:39:17+02:00",
-    "media_id": "ih8xsojalqhz",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275622/man-dobbert-in-zinkende-roeiboot-20-kilometer-van-amerikaanse-kust.html",
     "open_new_window": false,
     "partner": null
   }
