@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275912,
+    "slug": "inwoners-varen-door-straat-na-damdoorbraak-in-noorwegen",
+    "type": "video",
+    "title": "Inwoners varen door straat na damdoorbraak in Noorwegen",
+    "subtitle": "Video",
+    "published_at": "2023-08-09T20:42:58+02:00",
+    "updated_at": "2023-08-09T20:42:59+02:00",
+    "media_id": "t82xq3xa8vys",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275912/inwoners-varen-door-straat-na-damdoorbraak-in-noorwegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275903,
-    "slug": "zeehonden-proberen-ziekte-mogelijk-tegen-te-gaan-door-verder-uit-elkaar-te-liggen",
+    "slug": "ook-zeehond-lijkt-aan-15-meter-te-doen-om-verspreiding-ziektes-tegen-te-gaan",
     "type": "article",
-    "title": "Zeehonden proberen ziekte mogelijk tegen te gaan door verder uit elkaar te liggen",
+    "title": "Ook zeehond lijkt aan '1,5 meter' te doen om verspreiding ziektes tegen te gaan",
     "subtitle": null,
     "published_at": "2023-08-09T20:27:44+02:00",
-    "updated_at": "2023-08-09T20:33:17+02:00",
+    "updated_at": "2023-08-09T20:41:37+02:00",
     "media_id": "unlxn3ca6l11",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6275903/zeehonden-proberen-ziekte-mogelijk-tegen-te-gaan-door-verder-uit-elkaar-te-liggen.html",
+    "url": "/dieren/6275903/ook-zeehond-lijkt-aan-15-meter-te-doen-om-verspreiding-ziektes-tegen-te-gaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Noorse stuwdam breekt door na extreme regenval, situatie onder controle",
     "subtitle": null,
     "published_at": "2023-08-09T18:14:04+02:00",
-    "updated_at": "2023-08-09T20:24:50+02:00",
+    "updated_at": "2023-08-09T20:41:27+02:00",
     "media_id": "zflxow6ae4id",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6275872/diva-mayday-en-andere-dragqueens-bedreigd-door-taxichauffeurs-tijdens-pride.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275873,
-    "slug": "enorme-rookwolken-stijgen-boven-stad-bij-moskou-uit-na-explosie",
-    "type": "video",
-    "title": "Enorme rookwolken stijgen boven stad bij Moskou uit na explosie",
-    "subtitle": "Video",
-    "published_at": "2023-08-09T16:27:33+02:00",
-    "updated_at": "2023-08-09T16:27:35+02:00",
-    "media_id": "6kyxawha1o9r",
-    "duration": "1:00",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275873/enorme-rookwolken-stijgen-boven-stad-bij-moskou-uit-na-explosie.html",
     "open_new_window": false,
     "partner": null
   }
