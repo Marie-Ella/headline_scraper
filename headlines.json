@@ -1,12 +1,58 @@
 [
   {
-    "id": 6275936,
-    "slug": "verkeer-wordt-steeds-onveilger-meer-mensen-de-weg-op-zonder-geldig-rijbewijs",
+    "id": 6275884,
+    "slug": "zo-beschermt-rusland-de-strategisch-belangrijke-krimbrug",
+    "type": "video",
+    "title": "Zo beschermt Rusland de strategisch belangrijke Krimbrug",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-10T07:28:10+02:00",
+    "updated_at": "2023-08-10T07:28:11+02:00",
+    "media_id": "2dexomzaelqf",
+    "duration": "1:42",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6275884/zo-beschermt-rusland-de-strategisch-belangrijke-krimbrug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275938,
+    "slug": "industrie-in-mineur-nu-productie-al-zes-maanden-op-rij-krimpt",
     "type": "article",
-    "title": "Verkeer wordt steeds onveilger: meer mensen de weg op zonder geldig rijbewijs",
+    "title": "Industrie in mineur nu productie al zes maanden op rij krimpt",
+    "subtitle": null,
+    "published_at": "2023-08-10T07:25:14+02:00",
+    "updated_at": "2023-08-10T07:29:05+02:00",
+    "media_id": "v5pxttgakdq4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275938/industrie-in-mineur-nu-productie-al-zes-maanden-op-rij-krimpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275936,
+    "slug": "meer-mensen-de-weg-op-zonder-rijbewijs-of-kenteken-blik-op-autoriteit-verandert",
+    "type": "article",
+    "title": "Meer mensen de weg op zonder rijbewijs of kenteken: 'Blik op autoriteit verandert'",
     "subtitle": null,
     "published_at": "2023-08-10T07:12:54+02:00",
-    "updated_at": "2023-08-10T07:12:55+02:00",
+    "updated_at": "2023-08-10T07:28:44+02:00",
     "media_id": "gcvxahza2k6a",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275936/verkeer-wordt-steeds-onveilger-meer-mensen-de-weg-op-zonder-geldig-rijbewijs.html",
+    "url": "/binnenland/6275936/meer-mensen-de-weg-op-zonder-rijbewijs-of-kenteken-blik-op-autoriteit-verandert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6275921/lavreysen-schrikt-van-stevige-taal-teamgenoot-hoogland-bij-wk-baanwielrennen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275920,
-    "slug": "rangers-zet-eerste-stap-naar-weerzien-met-psv-dankzij-zege-op-servette",
-    "type": "article",
-    "title": "Rangers zet eerste stap naar weerzien met PSV dankzij zege op Servette",
-    "subtitle": null,
-    "published_at": "2023-08-09T23:17:16+02:00",
-    "updated_at": "2023-08-09T23:26:00+02:00",
-    "media_id": "1ikxcfdabumk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275920/rangers-zet-eerste-stap-naar-weerzien-met-psv-dankzij-zege-op-servette.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275919,
-    "slug": "ongekend-felle-natuurbranden-op-hawai-eisen-al-zeker-zes-slachtoffers",
-    "type": "article",
-    "title": "'Ongekend' felle natuurbranden op Hawaï eisen al zeker zes slachtoffers",
-    "subtitle": null,
-    "published_at": "2023-08-09T23:04:15+02:00",
-    "updated_at": "2023-08-09T23:09:46+02:00",
-    "media_id": "vrrx1osacc36",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275919/ongekend-felle-natuurbranden-op-hawai-eisen-al-zeker-zes-slachtoffers.html",
     "open_new_window": false,
     "partner": null
   }
