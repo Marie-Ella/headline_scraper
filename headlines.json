@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276148,
+    "slug": "weekendweerbericht-zomerse-vrijdag-buiige-zaterdag-en-een-mix-daarvan-op-zondag",
+    "type": "article",
+    "title": "Weekendweerbericht: Zomerse vrijdag, buiige zaterdag en een mix daarvan op zondag",
+    "subtitle": null,
+    "published_at": "2023-08-11T19:47:00+02:00",
+    "updated_at": "2023-08-11T19:47:01+02:00",
+    "media_id": "yklxbi4az1v4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6276148/weekendweerbericht-zomerse-vrijdag-buiige-zaterdag-en-een-mix-daarvan-op-zondag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276182,
     "slug": "vn-en-eu-uiten-zorgen-over-toestand-van-afgezette-president-niger",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Henri Bontenbal voorgedragen als nieuwe lijsttrekker van CDA",
     "subtitle": null,
     "published_at": "2023-08-11T17:14:08+02:00",
-    "updated_at": "2023-08-11T19:05:02+02:00",
+    "updated_at": "2023-08-11T19:43:43+02:00",
     "media_id": "n5gxih9a9zpz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6276162/slot-verwacht-niet-dat-geertruida-deze-zomer-alsnog-vertrekt-bij-feyenoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276161,
-    "slug": "mysterieuze-totempaal-duikt-op-aan-britse-kust",
-    "type": "video",
-    "title": "Mysterieuze totempaal duikt op aan Britse kust",
-    "subtitle": "Video",
-    "published_at": "2023-08-11T16:05:34+02:00",
-    "updated_at": "2023-08-11T16:05:35+02:00",
-    "media_id": "7k5xvn4a0laq",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6276161/mysterieuze-totempaal-duikt-op-aan-britse-kust.html",
     "open_new_window": false,
     "partner": null
   }
