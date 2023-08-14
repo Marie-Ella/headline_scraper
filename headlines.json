@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276510,
+    "slug": "zweedse-bondscoach-loopt-per-ongeluk-bezemkast-in-na-persconferentie",
+    "type": "video",
+    "title": "Zweedse bondscoach loopt per ongeluk bezemkast in na persconferentie",
+    "subtitle": "Video",
+    "published_at": "2023-08-14T18:13:30+02:00",
+    "updated_at": "2023-08-14T18:14:41+02:00",
+    "media_id": "ahuxf34a37ef",
+    "duration": "0:24",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6276510/zweedse-bondscoach-loopt-per-ongeluk-bezemkast-in-na-persconferentie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276505,
+    "slug": "ook-britten-onderscheppen-russische-bommenwerpers-richting-navo-luchtruim",
+    "type": "article",
+    "title": "Ook Britten onderscheppen Russische bommenwerpers richting NAVO-luchtruim",
+    "subtitle": null,
+    "published_at": "2023-08-14T17:57:22+02:00",
+    "updated_at": "2023-08-14T18:01:43+02:00",
+    "media_id": "nzlx1y2ake7h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6276505/ook-britten-onderscheppen-russische-bommenwerpers-richting-navo-luchtruim.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276504,
     "slug": "feyenoord-verdediger-nieuwkoop-twee-duels-geschorst-na-rood-tegen-fortuna",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6276471/voorlopig-geen-vliegverkeer-naar-catania-op-sicilie-door-uitbarsting-etna.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276469,
-    "slug": "avrotros-heeft-geen-plannen-voor-terugkeer-te-land-ter-zee-en-in-de-lucht",
-    "type": "article",
-    "title": "AVROTROS heeft geen plannen voor terugkeer Te land, ter zee en in de lucht",
-    "subtitle": null,
-    "published_at": "2023-08-14T13:29:15+02:00",
-    "updated_at": "2023-08-14T13:29:17+02:00",
-    "media_id": "yk3x0yqai000",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6276469/avrotros-heeft-geen-plannen-voor-terugkeer-te-land-ter-zee-en-in-de-lucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276467,
-    "slug": "dodental-hawai-loopt-verder-op-toeristen-verzocht-niet-meer-te-komen",
-    "type": "article",
-    "title": "Dodental Hawaï loopt verder op, toeristen verzocht niet meer te komen",
-    "subtitle": null,
-    "published_at": "2023-08-14T13:11:41+02:00",
-    "updated_at": "2023-08-14T14:25:58+02:00",
-    "media_id": "lyxxi6uadr1z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276467/dodental-hawai-loopt-verder-op-toeristen-verzocht-niet-meer-te-komen.html",
     "open_new_window": false,
     "partner": null
   }
