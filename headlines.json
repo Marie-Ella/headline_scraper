@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276493,
+    "slug": "modderstroom-raast-door-noord-italiaans-dorp",
+    "type": "video",
+    "title": "Modderstroom raast door Noord-Italiaans dorp",
+    "subtitle": "Video",
+    "published_at": "2023-08-14T15:39:10+02:00",
+    "updated_at": "2023-08-14T15:40:10+02:00",
+    "media_id": "a1qx9sja0523",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6276493/modderstroom-raast-door-noord-italiaans-dorp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276485,
+    "slug": "muziekproducent-clarence-avant-92-bekend-als-the-black-godfather-overleden",
+    "type": "article",
+    "title": "Muziekproducent Clarence Avant (92), bekend als The Black Godfather, overleden",
+    "subtitle": null,
+    "published_at": "2023-08-14T15:29:34+02:00",
+    "updated_at": "2023-08-14T15:29:36+02:00",
+    "media_id": "4r7xsb1a1j9v",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6276485/muziekproducent-clarence-avant-92-bekend-als-the-black-godfather-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276488,
     "slug": "ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Voorlopig geen vliegverkeer naar Catania op Sicilië door uitbarsting Etna",
     "subtitle": null,
     "published_at": "2023-08-14T13:32:08+02:00",
-    "updated_at": "2023-08-14T13:32:09+02:00",
+    "updated_at": "2023-08-14T15:38:24+02:00",
     "media_id": "n9zxmkta98az",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6276457/amerikaanse-agent-bedwelmd-tijdens-drugscontrole.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276436,
-    "slug": "nederlandse-f-16s-in-actie-om-russische-bommenwerpers-bij-denemarken",
-    "type": "article",
-    "title": "Nederlandse F-16's in actie om Russische bommenwerpers bij Denemarken",
-    "subtitle": null,
-    "published_at": "2023-08-14T11:32:16+02:00",
-    "updated_at": "2023-08-14T13:42:45+02:00",
-    "media_id": "eymxhzyamsp9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276436/nederlandse-f-16s-in-actie-om-russische-bommenwerpers-bij-denemarken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275963,
-    "slug": "sera-krijgt-fotos-van-fans-die-songtekst-tatoeeren-knettergekke-verhalen",
-    "type": "article",
-    "title": "SERA krijgt foto's van fans die songtekst tatoeëren: 'Knettergekke verhalen'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-14T11:30:10+02:00",
-    "updated_at": "2023-08-14T12:28:14+02:00",
-    "media_id": "htvxchfaul5y",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6275963/sera-krijgt-fotos-van-fans-die-songtekst-tatoeeren-knettergekke-verhalen.html",
     "open_new_window": false,
     "partner": null
   }
