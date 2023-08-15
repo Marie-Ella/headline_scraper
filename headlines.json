@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276597,
+    "slug": "bb-vol-liefde-deelnemers-gooien-de-heupen-los-op-schiphol",
+    "type": "video",
+    "title": "B&B Vol liefde-deelnemers gooien de heupen los op Schiphol",
+    "subtitle": "Video",
+    "published_at": "2023-08-15T13:04:49+02:00",
+    "updated_at": "2023-08-15T13:07:55+02:00",
+    "media_id": "rnwxz0oa20vn",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6276597/bb-vol-liefde-deelnemers-gooien-de-heupen-los-op-schiphol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276595,
+    "slug": "spaanse-voetbalsters-vol-emotie-na-bereiken-wk-finale-dit-team-kan-alles-aan",
+    "type": "article",
+    "title": "Spaanse voetbalsters vol emotie na bereiken WK-finale: 'Dit team kan alles aan'",
+    "subtitle": null,
+    "published_at": "2023-08-15T12:59:41+02:00",
+    "updated_at": "2023-08-15T13:00:12+02:00",
+    "media_id": "co9xfc6a4v21",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6276595/spaanse-voetbalsters-vol-emotie-na-bereiken-wk-finale-dit-team-kan-alles-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276594,
     "slug": "verstappen-presenteert-speciale-helm-voor-gp-van-zandvoort",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Duitsland doet oude regeringsvliegtuigen in de ban nu minister ermee is gestrand",
     "subtitle": null,
     "published_at": "2023-08-15T12:13:27+02:00",
-    "updated_at": "2023-08-15T12:32:22+02:00",
+    "updated_at": "2023-08-15T13:00:25+02:00",
     "media_id": "lo4xxj9a536s",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Bosniërs woedend vanwege femicide: wat is dat eigenlijk?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-08-15T11:16:29+02:00",
-    "updated_at": "2023-08-15T12:16:22+02:00",
+    "updated_at": "2023-08-15T13:02:38+02:00",
     "media_id": "7e6x8fvaxmil",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6276556/tientallen-doden-en-gewonden-door-brand-bij-russisch-tankstation.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276555,
-    "slug": "vlammen-slaan-uit-russisch-tankstation-na-dodelijke-explosie",
-    "type": "video",
-    "title": "Vlammen slaan uit Russisch tankstation na dodelijke explosie",
-    "subtitle": "Video",
-    "published_at": "2023-08-15T07:53:06+02:00",
-    "updated_at": "2023-08-15T08:22:48+02:00",
-    "media_id": "ppmxrdaaqsnl",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6276555/vlammen-slaan-uit-russisch-tankstation-na-dodelijke-explosie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276554,
-    "slug": "chinezen-verlagen-rente-om-economisch-herstel-handje-te-helpen",
-    "type": "article",
-    "title": "Chinezen verlagen rente om economisch herstel handje te helpen",
-    "subtitle": null,
-    "published_at": "2023-08-15T07:52:05+02:00",
-    "updated_at": "2023-08-15T08:04:18+02:00",
-    "media_id": "dtux8o1ayagr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276554/chinezen-verlagen-rente-om-economisch-herstel-handje-te-helpen.html",
     "open_new_window": false,
     "partner": null
   }
