@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276579,
+    "slug": "waterbassin-scheurt-tijdens-duikshow-in-europa-park",
+    "type": "video",
+    "title": "Waterbassin scheurt tijdens duikshow in Europa-Park",
+    "subtitle": "Video",
+    "published_at": "2023-08-15T10:28:51+02:00",
+    "updated_at": "2023-08-15T10:28:52+02:00",
+    "media_id": "ui1x1vya2ahb",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6276579/waterbassin-scheurt-tijdens-duikshow-in-europa-park.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276569,
+    "slug": "mancini-verwijt-bondsvoorzitter-zijn-vertrek-bij-italie-hij-had-me-kunnen-houden",
+    "type": "article",
+    "title": "Mancini verwijt bondsvoorzitter zijn vertrek bij Italië: 'Hij had me kunnen houden'",
+    "subtitle": null,
+    "published_at": "2023-08-15T10:23:40+02:00",
+    "updated_at": "2023-08-15T10:23:41+02:00",
+    "media_id": "smsxx6iawovy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276569/mancini-verwijt-bondsvoorzitter-zijn-vertrek-bij-italie-hij-had-me-kunnen-houden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276578,
     "slug": "rusland-probeert-duikvlucht-roebel-te-stoppen-met-rente-ingreep",
     "type": "article",
@@ -93,12 +139,12 @@
   },
   {
     "id": 6276566,
-    "slug": "oranjebeul-spanje-en-zweden-strijden-om-plek-in-wk-finale",
+    "slug": "oranjebeul-spanje-betere-ploeg-tegen-zweden-in-halve-finale-wk",
     "type": "article",
-    "title": "Oranjebeul Spanje en Zweden strijden om plek in WK-finale",
+    "title": "Oranjebeul Spanje betere ploeg tegen Zweden in halve finale WK",
     "subtitle": "Liveblog",
     "published_at": "2023-08-15T09:30:43+02:00",
-    "updated_at": "2023-08-15T10:18:53+02:00",
+    "updated_at": "2023-08-15T10:22:36+02:00",
     "media_id": "3kdx80raoiwy",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276566/oranjebeul-spanje-en-zweden-strijden-om-plek-in-wk-finale.html",
+    "url": "/voetbal/6276566/oranjebeul-spanje-betere-ploeg-tegen-zweden-in-halve-finale-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6276545/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276544,
-    "slug": "droogte-leidt-tot-lange-wachtrijen-en-vertraging-van-schepen-bij-panamakanaal",
-    "type": "article",
-    "title": "Droogte leidt tot lange wachtrijen en vertraging van schepen bij Panamakanaal",
-    "subtitle": null,
-    "published_at": "2023-08-15T05:27:09+02:00",
-    "updated_at": "2023-08-15T07:34:55+02:00",
-    "media_id": "cz0xihfadfkc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276544/droogte-leidt-tot-lange-wachtrijen-en-vertraging-van-schepen-bij-panamakanaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276446,
-    "slug": "psv-jaagt-tegen-sturm-graz-op-premie-punten-en-uitbreiding-formidabele-reeks",
-    "type": "article",
-    "title": "PSV jaagt tegen Sturm Graz op premie, punten én uitbreiding formidabele reeks",
-    "subtitle": null,
-    "published_at": "2023-08-15T05:20:10+02:00",
-    "updated_at": "2023-08-15T09:18:17+02:00",
-    "media_id": "s8mxuniavkkm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276446/psv-jaagt-tegen-sturm-graz-op-premie-punten-en-uitbreiding-formidabele-reeks.html",
     "open_new_window": false,
     "partner": null
   }
