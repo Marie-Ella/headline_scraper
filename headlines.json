@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276659,
+    "slug": "duitser-breekt-snelheidsrecord-op-speelgoedauto-met-elektrische-motor",
+    "type": "video",
+    "title": "Duitser breekt snelheidsrecord op speelgoedauto met elektrische motor",
+    "subtitle": "Video",
+    "published_at": "2023-08-15T19:07:16+02:00",
+    "updated_at": "2023-08-15T19:09:39+02:00",
+    "media_id": "55yxupqaqcug",
+    "duration": "1:07",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6276659/duitser-breekt-snelheidsrecord-op-speelgoedauto-met-elektrische-motor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276655,
     "slug": "ook-duurste-voetballer-ter-wereld-neymar-vertrekt-naar-saoedi-arabie",
     "type": "article",
     "title": "Ook duurste voetballer ter wereld Neymar vertrekt naar Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-08-15T18:40:12+02:00",
-    "updated_at": "2023-08-15T18:47:20+02:00",
+    "updated_at": "2023-08-15T19:10:46+02:00",
     "media_id": "xykxbkqacfrg",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6276635,
-    "slug": "economen-verwachten-dat-nederland-recessie-net-ontloopt",
+    "slug": "komt-ons-land-in-een-recessie-economen-twijfelen-over-oververhitte-economie",
     "type": "article",
-    "title": "Economen verwachten dat Nederland recessie nét ontloopt",
+    "title": "Komt ons land in een recessie? Economen twijfelen over 'oververhitte economie'",
     "subtitle": null,
     "published_at": "2023-08-15T18:13:24+02:00",
-    "updated_at": "2023-08-15T18:13:25+02:00",
+    "updated_at": "2023-08-15T18:56:09+02:00",
     "media_id": "hmyxuksa0fwf",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6276635/economen-verwachten-dat-nederland-recessie-net-ontloopt.html",
+    "url": "/economie/6276635/komt-ons-land-in-een-recessie-economen-twijfelen-over-oververhitte-economie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6276620/vanmoof-vraagt-ook-in-duitsland-faillissement-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276621,
-    "slug": "jumbo-visma-legt-veelzijdige-amerikaan-jorgenson-voor-drie-jaar-vast",
-    "type": "article",
-    "title": "Jumbo-Visma legt veelzijdige Amerikaan Jorgenson voor drie jaar vast",
-    "subtitle": null,
-    "published_at": "2023-08-15T15:28:11+02:00",
-    "updated_at": "2023-08-15T15:28:13+02:00",
-    "media_id": "nbix1jmayqnl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276621/jumbo-visma-legt-veelzijdige-amerikaan-jorgenson-voor-drie-jaar-vast.html",
     "open_new_window": false,
     "partner": null
   }
