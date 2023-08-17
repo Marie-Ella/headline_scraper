@@ -1,12 +1,35 @@
 [
   {
-    "id": 6276826,
-    "slug": "natuurbrand-op-tenerife-verspreid-zich-binnen-24-uur-over-ruim-1800-hectare",
+    "id": 6276827,
+    "slug": "weerbericht-bewolking-en-soms-een-bui",
     "type": "article",
-    "title": "Natuurbrand op Tenerife verspreid zich binnen 24 uur over ruim 1800 hectare",
+    "title": "Weerbericht: bewolking en soms een bui",
+    "subtitle": null,
+    "published_at": "2023-08-17T05:52:17+02:00",
+    "updated_at": "2023-08-17T05:52:18+02:00",
+    "media_id": "bwcxl93atp0q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6276827/weerbericht-bewolking-en-soms-een-bui.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276826,
+    "slug": "natuurbrand-op-tenerife-verspreidt-zich-verder-brandweer-is-controle-kwijt",
+    "type": "article",
+    "title": "Natuurbrand op Tenerife verspreidt zich verder, brandweer is controle kwijt",
     "subtitle": null,
     "published_at": "2023-08-17T05:47:17+02:00",
-    "updated_at": "2023-08-17T05:47:18+02:00",
+    "updated_at": "2023-08-17T06:02:07+02:00",
     "media_id": "xbux759a5vdo",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6276826/natuurbrand-op-tenerife-verspreid-zich-binnen-24-uur-over-ruim-1800-hectare.html",
+    "url": "/klimaat/6276826/natuurbrand-op-tenerife-verspreidt-zich-verder-brandweer-is-controle-kwijt.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6276825,
-    "slug": "canadese-stad-bedreigd-door-natuurbranden-20000-bewoners-worden-geevacueerd",
+    "slug": "canadese-stad-bedreigd-door-natuurbrand-20000-bewoners-worden-geevacueerd",
     "type": "article",
-    "title": "Canadese stad bedreigd door natuurbranden, 20.000 bewoners worden geëvacueerd",
+    "title": "Canadese stad bedreigd door natuurbrand, 20.000 bewoners worden geëvacueerd",
     "subtitle": null,
     "published_at": "2023-08-17T05:43:07+02:00",
-    "updated_at": "2023-08-17T05:44:45+02:00",
+    "updated_at": "2023-08-17T05:55:29+02:00",
     "media_id": "6ctx73mad7p5",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6276825/canadese-stad-bedreigd-door-natuurbranden-20000-bewoners-worden-geevacueerd.html",
+    "url": "/klimaat/6276825/canadese-stad-bedreigd-door-natuurbrand-20000-bewoners-worden-geevacueerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6276809/jansen-verwacht-beterschap-van-az-tegen-santa-coloma-we-waren-niet-onszelf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276806,
-    "slug": "jongen-14-waarschijnlijk-verdronken-bij-zwemplas-eersel-zoekactie-gestopt",
-    "type": "article",
-    "title": "Jongen (14) waarschijnlijk verdronken bij zwemplas Eersel, zoekactie gestopt",
-    "subtitle": null,
-    "published_at": "2023-08-16T20:03:21+02:00",
-    "updated_at": "2023-08-16T22:02:18+02:00",
-    "media_id": "4flxlg8az1gk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6276806/jongen-14-waarschijnlijk-verdronken-bij-zwemplas-eersel-zoekactie-gestopt.html",
     "open_new_window": false,
     "partner": null
   }
