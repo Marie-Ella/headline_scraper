@@ -1,12 +1,58 @@
 [
   {
+    "id": 6277238,
+    "slug": "dit-is-het-saaiste-plantje-van-de-zee-maar-hij-kan-wel-de-wereld-redden",
+    "type": "video",
+    "title": "Dit is het saaiste plantje van de zee, maar hij kan wel de wereld redden",
+    "subtitle": "Video",
+    "published_at": "2023-08-20T07:43:39+02:00",
+    "updated_at": "2023-08-20T07:43:40+02:00",
+    "media_id": "uhfx3wqadiog",
+    "duration": "12:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277238/dit-is-het-saaiste-plantje-van-de-zee-maar-hij-kan-wel-de-wereld-redden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277237,
+    "slug": "opnieuw-scorende-messi-leidt-inter-miami-naar-eerste-prijs-in-clubhistorie",
+    "type": "article",
+    "title": "Opnieuw scorende Messi leidt Inter Miami naar eerste prijs in clubhistorie",
+    "subtitle": null,
+    "published_at": "2023-08-20T07:41:35+02:00",
+    "updated_at": "2023-08-20T07:43:18+02:00",
+    "media_id": "oc2x2q2ackih",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6277237/opnieuw-scorende-messi-leidt-inter-miami-naar-eerste-prijs-in-clubhistorie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277236,
     "slug": "hevige-regenval-in-mexico-door-orkaan-hilary-zeker-een-dode",
     "type": "article",
     "title": "Hevige regenval in Mexico door orkaan Hilary, zeker één dode",
     "subtitle": null,
     "published_at": "2023-08-20T07:28:00+02:00",
-    "updated_at": "2023-08-20T07:28:01+02:00",
+    "updated_at": "2023-08-20T07:32:36+02:00",
     "media_id": "idbxqahac6g2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Weerbericht: Warme zomerdag met veel zon en een paar stapelwolken",
     "subtitle": null,
     "published_at": "2023-08-20T05:57:46+02:00",
-    "updated_at": "2023-08-20T05:57:47+02:00",
+    "updated_at": "2023-08-20T07:36:18+02:00",
     "media_id": "894xelgayfb1",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6277226/almere-verliest-bij-fortuna-ook-eerste-uitduel-go-ahead-ruim-langs-volendam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277225,
-    "slug": "bol-valt-ook-in-slotmeters-estafetteploeg-grijpt-naast-wk-medaille-op-4x400-meter",
-    "type": "article",
-    "title": "Bol valt ook in slotmeters: estafetteploeg grijpt naast WK-medaille op 4x400 meter",
-    "subtitle": null,
-    "published_at": "2023-08-19T21:57:55+02:00",
-    "updated_at": "2023-08-19T22:28:45+02:00",
-    "media_id": "enyxaz6a4qi1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277225/bol-valt-ook-in-slotmeters-estafetteploeg-grijpt-naast-wk-medaille-op-4x400-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277222,
-    "slug": "in-genade-aangenomen-mbappe-scoort-voor-psg-bellingham-imponeert-bij-real",
-    "type": "article",
-    "title": "In genade aangenomen Mbappé scoort voor PSG, Bellingham imponeert bij Real",
-    "subtitle": null,
-    "published_at": "2023-08-19T21:45:50+02:00",
-    "updated_at": "2023-08-19T23:48:50+02:00",
-    "media_id": "dr7xyrpazstt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277222/in-genade-aangenomen-mbappe-scoort-voor-psg-bellingham-imponeert-bij-real.html",
     "open_new_window": false,
     "partner": null
   }
