@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277445,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-08-22T05:16:15+02:00",
+    "updated_at": "2023-08-22T05:16:16+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6277445/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277336,
     "slug": "team-verstappen-de-belangrijkste-mensen-achter-de-wereldkampioen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6277425/bol-twee-dagen-na-val-probleemloos-naar-halve-finales-400-meter-horden-op-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277423,
-    "slug": "russische-maanlander-crashte-doordat-motor-te-lang-bleef-branden",
-    "type": "article",
-    "title": "Russische maanlander crashte doordat motor te lang bleef branden",
-    "subtitle": null,
-    "published_at": "2023-08-21T18:48:59+02:00",
-    "updated_at": "2023-08-21T18:49:00+02:00",
-    "media_id": "oyrxo6ya8z0f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6277423/russische-maanlander-crashte-doordat-motor-te-lang-bleef-branden.html",
     "open_new_window": false,
     "partner": null
   }
