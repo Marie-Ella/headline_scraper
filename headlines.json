@@ -1,12 +1,58 @@
 [
   {
+    "id": 6277462,
+    "slug": "tegenslag-blijkt-onze-hersenen-blijvend-te-kunnen-veranderen",
+    "type": "article",
+    "title": "Tegenslag blijkt onze hersenen blijvend te kunnen veranderen",
+    "subtitle": null,
+    "published_at": "2023-08-22T09:11:39+02:00",
+    "updated_at": "2023-08-22T09:11:40+02:00",
+    "media_id": "6kuxf0fa2b76",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6277462/tegenslag-blijkt-onze-hersenen-blijvend-te-kunnen-veranderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277463,
+    "slug": "vs-heft-handelsbeperkingen-voor-27-chinese-bedrijven-op",
+    "type": "article",
+    "title": "VS heft handelsbeperkingen voor 27 Chinese bedrijven op",
+    "subtitle": null,
+    "published_at": "2023-08-22T09:11:19+02:00",
+    "updated_at": "2023-08-22T09:11:20+02:00",
+    "media_id": "xe2xslna0ady",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6277463/vs-heft-handelsbeperkingen-voor-27-chinese-bedrijven-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277458,
     "slug": "oekraine-probeert-graanexport-weer-op-gang-te-krijgen",
     "type": "article",
     "title": "Oekraïne probeert graanexport weer op gang te krijgen",
     "subtitle": null,
     "published_at": "2023-08-22T08:47:56+02:00",
-    "updated_at": "2023-08-22T08:47:57+02:00",
+    "updated_at": "2023-08-22T08:58:36+02:00",
     "media_id": "ievxea4awspq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6277443/aanhoudende-hittegolf-leidt-tot-code-rood-in-deel-van-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277363,
-    "slug": "huizenprijzen-weer-in-de-lift-na-maanden-van-daling",
-    "type": "article",
-    "title": "Huizenprijzen weer in de lift na maanden van daling",
-    "subtitle": null,
-    "published_at": "2023-08-22T00:01:15+02:00",
-    "updated_at": "2023-08-22T07:21:08+02:00",
-    "media_id": "dp5x0f0ayn6u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6277363/huizenprijzen-weer-in-de-lift-na-maanden-van-daling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277441,
-    "slug": "trump-gaat-zich-donderdag-melden-bij-gevangenis-in-verkiezingszaak",
-    "type": "article",
-    "title": "Trump gaat zich donderdag melden bij gevangenis in verkiezingszaak",
-    "subtitle": null,
-    "published_at": "2023-08-21T23:32:24+02:00",
-    "updated_at": "2023-08-22T06:39:23+02:00",
-    "media_id": "is0x1zsak88e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1380734,
-      "slug": "verkiezingen-vs",
-      "type": "files",
-      "name": "Verkiezingen Amerika 2020",
-      "style": "nu",
-      "media_id": "m1oxq8wabsoj",
-      "partner": null
-    },
-    "url": "/verkiezingen-vs/6277441/trump-gaat-zich-donderdag-melden-bij-gevangenis-in-verkiezingszaak.html",
     "open_new_window": false,
     "partner": null
   }
