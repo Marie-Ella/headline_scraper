@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277600,
+    "slug": "dankbare-oekraiense-kust-soldaat-na-evacuatie",
+    "type": "video",
+    "title": "Dankbare Oekraïense kust soldaat na evacuatie",
+    "subtitle": "Video",
+    "published_at": "2023-08-22T22:45:39+02:00",
+    "updated_at": "2023-08-22T22:49:05+02:00",
+    "media_id": "nqtxswva70wy",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277600/dankbare-oekraiense-kust-soldaat-na-evacuatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277597,
     "slug": "denemarken-stopt-met-extra-grenscontroles-vanwege-koranverbrandingen",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Sifan Hassan verovert drie dagen na val WK-brons op 1.500 meter",
     "subtitle": null,
     "published_at": "2023-08-22T21:40:41+02:00",
-    "updated_at": "2023-08-22T22:08:49+02:00",
-    "media_id": "b75x7mua3i54",
+    "updated_at": "2023-08-22T22:44:30+02:00",
+    "media_id": "tnuxv9vasojm",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -116,12 +139,12 @@
   },
   {
     "id": 6277589,
-    "slug": "reacties-na-bronzen-wk-medaille-sifan-hassan-op-1500-meter",
+    "slug": "hassan-dolgelukkig-met-unieke-wk-medaille-op-1500-meter",
     "type": "article",
-    "title": "Reacties na bronzen WK-medaille Sifan Hassan op 1.500 meter",
+    "title": "Hassan dolgelukkig met 'unieke' WK-medaille op 1.500 meter",
     "subtitle": "Liveblog",
     "published_at": "2023-08-22T21:14:07+02:00",
-    "updated_at": "2023-08-22T21:55:24+02:00",
+    "updated_at": "2023-08-22T22:30:26+02:00",
     "media_id": "ualxgrca5wtv",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6277589/reacties-na-bronzen-wk-medaille-sifan-hassan-op-1500-meter.html",
+    "url": "/sport-overig/6277589/hassan-dolgelukkig-met-unieke-wk-medaille-op-1500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +277,12 @@
   },
   {
     "id": 6277583,
-    "slug": "psv-via-sangare-weer-naast-rangers-in-cl-play-offduel",
+    "slug": "psv-in-knotsgekke-slotfase-weer-naast-rangers-in-cl-play-offduel",
     "type": "article",
-    "title": "PSV via Sangaré weer naast Rangers in CL-play-offduel",
+    "title": "PSV in knotsgekke slotfase weer naast Rangers in CL-play-offduel",
     "subtitle": "Liveblog",
     "published_at": "2023-08-22T19:58:52+02:00",
-    "updated_at": "2023-08-22T22:24:35+02:00",
+    "updated_at": "2023-08-22T22:38:25+02:00",
     "media_id": "co7xs8aa2wx5",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6277583/psv-via-sangare-weer-naast-rangers-in-cl-play-offduel.html",
+    "url": "/voetbal/6277583/psv-in-knotsgekke-slotfase-weer-naast-rangers-in-cl-play-offduel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6277572/italiaanse-songfestival-winnaar-toto-cutugno-80-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277568,
-    "slug": "toezichthouder-blokkeert-megawinsten-op-stadsverwarming",
-    "type": "article",
-    "title": "Toezichthouder blokkeert megawinsten op stadsverwarming",
-    "subtitle": null,
-    "published_at": "2023-08-22T18:16:05+02:00",
-    "updated_at": "2023-08-22T18:16:07+02:00",
-    "media_id": "z8kx83labszk",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6277568/toezichthouder-blokkeert-megawinsten-op-stadsverwarming.html",
     "open_new_window": false,
     "partner": null
   }
