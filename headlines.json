@@ -1,5 +1,74 @@
 [
   {
+    "id": 6277761,
+    "slug": "gijs-brouwer-teleurstellend-uitgeschakeld-in-kwalificatietoernooi-us-open",
+    "type": "article",
+    "title": "Gijs Brouwer teleurstellend uitgeschakeld in kwalificatietoernooi US Open",
+    "subtitle": null,
+    "published_at": "2023-08-23T22:39:52+02:00",
+    "updated_at": "2023-08-23T22:47:50+02:00",
+    "media_id": "5egxyhmatplq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6277761/gijs-brouwer-teleurstellend-uitgeschakeld-in-kwalificatietoernooi-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277760,
+    "slug": "laros-spreekt-van-matige-race-na-dik-nederlands-record-had-op-meer-gehoopt",
+    "type": "article",
+    "title": "Laros spreekt van matige race na dik Nederlands record: 'Had op meer gehoopt'",
+    "subtitle": null,
+    "published_at": "2023-08-23T22:39:44+02:00",
+    "updated_at": "2023-08-23T22:48:20+02:00",
+    "media_id": "d93x3j4aewg8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277760/laros-spreekt-van-matige-race-na-dik-nederlands-record-had-op-meer-gehoopt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277749,
+    "slug": "rusland-en-aan-wagner-gelinkte-telegram-groep-melden-dood-van-leider-prigozhin",
+    "type": "article",
+    "title": "Rusland en aan Wagner gelinkte Telegram-groep melden dood van leider Prigozhin",
+    "subtitle": null,
+    "published_at": "2023-08-23T22:34:29+02:00",
+    "updated_at": "2023-08-23T22:47:36+02:00",
+    "media_id": "xqrx5pvaksp5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6277749/rusland-en-aan-wagner-gelinkte-telegram-groep-melden-dood-van-leider-prigozhin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277758,
     "slug": "spaanse-voetbalster-hermoso-eist-straf-voor-bondsvoorzitter-na-kus-op-mond",
     "type": "article",
@@ -29,8 +98,8 @@
     "title": "Razendsnel gestarte Lieke Klaver komt tekort voor WK-medaille op 400 meter",
     "subtitle": null,
     "published_at": "2023-08-23T21:52:39+02:00",
-    "updated_at": "2023-08-23T22:11:27+02:00",
-    "media_id": "mqfxf2hai056",
+    "updated_at": "2023-08-23T22:49:00+02:00",
+    "media_id": "4dxxruea8jj7",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -52,8 +121,8 @@
     "title": "Supertalent Niels Laros kan ondanks record niet stunten in WK-finale 1.500 meter",
     "subtitle": null,
     "published_at": "2023-08-23T21:26:09+02:00",
-    "updated_at": "2023-08-23T22:22:09+02:00",
-    "media_id": "io4xmqeasb82",
+    "updated_at": "2023-08-23T22:48:02+02:00",
+    "media_id": "2sfxb3saccgw",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -323,12 +392,12 @@
   },
   {
     "id": 6277739,
-    "slug": "rusland-en-aan-wagner-gelinkte-telegram-groep-melden-dood-van-leider-prigozhin",
+    "slug": "wagner-baas-prigozhin-op-passagierslijst-van-neergestort-vliegtuig-geen-overlevenden",
     "type": "article",
-    "title": "Rusland en aan Wagner gelinkte Telegram-groep melden dood van leider Prigozhin",
+    "title": "Wagner-baas Prigozhin op passagierslijst van neergestort vliegtuig, geen overlevenden",
     "subtitle": null,
     "published_at": "2023-08-23T19:14:00+02:00",
-    "updated_at": "2023-08-23T22:26:09+02:00",
+    "updated_at": "2023-08-23T22:38:17+02:00",
     "media_id": "gz6xh4damc25",
     "duration": null,
     "canonical_section": {
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6277739/rusland-en-aan-wagner-gelinkte-telegram-groep-melden-dood-van-leider-prigozhin.html",
+    "url": "/buitenland/6277739/wagner-baas-prigozhin-op-passagierslijst-van-neergestort-vliegtuig-geen-overlevenden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6277733/brandstofprijzen-gaan-in-2024-hard-omhoog-door-verder-stijgende-accijns.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277734,
-    "slug": "hoe-dna-matchmaking-bedreigde-diersoorten-redt-in-het-wild",
-    "type": "video",
-    "title": "Hoe DNA-matchmaking bedreigde diersoorten redt in het wild",
-    "subtitle": "Video",
-    "published_at": "2023-08-23T18:53:18+02:00",
-    "updated_at": "2023-08-23T19:03:37+02:00",
-    "media_id": "gmrxavoap2kz",
-    "duration": "11:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6277734/hoe-dna-matchmaking-bedreigde-diersoorten-redt-in-het-wild.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277729,
-    "slug": "van-verstappen-tot-tino-martin-zandvoort-is-klaar-voor-formule-1-feest",
-    "type": "article",
-    "title": "Van Verstappen tot Tino Martin: Zandvoort is klaar voor Formule 1-feest",
-    "subtitle": "NU+",
-    "published_at": "2023-08-23T18:53:11+02:00",
-    "updated_at": "2023-08-23T18:53:12+02:00",
-    "media_id": "5c8x072a9kec",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Nederland",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6277729/van-verstappen-tot-tino-martin-zandvoort-is-klaar-voor-formule-1-feest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277732,
-    "slug": "patrick-roest-stapt-na-conflict-met-bondscoach-ritsma-uit-achtervolgingsploeg",
-    "type": "article",
-    "title": "Patrick Roest stapt na conflict met bondscoach Ritsma uit achtervolgingsploeg",
-    "subtitle": null,
-    "published_at": "2023-08-23T18:50:49+02:00",
-    "updated_at": "2023-08-23T21:43:45+02:00",
-    "media_id": "c9gxqlnaa5s0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6277732/patrick-roest-stapt-na-conflict-met-bondscoach-ritsma-uit-achtervolgingsploeg.html",
     "open_new_window": false,
     "partner": null
   }
