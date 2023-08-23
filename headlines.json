@@ -1,5 +1,51 @@
 [
   {
+    "id": 6277704,
+    "slug": "de-huizenprijzen-stijgen-weer-en-dat-is-niet-fijn-voor-starters",
+    "type": "article",
+    "title": "De huizenprijzen stijgen weer, en dat is niet fijn voor starters",
+    "subtitle": "NU+",
+    "published_at": "2023-08-23T17:39:01+02:00",
+    "updated_at": "2023-08-23T17:45:09+02:00",
+    "media_id": "9hsx253auic3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6277704/de-huizenprijzen-stijgen-weer-en-dat-is-niet-fijn-voor-starters.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277718,
+    "slug": "nederlandse-volleybalsters-kloppen-ook-finland-en-pakken-groepswinst-op-ek",
+    "type": "article",
+    "title": "Nederlandse volleybalsters kloppen ook Finland en pakken groepswinst op EK",
+    "subtitle": null,
+    "published_at": "2023-08-23T17:38:51+02:00",
+    "updated_at": "2023-08-23T17:45:50+02:00",
+    "media_id": "sd7xc59a98zj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277718/nederlandse-volleybalsters-kloppen-ook-finland-en-pakken-groepswinst-op-ek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277721,
     "slug": "corendon-vluchten-naar-curacao-krijgen-kindvrije-zone",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Philipsen bevestigt status als sprintkoning met winst in Renewi Tour, Kooij derde",
     "subtitle": null,
     "published_at": "2023-08-23T17:17:51+02:00",
-    "updated_at": "2023-08-23T17:23:40+02:00",
+    "updated_at": "2023-08-23T17:42:21+02:00",
     "media_id": "qshxdvaa6k9h",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Man (80) op Tenerife aangehouden omdat hij blushelikopter neerhaalde met steen",
     "subtitle": null,
     "published_at": "2023-08-23T14:58:43+02:00",
-    "updated_at": "2023-08-23T15:49:17+02:00",
+    "updated_at": "2023-08-23T17:37:11+02:00",
     "media_id": "w6fx2tqak55k",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6277688/inspectie-haalt-51-honden-9-katten-en-papegaai-weg-uit-limburgs-huis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277691,
-    "slug": "ierse-oud-bokser-fury-gaat-uit-zijn-plaat-op-conferentie-van-zoon",
-    "type": "video",
-    "title": "Ierse oud-bokser Fury gaat uit zijn plaat op conferentie van zoon",
-    "subtitle": "Video",
-    "published_at": "2023-08-23T14:48:04+02:00",
-    "updated_at": "2023-08-23T14:50:36+02:00",
-    "media_id": "zgwxu9madzvc",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6277691/ierse-oud-bokser-fury-gaat-uit-zijn-plaat-op-conferentie-van-zoon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277689,
-    "slug": "heavymetalband-disturbed-onderbreekt-concert-voor-meisje-in-tranen",
-    "type": "video",
-    "title": "Heavymetalband Disturbed onderbreekt concert voor meisje in tranen",
-    "subtitle": "Video",
-    "published_at": "2023-08-23T14:46:00+02:00",
-    "updated_at": "2023-08-23T15:06:45+02:00",
-    "media_id": "ilixvwpar5l5",
-    "duration": "1:06",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6277689/heavymetalband-disturbed-onderbreekt-concert-voor-meisje-in-tranen.html",
     "open_new_window": false,
     "partner": null
   }
