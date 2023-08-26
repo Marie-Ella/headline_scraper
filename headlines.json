@@ -1,12 +1,58 @@
 [
   {
-    "id": 6278151,
-    "slug": "fransen-vernietigen-voor-tientallen-miljoenen-aan-wijn-door-veranderende-smaak",
+    "id": 6278155,
+    "slug": "piloten-maken-spectaculaire-vlucht-door-storm-franklin-in-de-vs",
+    "type": "video",
+    "title": "Piloten maken spectaculaire vlucht door storm Franklin in de VS",
+    "subtitle": "Video",
+    "published_at": "2023-08-26T10:33:02+02:00",
+    "updated_at": "2023-08-26T10:40:09+02:00",
+    "media_id": "vaqxx5aau34u",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278155/piloten-maken-spectaculaire-vlucht-door-storm-franklin-in-de-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278154,
+    "slug": "fans-en-coureurs-druppelen-binnen-op-nat-circuit-zandvoort",
     "type": "article",
-    "title": "Fransen vernietigen voor tientallen miljoenen aan wijn door veranderende smaak",
+    "title": "Fans en coureurs druppelen binnen op nat Circuit Zandvoort",
+    "subtitle": "Liveblog",
+    "published_at": "2023-08-26T10:31:18+02:00",
+    "updated_at": "2023-08-26T10:40:18+02:00",
+    "media_id": "mddxg7vaz8nv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6278154/fans-en-coureurs-druppelen-binnen-op-nat-circuit-zandvoort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278151,
+    "slug": "fransen-vernietigen-voor-tientallen-miljoenen-aan-wijn-smaak-is-veranderd",
+    "type": "article",
+    "title": "Fransen vernietigen voor tientallen miljoenen aan wijn: smaak is veranderd",
     "subtitle": null,
     "published_at": "2023-08-26T10:24:19+02:00",
-    "updated_at": "2023-08-26T10:26:16+02:00",
+    "updated_at": "2023-08-26T10:48:14+02:00",
     "media_id": "k17xa0la1582",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6278151/fransen-vernietigen-voor-tientallen-miljoenen-aan-wijn-door-veranderende-smaak.html",
+    "url": "/economie/6278151/fransen-vernietigen-voor-tientallen-miljoenen-aan-wijn-smaak-is-veranderd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "'De Vries geen seconde in beeld geweest als vervanger'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-08-26T07:49:06+02:00",
-    "updated_at": "2023-08-26T07:49:08+02:00",
+    "updated_at": "2023-08-26T10:34:03+02:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6277820/wie-houdt-jumbo-visma-van-unieke-triple-vijf-vragen-over-de-vuelta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278030,
-    "slug": "martina-over-zijn-negen-wks-in-twintig-jaar-heb-genoten-van-elke-dag",
-    "type": "article",
-    "title": "Martina over zijn negen WK's in twintig jaar: 'Heb genoten van elke dag'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-26T05:04:32+02:00",
-    "updated_at": "2023-08-26T05:04:36+02:00",
-    "media_id": "4zixts6amkl8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6278030/martina-over-zijn-negen-wks-in-twintig-jaar-heb-genoten-van-elke-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277387,
-    "slug": "onze-steden-worden-warmer-maar-meer-groen-kan-verkoeling-brengen",
-    "type": "article",
-    "title": "Onze steden worden warmer, maar meer groen kan verkoeling brengen",
-    "subtitle": "NU+",
-    "published_at": "2023-08-26T05:02:44+02:00",
-    "updated_at": "2023-08-26T05:02:45+02:00",
-    "media_id": "bx5xc93amkrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6277387/onze-steden-worden-warmer-maar-meer-groen-kan-verkoeling-brengen.html",
     "open_new_window": false,
     "partner": null
   }
