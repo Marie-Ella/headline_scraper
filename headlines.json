@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278268,
+    "slug": "het-is-vernietigend-wat-verstappen-bij-perez-doet",
+    "type": "audio",
+    "title": "'Het is vernietigend wat Verstappen bij Pérez doet'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-08-27T09:42:25+02:00",
+    "updated_at": "2023-08-27T09:42:26+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6278268/het-is-vernietigend-wat-verstappen-bij-perez-doet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278277,
     "slug": "invaller-messi-bekroont-mls-debuut-met-goal-inter-miami-verlaat-laatste-plek",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "WK-droom Nageeye spat uiteen: Nederlander stopt na 27 kilometer met marathon",
     "subtitle": null,
     "published_at": "2023-08-27T08:42:05+02:00",
-    "updated_at": "2023-08-27T09:23:13+02:00",
+    "updated_at": "2023-08-27T09:36:49+02:00",
     "media_id": "xq1xec3a2u10",
     "duration": null,
     "canonical_section": {
@@ -326,9 +349,9 @@
     "slug": "circuitspeaker-rene-de-boer-f1-op-zandvoort-is-voor-mij-de-bekroning",
     "type": "article",
     "title": "Circuitspeaker René de Boer: 'F1 op Zandvoort is voor mij dé bekroning'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-08-27T05:05:43+02:00",
-    "updated_at": "2023-08-27T05:05:44+02:00",
+    "updated_at": "2023-08-27T09:48:08+02:00",
     "media_id": "vnuxdgfakpi7",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "De wondere wereld van de bramen: een probleemstruik vol biodiversiteit",
     "subtitle": "NU+",
     "published_at": "2023-08-27T05:00:21+02:00",
-    "updated_at": "2023-08-27T09:11:50+02:00",
+    "updated_at": "2023-08-27T09:34:04+02:00",
     "media_id": "ij2xt64ae4lx",
     "duration": null,
     "canonical_section": {
@@ -415,12 +438,12 @@
   },
   {
     "id": 6278267,
-    "slug": "president-van-zimbabwe-herkozen-bij-betwiste-verkiezingen",
+    "slug": "president-van-zimbabwe-herkozen-bij-betwiste-verkiezing",
     "type": "article",
-    "title": "President van Zimbabwe herkozen bij betwiste verkiezingen",
+    "title": "President van Zimbabwe herkozen bij betwiste verkiezing",
     "subtitle": null,
     "published_at": "2023-08-27T00:51:28+02:00",
-    "updated_at": "2023-08-27T00:51:29+02:00",
+    "updated_at": "2023-08-27T09:32:40+02:00",
     "media_id": "06lxhniat10s",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278267/president-van-zimbabwe-herkozen-bij-betwiste-verkiezingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278265,
-    "slug": "noord-koreanen-die-sinds-pandemie-in-buitenland-zijn-mogen-terugkeren",
-    "type": "article",
-    "title": "Noord-Koreanen die sinds pandemie in buitenland zijn mogen terugkeren",
-    "subtitle": null,
-    "published_at": "2023-08-27T00:45:04+02:00",
-    "updated_at": "2023-08-27T08:56:27+02:00",
-    "media_id": "hqmxs0eanyw9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278265/noord-koreanen-die-sinds-pandemie-in-buitenland-zijn-mogen-terugkeren.html",
+    "url": "/buitenland/6278267/president-van-zimbabwe-herkozen-bij-betwiste-verkiezing.html",
     "open_new_window": false,
     "partner": null
   }
