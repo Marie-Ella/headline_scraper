@@ -1,12 +1,35 @@
 [
   {
-    "id": 6278336,
-    "slug": "drie-wandelaars-in-belgie-naar-ziekenhuis-na-wespenaanval",
+    "id": 6278338,
+    "slug": "fc-groningen-bijt-zich-zes-dagen-na-afgang-in-utrecht-stuk-op-willem-ii",
     "type": "article",
-    "title": "Drie wandelaars in België naar ziekenhuis na wespenaanval",
+    "title": "FC Groningen bijt zich zes dagen na afgang in Utrecht stuk op Willem II",
+    "subtitle": null,
+    "published_at": "2023-08-27T16:29:00+02:00",
+    "updated_at": "2023-08-27T16:35:10+02:00",
+    "media_id": "gqex24uanng6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278338/fc-groningen-bijt-zich-zes-dagen-na-afgang-in-utrecht-stuk-op-willem-ii.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278336,
+    "slug": "drie-wandelaars-in-belgie-naar-ziekenhuis-na-aanval-door-aziatische-hoornaars",
+    "type": "article",
+    "title": "Drie wandelaars in België naar ziekenhuis na aanval door Aziatische hoornaars",
     "subtitle": null,
     "published_at": "2023-08-27T16:15:54+02:00",
-    "updated_at": "2023-08-27T16:20:21+02:00",
+    "updated_at": "2023-08-27T16:38:25+02:00",
     "media_id": "nuox0l6a92gc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278336/drie-wandelaars-in-belgie-naar-ziekenhuis-na-wespenaanval.html",
+    "url": "/buitenland/6278336/drie-wandelaars-in-belgie-naar-ziekenhuis-na-aanval-door-aziatische-hoornaars.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Van de koning tot Xavi Simons: bekendheden bezoeken GP Nederland",
     "subtitle": "In beeld",
     "published_at": "2023-08-27T15:46:50+02:00",
-    "updated_at": "2023-08-27T16:22:41+02:00",
+    "updated_at": "2023-08-27T16:38:14+02:00",
     "media_id": "z20xfjlaw3pn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6278309/lichaam-wagner-leider-prigozhin-geidentificeerd-door-russische-onderzoekers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278308,
-    "slug": "opvangcentrum-lampedusa-overvol-door-komst-grote-aantallen-bootvluchtelingen",
-    "type": "article",
-    "title": "Opvangcentrum Lampedusa overvol door komst grote aantallen bootvluchtelingen",
-    "subtitle": null,
-    "published_at": "2023-08-27T12:44:45+02:00",
-    "updated_at": "2023-08-27T15:07:57+02:00",
-    "media_id": "twdxkh7ae96z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278308/opvangcentrum-lampedusa-overvol-door-komst-grote-aantallen-bootvluchtelingen.html",
     "open_new_window": false,
     "partner": null
   }
