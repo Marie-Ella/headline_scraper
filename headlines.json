@@ -1,5 +1,51 @@
 [
   {
+    "id": 6278500,
+    "slug": "reddingshelikopter-stort-neer-op-amerikaanse-woning",
+    "type": "video",
+    "title": "Reddingshelikopter stort neer op Amerikaanse woning",
+    "subtitle": "Video",
+    "published_at": "2023-08-28T19:38:42+02:00",
+    "updated_at": "2023-08-28T19:48:35+02:00",
+    "media_id": "70gxfliap3jm",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278500/reddingshelikopter-stort-neer-op-amerikaanse-woning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278499,
+    "slug": "swiatek-maakt-gehakt-van-zweedse-peterson-in-openingsronde-us-open",
+    "type": "article",
+    "title": "Swiatek maakt gehakt van Zweedse Peterson in openingsronde US Open",
+    "subtitle": null,
+    "published_at": "2023-08-28T19:36:28+02:00",
+    "updated_at": "2023-08-28T19:45:48+02:00",
+    "media_id": "mtix3tcanbtb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6278499/swiatek-maakt-gehakt-van-zweedse-peterson-in-openingsronde-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278497,
     "slug": "evenepoel-heeft-na-nieuw-incident-buik-vol-van-onveilige-situaties-in-vuelta",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Rechtszaak over rol Trump bij bestorming Capitool begint op 4 maart",
     "subtitle": null,
     "published_at": "2023-08-28T17:57:22+02:00",
-    "updated_at": "2023-08-28T19:19:49+02:00",
+    "updated_at": "2023-08-28T19:33:09+02:00",
     "media_id": "tm7xyncav4tx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278464/voetbalwereld-steunt-hermoso-na-kus-van-omstreden-bondsvoorzitter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278462,
-    "slug": "noodweer-in-oostenrijk-en-zwitserland-leidt-tot-modderstromen-en-overstromingen",
-    "type": "article",
-    "title": "Noodweer in Oostenrijk en Zwitserland leidt tot modderstromen en overstromingen",
-    "subtitle": null,
-    "published_at": "2023-08-28T15:50:23+02:00",
-    "updated_at": "2023-08-28T15:50:24+02:00",
-    "media_id": "jjqx8i1as88y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278462/noodweer-in-oostenrijk-en-zwitserland-leidt-tot-modderstromen-en-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278459,
-    "slug": "speelgoedketen-intertoys-te-koop-gezet-ook-blokker-en-bcc-worden-verkocht",
-    "type": "article",
-    "title": "Speelgoedketen Intertoys te koop gezet, ook Blokker en BCC worden verkocht",
-    "subtitle": null,
-    "published_at": "2023-08-28T15:27:08+02:00",
-    "updated_at": "2023-08-28T16:31:32+02:00",
-    "media_id": "5w7xk7babp2i",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6278459/speelgoedketen-intertoys-te-koop-gezet-ook-blokker-en-bcc-worden-verkocht.html",
     "open_new_window": false,
     "partner": null
   }
