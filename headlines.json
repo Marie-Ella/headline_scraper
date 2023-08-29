@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278527,
+    "slug": "skien-in-europa-straks-niet-meer-overal-mogelijk-door-klimaatverandering",
+    "type": "article",
+    "title": "Skiën in Europa straks niet meer overal mogelijk door klimaatverandering",
+    "subtitle": null,
+    "published_at": "2023-08-29T07:21:19+02:00",
+    "updated_at": "2023-08-29T07:21:21+02:00",
+    "media_id": "p78x18tajpq5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6278527/skien-in-europa-straks-niet-meer-overal-mogelijk-door-klimaatverandering.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278524,
     "slug": "djokovic-herovert-eerste-plek-op-wereldranglijst-met-simpele-zege-op-us-open",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6278066,
-    "slug": "hoe-de-mijn-een-onderdeel-werd-van-het-dagelijkse-leven-in-oekraine",
+    "slug": "waarom-oekrainers-moeten-leren-leven-met-mijnen",
     "type": "video",
-    "title": "Hoe de mijn een onderdeel werd van het dagelijkse leven in Oekraïne",
+    "title": "Waarom Oekraïners moeten leren leven met mijnen",
     "subtitle": "Explainer",
     "published_at": "2023-08-29T06:27:46+02:00",
-    "updated_at": "2023-08-29T07:03:54+02:00",
+    "updated_at": "2023-08-29T07:29:52+02:00",
     "media_id": "bn5xy1jahal9",
     "duration": "1:56",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6278066/hoe-de-mijn-een-onderdeel-werd-van-het-dagelijkse-leven-in-oekraine.html",
+    "url": "/spanningen-oekraine/6278066/waarom-oekrainers-moeten-leren-leven-met-mijnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Oud-Kamervoorzitter Arib zet stappen om onderzoek naar haar gedrag te stoppen",
     "subtitle": null,
     "published_at": "2023-08-29T00:01:30+02:00",
-    "updated_at": "2023-08-29T06:32:49+02:00",
+    "updated_at": "2023-08-29T07:17:08+02:00",
     "media_id": "2qrxvajaezzs",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6278510/chileen-die-bij-geboorte-werd-ontvoerd-na-42-jaar-herenigd-met-familie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278509,
-    "slug": "spaanse-media-brengen-nieuwe-beelden-van-kus-bondsvoorzitter",
-    "type": "video",
-    "title": "Spaanse media brengen nieuwe beelden van kus bondsvoorzitter",
-    "subtitle": "Video",
-    "published_at": "2023-08-28T21:44:43+02:00",
-    "updated_at": "2023-08-28T21:48:45+02:00",
-    "media_id": "1uwxctuat4uu",
-    "duration": "0:12",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6278509/spaanse-media-brengen-nieuwe-beelden-van-kus-bondsvoorzitter.html",
     "open_new_window": false,
     "partner": null
   }
