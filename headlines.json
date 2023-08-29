@@ -1,5 +1,51 @@
 [
   {
+    "id": 6278635,
+    "slug": "verstappen-krijgt-nieuwe-trofee-nadat-norris-vorige-had-vernield",
+    "type": "video",
+    "title": "Verstappen krijgt nieuwe trofee nadat Norris vorige had vernield",
+    "subtitle": "Video",
+    "published_at": "2023-08-29T17:43:38+02:00",
+    "updated_at": "2023-08-29T17:43:39+02:00",
+    "media_id": "gvdxk0cao5g2",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278635/verstappen-krijgt-nieuwe-trofee-nadat-norris-vorige-had-vernield.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278633,
+    "slug": "chaotische-finale-in-vuelta-marijn-van-den-berg-valt-in-laatste-bocht-zege-groves",
+    "type": "article",
+    "title": "Chaotische finale in Vuelta: Marijn van den Berg valt in laatste bocht, zege Groves",
+    "subtitle": null,
+    "published_at": "2023-08-29T17:39:24+02:00",
+    "updated_at": "2023-08-29T17:44:46+02:00",
+    "media_id": "qyexfltafprj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6278633/chaotische-finale-in-vuelta-marijn-van-den-berg-valt-in-laatste-bocht-zege-groves.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278629,
     "slug": "wagner-baas-prigozhin-in-besloten-kring-begraven-in-sint-petersburg-poetin-afwezig",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Zaak opgelost: Verstappen krijgt nieuwe trofee van Norris na knullige actie",
     "subtitle": null,
     "published_at": "2023-08-29T16:54:38+02:00",
-    "updated_at": "2023-08-29T16:54:40+02:00",
+    "updated_at": "2023-08-29T17:41:07+02:00",
     "media_id": "geqxzooah5t0",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "OM eist zes jaar cel voor overval op Mark Gillis",
     "subtitle": null,
     "published_at": "2023-08-29T14:47:38+02:00",
-    "updated_at": "2023-08-29T17:28:54+02:00",
+    "updated_at": "2023-08-29T17:29:55+02:00",
     "media_id": "4gcxku1a2et6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278601/onana-toch-weer-opgeroepen-voor-kameroen-na-eerder-conflict-met-bondscoach.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278596,
-    "slug": "spanjaarden-eisen-ontslag-bondsvoorzitter-na-omstreden-kus",
-    "type": "video",
-    "title": "Spanjaarden eisen ontslag bondsvoorzitter na omstreden kus",
-    "subtitle": "Video",
-    "published_at": "2023-08-29T13:59:39+02:00",
-    "updated_at": "2023-08-29T13:59:40+02:00",
-    "media_id": "etaxb7ua83gj",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6278596/spanjaarden-eisen-ontslag-bondsvoorzitter-na-omstreden-kus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278593,
-    "slug": "viertal-wilde-vuelta-etappe-saboteren-door-400-liter-vloeistof-op-de-weg-te-gooien",
-    "type": "article",
-    "title": "Viertal wilde Vuelta-etappe saboteren door 400 liter vloeistof op de weg te gooien",
-    "subtitle": null,
-    "published_at": "2023-08-29T13:56:57+02:00",
-    "updated_at": "2023-08-29T17:09:57+02:00",
-    "media_id": "iy2xgpearciw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6278593/viertal-wilde-vuelta-etappe-saboteren-door-400-liter-vloeistof-op-de-weg-te-gooien.html",
     "open_new_window": false,
     "partner": null
   }
