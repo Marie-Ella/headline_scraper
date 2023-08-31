@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278821,
+    "slug": "weerbericht-mix-van-zon-en-wolken-met-af-en-toe-een-onweersbui",
+    "type": "article",
+    "title": "Weerbericht: Mix van zon en wolken met af en toe een (onweers)bui",
+    "subtitle": null,
+    "published_at": "2023-08-31T05:35:53+02:00",
+    "updated_at": "2023-08-31T05:48:16+02:00",
+    "media_id": "wubx4d0ax55g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6278821/weerbericht-mix-van-zon-en-wolken-met-af-en-toe-een-onweersbui.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278822,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6278795/bierbril-ontkracht-na-nieuw-onderzoek-alcohol-maakt-anderen-niet-aantrekkelijker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278800,
-    "slug": "az-opnieuw-zonder-clasie-in-voor-nederlands-voetbal-cruciaal-europees-duel",
-    "type": "article",
-    "title": "AZ opnieuw zonder Clasie in voor Nederlands voetbal cruciaal Europees duel",
-    "subtitle": null,
-    "published_at": "2023-08-30T20:14:14+02:00",
-    "updated_at": "2023-08-30T20:34:04+02:00",
-    "media_id": "rhjxwlda40bu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278800/az-opnieuw-zonder-clasie-in-voor-nederlands-voetbal-cruciaal-europees-duel.html",
     "open_new_window": false,
     "partner": null
   }
