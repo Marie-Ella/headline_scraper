@@ -1,12 +1,35 @@
 [
   {
+    "id": 6278898,
+    "slug": "volleybalevenement-breekt-het-sportbezoekrecord-voor-vrouwen",
+    "type": "video",
+    "title": "Volleybalevenement breekt het sportbezoekrecord voor vrouwen",
+    "subtitle": "Video",
+    "published_at": "2023-08-31T14:37:51+02:00",
+    "updated_at": "2023-08-31T14:37:52+02:00",
+    "media_id": "mycx2u0ah64o",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278898/volleybalevenement-breekt-het-sportbezoekrecord-voor-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278895,
     "slug": "burgernet-stopt-morgen-met-opsporingsberichten-via-sms",
     "type": "article",
     "title": "Burgernet stopt morgen met opsporingsberichten via sms",
     "subtitle": null,
     "published_at": "2023-08-31T14:20:54+02:00",
-    "updated_at": "2023-08-31T14:22:10+02:00",
+    "updated_at": "2023-08-31T14:38:20+02:00",
     "media_id": "cgix29oa7rr1",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Zevenvoudig kampioen Hamilton (38) verlengt contract bij Mercedes tot eind 2025",
     "subtitle": null,
     "published_at": "2023-08-31T14:06:28+02:00",
-    "updated_at": "2023-08-31T14:25:33+02:00",
+    "updated_at": "2023-08-31T14:36:42+02:00",
     "media_id": "j4fxpngack89",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Hoe wordt de inflatie precies berekend?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-08-31T13:16:51+02:00",
-    "updated_at": "2023-08-31T13:30:15+02:00",
+    "updated_at": "2023-08-31T14:37:28+02:00",
     "media_id": "sb0xpq1agi4p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278864/legendarische-oranjedoelman-jan-jongbloed-op-82-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278858,
-    "slug": "megabank-credit-suisse-verdwijnt-volledig-van-toneel-na-overname-door-ubs",
-    "type": "article",
-    "title": "Megabank Credit Suisse verdwijnt volledig van toneel na overname door UBS",
-    "subtitle": null,
-    "published_at": "2023-08-31T11:36:51+02:00",
-    "updated_at": "2023-08-31T13:42:32+02:00",
-    "media_id": "bicxffzaz1ec",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6278858/megabank-credit-suisse-verdwijnt-volledig-van-toneel-na-overname-door-ubs.html",
     "open_new_window": false,
     "partner": null
   }
