@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279094,
+    "slug": "demonstraties-in-congo-tegen-vn-lopen-uit-op-geweld",
+    "type": "video",
+    "title": "Demonstraties in Congo tegen VN lopen uit op geweld",
+    "subtitle": "Video",
+    "published_at": "2023-09-01T16:47:23+02:00",
+    "updated_at": "2023-09-01T16:48:35+02:00",
+    "media_id": "me0x9wjar1di",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279094/demonstraties-in-congo-tegen-vn-lopen-uit-op-geweld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278861,
+    "slug": "transfersoap-eiting-ten-einde-middenvelder-tekent-voor-drie-jaar-bij-fc-twente",
+    "type": "article",
+    "title": "Transfersoap Eiting ten einde: middenvelder tekent voor drie jaar bij FC Twente",
+    "subtitle": null,
+    "published_at": "2023-09-01T16:36:59+02:00",
+    "updated_at": "2023-09-01T16:42:50+02:00",
+    "media_id": "o28xmuoavbme",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278861/transfersoap-eiting-ten-einde-middenvelder-tekent-voor-drie-jaar-bij-fc-twente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279083,
     "slug": "waarom-begint-de-herfst-vandaag-maar-ook-op-21-en-23-september",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6279091,
-    "slug": "toptalent-van-anrooij-schrijft-historie-met-grandioze-alpensolo-in-tour-de-lavenir",
+    "slug": "ontketende-van-anrooij-schrijft-historie-met-grandioze-alpensolo-in-tour-de-lavenir",
     "type": "article",
-    "title": "Toptalent Van Anrooij schrijft historie met grandioze Alpensolo in Tour de l'Avenir",
+    "title": "Ontketende Van Anrooij schrijft historie met grandioze Alpensolo in Tour de l'Avenir",
     "subtitle": null,
     "published_at": "2023-09-01T16:21:29+02:00",
-    "updated_at": "2023-09-01T16:29:03+02:00",
+    "updated_at": "2023-09-01T16:48:07+02:00",
     "media_id": "uffx0vaa04lz",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6279091/toptalent-van-anrooij-schrijft-historie-met-grandioze-alpensolo-in-tour-de-lavenir.html",
+    "url": "/wielrennen/6279091/ontketende-van-anrooij-schrijft-historie-met-grandioze-alpensolo-in-tour-de-lavenir.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Slot verwacht geen grote transfers meer: 'Ben blij dat het 1 september is'",
     "subtitle": null,
     "published_at": "2023-09-01T15:53:06+02:00",
-    "updated_at": "2023-09-01T16:06:27+02:00",
+    "updated_at": "2023-09-01T16:49:03+02:00",
     "media_id": "6b9x1g1ammis",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279064/reiziger-selecteert-van-bommel-hato-en-nog-elf-debutanten-voor-jong-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279061,
-    "slug": "bondscoach-spanje-heeft-spijt-van-applaus-voor-rubiales-maar-wil-niet-opstappen",
-    "type": "article",
-    "title": "Bondscoach Spanje heeft spijt van applaus voor Rubiales, maar wil niet opstappen",
-    "subtitle": null,
-    "published_at": "2023-09-01T13:54:12+02:00",
-    "updated_at": "2023-09-01T14:09:22+02:00",
-    "media_id": "k1exicgazsaa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279061/bondscoach-spanje-heeft-spijt-van-applaus-voor-rubiales-maar-wil-niet-opstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279056,
-    "slug": "ajax-loot-met-marseille-en-brighton-zware-tegenstanders-in-europa-league",
-    "type": "article",
-    "title": "Ajax loot met Marseille en Brighton zware tegenstanders in Europa League",
-    "subtitle": null,
-    "published_at": "2023-09-01T13:34:14+02:00",
-    "updated_at": "2023-09-01T15:08:41+02:00",
-    "media_id": "nt3x2xraq4x2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279056/ajax-loot-met-marseille-en-brighton-zware-tegenstanders-in-europa-league.html",
     "open_new_window": false,
     "partner": null
   }
