@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279012,
+    "slug": "gedetineerden-nemen-gevangenis-in-ecuador-over",
+    "type": "video",
+    "title": "Gedetineerden nemen gevangenis in Ecuador over",
+    "subtitle": "Video",
+    "published_at": "2023-09-01T10:18:42+02:00",
+    "updated_at": "2023-09-01T10:18:42+02:00",
+    "media_id": "y4px5x5arogl",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279012/gedetineerden-nemen-gevangenis-in-ecuador-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278993,
+    "slug": "naast-gerrit-hiemstra-krijgt-ook-piet-paulusma-een-eigen-storm",
+    "type": "article",
+    "title": "Naast Gerrit Hiemstra krijgt ook Piet Paulusma een eigen storm",
+    "subtitle": null,
+    "published_at": "2023-09-01T09:54:38+02:00",
+    "updated_at": "2023-09-01T09:54:39+02:00",
+    "media_id": "v1dxv0oap4ok",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6278993/naast-gerrit-hiemstra-krijgt-ook-piet-paulusma-een-eigen-storm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278997,
     "slug": "vera-pauw-haalt-hard-uit-naar-ierse-voetbalbond-ze-hebben-mij-ondermijnd",
     "type": "article",
     "title": "Vera Pauw haalt hard uit naar Ierse voetbalbond: 'Ze hebben mij ondermijnd'",
     "subtitle": null,
     "published_at": "2023-09-01T09:47:03+02:00",
-    "updated_at": "2023-09-01T09:47:05+02:00",
+    "updated_at": "2023-09-01T10:10:45+02:00",
     "media_id": "ni1x980ae6kk",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Klaassen kiest niet voor reserverol bij Ajax en staat voor avontuur bij Internazionale",
     "subtitle": null,
     "published_at": "2023-09-01T09:28:02+02:00",
-    "updated_at": "2023-09-01T09:47:32+02:00",
+    "updated_at": "2023-09-01T10:19:21+02:00",
     "media_id": "kyaxdhfai3nr",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "FIFA-baas Infantino walgt van kus Rubiales: 'Had nooit mogen gebeuren'",
     "subtitle": null,
     "published_at": "2023-09-01T06:55:22+02:00",
-    "updated_at": "2023-09-01T08:23:15+02:00",
+    "updated_at": "2023-09-01T10:11:13+02:00",
     "media_id": "mexxt9iaye49",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6278976/diederik-van-rooijen-maakt-met-eigen-productiehuis-serie-voor-videoland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278975,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-09-01T05:51:10+02:00",
-    "updated_at": "2023-09-01T07:34:46+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6278975/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278974,
-    "slug": "vijf-verdachten-staan-vandaag-terecht-voor-bedreigen-schrijver-pim-lammers",
-    "type": "article",
-    "title": "Vijf verdachten staan vandaag terecht voor bedreigen schrijver Pim Lammers",
-    "subtitle": null,
-    "published_at": "2023-09-01T05:31:40+02:00",
-    "updated_at": "2023-09-01T08:03:13+02:00",
-    "media_id": "qcoxrtpa9fim",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6278974/vijf-verdachten-staan-vandaag-terecht-voor-bedreigen-schrijver-pim-lammers.html",
     "open_new_window": false,
     "partner": null
   }
