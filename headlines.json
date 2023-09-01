@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279130,
+    "slug": "finse-politicus-en-jongste-premier-ooit-sanna-marin-treedt-af-als-partijleider",
+    "type": "article",
+    "title": "Finse politicus en jongste premier ooit Sanna Marin treedt af als partijleider",
+    "subtitle": null,
+    "published_at": "2023-09-01T20:27:02+02:00",
+    "updated_at": "2023-09-01T20:28:05+02:00",
+    "media_id": "terx8neatyel",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6279130/finse-politicus-en-jongste-premier-ooit-sanna-marin-treedt-af-als-partijleider.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279131,
+    "slug": "titelverdedigster-swiatek-dendert-door-naar-achtste-finales-us-open",
+    "type": "article",
+    "title": "Titelverdedigster Swiatek dendert door naar achtste finales US Open",
+    "subtitle": null,
+    "published_at": "2023-09-01T20:22:04+02:00",
+    "updated_at": "2023-09-01T20:22:05+02:00",
+    "media_id": "hjhxajfakscf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6279131/titelverdedigster-swiatek-dendert-door-naar-achtste-finales-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278721,
     "slug": "psv-stunt-en-haalt-lozano-na-vier-jaar-napoli-terug-naar-eindhoven",
     "type": "article",
     "title": "PSV stunt en haalt Lozano na vier jaar Napoli terug naar Eindhoven",
     "subtitle": null,
     "published_at": "2023-09-01T20:06:37+02:00",
-    "updated_at": "2023-09-01T20:07:12+02:00",
+    "updated_at": "2023-09-01T20:21:12+02:00",
     "media_id": "zy7xtkia0xxg",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Viertal krijgt taakstraffen wegens bedreigen schrijver Pim Lammers",
     "subtitle": null,
     "published_at": "2023-09-01T19:55:25+02:00",
-    "updated_at": "2023-09-01T20:05:49+02:00",
+    "updated_at": "2023-09-01T20:23:07+02:00",
     "media_id": "3ogx7mkaqtz9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279096/psv-coach-bosz-over-aanstaande-transfer-lozano-nog-niet-100-procent-rond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279094,
-    "slug": "demonstraties-in-congo-tegen-vn-lopen-uit-op-geweld",
-    "type": "video",
-    "title": "Demonstraties in Congo tegen VN lopen uit op geweld",
-    "subtitle": "Video",
-    "published_at": "2023-09-01T16:47:23+02:00",
-    "updated_at": "2023-09-01T16:50:41+02:00",
-    "media_id": "me0x9wjar1di",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6279094/demonstraties-in-congo-tegen-vn-lopen-uit-op-geweld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278861,
-    "slug": "transfersoap-eiting-ten-einde-middenvelder-tekent-voor-drie-jaar-bij-fc-twente",
-    "type": "article",
-    "title": "Transfersoap Eiting ten einde: middenvelder tekent voor drie jaar bij FC Twente",
-    "subtitle": null,
-    "published_at": "2023-09-01T16:36:59+02:00",
-    "updated_at": "2023-09-01T19:30:46+02:00",
-    "media_id": "o28xmuoavbme",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278861/transfersoap-eiting-ten-einde-middenvelder-tekent-voor-drie-jaar-bij-fc-twente.html",
     "open_new_window": false,
     "partner": null
   }
