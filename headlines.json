@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279153,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-02T05:17:31+02:00",
+    "updated_at": "2023-09-02T05:17:32+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6279153/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279097,
     "slug": "verstappen-op-recordjacht-in-monza-hij-hoort-al-bij-een-elitegroepje",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6278591,
-    "slug": "waarom-natuur-in-de-wijk-belangrijk-is-niet-alleen-voor-de-bij-vlinder-en-vogel",
+    "slug": "waarom-natuur-in-de-wijk-belangrijk-is-en-niet-alleen-voor-de-bij-vlinder-en-vogel",
     "type": "article",
-    "title": "Waarom natuur in de wijk belangrijk is (niet alleen voor de bij, vlinder en vogel)",
+    "title": "Waarom natuur in de wijk belangrijk is (en niet alleen voor de bij, vlinder en vogel)",
     "subtitle": "NU+",
     "published_at": "2023-09-02T05:06:10+02:00",
-    "updated_at": "2023-09-02T05:12:35+02:00",
+    "updated_at": "2023-09-02T05:16:02+02:00",
     "media_id": "um6x5smatf8x",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6278591/waarom-natuur-in-de-wijk-belangrijk-is-niet-alleen-voor-de-bij-vlinder-en-vogel.html",
+    "url": "/klimaat/6278591/waarom-natuur-in-de-wijk-belangrijk-is-en-niet-alleen-voor-de-bij-vlinder-en-vogel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279140/koploper-roda-lijdt-eerste-nederlaag-door-blunder-fc-groningen-herstelt-zich.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279139,
-    "slug": "sparta-komt-op-het-kasteel-niet-verder-dan-gelijkspel-tegen-nec",
-    "type": "article",
-    "title": "Sparta komt op Het Kasteel niet verder dan gelijkspel tegen NEC",
-    "subtitle": null,
-    "published_at": "2023-09-01T21:57:37+02:00",
-    "updated_at": "2023-09-01T23:16:49+02:00",
-    "media_id": "2fexkl3ayhz3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279139/sparta-komt-op-het-kasteel-niet-verder-dan-gelijkspel-tegen-nec.html",
     "open_new_window": false,
     "partner": null
   }
