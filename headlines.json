@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279164,
+    "slug": "scholen-komen-in-opstand-tegen-woekerprijzen-en-nemen-geen-uitzendkrachten-meer-aan",
+    "type": "article",
+    "title": "Scholen komen in opstand tegen 'woekerprijzen' en nemen geen uitzendkrachten meer aan",
+    "subtitle": null,
+    "published_at": "2023-09-02T09:41:55+02:00",
+    "updated_at": "2023-09-02T09:41:56+02:00",
+    "media_id": "t0yx8w6aycjw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6279164/scholen-komen-in-opstand-tegen-woekerprijzen-en-nemen-geen-uitzendkrachten-meer-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279163,
+    "slug": "paus-komt-aan-in-ulaanbaatar-voor-historisch-bezoek-aan-mongolie",
+    "type": "video",
+    "title": "Paus komt aan in Ulaanbaatar voor historisch bezoek aan Mongolië",
+    "subtitle": "Video",
+    "published_at": "2023-09-02T09:38:02+02:00",
+    "updated_at": "2023-09-02T09:42:55+02:00",
+    "media_id": "sq6x673afnsn",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279163/paus-komt-aan-in-ulaanbaatar-voor-historisch-bezoek-aan-mongolie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279161,
     "slug": "volleybalsters-doen-ondanks-missen-ek-finale-vertrouwen-op-voor-okt",
     "type": "article",
     "title": "Volleybalsters doen ondanks missen EK-finale vertrouwen op voor OKT",
     "subtitle": null,
     "published_at": "2023-09-02T09:18:17+02:00",
-    "updated_at": "2023-09-02T09:19:20+02:00",
+    "updated_at": "2023-09-02T09:32:30+02:00",
     "media_id": "67axfs7akn88",
     "duration": null,
     "canonical_section": {
@@ -259,8 +305,8 @@
     "title": "Vooruitblik campagne: 'Op papier is Omtzigt de ideale politicus'",
     "subtitle": null,
     "published_at": "2023-09-02T04:59:55+02:00",
-    "updated_at": "2023-09-02T04:59:56+02:00",
-    "media_id": "dmaxc9vaoivo",
+    "updated_at": "2023-09-02T09:45:08+02:00",
+    "media_id": "jd9xqtdaci10",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279075/alsnog-droomtransfer-voor-amrabat-middenvelder-op-huurbasis-naar-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279146,
-    "slug": "gravenberch-tekent-tot-2027-bij-liverpool-na-teleurstellend-jaar-in-munchen",
-    "type": "article",
-    "title": "Gravenberch tekent tot 2027 bij Liverpool na teleurstellend jaar in München",
-    "subtitle": null,
-    "published_at": "2023-09-01T23:13:00+02:00",
-    "updated_at": "2023-09-02T00:17:45+02:00",
-    "media_id": "uy2xshuaqgnn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279146/gravenberch-tekent-tot-2027-bij-liverpool-na-teleurstellend-jaar-in-munchen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279145,
-    "slug": "ajax-strikt-sosa-als-twaalfde-aanwinst-en-laat-conceicao-terugkeren-naar-fc-porto",
-    "type": "article",
-    "title": "Ajax strikt Sosa als twaalfde aanwinst en laat Conceição terugkeren naar FC Porto",
-    "subtitle": null,
-    "published_at": "2023-09-01T23:00:29+02:00",
-    "updated_at": "2023-09-01T23:04:53+02:00",
-    "media_id": "s4pxrzyan7bc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279145/ajax-strikt-sosa-als-twaalfde-aanwinst-en-laat-conceicao-terugkeren-naar-fc-porto.html",
     "open_new_window": false,
     "partner": null
   }
