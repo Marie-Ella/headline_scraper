@@ -1,13 +1,59 @@
 [
   {
+    "id": 6279347,
+    "slug": "antwerp-en-van-bommel-verspelen-ondanks-treffer-ekkelenkamp-opnieuw-punten",
+    "type": "article",
+    "title": "Antwerp en Van Bommel verspelen ondanks treffer Ekkelenkamp opnieuw punten",
+    "subtitle": null,
+    "published_at": "2023-09-03T18:10:33+02:00",
+    "updated_at": "2023-09-03T18:15:07+02:00",
+    "media_id": "6qixyrxarbxo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279347/antwerp-en-van-bommel-verspelen-ondanks-treffer-ekkelenkamp-opnieuw-punten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279344,
+    "slug": "noodweer-veroorzaakt-hevige-overstromingen-in-spanje",
+    "type": "video",
+    "title": "Noodweer veroorzaakt hevige overstromingen in Spanje",
+    "subtitle": "Video",
+    "published_at": "2023-09-03T17:48:49+02:00",
+    "updated_at": "2023-09-03T17:48:50+02:00",
+    "media_id": "ns3x40saxwpb",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279344/noodweer-veroorzaakt-hevige-overstromingen-in-spanje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279343,
     "slug": "roglic-pakt-tijd-terug-op-evenepoel-in-opmerkelijke-vuelta-finale-door-moddervloed",
     "type": "article",
     "title": "Roglic pakt tijd terug op Evenepoel in opmerkelijke Vuelta-finale door moddervloed",
     "subtitle": null,
     "published_at": "2023-09-03T17:43:36+02:00",
-    "updated_at": "2023-09-03T17:44:55+02:00",
-    "media_id": "uq6xyv8ajmse",
+    "updated_at": "2023-09-03T18:16:03+02:00",
+    "media_id": "5bgxj5na59eo",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -29,7 +75,7 @@
     "title": "Verstappen had nooit gedacht dat het mogelijk was om record Vettel te breken",
     "subtitle": null,
     "published_at": "2023-09-03T17:10:54+02:00",
-    "updated_at": "2023-09-03T17:15:35+02:00",
+    "updated_at": "2023-09-03T18:00:21+02:00",
     "media_id": "kayx8ckapesv",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Man uit Nijmegen aangehouden voor dodelijke aanrijding in Rotterdam",
     "subtitle": null,
     "published_at": "2023-09-03T16:56:36+02:00",
-    "updated_at": "2023-09-03T17:35:51+02:00",
+    "updated_at": "2023-09-03T17:56:21+02:00",
     "media_id": "8dgxjpbahukn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279300/oppermachtig-feyenoord-bezorgt-fc-utrecht-slechtste-seizoensstart-in-historie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279316,
-    "slug": "travis-barker-stelde-concerten-uit-om-ziekenhuisbezoek-met-kourtney-kardashian",
-    "type": "article",
-    "title": "Travis Barker stelde concerten uit om ziekenhuisbezoek met Kourtney Kardashian",
-    "subtitle": null,
-    "published_at": "2023-09-03T13:52:27+02:00",
-    "updated_at": "2023-09-03T14:00:28+02:00",
-    "media_id": "fqwxcwqai6go",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279316/travis-barker-stelde-concerten-uit-om-ziekenhuisbezoek-met-kourtney-kardashian.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279315,
-    "slug": "rusland-werft-volgens-de-britten-militairen-in-armenie-en-kazachstan",
-    "type": "article",
-    "title": "Rusland werft volgens de Britten militairen in Armenië en Kazachstan",
-    "subtitle": null,
-    "published_at": "2023-09-03T13:34:09+02:00",
-    "updated_at": "2023-09-03T16:08:35+02:00",
-    "media_id": "tnnx2jva87qm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6279315/rusland-werft-volgens-de-britten-militairen-in-armenie-en-kazachstan.html",
     "open_new_window": false,
     "partner": null
   }
