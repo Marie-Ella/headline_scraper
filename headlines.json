@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279226,
+    "slug": "de-tweede-kamer-moet-groter-zijn-om-de-bevolking-goed-te-vertegenwoordigen",
+    "type": "article",
+    "title": "'De Tweede Kamer moet groter zijn om de bevolking goed te vertegenwoordigen'",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-03T08:00:32+02:00",
+    "updated_at": "2023-09-03T08:06:40+02:00",
+    "media_id": "n2cx3xparyn3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6279226/de-tweede-kamer-moet-groter-zijn-om-de-bevolking-goed-te-vertegenwoordigen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279280,
     "slug": "britse-regering-kondigt-plannen-aan-voor-gedenkteken-koningin-elizabeth",
     "type": "article",
     "title": "Britse regering kondigt plannen aan voor gedenkteken koningin Elizabeth",
     "subtitle": null,
     "published_at": "2023-09-03T06:25:20+02:00",
-    "updated_at": "2023-09-03T06:26:36+02:00",
+    "updated_at": "2023-09-03T07:46:16+02:00",
     "media_id": "h5cxualagzy4",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Anti-Frankrijk sentiment in Niger neemt toe sinds de staatsgreep",
     "subtitle": null,
     "published_at": "2023-09-03T00:40:25+02:00",
-    "updated_at": "2023-09-03T00:40:46+02:00",
+    "updated_at": "2023-09-03T08:14:52+02:00",
     "media_id": "lxax7sdadqhr",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Kökçü maakt op weergaloze wijze zijn eerste doelpunt voor Benfica",
     "subtitle": null,
     "published_at": "2023-09-02T23:35:55+02:00",
-    "updated_at": "2023-09-02T23:35:56+02:00",
+    "updated_at": "2023-09-03T07:49:56+02:00",
     "media_id": "1dkx5idaog3e",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6279265/polesitter-sainz-heeft-goede-hoop-dat-hij-verstappen-kan-kloppen-in-monza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279264,
-    "slug": "vijf-gewonden-door-woningbrand-in-rotterdamse-wijk-feijenoord",
-    "type": "article",
-    "title": "Vijf gewonden door woningbrand in Rotterdamse wijk Feijenoord",
-    "subtitle": null,
-    "published_at": "2023-09-02T21:38:35+02:00",
-    "updated_at": "2023-09-02T22:16:03+02:00",
-    "media_id": "d9nxyrua4rhf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279264/vijf-gewonden-door-woningbrand-in-rotterdamse-wijk-feijenoord.html",
     "open_new_window": false,
     "partner": null
   }
