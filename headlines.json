@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279310,
+    "slug": "amerikaanse-agent-redt-stikkende-baby-op-drukke-weg",
+    "type": "video",
+    "title": "Amerikaanse agent redt stikkende baby op drukke weg",
+    "subtitle": "Video",
+    "published_at": "2023-09-03T12:43:54+02:00",
+    "updated_at": "2023-09-03T12:43:55+02:00",
+    "media_id": "q3cxihxam6a6",
+    "duration": "0:57",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279310/amerikaanse-agent-redt-stikkende-baby-op-drukke-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279306,
     "slug": "indonesie-wil-buitenlandse-investeerders-lokken-met-gouden-visum",
     "type": "article",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6279299,
-    "slug": "gimenez-zet-feyenoord-al-snel-op-voorsprong-tegen-fc-utrecht",
+    "slug": "feyenoord-na-doelpunt-stengs-weer-op-voorsprong-in-utrecht",
     "type": "article",
-    "title": "Giménez zet Feyenoord al snel op voorsprong tegen FC Utrecht",
+    "title": "Feyenoord na doelpunt Stengs weer op voorsprong in Utrecht",
     "subtitle": "Liveblog",
     "published_at": "2023-09-03T11:21:13+02:00",
-    "updated_at": "2023-09-03T12:27:16+02:00",
-    "media_id": "7fdxt9rau9pa",
+    "updated_at": "2023-09-03T12:49:31+02:00",
+    "media_id": "7quxlehabjuu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6279299/gimenez-zet-feyenoord-al-snel-op-voorsprong-tegen-fc-utrecht.html",
+    "url": "/voetbal/6279299/feyenoord-na-doelpunt-stengs-weer-op-voorsprong-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Slachtoffers dodelijke aanrijding Rotterdam zijn 74 en 79, bestuurder spoorloos",
     "subtitle": null,
     "published_at": "2023-09-03T10:59:49+02:00",
-    "updated_at": "2023-09-03T11:11:20+02:00",
+    "updated_at": "2023-09-03T12:46:20+02:00",
     "media_id": "tklxy3naqa00",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6279287,
-    "slug": "scheepvaart-weer-mogelijk-bij-stuw-grave",
+    "slug": "scheepvaart-weer-mogelijk-bij-grave-gat-in-beschadigde-stuw-is-gedicht",
     "type": "article",
-    "title": "Scheepvaart weer mogelijk bij stuw Grave",
+    "title": "Scheepvaart weer mogelijk bij Grave, gat in beschadigde stuw is gedicht",
     "subtitle": null,
     "published_at": "2023-09-03T09:01:04+02:00",
-    "updated_at": "2023-09-03T12:27:16+02:00",
+    "updated_at": "2023-09-03T12:31:31+02:00",
     "media_id": "3bbxr3caruy1",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6279287/scheepvaart-weer-mogelijk-bij-stuw-grave.html",
+    "url": "/binnenland/6279287/scheepvaart-weer-mogelijk-bij-grave-gat-in-beschadigde-stuw-is-gedicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6279109/nederland-heeft-kleinste-tweede-kamer-moeten-er-meer-zetels-bij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279279,
-    "slug": "weerbericht-zonnig-droog-en-iets-warmer-dan-zaterdag",
-    "type": "article",
-    "title": "Weerbericht: Zonnig, droog en iets warmer dan zaterdag",
-    "subtitle": null,
-    "published_at": "2023-09-03T05:38:52+02:00",
-    "updated_at": "2023-09-03T07:31:35+02:00",
-    "media_id": "m1oxqeuajbez",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6279279/weerbericht-zonnig-droog-en-iets-warmer-dan-zaterdag.html",
     "open_new_window": false,
     "partner": null
   }
