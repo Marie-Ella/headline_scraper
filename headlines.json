@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279393,
+    "slug": "brandweer-blust-uitgebrande-snackwagen-na-op-fries-dorpsfeest",
+    "type": "video",
+    "title": "Brandweer blust uitgebrande snackwagen na op Fries dorpsfeest",
+    "subtitle": "Video",
+    "published_at": "2023-09-04T07:31:52+02:00",
+    "updated_at": "2023-09-04T07:31:53+02:00",
+    "media_id": "r6hx7ila61w0",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279393/brandweer-blust-uitgebrande-snackwagen-na-op-fries-dorpsfeest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279392,
     "slug": "bruins-slot-volgt-hoekstra-op-als-minister-van-buitenlandse-zaken",
     "type": "article",
     "title": "Bruins Slot volgt Hoekstra op als minister van Buitenlandse Zaken",
     "subtitle": null,
     "published_at": "2023-09-04T07:29:09+02:00",
-    "updated_at": "2023-09-04T07:29:26+02:00",
+    "updated_at": "2023-09-04T07:44:27+02:00",
     "media_id": "y5px9z8ad5a1",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Djokovic bereikt kwartfinales US Open en houdt zicht op 24e Grand Slam-titel",
     "subtitle": null,
     "published_at": "2023-09-04T07:21:49+02:00",
-    "updated_at": "2023-09-04T07:21:51+02:00",
+    "updated_at": "2023-09-04T07:37:39+02:00",
     "media_id": "amlx3efawvni",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6279388,
-    "slug": "swiatek-strandt-zeer-verrassend-op-us-open-sabalenka-nieuwe-nummer-een",
+    "slug": "swiatek-strandt-tegen-angstgegner-op-us-open-sabalenka-nieuwe-nummer-een",
     "type": "article",
-    "title": "Swiatek strandt zeer verrassend op US Open, Sabalenka nieuwe nummer één",
+    "title": "Swiatek strandt tegen angstgegner op US Open, Sabalenka nieuwe nummer één",
     "subtitle": null,
     "published_at": "2023-09-04T07:08:01+02:00",
-    "updated_at": "2023-09-04T07:29:09+02:00",
+    "updated_at": "2023-09-04T07:44:13+02:00",
     "media_id": "ccpxqybat21d",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6279388/swiatek-strandt-zeer-verrassend-op-us-open-sabalenka-nieuwe-nummer-een.html",
+    "url": "/tennis/6279388/swiatek-strandt-tegen-angstgegner-op-us-open-sabalenka-nieuwe-nummer-een.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +121,8 @@
     "title": "Weerbericht: Na mist kun je zon (en een bitterbal) happen op het terras",
     "subtitle": null,
     "published_at": "2023-09-04T06:59:21+02:00",
-    "updated_at": "2023-09-04T07:25:33+02:00",
-    "media_id": "vlvx28na8tph",
+    "updated_at": "2023-09-04T07:31:46+02:00",
+    "media_id": "alhxqydacboa",
     "duration": null,
     "canonical_section": {
       "id": 1779283,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6279376/gauff-maakt-einde-aan-opmars-teruggekeerde-wozniacki-op-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279375,
-    "slug": "zelensky-kondigt-ontslag-en-vervanger-minister-van-defensie-aan",
-    "type": "article",
-    "title": "Zelensky kondigt ontslag en vervanger minister van Defensie aan",
-    "subtitle": null,
-    "published_at": "2023-09-03T23:33:04+02:00",
-    "updated_at": "2023-09-04T07:09:51+02:00",
-    "media_id": "ypnx6f6a8woi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6279375/zelensky-kondigt-ontslag-en-vervanger-minister-van-defensie-aan.html",
     "open_new_window": false,
     "partner": null
   }
