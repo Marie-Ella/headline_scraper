@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279539,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-05T05:37:46+02:00",
+    "updated_at": "2023-09-05T05:37:47+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6279539/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279538,
+    "slug": "weerbericht-het-wordt-een-zonovergoten-dag-met-lokaal-30-graden",
+    "type": "article",
+    "title": "Weerbericht: het wordt een zonovergoten dag met lokaal 30 graden",
+    "subtitle": null,
+    "published_at": "2023-09-05T05:37:04+02:00",
+    "updated_at": "2023-09-05T05:37:05+02:00",
+    "media_id": "s82xi1qavdn4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6279538/weerbericht-het-wordt-een-zonovergoten-dag-met-lokaal-30-graden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279446,
     "slug": "zomerreces-zit-erop-tijd-voor-de-kamer-om-speelruimte-kabinet-te-bepalen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6279526/triatleet-hayden-wilde-fietst-te-ver-tijdens-slt-toulouse-en-verliest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279494,
-    "slug": "mogelijk-russische-drones-in-roemenie-reparatie-graandeal-is-lastig",
-    "type": "article",
-    "title": "Mogelijk Russische drones in Roemenië, reparatie graandeal is lastig",
-    "subtitle": "Overzicht",
-    "published_at": "2023-09-04T20:30:40+02:00",
-    "updated_at": "2023-09-04T21:06:40+02:00",
-    "media_id": "8o5xppravite",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6279494/mogelijk-russische-drones-in-roemenie-reparatie-graandeal-is-lastig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279523,
-    "slug": "rtl-wil-in-gesprek-met-temptation-island-kandidaten-met-mentale-klachten",
-    "type": "article",
-    "title": "RTL wil in gesprek met Temptation Island-kandidaten met mentale klachten",
-    "subtitle": null,
-    "published_at": "2023-09-04T20:12:11+02:00",
-    "updated_at": "2023-09-05T00:21:19+02:00",
-    "media_id": "ucwxo1vauycs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6279523/rtl-wil-in-gesprek-met-temptation-island-kandidaten-met-mentale-klachten.html",
     "open_new_window": false,
     "partner": null
   }
