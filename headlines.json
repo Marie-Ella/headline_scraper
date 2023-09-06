@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279756,
+    "slug": "koeman-kiest-flekken-als-eerste-keeper-hij-heeft-het-verdiend",
+    "type": "video",
+    "title": "Koeman kiest Flekken als eerste keeper: 'Hij heeft het verdiend'",
+    "subtitle": "Video",
+    "published_at": "2023-09-06T14:46:04+02:00",
+    "updated_at": "2023-09-06T14:46:06+02:00",
+    "media_id": "lc9x35yaqek4",
+    "duration": "1:06",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279756/koeman-kiest-flekken-als-eerste-keeper-hij-heeft-het-verdiend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279746,
+    "slug": "chaos-bij-willem-ii-directeur-jacobs-vertrekt-dag-na-ontslag-coach-robbemond",
+    "type": "article",
+    "title": "Chaos bij Willem II: directeur Jacobs vertrekt dag na ontslag coach Robbemond",
+    "subtitle": null,
+    "published_at": "2023-09-06T14:40:22+02:00",
+    "updated_at": "2023-09-06T14:56:29+02:00",
+    "media_id": "25fx2drabkc1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279746/chaos-bij-willem-ii-directeur-jacobs-vertrekt-dag-na-ontslag-coach-robbemond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279745,
     "slug": "koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland",
     "type": "article",
     "title": "Koeman laat Flekken keepen in belangrijk EK-kwalificatieduel met Griekenland",
     "subtitle": null,
     "published_at": "2023-09-06T14:10:46+02:00",
-    "updated_at": "2023-09-06T14:29:13+02:00",
+    "updated_at": "2023-09-06T14:56:50+02:00",
     "media_id": "t3dx7fyalk2o",
     "duration": null,
     "canonical_section": {
@@ -190,8 +236,8 @@
     "title": "Tbs met dwangverpleging geëist tegen verdachte van neersteken Haagse huisarts",
     "subtitle": null,
     "published_at": "2023-09-06T12:36:35+02:00",
-    "updated_at": "2023-09-06T12:36:36+02:00",
-    "media_id": "mxuxggpa14fn",
+    "updated_at": "2023-09-06T14:37:36+02:00",
+    "media_id": "i9tx3gqaqb29",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6279719/deze-zomer-is-wereldwijd-met-afstand-heetste-zomer-ooit-gemeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279717,
-    "slug": "man-springt-uit-rijdend-arrestantenbusje-na-aanhouding-op-vliegveld-rotterdam",
-    "type": "article",
-    "title": "Man springt uit rijdend arrestantenbusje na aanhouding op vliegveld Rotterdam",
-    "subtitle": null,
-    "published_at": "2023-09-06T10:15:24+02:00",
-    "updated_at": "2023-09-06T10:42:59+02:00",
-    "media_id": "md6xt9fa24de",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279717/man-springt-uit-rijdend-arrestantenbusje-na-aanhouding-op-vliegveld-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279715,
-    "slug": "duitse-industrie-krijgt-opnieuw-een-knauw-door-fors-minder-orders",
-    "type": "article",
-    "title": "Duitse industrie krijgt opnieuw een knauw door fors minder orders",
-    "subtitle": null,
-    "published_at": "2023-09-06T10:11:10+02:00",
-    "updated_at": "2023-09-06T10:11:12+02:00",
-    "media_id": "6x6xnn8am34v",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6279715/duitse-industrie-krijgt-opnieuw-een-knauw-door-fors-minder-orders.html",
     "open_new_window": false,
     "partner": null
   }
