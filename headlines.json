@@ -1,5 +1,74 @@
 [
   {
+    "id": 6279953,
+    "slug": "monica-geuze-en-katja-schuurman-doen-mee-aan-nieuwe-reeks-van-de-verraders",
+    "type": "article",
+    "title": "Monica Geuze en Katja Schuurman doen mee aan nieuwe reeks van De Verraders",
+    "subtitle": null,
+    "published_at": "2023-09-07T19:06:46+02:00",
+    "updated_at": "2023-09-07T19:06:47+02:00",
+    "media_id": "en9xaipabpd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6279953/monica-geuze-en-katja-schuurman-doen-mee-aan-nieuwe-reeks-van-de-verraders.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279952,
+    "slug": "freek-vonk-maakt-serie-over-zijn-jeugd-laat-zien-hoe-het-is-om-anders-te-zijn",
+    "type": "article",
+    "title": "Freek Vonk maakt serie over zijn jeugd: 'Laat zien hoe het is om anders te zijn'",
+    "subtitle": null,
+    "published_at": "2023-09-07T19:06:04+02:00",
+    "updated_at": "2023-09-07T19:06:21+02:00",
+    "media_id": "oqhxhd5a8den",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6279952/freek-vonk-maakt-serie-over-zijn-jeugd-laat-zien-hoe-het-is-om-anders-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279954,
+    "slug": "ryanair-baas-krijgt-taarten-in-gezicht-in-brussel-mn-favoriete",
+    "type": "video",
+    "title": "Ryanair-baas krijgt taarten in gezicht in Brussel: 'M'n favoriete'",
+    "subtitle": "Video",
+    "published_at": "2023-09-07T19:04:05+02:00",
+    "updated_at": "2023-09-07T19:04:06+02:00",
+    "media_id": "4fwx72na6vkt",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279954/ryanair-baas-krijgt-taarten-in-gezicht-in-brussel-mn-favoriete.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279947,
     "slug": "afhandeling-klachten-toeslagenschandaal-moet-sneller-organisatie-op-de-schop",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "'Onberekenbare' Jimmy Fallon creëert volgens werknemers een giftige werkcultuur",
     "subtitle": null,
     "published_at": "2023-09-07T18:36:30+02:00",
-    "updated_at": "2023-09-07T18:36:32+02:00",
+    "updated_at": "2023-09-07T18:58:35+02:00",
     "media_id": "1waxecea8sc1",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/videos/6279924/wetenschappers-ontdekken-mysterieuze-gouden-bol-op-oceaanbodem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279916,
-    "slug": "pieter-van-vollenhoven-stopt-met-openen-monumentendag-ben-nu-zelf-monument",
-    "type": "article",
-    "title": "Pieter van Vollenhoven stopt met openen Monumentendag: 'Ben nu zelf monument'",
-    "subtitle": null,
-    "published_at": "2023-09-07T16:24:43+02:00",
-    "updated_at": "2023-09-07T16:24:44+02:00",
-    "media_id": "x1dxbuma2ht6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6279916/pieter-van-vollenhoven-stopt-met-openen-monumentendag-ben-nu-zelf-monument.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279920,
-    "slug": "wk-leider-bagnaia-kan-na-zware-crash-in-motogp-komend-weekend-alweer-racen",
-    "type": "article",
-    "title": "WK-leider Bagnaia kan na zware crash in MotoGP komend weekend alweer racen",
-    "subtitle": null,
-    "published_at": "2023-09-07T16:24:32+02:00",
-    "updated_at": "2023-09-07T16:25:39+02:00",
-    "media_id": "bsqxid6am59w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6279920/wk-leider-bagnaia-kan-na-zware-crash-in-motogp-komend-weekend-alweer-racen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279909,
-    "slug": "justitieminister-belgie-houdt-vol-niets-van-plasincident-met-politieauto-te-weten",
-    "type": "article",
-    "title": "Justitieminister België houdt vol niets van plasincident met politieauto te weten",
-    "subtitle": null,
-    "published_at": "2023-09-07T15:50:16+02:00",
-    "updated_at": "2023-09-07T17:16:33+02:00",
-    "media_id": "8wuxlv3ayf5u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6279909/justitieminister-belgie-houdt-vol-niets-van-plasincident-met-politieauto-te-weten.html",
     "open_new_window": false,
     "partner": null
   }
