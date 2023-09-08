@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280007,
+    "slug": "man-rijdt-in-volle-vaart-dwars-door-wasstraat-in-oss",
+    "type": "video",
+    "title": "Man rijdt in volle vaart dwars door wasstraat in Oss",
+    "subtitle": "Video",
+    "published_at": "2023-09-08T09:22:50+02:00",
+    "updated_at": "2023-09-08T09:22:52+02:00",
+    "media_id": "gpdxscqay34a",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280007/man-rijdt-in-volle-vaart-dwars-door-wasstraat-in-oss.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280004,
+    "slug": "gauff-verwijt-klimaatactivisten-op-us-open-niets-kan-er-niet-boos-om-worden",
+    "type": "article",
+    "title": "Gauff verwijt klimaatactivisten op US Open niets: 'Kan er niet boos om worden'",
+    "subtitle": null,
+    "published_at": "2023-09-08T09:18:06+02:00",
+    "updated_at": "2023-09-08T09:18:07+02:00",
+    "media_id": "o5vx4suaerrj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6280004/gauff-verwijt-klimaatactivisten-op-us-open-niets-kan-er-niet-boos-om-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280002,
     "slug": "31-probleemjongeren-schoppen-het-via-speciaal-traject-tot-militair",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279985/messi-leidt-argentinie-met-vrije-trap-naar-zege-bij-start-wk-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279983,
-    "slug": "weerbericht-de-werkweek-eindigt-net-zo-tropisch-warm-als-deze-begon",
-    "type": "article",
-    "title": "Weerbericht: De (werk)week eindigt net zo tropisch warm als deze begon",
-    "subtitle": null,
-    "published_at": "2023-09-08T05:54:27+02:00",
-    "updated_at": "2023-09-08T06:15:41+02:00",
-    "media_id": "4gfxp1favdx4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279983/weerbericht-de-werkweek-eindigt-net-zo-tropisch-warm-als-deze-begon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279759,
-    "slug": "de-sensationele-opmars-van-een-tenniskanon-ogen-dicht-en-rammen",
-    "type": "article",
-    "title": "De sensationele opmars van een tenniskanon: 'Ogen dicht en rammen'",
-    "subtitle": "NU+",
-    "published_at": "2023-09-08T05:22:13+02:00",
-    "updated_at": "2023-09-08T06:47:45+02:00",
-    "media_id": "ho6xaf8agefa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6279759/de-sensationele-opmars-van-een-tenniskanon-ogen-dicht-en-rammen.html",
     "open_new_window": false,
     "partner": null
   }
