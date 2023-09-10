@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280334,
+    "slug": "adam-yates-wint-gp-montreal-na-late-aanval-en-volgt-ploegmaat-pogacar-op",
+    "type": "article",
+    "title": "Adam Yates wint GP Montréal na late aanval en volgt ploegmaat Pogacar op",
+    "subtitle": null,
+    "published_at": "2023-09-10T22:20:46+02:00",
+    "updated_at": "2023-09-10T22:20:58+02:00",
+    "media_id": "u1sxrhta0u61",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280334/adam-yates-wint-gp-montreal-na-late-aanval-en-volgt-ploegmaat-pogacar-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278051,
     "slug": "omstreden-spaanse-voetbalbestuurder-rubiales-stapt-op-na-wekenlange-rel",
     "type": "article",
     "title": "Omstreden Spaanse voetbalbestuurder Rubiales stapt op na wekenlange rel",
     "subtitle": null,
     "published_at": "2023-09-10T22:08:00+02:00",
-    "updated_at": "2023-09-10T22:08:03+02:00",
+    "updated_at": "2023-09-10T22:25:50+02:00",
     "media_id": "mkax225al3c8",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6280311,
-    "slug": "invaller-weghorst-zet-oranje-na-rust-op-voorsprong",
+    "slug": "invaller-weghorst-zet-oranje-na-rust-op-voorsprong-tegen-ierland",
     "type": "article",
-    "title": "Invaller Weghorst zet Oranje na rust op voorsprong",
+    "title": "Invaller Weghorst zet Oranje na rust op voorsprong tegen Ierland",
     "subtitle": "Liveblog",
     "published_at": "2023-09-10T19:07:15+02:00",
-    "updated_at": "2023-09-10T22:06:55+02:00",
+    "updated_at": "2023-09-10T22:16:42+02:00",
     "media_id": "0zex5ifa8emy",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6280311/invaller-weghorst-zet-oranje-na-rust-op-voorsprong.html",
+    "url": "/voetbal/6280311/invaller-weghorst-zet-oranje-na-rust-op-voorsprong-tegen-ierland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/blog/6280287/ik-ben-al-fan-van-nunl-nu-jullie-nog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280306,
-    "slug": "duitsland-ontslaat-bondscoach-hansi-flick-na-dramatische-reeks",
-    "type": "article",
-    "title": "Duitsland ontslaat bondscoach Hansi Flick na dramatische reeks",
-    "subtitle": null,
-    "published_at": "2023-09-10T16:44:26+02:00",
-    "updated_at": "2023-09-10T17:14:44+02:00",
-    "media_id": "mw5xlsha8ocb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280306/duitsland-ontslaat-bondscoach-hansi-flick-na-dramatische-reeks.html",
     "open_new_window": false,
     "partner": null
   }
