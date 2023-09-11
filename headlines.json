@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280356,
+    "slug": "zoon-van-ridouan-taghi-opgepakt-in-dubai",
+    "type": "article",
+    "title": "Zoon van Ridouan Taghi opgepakt in Dubai",
+    "subtitle": null,
+    "published_at": "2023-09-11T08:01:21+02:00",
+    "updated_at": "2023-09-11T08:14:18+02:00",
+    "media_id": "hefxvhta54mv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280356/zoon-van-ridouan-taghi-opgepakt-in-dubai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280305,
+    "slug": "ik-ga-dichter-bij-huis-op-vakantie-nu-reizen-zo-duur-is-geworden",
+    "type": "article",
+    "title": "Ik ga dichter bij huis op vakantie nu reizen zo duur is geworden",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-11T08:01:21+02:00",
+    "updated_at": "2023-09-11T08:01:22+02:00",
+    "media_id": "fygxlura3yj7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6280305/ik-ga-dichter-bij-huis-op-vakantie-nu-reizen-zo-duur-is-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280357,
     "slug": "djokovic-draagt-met-speciaal-shirt-grand-slam-titel-op-aan-vriend-kobe-bryant",
     "type": "article",
     "title": "Djokovic draagt met speciaal shirt Grand Slam-titel op aan vriend Kobe Bryant",
     "subtitle": null,
     "published_at": "2023-09-11T07:43:04+02:00",
-    "updated_at": "2023-09-11T07:45:53+02:00",
+    "updated_at": "2023-09-11T08:02:01+02:00",
     "media_id": "t54x9xcat3ll",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6280355,
-    "slug": "drew-barrymore-laat-talkshow-ondanks-staking-doorgaan-vakbond-protesteert",
+    "slug": "drew-barrymore-laat-talkshow-ondanks-staking-doorgaan-bond-protesteert",
     "type": "article",
-    "title": "Drew Barrymore laat talkshow ondanks staking doorgaan, vakbond protesteert",
+    "title": "Drew Barrymore laat talkshow ondanks staking doorgaan, bond protesteert",
     "subtitle": null,
     "published_at": "2023-09-11T07:33:45+02:00",
-    "updated_at": "2023-09-11T07:35:41+02:00",
+    "updated_at": "2023-09-11T08:11:02+02:00",
     "media_id": "fngxzxka5nj6",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6280355/drew-barrymore-laat-talkshow-ondanks-staking-doorgaan-vakbond-protesteert.html",
+    "url": "/media/6280355/drew-barrymore-laat-talkshow-ondanks-staking-doorgaan-bond-protesteert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Speciaal fonds en steun uit andere landen: hulp in Marokko komt op gang",
     "subtitle": null,
     "published_at": "2023-09-11T07:20:07+02:00",
-    "updated_at": "2023-09-11T07:44:27+02:00",
+    "updated_at": "2023-09-11T08:15:42+02:00",
     "media_id": "xzjx1lfagavg",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Weghorst snapt reserverol en kritiek niet: 'Het is niet altijd positief, toch?'",
     "subtitle": null,
     "published_at": "2023-09-11T07:11:38+02:00",
-    "updated_at": "2023-09-11T07:35:11+02:00",
+    "updated_at": "2023-09-11T08:07:43+02:00",
     "media_id": "2mdx8fka0znh",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Acteur Chris Evans is getrouwd met actrice Alba Baptista",
     "subtitle": null,
     "published_at": "2023-09-11T06:38:00+02:00",
-    "updated_at": "2023-09-11T07:47:01+02:00",
+    "updated_at": "2023-09-11T07:57:40+02:00",
     "media_id": "5zlx8pxah6sj",
     "duration": null,
     "canonical_section": {
@@ -234,9 +280,9 @@
     "slug": "lichaam-vermoorde-bansi-was-vier-jaar-spoorloos-vandaag-is-de-uitspraak",
     "type": "article",
     "title": "Lichaam vermoorde Bansi was vier jaar spoorloos: vandaag is de uitspraak",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-09-11T05:18:24+02:00",
-    "updated_at": "2023-09-11T07:49:13+02:00",
+    "updated_at": "2023-09-11T08:12:22+02:00",
     "media_id": "s8lxxs4amgpb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280339/van-dijk-zag-oranje-terugkomen-na-dramatische-start-daar-ben-ik-wel-trots-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280336,
-    "slug": "oranje-knokt-zich-langs-ierland-na-belabberde-start-en-blijft-op-koers-voor-ek",
-    "type": "article",
-    "title": "Oranje knokt zich langs Ierland na belabberde start en blijft op koers voor EK",
-    "subtitle": null,
-    "published_at": "2023-09-10T22:42:19+02:00",
-    "updated_at": "2023-09-11T02:04:40+02:00",
-    "media_id": "tg4xnbhaj1u2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280336/oranje-knokt-zich-langs-ierland-na-belabberde-start-en-blijft-op-koers-voor-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280334,
-    "slug": "adam-yates-wint-gp-montreal-na-late-aanval-en-volgt-ploegmaat-pogacar-op",
-    "type": "article",
-    "title": "Adam Yates wint GP Montreal na late aanval en volgt ploegmaat Pogacar op",
-    "subtitle": null,
-    "published_at": "2023-09-10T22:20:46+02:00",
-    "updated_at": "2023-09-10T22:35:27+02:00",
-    "media_id": "u1sxrhta0u61",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6280334/adam-yates-wint-gp-montreal-na-late-aanval-en-volgt-ploegmaat-pogacar-op.html",
     "open_new_window": false,
     "partner": null
   }
