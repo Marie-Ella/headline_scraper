@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280346,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-11T05:28:22+02:00",
+    "updated_at": "2023-09-11T05:28:23+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6280346/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280060,
+    "slug": "lichaam-vermoorde-bansi-was-4-jaar-spoorloos-vandaag-is-de-uitspraak",
+    "type": "article",
+    "title": "Lichaam vermoorde Bansi was 4 jaar spoorloos: vandaag is de uitspraak",
+    "subtitle": "NU+",
+    "published_at": "2023-09-11T05:18:24+02:00",
+    "updated_at": "2023-09-11T05:23:17+02:00",
+    "media_id": "s8lxxs4amgpb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280060/lichaam-vermoorde-bansi-was-4-jaar-spoorloos-vandaag-is-de-uitspraak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280331,
     "slug": "hierdoor-kan-het-extra-druk-zijn-in-je-trein-en-dit-kun-je-eraan-doen",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Ethiopië vult reservoir van omstreden Nijldam tot onvrede van Egypte en Soedan",
     "subtitle": null,
     "published_at": "2023-09-10T21:31:37+02:00",
-    "updated_at": "2023-09-10T21:46:24+02:00",
+    "updated_at": "2023-09-11T05:22:50+02:00",
     "media_id": "b8oxcf6aaktw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280322/oranje-begint-met-wieffer-de-ligt-en-malen-aan-ek-kwalificatieduel-in-ierland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280311,
-    "slug": "reacties-na-belangrijke-zege-oranje-op-ierland",
-    "type": "article",
-    "title": "Reacties na belangrijke zege Oranje op Ierland",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-10T19:07:15+02:00",
-    "updated_at": "2023-09-10T23:31:20+02:00",
-    "media_id": "uemx0hzau34y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280311/reacties-na-belangrijke-zege-oranje-op-ierland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280319,
-    "slug": "historische-wereldtitel-duitse-basketballers-amerikanen-lopen-zelfs-brons-mis",
-    "type": "article",
-    "title": "Historische wereldtitel Duitse basketballers, Amerikanen lopen zelfs brons mis",
-    "subtitle": null,
-    "published_at": "2023-09-10T19:03:09+02:00",
-    "updated_at": "2023-09-10T19:10:02+02:00",
-    "media_id": "lswxqy6aju85",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6280319/historische-wereldtitel-duitse-basketballers-amerikanen-lopen-zelfs-brons-mis.html",
     "open_new_window": false,
     "partner": null
   }
