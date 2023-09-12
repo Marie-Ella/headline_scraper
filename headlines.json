@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280508,
+    "slug": "amerikaan-wordt-uit-turkse-grot-gered-ik-dacht-ik-ga-dit-niet-overleven",
+    "type": "video",
+    "title": "Amerikaan wordt uit Turkse grot gered: 'Ik dacht: ik ga dit niet overleven'",
+    "subtitle": "Video",
+    "published_at": "2023-09-12T08:24:38+02:00",
+    "updated_at": "2023-09-12T08:24:39+02:00",
+    "media_id": "g2uxxuua5r19",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280508/amerikaan-wordt-uit-turkse-grot-gered-ik-dacht-ik-ga-dit-niet-overleven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280504,
+    "slug": "franse-ex-renner-beschuldigt-jumbo-visma-van-mechanische-doping-in-vuelta",
+    "type": "article",
+    "title": "Franse ex-renner beschuldigt Jumbo-Visma van mechanische doping in Vuelta",
+    "subtitle": null,
+    "published_at": "2023-09-12T08:20:41+02:00",
+    "updated_at": "2023-09-12T08:20:42+02:00",
+    "media_id": "g9pxnvtafmbk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280504/franse-ex-renner-beschuldigt-jumbo-visma-van-mechanische-doping-in-vuelta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280434,
     "slug": "personeelstekort-leidt-tot-gevaarlijke-situaties-bij-midden-en-kleinbedrijf",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Consumentenbond sleept Google voor de rechter wegens privacyregels",
     "subtitle": null,
     "published_at": "2023-09-12T06:08:44+02:00",
-    "updated_at": "2023-09-12T06:40:52+02:00",
+    "updated_at": "2023-09-12T08:21:30+02:00",
     "media_id": "hgsxe5ravsnx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6280433/niet-alleen-de-kracht-bepaalt-aardbevingsschade-maar-dit-ook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280476,
-    "slug": "marokko-passeert-grens-van-72-uur-na-de-ramp-kans-op-overlevenden-wordt-minimaal",
-    "type": "article",
-    "title": "Marokko passeert grens van 72 uur na de ramp: kans op overlevenden wordt minimaal",
-    "subtitle": null,
-    "published_at": "2023-09-12T04:59:09+02:00",
-    "updated_at": "2023-09-12T06:09:58+02:00",
-    "media_id": "s1cxxcxasavo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280476/marokko-passeert-grens-van-72-uur-na-de-ramp-kans-op-overlevenden-wordt-minimaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280492,
-    "slug": "zieke-amerikaan-na-negen-dagen-uit-diepe-turkse-grot-bevrijd",
-    "type": "article",
-    "title": "Zieke Amerikaan na negen dagen uit diepe Turkse grot bevrijd",
-    "subtitle": null,
-    "published_at": "2023-09-12T00:40:06+02:00",
-    "updated_at": "2023-09-12T07:27:30+02:00",
-    "media_id": "t23xkobapvr4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6280492/zieke-amerikaan-na-negen-dagen-uit-diepe-turkse-grot-bevrijd.html",
     "open_new_window": false,
     "partner": null
   }
