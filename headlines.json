@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280552,
+    "slug": "puinruimen-in-marrakesh-veel-mensen-slapen-nog-buiten",
+    "type": "video",
+    "title": "Puinruimen in Marrakesh: 'Veel mensen slapen nog buiten'",
+    "subtitle": "Video",
+    "published_at": "2023-09-12T13:21:56+02:00",
+    "updated_at": "2023-09-12T13:21:57+02:00",
+    "media_id": "fd6xky5argy5",
+    "duration": "2:11",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280552/puinruimen-in-marrakesh-veel-mensen-slapen-nog-buiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280551,
+    "slug": "om-vervolgt-fvd-kamerlid-gideon-van-meijeren-voor-opruiing",
+    "type": "article",
+    "title": "OM vervolgt FVD-Kamerlid Gideon van Meijeren voor opruiing",
+    "subtitle": null,
+    "published_at": "2023-09-12T13:15:51+02:00",
+    "updated_at": "2023-09-12T13:27:09+02:00",
+    "media_id": "jn7x7s5aky6d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280551/om-vervolgt-fvd-kamerlid-gideon-van-meijeren-voor-opruiing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280550,
     "slug": "jumbo-visma-renner-van-hooydonck-in-kritieke-toestand-na-zwaar-auto-ongeluk",
     "type": "article",
     "title": "Jumbo-Visma-renner Van Hooydonck in kritieke toestand na zwaar auto-ongeluk",
     "subtitle": null,
     "published_at": "2023-09-12T13:11:07+02:00",
-    "updated_at": "2023-09-12T13:14:39+02:00",
+    "updated_at": "2023-09-12T13:27:32+02:00",
     "media_id": "pwjx6j5a82u5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280444/bekijk-alle-vuelta-klassementen-met-jumbo-visma-op-een-twee-en-drie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280514,
-    "slug": "knvb-sluit-deal-met-russische-cybercriminelen-na-digitale-inbraak",
-    "type": "article",
-    "title": "KNVB sluit deal met Russische cybercriminelen na digitale inbraak",
-    "subtitle": null,
-    "published_at": "2023-09-12T09:26:58+02:00",
-    "updated_at": "2023-09-12T09:47:55+02:00",
-    "media_id": "dqvxoxjacno2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6280514/knvb-sluit-deal-met-russische-cybercriminelen-na-digitale-inbraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280513,
-    "slug": "peter-pannekoek-vergezelt-jan-smit-bij-presentatie-televizier-ring-gala",
-    "type": "article",
-    "title": "Peter Pannekoek vergezelt Jan Smit bij presentatie Televizier-Ring Gala",
-    "subtitle": null,
-    "published_at": "2023-09-12T09:20:14+02:00",
-    "updated_at": "2023-09-12T11:06:15+02:00",
-    "media_id": "bo6xkuuazayv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6280513/peter-pannekoek-vergezelt-jan-smit-bij-presentatie-televizier-ring-gala.html",
     "open_new_window": false,
     "partner": null
   }
