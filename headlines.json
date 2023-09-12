@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280542,
+    "slug": "zelensky-tegen-haagse-studenten-moskou-wil-genocide-normaliseren",
+    "type": "article",
+    "title": "Zelensky tegen Haagse studenten: Moskou wil genocide normaliseren",
+    "subtitle": null,
+    "published_at": "2023-09-12T12:13:50+02:00",
+    "updated_at": "2023-09-12T12:13:51+02:00",
+    "media_id": "e8uxfgia8mf6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6280542/zelensky-tegen-haagse-studenten-moskou-wil-genocide-normaliseren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280541,
+    "slug": "russisch-vliegtuig-belandt-na-noodlanding-in-siberisch-veld",
+    "type": "video",
+    "title": "Russisch vliegtuig belandt na noodlanding in Siberisch veld",
+    "subtitle": "Video",
+    "published_at": "2023-09-12T11:55:09+02:00",
+    "updated_at": "2023-09-12T11:56:00+02:00",
+    "media_id": "5dpxz2ka36mk",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280541/russisch-vliegtuig-belandt-na-noodlanding-in-siberisch-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280536,
     "slug": "ruim-duizend-lichamen-geborgen-in-libische-stad-derna-na-overstromingen",
     "type": "article",
     "title": "Ruim duizend lichamen geborgen in Libische stad Derna na overstromingen",
     "subtitle": null,
     "published_at": "2023-09-12T11:22:21+02:00",
-    "updated_at": "2023-09-12T11:30:28+02:00",
+    "updated_at": "2023-09-12T11:56:28+02:00",
     "media_id": "xjcx1o0alnuz",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Gestolen schilderij Van Gogh in IKEA-tas teruggebracht: 'Tranen in de ogen'",
     "subtitle": null,
     "published_at": "2023-09-12T10:44:26+02:00",
-    "updated_at": "2023-09-12T11:41:51+02:00",
+    "updated_at": "2023-09-12T12:14:00+02:00",
     "media_id": "v54xgczan0gu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280504/franse-ex-renner-beschuldigt-jumbo-visma-van-mechanische-doping-in-vuelta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280434,
-    "slug": "personeelstekort-leidt-tot-gevaarlijke-situaties-bij-midden-en-kleinbedrijf",
-    "type": "article",
-    "title": "Personeelstekort leidt tot gevaarlijke situaties bij midden- en kleinbedrijf",
-    "subtitle": null,
-    "published_at": "2023-09-12T08:04:54+02:00",
-    "updated_at": "2023-09-12T10:59:12+02:00",
-    "media_id": "iijxlx9akhen",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280434/personeelstekort-leidt-tot-gevaarlijke-situaties-bij-midden-en-kleinbedrijf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280507,
-    "slug": "portugal-verpulvert-luxemburg-met-grootste-zege-ooit",
-    "type": "video",
-    "title": "Portugal verpulvert Luxemburg met grootste zege ooit",
-    "subtitle": "Video",
-    "published_at": "2023-09-12T07:36:01+02:00",
-    "updated_at": "2023-09-12T07:56:56+02:00",
-    "media_id": "n5rx4fyafdc2",
-    "duration": "3:46",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6280507/portugal-verpulvert-luxemburg-met-grootste-zege-ooit.html",
     "open_new_window": false,
     "partner": null
   }
