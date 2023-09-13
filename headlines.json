@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280634,
+    "slug": "marrakesh-baalt-van-vertrekkende-toeristen-de-stad-is-dood-zonder-ze",
+    "type": "video",
+    "title": "Marrakesh baalt van vertrekkende toeristen: 'De stad is dood zonder ze'",
+    "subtitle": "Video",
+    "published_at": "2023-09-13T06:42:32+02:00",
+    "updated_at": "2023-09-13T06:46:09+02:00",
+    "media_id": "7xkxu9rau15a",
+    "duration": "2:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280634/marrakesh-baalt-van-vertrekkende-toeristen-de-stad-is-dood-zonder-ze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280638,
+    "slug": "weerbericht-code-geel-aan-de-kust-vanwege-harde-wind-dag-koelt-weer-wat-af",
+    "type": "article",
+    "title": "Weerbericht: Code geel aan de kust vanwege harde wind, dag koelt weer wat af",
+    "subtitle": null,
+    "published_at": "2023-09-13T06:42:20+02:00",
+    "updated_at": "2023-09-13T06:42:22+02:00",
+    "media_id": "nb9xvn9ak66t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6280638/weerbericht-code-geel-aan-de-kust-vanwege-harde-wind-dag-koelt-weer-wat-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280636,
     "slug": "man-in-spanje-gearresteerd-omdat-hij-verslaggever-live-op-tv-betast",
     "type": "article",
     "title": "Man in Spanje gearresteerd omdat hij verslaggever live op tv betast",
     "subtitle": null,
     "published_at": "2023-09-13T06:05:05+02:00",
-    "updated_at": "2023-09-13T06:28:09+02:00",
+    "updated_at": "2023-09-13T06:46:08+02:00",
     "media_id": "efyxnova6w9x",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Volleyballers verliezen zinderende clash tegen Italië in kwartfinales EK",
     "subtitle": null,
     "published_at": "2023-09-12T23:46:25+02:00",
-    "updated_at": "2023-09-12T23:57:18+02:00",
+    "updated_at": "2023-09-13T06:34:05+02:00",
     "media_id": "94hxfanaok58",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Venetië start proef met entreekaartjes van 5 euro voor dagtoeristen",
     "subtitle": null,
     "published_at": "2023-09-12T22:31:03+02:00",
-    "updated_at": "2023-09-12T23:26:56+02:00",
+    "updated_at": "2023-09-13T06:43:41+02:00",
     "media_id": "n03xsl2aymje",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6280624/over-en-weer-aanvallen-maar-versterking-voor-oekraine-is-onderweg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280581,
-    "slug": "dringend-op-zoek-naar-een-kamer-deze-tips-helpen-bij-het-hospiteren",
-    "type": "article",
-    "title": "Dringend op zoek naar een kamer? Deze tips helpen bij het hospiteren",
-    "subtitle": "NU+",
-    "published_at": "2023-09-12T21:33:23+02:00",
-    "updated_at": "2023-09-12T21:33:25+02:00",
-    "media_id": "u2hxmicaixke",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6280581/dringend-op-zoek-naar-een-kamer-deze-tips-helpen-bij-het-hospiteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280623,
-    "slug": "gevangene-ontsnapt-met-gestolen-politiebus-na-rechtszaak-in-thailand",
-    "type": "video",
-    "title": "Gevangene ontsnapt met gestolen politiebus na rechtszaak in Thailand",
-    "subtitle": "Video",
-    "published_at": "2023-09-12T21:29:42+02:00",
-    "updated_at": "2023-09-12T21:52:11+02:00",
-    "media_id": "h84xh81a58os",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280623/gevangene-ontsnapt-met-gestolen-politiebus-na-rechtszaak-in-thailand.html",
     "open_new_window": false,
     "partner": null
   }
