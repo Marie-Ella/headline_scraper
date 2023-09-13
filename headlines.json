@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280773,
+    "slug": "politie-in-vs-voert-moordenaar-af-die-ontsnapte-met-crab-walk",
+    "type": "video",
+    "title": "Politie in VS voert moordenaar af die ontsnapte met 'crab walk'",
+    "subtitle": "Video",
+    "published_at": "2023-09-13T20:33:56+02:00",
+    "updated_at": "2023-09-13T20:33:58+02:00",
+    "media_id": "n1kxstxafp6v",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280773/politie-in-vs-voert-moordenaar-af-die-ontsnapte-met-crab-walk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280746,
-    "slug": "dambreuken-overstromingen-en-een-weggevaagde-stad-5-vragen-over-libie",
+    "slug": "dambreuken-overstromingen-en-weggevaagde-stad-5-vragen-over-libie",
     "type": "article",
-    "title": "Dambreuken, overstromingen en een weggevaagde stad: 5 vragen over Libië",
+    "title": "Dambreuken, overstromingen en weggevaagde stad: 5 vragen over Libië",
     "subtitle": "NU+",
     "published_at": "2023-09-13T20:12:23+02:00",
-    "updated_at": "2023-09-13T20:12:24+02:00",
+    "updated_at": "2023-09-13T20:37:13+02:00",
     "media_id": "euaxq0raa5gj",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6280746/dambreuken-overstromingen-en-een-weggevaagde-stad-5-vragen-over-libie.html",
+    "url": "/buitenland/6280746/dambreuken-overstromingen-en-weggevaagde-stad-5-vragen-over-libie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6280742/schiphol-verwelkomde-meer-dan-zes-miljoen-passagiers-in-augustus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280723,
-    "slug": "ook-in-nederland-dreigt-verbod-op-verkoop-iphone-12-vanwege-te-hoge-straling",
-    "type": "article",
-    "title": "Ook in Nederland dreigt verbod op verkoop iPhone 12 vanwege te hoge straling",
-    "subtitle": null,
-    "published_at": "2023-09-13T16:30:02+02:00",
-    "updated_at": "2023-09-13T17:14:54+02:00",
-    "media_id": "gjuxr93amz62",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6280723/ook-in-nederland-dreigt-verbod-op-verkoop-iphone-12-vanwege-te-hoge-straling.html",
     "open_new_window": false,
     "partner": null
   }
