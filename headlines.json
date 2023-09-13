@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280652,
+    "slug": "topman-bp-moet-per-direct-opstappen-vanwege-relaties-met-collegas",
+    "type": "article",
+    "title": "Topman BP moet per direct opstappen vanwege relaties met collega's",
+    "subtitle": null,
+    "published_at": "2023-09-13T08:41:43+02:00",
+    "updated_at": "2023-09-13T08:41:44+02:00",
+    "media_id": "9dmx03takcco",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6280652/topman-bp-moet-per-direct-opstappen-vanwege-relaties-met-collegas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280653,
+    "slug": "wateroverlast-veroorzaakt-zinkgat-in-straat-in-maastricht",
+    "type": "video",
+    "title": "Wateroverlast veroorzaakt zinkgat in straat in Maastricht",
+    "subtitle": "Video",
+    "published_at": "2023-09-13T08:37:05+02:00",
+    "updated_at": "2023-09-13T08:37:06+02:00",
+    "media_id": "gdixeyeax5uf",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280653/wateroverlast-veroorzaakt-zinkgat-in-straat-in-maastricht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280651,
     "slug": "nederlands-team-met-zoekhonden-naar-marokko-voor-hulp-na-aardbeving",
     "type": "article",
     "title": "Nederlands team met zoekhonden naar Marokko voor hulp na aardbeving",
     "subtitle": null,
     "published_at": "2023-09-13T08:12:25+02:00",
-    "updated_at": "2023-09-13T08:32:21+02:00",
+    "updated_at": "2023-09-13T08:42:52+02:00",
     "media_id": "sirx4awavdzp",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6280647,
-    "slug": "man-wordt-gearresteerd-na-betasten-verslaggever-op-spaanse-tv",
+    "slug": "politie-arresteert-man-die-verslaggever-live-op-spaanse-tv-betaste",
     "type": "video",
-    "title": "Man wordt gearresteerd na betasten verslaggever op Spaanse tv",
+    "title": "Politie arresteert man die verslaggever live op Spaanse tv betaste",
     "subtitle": "Video",
     "published_at": "2023-09-13T07:50:29+02:00",
-    "updated_at": "2023-09-13T07:50:30+02:00",
+    "updated_at": "2023-09-13T08:49:14+02:00",
     "media_id": "pr8xr2qapfec",
     "duration": "0:44",
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6280647/man-wordt-gearresteerd-na-betasten-verslaggever-op-spaanse-tv.html",
+    "url": "/videos/6280647/politie-arresteert-man-die-verslaggever-live-op-spaanse-tv-betaste.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6280633/gemeenten-aan-de-duitse-grens-krijgen-testnoodbericht-maak-je-geen-zorgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280621,
-    "slug": "tientallen-krokodillen-ontsnapt-uit-chinese-fokkerij-door-overstromingen",
-    "type": "article",
-    "title": "Tientallen krokodillen ontsnapt uit Chinese fokkerij door overstromingen",
-    "subtitle": null,
-    "published_at": "2023-09-13T00:19:48+02:00",
-    "updated_at": "2023-09-13T07:58:49+02:00",
-    "media_id": "pijxvn9aud5z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280621/tientallen-krokodillen-ontsnapt-uit-chinese-fokkerij-door-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280586,
-    "slug": "aantal-internationale-studenten-dat-na-studie-hier-blijft-werken-neemt-toe",
-    "type": "article",
-    "title": "Aantal internationale studenten dat na studie hier blijft werken neemt toe",
-    "subtitle": null,
-    "published_at": "2023-09-13T00:00:41+02:00",
-    "updated_at": "2023-09-13T07:07:27+02:00",
-    "media_id": "jayxbptap8wc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280586/aantal-internationale-studenten-dat-na-studie-hier-blijft-werken-neemt-toe.html",
     "open_new_window": false,
     "partner": null
   }
