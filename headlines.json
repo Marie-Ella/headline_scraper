@@ -1,5 +1,74 @@
 [
   {
+    "id": 6280088,
+    "slug": "jouw-data-zijn-veel-waard-maar-hoe-werkt-dat-eigenlijk",
+    "type": "article",
+    "title": "Jouw data zijn veel waard, maar hoe werkt dat eigenlijk?",
+    "subtitle": null,
+    "published_at": "2023-09-14T13:01:10+02:00",
+    "updated_at": "2023-09-14T13:01:12+02:00",
+    "media_id": "eppx53xak2nh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6280088/jouw-data-zijn-veel-waard-maar-hoe-werkt-dat-eigenlijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280845,
+    "slug": "nederlandse-staat-voor-rechter-gedaagd-om-tilburger-die-vastzit-in-spanje",
+    "type": "article",
+    "title": "Nederlandse Staat voor rechter gedaagd om Tilburger die vastzit in Spanje",
+    "subtitle": null,
+    "published_at": "2023-09-14T12:56:04+02:00",
+    "updated_at": "2023-09-14T12:56:05+02:00",
+    "media_id": "k03x4n3asucu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280845/nederlandse-staat-voor-rechter-gedaagd-om-tilburger-die-vastzit-in-spanje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280846,
+    "slug": "peloton-begonnen-aan-opnieuw-zware-bergetappe-in-vuelta",
+    "type": "article",
+    "title": "Peloton begonnen aan opnieuw zware bergetappe in Vuelta",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-14T12:50:47+02:00",
+    "updated_at": "2023-09-14T13:09:08+02:00",
+    "media_id": "mc4xi88ayumn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280846/peloton-begonnen-aan-opnieuw-zware-bergetappe-in-vuelta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280837,
     "slug": "maguire-haalt-schouders-op-over-hoongelach-neemt-druk-bij-teamgenoten-weg",
     "type": "article",
@@ -162,12 +231,12 @@
   },
   {
     "id": 6276876,
-    "slug": "oogkas-bloedt-gruwelijk-echt-in-de-vuurlinie-dit-is-eigenlijk-een-sekspop",
+    "slug": "bloedende-oogkassen-en-piepschuimexplosies-slimme-filmtrucs-bij-de-vuurlinie",
     "type": "article",
-    "title": "Oogkas bloedt gruwelijk echt in De Vuurlinie: 'Dit is eigenlijk een sekspop'",
+    "title": "Bloedende oogkassen en piepschuimexplosies: slimme filmtrucs bij De Vuurlinie",
     "subtitle": "NU+",
     "published_at": "2023-09-14T11:41:02+02:00",
-    "updated_at": "2023-09-14T12:04:53+02:00",
+    "updated_at": "2023-09-14T12:59:58+02:00",
     "media_id": "enaxd92aglk8",
     "duration": null,
     "canonical_section": {
@@ -179,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6276876/oogkas-bloedt-gruwelijk-echt-in-de-vuurlinie-dit-is-eigenlijk-een-sekspop.html",
+    "url": "/film/6276876/bloedende-oogkassen-en-piepschuimexplosies-slimme-filmtrucs-bij-de-vuurlinie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Sauber houdt volgend Formule 1-seizoen vast aan Zhou als teamgenoot Bottas",
     "subtitle": null,
     "published_at": "2023-09-14T11:31:37+02:00",
-    "updated_at": "2023-09-14T11:53:59+02:00",
+    "updated_at": "2023-09-14T13:02:50+02:00",
     "media_id": "ywcxcmqa56bz",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6280814/bcc-vraagt-uitstel-van-betaling-aan-winkels-blijven-voorlopig-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280704,
-    "slug": "dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen",
-    "type": "article",
-    "title": "Dit gebeurt er met dieren die in bewaring zijn genomen",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-09-14T09:03:10+02:00",
-    "updated_at": "2023-09-14T10:59:02+02:00",
-    "media_id": "8fox6amayi9q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6280704/dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280806,
-    "slug": "liev-schreiber-en-vriendin-taylor-neisen-hebben-dochter-gekregen",
-    "type": "article",
-    "title": "Liev Schreiber en vriendin Taylor Neisen hebben dochter gekregen",
-    "subtitle": null,
-    "published_at": "2023-09-14T08:40:57+02:00",
-    "updated_at": "2023-09-14T08:40:59+02:00",
-    "media_id": "t67xi8zap4pe",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6280806/liev-schreiber-en-vriendin-taylor-neisen-hebben-dochter-gekregen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280805,
-    "slug": "overheid-moet-scherpe-eisen-stellen-aan-bedrijven-om-problemen-aan-te-pakken",
-    "type": "article",
-    "title": "Overheid moet scherpe eisen stellen aan bedrijven om problemen aan te pakken",
-    "subtitle": null,
-    "published_at": "2023-09-14T08:37:13+02:00",
-    "updated_at": "2023-09-14T08:37:14+02:00",
-    "media_id": "d8oxmr4ap93e",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280805/overheid-moet-scherpe-eisen-stellen-aan-bedrijven-om-problemen-aan-te-pakken.html",
     "open_new_window": false,
     "partner": null
   }
