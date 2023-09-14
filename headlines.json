@@ -1,12 +1,58 @@
 [
   {
-    "id": 6280927,
-    "slug": "oekraiense-en-russische-doden-op-dag-vol-aanvallen",
+    "id": 6280934,
+    "slug": "amerikaanse-agent-redt-bestuurder-uit-brandende-auto",
+    "type": "video",
+    "title": "Amerikaanse agent redt bestuurder uit brandende auto",
+    "subtitle": "Video",
+    "published_at": "2023-09-14T22:13:13+02:00",
+    "updated_at": "2023-09-14T22:13:14+02:00",
+    "media_id": "2mjxq1aavmhb",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280934/amerikaanse-agent-redt-bestuurder-uit-brandende-auto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280933,
+    "slug": "van-bommel-en-antwerp-missen-speler-in-cl-door-administratieve-blunder",
     "type": "article",
-    "title": "Oekraïense én Russische doden op dag vol aanvallen",
+    "title": "Van Bommel en Antwerp missen speler in CL door administratieve blunder",
+    "subtitle": null,
+    "published_at": "2023-09-14T22:11:43+02:00",
+    "updated_at": "2023-09-14T22:11:44+02:00",
+    "media_id": "hfuxpdnak7in",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280933/van-bommel-en-antwerp-missen-speler-in-cl-door-administratieve-blunder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280927,
+    "slug": "oekraiense-en-russische-doden-op-een-dag-vol-aanvallen",
+    "type": "article",
+    "title": "Oekraïense én Russische doden op een dag vol aanvallen",
     "subtitle": "Overzicht",
     "published_at": "2023-09-14T21:43:21+02:00",
-    "updated_at": "2023-09-14T21:43:33+02:00",
+    "updated_at": "2023-09-14T22:12:28+02:00",
     "media_id": "o8zxjgxab8c7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6280927/oekraiense-en-russische-doden-op-dag-vol-aanvallen.html",
+    "url": "/spanningen-oekraine/6280927/oekraiense-en-russische-doden-op-een-dag-vol-aanvallen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6280912/tientallen-krokodillen-ontsnapt-door-overstroming-in-china.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280910,
-    "slug": "evenepoel-draagt-zege-op-aan-echtgenote-belangrijkste-moment-van-mijn-vuelta",
-    "type": "article",
-    "title": "Evenepoel draagt zege op aan echtgenote: 'Belangrijkste moment van mijn Vuelta'",
-    "subtitle": null,
-    "published_at": "2023-09-14T18:41:19+02:00",
-    "updated_at": "2023-09-14T18:41:22+02:00",
-    "media_id": "1tox3bfassjc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6280910/evenepoel-draagt-zege-op-aan-echtgenote-belangrijkste-moment-van-mijn-vuelta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280902,
-    "slug": "kpn-in-wachtkamer-gezet-bij-overname-youfone-eerst-onderzoek-nodig",
-    "type": "article",
-    "title": "KPN in wachtkamer gezet bij overname Youfone: eerst onderzoek nodig",
-    "subtitle": null,
-    "published_at": "2023-09-14T18:38:53+02:00",
-    "updated_at": "2023-09-14T18:42:37+02:00",
-    "media_id": "qh4x8s3auiff",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280902/kpn-in-wachtkamer-gezet-bij-overname-youfone-eerst-onderzoek-nodig.html",
     "open_new_window": false,
     "partner": null
   }
