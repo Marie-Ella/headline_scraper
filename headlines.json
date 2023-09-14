@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280793,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-14T06:08:35+02:00",
+    "updated_at": "2023-09-14T06:08:36+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6280793/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280792,
+    "slug": "weerbericht-vandaag-kan-je-nog-even-afkoelen-voor-de-temperatuur-weer-stijgt",
+    "type": "article",
+    "title": "Weerbericht: Vandaag kan je nog even afkoelen voor de temperatuur weer stijgt",
+    "subtitle": null,
+    "published_at": "2023-09-14T05:53:15+02:00",
+    "updated_at": "2023-09-14T05:53:16+02:00",
+    "media_id": "rnkxviqasbip",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6280792/weerbericht-vandaag-kan-je-nog-even-afkoelen-voor-de-temperatuur-weer-stijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280783,
     "slug": "wat-wil-jij-weten-over-de-ramp-in-libie-stel-hier-je-vragen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6280775/deze-uniformen-zamelde-defensie-in-voor-oekraiense-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280730,
-    "slug": "waarom-vrienden-maken-in-een-nieuwe-omgeving-belangrijk-is",
-    "type": "article",
-    "title": "Waarom vrienden maken (in een nieuwe omgeving) belangrijk is",
-    "subtitle": "NU+",
-    "published_at": "2023-09-13T21:02:49+02:00",
-    "updated_at": "2023-09-13T22:38:08+02:00",
-    "media_id": "do0x2aual01p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6280730/waarom-vrienden-maken-in-een-nieuwe-omgeving-belangrijk-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280770,
-    "slug": "knagende-termieten-in-opmars-panden-in-zuid-holland-beschadigd",
-    "type": "article",
-    "title": "Knagende termieten in opmars: panden in Zuid-Holland beschadigd",
-    "subtitle": null,
-    "published_at": "2023-09-13T20:59:18+02:00",
-    "updated_at": "2023-09-14T05:15:06+02:00",
-    "media_id": "6krxztkaya3x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6280770/knagende-termieten-in-opmars-panden-in-zuid-holland-beschadigd.html",
     "open_new_window": false,
     "partner": null
   }
