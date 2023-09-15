@@ -1,12 +1,81 @@
 [
   {
+    "id": 6280985,
+    "slug": "coureurs-staan-voor-eerste-training-in-singapore",
+    "type": "article",
+    "title": "Coureurs staan voor eerste training in Singapore",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-15T11:26:06+02:00",
+    "updated_at": "2023-09-15T11:26:08+02:00",
+    "media_id": "l7zx95uakiyf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Singapore",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6280985/coureurs-staan-voor-eerste-training-in-singapore.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280984,
+    "slug": "twintig-ratelslangen-kronkelen-rond-in-amerikaanse-garage",
+    "type": "video",
+    "title": "Twintig ratelslangen kronkelen rond in Amerikaanse garage",
+    "subtitle": "Video",
+    "published_at": "2023-09-15T11:22:43+02:00",
+    "updated_at": "2023-09-15T11:22:44+02:00",
+    "media_id": "nlfxzz6a852j",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6280984/twintig-ratelslangen-kronkelen-rond-in-amerikaanse-garage.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280982,
+    "slug": "festivalgangers-kronen-dauwpop-tot-beste-festival-van-2023",
+    "type": "article",
+    "title": "Festivalgangers kronen Dauwpop tot beste festival van 2023",
+    "subtitle": null,
+    "published_at": "2023-09-15T11:21:44+02:00",
+    "updated_at": "2023-09-15T11:21:45+02:00",
+    "media_id": "q29xm5hauvoc",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6280982/festivalgangers-kronen-dauwpop-tot-beste-festival-van-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280981,
     "slug": "dr-martens-opent-speciale-werkplaats-die-eigen-schoenen-gaat-repareren",
     "type": "article",
     "title": "Dr. Martens opent speciale werkplaats die eigen schoenen gaat repareren",
     "subtitle": null,
     "published_at": "2023-09-15T11:17:15+02:00",
-    "updated_at": "2023-09-15T11:17:15+02:00",
+    "updated_at": "2023-09-15T11:17:17+02:00",
     "media_id": "kmwxvgmapwc0",
     "duration": null,
     "canonical_section": {
@@ -24,12 +93,12 @@
   },
   {
     "id": 6280957,
-    "slug": "waarom-vervelen-leerlingen-zich-prijs-voor-grappig-onderzoek-uitgereikt",
+    "slug": "waarom-vervelen-leerlingen-zich-nobelprijs-voor-grappig-onderzoek-uitgereikt",
     "type": "article",
-    "title": "Waarom vervelen leerlingen zich? Prijs voor grappig onderzoek uitgereikt",
+    "title": "Waarom vervelen leerlingen zich? 'Nobelprijs' voor grappig onderzoek uitgereikt",
     "subtitle": null,
     "published_at": "2023-09-15T11:08:15+02:00",
-    "updated_at": "2023-09-15T11:08:16+02:00",
+    "updated_at": "2023-09-15T11:18:53+02:00",
     "media_id": "fgvx419acs61",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wetenschap/6280957/waarom-vervelen-leerlingen-zich-prijs-voor-grappig-onderzoek-uitgereikt.html",
+    "url": "/wetenschap/6280957/waarom-vervelen-leerlingen-zich-nobelprijs-voor-grappig-onderzoek-uitgereikt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +162,12 @@
   },
   {
     "id": 6280969,
-    "slug": "hamilton-vindt-uitlatingen-marko-onacceptabel-sorry-zeggen-is-niet-genoeg",
+    "slug": "hamilton-vindt-uitlatingen-van-red-bull-topman-marko-over-perez-onacceptabel",
     "type": "article",
-    "title": "Hamilton vindt uitlatingen Marko onacceptabel: 'Sorry zeggen is niet genoeg'",
+    "title": "Hamilton vindt uitlatingen van Red Bull-topman Marko over Pérez onacceptabel",
     "subtitle": null,
     "published_at": "2023-09-15T10:48:27+02:00",
-    "updated_at": "2023-09-15T10:48:29+02:00",
+    "updated_at": "2023-09-15T11:28:38+02:00",
     "media_id": "cejxux9a3ezj",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6280969/hamilton-vindt-uitlatingen-marko-onacceptabel-sorry-zeggen-is-niet-genoeg.html",
+    "url": "/formule-1/6280969/hamilton-vindt-uitlatingen-van-red-bull-topman-marko-over-perez-onacceptabel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6280949/sia-was-depressief-na-scheiding-lag-drie-jaar-lang-in-bed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280917,
-    "slug": "waar-let-jij-op-als-je-een-hond-koopt",
-    "type": "article",
-    "title": "Waar let jij op als je een hond koopt?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-09-15T07:01:15+02:00",
-    "updated_at": "2023-09-15T07:01:17+02:00",
-    "media_id": "4vxxuo5aenms",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6280917/waar-let-jij-op-als-je-een-hond-koopt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280947,
-    "slug": "rapper-offset-brengt-op-13-oktober-nieuw-album-uit",
-    "type": "article",
-    "title": "Rapper Offset brengt op 13 oktober nieuw album uit",
-    "subtitle": null,
-    "published_at": "2023-09-15T06:58:51+02:00",
-    "updated_at": "2023-09-15T08:02:47+02:00",
-    "media_id": "8fpxzx4a8o9b",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6280947/rapper-offset-brengt-op-13-oktober-nieuw-album-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280941,
-    "slug": "dit-marokkaanse-bergdorpje-is-door-de-aardbeving-compleet-vernietigd",
-    "type": "video",
-    "title": "Dit Marokkaanse bergdorpje is door de aardbeving compleet vernietigd",
-    "subtitle": "Video",
-    "published_at": "2023-09-15T06:29:48+02:00",
-    "updated_at": "2023-09-15T07:08:32+02:00",
-    "media_id": "dylxcjeauqew",
-    "duration": "3:24",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280941/dit-marokkaanse-bergdorpje-is-door-de-aardbeving-compleet-vernietigd.html",
     "open_new_window": false,
     "partner": null
   }
