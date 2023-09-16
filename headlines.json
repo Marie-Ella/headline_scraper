@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281045,
+    "slug": "het-inkopen-van-wiet-moet-volledig-legaal-worden",
+    "type": "article",
+    "title": "'Het inkopen van wiet moet volledig legaal worden'",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-16T07:46:08+02:00",
+    "updated_at": "2023-09-16T07:46:10+02:00",
+    "media_id": "phmx6ala25ju",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6281045/het-inkopen-van-wiet-moet-volledig-legaal-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281067,
     "slug": "zo-vernielde-oekraine-een-russisch-luchtafweersysteem-van-1-miljard",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6281109,
-    "slug": "weerbericht-lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen",
+    "slug": "lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen",
     "type": "article",
-    "title": "Weerbericht: Lekker nazomeren dit weekend, voordat het weer gaat regenen",
-    "subtitle": null,
+    "title": "Lekker nazomeren dit weekend, voordat het weer gaat regenen",
+    "subtitle": "Weerbericht",
     "published_at": "2023-09-16T06:02:39+02:00",
-    "updated_at": "2023-09-16T06:03:41+02:00",
+    "updated_at": "2023-09-16T07:43:55+02:00",
     "media_id": "gcxxgboau592",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6281109/weerbericht-lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen.html",
+    "url": "/weerbericht/6281109/lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6280897,
-    "slug": "extreem-weer-komt-steeds-vaker-voor-maar-je-kan-je-er-niet-altijd-tegen-verzekeren",
+    "slug": "extreem-weer-komt-vaker-voor-maar-je-kan-je-er-niet-altijd-tegen-verzekeren",
     "type": "article",
-    "title": "Extreem weer komt steeds vaker voor, maar je kan je er niet altijd tegen verzekeren",
+    "title": "Extreem weer komt vaker voor, maar je kan je er niet altijd tegen verzekeren",
     "subtitle": "NU+",
     "published_at": "2023-09-16T05:03:50+02:00",
-    "updated_at": "2023-09-16T05:03:51+02:00",
+    "updated_at": "2023-09-16T07:38:21+02:00",
     "media_id": "7x7xau7a4h5h",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6280897/extreem-weer-komt-steeds-vaker-voor-maar-je-kan-je-er-niet-altijd-tegen-verzekeren.html",
+    "url": "/economie/6280897/extreem-weer-komt-vaker-voor-maar-je-kan-je-er-niet-altijd-tegen-verzekeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281098/ado-wint-weer-en-geeft-fc-groningen-nieuwe-dreun-schokeffect-blijft-uit-bij-nac.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281096,
-    "slug": "braziliaanse-politie-redt-poemawelpje-uit-sloppenwijk",
-    "type": "video",
-    "title": "Braziliaanse politie redt poemawelpje uit sloppenwijk",
-    "subtitle": "Video",
-    "published_at": "2023-09-15T22:04:43+02:00",
-    "updated_at": "2023-09-15T22:04:44+02:00",
-    "media_id": "ze7xh22apd8h",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281096/braziliaanse-politie-redt-poemawelpje-uit-sloppenwijk.html",
     "open_new_window": false,
     "partner": null
   }
