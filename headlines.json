@@ -1,13 +1,36 @@
 [
   {
+    "id": 6281896,
+    "slug": "het-leukste-debat-van-het-jaar-volgens-onze-verslaggever",
+    "type": "article",
+    "title": "Het leukste debat van het jaar (volgens onze verslaggever)",
+    "subtitle": "NU praat je bij",
+    "published_at": "2023-09-21T17:27:29+02:00",
+    "updated_at": "2023-09-21T17:27:30+02:00",
+    "media_id": "p7qxqzxa8c90",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6281896/het-leukste-debat-van-het-jaar-volgens-onze-verslaggever.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281919,
     "slug": "nederland-komt-een-seconde-tekort-voor-medaille-op-ek-mixed-relay-in-eigen-land",
     "type": "article",
     "title": "Nederland komt één seconde tekort voor medaille op EK mixed relay in eigen land",
     "subtitle": null,
     "published_at": "2023-09-21T17:05:30+02:00",
-    "updated_at": "2023-09-21T17:17:40+02:00",
-    "media_id": "73exwioapq38",
+    "updated_at": "2023-09-21T17:26:34+02:00",
+    "media_id": "750xmh4a68ip",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -351,7 +374,7 @@
     "title": "Caroline Tensen presenteert nieuw woonprogramma van makers Kopen Zonder Kijken",
     "subtitle": null,
     "published_at": "2023-09-21T14:26:01+02:00",
-    "updated_at": "2023-09-21T17:11:05+02:00",
+    "updated_at": "2023-09-21T17:21:05+02:00",
     "media_id": "e1ux4hlap56l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6281883/rechtszaak-van-fka-twigs-tegen-haar-ex-shia-labeouf-een-jaar-uitgesteld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281882,
-    "slug": "britten-pauzeren-net-als-amerikanen-serie-renteverhogingen",
-    "type": "article",
-    "title": "Britten pauzeren net als Amerikanen serie renteverhogingen",
-    "subtitle": null,
-    "published_at": "2023-09-21T13:52:16+02:00",
-    "updated_at": "2023-09-21T13:52:18+02:00",
-    "media_id": "dwcxjndab7j8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6281882/britten-pauzeren-net-als-amerikanen-serie-renteverhogingen.html",
     "open_new_window": false,
     "partner": null
   }
