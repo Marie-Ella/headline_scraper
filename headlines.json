@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281922,
+    "slug": "monorail-rijdt-met-geopende-deuren-door-bangkok",
+    "type": "video",
+    "title": "Monorail rijdt met geopende deuren door Bangkok",
+    "subtitle": "Video",
+    "published_at": "2023-09-21T17:38:03+02:00",
+    "updated_at": "2023-09-21T17:38:04+02:00",
+    "media_id": "2ypxlqaa0y94",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6281922/monorail-rijdt-met-geopende-deuren-door-bangkok.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281896,
     "slug": "het-leukste-debat-van-het-jaar-volgens-onze-verslaggever",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Nederland komt één seconde tekort voor medaille op EK mixed relay in eigen land",
     "subtitle": null,
     "published_at": "2023-09-21T17:05:30+02:00",
-    "updated_at": "2023-09-21T17:26:34+02:00",
-    "media_id": "750xmh4a68ip",
+    "updated_at": "2023-09-21T17:36:12+02:00",
+    "media_id": "8gixdgwaz1ki",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6281884/grootste-russische-aanval-in-weken-lijkt-vooral-gericht-op-energievoorzieningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281883,
-    "slug": "rechtszaak-van-fka-twigs-tegen-haar-ex-shia-labeouf-een-jaar-uitgesteld",
-    "type": "article",
-    "title": "Rechtszaak van FKA twigs tegen haar ex Shia LaBeouf een jaar uitgesteld",
-    "subtitle": null,
-    "published_at": "2023-09-21T13:57:21+02:00",
-    "updated_at": "2023-09-21T13:57:22+02:00",
-    "media_id": "mlhxgrzajudy",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6281883/rechtszaak-van-fka-twigs-tegen-haar-ex-shia-labeouf-een-jaar-uitgesteld.html",
     "open_new_window": false,
     "partner": null
   }
