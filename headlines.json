@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282134,
+    "slug": "stakingen-bij-amerikaanse-autofabrieken-worden-uitgebreid-maar-niet-bij-ford",
+    "type": "article",
+    "title": "Stakingen bij Amerikaanse autofabrieken worden uitgebreid, maar niet bij Ford",
+    "subtitle": null,
+    "published_at": "2023-09-22T18:10:48+02:00",
+    "updated_at": "2023-09-22T18:11:13+02:00",
+    "media_id": "myfx7bfa1ddo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282134/stakingen-bij-amerikaanse-autofabrieken-worden-uitgebreid-maar-niet-bij-ford.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282132,
+    "slug": "zo-werkt-de-zware-himars-raket-die-oekraine-krijgt",
+    "type": "video",
+    "title": "Zo werkt de zware HIMARS-raket die Oekraïne krijgt",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-22T17:55:19+02:00",
+    "updated_at": "2023-09-22T17:57:10+02:00",
+    "media_id": "ptbxrk9amlta",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6282132/zo-werkt-de-zware-himars-raket-die-oekraine-krijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282129,
     "slug": "waarom-graanruzie-met-oekraine-poolse-politici-goed-uitkomt",
     "type": "video",
@@ -328,7 +374,7 @@
     "title": "Koppel hoort levenslange straf en 25 jaar cel eisen voor moord op twee mensen",
     "subtitle": null,
     "published_at": "2023-09-22T15:46:57+02:00",
-    "updated_at": "2023-09-22T17:34:23+02:00",
+    "updated_at": "2023-09-22T17:51:51+02:00",
     "media_id": "8p3xkrya6n2m",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6282082/nederlander-17-meldt-zich-bij-politie-na-dodelijke-steekpartij-in-antwerpse-club.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282081,
-    "slug": "vloer-van-tram-doormidden-gescheurd-bij-ontsporing-in-schiedam",
-    "type": "video",
-    "title": "Vloer van tram doormidden gescheurd bij ontsporing in Schiedam",
-    "subtitle": "Video",
-    "published_at": "2023-09-22T14:46:57+02:00",
-    "updated_at": "2023-09-22T17:11:25+02:00",
-    "media_id": "6s1xrgea27m1",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282081/vloer-van-tram-doormidden-gescheurd-bij-ontsporing-in-schiedam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282076,
-    "slug": "limburgse-familie-krijgt-vergoeding-na-begrafenis-met-verkeerde-persoon-in-kist",
-    "type": "article",
-    "title": "Limburgse familie krijgt vergoeding na begrafenis met verkeerde persoon in kist",
-    "subtitle": null,
-    "published_at": "2023-09-22T14:29:58+02:00",
-    "updated_at": "2023-09-22T17:30:44+02:00",
-    "media_id": "66vxtiea4qn0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282076/limburgse-familie-krijgt-vergoeding-na-begrafenis-met-verkeerde-persoon-in-kist.html",
     "open_new_window": false,
     "partner": null
   }
