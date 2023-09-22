@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282089,
+    "slug": "koppel-hoort-levenslange-straf-en-25-jaar-cel-eisen-voor-moord-op-twee-mensen",
+    "type": "article",
+    "title": "Koppel hoort levenslange straf en 25 jaar cel eisen voor moord op twee mensen",
+    "subtitle": null,
+    "published_at": "2023-09-22T15:46:57+02:00",
+    "updated_at": "2023-09-22T15:46:58+02:00",
+    "media_id": "8p3xkrya6n2m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6282089/koppel-hoort-levenslange-straf-en-25-jaar-cel-eisen-voor-moord-op-twee-mensen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282080,
+    "slug": "james-webb-telescoop-vindt-koolstof-op-jupiter-hoe-doet-ie-dat",
+    "type": "article",
+    "title": "James Webb-telescoop vindt koolstof op Jupiter: hoe doet-ie dat?",
+    "subtitle": "NU+",
+    "published_at": "2023-09-22T15:30:59+02:00",
+    "updated_at": "2023-09-22T15:31:01+02:00",
+    "media_id": "ofpxse9aj0d6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6282080/james-webb-telescoop-vindt-koolstof-op-jupiter-hoe-doet-ie-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282085,
     "slug": "netflix-komt-eind-november-met-realitygameshow-gebaseerd-op-squid-game",
     "type": "article",
@@ -121,8 +167,8 @@
     "title": "Olcay Gulsen, Typhoon en Tineke de Nooij doen mee aan Sterren op het Doek",
     "subtitle": null,
     "published_at": "2023-09-22T14:16:50+02:00",
-    "updated_at": "2023-09-22T14:16:51+02:00",
-    "media_id": "rvzxw89a87ty",
+    "updated_at": "2023-09-22T15:35:07+02:00",
+    "media_id": "gbuxwckaj4y6",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6282055/eu-beboet-intel-opnieuw-voor-concurrentievervalsing-dit-keer-376-miljoen-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282053,
-    "slug": "take-that-komt-na-zes-jaar-met-nieuw-album-en-gaat-op-tournee",
-    "type": "article",
-    "title": "Take That komt na zes jaar met nieuw album en gaat op tournee",
-    "subtitle": null,
-    "published_at": "2023-09-22T12:34:05+02:00",
-    "updated_at": "2023-09-22T12:34:06+02:00",
-    "media_id": "y5fxe23aso4t",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6282053/take-that-komt-na-zes-jaar-met-nieuw-album-en-gaat-op-tournee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282049,
-    "slug": "honderden-italiaanse-agenten-pakken-ruim-50-leden-op-van-beruchte-maffiagroep",
-    "type": "article",
-    "title": "Honderden Italiaanse agenten pakken ruim 50 leden op van beruchte maffiagroep",
-    "subtitle": null,
-    "published_at": "2023-09-22T12:21:46+02:00",
-    "updated_at": "2023-09-22T12:55:34+02:00",
-    "media_id": "0xuxvoqaqpe0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282049/honderden-italiaanse-agenten-pakken-ruim-50-leden-op-van-beruchte-maffiagroep.html",
     "open_new_window": false,
     "partner": null
   }
