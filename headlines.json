@@ -1,12 +1,58 @@
 [
   {
+    "id": 6282363,
+    "slug": "goed-nieuws-voor-bayern-en-koeman-blessure-de-ligt-valt-mee",
+    "type": "article",
+    "title": "Goed nieuws voor Bayern en Koeman: blessure De Ligt valt mee",
+    "subtitle": null,
+    "published_at": "2023-09-24T15:17:26+02:00",
+    "updated_at": "2023-09-24T15:23:55+02:00",
+    "media_id": "aekxu26a61n1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282363/goed-nieuws-voor-bayern-en-koeman-blessure-de-ligt-valt-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282362,
+    "slug": "sweet-dreams-met-acht-nominaties-grootste-kanshebber-voor-gouden-kalveren",
+    "type": "article",
+    "title": "Sweet Dreams met acht nominaties grootste kanshebber voor Gouden Kalveren",
+    "subtitle": null,
+    "published_at": "2023-09-24T15:16:40+02:00",
+    "updated_at": "2023-09-24T15:16:41+02:00",
+    "media_id": "w0hxoyaa4pl3",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6282362/sweet-dreams-met-acht-nominaties-grootste-kanshebber-voor-gouden-kalveren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282358,
     "slug": "klassieker-tussen-ajax-en-feyenoord-stilgelegd-vanwege-vuurwerk-op-het-veld",
     "type": "article",
     "title": "Klassieker tussen Ajax en Feyenoord stilgelegd vanwege vuurwerk op het veld",
     "subtitle": null,
     "published_at": "2023-09-24T15:15:07+02:00",
-    "updated_at": "2023-09-24T15:15:16+02:00",
+    "updated_at": "2023-09-24T15:27:46+02:00",
     "media_id": "qd5xde1ar8vp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "'Pérez heeft geluk dat er geen duidelijke vervanger is'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-09-24T14:42:39+02:00",
-    "updated_at": "2023-09-24T14:42:40+02:00",
+    "updated_at": "2023-09-24T15:22:20+02:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/blog/6282308/wij-helpen-je-graag-goed-voorbereid-naar-het-stemhokje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282337,
-    "slug": "ethiopische-assefa-verpulvert-wereldrecord-bij-marathon-in-berlijn",
-    "type": "article",
-    "title": "Ethiopische Assefa verpulvert wereldrecord bij marathon in Berlijn",
-    "subtitle": null,
-    "published_at": "2023-09-24T11:53:33+02:00",
-    "updated_at": "2023-09-24T14:26:25+02:00",
-    "media_id": "zs8xylzaughp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6282337/ethiopische-assefa-verpulvert-wereldrecord-bij-marathon-in-berlijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282338,
-    "slug": "feyenoord-laat-geen-spaan-heel-van-ajax-in-arena",
-    "type": "article",
-    "title": "Feyenoord laat geen spaan heel van Ajax in ArenA",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-24T11:48:16+02:00",
-    "updated_at": "2023-09-24T15:12:59+02:00",
-    "media_id": "yoexq2ma1mo4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282338/feyenoord-laat-geen-spaan-heel-van-ajax-in-arena.html",
     "open_new_window": false,
     "partner": null
   }
