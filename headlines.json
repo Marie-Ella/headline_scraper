@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282345,
+    "slug": "analyse-aanhouden-perez-wordt-uiteindelijk-een-risico-voor-red-bull",
+    "type": "article",
+    "title": "Analyse: Aanhouden Pérez wordt uiteindelijk een risico voor Red Bull",
+    "subtitle": "NU+",
+    "published_at": "2023-09-24T13:11:09+02:00",
+    "updated_at": "2023-09-24T13:11:10+02:00",
+    "media_id": "ouoxo3qa883w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6282345/analyse-aanhouden-perez-wordt-uiteindelijk-een-risico-voor-red-bull.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282111,
+    "slug": "het-unieke-universum-van-tim-burton-schaduwen-en-buitenbeentjes",
+    "type": "article",
+    "title": "Het unieke universum van Tim Burton: schaduwen en buitenbeentjes",
+    "subtitle": "NU+",
+    "published_at": "2023-09-24T13:03:00+02:00",
+    "updated_at": "2023-09-24T13:03:02+02:00",
+    "media_id": "2xyx15kadzsm",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6282111/het-unieke-universum-van-tim-burton-schaduwen-en-buitenbeentjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282243,
     "slug": "lezers-over-prinsjesdagplannen-ik-val-tussen-wal-en-schip",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6282343,
-    "slug": "tsjechische-miljardair-verkoopt-miljoenenbelang-in-franse-krant-le-monde",
+    "slug": "tsjechische-miljardair-verkoopt-miljoenenbelang-in-nieuwsmediagroep-le-monde",
     "type": "article",
-    "title": "Tsjechische miljardair verkoopt miljoenenbelang in Franse krant Le Monde",
+    "title": "Tsjechische miljardair verkoopt miljoenenbelang in nieuwsmediagroep Le Monde",
     "subtitle": null,
     "published_at": "2023-09-24T12:42:32+02:00",
-    "updated_at": "2023-09-24T12:42:33+02:00",
+    "updated_at": "2023-09-24T12:53:26+02:00",
     "media_id": "skixnroa5fx0",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6282343/tsjechische-miljardair-verkoopt-miljoenenbelang-in-franse-krant-le-monde.html",
+    "url": "/economie/6282343/tsjechische-miljardair-verkoopt-miljoenenbelang-in-nieuwsmediagroep-le-monde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +231,12 @@
   },
   {
     "id": 6282338,
-    "slug": "sparta-leidt-tegen-vitesse-ajax-mogelijk-zonder-bergwijn-in-klassieker",
+    "slug": "sparta-leidt-bij-rust-tegen-vitesse-aftellen-naar-ajax-feyenoord",
     "type": "article",
-    "title": "Sparta leidt tegen Vitesse, Ajax mogelijk zonder Bergwijn in Klassieker",
+    "title": "Sparta leidt bij rust tegen Vitesse, aftellen naar Ajax-Feyenoord",
     "subtitle": "Liveblog",
     "published_at": "2023-09-24T11:48:16+02:00",
-    "updated_at": "2023-09-24T12:39:39+02:00",
+    "updated_at": "2023-09-24T13:10:39+02:00",
     "media_id": "ch8xjr2ahh9w",
     "duration": null,
     "canonical_section": {
@@ -202,18 +248,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282338/sparta-leidt-tegen-vitesse-ajax-mogelijk-zonder-bergwijn-in-klassieker.html",
+    "url": "/voetbal/6282338/sparta-leidt-bij-rust-tegen-vitesse-aftellen-naar-ajax-feyenoord.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6282335,
-    "slug": "groepje-van-vijf-zonder-nederlanders-rijdt-weg-van-peloton-op-ek",
+    "slug": "peloton-jaagt-op-kopgroep-van-vijf-in-wegrit-om-europese-titel",
     "type": "article",
-    "title": "Groepje van vijf zonder Nederlanders rijdt weg van peloton op EK",
+    "title": "Peloton jaagt op kopgroep van vijf in wegrit om Europese titel",
     "subtitle": "Liveblog",
     "published_at": "2023-09-24T11:37:33+02:00",
-    "updated_at": "2023-09-24T12:44:57+02:00",
+    "updated_at": "2023-09-24T13:07:00+02:00",
     "media_id": "6tqx60cakm47",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6282335/groepje-van-vijf-zonder-nederlanders-rijdt-weg-van-peloton-op-ek.html",
+    "url": "/wielrennen/6282335/peloton-jaagt-op-kopgroep-van-vijf-in-wegrit-om-europese-titel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6282325/eerste-podium-heel-speciaal-voor-piastri-maar-dit-was-niet-mijn-beste-race.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282323,
-    "slug": "verstappen-geniet-van-superieure-red-bull-in-japan-geweldig-om-mee-te-rijden",
-    "type": "article",
-    "title": "Verstappen geniet van superieure Red Bull in Japan: 'Geweldig om mee te rijden'",
-    "subtitle": null,
-    "published_at": "2023-09-24T10:20:21+02:00",
-    "updated_at": "2023-09-24T10:33:05+02:00",
-    "media_id": "vd7xnucanrg9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6282323/verstappen-geniet-van-superieure-red-bull-in-japan-geweldig-om-mee-te-rijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282317,
-    "slug": "noa-lang-is-geen-fan-van-wisselbeleid-bosz-bij-psv-ik-vind-het-vervelend",
-    "type": "article",
-    "title": "Noa Lang is geen fan van wisselbeleid Bosz bij PSV: 'Ik vind het vervelend'",
-    "subtitle": null,
-    "published_at": "2023-09-24T10:10:36+02:00",
-    "updated_at": "2023-09-24T10:39:18+02:00",
-    "media_id": "u93xtqoap61g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282317/noa-lang-is-geen-fan-van-wisselbeleid-bosz-bij-psv-ik-vind-het-vervelend.html",
     "open_new_window": false,
     "partner": null
   }
