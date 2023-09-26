@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282686,
+    "slug": "vrachtwagen-in-de-kreukels-na-val-van-viaduct-a4",
+    "type": "video",
+    "title": "Vrachtwagen in de kreukels na val van viaduct A4",
+    "subtitle": "Video",
+    "published_at": "2023-09-26T17:13:41+02:00",
+    "updated_at": "2023-09-26T17:13:42+02:00",
+    "media_id": "yafxe8sasjbc",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282686/vrachtwagen-in-de-kreukels-na-val-van-viaduct-a4.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282670,
+    "slug": "taylor-swift-juichend-op-tribune-met-moeder-van-travis-kelce-is-ze-verliefd",
+    "type": "article",
+    "title": "Taylor Swift juichend op tribune met moeder van Travis Kelce: Is ze verliefd?",
+    "subtitle": null,
+    "published_at": "2023-09-26T16:58:12+02:00",
+    "updated_at": "2023-09-26T17:07:45+02:00",
+    "media_id": "etwxfp5azz00",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6282670/taylor-swift-juichend-op-tribune-met-moeder-van-travis-kelce-is-ze-verliefd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282680,
     "slug": "hulpdiensten-massaal-aanwezig-na-botsing-lijnbus-en-taxi",
     "type": "video",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6282675,
-    "slug": "waarom-de-zorgpremie-de-komende-jaren-nog-verder-stijgt",
+    "slug": "explosieve-stijging-van-zorgpremie-en-het-wordt-nog-duurder",
     "type": "article",
-    "title": "Waarom de zorgpremie de komende jaren nog verder stijgt",
+    "title": "Explosieve stijging van zorgpremie, en het wordt nóg duurder",
     "subtitle": "NU+",
     "published_at": "2023-09-26T16:23:06+02:00",
-    "updated_at": "2023-09-26T16:46:35+02:00",
+    "updated_at": "2023-09-26T16:50:40+02:00",
     "media_id": "a21xct4a9to5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6282675/waarom-de-zorgpremie-de-komende-jaren-nog-verder-stijgt.html",
+    "url": "/economie/6282675/explosieve-stijging-van-zorgpremie-en-het-wordt-nog-duurder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6254748/de-bijzondere-carriere-van-dafne-schippers-in-20-fotos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282605,
-    "slug": "zaak-tegen-pakketbezorger-die-man-doodreed-in-wijchen-moet-over",
-    "type": "article",
-    "title": "Zaak tegen pakketbezorger die man doodreed in Wijchen moet over",
-    "subtitle": null,
-    "published_at": "2023-09-26T13:12:03+02:00",
-    "updated_at": "2023-09-26T15:32:41+02:00",
-    "media_id": "ldoxxk2atyd3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282605/zaak-tegen-pakketbezorger-die-man-doodreed-in-wijchen-moet-over.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282645,
-    "slug": "amerikaanse-hulpdiensten-redden-bejaarde-man-na-val-van-30-meter-hoge-klif",
-    "type": "video",
-    "title": "Amerikaanse hulpdiensten redden bejaarde man na val van 30 meter hoge klif",
-    "subtitle": "Video",
-    "published_at": "2023-09-26T13:03:16+02:00",
-    "updated_at": "2023-09-26T13:03:18+02:00",
-    "media_id": "d36x3y6asbvc",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282645/amerikaanse-hulpdiensten-redden-bejaarde-man-na-val-van-30-meter-hoge-klif.html",
     "open_new_window": false,
     "partner": null
   }
