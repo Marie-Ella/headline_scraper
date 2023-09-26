@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282680,
+    "slug": "hulpdiensten-massaal-aanwezig-na-botsing-lijnbus-en-taxi",
+    "type": "video",
+    "title": "Hulpdiensten massaal aanwezig na botsing lijnbus en taxi",
+    "subtitle": "Video",
+    "published_at": "2023-09-26T16:36:04+02:00",
+    "updated_at": "2023-09-26T16:42:53+02:00",
+    "media_id": "6s1x60uakbkh",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282680/hulpdiensten-massaal-aanwezig-na-botsing-lijnbus-en-taxi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282677,
     "slug": "abn-amro-verhoogt-spaarrente-volgende-maand-naar-15-procent",
     "type": "article",
@@ -27,9 +50,9 @@
     "slug": "waarom-de-zorgpremie-de-komende-jaren-nog-verder-stijgt",
     "type": "article",
     "title": "Waarom de zorgpremie de komende jaren nog verder stijgt",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-09-26T16:23:06+02:00",
-    "updated_at": "2023-09-26T16:23:07+02:00",
+    "updated_at": "2023-09-26T16:46:35+02:00",
     "media_id": "a21xct4a9to5",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Veertien gewonden bij botsing lijnbus en taxibus in Fries Berlikum",
     "subtitle": null,
     "published_at": "2023-09-26T15:57:52+02:00",
-    "updated_at": "2023-09-26T16:14:42+02:00",
+    "updated_at": "2023-09-26T16:42:10+02:00",
     "media_id": "6t5xstjajxms",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282645/amerikaanse-hulpdiensten-redden-bejaarde-man-na-val-van-30-meter-hoge-klif.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282625,
-    "slug": "wie-moet-de-nieuwe-juryvoorzitter-worden-in-de-slimste-mens",
-    "type": "article",
-    "title": "Wie moet de nieuwe juryvoorzitter worden in De Slimste Mens?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-09-26T13:00:13+02:00",
-    "updated_at": "2023-09-26T16:26:04+02:00",
-    "media_id": "ar0x40qa4wfj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6282625/wie-moet-de-nieuwe-juryvoorzitter-worden-in-de-slimste-mens.html",
     "open_new_window": false,
     "partner": null
   }
