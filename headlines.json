@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282575,
+    "slug": "geniet-van-de-zon-op-deze-kalme-nazomerdag",
+    "type": "article",
+    "title": "Geniet van de zon op deze kalme nazomerdag",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-09-26T05:50:04+02:00",
+    "updated_at": "2023-09-26T05:50:06+02:00",
+    "media_id": "2vpxmgmap02i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6282575/geniet-van-de-zon-op-deze-kalme-nazomerdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282574,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6282531/ajax-scoort-bij-nunl-onbegrip-voor-duurdere-treinkaartjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282561,
-    "slug": "voormalig-eredivisie-spits-marcus-berg-37-zet-punt-achter-loopbaan",
-    "type": "article",
-    "title": "Voormalig Eredivisie-spits Marcus Berg (37) zet punt achter loopbaan",
-    "subtitle": null,
-    "published_at": "2023-09-25T20:49:40+02:00",
-    "updated_at": "2023-09-25T21:09:46+02:00",
-    "media_id": "7chxsf1a025c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282561/voormalig-eredivisie-spits-marcus-berg-37-zet-punt-achter-loopbaan.html",
     "open_new_window": false,
     "partner": null
   }
