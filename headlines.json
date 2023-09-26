@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282729,
+    "slug": "omtzigt-presenteert-kandidatenlijst-nederland-heeft-zin-in-verandering",
+    "type": "video",
+    "title": "Omtzigt presenteert kandidatenlijst: 'Nederland heeft zin in verandering'",
+    "subtitle": "Video",
+    "published_at": "2023-09-26T22:03:18+02:00",
+    "updated_at": "2023-09-26T22:11:20+02:00",
+    "media_id": "ayex4inab1kx",
+    "duration": "1:14",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282729/omtzigt-presenteert-kandidatenlijst-nederland-heeft-zin-in-verandering.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282725,
+    "slug": "oranje-verslaat-engeland-van-wiegman-en-houdt-olympische-droom-levend",
+    "type": "article",
+    "title": "Oranje verslaat Engeland van Wiegman en houdt olympische droom levend",
+    "subtitle": null,
+    "published_at": "2023-09-26T21:55:23+02:00",
+    "updated_at": "2023-09-26T22:18:16+02:00",
+    "media_id": "t3rx0fpa3qgq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282725/oranje-verslaat-engeland-van-wiegman-en-houdt-olympische-droom-levend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282714,
     "slug": "in-polen-neergestorte-raket-kwam-volgens-onderzoekers-uit-oekraine",
     "type": "article",
@@ -185,13 +231,13 @@
   },
   {
     "id": 6282713,
-    "slug": "oranje-jaagt-op-goal-in-slotfase-van-nations-league-kraker",
+    "slug": "reacties-na-belangrijke-zege-oranje-in-nations-league-kraker-met-engeland",
     "type": "article",
-    "title": "Oranje jaagt op goal in slotfase van Nations League-kraker",
+    "title": "Reacties na belangrijke zege Oranje in Nations League-kraker met Engeland",
     "subtitle": "Liveblog",
     "published_at": "2023-09-26T19:23:32+02:00",
-    "updated_at": "2023-09-26T21:47:51+02:00",
-    "media_id": "on0x6ljaydlx",
+    "updated_at": "2023-09-26T22:10:57+02:00",
+    "media_id": "yuex4byaqfkk",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282713/oranje-jaagt-op-goal-in-slotfase-van-nations-league-kraker.html",
+    "url": "/voetbal/6282713/reacties-na-belangrijke-zege-oranje-in-nations-league-kraker-met-engeland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6282698/huurprijzen-volgend-jaar-mogelijk-bijna-6-procent-omhoog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282697,
-    "slug": "buschauffeur-veroorzaakt-kettingbotsing-in-thailand",
-    "type": "video",
-    "title": "Buschauffeur veroorzaakt kettingbotsing in Thailand",
-    "subtitle": "Video",
-    "published_at": "2023-09-26T18:02:09+02:00",
-    "updated_at": "2023-09-26T18:02:10+02:00",
-    "media_id": "pprxec4a1drl",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282697/buschauffeur-veroorzaakt-kettingbotsing-in-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282696,
-    "slug": "kremlin-criticus-navalny-verliest-hoger-beroep-negentien-jaar-cel-blijft-staan",
-    "type": "article",
-    "title": "Kremlin-criticus Navalny verliest hoger beroep: negentien jaar cel blijft staan",
-    "subtitle": null,
-    "published_at": "2023-09-26T17:59:30+02:00",
-    "updated_at": "2023-09-26T17:59:31+02:00",
-    "media_id": "bwixyrwa59wk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282696/kremlin-criticus-navalny-verliest-hoger-beroep-negentien-jaar-cel-blijft-staan.html",
     "open_new_window": false,
     "partner": null
   }
