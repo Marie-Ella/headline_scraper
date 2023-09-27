@@ -1,12 +1,58 @@
 [
   {
+    "id": 6282784,
+    "slug": "ajax-aanwinst-mannsverk-minstens-zes-weken-aan-de-kant-met-voetblessure",
+    "type": "article",
+    "title": "Ajax-aanwinst Mannsverk minstens zes weken aan de kant met voetblessure",
+    "subtitle": null,
+    "published_at": "2023-09-27T11:36:13+02:00",
+    "updated_at": "2023-09-27T11:36:14+02:00",
+    "media_id": "22hxrkia3vnm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282784/ajax-aanwinst-mannsverk-minstens-zes-weken-aan-de-kant-met-voetblessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282783,
+    "slug": "nyck-de-vries-keert-na-mislukt-formule-1-avontuur-terug-in-formule-e",
+    "type": "article",
+    "title": "Nyck de Vries keert na mislukt Formule 1-avontuur terug in Formule E",
+    "subtitle": null,
+    "published_at": "2023-09-27T11:34:28+02:00",
+    "updated_at": "2023-09-27T11:45:23+02:00",
+    "media_id": "nyixrm1aerv5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6282783/nyck-de-vries-keert-na-mislukt-formule-1-avontuur-terug-in-formule-e.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282780,
     "slug": "marco-borsato-wordt-vervolgd-voor-zedendelict-met-minderjarige",
     "type": "article",
     "title": "Marco Borsato wordt vervolgd voor zedendelict met minderjarige",
     "subtitle": null,
     "published_at": "2023-09-27T11:08:41+02:00",
-    "updated_at": "2023-09-27T11:24:42+02:00",
+    "updated_at": "2023-09-27T11:38:56+02:00",
     "media_id": "tduxklxa7muz",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Fabriek Chemours aansprakelijk voor pfas-vervuiling in omgeving Dordrecht",
     "subtitle": null,
     "published_at": "2023-09-27T10:35:08+02:00",
-    "updated_at": "2023-09-27T11:21:09+02:00",
+    "updated_at": "2023-09-27T11:44:34+02:00",
     "media_id": "5guxau5ac8ja",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282743/napoli-spits-osimhen-overweegt-rechtszaak-tegen-zijn-club-vanwege-tiktok-video.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282744,
-    "slug": "toezichthouder-beschuldigt-amazon-van-monopoliegedrag-in-vs",
-    "type": "article",
-    "title": "Toezichthouder beschuldigt Amazon van monopoliegedrag in VS",
-    "subtitle": null,
-    "published_at": "2023-09-27T07:33:31+02:00",
-    "updated_at": "2023-09-27T08:54:04+02:00",
-    "media_id": "ssuxjslalxrl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282744/toezichthouder-beschuldigt-amazon-van-monopoliegedrag-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282687,
-    "slug": "als-ik-thuiswerk-ben-ik-productiever-dan-op-kantoor",
-    "type": "article",
-    "title": "'Als ik thuiswerk ben ik productiever dan op kantoor'",
-    "subtitle": "Stelling",
-    "published_at": "2023-09-27T07:00:48+02:00",
-    "updated_at": "2023-09-27T07:00:50+02:00",
-    "media_id": "5uoxy0qa8zgd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6282687/als-ik-thuiswerk-ben-ik-productiever-dan-op-kantoor.html",
     "open_new_window": false,
     "partner": null
   }
