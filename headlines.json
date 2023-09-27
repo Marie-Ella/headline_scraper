@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282769,
+    "slug": "nunl-zoekt-nieuwe-experts-voor-op-ons-reactieplatform-nujij",
+    "type": "article",
+    "title": "NU.nl zoekt nieuwe experts voor op ons reactieplatform NUjij",
+    "subtitle": null,
+    "published_at": "2023-09-27T18:40:26+02:00",
+    "updated_at": "2023-09-27T18:40:27+02:00",
+    "media_id": "3j0xm1ua4r7w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
+      "type": "default",
+      "name": "Gebaseerd op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gebaseerd-op-jullie-vragen/6282769/nunl-zoekt-nieuwe-experts-voor-op-ons-reactieplatform-nujij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282861,
     "slug": "psv-aast-op-zesde-overwinning-op-rij-na-merkwaardige-klassieker",
     "type": "article",
     "title": "PSV aast op zesde overwinning op rij na merkwaardige Klassieker",
     "subtitle": "Liveblog",
     "published_at": "2023-09-27T18:28:50+02:00",
-    "updated_at": "2023-09-27T18:28:51+02:00",
+    "updated_at": "2023-09-27T18:38:15+02:00",
     "media_id": "n8mxjfrazkpk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282832/gimenez-draagt-historische-hattrick-op-aan-god-en-familie-dit-betekent-veel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282834,
-    "slug": "paul-van-loon-ontvangt-gouden-boek-voor-jeugdroman-raveleijn",
-    "type": "article",
-    "title": "Paul van Loon ontvangt Gouden Boek voor jeugdroman Raveleijn",
-    "subtitle": null,
-    "published_at": "2023-09-27T16:30:19+02:00",
-    "updated_at": "2023-09-27T16:43:38+02:00",
-    "media_id": "yfnxf4uaa52v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6282834/paul-van-loon-ontvangt-gouden-boek-voor-jeugdroman-raveleijn.html",
     "open_new_window": false,
     "partner": null
   }
