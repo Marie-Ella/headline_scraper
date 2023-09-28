@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283040,
+    "slug": "emoties-in-de-stad-groot-na-dodelijke-schietpartijen-in-rotterdam",
+    "type": "video",
+    "title": "'Emoties in de stad groot' na dodelijke schietpartijen in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2023-09-28T19:41:16+02:00",
+    "updated_at": "2023-09-28T19:41:18+02:00",
+    "media_id": "zkwxnscavmkh",
+    "duration": "2:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283040/emoties-in-de-stad-groot-na-dodelijke-schietpartijen-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283037,
     "slug": "arts-over-schietpartij-erasmus-mc-amerikaanse-taferelen",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Vermeende schutter studeerde aan Erasmus MC, doden zijn docent en vrouw (39)",
     "subtitle": null,
     "published_at": "2023-09-28T18:55:14+02:00",
-    "updated_at": "2023-09-28T19:19:09+02:00",
+    "updated_at": "2023-09-28T19:47:22+02:00",
     "media_id": "11pxgp1al8vu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6283006/verdachte-aangehouden-na-schietpartijen-in-erasmus-mc-en-rotterdamse-woning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283005,
-    "slug": "verdachte-is-bekende-van-justitie-en-studeerde-aan-erasmus-mc-motief-nog-onbekend",
-    "type": "article",
-    "title": "Verdachte is bekende van justitie en studeerde aan Erasmus MC, motief nog onbekend",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-28T16:14:27+02:00",
-    "updated_at": "2023-09-28T19:06:20+02:00",
-    "media_id": "mg0xtm7a3c0h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6283005/verdachte-is-bekende-van-justitie-en-studeerde-aan-erasmus-mc-motief-nog-onbekend.html",
     "open_new_window": false,
     "partner": null
   }
