@@ -1,12 +1,81 @@
 [
   {
+    "id": 6283037,
+    "slug": "arts-over-schietpartij-erasmus-mc-amerikaanse-taferelen",
+    "type": "video",
+    "title": "Arts over schietpartij Erasmus MC: 'Amerikaanse taferelen'",
+    "subtitle": "Video",
+    "published_at": "2023-09-28T19:26:41+02:00",
+    "updated_at": "2023-09-28T19:30:25+02:00",
+    "media_id": "x3cxq35ajm1t",
+    "duration": "1:13",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283037/arts-over-schietpartij-erasmus-mc-amerikaanse-taferelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283038,
+    "slug": "az-kan-naast-koploper-psv-komen-bij-zege-op-heracles",
+    "type": "article",
+    "title": "AZ kan naast koploper PSV komen bij zege op Heracles",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-28T19:24:31+02:00",
+    "updated_at": "2023-09-28T19:25:10+02:00",
+    "media_id": "slpx1mcap2s1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283038/az-kan-naast-koploper-psv-komen-bij-zege-op-heracles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282988,
+    "slug": "marco-borsato-wordt-vervolgd-hoe-zit-het-met-zijn-aangifte-tegen-deze-vrouw",
+    "type": "article",
+    "title": "Marco Borsato wordt vervolgd: hoe zit het met zijn aangifte tegen deze vrouw?",
+    "subtitle": "NU+",
+    "published_at": "2023-09-28T19:16:05+02:00",
+    "updated_at": "2023-09-28T19:16:07+02:00",
+    "media_id": "8guxnstaxmho",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6282988/marco-borsato-wordt-vervolgd-hoe-zit-het-met-zijn-aangifte-tegen-deze-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283033,
     "slug": "vermeende-schutter-studeerde-aan-erasmus-mc-doden-zijn-docent-en-vrouw-39",
     "type": "article",
     "title": "Vermeende schutter studeerde aan Erasmus MC, doden zijn docent en vrouw (39)",
     "subtitle": null,
     "published_at": "2023-09-28T18:55:14+02:00",
-    "updated_at": "2023-09-28T19:14:18+02:00",
+    "updated_at": "2023-09-28T19:19:09+02:00",
     "media_id": "11pxgp1al8vu",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6283005/verdachte-is-bekende-van-justitie-en-studeerde-aan-erasmus-mc-motief-nog-onbekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283004,
-    "slug": "mensen-lopen-met-handen-omhoog-erasmus-mc-uit-na-schietpartij",
-    "type": "video",
-    "title": "Mensen lopen met handen omhoog Erasmus MC uit na schietpartij",
-    "subtitle": "Video",
-    "published_at": "2023-09-28T15:48:10+02:00",
-    "updated_at": "2023-09-28T17:48:46+02:00",
-    "media_id": "7quxsbyaa3hg",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6283004/mensen-lopen-met-handen-omhoog-erasmus-mc-uit-na-schietpartij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282997,
-    "slug": "nijlpaard-valt-verzorger-aan-in-chinese-dierentuin",
-    "type": "video",
-    "title": "Nijlpaard valt verzorger aan in Chinese dierentuin",
-    "subtitle": "Video",
-    "published_at": "2023-09-28T15:27:03+02:00",
-    "updated_at": "2023-09-28T15:27:04+02:00",
-    "media_id": "ruhxnldasvt4",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282997/nijlpaard-valt-verzorger-aan-in-chinese-dierentuin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282996,
-    "slug": "reisorganisatie-vacansoleil-bezwijkt-onder-schuldenlast-en-is-failliet-verklaard",
-    "type": "article",
-    "title": "Reisorganisatie Vacansoleil bezwijkt onder schuldenlast en is failliet verklaard",
-    "subtitle": null,
-    "published_at": "2023-09-28T15:20:46+02:00",
-    "updated_at": "2023-09-28T18:17:41+02:00",
-    "media_id": "d10xjj3aqq1m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282996/reisorganisatie-vacansoleil-bezwijkt-onder-schuldenlast-en-is-failliet-verklaard.html",
     "open_new_window": false,
     "partner": null
   }
