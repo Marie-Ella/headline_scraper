@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282910,
+    "slug": "opnieuw-warm-nazomerweer-en-het-weekend-belooft-ook-al-veel-goeds",
+    "type": "article",
+    "title": "Opnieuw warm nazomerweer (en het weekend belooft ook al veel goeds)",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-09-28T05:40:52+02:00",
+    "updated_at": "2023-09-28T05:40:53+02:00",
+    "media_id": "qv0xwvcajcd2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6282910/opnieuw-warm-nazomerweer-en-het-weekend-belooft-ook-al-veel-goeds.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282909,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282896/girona-van-blind-neemt-koppositie-over-van-barcelona-dankzij-zege-op-villarreal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282895,
-    "slug": "facebook-baas-mark-zuckerberg-laat-ai-chatbots-voor-whatsapp-zien",
-    "type": "article",
-    "title": "Facebook-baas Mark Zuckerberg laat AI-chatbots voor WhatsApp zien",
-    "subtitle": null,
-    "published_at": "2023-09-27T21:04:18+02:00",
-    "updated_at": "2023-09-28T05:05:05+02:00",
-    "media_id": "x3fxz59an9s9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6282895/facebook-baas-mark-zuckerberg-laat-ai-chatbots-voor-whatsapp-zien.html",
     "open_new_window": false,
     "partner": null
   }
