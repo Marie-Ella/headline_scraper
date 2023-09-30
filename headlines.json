@@ -1,5 +1,51 @@
 [
   {
+    "id": 6283263,
+    "slug": "jumbo-visma-en-quick-step-praten-toch-over-fusie-lefevere-verwacht-snel-nieuws",
+    "type": "article",
+    "title": "Jumbo-Visma en Quick-Step praten tóch over fusie, Lefevere verwacht snel nieuws",
+    "subtitle": null,
+    "published_at": "2023-09-30T12:02:34+02:00",
+    "updated_at": "2023-09-30T12:02:35+02:00",
+    "media_id": "3z0xupza50lp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6283263/jumbo-visma-en-quick-step-praten-toch-over-fusie-lefevere-verwacht-snel-nieuws.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283262,
+    "slug": "europa-bezorgd-over-populaire-pro-russische-kandidaat-verkiezingen-slowakije",
+    "type": "article",
+    "title": "Europa bezorgd over populaire pro-Russische kandidaat verkiezingen Slowakije",
+    "subtitle": null,
+    "published_at": "2023-09-30T11:59:28+02:00",
+    "updated_at": "2023-09-30T11:59:29+02:00",
+    "media_id": "6vmxu0sawxxy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6283262/europa-bezorgd-over-populaire-pro-russische-kandidaat-verkiezingen-slowakije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283140,
     "slug": "politie-steeds-drukker-met-verwarde-personen-terwijl-dat-niet-haar-taak-is",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Uitbreiding van al wekenlange autostaking wekt woede bij Ford en General Motors",
     "subtitle": null,
     "published_at": "2023-09-30T11:17:51+02:00",
-    "updated_at": "2023-09-30T11:24:15+02:00",
+    "updated_at": "2023-09-30T11:49:39+02:00",
     "media_id": "306x1y3a1c5t",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Ambtenaar in VS vervolgd voor lekken belastingaangiftes Trump en andere rijken",
     "subtitle": null,
     "published_at": "2023-09-30T09:35:31+02:00",
-    "updated_at": "2023-09-30T09:49:17+02:00",
+    "updated_at": "2023-09-30T11:51:57+02:00",
     "media_id": "4svxdb1arhmr",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6283223/turks-filmfestival-afgelast-wegens-ruzie-over-censuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283188,
-    "slug": "dit-is-de-pro-russische-slowaakse-leider-waar-westen-niet-blij-mee-is",
-    "type": "video",
-    "title": "Dit is de pro-Russische Slowaakse leider waar Westen niet blij mee is",
-    "subtitle": "Explainer",
-    "published_at": "2023-09-30T06:42:40+02:00",
-    "updated_at": "2023-09-30T07:05:18+02:00",
-    "media_id": "fmhx99iazilx",
-    "duration": "1:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283188/dit-is-de-pro-russische-slowaakse-leider-waar-westen-niet-blij-mee-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283222,
-    "slug": "overstromingen-new-york-ondergelopen-metrostations-en-ontsnapte-zeeleeuw",
-    "type": "article",
-    "title": "Overstromingen New York: ondergelopen metrostations en ontsnapte zeeleeuw",
-    "subtitle": null,
-    "published_at": "2023-09-30T06:22:37+02:00",
-    "updated_at": "2023-09-30T07:44:54+02:00",
-    "media_id": "18rxc83aeccq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283222/overstromingen-new-york-ondergelopen-metrostations-en-ontsnapte-zeeleeuw.html",
     "open_new_window": false,
     "partner": null
   }
