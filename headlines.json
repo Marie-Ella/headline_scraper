@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283219,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-30T05:17:09+02:00",
+    "updated_at": "2023-09-30T05:17:11+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6283219/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283070,
     "slug": "nec-fan-nuytinck-voelt-vonk-voor-gelderse-derby-meer-dan-een-duel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283196/pakistaanse-politici-gaan-elkaar-te-lijf-tijdens-livedebat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283176,
-    "slug": "we-gaan-opvallend-warm-de-maand-oktober-in",
-    "type": "article",
-    "title": "We gaan opvallend warm de maand oktober in",
-    "subtitle": "Weekendweerbericht",
-    "published_at": "2023-09-29T18:33:13+02:00",
-    "updated_at": "2023-09-29T18:33:15+02:00",
-    "media_id": "ey1xe26af76a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6283176/we-gaan-opvallend-warm-de-maand-oktober-in.html",
     "open_new_window": false,
     "partner": null
   }
