@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283220,
+    "slug": "grijs-begin-van-de-dag-duurt-niet-lang",
+    "type": "article",
+    "title": "Grijs begin van de dag duurt niet lang",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-09-30T05:48:11+02:00",
+    "updated_at": "2023-09-30T05:48:12+02:00",
+    "media_id": "xtpxorva0g6r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6283220/grijs-begin-van-de-dag-duurt-niet-lang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283219,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6283201/ajax-presenteert-fraaie-jaarcijfers-en-schakelt-kpmg-in-voor-mislintat-onderzoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283196,
-    "slug": "pakistaanse-politici-gaan-elkaar-te-lijf-tijdens-livedebat",
-    "type": "video",
-    "title": "Pakistaanse politici gaan elkaar te lijf tijdens livedebat",
-    "subtitle": "Video",
-    "published_at": "2023-09-29T18:43:13+02:00",
-    "updated_at": "2023-09-29T18:43:33+02:00",
-    "media_id": "dxpxos0axnck",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283196/pakistaanse-politici-gaan-elkaar-te-lijf-tijdens-livedebat.html",
     "open_new_window": false,
     "partner": null
   }
