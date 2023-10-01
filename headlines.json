@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283427,
+    "slug": "psg-kwartet-biedt-excuses-aan-voor-kwetsende-liederen-over-marseille",
+    "type": "article",
+    "title": "PSG-kwartet biedt excuses aan voor kwetsende liederen over Marseille",
+    "subtitle": null,
+    "published_at": "2023-10-01T22:41:21+02:00",
+    "updated_at": "2023-10-01T22:47:06+02:00",
+    "media_id": "sy5xefbazbpu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283427/psg-kwartet-biedt-excuses-aan-voor-kwetsende-liederen-over-marseille.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283424,
     "slug": "liverpool-snapt-niets-van-var-blunder-onbevredigend-dat-er-niet-is-ingegrepen",
     "type": "article",
     "title": "Liverpool snapt niets van VAR-blunder: 'Onbevredigend dat er niet is ingegrepen'",
     "subtitle": null,
     "published_at": "2023-10-01T22:09:44+02:00",
-    "updated_at": "2023-10-01T22:09:45+02:00",
+    "updated_at": "2023-10-01T22:39:17+02:00",
     "media_id": "dylxitaa4erd",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Topturnster Simone Biles landt 'onmogelijke' sprong bij WK-rentree: de Biles II",
     "subtitle": null,
     "published_at": "2023-10-01T20:27:39+02:00",
-    "updated_at": "2023-10-01T21:16:46+02:00",
+    "updated_at": "2023-10-01T22:43:12+02:00",
     "media_id": "3akxxb6abnh2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6283398/politie-rukt-uit-nadat-man-met-luchtbuks-op-eigen-schuur-schiet-in-eindhoven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283396,
-    "slug": "knegt-niet-geselecteerd-voor-eerste-world-cup-shorttrack-in-montreal",
-    "type": "article",
-    "title": "Knegt niet geselecteerd voor eerste World Cup shorttrack in Montreal",
-    "subtitle": null,
-    "published_at": "2023-10-01T17:25:18+02:00",
-    "updated_at": "2023-10-01T17:33:30+02:00",
-    "media_id": "0asxpb9a4xsk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6283396/knegt-niet-geselecteerd-voor-eerste-world-cup-shorttrack-in-montreal.html",
     "open_new_window": false,
     "partner": null
   }
