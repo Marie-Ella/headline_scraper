@@ -1,12 +1,35 @@
 [
   {
-    "id": 6283382,
-    "slug": "uitzonderlijk-warm-voor-eerste-week-van-oktober",
+    "id": 6283383,
+    "slug": "roda-jc-ziet-concurrent-vvv-venlo-verliezen-en-pakt-eerste-periodetitel",
     "type": "article",
-    "title": "Uitzonderlijk warm voor eerste week van oktober",
+    "title": "Roda JC ziet concurrent VVV-Venlo verliezen en pakt eerste periodetitel",
+    "subtitle": null,
+    "published_at": "2023-10-01T14:58:54+02:00",
+    "updated_at": "2023-10-01T15:07:02+02:00",
+    "media_id": "bdwxstoafune",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283383/roda-jc-ziet-concurrent-vvv-venlo-verliezen-en-pakt-eerste-periodetitel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283382,
+    "slug": "nog-even-bijzonder-warm-daarna-weersomslag",
+    "type": "article",
+    "title": "Nog even bijzonder warm, daarna weersomslag",
     "subtitle": "Weekweerbericht",
     "published_at": "2023-10-01T14:51:45+02:00",
-    "updated_at": "2023-10-01T14:51:46+02:00",
+    "updated_at": "2023-10-01T15:04:32+02:00",
     "media_id": "hzsxs23aj59m",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6283382/uitzonderlijk-warm-voor-eerste-week-van-oktober.html",
+    "url": "/weerbericht/6283382/nog-even-bijzonder-warm-daarna-weersomslag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Nederlandse turners plaatsen zich bij WK als team voor Olympische Spelen",
     "subtitle": null,
     "published_at": "2023-10-01T14:17:28+02:00",
-    "updated_at": "2023-10-01T14:26:31+02:00",
+    "updated_at": "2023-10-01T15:04:19+02:00",
     "media_id": "g7qxrlza65l6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6283359/engelse-voetbalfans-opgepakt-die-spot-dreven-met-kind-dat-aan-kanker-overleed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283362,
-    "slug": "zeker-dertien-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub",
-    "type": "article",
-    "title": "Zeker dertien doden en meerdere gewonden bij brand in Spaanse nachtclub",
-    "subtitle": null,
-    "published_at": "2023-10-01T11:34:18+02:00",
-    "updated_at": "2023-10-01T14:12:56+02:00",
-    "media_id": "wz4x4xuagqtj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283362/zeker-dertien-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub.html",
     "open_new_window": false,
     "partner": null
   }
