@@ -1,12 +1,58 @@
 [
   {
+    "id": 6283394,
+    "slug": "miljoen-mensen-de-straat-op-tegen-regering-in-polen",
+    "type": "video",
+    "title": "Miljoen mensen de straat op tegen regering in Polen",
+    "subtitle": "Video",
+    "published_at": "2023-10-01T16:23:26+02:00",
+    "updated_at": "2023-10-01T16:23:27+02:00",
+    "media_id": "1cixwtnatenx",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283394/miljoen-mensen-de-straat-op-tegen-regering-in-polen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283391,
+    "slug": "knvb-overlegt-met-clubs-over-restant-rkc-ajax-komende-dagen-duidelijkheid",
+    "type": "article",
+    "title": "KNVB overlegt met clubs over restant RKC-Ajax, komende dagen duidelijkheid",
+    "subtitle": null,
+    "published_at": "2023-10-01T16:19:28+02:00",
+    "updated_at": "2023-10-01T16:24:53+02:00",
+    "media_id": "b0zx7xlagde6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283391/knvb-overlegt-met-clubs-over-restant-rkc-ajax-komende-dagen-duidelijkheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283392,
     "slug": "engelse-scheidsrechtersbond-straft-var-na-blunder-bij-tottenham-liverpool",
     "type": "article",
     "title": "Engelse scheidsrechtersbond straft VAR na blunder bij Tottenham-Liverpool",
     "subtitle": null,
     "published_at": "2023-10-01T16:02:26+02:00",
-    "updated_at": "2023-10-01T16:07:52+02:00",
+    "updated_at": "2023-10-01T16:18:29+02:00",
     "media_id": "ksfxkcwa082x",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Honkballers pakken EK-brons na spannende troostfinale tegen Duitsland",
     "subtitle": null,
     "published_at": "2023-10-01T15:49:52+02:00",
-    "updated_at": "2023-10-01T16:05:59+02:00",
+    "updated_at": "2023-10-01T16:22:26+02:00",
     "media_id": "c0ixln8a89ql",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283367/eerste-kwartaalverlies-van-het-jaar-voor-de-koers-van-de-bitcoin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283364,
-    "slug": "topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking",
-    "type": "article",
-    "title": "Topfavoriet Griekspoor verliest kwartfinale in Astana, Rus al snel klaar in Peking",
-    "subtitle": null,
-    "published_at": "2023-10-01T12:15:51+02:00",
-    "updated_at": "2023-10-01T13:10:11+02:00",
-    "media_id": "dkvxz0facz5a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6283364/topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283365,
-    "slug": "ravage-groot-bij-verwoestende-brand-in-spaanse-nachtclub",
-    "type": "video",
-    "title": "Ravage groot bij verwoestende brand in Spaanse nachtclub",
-    "subtitle": "Video",
-    "published_at": "2023-10-01T12:12:32+02:00",
-    "updated_at": "2023-10-01T14:15:38+02:00",
-    "media_id": "pqqxkaealqik",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283365/ravage-groot-bij-verwoestende-brand-in-spaanse-nachtclub.html",
     "open_new_window": false,
     "partner": null
   }
