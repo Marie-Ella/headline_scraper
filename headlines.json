@@ -1,5 +1,51 @@
 [
   {
+    "id": 6283350,
+    "slug": "renaissance-tour-van-beyonce-wordt-verfilmd",
+    "type": "article",
+    "title": "Renaissance Tour van Beyoncé wordt verfilmd",
+    "subtitle": null,
+    "published_at": "2023-10-01T09:47:24+02:00",
+    "updated_at": "2023-10-01T09:47:25+02:00",
+    "media_id": "kzex63za8zgr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6283350/renaissance-tour-van-beyonce-wordt-verfilmd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283349,
+    "slug": "vlammen-slaan-uit-het-dak-bij-dodelijke-brand-gouda",
+    "type": "video",
+    "title": "Vlammen slaan uit het dak bij dodelijke brand Gouda",
+    "subtitle": "Video",
+    "published_at": "2023-10-01T09:31:01+02:00",
+    "updated_at": "2023-10-01T09:32:37+02:00",
+    "media_id": "wzsxkvba52r7",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283349/vlammen-slaan-uit-het-dak-bij-dodelijke-brand-gouda.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283347,
     "slug": "lang-juichte-met-hartje-naar-fan-op-tribune-was-haar-niet-vergeten",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6283115,
-    "slug": "we-raken-niet-uitgeleerd-als-we-nieuwe-dingen-blijven-doen",
+    "slug": "we-raken-niet-uitgeleerd-als-we-nieuwe-dingen-doen",
     "type": "article",
-    "title": "We raken niet uitgeleerd als we nieuwe dingen blijven doen",
+    "title": "We raken niet uitgeleerd als we nieuwe dingen doen",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-10-01T09:11:46+02:00",
-    "updated_at": "2023-10-01T09:11:47+02:00",
+    "updated_at": "2023-10-01T09:38:01+02:00",
     "media_id": "er7x411ajrw9",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6283115/we-raken-niet-uitgeleerd-als-we-nieuwe-dingen-blijven-doen.html",
+    "url": "/blog/6283115/we-raken-niet-uitgeleerd-als-we-nieuwe-dingen-doen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Dode en drie gewonden bij woningbrand in Gouda: 'Zeer aangrijpend'",
     "subtitle": null,
     "published_at": "2023-10-01T07:18:07+02:00",
-    "updated_at": "2023-10-01T08:21:20+02:00",
+    "updated_at": "2023-10-01T09:30:28+02:00",
     "media_id": "5cyxw2uao7ka",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283328/amerikaans-huis-neemt-voorstel-aan-dreigende-shutdown-van-de-baan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283327,
-    "slug": "60000-zwitsers-de-straat-op-voor-snelle-milieumaatregelen",
-    "type": "article",
-    "title": "60.000 Zwitsers de straat op voor snelle milieumaatregelen",
-    "subtitle": null,
-    "published_at": "2023-09-30T22:24:10+02:00",
-    "updated_at": "2023-09-30T22:53:41+02:00",
-    "media_id": "xbuxmndam3oi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283327/60000-zwitsers-de-straat-op-voor-snelle-milieumaatregelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283325,
-    "slug": "slot-ziet-complete-controle-bij-feyenoord-niet-vaak-zo-rustig-toegekeken",
-    "type": "article",
-    "title": "Slot ziet 'complete controle' bij Feyenoord: 'Niet vaak zo rustig toegekeken'",
-    "subtitle": null,
-    "published_at": "2023-09-30T22:23:26+02:00",
-    "updated_at": "2023-10-01T01:44:56+02:00",
-    "media_id": "qwnxg5manvty",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283325/slot-ziet-complete-controle-bij-feyenoord-niet-vaak-zo-rustig-toegekeken.html",
     "open_new_window": false,
     "partner": null
   }
