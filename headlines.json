@@ -1,12 +1,58 @@
 [
   {
+    "id": 6283114,
+    "slug": "wat-doet-een-programma-over-goed-nieuws-bij-rampen-zoals-schietpartijen",
+    "type": "article",
+    "title": "Wat doet een programma over goed nieuws bij rampen zoals schietpartijen?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-02T12:47:49+02:00",
+    "updated_at": "2023-10-02T12:48:58+02:00",
+    "media_id": "rypxigqaavap",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6283114/wat-doet-een-programma-over-goed-nieuws-bij-rampen-zoals-schietpartijen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283492,
+    "slug": "douwe-bob-is-met-motor-bij-ongeluk-betrokken-geraakt",
+    "type": "article",
+    "title": "Douwe Bob is met motor bij ongeluk betrokken geraakt",
+    "subtitle": null,
+    "published_at": "2023-10-02T12:39:57+02:00",
+    "updated_at": "2023-10-02T12:45:39+02:00",
+    "media_id": "3jjxz4dabnsq",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6283492/douwe-bob-is-met-motor-bij-ongeluk-betrokken-geraakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283491,
     "slug": "britt-dekker-gaat-trouwen-met-haar-vriend-max",
     "type": "article",
     "title": "Britt Dekker gaat trouwen met haar vriend Max",
     "subtitle": null,
     "published_at": "2023-10-02T12:29:22+02:00",
-    "updated_at": "2023-10-02T12:29:24+02:00",
+    "updated_at": "2023-10-02T12:33:12+02:00",
     "media_id": "xrnx3ilawalx",
     "duration": null,
     "canonical_section": {
@@ -162,12 +208,12 @@
   },
   {
     "id": 6283476,
-    "slug": "recordaantal-van-ruim-zeshonderd-aanmeldingen-voor-eurovisie-songfestival-2024",
+    "slug": "recordaantal-van-ruim-zeshonderd-nederlandse-aanmeldingen-voor-songfestival",
     "type": "article",
-    "title": "Recordaantal van ruim zeshonderd aanmeldingen voor Eurovisie Songfestival 2024",
+    "title": "Recordaantal van ruim zeshonderd Nederlandse aanmeldingen voor Songfestival",
     "subtitle": null,
     "published_at": "2023-10-02T11:09:15+02:00",
-    "updated_at": "2023-10-02T12:04:25+02:00",
+    "updated_at": "2023-10-02T12:47:49+02:00",
     "media_id": "tb7xxuuas2r7",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6283476/recordaantal-van-ruim-zeshonderd-aanmeldingen-voor-eurovisie-songfestival-2024.html",
+    "url": "/muziek/6283476/recordaantal-van-ruim-zeshonderd-nederlandse-aanmeldingen-voor-songfestival.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6283448/bill-cosby-opnieuw-aangeklaagd-voor-verkrachting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283447,
-    "slug": "tennissers-klagen-massaal-over-wisselende-ballen-wat-wordt-het-deze-week",
-    "type": "article",
-    "title": "Tennissers klagen massaal over wisselende ballen: 'Wat wordt het deze week?'",
-    "subtitle": null,
-    "published_at": "2023-10-02T08:54:03+02:00",
-    "updated_at": "2023-10-02T09:20:24+02:00",
-    "media_id": "pzpxy4ua1yoi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6283447/tennissers-klagen-massaal-over-wisselende-ballen-wat-wordt-het-deze-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283446,
-    "slug": "in-amsterdam-tref-je-de-eerste-nieuwe-snelheidsborden-van-30-kilometer-per-uur",
-    "type": "article",
-    "title": "In Amsterdam tref je de eerste nieuwe snelheidsborden van 30 kilometer per uur",
-    "subtitle": null,
-    "published_at": "2023-10-02T08:20:55+02:00",
-    "updated_at": "2023-10-02T08:28:42+02:00",
-    "media_id": "mhyxaa4aysvb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283446/in-amsterdam-tref-je-de-eerste-nieuwe-snelheidsborden-van-30-kilometer-per-uur.html",
     "open_new_window": false,
     "partner": null
   }
