@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283522,
+    "slug": "illegale-slachterij-in-de-provincie-utrecht-ontdekt",
+    "type": "article",
+    "title": "Illegale slachterij in de provincie Utrecht ontdekt",
+    "subtitle": null,
+    "published_at": "2023-10-02T15:19:31+02:00",
+    "updated_at": "2023-10-02T15:20:02+02:00",
+    "media_id": "wi5xcj5affpn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283522/illegale-slachterij-in-de-provincie-utrecht-ontdekt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283515,
     "slug": "fc-twente-speler-brenet-vervolgd-voor-mishandelen-vriendin-en-negeren-rijverbod",
     "type": "article",
     "title": "FC Twente-speler Brenet vervolgd voor mishandelen vriendin en negeren rijverbod",
     "subtitle": null,
     "published_at": "2023-10-02T14:47:59+02:00",
-    "updated_at": "2023-10-02T14:48:00+02:00",
+    "updated_at": "2023-10-02T15:20:35+02:00",
     "media_id": "i4gxn10ajwys",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Boete voor treinreizigers die 'echt dreigende taal' uitslaan in Utrecht",
     "subtitle": null,
     "published_at": "2023-10-02T14:41:28+02:00",
-    "updated_at": "2023-10-02T14:42:49+02:00",
+    "updated_at": "2023-10-02T15:10:12+02:00",
     "media_id": "mvjx6i7ad0h9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283477/hypotheekrentes-stijgen-naar-hoogste-punt-van-het-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283476,
-    "slug": "recordaantal-van-ruim-zeshonderd-nederlandse-aanmeldingen-voor-songfestival",
-    "type": "article",
-    "title": "Recordaantal van ruim zeshonderd Nederlandse aanmeldingen voor Songfestival",
-    "subtitle": null,
-    "published_at": "2023-10-02T11:09:15+02:00",
-    "updated_at": "2023-10-02T12:50:54+02:00",
-    "media_id": "tb7xxuuas2r7",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6283476/recordaantal-van-ruim-zeshonderd-nederlandse-aanmeldingen-voor-songfestival.html",
     "open_new_window": false,
     "partner": null
   }
