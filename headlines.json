@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283569,
+    "slug": "brokkelt-de-steun-voor-oekraine-af-je-ziet-de-eerste-scheurtjes",
+    "type": "video",
+    "title": "Brokkelt de steun voor Oekraïne af? 'Je ziet de eerste scheurtjes'",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-03T06:44:16+02:00",
+    "updated_at": "2023-10-03T06:44:17+02:00",
+    "media_id": "hvhx51na9wl3",
+    "duration": "2:14",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6283569/brokkelt-de-steun-voor-oekraine-af-je-ziet-de-eerste-scheurtjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283602,
     "slug": "een-dipje-voordat-er-weer-mooie-dagen-komen",
     "type": "article",
     "title": "Een dipje voordat er weer mooie dagen komen",
     "subtitle": "Weerbericht",
     "published_at": "2023-10-03T06:23:34+02:00",
-    "updated_at": "2023-10-03T06:29:58+02:00",
+    "updated_at": "2023-10-03T06:36:05+02:00",
     "media_id": "r8wxv9ea26v3",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "André Hazes zal nooit meedoen aan het Eurovisie Songfestival",
     "subtitle": null,
     "published_at": "2023-10-03T05:43:05+02:00",
-    "updated_at": "2023-10-03T06:30:46+02:00",
+    "updated_at": "2023-10-03T06:35:44+02:00",
     "media_id": "1nexcm3a51g5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6283587/voormalig-topsprinter-bouhanni-33-zet-punt-achter-wielerloopbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283576,
-    "slug": "belastingdienst-voerde-in-een-weekend-haastig-omstreden-risicomodel-in",
-    "type": "article",
-    "title": "Belastingdienst voerde in één weekend haastig omstreden risicomodel in",
-    "subtitle": null,
-    "published_at": "2023-10-02T21:36:15+02:00",
-    "updated_at": "2023-10-03T05:30:11+02:00",
-    "media_id": "qtoxki5agyp9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6283576/belastingdienst-voerde-in-een-weekend-haastig-omstreden-risicomodel-in.html",
     "open_new_window": false,
     "partner": null
   }
