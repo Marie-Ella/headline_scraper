@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283602,
+    "slug": "een-dipje-voordat-er-weer-mooie-dagen-komen",
+    "type": "article",
+    "title": "Een dipje voordat er weer mooie dagen komen",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-03T06:23:34+02:00",
+    "updated_at": "2023-10-03T06:29:58+02:00",
+    "media_id": "r8wxv9ea26v3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6283602/een-dipje-voordat-er-weer-mooie-dagen-komen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283601,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "André Hazes zal nooit meedoen aan het Eurovisie Songfestival",
     "subtitle": null,
     "published_at": "2023-10-03T05:43:05+02:00",
-    "updated_at": "2023-10-03T05:43:06+02:00",
+    "updated_at": "2023-10-03T06:30:46+02:00",
     "media_id": "1nexcm3a51g5",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Nederlandse regering geeft Curaçaose verzetsheld Tula na 228 jaar eerherstel",
     "subtitle": null,
     "published_at": "2023-10-03T05:36:52+02:00",
-    "updated_at": "2023-10-03T05:44:38+02:00",
+    "updated_at": "2023-10-03T06:27:16+02:00",
     "media_id": "7s4x41haxord",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6283588,
-    "slug": "deel-3-verscheurd-door-de-wolf-moet-ik-stoppen-omdat-de-wolf-er-is",
+    "slug": "deel-3-verscheurd-door-de-wolf-moet-hij-eerst-7-jarig-meisje-bijten",
     "type": "article",
-    "title": "Deel 3 | Verscheurd door de wolf: 'Moet ik stoppen omdat de wolf er is?'",
-    "subtitle": null,
+    "title": "Deel 3 | Verscheurd door de wolf: 'Moet hij eerst 7-jarig meisje bijten?'",
+    "subtitle": "Podcast",
     "published_at": "2023-10-03T05:21:27+02:00",
-    "updated_at": "2023-10-03T05:56:47+02:00",
+    "updated_at": "2023-10-03T06:27:41+02:00",
     "media_id": "vgsxgvgau0zu",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/verscheurd-door-de-wolf/6283588/deel-3-verscheurd-door-de-wolf-moet-ik-stoppen-omdat-de-wolf-er-is.html",
+    "url": "/verscheurd-door-de-wolf/6283588/deel-3-verscheurd-door-de-wolf-moet-hij-eerst-7-jarig-meisje-bijten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Australian Open begint dag eerder in de hoop nachtpartijen te voorkomen",
     "subtitle": null,
     "published_at": "2023-10-02T23:49:33+02:00",
-    "updated_at": "2023-10-03T06:03:01+02:00",
+    "updated_at": "2023-10-03T06:28:21+02:00",
     "media_id": "j8cxyulaid7z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6283576/belastingdienst-voerde-in-een-weekend-haastig-omstreden-risicomodel-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283583,
-    "slug": "buitenlandministers-eu-komen-bijeen-in-kyiv-musk-pest-zelensky",
-    "type": "article",
-    "title": "Buitenlandministers EU komen bijeen in Kyiv, Musk pest Zelensky",
-    "subtitle": "Overzicht",
-    "published_at": "2023-10-02T21:34:12+02:00",
-    "updated_at": "2023-10-02T21:49:48+02:00",
-    "media_id": "yrwx757asii6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6283583/buitenlandministers-eu-komen-bijeen-in-kyiv-musk-pest-zelensky.html",
     "open_new_window": false,
     "partner": null
   }
