@@ -1,5 +1,51 @@
 [
   {
+    "id": 6283809,
+    "slug": "door-de-hoge-voedselprijzen-koop-ik-minder-vaak-vlees",
+    "type": "article",
+    "title": "'Door de hoge voedselprijzen koop ik minder vaak vlees'",
+    "subtitle": "Stelling",
+    "published_at": "2023-10-04T12:39:12+02:00",
+    "updated_at": "2023-10-04T12:39:13+02:00",
+    "media_id": "cewxj75a1p3a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6283809/door-de-hoge-voedselprijzen-koop-ik-minder-vaak-vlees.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283787,
+    "slug": "journalistenvereniging-persvrijheid-universiteitsbladen-steeds-vaker-beperkt",
+    "type": "article",
+    "title": "Journalistenvereniging: 'Persvrijheid universiteitsbladen steeds vaker beperkt'",
+    "subtitle": null,
+    "published_at": "2023-10-04T12:38:31+02:00",
+    "updated_at": "2023-10-04T12:39:57+02:00",
+    "media_id": "j55x0v2a58u7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6283787/journalistenvereniging-persvrijheid-universiteitsbladen-steeds-vaker-beperkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283824,
     "slug": "vrouw-rijdt-met-truck-tegen-politiewagens-bij-achtervolging-in-californie",
     "type": "video",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6283664,
-    "slug": "vermeende-schutter-rotterdam-verdacht-van-drie-moorden-en-brandstichting",
+    "slug": "erasmus-schutter-fouad-l-wordt-verdacht-van-drie-moorden-en-brandstichting",
     "type": "article",
-    "title": "Vermeende schutter Rotterdam verdacht van drie moorden en brandstichting",
+    "title": "Erasmus-schutter Fouad L. wordt verdacht van drie moorden en brandstichting",
     "subtitle": null,
     "published_at": "2023-10-04T12:17:36+02:00",
-    "updated_at": "2023-10-04T12:25:12+02:00",
+    "updated_at": "2023-10-04T12:40:30+02:00",
     "media_id": "k7ix66ka5mub",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6283664/vermeende-schutter-rotterdam-verdacht-van-drie-moorden-en-brandstichting.html",
+    "url": "/binnenland/6283664/erasmus-schutter-fouad-l-wordt-verdacht-van-drie-moorden-en-brandstichting.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6283774/sergio-ramos-woest-op-arbitrage-na-psv-sevilla-de-var-kan-toch-helpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283776,
-    "slug": "audio-van-var-blunder-bij-tottenham-liverpool-openbaar-gemaakt",
-    "type": "video",
-    "title": "Audio van VAR-blunder bij Tottenham-Liverpool openbaar gemaakt",
-    "subtitle": "Video",
-    "published_at": "2023-10-04T09:22:01+02:00",
-    "updated_at": "2023-10-04T09:22:01+02:00",
-    "media_id": "j7exw42an909",
-    "duration": "1:47",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6283776/audio-van-var-blunder-bij-tottenham-liverpool-openbaar-gemaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283775,
-    "slug": "ing-verhoogt-spaarrente-als-laatste-van-de-grote-drie-banken",
-    "type": "article",
-    "title": "ING verhoogt spaarrente als laatste van de grote drie banken",
-    "subtitle": null,
-    "published_at": "2023-10-04T09:21:49+02:00",
-    "updated_at": "2023-10-04T10:46:32+02:00",
-    "media_id": "lf4xn3sav63k",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283775/ing-verhoogt-spaarrente-als-laatste-van-de-grote-drie-banken.html",
     "open_new_window": false,
     "partner": null
   }
