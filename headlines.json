@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284078,
+    "slug": "vlammen-slaan-uit-beachclub-in-den-haag",
+    "type": "video",
+    "title": "Vlammen slaan uit beachclub in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2023-10-05T20:42:48+02:00",
+    "updated_at": "2023-10-05T20:42:49+02:00",
+    "media_id": "pqjxel4a70t3",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284078/vlammen-slaan-uit-beachclub-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284065,
+    "slug": "ajax-geeft-ook-bij-aek-zege-uit-handen-door-doelpunt-knipoog-kroaat-vida",
+    "type": "article",
+    "title": "Ajax geeft ook bij AEK zege uit handen door doelpunt 'knipoog-Kroaat' Vida",
+    "subtitle": null,
+    "published_at": "2023-10-05T20:40:33+02:00",
+    "updated_at": "2023-10-05T20:40:38+02:00",
+    "media_id": "ig9xliiapipl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284065/ajax-geeft-ook-bij-aek-zege-uit-handen-door-doelpunt-knipoog-kroaat-vida.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284075,
     "slug": "miami-coach-ergert-zich-aan-opmerkingen-over-absentie-messi-kan-alleen-in-vs",
     "type": "article",
@@ -208,12 +254,12 @@
   },
   {
     "id": 6284034,
-    "slug": "doelman-gorter-houdt-ajax-in-leven-in-slotfase-el-duel-met-aek",
+    "slug": "reacties-op-teleurstellend-gelijkspel-ajax-aftellen-naar-az",
     "type": "article",
-    "title": "Doelman Gorter houdt Ajax in leven in slotfase EL-duel met AEK",
+    "title": "Reacties op teleurstellend gelijkspel Ajax, aftellen naar AZ",
     "subtitle": "Liveblog",
     "published_at": "2023-10-05T17:37:58+02:00",
-    "updated_at": "2023-10-05T20:34:05+02:00",
+    "updated_at": "2023-10-05T20:42:35+02:00",
     "media_id": "rr6x5m7a7tth",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284034/doelman-gorter-houdt-ajax-in-leven-in-slotfase-el-duel-met-aek.html",
+    "url": "/voetbal/6284034/reacties-op-teleurstellend-gelijkspel-ajax-aftellen-naar-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6284023/man-slaat-zeven-willekeurige-mensen-in-elkaar-in-nijmegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284031,
-    "slug": "koning-open-over-naziverleden-bernhard",
-    "type": "video",
-    "title": "Koning open over naziverleden Bernhard",
-    "subtitle": "Video",
-    "published_at": "2023-10-05T16:08:03+02:00",
-    "updated_at": "2023-10-05T16:08:04+02:00",
-    "media_id": "g0cxjlyarzi7",
-    "duration": "0:23",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284031/koning-open-over-naziverleden-bernhard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284021,
-    "slug": "zelensky-meldt-tientallen-doden-bij-raketaanval-in-regio-kharkiv",
-    "type": "article",
-    "title": "Zelensky meldt tientallen doden bij raketaanval in regio Kharkiv",
-    "subtitle": null,
-    "published_at": "2023-10-05T16:04:12+02:00",
-    "updated_at": "2023-10-05T17:06:28+02:00",
-    "media_id": "im5xke6a27w0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6284021/zelensky-meldt-tientallen-doden-bij-raketaanval-in-regio-kharkiv.html",
     "open_new_window": false,
     "partner": null
   }
