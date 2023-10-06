@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284239,
+    "slug": "vrachtwagenchauffeurs-toeteren-erop-los-in-hengelo",
+    "type": "video",
+    "title": "Vrachtwagenchauffeurs toeteren erop los in Hengelo",
+    "subtitle": "Video",
+    "published_at": "2023-10-06T19:00:08+02:00",
+    "updated_at": "2023-10-06T19:00:10+02:00",
+    "media_id": "9cix8bbaezke",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284239/vrachtwagenchauffeurs-toeteren-erop-los-in-hengelo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284250,
+    "slug": "kabinet-belooft-betere-schuldenaanpak-met-pauzeknop-en-online-overzicht",
+    "type": "article",
+    "title": "Kabinet belooft betere schuldenaanpak met pauzeknop en online overzicht",
+    "subtitle": null,
+    "published_at": "2023-10-06T18:53:31+02:00",
+    "updated_at": "2023-10-06T18:53:32+02:00",
+    "media_id": "hx8x29ua050y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6284250/kabinet-belooft-betere-schuldenaanpak-met-pauzeknop-en-online-overzicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284246,
     "slug": "cricketers-kunnen-in-openingsduel-wk-niet-stunten-tegen-pakistan",
     "type": "article",
@@ -48,13 +94,13 @@
   {
     "id": 6284243,
     "slug": "pijnlijk-moment-voor-biden-waarom-hij-toch-trumps-muur-afbouwt",
-    "type": "article",
+    "type": "video",
     "title": "Pijnlijk moment voor Biden: waarom hij tóch Trumps muur afbouwt",
     "subtitle": "Explainer",
     "published_at": "2023-10-06T18:18:26+02:00",
-    "updated_at": "2023-10-06T18:30:10+02:00",
+    "updated_at": "2023-10-06T19:10:07+02:00",
     "media_id": "zz6x3sca0uzr",
-    "duration": null,
+    "duration": "1:34",
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284201/pogba-hangt-jarenlange-schorsing-boven-het-hoofd-na-tweede-positieve-dopingtest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284213,
-    "slug": "rat-lift-mee-op-auto-vanuit-brooklyn",
-    "type": "video",
-    "title": "Rat lift mee op auto vanuit Brooklyn",
-    "subtitle": "Video",
-    "published_at": "2023-10-06T15:50:15+02:00",
-    "updated_at": "2023-10-06T15:50:17+02:00",
-    "media_id": "reox5peaifrw",
-    "duration": "0:25",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284213/rat-lift-mee-op-auto-vanuit-brooklyn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284211,
-    "slug": "man-blijkt-bij-rijbewijscontrole-celstraf-van-20-jaar-in-italie-te-hebben",
-    "type": "article",
-    "title": "Man blijkt bij rijbewijscontrole celstraf van 20 jaar in Italië te hebben",
-    "subtitle": null,
-    "published_at": "2023-10-06T15:44:33+02:00",
-    "updated_at": "2023-10-06T17:11:57+02:00",
-    "media_id": "7zrxaica2815",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284211/man-blijkt-bij-rijbewijscontrole-celstraf-van-20-jaar-in-italie-te-hebben.html",
     "open_new_window": false,
     "partner": null
   }
