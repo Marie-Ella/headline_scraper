@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284093,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-06T05:38:28+02:00",
+    "updated_at": "2023-10-06T05:38:30+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6284093/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284088,
     "slug": "analyse-de-formule-1-wordt-steeds-meer-de-super-league-van-de-autosport",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284080/nietig-klaksvik-uit-faeroer-schrijft-opnieuw-historie-atalanta-wint-ook-bij-sporting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284078,
-    "slug": "vlammen-slaan-uit-beachclub-in-den-haag",
-    "type": "video",
-    "title": "Vlammen slaan uit beachclub in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2023-10-05T20:42:48+02:00",
-    "updated_at": "2023-10-05T20:50:31+02:00",
-    "media_id": "pqjxel4a70t3",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284078/vlammen-slaan-uit-beachclub-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
