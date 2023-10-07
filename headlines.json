@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284371,
+    "slug": "sergie-perez-valt-uit-waardoor-max-verstappen-voor-de-derde-keer-wereldkampioen-is",
+    "type": "video",
+    "title": "Sergie Perez valt uit waardoor Max Verstappen voor de derde keer wereldkampioen is",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T20:38:30+02:00",
+    "updated_at": "2023-10-07T20:43:48+02:00",
+    "media_id": "t5cxiuea1f3c",
+    "duration": "2:19",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6284371/sergie-perez-valt-uit-waardoor-max-verstappen-voor-de-derde-keer-wereldkampioen-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284368,
     "slug": "aftellen-naar-gevecht-badr-hari-tegen-uku-jurjendal",
     "type": "article",
     "title": "Aftellen naar gevecht Badr Hari tegen Uku Jürjendal",
     "subtitle": "Liveblog",
     "published_at": "2023-10-07T20:06:59+02:00",
-    "updated_at": "2023-10-07T20:07:00+02:00",
+    "updated_at": "2023-10-07T20:32:02+02:00",
     "media_id": "ox0x5boao2x4",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Zo verhoudt Verstappen zich tot andere grote Formule 1-kampioenen",
     "subtitle": "NU+",
     "published_at": "2023-10-07T19:58:22+02:00",
-    "updated_at": "2023-10-07T20:16:28+02:00",
+    "updated_at": "2023-10-07T20:36:21+02:00",
     "media_id": "t2cx6umakv0d",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Oppermachtig naar derde titel: niemand heeft een antwoord op Verstappen",
     "subtitle": "NU+",
     "published_at": "2023-10-07T19:57:33+02:00",
-    "updated_at": "2023-10-07T20:24:57+02:00",
-    "media_id": "nx6xcbtaw345",
+    "updated_at": "2023-10-07T20:41:47+02:00",
+    "media_id": "vldx3u4ahh45",
     "duration": null,
     "canonical_section": {
       "id": 1778846,
@@ -75,8 +98,8 @@
     "title": "Verstappen kroont zich voor derde keer tot wereldkampioen na uitvallen Pérez",
     "subtitle": null,
     "published_at": "2023-10-07T19:56:10+02:00",
-    "updated_at": "2023-10-07T20:27:32+02:00",
-    "media_id": "scqxs7cawnhz",
+    "updated_at": "2023-10-07T20:44:41+02:00",
+    "media_id": "hp4xc9caafvd",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -162,12 +185,12 @@
   },
   {
     "id": 6284364,
-    "slug": "heerenveen-maakt-met-gelijkspel-tegen-nec-einde-aan-reeks-nederlagen",
+    "slug": "heerenveen-speelt-gelijk-tegen-nec-en-stopt-reeks-nederlagen-almere-wint-van-rkc",
     "type": "article",
-    "title": "Heerenveen maakt met gelijkspel tegen NEC einde aan reeks nederlagen",
+    "title": "Heerenveen speelt gelijk tegen NEC en stopt reeks nederlagen, Almere wint van RKC",
     "subtitle": null,
     "published_at": "2023-10-07T18:37:37+02:00",
-    "updated_at": "2023-10-07T20:10:41+02:00",
+    "updated_at": "2023-10-07T20:48:10+02:00",
     "media_id": "spaxcria1oly",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284364/heerenveen-maakt-met-gelijkspel-tegen-nec-einde-aan-reeks-nederlagen.html",
+    "url": "/voetbal/6284364/heerenveen-speelt-gelijk-tegen-nec-en-stopt-reeks-nederlagen-almere-wint-van-rkc.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6284342/pogacar-overklast-roglic-en-wint-ronde-van-lombardije-voor-de-derde-keer-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284347,
-    "slug": "biles-pakt-wk-zilver-op-brug-veerman-en-visser-naast-podium-op-brug",
-    "type": "article",
-    "title": "Biles pakt WK-zilver op brug, Veerman en Visser naast podium op brug",
-    "subtitle": null,
-    "published_at": "2023-10-07T16:30:49+02:00",
-    "updated_at": "2023-10-07T19:33:24+02:00",
-    "media_id": "385x35da1mn8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6284347/biles-pakt-wk-zilver-op-brug-veerman-en-visser-naast-podium-op-brug.html",
     "open_new_window": false,
     "partner": null
   }
