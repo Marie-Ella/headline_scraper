@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284380,
+    "slug": "hamas-bestookt-israel-opnieuw-met-raketten",
+    "type": "video",
+    "title": "Hamas bestookt Israël opnieuw met raketten",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T22:39:09+02:00",
+    "updated_at": "2023-10-07T22:39:39+02:00",
+    "media_id": "cmdxnibae5dl",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284380/hamas-bestookt-israel-opnieuw-met-raketten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284377,
     "slug": "netanyahu-wil-noodregering-met-israelische-oppositie-in-strijd-met-hamas",
     "type": "article",
     "title": "Netanyahu wil noodregering mét Israëlische oppositie in strijd met Hamas",
     "subtitle": null,
     "published_at": "2023-10-07T22:14:31+02:00",
-    "updated_at": "2023-10-07T22:14:32+02:00",
+    "updated_at": "2023-10-07T22:39:26+02:00",
     "media_id": "bwwxnxpa4dhz",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Go Ahead geeft goede seizoensstart vervolg met eclatante zege op Heracles",
     "subtitle": null,
     "published_at": "2023-10-07T21:51:05+02:00",
-    "updated_at": "2023-10-07T22:09:19+02:00",
-    "media_id": "npmxzlga02dh",
+    "updated_at": "2023-10-07T22:32:26+02:00",
+    "media_id": "00yxltqaa6bw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6284361/mercurius-de-kleinste-planeet-in-ons-zonnestelsel-blijft-nog-steeds-krimpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284350,
-    "slug": "ongekend-gecoordineerd-terreuroffensief-verraste-israelische-veiligheidsdiensten-totaal",
-    "type": "article",
-    "title": "Ongekend gecoördineerd terreuroffensief verraste Israëlische veiligheidsdiensten totaal",
-    "subtitle": null,
-    "published_at": "2023-10-07T18:22:19+02:00",
-    "updated_at": "2023-10-07T19:36:19+02:00",
-    "media_id": "hntxrdfa9m2v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6284350/ongekend-gecoordineerd-terreuroffensief-verraste-israelische-veiligheidsdiensten-totaal.html",
     "open_new_window": false,
     "partner": null
   }
