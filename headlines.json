@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284497,
+    "slug": "zwaarste-race-ooit-was-voor-coureurs-levensgevaarlijk",
+    "type": "audio",
+    "title": "'Zwaarste race ooit was voor coureurs levensgevaarlijk'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-10-09T01:32:06+02:00",
+    "updated_at": "2023-10-09T01:32:07+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6284497/zwaarste-race-ooit-was-voor-coureurs-levensgevaarlijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284495,
     "slug": "psg-herstelt-zich-van-pak-slaag-in-champions-league-napoli-krijgt-nieuwe-knauw",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6284474/aardbevingen-afghanistan-eisen-al-2445-levens-vrees-voor-meer-doden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284471,
-    "slug": "hassan-wint-op-sensationele-wijze-de-marathon-in-chicago",
-    "type": "video",
-    "title": "Hassan wint op sensationele wijze de marathon in Chicago",
-    "subtitle": "Video",
-    "published_at": "2023-10-08T18:51:57+02:00",
-    "updated_at": "2023-10-08T19:10:44+02:00",
-    "media_id": "mj3xfaoasmw3",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6284471/hassan-wint-op-sensationele-wijze-de-marathon-in-chicago.html",
     "open_new_window": false,
     "partner": null
   }
