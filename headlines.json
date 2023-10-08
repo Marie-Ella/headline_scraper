@@ -1,12 +1,58 @@
 [
   {
-    "id": 6284410,
-    "slug": "wat-zijn-hamas-en-hezbollah-de-groepen-die-nu-vechten-met-israel",
+    "id": 6284417,
+    "slug": "grote-verwoesting-bij-dodelijke-aardbeving-in-afghanistan",
+    "type": "video",
+    "title": "Grote verwoesting bij dodelijke aardbeving in Afghanistan",
+    "subtitle": "Video",
+    "published_at": "2023-10-08T12:00:01+02:00",
+    "updated_at": "2023-10-08T12:13:38+02:00",
+    "media_id": "k5zxe5ra6naj",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284417/grote-verwoesting-bij-dodelijke-aardbeving-in-afghanistan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284413,
+    "slug": "twee-israelische-toeristen-in-egypte-gedood-door-agent-motief-is-onduidelijk",
     "type": "article",
-    "title": "Wat zijn Hamas en Hezbollah, de groepen die nu vechten met Israël?",
+    "title": "Twee Israëlische toeristen in Egypte gedood door agent, motief is onduidelijk",
+    "subtitle": null,
+    "published_at": "2023-10-08T11:59:24+02:00",
+    "updated_at": "2023-10-08T12:12:07+02:00",
+    "media_id": "uycxd1taozep",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284413/twee-israelische-toeristen-in-egypte-gedood-door-agent-motief-is-onduidelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284410,
+    "slug": "wie-zijn-hamas-en-hezbollah-die-nu-vechten-met-israel",
+    "type": "article",
+    "title": "Wie zijn Hamas en Hezbollah die nu vechten met Israël?",
     "subtitle": null,
     "published_at": "2023-10-08T11:34:33+02:00",
-    "updated_at": "2023-10-08T11:50:07+02:00",
+    "updated_at": "2023-10-08T11:57:27+02:00",
     "media_id": "dq5xz2talcoy",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6284410/wat-zijn-hamas-en-hezbollah-de-groepen-die-nu-vechten-met-israel.html",
+    "url": "/buitenland/6284410/wie-zijn-hamas-en-hezbollah-die-nu-vechten-met-israel.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6284411,
-    "slug": "feyenoord-reist-af-naar-zwolle-op-prachtige-eredivisie-dag",
+    "slug": "feyenoord-en-pec-trappen-prachtige-eredivisie-dag-af-in-zwolle",
     "type": "article",
-    "title": "Feyenoord reist af naar Zwolle op prachtige Eredivisie-dag",
+    "title": "Feyenoord en PEC trappen prachtige Eredivisie-dag af in Zwolle",
     "subtitle": "Liveblog",
     "published_at": "2023-10-08T11:34:18+02:00",
-    "updated_at": "2023-10-08T11:35:06+02:00",
+    "updated_at": "2023-10-08T12:15:57+02:00",
     "media_id": "g43xufpa6v6s",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284411/feyenoord-reist-af-naar-zwolle-op-prachtige-eredivisie-dag.html",
+    "url": "/voetbal/6284411/feyenoord-en-pec-trappen-prachtige-eredivisie-dag-af-in-zwolle.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Ten Hag na wonderbaarlijke ontsnapping United: 'Dit moet het keerpunt zijn'",
     "subtitle": null,
     "published_at": "2023-10-08T11:27:05+02:00",
-    "updated_at": "2023-10-08T11:35:58+02:00",
+    "updated_at": "2023-10-08T12:00:03+02:00",
     "media_id": "5akxsiaa6frm",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Feyenoord met Nieuwkoop in plaats van niet fitte Trauner tegen PEC Zwolle",
     "subtitle": null,
     "published_at": "2023-10-08T11:25:12+02:00",
-    "updated_at": "2023-10-08T11:48:01+02:00",
+    "updated_at": "2023-10-08T12:08:30+02:00",
     "media_id": "dnpxdykampht",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6284387/zeker-duizend-doden-door-aardbeving-en-meerdere-naschokken-in-afghanistan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284386,
-    "slug": "trui-in-noorden-en-t-shirt-in-zuiden-door-flink-temperatuurverschil",
-    "type": "article",
-    "title": "Trui in noorden en T-shirt in zuiden door flink temperatuurverschil",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-10-08T06:53:38+02:00",
-    "updated_at": "2023-10-08T07:39:10+02:00",
-    "media_id": "dvyxp2ia2meg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284386/trui-in-noorden-en-t-shirt-in-zuiden-door-flink-temperatuurverschil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284112,
-    "slug": "az-blaast-voor-ajax-uit-niet-te-hoog-van-toren-maar-zet-je-geld-op-ons",
-    "type": "article",
-    "title": "AZ blaast voor Ajax-uit niet te hoog van toren: 'Maar zet je geld op ons'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-08T06:37:43+02:00",
-    "updated_at": "2023-10-08T06:37:44+02:00",
-    "media_id": "3flxfrwa3vzg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284112/az-blaast-voor-ajax-uit-niet-te-hoog-van-toren-maar-zet-je-geld-op-ons.html",
     "open_new_window": false,
     "partner": null
   }
