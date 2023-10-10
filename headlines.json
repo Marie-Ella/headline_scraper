@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284649,
+    "slug": "mistige-start-van-een-vrij-warme-dag",
+    "type": "article",
+    "title": "Mistige start van een vrij warme dag",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-10T05:48:40+02:00",
+    "updated_at": "2023-10-10T06:04:26+02:00",
+    "media_id": "c0zxgy1aokkx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6284649/mistige-start-van-een-vrij-warme-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284648,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -213,19 +236,19 @@
     "title": "Peter Pannekoek krijgt belangrijke cabaretprijs: 'Kiest nooit de makkelijke weg'",
     "subtitle": null,
     "published_at": "2023-10-09T22:33:49+02:00",
-    "updated_at": "2023-10-09T23:19:23+02:00",
+    "updated_at": "2023-10-10T06:06:17+02:00",
     "media_id": "vzxxmdoamqtt",
     "duration": null,
     "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
+      "id": 1772075,
+      "slug": "cultuur-overig",
       "type": "default",
-      "name": "Media en Cultuur",
+      "name": "Boek & Cultuur",
       "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6284645/peter-pannekoek-krijgt-belangrijke-cabaretprijs-kiest-nooit-de-makkelijke-weg.html",
+    "url": "/cultuur-overig/6284645/peter-pannekoek-krijgt-belangrijke-cabaretprijs-kiest-nooit-de-makkelijke-weg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "KNMI-directeur: 'We zitten midden in klimaatverandering'",
     "subtitle": "NU+",
     "published_at": "2023-10-09T21:07:02+02:00",
-    "updated_at": "2023-10-10T05:01:30+02:00",
+    "updated_at": "2023-10-10T05:49:40+02:00",
     "media_id": "j5jxaetab3a6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284631/gasprijs-stijgt-doordat-chevron-productie-gasveld-in-israel-staakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284633,
-    "slug": "feyenoord-fans-geweerd-bij-duel-met-lazio-uit-vrees-voor-nieuwe-incidenten",
-    "type": "article",
-    "title": "Feyenoord-fans geweerd bij duel met Lazio uit vrees voor nieuwe incidenten",
-    "subtitle": null,
-    "published_at": "2023-10-09T19:44:39+02:00",
-    "updated_at": "2023-10-09T20:14:32+02:00",
-    "media_id": "drkx0l4a63gk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284633/feyenoord-fans-geweerd-bij-duel-met-lazio-uit-vrees-voor-nieuwe-incidenten.html",
     "open_new_window": false,
     "partner": null
   }
