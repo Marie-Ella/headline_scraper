@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284795,
+    "slug": "bewolkte-ochtend-zonnige-middag-en-natte-avond",
+    "type": "article",
+    "title": "Bewolkte ochtend, zonnige middag en natte avond",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-11T05:44:26+02:00",
+    "updated_at": "2023-10-11T05:44:27+02:00",
+    "media_id": "z80x1axahada",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6284795/bewolkte-ochtend-zonnige-middag-en-natte-avond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284794,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6284774/bb-vol-liefde-deelnemers-astrid-en-harmjan-zijn-getrouwd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284772,
-    "slug": "holly-willoughby-stopt-als-talkshowpresentatrice-na-plan-haar-te-ontvoeren",
-    "type": "article",
-    "title": "Holly Willoughby stopt als talkshowpresentatrice na plan haar te ontvoeren",
-    "subtitle": null,
-    "published_at": "2023-10-10T19:45:15+02:00",
-    "updated_at": "2023-10-10T19:47:45+02:00",
-    "media_id": "zckxkyfazjl9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6284772/holly-willoughby-stopt-als-talkshowpresentatrice-na-plan-haar-te-ontvoeren.html",
     "open_new_window": false,
     "partner": null
   }
