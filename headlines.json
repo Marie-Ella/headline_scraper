@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284939,
+    "slug": "nasa-presenteert-gruis-afkomstig-van-asteroide",
+    "type": "video",
+    "title": "NASA presenteert gruis afkomstig van asteroïde",
+    "subtitle": "Video",
+    "published_at": "2023-10-11T21:51:52+02:00",
+    "updated_at": "2023-10-11T21:56:31+02:00",
+    "media_id": "5sfx41ba4m04",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284939/nasa-presenteert-gruis-afkomstig-van-asteroide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284937,
     "slug": "klm-vliegt-toch-niet-naar-tel-aviv-veiligheid-te-groot-vraagteken",
     "type": "article",
     "title": "KLM vliegt toch niet naar Tel Aviv, veiligheid te groot vraagteken",
     "subtitle": null,
     "published_at": "2023-10-11T21:36:30+02:00",
-    "updated_at": "2023-10-11T21:40:55+02:00",
+    "updated_at": "2023-10-11T22:02:06+02:00",
     "media_id": "oyyxknjavcht",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6284928,
-    "slug": "fc-twente-vrouwen-houdt-zicht-op-champions-league-door-gelijkspel-in-zweden",
+    "slug": "leuchter-schiet-ajax-vrouwen-richting-champions-league-fc-twente-speelt-gelijk",
     "type": "article",
-    "title": "FC Twente Vrouwen houdt zicht op Champions League door gelijkspel in Zweden",
+    "title": "Leuchter schiet Ajax Vrouwen richting Champions League, FC Twente speelt gelijk",
     "subtitle": null,
     "published_at": "2023-10-11T20:22:54+02:00",
-    "updated_at": "2023-10-11T21:03:57+02:00",
-    "media_id": "nl6xi0rawlfo",
+    "updated_at": "2023-10-11T22:02:47+02:00",
+    "media_id": "fxgxhs3azn3r",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284928/fc-twente-vrouwen-houdt-zicht-op-champions-league-door-gelijkspel-in-zweden.html",
+    "url": "/voetbal/6284928/leuchter-schiet-ajax-vrouwen-richting-champions-league-fc-twente-speelt-gelijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6284916/bondscoach-handbalsters-praat-met-broch-over-nieuwe-rentree-deur-staat-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284672,
-    "slug": "botsing-van-ijsplaneten-veroorzaakt-enorme-puinwolk-die-reuzenster-dimt",
-    "type": "article",
-    "title": "Botsing van ijsplaneten veroorzaakt enorme puinwolk die reuzenster dimt",
-    "subtitle": null,
-    "published_at": "2023-10-11T17:34:58+02:00",
-    "updated_at": "2023-10-11T17:34:59+02:00",
-    "media_id": "nn6xn58aocpf",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6284672/botsing-van-ijsplaneten-veroorzaakt-enorme-puinwolk-die-reuzenster-dimt.html",
     "open_new_window": false,
     "partner": null
   }
