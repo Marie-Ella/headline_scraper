@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284901,
+    "slug": "israeliers-zingen-het-volkslied-vanaf-balkon",
+    "type": "video",
+    "title": "Israëliërs zingen het volkslied vanaf balkon",
+    "subtitle": "Video",
+    "published_at": "2023-10-11T16:22:32+02:00",
+    "updated_at": "2023-10-11T16:22:33+02:00",
+    "media_id": "4p6x7gkac4xw",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284901/israeliers-zingen-het-volkslied-vanaf-balkon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284896,
     "slug": "auteur-salman-rushdie-heeft-boek-geschreven-over-aanslag-op-zijn-leven",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Israëlische premier Netanyahu vormt noodregering met oppositie vanwege oorlog met Hamas",
     "subtitle": null,
     "published_at": "2023-10-11T16:08:58+02:00",
-    "updated_at": "2023-10-11T16:12:16+02:00",
+    "updated_at": "2023-10-11T16:21:11+02:00",
     "media_id": "ha1xp00actfd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6284864/ijsblok-valt-op-schuur-in-loon-op-zand-mogelijk-afkomstig-van-vliegtuig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284856,
-    "slug": "opmerkelijke-regering-in-slowakije-na-verkiezingswinst-pro-russische-partij",
-    "type": "article",
-    "title": "Opmerkelijke regering in Slowakije na verkiezingswinst pro-Russische partij",
-    "subtitle": null,
-    "published_at": "2023-10-11T13:20:32+02:00",
-    "updated_at": "2023-10-11T14:08:25+02:00",
-    "media_id": "l2exospamfcy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284856/opmerkelijke-regering-in-slowakije-na-verkiezingswinst-pro-russische-partij.html",
     "open_new_window": false,
     "partner": null
   }
