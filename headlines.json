@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284985,
+    "slug": "eod-stelt-rugzak-met-explosief-veilig-in-rotterdam",
+    "type": "video",
+    "title": "EOD stelt rugzak met explosief veilig in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2023-10-12T10:32:05+02:00",
+    "updated_at": "2023-10-12T10:32:06+02:00",
+    "media_id": "fl2xiqka12xm",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284985/eod-stelt-rugzak-met-explosief-veilig-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284977,
     "slug": "cambuur-wil-nog-meer-stakingen-voorkomen-en-hangt-tijdelijk-netten-voor-tribune",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nederland blijft mensen ophalen in Israël 'zolang het nodig is'",
     "subtitle": null,
     "published_at": "2023-10-12T10:13:30+02:00",
-    "updated_at": "2023-10-12T10:14:28+02:00",
+    "updated_at": "2023-10-12T10:26:31+02:00",
     "media_id": "q3zx3cwapbs1",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6284952,
-    "slug": "politieprogrammas-ewout-genemans-met-dierenleed-krijgen-voortaan-waarschuwing",
+    "slug": "voortaan-waarschuwing-bij-politieprogrammas-ewout-genemans-met-dierenleed",
     "type": "article",
-    "title": "Politieprogramma's Ewout Genemans met dierenleed krijgen voortaan waarschuwing",
+    "title": "Voortaan waarschuwing bij politieprogramma's Ewout Genemans met dierenleed",
     "subtitle": null,
     "published_at": "2023-10-12T06:39:32+02:00",
-    "updated_at": "2023-10-12T08:26:15+02:00",
+    "updated_at": "2023-10-12T10:26:32+02:00",
     "media_id": "z8cxb6pa24k7",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6284952/politieprogrammas-ewout-genemans-met-dierenleed-krijgen-voortaan-waarschuwing.html",
+    "url": "/media/6284952/voortaan-waarschuwing-bij-politieprogrammas-ewout-genemans-met-dierenleed.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6284951/wie-wint-de-ring-televizier-prijzen-worden-vanavond-uitgereikt-in-carre.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284948,
-    "slug": "tijd-voor-een-poncho-en-een-dikkere-jas",
-    "type": "article",
-    "title": "Tijd voor een poncho en een (dikkere) jas",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-10-12T05:48:58+02:00",
-    "updated_at": "2023-10-12T07:04:31+02:00",
-    "media_id": "yynx4g7a7vl3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6284948/tijd-voor-een-poncho-en-een-dikkere-jas.html",
     "open_new_window": false,
     "partner": null
   }
