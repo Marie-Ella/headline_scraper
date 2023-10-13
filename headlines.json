@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285205,
+    "slug": "het-wordt-voor-ons-gevoel-een-stuk-kouder",
+    "type": "article",
+    "title": "Het wordt (voor ons gevoel) een stuk kouder",
+    "subtitle": "Weekendweerbericht",
+    "published_at": "2023-10-13T15:28:00+02:00",
+    "updated_at": "2023-10-13T15:28:01+02:00",
+    "media_id": "fe4x7rrauzkg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6285205/het-wordt-voor-ons-gevoel-een-stuk-kouder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285203,
     "slug": "sommige-gemeenten-nemen-maatregelen-om-joodse-gebouwen-te-beschermen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285148/eekhoorns-bijen-en-zalmen-sieren-nieuwe-britse-munten-met-koning-charles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285150,
-    "slug": "woning-en-kantoor-advocaat-yehudi-moszkowicz-doorzocht-na-arrestatie-in-belgie",
-    "type": "article",
-    "title": "Woning en kantoor advocaat Yehudi Moszkowicz doorzocht na arrestatie in België",
-    "subtitle": null,
-    "published_at": "2023-10-13T11:29:27+02:00",
-    "updated_at": "2023-10-13T14:04:29+02:00",
-    "media_id": "zxsxtvaas0m5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285150/woning-en-kantoor-advocaat-yehudi-moszkowicz-doorzocht-na-arrestatie-in-belgie.html",
     "open_new_window": false,
     "partner": null
   }
