@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285104,
+    "slug": "jelka-van-houten-presenteert-eerste-grote-show-en-vormt-duo-met-martijn-krabbe",
+    "type": "article",
+    "title": "Jelka van Houten presenteert eerste grote show en vormt duo met Martijn Krabbé",
+    "subtitle": null,
+    "published_at": "2023-10-13T06:21:41+02:00",
+    "updated_at": "2023-10-13T06:21:43+02:00",
+    "media_id": "xhxxgzlav1zd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6285104/jelka-van-houten-presenteert-eerste-grote-show-en-vormt-duo-met-martijn-krabbe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285102,
     "slug": "inwoners-noorden-gaza-opgeroepen-om-binnen-24-uur-naar-zuiden-te-gaan",
     "type": "article",
     "title": "Inwoners noorden Gaza opgeroepen om binnen 24 uur naar zuiden te gaan",
     "subtitle": null,
     "published_at": "2023-10-13T06:16:49+02:00",
-    "updated_at": "2023-10-13T06:16:57+02:00",
+    "updated_at": "2023-10-13T06:24:52+02:00",
     "media_id": "x6oxljnaf67h",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6285034,
-    "slug": "door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour",
+    "slug": "wehkamp-weert-klanten-die-hele-garderobe-bestellen-en-terugzenden-met-retourkosten",
     "type": "article",
-    "title": "Door kosten voor terugzending krijgt Wehkamp 10 procent minder retour",
+    "title": "Wehkamp weert klanten die hele garderobe bestellen en terugzenden met retourkosten",
     "subtitle": null,
     "published_at": "2023-10-13T05:15:43+02:00",
-    "updated_at": "2023-10-13T06:08:01+02:00",
+    "updated_at": "2023-10-13T06:30:54+02:00",
     "media_id": "i3ox9yfaj16x",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6285034/door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour.html",
+    "url": "/economie/6285034/wehkamp-weert-klanten-die-hele-garderobe-bestellen-en-terugzenden-met-retourkosten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Zo'n 1.000 bommen per dag op Gazastrook, leger klaar voor invasie",
     "subtitle": "Overzicht",
     "published_at": "2023-10-13T05:11:29+02:00",
-    "updated_at": "2023-10-13T05:41:34+02:00",
+    "updated_at": "2023-10-13T06:27:16+02:00",
     "media_id": "barxq97a16gc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6285082/handbalsters-beginnen-op-weg-naar-wk-met-winst-aan-ek-kwalificatiereeks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285081,
-    "slug": "ooggetuige-bloedige-aanval-israelisch-festival-veel-vrienden-verloren",
-    "type": "video",
-    "title": "Ooggetuige bloedige aanval Israëlisch festival: 'Veel vrienden verloren'",
-    "subtitle": "Video",
-    "published_at": "2023-10-12T21:01:26+02:00",
-    "updated_at": "2023-10-12T22:24:33+02:00",
-    "media_id": "uptx0tkaryxv",
-    "duration": "1:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6285081/ooggetuige-bloedige-aanval-israelisch-festival-veel-vrienden-verloren.html",
     "open_new_window": false,
     "partner": null
   }
