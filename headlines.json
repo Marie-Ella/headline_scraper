@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285111,
+    "slug": "grote-brand-legt-loods-in-moerkapelle-in-de-as",
+    "type": "video",
+    "title": "Grote brand legt loods in Moerkapelle in de as",
+    "subtitle": "Video",
+    "published_at": "2023-10-13T07:32:01+02:00",
+    "updated_at": "2023-10-13T07:32:02+02:00",
+    "media_id": "nekxlp6azeph",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285111/grote-brand-legt-loods-in-moerkapelle-in-de-as.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285109,
-    "slug": "deel-van-sterfgevallen-rond-verdachte-verpleegkundige-blijkt-niet-zijn-schuld",
+    "slug": "deel-van-sterfgevallen-rond-verdachte-drentse-verpleegkundige-is-niet-zijn-schuld",
     "type": "article",
-    "title": "Deel van sterfgevallen rond verdachte verpleegkundige blijkt niet zijn schuld",
+    "title": "Deel van sterfgevallen rond verdachte Drentse verpleegkundige is niet zijn schuld",
     "subtitle": null,
     "published_at": "2023-10-13T07:29:30+02:00",
-    "updated_at": "2023-10-13T07:29:31+02:00",
+    "updated_at": "2023-10-13T07:43:10+02:00",
     "media_id": "pc6xqagaxrj9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6285109/deel-van-sterfgevallen-rond-verdachte-verpleegkundige-blijkt-niet-zijn-schuld.html",
+    "url": "/binnenland/6285109/deel-van-sterfgevallen-rond-verdachte-drentse-verpleegkundige-is-niet-zijn-schuld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Vervolg op populaire sitcom Frasier vanaf november ook in Nederland te zien",
     "subtitle": null,
     "published_at": "2023-10-13T06:34:16+02:00",
-    "updated_at": "2023-10-13T06:34:17+02:00",
+    "updated_at": "2023-10-13T07:42:24+02:00",
     "media_id": "n9bxobzaqwua",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Jelka van Houten presenteert eerste grote show en vormt duo met Martijn Krabbé",
     "subtitle": null,
     "published_at": "2023-10-13T06:21:41+02:00",
-    "updated_at": "2023-10-13T06:21:43+02:00",
+    "updated_at": "2023-10-13T07:31:12+02:00",
     "media_id": "xhxxgzlav1zd",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6285102,
-    "slug": "inwoners-noord-gaza-opgeroepen-om-binnen-24-uur-naar-zuiden-te-gaan",
+    "slug": "israel-roept-ruim-miljoen-palestijnen-op-te-vertrekken-grondoffensief-lijkt-aanstaande",
     "type": "article",
-    "title": "Inwoners Noord-Gaza opgeroepen om binnen 24 uur naar zuiden te gaan",
+    "title": "Israël roept ruim miljoen Palestijnen op te vertrekken, grondoffensief lijkt aanstaande",
     "subtitle": null,
     "published_at": "2023-10-13T06:16:49+02:00",
-    "updated_at": "2023-10-13T07:05:14+02:00",
+    "updated_at": "2023-10-13T07:35:18+02:00",
     "media_id": "81kxi06a9p7l",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285102/inwoners-noord-gaza-opgeroepen-om-binnen-24-uur-naar-zuiden-te-gaan.html",
+    "url": "/buitenland/6285102/israel-roept-ruim-miljoen-palestijnen-op-te-vertrekken-grondoffensief-lijkt-aanstaande.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285095/turkije-slaat-grote-slag-in-ek-kwalificatie-met-uitzege-op-concurrent-kroatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285094,
-    "slug": "oogappels-helene-hendriks-en-noa-vahle-in-de-prijzen-op-televizier-gala",
-    "type": "video",
-    "title": "Oogappels, Hélène Hendriks en Noa Vahle in de prijzen op Televizier-gala",
-    "subtitle": "Video",
-    "published_at": "2023-10-12T22:39:12+02:00",
-    "updated_at": "2023-10-12T22:39:13+02:00",
-    "media_id": "q9pxg3sa7qaw",
-    "duration": "2:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285094/oogappels-helene-hendriks-en-noa-vahle-in-de-prijzen-op-televizier-gala.html",
     "open_new_window": false,
     "partner": null
   }
