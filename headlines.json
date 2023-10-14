@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285288,
+    "slug": "reuters-journalist-omgekomen-bij-israelische-luchtaanval-in-libanon",
+    "type": "article",
+    "title": "Reuters-journalist omgekomen bij Israëlische luchtaanval in Libanon",
+    "subtitle": null,
+    "published_at": "2023-10-14T08:33:35+02:00",
+    "updated_at": "2023-10-14T08:33:47+02:00",
+    "media_id": "9u4xuq2a5c3l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6285288/reuters-journalist-omgekomen-bij-israelische-luchtaanval-in-libanon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285286,
     "slug": "groep-mannen-gaat-op-knalrode-hakken-over-straat-in-vs",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Deadline Israël voor verlaten Gaza voorbij, militairen hebben gebied omsingeld",
     "subtitle": null,
     "published_at": "2023-10-14T08:00:14+02:00",
-    "updated_at": "2023-10-14T08:19:47+02:00",
+    "updated_at": "2023-10-14T08:41:56+02:00",
     "media_id": "tgaxb4razkcc",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Van Gogh Museum stopt vanwege veiligheid met uitgifte Pokémon-kaart",
     "subtitle": null,
     "published_at": "2023-10-14T07:11:39+02:00",
-    "updated_at": "2023-10-14T08:26:00+02:00",
+    "updated_at": "2023-10-14T08:44:33+02:00",
     "media_id": "7ukxpesau2vs",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Een vriendelijke dag met zon, code geel in avond",
     "subtitle": "Weerbericht ",
     "published_at": "2023-10-14T07:04:21+02:00",
-    "updated_at": "2023-10-14T07:54:29+02:00",
+    "updated_at": "2023-10-14T08:39:11+02:00",
     "media_id": "egax3gya6lbt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285267/van-dijk-vond-oranje-niet-onderdoen-voor-frankrijk-er-zat-meer-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285240,
-    "slug": "deze-landen-hebben-zich-geplaatst-voor-het-ek-2024",
-    "type": "article",
-    "title": "Deze landen hebben zich geplaatst voor het EK 2024",
-    "subtitle": "Overzicht",
-    "published_at": "2023-10-13T22:50:22+02:00",
-    "updated_at": "2023-10-14T02:18:37+02:00",
-    "media_id": "hc7xe29aejm9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285240/deze-landen-hebben-zich-geplaatst-voor-het-ek-2024.html",
     "open_new_window": false,
     "partner": null
   }
