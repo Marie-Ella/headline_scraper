@@ -1,13 +1,36 @@
 [
   {
+    "id": 6285363,
+    "slug": "italiaan-maakt-enorm-portret-van-donald-duck-in-veld",
+    "type": "video",
+    "title": "Italiaan maakt enorm portret van Donald Duck in veld",
+    "subtitle": "Video",
+    "published_at": "2023-10-14T22:08:45+02:00",
+    "updated_at": "2023-10-14T22:08:46+02:00",
+    "media_id": "fw1x682afbzt",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285363/italiaan-maakt-enorm-portret-van-donald-duck-in-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285362,
-    "slug": "recordperiode-warmte-voorbij-temperatuur-na-17-mei-onder-15-graden",
+    "slug": "recordperiode-warmte-voorbij-voor-het-eerst-sinds-17-mei-minder-dan-15-graden",
     "type": "article",
-    "title": "Recordperiode warmte voorbij, temperatuur na 17 mei onder 15 graden",
+    "title": "Recordperiode warmte voorbij: Voor het eerst sinds 17 mei minder dan 15 graden",
     "subtitle": null,
     "published_at": "2023-10-14T21:41:30+02:00",
-    "updated_at": "2023-10-14T21:47:05+02:00",
-    "media_id": "pnix4yhacm8a",
+    "updated_at": "2023-10-14T21:58:03+02:00",
+    "media_id": "2jwx9mmahmnz",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6285362/recordperiode-warmte-voorbij-temperatuur-na-17-mei-onder-15-graden.html",
+    "url": "/binnenland/6285362/recordperiode-warmte-voorbij-voor-het-eerst-sinds-17-mei-minder-dan-15-graden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Duel PSG gestaakt na vuurwerkincident: Martens en Groenen rennen van veld",
     "subtitle": null,
     "published_at": "2023-10-14T21:22:57+02:00",
-    "updated_at": "2023-10-14T21:40:44+02:00",
+    "updated_at": "2023-10-14T22:06:23+02:00",
     "media_id": "18nx9miawv55",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "KPN zet telefoonlijn uit, huishoudens tot 30 procent duurder uit voor internet",
     "subtitle": null,
     "published_at": "2023-10-14T17:35:57+02:00",
-    "updated_at": "2023-10-14T17:35:58+02:00",
+    "updated_at": "2023-10-14T21:57:36+02:00",
     "media_id": "t1lx0o3ahav6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6285335/agent-gewond-doordat-mannen-met-busje-op-hem-inrijden-op-a12-bij-reeuwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285334,
-    "slug": "drie-spelende-kinderen-vinden-vijf-bommen-in-brabants-bos",
-    "type": "article",
-    "title": "Drie spelende kinderen vinden vijf bommen in Brabants bos",
-    "subtitle": null,
-    "published_at": "2023-10-14T15:20:27+02:00",
-    "updated_at": "2023-10-14T18:31:36+02:00",
-    "media_id": "6brxtz8a6u1o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285334/drie-spelende-kinderen-vinden-vijf-bommen-in-brabants-bos.html",
     "open_new_window": false,
     "partner": null
   }
