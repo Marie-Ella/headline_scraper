@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285210,
+    "slug": "recensieoverzicht-net-als-in-de-film-een-vlak-toneelstukje",
+    "type": "article",
+    "title": "Recensieoverzicht Net als in de film: 'Een vlak toneelstukje'",
+    "subtitle": null,
+    "published_at": "2023-10-14T10:20:56+02:00",
+    "updated_at": "2023-10-14T10:20:57+02:00",
+    "media_id": "yyyxeu0avni5",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6285210/recensieoverzicht-net-als-in-de-film-een-vlak-toneelstukje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285297,
     "slug": "politie-onderzoekt-rolluik-na-explosie-in-onrustig-rotterdam",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6285296,
-    "slug": "hartman-geniet-goal-en-panna-in-oranje-heb-ik-op-het-pleintje-geleerd",
+    "slug": "hartman-geniet-van-goal-en-panna-in-oranje-heb-ik-op-het-pleintje-geleerd",
     "type": "article",
-    "title": "Hartman geniet goal en 'panna' in Oranje: 'Heb ik op het pleintje geleerd'",
+    "title": "Hartman geniet van goal en 'panna' in Oranje: 'Heb ik op het pleintje geleerd'",
     "subtitle": null,
     "published_at": "2023-10-14T09:49:15+02:00",
-    "updated_at": "2023-10-14T09:49:16+02:00",
+    "updated_at": "2023-10-14T10:21:39+02:00",
     "media_id": "3emxwf0ai8jv",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6285296/hartman-geniet-goal-en-panna-in-oranje-heb-ik-op-het-pleintje-geleerd.html",
+    "url": "/voetbal/6285296/hartman-geniet-van-goal-en-panna-in-oranje-heb-ik-op-het-pleintje-geleerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,19 +328,19 @@
     "title": "Van Gogh Museum stopt vanwege veiligheid met uitgifte Pokémon-kaart",
     "subtitle": null,
     "published_at": "2023-10-14T07:11:39+02:00",
-    "updated_at": "2023-10-14T08:44:33+02:00",
+    "updated_at": "2023-10-14T10:26:06+02:00",
     "media_id": "7ukxpesau2vs",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 1772075,
+      "slug": "cultuur-overig",
       "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6285278/van-gogh-museum-stopt-vanwege-veiligheid-met-uitgifte-pokemon-kaart.html",
+    "url": "/cultuur-overig/6285278/van-gogh-museum-stopt-vanwege-veiligheid-met-uitgifte-pokemon-kaart.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +438,12 @@
   },
   {
     "id": 6285238,
-    "slug": "kleine-nederlandse-sporten-worden-olympisch-holy-shit-wat-nu",
+    "slug": "kleine-sporten-in-nederland-worden-olympisch-holy-shit-wat-nu",
     "type": "article",
-    "title": "Kleine Nederlandse sporten worden olympisch: 'Holy shit, wat nu?'",
+    "title": "Kleine sporten in Nederland worden olympisch: 'Holy shit, wat nu?'",
     "subtitle": "NU+",
     "published_at": "2023-10-14T05:26:58+02:00",
-    "updated_at": "2023-10-14T05:26:59+02:00",
+    "updated_at": "2023-10-14T10:22:59+02:00",
     "media_id": "lvpxj2saz34h",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6285238/kleine-nederlandse-sporten-worden-olympisch-holy-shit-wat-nu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285046,
-    "slug": "waarom-was-de-opstand-in-sobibor-80-jaar-geleden-zo-bijzonder",
-    "type": "article",
-    "title": "Waarom was de opstand in Sobibór, 80 jaar geleden, zo bijzonder?",
-    "subtitle": "NU+",
-    "published_at": "2023-10-14T05:26:03+02:00",
-    "updated_at": "2023-10-14T06:11:50+02:00",
-    "media_id": "tdjxmwrac4b1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6285046/waarom-was-de-opstand-in-sobibor-80-jaar-geleden-zo-bijzonder.html",
+    "url": "/sport-overig/6285238/kleine-sporten-in-nederland-worden-olympisch-holy-shit-wat-nu.html",
     "open_new_window": false,
     "partner": null
   }
