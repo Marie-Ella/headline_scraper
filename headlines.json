@@ -1,12 +1,58 @@
 [
   {
+    "id": 6285276,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-14T06:39:23+02:00",
+    "updated_at": "2023-10-14T06:39:25+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6285276/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285202,
+    "slug": "dit-ga-je-meer-betalen-door-de-rente-op-de-studieschuld-in-2024",
+    "type": "video",
+    "title": "Dit ga je meer betalen door de rente op de studieschuld in 2024",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-14T06:37:17+02:00",
+    "updated_at": "2023-10-14T06:43:29+02:00",
+    "media_id": "u4ixz2gaxl6k",
+    "duration": "1:50",
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285202/dit-ga-je-meer-betalen-door-de-rente-op-de-studieschuld-in-2024.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285275,
     "slug": "explosief-ontploft-in-rotterdam-geen-gewonden-verdachte-aangehouden",
     "type": "article",
     "title": "Explosief ontploft in Rotterdam, geen gewonden, verdachte aangehouden",
     "subtitle": null,
     "published_at": "2023-10-14T06:20:23+02:00",
-    "updated_at": "2023-10-14T06:21:54+02:00",
+    "updated_at": "2023-10-14T06:36:18+02:00",
     "media_id": "k4hx2toawnu2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6285260/chinese-baby-in-loopstoel-gaat-ervandoor-en-rolt-straat-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285254,
-    "slug": "twee-tijdritten-en-strade-bianche-etappe-in-giro-vrouweneditie-krijgt-andere-naam",
-    "type": "article",
-    "title": "Twee tijdritten en Strade Bianche-etappe in Giro, vrouweneditie krijgt andere naam",
-    "subtitle": null,
-    "published_at": "2023-10-13T20:30:11+02:00",
-    "updated_at": "2023-10-13T21:21:43+02:00",
-    "media_id": "s61xjpzaqpcf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6285254/twee-tijdritten-en-strade-bianche-etappe-in-giro-vrouweneditie-krijgt-andere-naam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285257,
-    "slug": "legia-bestraft-voor-supportersgeweld-bij-az-incidenten-na-duel-nog-onderzocht",
-    "type": "article",
-    "title": "Legia bestraft voor supportersgeweld bij AZ, incidenten na duel nog onderzocht",
-    "subtitle": null,
-    "published_at": "2023-10-13T20:28:33+02:00",
-    "updated_at": "2023-10-13T20:35:03+02:00",
-    "media_id": "g02x2vea4tgp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285257/legia-bestraft-voor-supportersgeweld-bij-az-incidenten-na-duel-nog-onderzocht.html",
     "open_new_window": false,
     "partner": null
   }
