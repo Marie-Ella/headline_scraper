@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285323,
+    "slug": "plein-in-warschau-ontruimd-vanwege-mogelijke-bom",
+    "type": "video",
+    "title": "Plein in Warschau ontruimd vanwege mogelijke bom",
+    "subtitle": "Video",
+    "published_at": "2023-10-14T13:40:03+02:00",
+    "updated_at": "2023-10-14T13:40:04+02:00",
+    "media_id": "8e2xl56aqs2o",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285323/plein-in-warschau-ontruimd-vanwege-mogelijke-bom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285319,
-    "slug": "weghorst-ontbreekt-dag-na-uitvalbeurt-tegen-frankrijk-op-training-van-oranje",
+    "slug": "weghorst-ontbreekt-richting-cruciaal-duel-met-griekenland-op-training-van-oranje",
     "type": "article",
-    "title": "Weghorst ontbreekt dag na uitvalbeurt tegen Frankrijk op training van Oranje",
+    "title": "Weghorst ontbreekt richting cruciaal duel met Griekenland op training van Oranje",
     "subtitle": null,
     "published_at": "2023-10-14T13:18:28+02:00",
-    "updated_at": "2023-10-14T13:22:29+02:00",
+    "updated_at": "2023-10-14T13:41:55+02:00",
     "media_id": "l4oxt3ta80h4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6285319/weghorst-ontbreekt-dag-na-uitvalbeurt-tegen-frankrijk-op-training-van-oranje.html",
+    "url": "/voetbal/6285319/weghorst-ontbreekt-richting-cruciaal-duel-met-griekenland-op-training-van-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Duizenden schapen gaan dood door blauwtong: 'Ik heb liever de wolf'",
     "subtitle": null,
     "published_at": "2023-10-14T11:23:07+02:00",
-    "updated_at": "2023-10-14T11:23:08+02:00",
+    "updated_at": "2023-10-14T13:46:03+02:00",
     "media_id": "kvsxdarau67x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6285295/wk-beachvolleybal-eindigt-zonder-nederlands-succes-ook-laatste-duos-stranden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285294,
-    "slug": "dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen",
-    "type": "article",
-    "title": "DNB-baas Knot ziet einde van periode met steeds harder stijgende lonen",
-    "subtitle": null,
-    "published_at": "2023-10-14T09:28:54+02:00",
-    "updated_at": "2023-10-14T09:46:25+02:00",
-    "media_id": "j7jxeuta7hbq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285294/dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen.html",
     "open_new_window": false,
     "partner": null
   }
