@@ -1,24 +1,47 @@
 [
   {
+    "id": 6285408,
+    "slug": "bekende-iraanse-regisseur-dariush-mehrjui-doodgestoken-in-zijn-eigen-huis",
+    "type": "article",
+    "title": "Bekende Iraanse regisseur Dariush Mehrjui doodgestoken in zijn eigen huis",
+    "subtitle": null,
+    "published_at": "2023-10-15T12:43:33+02:00",
+    "updated_at": "2023-10-15T12:43:35+02:00",
+    "media_id": "bfvxebwa2j7m",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6285408/bekende-iraanse-regisseur-dariush-mehrjui-doodgestoken-in-zijn-eigen-huis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285406,
     "slug": "inwoners-gaza-zoeken-naar-overlevenden-na-israelische-raketaanval",
     "type": "video",
     "title": "Inwoners Gaza zoeken naar overlevenden na Israëlische raketaanval",
     "subtitle": "Video",
     "published_at": "2023-10-15T12:26:47+02:00",
-    "updated_at": "2023-10-15T12:27:00+02:00",
+    "updated_at": "2023-10-15T12:33:06+02:00",
     "media_id": "c33x05uauolh",
     "duration": "0:56",
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1772431,
+      "slug": "videos",
       "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
+      "name": "Video's",
+      "style": null,
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285406/inwoners-gaza-zoeken-naar-overlevenden-na-israelische-raketaanval.html",
+    "url": "/videos/6285406/inwoners-gaza-zoeken-naar-overlevenden-na-israelische-raketaanval.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "FIA kijkt opnieuw naar overtreding van 'rolmodel' Hamilton tijdens GP Qatar",
     "subtitle": null,
     "published_at": "2023-10-15T12:19:42+02:00",
-    "updated_at": "2023-10-15T12:19:44+02:00",
+    "updated_at": "2023-10-15T12:31:13+02:00",
     "media_id": "gkexnisayyx2",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6285398,
-    "slug": "anne-luijten-loopt-verrassend-onder-olympische-limiet-bij-marathon-amsterdam",
+    "slug": "marathonloopster-luijten-loopt-in-derde-race-al-olympische-limiet-in-amsterdam",
     "type": "article",
-    "title": "Anne Luijten loopt verrassend onder olympische limiet bij marathon Amsterdam",
+    "title": "Marathonloopster Luijten loopt in derde race al olympische limiet in Amsterdam",
     "subtitle": null,
     "published_at": "2023-10-15T11:48:15+02:00",
-    "updated_at": "2023-10-15T11:57:34+02:00",
-    "media_id": "5jqxvvzako5a",
+    "updated_at": "2023-10-15T12:46:02+02:00",
+    "media_id": "xpox03cae9ga",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6285398/anne-luijten-loopt-verrassend-onder-olympische-limiet-bij-marathon-amsterdam.html",
+    "url": "/sport-overig/6285398/marathonloopster-luijten-loopt-in-derde-race-al-olympische-limiet-in-amsterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "FNV organiseert landelijke stakingsdag voor betere cao in houthandel",
     "subtitle": null,
     "published_at": "2023-10-15T10:49:25+02:00",
-    "updated_at": "2023-10-15T10:55:40+02:00",
+    "updated_at": "2023-10-15T12:35:46+02:00",
     "media_id": "rjyx6sfajlcu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6285377/kinderarts-werkt-aan-bestrijding-erfelijke-ziektes-revolutionaire-oplossing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285375,
-    "slug": "waarom-het-een-probleem-is-dat-china-een-visserijgrootmacht-is",
-    "type": "video",
-    "title": "Waarom het een probleem is dat China een visserijgrootmacht is",
-    "subtitle": "Video",
-    "published_at": "2023-10-15T07:09:49+02:00",
-    "updated_at": "2023-10-15T07:09:51+02:00",
-    "media_id": "xihxrpma7xd4",
-    "duration": "10:11",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285375/waarom-het-een-probleem-is-dat-china-een-visserijgrootmacht-is.html",
     "open_new_window": false,
     "partner": null
   }
