@@ -1,12 +1,58 @@
 [
   {
+    "id": 6285424,
+    "slug": "haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico",
+    "type": "article",
+    "title": "Haags gebouw Universiteit Leiden maandag weer open na veiligheidsrisico",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:13:21+02:00",
+    "updated_at": "2023-10-15T15:16:04+02:00",
+    "media_id": "13nx8a8ag2md",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285424/haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285422,
+    "slug": "situatie-kleinzoon-lenny-kuhr-stabiel-zangeres-wil-toch-naar-israel-gaan",
+    "type": "article",
+    "title": "Situatie kleinzoon Lenny Kuhr stabiel, zangeres wil toch naar Israël gaan",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:04:16+02:00",
+    "updated_at": "2023-10-15T15:08:40+02:00",
+    "media_id": "zvvx68hak8iy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6285422/situatie-kleinzoon-lenny-kuhr-stabiel-zangeres-wil-toch-naar-israel-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285421,
     "slug": "feyenoord-vrouwen-dieper-in-de-problemen-na-nederlaag-in-stadsderby",
     "type": "article",
     "title": "Feyenoord Vrouwen dieper in de problemen na nederlaag in stadsderby",
     "subtitle": null,
     "published_at": "2023-10-15T14:43:41+02:00",
-    "updated_at": "2023-10-15T14:49:18+02:00",
+    "updated_at": "2023-10-15T14:55:04+02:00",
     "media_id": "il2xrfna0chc",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Sprintkoning Philipsen klopt Cees Bol opnieuw, Lutsenko pakt eindzege in Turkije",
     "subtitle": null,
     "published_at": "2023-10-15T14:33:20+02:00",
-    "updated_at": "2023-10-15T14:46:41+02:00",
+    "updated_at": "2023-10-15T15:04:55+02:00",
     "media_id": "pgfx5r0adxh4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Donny van de Beek en Estelle Bergkamp in verwachting van tweede kind",
     "subtitle": null,
     "published_at": "2023-10-15T13:39:55+02:00",
-    "updated_at": "2023-10-15T13:44:03+02:00",
+    "updated_at": "2023-10-15T15:17:19+02:00",
     "media_id": "7hoxd8na20nz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285394/weghorst-traint-mee-bij-oranje-in-aanloop-naar-cruciaal-duel-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285391,
-    "slug": "israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv",
-    "type": "article",
-    "title": "Israël en Hamas bestoken elkaar met raketten, luchtalarm in Tel Aviv",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-15T10:53:34+02:00",
-    "updated_at": "2023-10-15T14:17:44+02:00",
-    "media_id": "qkgxu35a4fi6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6285391/israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285392,
-    "slug": "fnv-organiseert-landelijke-stakingsdag-voor-betere-cao-in-houthandel",
-    "type": "article",
-    "title": "FNV organiseert landelijke stakingsdag voor betere cao in houthandel",
-    "subtitle": null,
-    "published_at": "2023-10-15T10:49:25+02:00",
-    "updated_at": "2023-10-15T12:35:46+02:00",
-    "media_id": "rjyx6sfajlcu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285392/fnv-organiseert-landelijke-stakingsdag-voor-betere-cao-in-houthandel.html",
     "open_new_window": false,
     "partner": null
   }
