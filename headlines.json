@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285428,
+    "slug": "bbc-gebouw-in-londen-beklad-met-rode-verf",
+    "type": "video",
+    "title": "BBC-gebouw in Londen beklad met rode verf",
+    "subtitle": "Video",
+    "published_at": "2023-10-15T15:52:27+02:00",
+    "updated_at": "2023-10-15T15:57:48+02:00",
+    "media_id": "za8xx06a9gwe",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285428/bbc-gebouw-in-londen-beklad-met-rode-verf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285426,
     "slug": "echt-herfstweer-eerst-koud-dan-regen",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Bommeldingen in Louvre en paleis van Versailles waren vals alarm",
     "subtitle": null,
     "published_at": "2023-10-15T12:50:14+02:00",
-    "updated_at": "2023-10-15T12:54:08+02:00",
+    "updated_at": "2023-10-15T16:10:30+02:00",
     "media_id": "togx3eoaw5dx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6285398/marathonloopster-luijten-loopt-in-derde-race-al-olympische-limiet-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285397,
-    "slug": "derde-aardbeving-in-een-week-tijd-in-afghanistan",
-    "type": "video",
-    "title": "Derde aardbeving in een week tijd in Afghanistan",
-    "subtitle": "Video",
-    "published_at": "2023-10-15T11:30:30+02:00",
-    "updated_at": "2023-10-15T12:01:28+02:00",
-    "media_id": "sjgxex2ak7jl",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285397/derde-aardbeving-in-een-week-tijd-in-afghanistan.html",
     "open_new_window": false,
     "partner": null
   }
