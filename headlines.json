@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285398,
+    "slug": "anne-luijten-loopt-onder-olympisch-limiet-bij-marathon-amsterdam-choukoud-komt-tekort",
+    "type": "article",
+    "title": "Anne Luijten loopt onder olympisch limiet bij marathon Amsterdam, Choukoud komt tekort",
+    "subtitle": null,
+    "published_at": "2023-10-15T11:48:15+02:00",
+    "updated_at": "2023-10-15T11:48:16+02:00",
+    "media_id": "5jqxvvzako5a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6285398/anne-luijten-loopt-onder-olympisch-limiet-bij-marathon-amsterdam-choukoud-komt-tekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285397,
+    "slug": "derde-aardbeving-in-een-week-tijd-in-afghanistan",
+    "type": "video",
+    "title": "Derde aardbeving in een week tijd in Afghanistan",
+    "subtitle": "Video",
+    "published_at": "2023-10-15T11:30:30+02:00",
+    "updated_at": "2023-10-15T11:34:52+02:00",
+    "media_id": "sjgxex2ak7jl",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285397/derde-aardbeving-in-een-week-tijd-in-afghanistan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285393,
     "slug": "vertrekkend-bestuurslid-wereldbank-davidse-ziet-andere-en-nieuwe-wind-waaien",
     "type": "article",
@@ -121,19 +167,19 @@
     "title": "Nederland stuurt militairen naar Libanon wegens veiligheidssituatie bij grens Israël",
     "subtitle": null,
     "published_at": "2023-10-15T10:19:07+02:00",
-    "updated_at": "2023-10-15T10:34:59+02:00",
+    "updated_at": "2023-10-15T11:43:42+02:00",
     "media_id": "32hxzskaqhoi",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Gazaconflict",
       "style": "nu",
-      "media_id": null,
+      "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/buitenland/6285387/nederland-stuurt-militairen-naar-libanon-wegens-veiligheidssituatie-bij-grens-israel.html",
+    "url": "/midden-oostenconflict/6285387/nederland-stuurt-militairen-naar-libanon-wegens-veiligheidssituatie-bij-grens-israel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6285372/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285138,
-    "slug": "onderzoek-moet-aantonen-hoe-radioactief-het-water-rond-fukushima-is",
-    "type": "article",
-    "title": "Onderzoek moet aantonen hoe radioactief het water rond Fukushima is",
-    "subtitle": "NU+",
-    "published_at": "2023-10-15T05:31:11+02:00",
-    "updated_at": "2023-10-15T10:21:48+02:00",
-    "media_id": "j7bxc8oakexp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6285138/onderzoek-moet-aantonen-hoe-radioactief-het-water-rond-fukushima-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285342,
-    "slug": "wat-als-oranje-verliest-van-grieken-in-ek-kwalificatie-dit-zijn-de-scenarios",
-    "type": "article",
-    "title": "Wat als Oranje verliest van Grieken in EK-kwalificatie? Dit zijn de scenario's",
-    "subtitle": null,
-    "published_at": "2023-10-15T05:29:44+02:00",
-    "updated_at": "2023-10-15T08:00:04+02:00",
-    "media_id": "u6sxdm3ayy5v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285342/wat-als-oranje-verliest-van-grieken-in-ek-kwalificatie-dit-zijn-de-scenarios.html",
     "open_new_window": false,
     "partner": null
   }
