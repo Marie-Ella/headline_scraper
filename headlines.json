@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285476,
+    "slug": "de-zon-laat-zich-weinig-zien-op-grijs-begin-van-de-week",
+    "type": "article",
+    "title": "De zon laat zich weinig zien op grijs begin van de week",
+    "subtitle": null,
+    "published_at": "2023-10-16T06:13:22+02:00",
+    "updated_at": "2023-10-16T06:13:23+02:00",
+    "media_id": "hl7xapjakqkv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6285476/de-zon-laat-zich-weinig-zien-op-grijs-begin-van-de-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285475,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6285447/paul-van-loon-krijgt-tweede-gouden-boek-in-maand-tijd-nu-voor-meester-kikker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285446,
-    "slug": "kijk-de-persconferentie-van-oranje-voor-het-duel-met-griekenland",
-    "type": "video",
-    "title": "Kijk de persconferentie van Oranje voor het duel met Griekenland",
-    "subtitle": "Livestream",
-    "published_at": "2023-10-15T18:41:03+02:00",
-    "updated_at": "2023-10-15T19:12:52+02:00",
-    "media_id": "fc5xrizadepx",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6285446/kijk-de-persconferentie-van-oranje-voor-het-duel-met-griekenland.html",
     "open_new_window": false,
     "partner": null
   }
