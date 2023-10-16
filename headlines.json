@@ -1,12 +1,58 @@
 [
   {
+    "id": 6285427,
+    "slug": "goed-om-gesprekken-tussen-advocaten-en-verdachten-op-te-nemen",
+    "type": "article",
+    "title": "'Goed om gesprekken tussen advocaten en verdachten op te nemen'",
+    "subtitle": "Stelling",
+    "published_at": "2023-10-16T07:01:15+02:00",
+    "updated_at": "2023-10-16T07:17:34+02:00",
+    "media_id": "gk3xpd2a81f3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6285427/goed-om-gesprekken-tussen-advocaten-en-verdachten-op-te-nemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285479,
+    "slug": "radio-dj-frank-van-der-lende-wordt-voor-de-tweede-keer-vader",
+    "type": "article",
+    "title": "Radio-dj Frank van der Lende wordt voor de tweede keer vader",
+    "subtitle": null,
+    "published_at": "2023-10-16T07:00:12+02:00",
+    "updated_at": "2023-10-16T07:15:25+02:00",
+    "media_id": "v2pxxieano51",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6285479/radio-dj-frank-van-der-lende-wordt-voor-de-tweede-keer-vader.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285478,
     "slug": "man-steekt-palestijns-amerikaanse-jongen-6-dood-in-vs-vanwege-geweld-israel",
     "type": "article",
     "title": "Man steekt Palestijns-Amerikaanse jongen (6) dood in VS vanwege geweld Israël",
     "subtitle": null,
     "published_at": "2023-10-16T06:29:34+02:00",
-    "updated_at": "2023-10-16T06:49:09+02:00",
+    "updated_at": "2023-10-16T07:08:53+02:00",
     "media_id": "tehxiy0adpl5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6285448/jagger-dient-mccartney-van-repliek-beatles-waren-ook-een-bluescoverband.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285451,
-    "slug": "wk-droom-franse-rugbyers-eindigt-in-kwartfinale-tegen-titelverdediger-zuid-afrika",
-    "type": "article",
-    "title": "WK-droom Franse rugbyers eindigt in kwartfinale tegen titelverdediger Zuid-Afrika",
-    "subtitle": null,
-    "published_at": "2023-10-15T19:01:24+02:00",
-    "updated_at": "2023-10-15T23:39:21+02:00",
-    "media_id": "7rfx2m4ag296",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6285451/wk-droom-franse-rugbyers-eindigt-in-kwartfinale-tegen-titelverdediger-zuid-afrika.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285449,
-    "slug": "weghorst-lijkt-fit-voor-cruciaal-ek-kwalificatieduel-oranje-met-griekenland",
-    "type": "article",
-    "title": "Weghorst lijkt fit voor cruciaal EK-kwalificatieduel Oranje met Griekenland",
-    "subtitle": null,
-    "published_at": "2023-10-15T18:59:53+02:00",
-    "updated_at": "2023-10-15T20:21:27+02:00",
-    "media_id": "t01x0g4a8qx3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285449/weghorst-lijkt-fit-voor-cruciaal-ek-kwalificatieduel-oranje-met-griekenland.html",
     "open_new_window": false,
     "partner": null
   }
