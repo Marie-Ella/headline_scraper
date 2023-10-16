@@ -1,12 +1,58 @@
 [
   {
+    "id": 6285612,
+    "slug": "dit-weten-we-nu-over-de-vermoedelijke-terreuraanslag-in-brussel",
+    "type": "article",
+    "title": "Dit weten we nu over de vermoedelijke terreuraanslag in Brussel",
+    "subtitle": null,
+    "published_at": "2023-10-16T23:46:25+02:00",
+    "updated_at": "2023-10-16T23:46:42+02:00",
+    "media_id": "4hxxmwmadxht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285612/dit-weten-we-nu-over-de-vermoedelijke-terreuraanslag-in-brussel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285616,
+    "slug": "koeman-mist-strafschopspecialist-bij-oranje-laat-er-please-een-geboren-worden",
+    "type": "article",
+    "title": "Koeman mist strafschopspecialist bij Oranje: 'Laat er please een geboren worden'",
+    "subtitle": null,
+    "published_at": "2023-10-16T23:43:17+02:00",
+    "updated_at": "2023-10-16T23:47:45+02:00",
+    "media_id": "0y1xmbsa6p57",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285616/koeman-mist-strafschopspecialist-bij-oranje-laat-er-please-een-geboren-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285614,
     "slug": "van-dijk-met-rake-penalty-goud-waard-voor-oranje-dacht-niet-terug-aan-wk",
     "type": "article",
     "title": "Van Dijk met rake penalty goud waard voor Oranje: 'Dacht niet terug aan WK'",
     "subtitle": null,
     "published_at": "2023-10-16T23:12:10+02:00",
-    "updated_at": "2023-10-16T23:18:14+02:00",
+    "updated_at": "2023-10-16T23:42:32+02:00",
     "media_id": "4owxvxya8ki9",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Oranje wint door late penalty in Griekenland en is bijna zeker van EK",
     "subtitle": null,
     "published_at": "2023-10-16T22:46:52+02:00",
-    "updated_at": "2023-10-16T23:20:38+02:00",
+    "updated_at": "2023-10-16T23:41:55+02:00",
     "media_id": "fzfxzstak4cu",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6285603,
-    "slug": "dodelijke-schietpartij-brussel-vermoedelijk-terrorisme-dader-op-de-vlucht",
+    "slug": "twee-doden-en-gewonde-bij-doelgerichte-aanslag-op-zweden-in-brussel-dader-op-de-vlucht",
     "type": "article",
-    "title": "Dodelijke schietpartij Brussel vermoedelijk terrorisme, dader op de vlucht",
+    "title": "Twee doden en gewonde bij doelgerichte aanslag op Zweden in Brussel, dader op de vlucht",
     "subtitle": null,
     "published_at": "2023-10-16T20:46:46+02:00",
-    "updated_at": "2023-10-16T23:14:07+02:00",
+    "updated_at": "2023-10-16T23:44:54+02:00",
     "media_id": "biixjcraosx9",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285603/dodelijke-schietpartij-brussel-vermoedelijk-terrorisme-dader-op-de-vlucht.html",
+    "url": "/buitenland/6285603/twee-doden-en-gewonde-bij-doelgerichte-aanslag-op-zweden-in-brussel-dader-op-de-vlucht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285589/reacties-op-cruciale-overwinning-oranje-in-athene.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285588,
-    "slug": "wielrenner-wesley-kreder-32-zet-na-hartaanval-punt-achter-carriere",
-    "type": "article",
-    "title": "Wielrenner Wesley Kreder (32) zet na hartaanval punt achter carrière",
-    "subtitle": null,
-    "published_at": "2023-10-16T19:02:06+02:00",
-    "updated_at": "2023-10-16T19:07:39+02:00",
-    "media_id": "w4zxkzfaxyyx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6285588/wielrenner-wesley-kreder-32-zet-na-hartaanval-punt-achter-carriere.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285587,
-    "slug": "almere-city-neemt-afstand-van-pittige-uitspraken-clubpsycholoog-over-ajax-staf",
-    "type": "article",
-    "title": "Almere City neemt afstand van pittige uitspraken clubpsycholoog over Ajax-staf",
-    "subtitle": null,
-    "published_at": "2023-10-16T18:39:50+02:00",
-    "updated_at": "2023-10-16T18:49:56+02:00",
-    "media_id": "f98xaceak57u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285587/almere-city-neemt-afstand-van-pittige-uitspraken-clubpsycholoog-over-ajax-staf.html",
     "open_new_window": false,
     "partner": null
   }
