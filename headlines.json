@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285760,
+    "slug": "ongeverifieerde-beelden-tonen-raketinslag-ziekenhuis-in-gaza",
+    "type": "video",
+    "title": "Ongeverifieerde beelden tonen raketinslag ziekenhuis in Gaza",
+    "subtitle": "Video",
+    "published_at": "2023-10-17T20:56:29+02:00",
+    "updated_at": "2023-10-17T21:03:10+02:00",
+    "media_id": "6ivxjaeau8yc",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285760/ongeverifieerde-beelden-tonen-raketinslag-ziekenhuis-in-gaza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285754,
+    "slug": "geen-andere-rechter-in-zaak-rond-van-terrorisme-verdachte-tilburger",
+    "type": "article",
+    "title": "Geen andere rechter in zaak rond van terrorisme verdachte Tilburger",
+    "subtitle": null,
+    "published_at": "2023-10-17T20:52:02+02:00",
+    "updated_at": "2023-10-17T20:52:03+02:00",
+    "media_id": "rxsx6h5auhl8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285754/geen-andere-rechter-in-zaak-rond-van-terrorisme-verdachte-tilburger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285757,
     "slug": "nederlandse-cricketers-stunten-tegen-zuid-afrika-met-derde-wk-zege-ooit",
     "type": "article",
@@ -29,8 +75,8 @@
     "title": "Autoriteiten Gaza melden honderden doden na luchtaanval op ziekenhuis",
     "subtitle": null,
     "published_at": "2023-10-17T19:49:41+02:00",
-    "updated_at": "2023-10-17T20:47:34+02:00",
-    "media_id": "4bnxocya0sil",
+    "updated_at": "2023-10-17T21:02:42+02:00",
+    "media_id": "i7exkysa4drr",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285729/de-ligt-hervat-groepstraining-bij-bayern-munchen-na-enkele-weken-blessureleed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285732,
-    "slug": "volgende-week-zes-dagen-lang-bussen-in-plaats-van-treinen-op-deel-flevolijn",
-    "type": "article",
-    "title": "Volgende week zes dagen lang bussen in plaats van treinen op deel Flevolijn",
-    "subtitle": null,
-    "published_at": "2023-10-17T17:01:39+02:00",
-    "updated_at": "2023-10-17T18:25:10+02:00",
-    "media_id": "4g2xvsjaxxfz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285732/volgende-week-zes-dagen-lang-bussen-in-plaats-van-treinen-op-deel-flevolijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284979,
-    "slug": "zes-sensationele-renners-een-seizoen-niet-iedereen-zal-tevreden-zijn",
-    "type": "article",
-    "title": "Zes sensationele renners, één seizoen: niet iedereen zal tevreden zijn",
-    "subtitle": "NU+",
-    "published_at": "2023-10-17T16:58:10+02:00",
-    "updated_at": "2023-10-17T18:20:30+02:00",
-    "media_id": "x7wxon0ay695",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6284979/zes-sensationele-renners-een-seizoen-niet-iedereen-zal-tevreden-zijn.html",
     "open_new_window": false,
     "partner": null
   }
