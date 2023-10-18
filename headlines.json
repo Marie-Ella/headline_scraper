@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285775,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-18T05:16:22+02:00",
+    "updated_at": "2023-10-18T05:16:23+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6285775/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285701,
     "slug": "nederlandse-rensters-domineren-ook-in-2023-met-vollering-als-zegekoningin",
     "type": "article",
@@ -369,12 +392,12 @@
   },
   {
     "id": 6285755,
-    "slug": "autoriteiten-gaza-zeker-500-doden-na-aanval-op-ziekenhuis-israel-ontkent-betrokkenheid",
+    "slug": "aanval-op-ziekenhuis-in-gaza-zou-zeker-500-doden-eisen-israel-ontkent-rol",
     "type": "article",
-    "title": "Autoriteiten Gaza: zeker 500 doden na aanval op ziekenhuis, Israël ontkent betrokkenheid",
+    "title": "Aanval op ziekenhuis in Gaza zou zeker 500 doden eisen, Israël ontkent rol",
     "subtitle": null,
     "published_at": "2023-10-17T19:49:41+02:00",
-    "updated_at": "2023-10-18T00:03:20+02:00",
+    "updated_at": "2023-10-18T05:22:31+02:00",
     "media_id": "i7exkysa4drr",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285755/autoriteiten-gaza-zeker-500-doden-na-aanval-op-ziekenhuis-israel-ontkent-betrokkenheid.html",
+    "url": "/buitenland/6285755/aanval-op-ziekenhuis-in-gaza-zou-zeker-500-doden-eisen-israel-ontkent-rol.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285751/jong-oranje-wint-ondanks-door-arbitrage-gemiste-goal-simpel-in-ek-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285749,
-    "slug": "koningspaar-wordt-niet-herkend-in-zuid-afrika-hij-lijkt-op-chuck-norris",
-    "type": "video",
-    "title": "Koningspaar wordt niet herkend in Zuid-Afrika: 'Hij lijkt op Chuck Norris'",
-    "subtitle": "Video",
-    "published_at": "2023-10-17T18:57:06+02:00",
-    "updated_at": "2023-10-17T18:57:07+02:00",
-    "media_id": "r6vxu70az0d6",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285749/koningspaar-wordt-niet-herkend-in-zuid-afrika-hij-lijkt-op-chuck-norris.html",
     "open_new_window": false,
     "partner": null
   }
