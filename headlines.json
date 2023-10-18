@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285789,
+    "slug": "protesten-in-nederland-na-raketinslag-bij-ziekenhuis-in-gazastrook",
+    "type": "video",
+    "title": "Protesten in Nederland na raketinslag bij ziekenhuis in Gazastrook",
+    "subtitle": "Video",
+    "published_at": "2023-10-18T08:39:50+02:00",
+    "updated_at": "2023-10-18T08:40:41+02:00",
+    "media_id": "uq3xguma5sdw",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285789/protesten-in-nederland-na-raketinslag-bij-ziekenhuis-in-gazastrook.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285784,
     "slug": "chinese-economie-is-ondanks-problemen-flink-gegroeid-in-derde-kwartaal",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6285770/deze-engelse-huiskat-spint-het-luidruchtigst-van-allemaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285769,
-    "slug": "islamitische-staat-claimt-aanslag-op-zweedse-voetbalfans-in-brussel",
-    "type": "article",
-    "title": "Islamitische Staat claimt aanslag op Zweedse voetbalfans in Brussel",
-    "subtitle": null,
-    "published_at": "2023-10-17T22:24:00+02:00",
-    "updated_at": "2023-10-17T23:00:20+02:00",
-    "media_id": "x1hxljoavbuk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6285769/islamitische-staat-claimt-aanslag-op-zweedse-voetbalfans-in-brussel.html",
     "open_new_window": false,
     "partner": null
   }
