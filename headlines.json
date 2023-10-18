@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285845,
+    "slug": "bcc-winkels-blijven-dicht-vanwege-onrust-bij-leegverkoop",
+    "type": "article",
+    "title": "BCC-winkels blijven dicht vanwege onrust bij leegverkoop",
+    "subtitle": null,
+    "published_at": "2023-10-18T13:23:44+02:00",
+    "updated_at": "2023-10-18T13:23:57+02:00",
+    "media_id": "hj7x2c6a5vda",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285845/bcc-winkels-blijven-dicht-vanwege-onrust-bij-leegverkoop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285844,
+    "slug": "we-zagen-de-zon-in-2023-al-vaker-dan-gemiddeld-in-een-heel-jaar",
+    "type": "article",
+    "title": "We zagen de zon in 2023 al vaker dan gemiddeld in een heel jaar",
+    "subtitle": null,
+    "published_at": "2023-10-18T13:21:32+02:00",
+    "updated_at": "2023-10-18T13:21:33+02:00",
+    "media_id": "34kxnora2tw5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285844/we-zagen-de-zon-in-2023-al-vaker-dan-gemiddeld-in-een-heel-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285837,
     "slug": "bella-hadid-zoenend-gezien-met-paardrijder-adan-banuelos",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285815/ook-zweden-wil-duel-met-belgie-niet-uitspelen-uefa-beslist-uiterlijk-vrijdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285813,
-    "slug": "palestijnen-brengen-gewonden-naar-ander-ziekenhuis-na-raketinslag",
-    "type": "video",
-    "title": "Palestijnen brengen gewonden naar ander ziekenhuis na raketinslag",
-    "subtitle": "Video",
-    "published_at": "2023-10-18T10:30:16+02:00",
-    "updated_at": "2023-10-18T10:30:17+02:00",
-    "media_id": "25zxf48a7ehd",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285813/palestijnen-brengen-gewonden-naar-ander-ziekenhuis-na-raketinslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285809,
-    "slug": "radboudumc-eerste-europese-ziekenhuis-dat-robot-inzet-tegen-longkanker",
-    "type": "article",
-    "title": "Radboudumc eerste Europese ziekenhuis dat robot inzet tegen longkanker",
-    "subtitle": null,
-    "published_at": "2023-10-18T10:25:37+02:00",
-    "updated_at": "2023-10-18T11:33:34+02:00",
-    "media_id": "lmhxv66am6ih",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285809/radboudumc-eerste-europese-ziekenhuis-dat-robot-inzet-tegen-longkanker.html",
     "open_new_window": false,
     "partner": null
   }
