@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285864,
+    "slug": "zo-wordt-de-gazastrook-afgesloten-van-de-buitenwereld",
+    "type": "video",
+    "title": "Zo wordt de Gazastrook afgesloten van de buitenwereld",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-19T06:32:06+02:00",
+    "updated_at": "2023-10-19T06:32:07+02:00",
+    "media_id": "eygxv16a5mhj",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285864/zo-wordt-de-gazastrook-afgesloten-van-de-buitenwereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285929,
     "slug": "spaanse-netflix-serie-elite-stopt-na-het-achtste-seizoen",
     "type": "article",
@@ -162,12 +185,12 @@
   },
   {
     "id": 6285923,
-    "slug": "egypte-opent-grens-voor-humanitaire-hulp-als-weg-hersteld-is-na-bombardementen",
+    "slug": "egypte-opent-grens-voor-hulpgoederen-als-weg-hersteld-is-na-bombardementen",
     "type": "article",
-    "title": "Egypte opent grens voor humanitaire hulp als weg hersteld is na bombardementen",
+    "title": "Egypte opent grens voor hulpgoederen als weg hersteld is na bombardementen",
     "subtitle": null,
     "published_at": "2023-10-19T00:25:37+02:00",
-    "updated_at": "2023-10-19T05:37:50+02:00",
+    "updated_at": "2023-10-19T06:35:42+02:00",
     "media_id": "ifgxd97ahsqi",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285923/egypte-opent-grens-voor-humanitaire-hulp-als-weg-hersteld-is-na-bombardementen.html",
+    "url": "/buitenland/6285923/egypte-opent-grens-voor-hulpgoederen-als-weg-hersteld-is-na-bombardementen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285903/ajax-vrouwen-probleemloos-naar-champions-league-pijnlijke-aftocht-fc-twente.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285908,
-    "slug": "aantal-veebedrijven-met-vermoedelijk-blauwtong-in-oktober-verdubbeld-naar-2250",
-    "type": "article",
-    "title": "Aantal veebedrijven met vermoedelijk blauwtong in oktober verdubbeld naar 2.250",
-    "subtitle": null,
-    "published_at": "2023-10-18T20:36:57+02:00",
-    "updated_at": "2023-10-18T22:23:24+02:00",
-    "media_id": "81exhoqao2c2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285908/aantal-veebedrijven-met-vermoedelijk-blauwtong-in-oktober-verdubbeld-naar-2250.html",
     "open_new_window": false,
     "partner": null
   }
