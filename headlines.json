@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286237,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-21T06:40:28+02:00",
+    "updated_at": "2023-10-21T06:40:29+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6286237/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286162,
+    "slug": "waarom-er-zoveel-kinderen-onder-de-palestijnse-slachtoffers-zijn",
+    "type": "video",
+    "title": "Waarom er zoveel kinderen onder de Palestijnse slachtoffers zijn",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-21T06:32:06+02:00",
+    "updated_at": "2023-10-21T06:32:07+02:00",
+    "media_id": "wxgx4gua79ry",
+    "duration": "1:21",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286162/waarom-er-zoveel-kinderen-onder-de-palestijnse-slachtoffers-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286002,
     "slug": "najaarstrek-in-volle-gang-zo-proberen-windparken-vogels-te-sparen",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6286221/meerdere-doden-in-schotland-doordat-storm-babet-aan-land-komt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286217,
-    "slug": "verstappen-de-snelste-in-enige-training-in-texas-leclerc-tweede",
-    "type": "article",
-    "title": "Verstappen de snelste in enige training in Texas, Leclerc tweede",
-    "subtitle": null,
-    "published_at": "2023-10-20T20:38:24+02:00",
-    "updated_at": "2023-10-20T21:11:19+02:00",
-    "media_id": "7xpx3s0a1ksl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6286217/verstappen-de-snelste-in-enige-training-in-texas-leclerc-tweede.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286218,
-    "slug": "krezip-drummer-bram-van-den-berg-speelt-ook-in-2024-nog-bij-u2",
-    "type": "article",
-    "title": "Krezip-drummer Bram van den Berg speelt ook in 2024 nog bij U2",
-    "subtitle": null,
-    "published_at": "2023-10-20T20:24:16+02:00",
-    "updated_at": "2023-10-20T20:51:46+02:00",
-    "media_id": "0s8x4f5a0tl4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6286218/krezip-drummer-bram-van-den-berg-speelt-ook-in-2024-nog-bij-u2.html",
     "open_new_window": false,
     "partner": null
   }
