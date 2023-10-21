@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286243,
+    "slug": "vs-grensovergang-egypte-gazastrook-zaterdagochtend-open",
+    "type": "article",
+    "title": "VS: grensovergang Egypte-Gazastrook zaterdagochtend open",
+    "subtitle": null,
+    "published_at": "2023-10-21T08:39:59+02:00",
+    "updated_at": "2023-10-21T08:49:31+02:00",
+    "media_id": "m1oxeaiarp2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286243/vs-grensovergang-egypte-gazastrook-zaterdagochtend-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286242,
+    "slug": "bewolkte-en-regenachtige-zaterdagavond",
+    "type": "article",
+    "title": "Bewolkte en regenachtige zaterdagavond",
+    "subtitle": null,
+    "published_at": "2023-10-21T08:37:48+02:00",
+    "updated_at": "2023-10-21T08:43:57+02:00",
+    "media_id": "whexxt3a8squ",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6286242/bewolkte-en-regenachtige-zaterdagavond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286066,
     "slug": "toch-kopieen-van-geroofde-indonesische-stukken-in-omstreden-tentoonstelling",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Verstappen raakt pole kwijt door tracklimits, Leclerc start als eerste in Texas",
     "subtitle": null,
     "published_at": "2023-10-21T00:03:47+02:00",
-    "updated_at": "2023-10-21T07:45:45+02:00",
+    "updated_at": "2023-10-21T08:46:37+02:00",
     "media_id": "ie6x4s7axhoq",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Lens beleeft zwakke generale voor CL-duel met PSV, Dortmund grijpt koppositie",
     "subtitle": null,
     "published_at": "2023-10-20T23:20:28+02:00",
-    "updated_at": "2023-10-21T00:02:48+02:00",
+    "updated_at": "2023-10-21T08:32:50+02:00",
     "media_id": "chax8lsaulgz",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "ADO voltooit fraaie comeback en wint bij FC Emmen, FC Groningen verliest weer",
     "subtitle": null,
     "published_at": "2023-10-20T22:03:25+02:00",
-    "updated_at": "2023-10-20T23:25:44+02:00",
+    "updated_at": "2023-10-21T08:36:35+02:00",
     "media_id": "bc3xx98aanv3",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286220/psv-vrouwen-walst-over-koploper-fc-utrecht-heen-feyenoord-van-de-nul-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286228,
-    "slug": "wolff-zag-mercedes-coureurs-in-zijn-afwezigheid-clashen-maar-nu-ben-ik-terug",
-    "type": "article",
-    "title": "Wolff zag Mercedes-coureurs in zijn afwezigheid clashen: 'Maar nu ben ik terug'",
-    "subtitle": null,
-    "published_at": "2023-10-20T21:41:13+02:00",
-    "updated_at": "2023-10-21T01:02:27+02:00",
-    "media_id": "9xtx3riaqw6y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6286228/wolff-zag-mercedes-coureurs-in-zijn-afwezigheid-clashen-maar-nu-ben-ik-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286223,
-    "slug": "blauwtong-nu-ook-vastgesteld-in-limburg-alleen-zeeland-blijft-gespaard",
-    "type": "article",
-    "title": "Blauwtong nu ook vastgesteld in Limburg, alleen Zeeland blijft gespaard",
-    "subtitle": null,
-    "published_at": "2023-10-20T21:03:43+02:00",
-    "updated_at": "2023-10-20T21:29:26+02:00",
-    "media_id": "81exhoqao2c2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286223/blauwtong-nu-ook-vastgesteld-in-limburg-alleen-zeeland-blijft-gespaard.html",
     "open_new_window": false,
     "partner": null
   }
