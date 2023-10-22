@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286414,
+    "slug": "verstappen-drukt-leclerc-van-de-baan-bij-inhaalactie",
+    "type": "video",
+    "title": "Verstappen drukt Leclerc van de baan bij inhaalactie",
+    "subtitle": "Video",
+    "published_at": "2023-10-22T21:48:31+02:00",
+    "updated_at": "2023-10-22T21:48:32+02:00",
+    "media_id": "e51xr3pa8min",
+    "duration": "1:43",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6286414/verstappen-drukt-leclerc-van-de-baan-bij-inhaalactie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286413,
     "slug": "duizenden-demonstranten-straat-op-in-rotterdam-voor-gazastrook",
     "type": "video",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6286409,
-    "slug": "verstappen-stoomt-op-naar-derde-plaats-in-austin-norris-aan-de-leiding",
+    "slug": "verstappen-jaagt-op-leider-norris-in-spannende-gp-vs",
     "type": "article",
-    "title": "Verstappen stoomt op naar derde plaats in Austin, Norris aan de leiding",
+    "title": "Verstappen jaagt op leider Norris in spannende GP VS",
     "subtitle": "Liveblog",
     "published_at": "2023-10-22T20:14:10+02:00",
-    "updated_at": "2023-10-22T21:22:51+02:00",
-    "media_id": "ducxl2tajpaz",
+    "updated_at": "2023-10-22T21:44:44+02:00",
+    "media_id": "e51xr3pa8min",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6286409/verstappen-stoomt-op-naar-derde-plaats-in-austin-norris-aan-de-leiding.html",
+    "url": "/formule-1/6286409/verstappen-jaagt-op-leider-norris-in-spannende-gp-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286388/bergwijn-begrijpt-frustratie-bij-ajax-fans-ik-sta-hier-weer-met-een-klotegevoel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286386,
-    "slug": "steijn-denkt-ajax-trainer-te-blijven-na-optater-in-utrecht-maar-je-weet-het-nooit",
-    "type": "article",
-    "title": "Steijn denkt Ajax-trainer te blijven na optater in Utrecht: 'Maar je weet het nooit'",
-    "subtitle": null,
-    "published_at": "2023-10-22T15:51:59+02:00",
-    "updated_at": "2023-10-22T21:05:22+02:00",
-    "media_id": "jgoxynoacgqs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286386/steijn-denkt-ajax-trainer-te-blijven-na-optater-in-utrecht-maar-je-weet-het-nooit.html",
     "open_new_window": false,
     "partner": null
   }
