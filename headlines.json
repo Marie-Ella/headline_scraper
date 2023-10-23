@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286450,
+    "slug": "stemming-onder-consumenten-opnieuw-iets-minder-negatief",
+    "type": "article",
+    "title": "Stemming onder consumenten opnieuw iets minder negatief",
+    "subtitle": null,
+    "published_at": "2023-10-23T09:07:22+02:00",
+    "updated_at": "2023-10-23T09:07:23+02:00",
+    "media_id": "1max4rpab7iw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6286450/stemming-onder-consumenten-opnieuw-iets-minder-negatief.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286449,
+    "slug": "braziliaanse-bouwers-bungelen-op-150-meter-hoogte-na-instorting-steiger",
+    "type": "video",
+    "title": "Braziliaanse bouwers bungelen op 150 meter hoogte na instorting steiger",
+    "subtitle": "Video",
+    "published_at": "2023-10-23T08:48:43+02:00",
+    "updated_at": "2023-10-23T08:48:44+02:00",
+    "media_id": "flwxkola15jb",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286449/braziliaanse-bouwers-bungelen-op-150-meter-hoogte-na-instorting-steiger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286447,
     "slug": "philips-ziet-winst-stijgen-ondanks-voortslepende-apneuaffaire",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Danny Blind keert op voorspraak van Louis van Gaal terug in rvc Ajax",
     "subtitle": null,
     "published_at": "2023-10-23T08:35:43+02:00",
-    "updated_at": "2023-10-23T08:48:06+02:00",
+    "updated_at": "2023-10-23T09:15:05+02:00",
     "media_id": "sbgxt4ua7pn0",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Mercedes en Ferrari accepteren diskwalificatie: 'Afstelling was een uitdaging'",
     "subtitle": null,
     "published_at": "2023-10-23T08:11:44+02:00",
-    "updated_at": "2023-10-23T08:36:59+02:00",
+    "updated_at": "2023-10-23T08:59:59+02:00",
     "media_id": "iqtxt8racigg",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Hamilton en Leclerc gediskwalificeerd in VS omdat auto niet door keuring komt",
     "subtitle": null,
     "published_at": "2023-10-23T02:20:40+02:00",
-    "updated_at": "2023-10-23T07:47:36+02:00",
+    "updated_at": "2023-10-23T08:53:00+02:00",
     "media_id": "xasxymfarehp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6286430/vijftigste-zege-verstappen-kwam-niet-vanzelf-hele-race-remproblemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286429,
-    "slug": "hamilton-ondanks-mislopen-zege-optimistisch-na-gp-vs-gaat-de-goede-kant-op",
-    "type": "article",
-    "title": "Hamilton ondanks mislopen zege optimistisch na GP VS: 'Gaat de goede kant op'",
-    "subtitle": null,
-    "published_at": "2023-10-23T00:41:07+02:00",
-    "updated_at": "2023-10-23T07:05:03+02:00",
-    "media_id": "4bpxxjia3snc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6286429/hamilton-ondanks-mislopen-zege-optimistisch-na-gp-vs-gaat-de-goede-kant-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286428,
-    "slug": "amerikaanse-politie-zoekt-motief-voor-moord-op-voorzitter-synagoge-detroit",
-    "type": "article",
-    "title": "Amerikaanse politie zoekt motief voor moord op voorzitter synagoge Detroit",
-    "subtitle": null,
-    "published_at": "2023-10-23T00:40:24+02:00",
-    "updated_at": "2023-10-23T06:57:15+02:00",
-    "media_id": "y2tx6eaay9nw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286428/amerikaanse-politie-zoekt-motief-voor-moord-op-voorzitter-synagoge-detroit.html",
     "open_new_window": false,
     "partner": null
   }
