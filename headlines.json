@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286436,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-23T05:41:07+02:00",
+    "updated_at": "2023-10-23T05:41:08+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6286436/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286435,
+    "slug": "nek-aan-nekrace-tussen-presidentskandidaten-argentinie",
+    "type": "article",
+    "title": "Nek-aan-nekrace tussen presidentskandidaten Argentinië",
+    "subtitle": null,
+    "published_at": "2023-10-23T05:36:50+02:00",
+    "updated_at": "2023-10-23T05:37:03+02:00",
+    "media_id": "mu1xes8azd4r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286435/nek-aan-nekrace-tussen-presidentskandidaten-argentinie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286434,
     "slug": "wekenlang-hinder-door-werkzaamheden-op-treintraject-rotterdam-den-haag",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Dip in huizenprijzen lijkt na acht maanden bijna voorbij",
     "subtitle": null,
     "published_at": "2023-10-23T05:05:10+02:00",
-    "updated_at": "2023-10-23T05:05:11+02:00",
+    "updated_at": "2023-10-23T05:39:10+02:00",
     "media_id": "v18xt4uajek1",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Hamilton en Leclerc om technische redenen gediskwalificeerd na GP Amerika",
     "subtitle": null,
     "published_at": "2023-10-23T02:20:40+02:00",
-    "updated_at": "2023-10-23T03:50:17+02:00",
+    "updated_at": "2023-10-23T05:38:08+02:00",
     "media_id": "xasxymfarehp",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Verstappen boekt vijftigste GP-zege na fraaie strategische strijd in Amerika",
     "subtitle": null,
     "published_at": "2023-10-22T22:39:20+02:00",
-    "updated_at": "2023-10-23T03:49:27+02:00",
+    "updated_at": "2023-10-23T05:39:47+02:00",
     "media_id": "hhzxyimaopyk",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6286418/velzeboer-pakt-goud-op-500-meter-bij-eerste-world-cup-van-shorttrackseizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286417,
-    "slug": "het-oude-jeruzalem-is-uitgestorven-sinds-uitbraak-oorlog",
-    "type": "video",
-    "title": "Het oude Jeruzalem is uitgestorven sinds uitbraak oorlog",
-    "subtitle": "Video",
-    "published_at": "2023-10-22T22:13:08+02:00",
-    "updated_at": "2023-10-22T22:28:11+02:00",
-    "media_id": "guaxysca1ex7",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286417/het-oude-jeruzalem-is-uitgestorven-sinds-uitbraak-oorlog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286416,
-    "slug": "populaire-voetbalanalyticus-jan-boskamp-75-kondigt-afscheid-aan",
-    "type": "article",
-    "title": "Populaire voetbalanalyticus Jan Boskamp (75) kondigt afscheid aan",
-    "subtitle": null,
-    "published_at": "2023-10-22T22:00:29+02:00",
-    "updated_at": "2023-10-22T22:40:51+02:00",
-    "media_id": "8mmxpqoa95sa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286416/populaire-voetbalanalyticus-jan-boskamp-75-kondigt-afscheid-aan.html",
     "open_new_window": false,
     "partner": null
   }
