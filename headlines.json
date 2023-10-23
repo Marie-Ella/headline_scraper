@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286517,
+    "slug": "rijimpressie-mazda-mx-30-r-ev",
+    "type": "video",
+    "title": "Rijimpressie: Mazda MX-30 R-EV",
+    "subtitle": "Video",
+    "published_at": "2023-10-23T15:41:29+02:00",
+    "updated_at": "2023-10-23T15:41:30+02:00",
+    "media_id": "xe9xiasayiq9",
+    "duration": "9:07",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286517/rijimpressie-mazda-mx-30-r-ev.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286514,
     "slug": "rc-lens-kan-flink-gat-slaan-met-psv-willen-weer-boven-onszelf-uitstijgen",
     "type": "article",
     "title": "RC Lens kan flink gat slaan met PSV: 'Willen weer boven onszelf uitstijgen'",
     "subtitle": null,
     "published_at": "2023-10-23T15:31:06+02:00",
-    "updated_at": "2023-10-23T15:31:08+02:00",
+    "updated_at": "2023-10-23T15:44:05+02:00",
     "media_id": "u7uxdxiawyv5",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6286511,
-    "slug": "nederland-met-succesvol-viertal-naar-davis-cup-finals-een-naam-ontbreekt",
+    "slug": "nederland-met-vaste-kern-naar-davis-cup-finals-een-plek-wordt-nog-vergeven",
     "type": "article",
-    "title": "Nederland met succesvol viertal naar Davis Cup Finals, één naam ontbreekt",
+    "title": "Nederland met vaste kern naar Davis Cup Finals, één plek wordt nog vergeven",
     "subtitle": null,
     "published_at": "2023-10-23T15:06:23+02:00",
-    "updated_at": "2023-10-23T15:06:24+02:00",
+    "updated_at": "2023-10-23T15:35:35+02:00",
     "media_id": "jhkxzjva11z6",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6286511/nederland-met-succesvol-viertal-naar-davis-cup-finals-een-naam-ontbreekt.html",
+    "url": "/sport-overig/6286511/nederland-met-vaste-kern-naar-davis-cup-finals-een-plek-wordt-nog-vergeven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6286474/piek-in-asielaanvragen-maar-totaal-zit-nog-op-niveau-van-vorig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286015,
-    "slug": "waar-komen-al-die-slakken-toch-steeds-vandaan-en-hoe-jaag-je-ze-weg",
-    "type": "article",
-    "title": "Waar komen al die slakken toch steeds vandaan (en hoe jaag je ze weg)?",
-    "subtitle": "NU+",
-    "published_at": "2023-10-23T11:49:04+02:00",
-    "updated_at": "2023-10-23T12:12:52+02:00",
-    "media_id": "uurxc4zayux8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6286015/waar-komen-al-die-slakken-toch-steeds-vandaan-en-hoe-jaag-je-ze-weg.html",
     "open_new_window": false,
     "partner": null
   }
