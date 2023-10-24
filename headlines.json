@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286575,
+    "slug": "zon-laat-zich-nauwelijks-zien-op-regenachtige-dag",
+    "type": "article",
+    "title": "Zon laat zich nauwelijks zien op regenachtige dag",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-24T05:40:58+02:00",
+    "updated_at": "2023-10-24T05:41:09+02:00",
+    "media_id": "bzkxe59at6xw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6286575/zon-laat-zich-nauwelijks-zien-op-regenachtige-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286574,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6286513/eva-jinek-wint-sonja-barend-award-voor-interview-met-camille-van-gestel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286552,
-    "slug": "netanyahu-ontvangt-rutte-we-moeten-ons-verenigen-tegen-hamas",
-    "type": "video",
-    "title": "Netanyahu ontvangt Rutte: 'We moeten ons verenigen tegen Hamas'",
-    "subtitle": "Video",
-    "published_at": "2023-10-23T19:41:39+02:00",
-    "updated_at": "2023-10-23T20:13:18+02:00",
-    "media_id": "4ayx4e0a1co6",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286552/netanyahu-ontvangt-rutte-we-moeten-ons-verenigen-tegen-hamas.html",
     "open_new_window": false,
     "partner": null
   }
