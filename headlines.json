@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286879,
+    "slug": "trump-krijgt-10000-dollar-boete-voor-overtreden-spreekverbod",
+    "type": "article",
+    "title": "Trump krijgt 10.000 dollar boete voor overtreden spreekverbod",
+    "subtitle": null,
+    "published_at": "2023-10-25T23:39:39+02:00",
+    "updated_at": "2023-10-25T23:39:40+02:00",
+    "media_id": "06rxjzsa0frh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286879/trump-krijgt-10000-dollar-boete-voor-overtreden-spreekverbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286888,
     "slug": "ogc-nice-speler-zeven-duels-geschorst-na-bericht-over-conflict-israel-hamas",
     "type": "article",
     "title": "OGC Nice-speler zeven duels geschorst na bericht over conflict Israël-Hamas",
     "subtitle": null,
     "published_at": "2023-10-25T23:29:43+02:00",
-    "updated_at": "2023-10-25T23:29:44+02:00",
+    "updated_at": "2023-10-25T23:36:22+02:00",
     "media_id": "dw0xar0acags",
     "duration": null,
     "canonical_section": {
@@ -29,8 +52,8 @@
     "title": "Slot met Feyenoord koploper in CL-groep: 'Dit gebruiken om iets speciaals te doen'",
     "subtitle": null,
     "published_at": "2023-10-25T23:27:33+02:00",
-    "updated_at": "2023-10-25T23:27:34+02:00",
-    "media_id": "e0yxyv6a36bv",
+    "updated_at": "2023-10-25T23:44:25+02:00",
+    "media_id": "81exgxha54ot",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -52,7 +75,7 @@
     "title": "Shell-topman schrapt tweehonderd banen in duurzame energie",
     "subtitle": null,
     "published_at": "2023-10-25T23:26:29+02:00",
-    "updated_at": "2023-10-25T23:29:39+02:00",
+    "updated_at": "2023-10-25T23:46:27+02:00",
     "media_id": "kl3xycsa9sa0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Apple gooit prijs voor streamingdienst Apple TV+ flink omhoog",
     "subtitle": null,
     "published_at": "2023-10-25T22:51:28+02:00",
-    "updated_at": "2023-10-25T22:55:41+02:00",
+    "updated_at": "2023-10-25T23:49:27+02:00",
     "media_id": "h11xqprajhrh",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6286877,
-    "slug": "van-bommel-verliest-weer-met-antwerp-en-evenaart-negatief-champions-league-record",
+    "slug": "van-bommel-verliest-weer-met-antwerp-en-evenaart-negatief-cl-record",
     "type": "article",
-    "title": "Van Bommel verliest weer met Antwerp en evenaart negatief Champions League-record",
+    "title": "Van Bommel verliest weer met Antwerp en evenaart negatief CL-record",
     "subtitle": null,
     "published_at": "2023-10-25T21:04:08+02:00",
-    "updated_at": "2023-10-25T23:28:58+02:00",
+    "updated_at": "2023-10-25T23:34:01+02:00",
     "media_id": "ycsxb0xaa8cr",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6286877/van-bommel-verliest-weer-met-antwerp-en-evenaart-negatief-champions-league-record.html",
+    "url": "/voetbal/6286877/van-bommel-verliest-weer-met-antwerp-en-evenaart-negatief-cl-record.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Ajax-trainer Maduro onder de indruk van Brighton: 'Ik ga andere accenten leggen'",
     "subtitle": null,
     "published_at": "2023-10-25T21:03:09+02:00",
-    "updated_at": "2023-10-25T21:29:32+02:00",
+    "updated_at": "2023-10-25T23:47:39+02:00",
     "media_id": "0p9xet6aklct",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Maduro erkent dat Steijn moeite had met betoog clubpsycholoog Almere over Ajax",
     "subtitle": null,
     "published_at": "2023-10-25T19:40:57+02:00",
-    "updated_at": "2023-10-25T20:12:33+02:00",
+    "updated_at": "2023-10-25T23:48:27+02:00",
     "media_id": "navxl2qarssu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286863/maduro-erkent-dat-steijn-moeite-had-met-betoog-clubpsycholoog-almere-over-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286865,
-    "slug": "benzine-lijkt-op-in-gaza-waarom-dat-een-ramp-is-voor-burgers",
-    "type": "video",
-    "title": "Benzine lijkt op in Gaza: waarom dat een ramp is voor burgers",
-    "subtitle": "Explainer",
-    "published_at": "2023-10-25T19:35:29+02:00",
-    "updated_at": "2023-10-25T20:12:22+02:00",
-    "media_id": "q8jxpmlat13u",
-    "duration": "2:15",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6286865/benzine-lijkt-op-in-gaza-waarom-dat-een-ramp-is-voor-burgers.html",
     "open_new_window": false,
     "partner": null
   }
