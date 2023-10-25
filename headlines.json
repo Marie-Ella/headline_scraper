@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286867,
+    "slug": "voetafdrukken-dinosaurus-ontdekt-op-strand-in-zuid-engeland",
+    "type": "article",
+    "title": "Voetafdrukken dinosaurus ontdekt op strand in Zuid-Engeland",
+    "subtitle": null,
+    "published_at": "2023-10-25T20:25:22+02:00",
+    "updated_at": "2023-10-25T20:25:24+02:00",
+    "media_id": "wk6xz9raapds",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6286867/voetafdrukken-dinosaurus-ontdekt-op-strand-in-zuid-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286863,
     "slug": "maduro-erkent-dat-steijn-moeite-had-met-betoog-clubpsycholoog-almere-over-ajax",
     "type": "article",
@@ -185,13 +208,13 @@
   },
   {
     "id": 6286855,
-    "slug": "feyenoord-ontsnapt-aan-tegengoal-in-cl-duel-met-lazio",
+    "slug": "kuip-ontploft-na-derde-doelpunt-feyenoord-in-cl-duel-met-lazio",
     "type": "article",
-    "title": "Feyenoord ontsnapt aan tegengoal in CL-duel met Lazio",
+    "title": "Kuip ontploft na derde doelpunt Feyenoord in CL-duel met Lazio",
     "subtitle": "Liveblog",
     "published_at": "2023-10-25T17:45:51+02:00",
-    "updated_at": "2023-10-25T20:08:40+02:00",
-    "media_id": "2ncxc81a1pez",
+    "updated_at": "2023-10-25T20:28:25+02:00",
+    "media_id": "3pqxpu9a1g8t",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6286855/feyenoord-ontsnapt-aan-tegengoal-in-cl-duel-met-lazio.html",
+    "url": "/voetbal/6286855/kuip-ontploft-na-derde-doelpunt-feyenoord-in-cl-duel-met-lazio.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6286837/afvalverbrandingsoven-rotterdam-waarschijnlijk-een-jaar-buiten-gebruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286811,
-    "slug": "meeste-nederlanders-zien-heil-in-meer-belasting-op-vervuilend-gedrag",
-    "type": "article",
-    "title": "Meeste Nederlanders zien heil in meer belasting op vervuilend gedrag",
-    "subtitle": null,
-    "published_at": "2023-10-25T16:36:00+02:00",
-    "updated_at": "2023-10-25T17:24:05+02:00",
-    "media_id": "g43xru4avsld",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6286811/meeste-nederlanders-zien-heil-in-meer-belasting-op-vervuilend-gedrag.html",
     "open_new_window": false,
     "partner": null
   }
