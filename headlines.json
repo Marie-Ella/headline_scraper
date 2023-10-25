@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286863,
+    "slug": "maduro-erkent-dat-steijn-moeite-had-met-tirade-clubpsycholoog-almere-city",
+    "type": "article",
+    "title": "Maduro erkent dat Steijn moeite had met tirade clubpsycholoog Almere City",
+    "subtitle": null,
+    "published_at": "2023-10-25T19:40:57+02:00",
+    "updated_at": "2023-10-25T19:47:15+02:00",
+    "media_id": "dagxr8fadspa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286863/maduro-erkent-dat-steijn-moeite-had-met-tirade-clubpsycholoog-almere-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286865,
+    "slug": "benzine-lijkt-op-in-gaza-waarom-dat-een-ramp-is-voor-burgers",
+    "type": "video",
+    "title": "Benzine lijkt op in Gaza, waarom dat een ramp is voor burgers",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-25T19:35:29+02:00",
+    "updated_at": "2023-10-25T19:37:13+02:00",
+    "media_id": "q8jxpmlat13u",
+    "duration": "2:15",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6286865/benzine-lijkt-op-in-gaza-waarom-dat-een-ramp-is-voor-burgers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286862,
     "slug": "om-eist-22-jaar-cel-tegen-zevende-verdachte-vergismoord-beuningen",
     "type": "article",
@@ -139,13 +185,13 @@
   },
   {
     "id": 6286855,
-    "slug": "gimenez-zet-feyenoord-op-voorsprong-in-cl-duel-met-lazio",
+    "slug": "feyenoord-na-sterke-eerste-helft-op-voorsprong-in-cl-duel-met-lazio",
     "type": "article",
-    "title": "Giménez zet Feyenoord op voorsprong in CL-duel met Lazio",
+    "title": "Feyenoord na sterke eerste helft op voorsprong in CL-duel met Lazio",
     "subtitle": "Liveblog",
     "published_at": "2023-10-25T17:45:51+02:00",
-    "updated_at": "2023-10-25T19:23:19+02:00",
-    "media_id": "g7xxg0ha62db",
+    "updated_at": "2023-10-25T19:48:01+02:00",
+    "media_id": "2ncxc81a1pez",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6286855/gimenez-zet-feyenoord-op-voorsprong-in-cl-duel-met-lazio.html",
+    "url": "/voetbal/6286855/feyenoord-na-sterke-eerste-helft-op-voorsprong-in-cl-duel-met-lazio.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6286811/meeste-nederlanders-zien-heil-in-meer-belasting-op-vervuilend-gedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286832,
-    "slug": "pro-russische-robert-fico-geinstalleerd-als-premier-van-slowakije",
-    "type": "article",
-    "title": "Pro-Russische Robert Fico geïnstalleerd als premier van Slowakije",
-    "subtitle": null,
-    "published_at": "2023-10-25T16:33:27+02:00",
-    "updated_at": "2023-10-25T19:01:06+02:00",
-    "media_id": "ogxxu6hay7eb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286832/pro-russische-robert-fico-geinstalleerd-als-premier-van-slowakije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286816,
-    "slug": "bretly-d-verbleef-niet-in-amsterdams-hotel-maar-was-binnen-voor-toiletbezoek",
-    "type": "article",
-    "title": "Bretly D. verbleef niet in Amsterdams hotel maar was binnen voor toiletbezoek",
-    "subtitle": null,
-    "published_at": "2023-10-25T16:00:44+02:00",
-    "updated_at": "2023-10-25T16:06:50+02:00",
-    "media_id": "ihbxqq4a4bhv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286816/bretly-d-verbleef-niet-in-amsterdams-hotel-maar-was-binnen-voor-toiletbezoek.html",
     "open_new_window": false,
     "partner": null
   }
