@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287181,
+    "slug": "el-ghazi-reageert-voor-het-eerst-op-schorsing-door-mainz-sta-juist-voor-vrede",
+    "type": "article",
+    "title": "El Ghazi reageert voor het eerst op schorsing door Mainz: 'Sta juist voor vrede'",
+    "subtitle": null,
+    "published_at": "2023-10-27T18:29:22+02:00",
+    "updated_at": "2023-10-27T18:29:23+02:00",
+    "media_id": "7jlx2ova55hy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287181/el-ghazi-reageert-voor-het-eerst-op-schorsing-door-mainz-sta-juist-voor-vrede.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287172,
+    "slug": "navo-militairen-oefenen-loopgravenoorlog-in-estland",
+    "type": "video",
+    "title": "NAVO-militairen oefenen loopgravenoorlog in Estland",
+    "subtitle": "Video",
+    "published_at": "2023-10-27T18:26:50+02:00",
+    "updated_at": "2023-10-27T18:26:51+02:00",
+    "media_id": "22oxurja0dv5",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287172/navo-militairen-oefenen-loopgravenoorlog-in-estland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287184,
     "slug": "politie-met-man-en-macht-in-actie-om-rotterdamse-criminaliteit-tegen-te-gaan",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6287108,
-    "slug": "ruim-je-paraplu-nog-niet-op-de-regen-blijft-komen",
+    "slug": "houd-je-regenjas-maar-bij-de-hand-buien-blijven-komen",
     "type": "article",
-    "title": "Ruim je paraplu nog niet op: de regen blijft komen",
+    "title": "Houd je regenjas maar bij de hand: buien blijven komen",
     "subtitle": "Weekendweerbericht",
     "published_at": "2023-10-27T18:11:06+02:00",
-    "updated_at": "2023-10-27T18:11:08+02:00",
+    "updated_at": "2023-10-27T18:30:24+02:00",
     "media_id": "ssqxf6hajpw2",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6287108/ruim-je-paraplu-nog-niet-op-de-regen-blijft-komen.html",
+    "url": "/weerbericht/6287108/houd-je-regenjas-maar-bij-de-hand-buien-blijven-komen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6287142/ns-zet-vijf-nieuwe-statiegeldautomaten-neer-op-stations-waar-al-een-staat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287140,
-    "slug": "sensatie-op-wk-korfbal-nederland-speelt-voor-het-eerst-niet-tegen-belgie-in-finale",
-    "type": "article",
-    "title": "Sensatie op WK korfbal: Nederland speelt voor het eerst niet tegen België in finale",
-    "subtitle": null,
-    "published_at": "2023-10-27T15:02:52+02:00",
-    "updated_at": "2023-10-27T16:22:57+02:00",
-    "media_id": "9f0x74la5s8r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6287140/sensatie-op-wk-korfbal-nederland-speelt-voor-het-eerst-niet-tegen-belgie-in-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287131,
-    "slug": "politie-sydney-vindt-lichaam-van-nederlander-24-die-vrouw-zou-hebben-gedood",
-    "type": "article",
-    "title": "Politie Sydney vindt lichaam van Nederlander (24) die vrouw zou hebben gedood",
-    "subtitle": null,
-    "published_at": "2023-10-27T14:39:10+02:00",
-    "updated_at": "2023-10-27T14:39:11+02:00",
-    "media_id": "p5uxn2eat9xu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6287131/politie-sydney-vindt-lichaam-van-nederlander-24-die-vrouw-zou-hebben-gedood.html",
     "open_new_window": false,
     "partner": null
   }
