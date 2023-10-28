@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287276,
+    "slug": "hackersgroep-beweert-gevoelige-data-te-hebben-gestolen-van-vliegtuigbouwer-boeing",
+    "type": "article",
+    "title": "Hackersgroep beweert 'gevoelige data' te hebben gestolen van vliegtuigbouwer Boeing",
+    "subtitle": null,
+    "published_at": "2023-10-28T13:13:43+02:00",
+    "updated_at": "2023-10-28T13:20:31+02:00",
+    "media_id": "rdax9xha7rfc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287276/hackersgroep-beweert-gevoelige-data-te-hebben-gestolen-van-vliegtuigbouwer-boeing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287275,
     "slug": "voertuigen-branden-uit-na-groot-dodelijk-ongeval-in-egypte",
     "type": "video",
@@ -47,24 +70,24 @@
   },
   {
     "id": 6287273,
-    "slug": "google-steekt-miljarden-in-start-up-kunstmatige-intelligentie-anthropic",
+    "slug": "google-steekt-net-als-amazon-miljarden-in-ai-start-up-anthropic",
     "type": "article",
-    "title": "Google steekt miljarden in start-up kunstmatige intelligentie Anthropic",
+    "title": "Google steekt net als Amazon miljarden in AI-start-up Anthropic",
     "subtitle": null,
     "published_at": "2023-10-28T12:54:12+02:00",
-    "updated_at": "2023-10-28T12:54:13+02:00",
+    "updated_at": "2023-10-28T13:26:52+02:00",
     "media_id": "hgsxe5ravsnx",
     "duration": null,
     "canonical_section": {
-      "id": 99,
-      "slug": "economie",
+      "id": 1779219,
+      "slug": "tech-wetenschap",
       "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6287273/google-steekt-miljarden-in-start-up-kunstmatige-intelligentie-anthropic.html",
+    "url": "/tech-wetenschap/6287273/google-steekt-net-als-amazon-miljarden-in-ai-start-up-anthropic.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Doodverklaarde Amerikaan die twee weken vermist was op zee levend gevonden",
     "subtitle": null,
     "published_at": "2023-10-28T12:07:05+02:00",
-    "updated_at": "2023-10-28T12:38:08+02:00",
+    "updated_at": "2023-10-28T13:19:41+02:00",
     "media_id": "1bhx1p7ajxfj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287234/new-yorkers-bezetten-stationshal-voor-staakt-het-vuren-in-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287150,
-    "slug": "ik-vind-het-fijn-dat-de-klok-een-uur-achteruitgaat",
-    "type": "article",
-    "title": "'Ik vind het fijn dat de klok een uur achteruitgaat'",
-    "subtitle": "Stelling",
-    "published_at": "2023-10-28T08:18:18+02:00",
-    "updated_at": "2023-10-28T13:01:27+02:00",
-    "media_id": "vu8xq4iama97",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6287150/ik-vind-het-fijn-dat-de-klok-een-uur-achteruitgaat.html",
     "open_new_window": false,
     "partner": null
   }
