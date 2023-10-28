@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287240,
+    "slug": "bodycam-filmt-hoe-australische-politie-boer-uit-graansilo-redt",
+    "type": "video",
+    "title": "Bodycam filmt hoe Australische politie boer uit graansilo redt",
+    "subtitle": "Video",
+    "published_at": "2023-10-28T10:45:01+02:00",
+    "updated_at": "2023-10-28T10:45:03+02:00",
+    "media_id": "gc0xugoa4dmc",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287240/bodycam-filmt-hoe-australische-politie-boer-uit-graansilo-redt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287239,
     "slug": "israel-voert-nachtelijke-operatie-in-gazastrook-uit-nog-steeds-militairen-in-het-gebied",
     "type": "article",
     "title": "Israël voert nachtelijke operatie in Gazastrook uit, nog steeds militairen in het gebied",
     "subtitle": null,
     "published_at": "2023-10-28T10:24:47+02:00",
-    "updated_at": "2023-10-28T10:24:49+02:00",
+    "updated_at": "2023-10-28T10:44:44+02:00",
     "media_id": "g3zxgubatfem",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Graaiflatie niet bewezen, maar sommige bedrijven hebben wel marges verhoogd",
     "subtitle": null,
     "published_at": "2023-10-28T04:58:37+02:00",
-    "updated_at": "2023-10-28T06:52:08+02:00",
+    "updated_at": "2023-10-28T10:43:15+02:00",
     "media_id": "fj0xckaatnwd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6287225/verdachte-van-massaschietpartij-in-vs-dood-aangetroffen-na-klopjacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287206,
-    "slug": "verrassende-vondst-gezonde-diepzeekoraalriffen-bij-galapagoseilanden",
-    "type": "article",
-    "title": "Verrassende vondst: gezonde diepzeekoraalriffen bij Galapagoseilanden",
-    "subtitle": null,
-    "published_at": "2023-10-28T01:16:37+02:00",
-    "updated_at": "2023-10-28T09:00:04+02:00",
-    "media_id": "tbxxhnvage2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6287206/verrassende-vondst-gezonde-diepzeekoraalriffen-bij-galapagoseilanden.html",
     "open_new_window": false,
     "partner": null
   }
