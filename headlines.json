@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287304,
+    "slug": "schwarzenegger-en-stallone-blikken-terug-op-ruzie-concurrentie-tot-het-uiterste",
+    "type": "article",
+    "title": "Schwarzenegger en Stallone blikken terug op ruzie: 'Concurrentie tot het uiterste'",
+    "subtitle": null,
+    "published_at": "2023-10-28T16:24:49+02:00",
+    "updated_at": "2023-10-28T16:24:51+02:00",
+    "media_id": "m1mxs2ladnhk",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6287304/schwarzenegger-en-stallone-blikken-terug-op-ruzie-concurrentie-tot-het-uiterste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287280,
+    "slug": "spaanse-premier-steunt-toch-omstreden-gratiedeal-voor-catalaanse-separatisten",
+    "type": "article",
+    "title": "Spaanse premier steunt toch omstreden gratiedeal voor Catalaanse separatisten",
+    "subtitle": null,
+    "published_at": "2023-10-28T16:23:52+02:00",
+    "updated_at": "2023-10-28T16:23:53+02:00",
+    "media_id": "pbtxgr2an9qh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287280/spaanse-premier-steunt-toch-omstreden-gratiedeal-voor-catalaanse-separatisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287300,
     "slug": "dai-dai-ntab-kampt-met-rugklachten-en-verlaat-world-cup-kwalificatietoernooi",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6287281,
-    "slug": "real-madrid-start-zonder-modric-aan-el-clasico-in-barcelona",
+    "slug": "barcelona-pakt-vroege-voorsprong-in-el-clasico-na-defensieve-fout-real",
     "type": "article",
-    "title": "Real Madrid start zonder Modric aan El Clásico in Barcelona",
+    "title": "Barcelona pakt vroege voorsprong in El Clásico na defensieve fout Real",
     "subtitle": "Liveblog",
     "published_at": "2023-10-28T15:47:12+02:00",
-    "updated_at": "2023-10-28T16:06:25+02:00",
+    "updated_at": "2023-10-28T16:24:21+02:00",
     "media_id": "kbrxamnagku4",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287281/real-madrid-start-zonder-modric-aan-el-clasico-in-barcelona.html",
+    "url": "/voetbal/6287281/barcelona-pakt-vroege-voorsprong-in-el-clasico-na-defensieve-fout-real.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287275/voertuigen-branden-uit-na-groot-dodelijk-ongeval-in-egypte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287274,
-    "slug": "frenkie-de-jong-is-niet-op-tijd-fit-voor-topper-tussen-fc-barcelona-en-real-madrid",
-    "type": "article",
-    "title": "Frenkie de Jong is niet op tijd fit voor topper tussen FC Barcelona en Real Madrid",
-    "subtitle": null,
-    "published_at": "2023-10-28T13:00:22+02:00",
-    "updated_at": "2023-10-28T13:46:36+02:00",
-    "media_id": "ut9xqj3adx8n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287274/frenkie-de-jong-is-niet-op-tijd-fit-voor-topper-tussen-fc-barcelona-en-real-madrid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287273,
-    "slug": "google-steekt-net-als-amazon-miljarden-in-ai-start-up-anthropic",
-    "type": "article",
-    "title": "Google steekt net als Amazon miljarden in AI-start-up Anthropic",
-    "subtitle": null,
-    "published_at": "2023-10-28T12:54:12+02:00",
-    "updated_at": "2023-10-28T13:26:52+02:00",
-    "media_id": "hgsxe5ravsnx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6287273/google-steekt-net-als-amazon-miljarden-in-ai-start-up-anthropic.html",
     "open_new_window": false,
     "partner": null
   }
