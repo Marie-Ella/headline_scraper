@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287268,
+    "slug": "rutte-vindt-dat-hij-eerder-moest-stoppen-als-premier-ging-ten-koste-van-eigen-vvd",
+    "type": "article",
+    "title": "Rutte vindt dat hij eerder moest stoppen als premier: 'Ging ten koste van eigen VVD'",
+    "subtitle": null,
+    "published_at": "2023-10-28T12:29:04+02:00",
+    "updated_at": "2023-10-28T12:29:09+02:00",
+    "media_id": "44axqdaabi9p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6287268/rutte-vindt-dat-hij-eerder-moest-stoppen-als-premier-ging-ten-koste-van-eigen-vvd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287250,
+    "slug": "hoe-israel-om-de-minuut-gaza-bombardeerde-en-het-gebied-in-duisternis-hulde",
+    "type": "article",
+    "title": "Hoe Israël om de minuut Gaza bombardeerde en het gebied in duisternis hulde",
+    "subtitle": null,
+    "published_at": "2023-10-28T12:19:42+02:00",
+    "updated_at": "2023-10-28T12:19:44+02:00",
+    "media_id": "a9xxwejaobda",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287250/hoe-israel-om-de-minuut-gaza-bombardeerde-en-het-gebied-in-duisternis-hulde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286590,
     "slug": "barca-heeft-met-yamal-weer-een-nieuwe-messi-wordt-een-van-de-besten",
     "type": "article",
@@ -185,12 +231,12 @@
   },
   {
     "id": 6287239,
-    "slug": "israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief",
+    "slug": "israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-aanval",
     "type": "article",
-    "title": "Israëlische militairen blijven in Gaza en trekken zich niet terug na nachtelijk offensief",
+    "title": "Israëlische militairen blijven in Gaza en trekken zich niet terug na aanval",
     "subtitle": null,
     "published_at": "2023-10-28T10:24:47+02:00",
-    "updated_at": "2023-10-28T11:41:28+02:00",
+    "updated_at": "2023-10-28T12:21:29+02:00",
     "media_id": "g3zxgubatfem",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287239/israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief.html",
+    "url": "/buitenland/6287239/israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-aanval.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6287228/mexicanen-plunderen-winkels-in-acapulco-na-storm-otis-totale-chaos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287227,
-    "slug": "eerst-droog-later-buien-en-mogelijk-een-klap-onweer",
-    "type": "article",
-    "title": "Eerst droog, later buien en mogelijk een klap onweer",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-10-28T05:32:01+02:00",
-    "updated_at": "2023-10-28T10:23:58+02:00",
-    "media_id": "0h9xivca6beb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287227/eerst-droog-later-buien-en-mogelijk-een-klap-onweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286930,
-    "slug": "een-jaar-na-overname-door-musk-heet-twitter-x-en-lopen-gebruikers-weg",
-    "type": "article",
-    "title": "Een jaar na overname door Musk heet Twitter X en lopen gebruikers weg",
-    "subtitle": "NU+",
-    "published_at": "2023-10-28T05:07:06+02:00",
-    "updated_at": "2023-10-28T11:30:00+02:00",
-    "media_id": "w34x4v7advvl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6286930/een-jaar-na-overname-door-musk-heet-twitter-x-en-lopen-gebruikers-weg.html",
     "open_new_window": false,
     "partner": null
   }
