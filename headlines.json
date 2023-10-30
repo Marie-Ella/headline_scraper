@@ -1,12 +1,58 @@
 [
   {
+    "id": 6287535,
+    "slug": "beelden-op-scheveningse-boulevard-besmeurd-met-nepbloed",
+    "type": "video",
+    "title": "Beelden op Scheveningse boulevard besmeurd met nepbloed",
+    "subtitle": "Video",
+    "published_at": "2023-10-30T14:44:08+01:00",
+    "updated_at": "2023-10-30T14:45:42+01:00",
+    "media_id": "9pax92zab4jl",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287535/beelden-op-scheveningse-boulevard-besmeurd-met-nepbloed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287528,
+    "slug": "rkc-keeper-vaessen-hervat-groepstraining-met-helm-en-keert-drie-strafschoppen",
+    "type": "article",
+    "title": "RKC-keeper Vaessen hervat groepstraining met helm en keert drie strafschoppen",
+    "subtitle": null,
+    "published_at": "2023-10-30T14:32:00+01:00",
+    "updated_at": "2023-10-30T14:32:02+01:00",
+    "media_id": "kt9x7sgara7t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287528/rkc-keeper-vaessen-hervat-groepstraining-met-helm-en-keert-drie-strafschoppen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287534,
     "slug": "toeschouwer-valt-ferrari-fans-aan-tijdens-gp-mexico",
     "type": "video",
     "title": "Toeschouwer valt Ferrari-fans aan tijdens GP Mexico",
     "subtitle": "Video",
     "published_at": "2023-10-30T14:31:34+01:00",
-    "updated_at": "2023-10-30T14:31:36+01:00",
+    "updated_at": "2023-10-30T14:40:01+01:00",
     "media_id": "gq3xemoaqtlb",
     "duration": "0:30",
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Helga Drost moet reis naar Nepal uitstellen door World Cup-plaatsing in Thialf",
     "subtitle": null,
     "published_at": "2023-10-30T13:39:27+01:00",
-    "updated_at": "2023-10-30T13:39:28+01:00",
+    "updated_at": "2023-10-30T14:44:51+01:00",
     "media_id": "nncxgqtaicyw",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Man krijgt levenslang F1-verbod na gevecht met Ferrari-fans bij GP Mexico",
     "subtitle": null,
     "published_at": "2023-10-30T13:23:04+01:00",
-    "updated_at": "2023-10-30T13:23:05+01:00",
+    "updated_at": "2023-10-30T14:36:21+01:00",
     "media_id": "ig3xirmack5x",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6287510/abercrombie-fitch-aangeklaagd-voor-seksueel-wangedrag-ex-topman.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286984,
-    "slug": "dit-is-waarom-je-minder-energie-hebt-nu-het-kouder-wordt",
-    "type": "article",
-    "title": "Dit is waarom je minder energie hebt nu het kouder wordt",
-    "subtitle": "NU+",
-    "published_at": "2023-10-30T12:07:22+01:00",
-    "updated_at": "2023-10-30T12:07:24+01:00",
-    "media_id": "ioqxkm9alpct",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6286984/dit-is-waarom-je-minder-energie-hebt-nu-het-kouder-wordt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287504,
-    "slug": "israelische-tanks-blokkeren-volgens-ooggetuigen-hoofdweg-in-gaza",
-    "type": "article",
-    "title": "Israëlische tanks blokkeren volgens ooggetuigen hoofdweg in Gaza",
-    "subtitle": null,
-    "published_at": "2023-10-30T12:02:13+01:00",
-    "updated_at": "2023-10-30T13:49:02+01:00",
-    "media_id": "gavxft2arvb7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6287504/israelische-tanks-blokkeren-volgens-ooggetuigen-hoofdweg-in-gaza.html",
     "open_new_window": false,
     "partner": null
   }
