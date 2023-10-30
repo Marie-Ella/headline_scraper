@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287470,
+    "slug": "ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal",
+    "type": "article",
+    "title": "Ziekteverzuim onder zorgpersoneel daalt ook in derde kwartaal",
+    "subtitle": null,
+    "published_at": "2023-10-30T09:36:22+01:00",
+    "updated_at": "2023-10-30T09:36:23+01:00",
+    "media_id": "t0rxrfga580s",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287470/ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287170,
     "slug": "nunl-maakt-onderzoekspodcast-over-tata-steel",
     "type": "article",
     "title": "NU.nl maakt onderzoekspodcast over Tata Steel",
     "subtitle": null,
     "published_at": "2023-10-30T09:03:39+01:00",
-    "updated_at": "2023-10-30T09:03:41+01:00",
+    "updated_at": "2023-10-30T09:48:59+01:00",
     "media_id": "4mgxc9cankez",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6283127/verkiezingsprogrammas-onder-de-loep-de-woningmarkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287453,
-    "slug": "combinatie-verstappen-en-rb19-is-de-beste-ooit",
-    "type": "audio",
-    "title": "'Combinatie Verstappen en RB19 is de beste ooit'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-10-30T03:39:03+01:00",
-    "updated_at": "2023-10-30T06:04:44+01:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6287453/combinatie-verstappen-en-rb19-is-de-beste-ooit.html",
     "open_new_window": false,
     "partner": null
   }
