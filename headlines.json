@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287132,
+    "slug": "snoep-of-je-leven-wordt-halloween-ook-een-nederlandse-feestdag",
+    "type": "article",
+    "title": "Snoep of je leven! Wordt Halloween ook een Nederlandse feestdag?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-31T11:26:49+01:00",
+    "updated_at": "2023-10-31T11:26:50+01:00",
+    "media_id": "p4cxyjzau631",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6287132/snoep-of-je-leven-wordt-halloween-ook-een-nederlandse-feestdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287651,
+    "slug": "israel-meldt-aanvallen-op-tunnelstelsel-gaza-en-dood-belangrijke-hamas-leider",
+    "type": "article",
+    "title": "Israël meldt aanvallen op tunnelstelsel Gaza en dood belangrijke Hamas-leider",
+    "subtitle": null,
+    "published_at": "2023-10-31T11:24:50+01:00",
+    "updated_at": "2023-10-31T11:24:51+01:00",
+    "media_id": "lv6xoaqa3lhr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287651/israel-meldt-aanvallen-op-tunnelstelsel-gaza-en-dood-belangrijke-hamas-leider.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287647,
     "slug": "storm-ciaran-komt-hierheen-maar-we-lijken-de-dans-grotendeels-te-ontspringen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Dwangsom voor KLM vanwege gebruik van vervuilende motoren op Schiphol",
     "subtitle": null,
     "published_at": "2023-10-31T11:04:47+01:00",
-    "updated_at": "2023-10-31T11:04:48+01:00",
+    "updated_at": "2023-10-31T11:22:20+01:00",
     "media_id": "el1xvdkacte3",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6287645,
-    "slug": "rusland-houdt-militairen-aan-wegens-dood-van-gezin-in-oost-oekraine",
+    "slug": "volledig-oekraiens-gezin-vermoord-in-bezet-oekraine-rusland-pakt-militairen-op",
     "type": "article",
-    "title": "Rusland houdt militairen aan wegens dood van gezin in Oost-Oekraïne",
+    "title": "Volledig Oekraïens gezin vermoord in bezet Oekraïne, Rusland pakt militairen op",
     "subtitle": null,
     "published_at": "2023-10-31T10:56:46+01:00",
-    "updated_at": "2023-10-31T11:04:37+01:00",
+    "updated_at": "2023-10-31T11:24:29+01:00",
     "media_id": "er4x7l9a9w3r",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6287645/rusland-houdt-militairen-aan-wegens-dood-van-gezin-in-oost-oekraine.html",
+    "url": "/spanningen-oekraine/6287645/volledig-oekraiens-gezin-vermoord-in-bezet-oekraine-rusland-pakt-militairen-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6287616/zoe-kravitz-en-channing-tatum-gaan-trouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287614,
-    "slug": "familie-van-verdachte-massaschietpartij-maine-trok-al-eerder-bij-politie-aan-de-bel",
-    "type": "article",
-    "title": "Familie van verdachte massaschietpartij Maine trok al eerder bij politie aan de bel",
-    "subtitle": null,
-    "published_at": "2023-10-31T07:09:21+01:00",
-    "updated_at": "2023-10-31T07:22:59+01:00",
-    "media_id": "rjkxt4oaxhou",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6287614/familie-van-verdachte-massaschietpartij-maine-trok-al-eerder-bij-politie-aan-de-bel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287613,
-    "slug": "voor-het-eerst-in-jaren-sprake-van-deflatie-maar-veel-goederen-zijn-toch-duurder",
-    "type": "article",
-    "title": "Voor het eerst in jaren sprake van deflatie, maar veel goederen zijn toch duurder",
-    "subtitle": null,
-    "published_at": "2023-10-31T06:44:24+01:00",
-    "updated_at": "2023-10-31T10:23:11+01:00",
-    "media_id": "0cfxqjcab4ir",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287613/voor-het-eerst-in-jaren-sprake-van-deflatie-maar-veel-goederen-zijn-toch-duurder.html",
     "open_new_window": false,
     "partner": null
   }
