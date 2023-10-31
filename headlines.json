@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287710,
+    "slug": "npo-radio-2-brengt-album-uit-ter-ere-van-25-jarig-jubileum-top-2000",
+    "type": "article",
+    "title": "NPO Radio 2 brengt album uit ter ere van 25-jarig jubileum Top 2000",
+    "subtitle": null,
+    "published_at": "2023-10-31T17:32:27+01:00",
+    "updated_at": "2023-10-31T17:32:29+01:00",
+    "media_id": "9oixhgna78d2",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6287710/npo-radio-2-brengt-album-uit-ter-ere-van-25-jarig-jubileum-top-2000.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287715,
+    "slug": "drie-mannen-aangehouden-vanwege-betrokkenheid-bij-in-totaal-27-explosies",
+    "type": "article",
+    "title": "Drie mannen aangehouden vanwege betrokkenheid bij in totaal 27 explosies",
+    "subtitle": null,
+    "published_at": "2023-10-31T17:28:30+01:00",
+    "updated_at": "2023-10-31T17:28:32+01:00",
+    "media_id": "0ujxw9mai4se",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6287715/drie-mannen-aangehouden-vanwege-betrokkenheid-bij-in-totaal-27-explosies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287718,
     "slug": "familie-gegijzelde-ofir-ik-wil-mijn-kleinzoon-terug",
     "type": "video",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6287707,
-    "slug": "tanks-israel-bereiken-noorden-gaza-stad-explosie-in-nabij-vluchtelingenkamp",
+    "slug": "tanks-israel-bereiken-noorden-gaza-stad-explosie-in-nabijgelegen-vluchtelingenkamp",
     "type": "article",
-    "title": "Tanks Israël bereiken noorden Gaza-Stad, explosie in nabij vluchtelingenkamp",
+    "title": "Tanks Israël bereiken noorden Gaza-Stad, explosie in nabijgelegen vluchtelingenkamp",
     "subtitle": null,
     "published_at": "2023-10-31T17:19:41+01:00",
-    "updated_at": "2023-10-31T17:20:50+01:00",
+    "updated_at": "2023-10-31T17:32:15+01:00",
     "media_id": "bjoxasear9s1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6287707/tanks-israel-bereiken-noorden-gaza-stad-explosie-in-nabij-vluchtelingenkamp.html",
+    "url": "/midden-oostenconflict/6287707/tanks-israel-bereiken-noorden-gaza-stad-explosie-in-nabijgelegen-vluchtelingenkamp.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287678/andy-murray-slaat-racket-kapot-na-nederlaag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287675,
-    "slug": "sza-had-liever-een-hit-gescoord-met-ander-nummer-dan-kill-bill",
-    "type": "article",
-    "title": "SZA had liever een hit gescoord met ander nummer dan Kill Bill",
-    "subtitle": null,
-    "published_at": "2023-10-31T13:13:10+01:00",
-    "updated_at": "2023-10-31T13:13:12+01:00",
-    "media_id": "8lmxkakaskjq",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6287675/sza-had-liever-een-hit-gescoord-met-ander-nummer-dan-kill-bill.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287520,
-    "slug": "weerzien-van-de-donk-met-coach-schotland-moest-kapot-hard-werken",
-    "type": "article",
-    "title": "Weerzien Van de Donk met coach Schotland: 'Moest kapot hard werken'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-31T12:53:29+01:00",
-    "updated_at": "2023-10-31T13:48:15+01:00",
-    "media_id": "1myx10aa7zwb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287520/weerzien-van-de-donk-met-coach-schotland-moest-kapot-hard-werken.html",
     "open_new_window": false,
     "partner": null
   }
