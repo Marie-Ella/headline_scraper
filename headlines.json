@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287702,
+    "slug": "jonas-staal-wint-prestigieuze-kunstprijs-prix-de-rome",
+    "type": "article",
+    "title": "Jonas Staal wint prestigieuze kunstprijs Prix de Rome",
+    "subtitle": null,
+    "published_at": "2023-10-31T18:31:59+01:00",
+    "updated_at": "2023-10-31T18:32:00+01:00",
+    "media_id": "sbrxmkgaz6xe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6287702/jonas-staal-wint-prestigieuze-kunstprijs-prix-de-rome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287729,
+    "slug": "bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten",
+    "type": "video",
+    "title": "Bergkamp over onderzoek naar Arib: ‘Gaat om negeren en uitsluiten’",
+    "subtitle": "Video",
+    "published_at": "2023-10-31T18:30:09+01:00",
+    "updated_at": "2023-10-31T18:30:19+01:00",
+    "media_id": "y5axlenamhxd",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287729/bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287722,
     "slug": "zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Arib zorgde voor 'onveilige werkomgeving', maar was ook 'attent en betrokken'",
     "subtitle": null,
     "published_at": "2023-10-31T17:42:24+01:00",
-    "updated_at": "2023-10-31T18:26:06+01:00",
+    "updated_at": "2023-10-31T18:46:29+01:00",
     "media_id": "if2xxnzaoiqs",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6287698,
-    "slug": "het-koninklijk-huis-moet-inkomstenbelasting-gaan-betalen",
+    "slug": "de-koning-en-koningin-moet-inkomstenbelasting-gaan-betalen",
     "type": "article",
-    "title": "'Het Koninklijk Huis moet inkomstenbelasting gaan betalen'",
+    "title": "'De koning en koningin moet inkomstenbelasting gaan betalen'",
     "subtitle": "Stelling",
     "published_at": "2023-10-31T16:43:48+01:00",
-    "updated_at": "2023-10-31T16:43:49+01:00",
+    "updated_at": "2023-10-31T18:42:25+01:00",
     "media_id": "lfexg2facdib",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6287698/het-koninklijk-huis-moet-inkomstenbelasting-gaan-betalen.html",
+    "url": "/stelling/6287698/de-koning-en-koningin-moet-inkomstenbelasting-gaan-betalen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6287684/geen-straf-voor-agent-die-per-ongeluk-arrestant-doodschoot-in-waalwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287683,
-    "slug": "koers-van-japanse-yen-zakt-naar-het-laagste-niveau-sinds-juli-2008",
-    "type": "article",
-    "title": "Koers van Japanse yen zakt naar het laagste niveau sinds juli 2008",
-    "subtitle": null,
-    "published_at": "2023-10-31T14:31:41+01:00",
-    "updated_at": "2023-10-31T14:31:42+01:00",
-    "media_id": "e4qxrb3ay5ok",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287683/koers-van-japanse-yen-zakt-naar-het-laagste-niveau-sinds-juli-2008.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287682,
-    "slug": "kolkend-water-overspoelt-straten-in-milaan",
-    "type": "video",
-    "title": "Kolkend water overspoelt straten in Milaan",
-    "subtitle": "Video",
-    "published_at": "2023-10-31T14:01:58+01:00",
-    "updated_at": "2023-10-31T14:01:59+01:00",
-    "media_id": "4ycx7siafadb",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6287682/kolkend-water-overspoelt-straten-in-milaan.html",
     "open_new_window": false,
     "partner": null
   }
