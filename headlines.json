@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287768,
+    "slug": "rene-le-blanc-wil-doorbraak-in-duitsland-in-rij-met-jan-smit-en-linda-de-mol",
+    "type": "article",
+    "title": "René Le Blanc wil doorbraak in Duitsland: 'In rij met Jan Smit en Linda de Mol'",
+    "subtitle": null,
+    "published_at": "2023-11-01T07:29:59+01:00",
+    "updated_at": "2023-11-01T07:32:09+01:00",
+    "media_id": "xk5x1mta3wrk",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6287768/rene-le-blanc-wil-doorbraak-in-duitsland-in-rij-met-jan-smit-en-linda-de-mol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287767,
+    "slug": "baanwielrenner-jeffrey-hoogland-breekt-wereldrecord-op-de-kilometer",
+    "type": "video",
+    "title": "Baanwielrenner Jeffrey Hoogland breekt wereldrecord op de kilometer",
+    "subtitle": "Video",
+    "published_at": "2023-11-01T07:28:29+01:00",
+    "updated_at": "2023-11-01T07:31:26+01:00",
+    "media_id": "etjxrrraoadp",
+    "duration": "1:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287767/baanwielrenner-jeffrey-hoogland-breekt-wereldrecord-op-de-kilometer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287766,
     "slug": "alec-baldwin-wil-realityserie-maken-om-tijd-door-te-brengen-met-gezin",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287755/familie-in-hengelo-pakt-uit-met-halloweenversieringen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287751,
-    "slug": "oranje-wint-nipt-van-schotland-en-profiteert-richting-spelen-van-verlies-engeland",
-    "type": "article",
-    "title": "Oranje wint nipt van Schotland en profiteert richting Spelen van verlies Engeland",
-    "subtitle": null,
-    "published_at": "2023-10-31T22:35:56+01:00",
-    "updated_at": "2023-10-31T23:39:58+01:00",
-    "media_id": "ux0xd93aysev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287751/oranje-wint-nipt-van-schotland-en-profiteert-richting-spelen-van-verlies-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287752,
-    "slug": "handelaar-wist-niet-dat-masker-dat-hij-voor-150-euro-kocht-42-miljoen-waard-was",
-    "type": "article",
-    "title": "Handelaar 'wist niet' dat masker dat hij voor 150 euro kocht 4,2 miljoen waard was",
-    "subtitle": null,
-    "published_at": "2023-10-31T22:30:53+01:00",
-    "updated_at": "2023-10-31T23:27:47+01:00",
-    "media_id": "a4jx12raoypr",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6287752/handelaar-wist-niet-dat-masker-dat-hij-voor-150-euro-kocht-42-miljoen-waard-was.html",
     "open_new_window": false,
     "partner": null
   }
