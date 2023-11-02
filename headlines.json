@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287984,
+    "slug": "green-day-staat-op-19-juni-in-gelredome-met-nieuwe-tour",
+    "type": "article",
+    "title": "Green Day staat op 19 juni in GelreDome met nieuwe tour",
+    "subtitle": null,
+    "published_at": "2023-11-02T14:50:55+01:00",
+    "updated_at": "2023-11-02T14:50:56+01:00",
+    "media_id": "9a5xj81aqd7k",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6287984/green-day-staat-op-19-juni-in-gelredome-met-nieuwe-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287988,
+    "slug": "eerste-dode-door-storm-ciaran-in-nederland-boom-valt-op-persoon-in-limburg",
+    "type": "article",
+    "title": "Eerste dode door storm Ciarán in Nederland: boom valt op persoon in Limburg",
+    "subtitle": null,
+    "published_at": "2023-11-02T14:50:40+01:00",
+    "updated_at": "2023-11-02T15:13:47+01:00",
+    "media_id": "exoxe9kapand",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6287988/eerste-dode-door-storm-ciaran-in-nederland-boom-valt-op-persoon-in-limburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287986,
     "slug": "ns-schrapt-plannen-voor-spitsheffing-vanwege-gebrek-aan-draagvlak",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Nog een zorgpremie omhoog: Zorg en Zekerheid vraagt 8 euro meer",
     "subtitle": null,
     "published_at": "2023-11-02T14:18:15+01:00",
-    "updated_at": "2023-11-02T14:20:37+01:00",
+    "updated_at": "2023-11-02T14:52:01+01:00",
     "media_id": "x07xl2ra42he",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Eerste Nederlanders verlaten Gaza via grens met Egypte",
     "subtitle": null,
     "published_at": "2023-11-02T12:49:23+01:00",
-    "updated_at": "2023-11-02T14:41:12+01:00",
+    "updated_at": "2023-11-02T14:51:44+01:00",
     "media_id": "usrxessamlmy",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "De Ligt mist waarschijnlijk duels Oranje door nieuwe knieblessure",
     "subtitle": null,
     "published_at": "2023-11-02T12:00:26+01:00",
-    "updated_at": "2023-11-02T12:37:14+01:00",
+    "updated_at": "2023-11-02T15:00:49+01:00",
     "media_id": "gt3x6v0aed94",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6287955/de-ligt-mist-waarschijnlijk-duels-oranje-door-nieuwe-knieblessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287947,
-    "slug": "politie-had-kozp-volgens-inspectie-meer-moeten-beschermen-tijdens-actie",
-    "type": "article",
-    "title": "Politie had KOZP volgens inspectie meer moeten beschermen tijdens actie",
-    "subtitle": null,
-    "published_at": "2023-11-02T11:52:17+01:00",
-    "updated_at": "2023-11-02T13:44:36+01:00",
-    "media_id": "9g1xi7aap2mh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287947/politie-had-kozp-volgens-inspectie-meer-moeten-beschermen-tijdens-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287950,
-    "slug": "restant-az-nec-wordt-net-als-rkc-ajax-op-6-december-uitgespeeld",
-    "type": "article",
-    "title": "Restant AZ-NEC wordt net als RKC-Ajax op 6 december uitgespeeld",
-    "subtitle": null,
-    "published_at": "2023-11-02T11:32:44+01:00",
-    "updated_at": "2023-11-02T11:55:56+01:00",
-    "media_id": "39mxa50auoq9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287950/restant-az-nec-wordt-net-als-rkc-ajax-op-6-december-uitgespeeld.html",
     "open_new_window": false,
     "partner": null
   }
