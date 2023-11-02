@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287897,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-02T05:43:11+01:00",
+    "updated_at": "2023-11-02T05:43:12+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6287897/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287896,
+    "slug": "storm-ciaran-landt-in-bretagne-nederland-maakt-zich-op-voor-files-en-overlast",
+    "type": "article",
+    "title": "Storm Ciarán landt in Bretagne, Nederland maakt zich op voor files en overlast",
+    "subtitle": null,
+    "published_at": "2023-11-02T05:32:57+01:00",
+    "updated_at": "2023-11-02T05:34:34+01:00",
+    "media_id": "9gxxhynapf6n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6287896/storm-ciaran-landt-in-bretagne-nederland-maakt-zich-op-voor-files-en-overlast.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285794,
     "slug": "meer-verpleeghuizen-en-hoger-loon-dit-willen-de-partijen-met-zorg",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Nieuwe klap voor Ten Hag en Manchester United, Gakpo goud waard bij Liverpool",
     "subtitle": null,
     "published_at": "2023-11-01T22:45:56+01:00",
-    "updated_at": "2023-11-01T23:29:01+01:00",
+    "updated_at": "2023-11-02T05:38:07+01:00",
     "media_id": "q8lxfv2a2hv9",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Bouw eerste waterstofnetwerk begint: Nederland wil 'energiehub' zijn",
     "subtitle": null,
     "published_at": "2023-11-01T20:10:39+01:00",
-    "updated_at": "2023-11-01T20:10:41+01:00",
+    "updated_at": "2023-11-02T05:39:11+01:00",
     "media_id": "tw1xyt8arros",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Voor het eerst mensen Gazastrook uit, maar nog geen Nederlanders",
     "subtitle": "Overzicht",
     "published_at": "2023-11-01T19:36:23+01:00",
-    "updated_at": "2023-11-01T22:30:43+01:00",
+    "updated_at": "2023-11-02T05:37:42+01:00",
     "media_id": "bmaxis0abqyo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6287882/tussenstanden-en-uitslagen-beker-excelsior-wint-na-verlenging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287877,
-    "slug": "charles-en-camilla-aaien-babyneushoorn-tijdens-staatsbezoek-in-kenia",
-    "type": "video",
-    "title": "Charles en Camilla aaien babyneushoorn tijdens staatsbezoek in Kenia",
-    "subtitle": "Video",
-    "published_at": "2023-11-01T18:10:03+01:00",
-    "updated_at": "2023-11-01T18:10:04+01:00",
-    "media_id": "ojbx7weapiol",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6287877/charles-en-camilla-aaien-babyneushoorn-tijdens-staatsbezoek-in-kenia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287873,
-    "slug": "djokovic-wint-moeiteloos-in-parijs-en-treft-griekspoor-in-achtste-finales",
-    "type": "article",
-    "title": "Djokovic wint moeiteloos in Parijs en treft Griekspoor in achtste finales",
-    "subtitle": null,
-    "published_at": "2023-11-01T18:05:52+01:00",
-    "updated_at": "2023-11-01T20:41:29+01:00",
-    "media_id": "3l2xpa9az5el",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6287873/djokovic-wint-moeiteloos-in-parijs-en-treft-griekspoor-in-achtste-finales.html",
     "open_new_window": false,
     "partner": null
   }
