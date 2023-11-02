@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288017,
+    "slug": "de-grens-bij-rafah-is-tijdelijk-open-wie-mag-gaza-verlaten",
+    "type": "video",
+    "title": "De grens bij Rafah is tijdelijk open: wie mag Gaza verlaten?",
+    "subtitle": null,
+    "published_at": "2023-11-02T17:46:24+01:00",
+    "updated_at": "2023-11-02T17:46:25+01:00",
+    "media_id": "tq0x8b7auyg8",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288017/de-grens-bij-rafah-is-tijdelijk-open-wie-mag-gaza-verlaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288012,
+    "slug": "verstappen-denkt-dat-perez-tweede-blijft-in-wk-stand-onze-auto-is-het-snelst",
+    "type": "article",
+    "title": "Verstappen denkt dat Pérez tweede blijft in WK-stand: 'Onze auto is het snelst'",
+    "subtitle": null,
+    "published_at": "2023-11-02T17:30:24+01:00",
+    "updated_at": "2023-11-02T17:40:13+01:00",
+    "media_id": "to6xvrpa7lxf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288012/verstappen-denkt-dat-perez-tweede-blijft-in-wk-stand-onze-auto-is-het-snelst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288007,
     "slug": "autofabriek-vdl-nedcar-schrapt-na-eerdere-ontslagronde-nog-tweeduizend-banen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "'Nieuw' nummer van The Beatles met AI afgerond, maar de zang is echt",
     "subtitle": "NU+",
     "published_at": "2023-11-02T17:00:34+01:00",
-    "updated_at": "2023-11-02T17:14:21+01:00",
+    "updated_at": "2023-11-02T17:35:57+01:00",
     "media_id": "xy2xdzva5w1l",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287980/schade-gewonden-en-files-storm-ciaran-richt-ravage-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287977,
-    "slug": "nog-een-zorgpremie-omhoog-zorg-en-zekerheid-vraagt-8-euro-meer",
-    "type": "article",
-    "title": "Nog een zorgpremie omhoog: Zorg en Zekerheid vraagt 8 euro meer",
-    "subtitle": null,
-    "published_at": "2023-11-02T14:18:15+01:00",
-    "updated_at": "2023-11-02T14:52:01+01:00",
-    "media_id": "x07xl2ra42he",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287977/nog-een-zorgpremie-omhoog-zorg-en-zekerheid-vraagt-8-euro-meer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287970,
-    "slug": "maatschappij-die-opriep-klm-te-weren-in-vs-verliest-landingsrechten-op-schiphol",
-    "type": "article",
-    "title": "Maatschappij die opriep KLM te weren in VS verliest landingsrechten op Schiphol",
-    "subtitle": null,
-    "published_at": "2023-11-02T14:06:43+01:00",
-    "updated_at": "2023-11-02T14:32:30+01:00",
-    "media_id": "l48x8ryaae20",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287970/maatschappij-die-opriep-klm-te-weren-in-vs-verliest-landingsrechten-op-schiphol.html",
     "open_new_window": false,
     "partner": null
   }
