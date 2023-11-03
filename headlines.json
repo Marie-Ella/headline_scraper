@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288203,
+    "slug": "israel-verspreidt-beelden-van-militairen-die-gaza-stad-omsingelen",
+    "type": "video",
+    "title": "Israël verspreidt beelden van militairen die Gaza-Stad omsingelen",
+    "subtitle": "Video",
+    "published_at": "2023-11-03T20:39:36+01:00",
+    "updated_at": "2023-11-03T20:39:38+01:00",
+    "media_id": "bmjxccmamhyi",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6288203/israel-verspreidt-beelden-van-militairen-die-gaza-stad-omsingelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288202,
     "slug": "verstappen-pakt-vlak-voor-losbarsten-noodweer-pole-in-sao-paulo",
     "type": "article",
     "title": "Verstappen pakt vlak voor losbarsten noodweer pole in São Paulo",
     "subtitle": null,
     "published_at": "2023-11-03T20:15:12+01:00",
-    "updated_at": "2023-11-03T20:29:55+01:00",
+    "updated_at": "2023-11-03T20:31:36+01:00",
     "media_id": "ai7xtnva9crv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6288168/verstappen-met-harde-banden-naar-zestiende-tijd-in-enige-training-gp-sao-paulo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288160,
-    "slug": "bevriezen-van-rente-op-studieschuld-is-volgens-minister-niet-mogelijk",
-    "type": "article",
-    "title": "Bevriezen van rente op studieschuld is volgens minister niet mogelijk",
-    "subtitle": null,
-    "published_at": "2023-11-03T16:20:40+01:00",
-    "updated_at": "2023-11-03T17:00:20+01:00",
-    "media_id": "rfhxumoaccc0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288160/bevriezen-van-rente-op-studieschuld-is-volgens-minister-niet-mogelijk.html",
     "open_new_window": false,
     "partner": null
   }
