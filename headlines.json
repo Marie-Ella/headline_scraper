@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288082,
+    "slug": "dief-met-vlugge-vingers-steelt-telefoon-in-engeland",
+    "type": "video",
+    "title": "Dief met vlugge vingers steelt telefoon in Engeland",
+    "subtitle": "Video",
+    "published_at": "2023-11-03T09:40:28+01:00",
+    "updated_at": "2023-11-03T09:40:29+01:00",
+    "media_id": "gm0xu7ga38aq",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288082/dief-met-vlugge-vingers-steelt-telefoon-in-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288073,
+    "slug": "presentatrice-pernille-la-lau-gaat-zondagochtendshow-op-rtl-4-presenteren",
+    "type": "article",
+    "title": "Presentatrice Pernille La Lau gaat zondagochtendshow op RTL 4 presenteren",
+    "subtitle": null,
+    "published_at": "2023-11-03T09:36:17+01:00",
+    "updated_at": "2023-11-03T09:36:19+01:00",
+    "media_id": "vj3xnzpa9984",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6288073/presentatrice-pernille-la-lau-gaat-zondagochtendshow-op-rtl-4-presenteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288070,
     "slug": "vrachtvervoerder-maersk-schrapt-tienduizend-banen-door-dalende-prijzen",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6288071,
-    "slug": "overleden-actrice-wimie-wilhelm-te-zien-in-nieuwe-netflixserie-ferry-de-serie",
+    "slug": "overleden-actrice-wimie-wilhelm-in-nieuwe-netflix-productie-ferry-de-serie",
     "type": "article",
-    "title": "Overleden actrice Wimie Wilhelm te zien in nieuwe Netflixserie 'Ferry: De Serie'",
+    "title": "Overleden actrice Wimie Wilhelm in nieuwe Netflix-productie Ferry: de serie",
     "subtitle": null,
     "published_at": "2023-11-03T09:23:34+01:00",
-    "updated_at": "2023-11-03T09:23:35+01:00",
+    "updated_at": "2023-11-03T09:35:35+01:00",
     "media_id": "ftcxel3a6jzm",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6288071/overleden-actrice-wimie-wilhelm-te-zien-in-nieuwe-netflixserie-ferry-de-serie.html",
+    "url": "/media/6288071/overleden-actrice-wimie-wilhelm-in-nieuwe-netflix-productie-ferry-de-serie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6288023/dit-enorme-vluchtelingenkamp-in-gaza-heeft-alles-om-een-stad-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288053,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-11-03T06:20:11+01:00",
-    "updated_at": "2023-11-03T06:20:13+01:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6288053/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288052,
-    "slug": "regenjas-is-geen-overbodige-luxe-maar-misschien-komt-er-nog-zon",
-    "type": "article",
-    "title": "Regenjas is geen overbodige luxe, maar misschien komt er nog zon",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-11-03T06:19:36+01:00",
-    "updated_at": "2023-11-03T07:14:35+01:00",
-    "media_id": "tzbxm6oa9zx1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6288052/regenjas-is-geen-overbodige-luxe-maar-misschien-komt-er-nog-zon.html",
     "open_new_window": false,
     "partner": null
   }
