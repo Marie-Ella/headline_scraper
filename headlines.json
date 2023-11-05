@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288431,
+    "slug": "samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start",
+    "type": "video",
+    "title": "Samenvatting: Verstappen wint GP São Paulo na hectische start",
+    "subtitle": "Video",
+    "published_at": "2023-11-05T21:49:23+01:00",
+    "updated_at": "2023-11-05T21:49:25+01:00",
+    "media_id": "u36x5njat1o6",
+    "duration": "1:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288431/samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288430,
+    "slug": "verstappen-zag-norris-opeens-dichtbij-komen-maar-had-toch-zijn-marge-in-brazilie",
+    "type": "article",
+    "title": "Verstappen zag Norris 'opeens' dichtbij komen, maar had toch zijn marge in Brazilië",
+    "subtitle": null,
+    "published_at": "2023-11-05T21:47:20+01:00",
+    "updated_at": "2023-11-05T21:47:39+01:00",
+    "media_id": "d1txrrfal2v6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288430/verstappen-zag-norris-opeens-dichtbij-komen-maar-had-toch-zijn-marge-in-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288429,
     "slug": "alonso-had-niet-meer-op-podiumplek-gerekend-maar-ik-kreeg-toch-nog-een-kans",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Verstappen wint ook in Brazilië en verbetert record uit 1952",
     "subtitle": null,
     "published_at": "2023-11-05T20:02:12+01:00",
-    "updated_at": "2023-11-05T21:29:25+01:00",
+    "updated_at": "2023-11-05T21:48:16+01:00",
     "media_id": "o77xoxxaj2hn",
     "duration": null,
     "canonical_section": {
@@ -305,8 +351,8 @@
     "title": "Almere City klimt naar linkerrijtje dankzij verrassende overwinning bij Sparta",
     "subtitle": null,
     "published_at": "2023-11-05T18:37:01+01:00",
-    "updated_at": "2023-11-05T18:55:26+01:00",
-    "media_id": "5dcxnt2aof1l",
+    "updated_at": "2023-11-05T21:42:51+01:00",
+    "media_id": "w4kxilwa9rtl",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288401/nageeye-net-buiten-podium-marathon-van-new-york-tola-loopt-solo-naar-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288402,
-    "slug": "reacties-na-fraaie-zege-verstappen-in-sao-paulo",
-    "type": "article",
-    "title": "Reacties na fraaie zege Verstappen in São Paulo",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-05T17:31:37+01:00",
-    "updated_at": "2023-11-05T20:57:04+01:00",
-    "media_id": "9uixbwjaln5t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288402/reacties-na-fraaie-zege-verstappen-in-sao-paulo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288000,
-    "slug": "slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen",
-    "type": "article",
-    "title": "Slim recyclen: hier kun je terecht met restjes verf en lege batterijen",
-    "subtitle": "NU+",
-    "published_at": "2023-11-05T17:21:40+01:00",
-    "updated_at": "2023-11-05T17:21:42+01:00",
-    "media_id": "w1dx4ofay4mf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6288000/slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen.html",
     "open_new_window": false,
     "partner": null
   }
