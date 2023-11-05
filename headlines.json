@@ -1,13 +1,59 @@
 [
   {
+    "id": 6288155,
+    "slug": "tbs-klinieken-bomvol-veroordeelden-langer-vast-in-afwachting-van-een-plek",
+    "type": "article",
+    "title": "Tbs-klinieken bomvol: veroordeelden langer vast in afwachting van een plek",
+    "subtitle": null,
+    "published_at": "2023-11-05T12:04:25+01:00",
+    "updated_at": "2023-11-05T12:04:54+01:00",
+    "media_id": "1srxc76a4wce",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288155/tbs-klinieken-bomvol-veroordeelden-langer-vast-in-afwachting-van-een-plek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288357,
+    "slug": "dit-mag-je-van-ons-verwachten-in-aanloop-naar-de-verkiezingen",
+    "type": "article",
+    "title": "Dit mag je van ons verwachten in aanloop naar de verkiezingen",
+    "subtitle": "Hoofdredactie",
+    "published_at": "2023-11-05T12:00:42+01:00",
+    "updated_at": "2023-11-05T12:08:58+01:00",
+    "media_id": "ykbxlima08is",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6288357/dit-mag-je-van-ons-verwachten-in-aanloop-naar-de-verkiezingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288369,
     "slug": "twente-stijgt-bij-winst-in-utrecht-naar-tweede-plek-op-ranglijst",
     "type": "article",
     "title": "Twente stijgt bij winst in Utrecht naar tweede plek op ranglijst",
     "subtitle": "Liveblog",
     "published_at": "2023-11-05T11:40:24+01:00",
-    "updated_at": "2023-11-05T11:40:25+01:00",
-    "media_id": "mzlxmwrai97v",
+    "updated_at": "2023-11-05T12:11:11+01:00",
+    "media_id": "m2pxf2paip5c",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -52,7 +98,7 @@
     "title": "Code geel vanwege zware wind in westelijke provincies",
     "subtitle": null,
     "published_at": "2023-11-05T11:04:32+01:00",
-    "updated_at": "2023-11-05T11:44:24+01:00",
+    "updated_at": "2023-11-05T12:03:04+01:00",
     "media_id": "b5wxm62apbw6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6288347/deze-zondag-heeft-van-alles-wat-dus-ga-voorbereid-op-pad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288346,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-11-05T05:30:01+01:00",
-    "updated_at": "2023-11-05T05:30:03+01:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6288346/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288345,
-    "slug": "abseiler-valt-van-hoge-heerlense-flat-en-overlijdt-aan-verwondingen",
-    "type": "article",
-    "title": "Abseiler valt van hoge Heerlense flat en overlijdt aan verwondingen",
-    "subtitle": null,
-    "published_at": "2023-11-05T05:29:04+01:00",
-    "updated_at": "2023-11-05T09:56:13+01:00",
-    "media_id": "cdwxivjazfxf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6288345/abseiler-valt-van-hoge-heerlense-flat-en-overlijdt-aan-verwondingen.html",
     "open_new_window": false,
     "partner": null
   }
