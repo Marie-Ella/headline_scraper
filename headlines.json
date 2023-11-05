@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288416,
+    "slug": "beer-plundert-tafel-vol-halloween-snoep-in-florida",
+    "type": "video",
+    "title": "Beer plundert tafel vol Halloween-snoep in Florida",
+    "subtitle": "Video",
+    "published_at": "2023-11-05T19:47:21+01:00",
+    "updated_at": "2023-11-05T19:47:21+01:00",
+    "media_id": "ag2x85pag87m",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288416/beer-plundert-tafel-vol-halloween-snoep-in-florida.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288411,
     "slug": "opnieuw-vluchtelingenkampen-gaza-gebombardeerd-en-netwerk-afgesloten",
     "type": "article",
     "title": "Opnieuw vluchtelingenkampen Gaza gebombardeerd en netwerk afgesloten",
     "subtitle": "Overzicht",
     "published_at": "2023-11-05T19:07:43+01:00",
-    "updated_at": "2023-11-05T19:07:44+01:00",
+    "updated_at": "2023-11-05T19:48:33+01:00",
     "media_id": "1vmx6d1a0glg",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Ajax wint ook tweede duel onder Van 't Schip met glansrol voor invaller Akpom",
     "subtitle": null,
     "published_at": "2023-11-05T18:44:26+01:00",
-    "updated_at": "2023-11-05T19:26:06+01:00",
+    "updated_at": "2023-11-05T19:32:36+01:00",
     "media_id": "il4xcgsazjoo",
     "duration": null,
     "canonical_section": {
@@ -208,13 +231,13 @@
   },
   {
     "id": 6288402,
-    "slug": "verstappen-comfortabel-aan-de-leiding-in-sao-paulo",
+    "slug": "verstappen-heeft-leiding-terug-en-lijkt-op-weg-naar-zege",
     "type": "article",
-    "title": "Verstappen comfortabel aan de leiding in São Paulo",
+    "title": "Verstappen heeft leiding terug en lijkt op weg naar zege",
     "subtitle": "Liveblog",
     "published_at": "2023-11-05T17:31:37+01:00",
-    "updated_at": "2023-11-05T19:19:51+01:00",
-    "media_id": "3oexbjta3mzc",
+    "updated_at": "2023-11-05T19:45:59+01:00",
+    "media_id": "41exc90axtgq",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6288402/verstappen-comfortabel-aan-de-leiding-in-sao-paulo.html",
+    "url": "/formule-1/6288402/verstappen-heeft-leiding-terug-en-lijkt-op-weg-naar-zege.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288370/van-t-schip-kiest-na-geslaagd-ajax-debuut-ook-tegen-heerenveen-voor-martha.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288391,
-    "slug": "britse-regering-wil-gebruik-van-tenten-door-daklozen-aan-banden-leggen",
-    "type": "article",
-    "title": "Britse regering wil gebruik van tenten door daklozen aan banden leggen",
-    "subtitle": null,
-    "published_at": "2023-11-05T15:33:52+01:00",
-    "updated_at": "2023-11-05T15:43:30+01:00",
-    "media_id": "tp8xkh4ajb4w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6288391/britse-regering-wil-gebruik-van-tenten-door-daklozen-aan-banden-leggen.html",
     "open_new_window": false,
     "partner": null
   }
