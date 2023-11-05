@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288369,
+    "slug": "twente-stijgt-bij-winst-in-utrecht-naar-tweede-plek-op-ranglijst",
+    "type": "article",
+    "title": "Twente stijgt bij winst in Utrecht naar tweede plek op ranglijst",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-05T11:40:24+01:00",
+    "updated_at": "2023-11-05T11:40:25+01:00",
+    "media_id": "mzlxmwrai97v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288369/twente-stijgt-bij-winst-in-utrecht-naar-tweede-plek-op-ranglijst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288368,
     "slug": "hulpdiensten-rukken-massaal-uit-voor-gijzeling-op-vliegveld-hamburg",
     "type": "video",
@@ -29,8 +52,8 @@
     "title": "Code geel vanwege zware wind in westelijke provincies",
     "subtitle": null,
     "published_at": "2023-11-05T11:04:32+01:00",
-    "updated_at": "2023-11-05T11:22:03+01:00",
-    "media_id": "7hxxe5ya6py8",
+    "updated_at": "2023-11-05T11:44:24+01:00",
+    "media_id": "b5wxm62apbw6",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -70,12 +93,12 @@
   },
   {
     "id": 6288365,
-    "slug": "abseiler-in-heerlen-waarschijnlijk-door-ongeluk-om-het-leven-gekomen",
+    "slug": "bij-abseilen-omgekomen-man-in-heerlen-wilde-van-eigen-flatgebouw-afdalen",
     "type": "article",
-    "title": "Abseiler in Heerlen waarschijnlijk door ongeluk om het leven gekomen",
+    "title": "Bij abseilen omgekomen man in Heerlen wilde van eigen flatgebouw afdalen",
     "subtitle": null,
     "published_at": "2023-11-05T10:52:08+01:00",
-    "updated_at": "2023-11-05T11:09:30+01:00",
+    "updated_at": "2023-11-05T11:40:35+01:00",
     "media_id": "3b6xinbalo1o",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288365/abseiler-in-heerlen-waarschijnlijk-door-ongeluk-om-het-leven-gekomen.html",
+    "url": "/binnenland/6288365/bij-abseilen-omgekomen-man-in-heerlen-wilde-van-eigen-flatgebouw-afdalen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Fietser (16) overleden na aanrijding met taxi in Hellendoorn",
     "subtitle": null,
     "published_at": "2023-11-05T08:35:02+01:00",
-    "updated_at": "2023-11-05T10:47:10+01:00",
+    "updated_at": "2023-11-05T11:41:11+01:00",
     "media_id": "xp8xutxa0ity",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288345/abseiler-valt-van-hoge-heerlense-flat-en-overlijdt-aan-verwondingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288344,
-    "slug": "gijzeling-om-voogdijgeschil-nog-steeds-gaande-op-hamburgs-vliegveld",
-    "type": "article",
-    "title": "Gijzeling om voogdijgeschil nog steeds gaande op Hamburgs vliegveld",
-    "subtitle": null,
-    "published_at": "2023-11-05T05:22:21+01:00",
-    "updated_at": "2023-11-05T11:06:34+01:00",
-    "media_id": "wbtxaz0aukzr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6288344/gijzeling-om-voogdijgeschil-nog-steeds-gaande-op-hamburgs-vliegveld.html",
     "open_new_window": false,
     "partner": null
   }
