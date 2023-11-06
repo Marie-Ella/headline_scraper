@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288442,
+    "slug": "is-alonso-op-het-podium-een-incident-niet-alle-updates-werkten",
+    "type": "video",
+    "title": "Is Alonso op het podium een incident? 'Niet alle updates werkten'",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-06T03:23:50+01:00",
+    "updated_at": "2023-11-06T03:23:51+01:00",
+    "media_id": "o3fx95eapj9w",
+    "duration": "2:04",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288442/is-alonso-op-het-podium-een-incident-niet-alle-updates-werkten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288441,
-    "slug": "verstappen-laat-red-bull-beter-lijken-dan-het-is",
+    "slug": "verstappen-laat-red-bull-nog-beter-lijken-dan-het-is",
     "type": "audio",
-    "title": "'Verstappen laat Red Bull beter lijken dan het is'",
+    "title": "'Verstappen laat Red Bull nog beter lijken dan het is'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-11-06T01:43:36+01:00",
-    "updated_at": "2023-11-06T01:55:43+01:00",
+    "updated_at": "2023-11-06T03:08:56+01:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/de-boordradio/6288441/verstappen-laat-red-bull-beter-lijken-dan-het-is.html",
+    "url": "/de-boordradio/6288441/verstappen-laat-red-bull-nog-beter-lijken-dan-het-is.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Alonso had niet meer op podiumplek gerekend: 'Maar ik kreeg toch nog een kans'",
     "subtitle": null,
     "published_at": "2023-11-05T21:29:17+01:00",
-    "updated_at": "2023-11-05T22:02:46+01:00",
+    "updated_at": "2023-11-06T03:24:11+01:00",
     "media_id": "0p8xw2da4t01",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288418/luis-diaz-redt-punt-voor-liverpool-na-emotionele-week-door-ontvoering-ouders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288416,
-    "slug": "beer-plundert-tafel-vol-halloween-snoep-in-florida",
-    "type": "video",
-    "title": "Beer plundert tafel vol Halloween-snoep in Florida",
-    "subtitle": "Video",
-    "published_at": "2023-11-05T19:47:21+01:00",
-    "updated_at": "2023-11-05T19:57:57+01:00",
-    "media_id": "ag2x85pag87m",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288416/beer-plundert-tafel-vol-halloween-snoep-in-florida.html",
     "open_new_window": false,
     "partner": null
   }
