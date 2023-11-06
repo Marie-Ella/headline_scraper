@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288444,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-06T05:48:28+01:00",
+    "updated_at": "2023-11-06T05:48:30+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6288444/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288443,
+    "slug": "afwisselend-weer-maar-minstens-een-bui-kun-je-wel-verwachten",
+    "type": "article",
+    "title": "Afwisselend weer, maar minstens één bui kun je wel verwachten",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-06T05:45:26+01:00",
+    "updated_at": "2023-11-06T05:45:27+01:00",
+    "media_id": "5eix7fhanop9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6288443/afwisselend-weer-maar-minstens-een-bui-kun-je-wel-verwachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288191,
     "slug": "turkije-blijkt-goede-klant-van-nederland-sinds-export-aan-rusland-verboden-is",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6288430/verstappen-zag-norris-opeens-dichtbij-komen-maar-had-toch-zijn-marge-in-brazilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288429,
-    "slug": "alonso-had-niet-meer-op-podiumplek-gerekend-maar-ik-kreeg-toch-nog-een-kans",
-    "type": "article",
-    "title": "Alonso had niet meer op podiumplek gerekend: 'Maar ik kreeg toch nog een kans'",
-    "subtitle": null,
-    "published_at": "2023-11-05T21:29:17+01:00",
-    "updated_at": "2023-11-06T03:24:11+01:00",
-    "media_id": "0p8xw2da4t01",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288429/alonso-had-niet-meer-op-podiumplek-gerekend-maar-ik-kreeg-toch-nog-een-kans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288428,
-    "slug": "noorderlicht-is-goed-te-zien-op-verschillende-plekken-in-nederland",
-    "type": "article",
-    "title": "Noorderlicht is goed te zien op verschillende plekken in Nederland",
-    "subtitle": "In beeld",
-    "published_at": "2023-11-05T21:20:00+01:00",
-    "updated_at": "2023-11-05T22:10:53+01:00",
-    "media_id": "u57xd7tabw2p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6288428/noorderlicht-is-goed-te-zien-op-verschillende-plekken-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
