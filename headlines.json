@@ -1,12 +1,35 @@
 [
   {
-    "id": 6288742,
-    "slug": "politie-zoekt-kale-man-in-zaak-doodgestoken-vrachtwagenchauffeur",
+    "id": 6288660,
+    "slug": "barbra-streisand-vertelt-in-memoires-over-haar-neus-en-afstandelijke-moeder",
     "type": "article",
-    "title": "Politie zoekt kale man in zaak doodgestoken vrachtwagenchauffeur",
+    "title": "Barbra Streisand vertelt in memoires over haar neus en afstandelijke moeder",
+    "subtitle": "NU+",
+    "published_at": "2023-11-07T22:03:08+01:00",
+    "updated_at": "2023-11-07T22:03:31+01:00",
+    "media_id": "30rxetwa8gs9",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6288660/barbra-streisand-vertelt-in-memoires-over-haar-neus-en-afstandelijke-moeder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288742,
+    "slug": "politie-zoekt-kale-man-in-zaak-doodgestoken-vrachtwagenchauffeur-in-hazeldonk",
+    "type": "article",
+    "title": "Politie zoekt kale man in zaak doodgestoken vrachtwagenchauffeur in Hazeldonk",
     "subtitle": null,
     "published_at": "2023-11-07T21:41:33+01:00",
-    "updated_at": "2023-11-07T21:41:35+01:00",
+    "updated_at": "2023-11-07T21:56:27+01:00",
     "media_id": "ohcx3jbaocf9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288742/politie-zoekt-kale-man-in-zaak-doodgestoken-vrachtwagenchauffeur.html",
+    "url": "/binnenland/6288742/politie-zoekt-kale-man-in-zaak-doodgestoken-vrachtwagenchauffeur-in-hazeldonk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +438,12 @@
   },
   {
     "id": 6288717,
-    "slug": "immobile-bezorgt-feyenoord-vlak-voor-rust-enorme-dreun-in-rome",
+    "slug": "feyenoord-jaagt-na-rust-op-gelijkmaker-in-rome",
     "type": "article",
-    "title": "Immobile bezorgt Feyenoord vlak voor rust enorme dreun in Rome",
+    "title": "Feyenoord jaagt na rust op gelijkmaker in Rome",
     "subtitle": "Liveblog",
     "published_at": "2023-11-07T18:10:55+01:00",
-    "updated_at": "2023-11-07T21:47:27+01:00",
+    "updated_at": "2023-11-07T22:05:57+01:00",
     "media_id": "021xbxva31xw",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288717/immobile-bezorgt-feyenoord-vlak-voor-rust-enorme-dreun-in-rome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288711,
-    "slug": "man-die-oppas-hond-liet-misbruiken-wordt-zelf-ook-verdacht-van-kindermisbruik",
-    "type": "article",
-    "title": "Man die oppas hond liet misbruiken wordt zelf ook verdacht van kindermisbruik",
-    "subtitle": null,
-    "published_at": "2023-11-07T17:31:57+01:00",
-    "updated_at": "2023-11-07T17:31:58+01:00",
-    "media_id": "meoxdi6aeo18",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6288711/man-die-oppas-hond-liet-misbruiken-wordt-zelf-ook-verdacht-van-kindermisbruik.html",
+    "url": "/voetbal/6288717/feyenoord-jaagt-na-rust-op-gelijkmaker-in-rome.html",
     "open_new_window": false,
     "partner": null
   }
