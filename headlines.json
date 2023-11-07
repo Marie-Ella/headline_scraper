@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288743,
+    "slug": "immobile-zet-feyenoord-vlak-voor-rust-op-achterstand",
+    "type": "video",
+    "title": "Immobile zet Feyenoord vlak voor rust op achterstand",
+    "subtitle": "Video",
+    "published_at": "2023-11-07T22:12:14+01:00",
+    "updated_at": "2023-11-07T22:12:36+01:00",
+    "media_id": "kodxoh0a232o",
+    "duration": "1:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288743/immobile-zet-feyenoord-vlak-voor-rust-op-achterstand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288660,
-    "slug": "barbra-streisand-vertelt-in-memoires-over-haar-neus-en-afstandelijke-moeder",
+    "slug": "barbra-streisand-vertelt-in-memoires-over-neus-en-afstandelijke-moeder",
     "type": "article",
-    "title": "Barbra Streisand vertelt in memoires over haar neus en afstandelijke moeder",
+    "title": "Barbra Streisand vertelt in memoires over neus en afstandelijke moeder",
     "subtitle": "NU+",
     "published_at": "2023-11-07T22:03:08+01:00",
-    "updated_at": "2023-11-07T22:03:31+01:00",
+    "updated_at": "2023-11-07T22:27:46+01:00",
     "media_id": "30rxetwa8gs9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6288660/barbra-streisand-vertelt-in-memoires-over-haar-neus-en-afstandelijke-moeder.html",
+    "url": "/achterklap/6288660/barbra-streisand-vertelt-in-memoires-over-neus-en-afstandelijke-moeder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288716/bayern-trainer-tuchel-heeft-geen-spijt-van-tv-ruzie-met-clubicoon-matthaus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288717,
-    "slug": "feyenoord-jaagt-na-rust-op-gelijkmaker-in-rome",
-    "type": "article",
-    "title": "Feyenoord jaagt na rust op gelijkmaker in Rome",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-07T18:10:55+01:00",
-    "updated_at": "2023-11-07T22:05:57+01:00",
-    "media_id": "021xbxva31xw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288717/feyenoord-jaagt-na-rust-op-gelijkmaker-in-rome.html",
     "open_new_window": false,
     "partner": null
   }
