@@ -1,12 +1,58 @@
 [
   {
-    "id": 6288919,
-    "slug": "hollywood-acteurs-en-studios-bereiken-na-4-maanden-staking-een-voorlopig-akkoord",
+    "id": 6288921,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Hollywood acteurs en studio's bereiken na 4 maanden staking een voorlopig akkoord",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-09T06:09:22+01:00",
+    "updated_at": "2023-11-09T06:09:23+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6288921/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288920,
+    "slug": "donderdag-doet-naam-eer-aan-kans-op-onweer-bij-buien-in-de-middag",
+    "type": "article",
+    "title": "Donderdag doet naam eer aan: kans op onweer bij buien in de middag",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-09T06:07:45+01:00",
+    "updated_at": "2023-11-09T06:07:46+01:00",
+    "media_id": "vhax5ytad8a4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6288920/donderdag-doet-naam-eer-aan-kans-op-onweer-bij-buien-in-de-middag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288919,
+    "slug": "hollywoodacteurs-en-studios-bereiken-na-maanden-staken-voorlopig-akkoord",
+    "type": "article",
+    "title": "Hollywoodacteurs en -studio's bereiken na maanden staken voorlopig akkoord",
     "subtitle": null,
     "published_at": "2023-11-09T05:42:12+01:00",
-    "updated_at": "2023-11-09T05:42:13+01:00",
+    "updated_at": "2023-11-09T06:12:05+01:00",
     "media_id": "jh5x1o6a3m60",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6288919/hollywood-acteurs-en-studios-bereiken-na-4-maanden-staking-een-voorlopig-akkoord.html",
+    "url": "/film/6288919/hollywoodacteurs-en-studios-bereiken-na-maanden-staken-voorlopig-akkoord.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288903/weer-24-honden-gevonden-bij-fokker-die-veroordeeld-is-voor-dierenmishandeling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288802,
-    "slug": "beatrix-blijft-ondanks-pensioen-actief-maar-je-merkt-dat-ze-ouder-wordt",
-    "type": "article",
-    "title": "Beatrix blijft ondanks pensioen actief: 'Maar je merkt dat ze ouder wordt'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-08T20:16:36+01:00",
-    "updated_at": "2023-11-08T20:44:37+01:00",
-    "media_id": "l7lxts9aucuq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6288802/beatrix-blijft-ondanks-pensioen-actief-maar-je-merkt-dat-ze-ouder-wordt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288893,
-    "slug": "gazanen-trekken-opnieuw-naar-het-zuiden-terwijl-israel-het-noorden-claimt",
-    "type": "article",
-    "title": "Gazanen trekken opnieuw naar het zuiden terwijl Israël het noorden claimt",
-    "subtitle": "Overzicht",
-    "published_at": "2023-11-08T20:07:24+01:00",
-    "updated_at": "2023-11-08T20:39:26+01:00",
-    "media_id": "x4lxot8ahzun",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6288893/gazanen-trekken-opnieuw-naar-het-zuiden-terwijl-israel-het-noorden-claimt.html",
     "open_new_window": false,
     "partner": null
   }
