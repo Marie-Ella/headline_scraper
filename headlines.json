@@ -1,12 +1,35 @@
 [
   {
-    "id": 6289056,
-    "slug": "portugezen-in-maart-vervroegd-naar-de-stembus-na-ontslag-premier-wegens-corruptie",
+    "id": 6289058,
+    "slug": "jan-vantoortelboom-wint-met-mauk-boekenbon-literatuurprijs-2023",
     "type": "article",
-    "title": "Portugezen in maart vervroegd naar de stembus na ontslag premier wegens corruptie",
+    "title": "Jan Vantoortelboom wint met Mauk Boekenbon Literatuurprijs 2023",
+    "subtitle": null,
+    "published_at": "2023-11-09T22:24:52+01:00",
+    "updated_at": "2023-11-09T22:29:28+01:00",
+    "media_id": "6lixbwaas0lj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6289058/jan-vantoortelboom-wint-met-mauk-boekenbon-literatuurprijs-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289056,
+    "slug": "vervroegde-verkiezingen-portugal-na-vermeende-corruptie-en-ontslag-premier",
+    "type": "article",
+    "title": "Vervroegde verkiezingen Portugal na vermeende corruptie en ontslag premier",
     "subtitle": null,
     "published_at": "2023-11-09T22:03:07+01:00",
-    "updated_at": "2023-11-09T22:08:12+01:00",
+    "updated_at": "2023-11-09T22:26:13+01:00",
     "media_id": "eu4xqkfainsk",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6289056/portugezen-in-maart-vervroegd-naar-de-stembus-na-ontslag-premier-wegens-corruptie.html",
+    "url": "/buitenland/6289056/vervroegde-verkiezingen-portugal-na-vermeende-corruptie-en-ontslag-premier.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6289033/syrier-aangehouden-op-schiphol-voor-smokkelen-zesjarig-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289032,
-    "slug": "jongen-15-schiet-klasgenoot-dood-op-duitse-school",
-    "type": "article",
-    "title": "Jongen (15) schiet klasgenoot dood op Duitse school",
-    "subtitle": null,
-    "published_at": "2023-11-09T18:20:26+01:00",
-    "updated_at": "2023-11-09T18:20:27+01:00",
-    "media_id": "y8cxl98ansff",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289032/jongen-15-schiet-klasgenoot-dood-op-duitse-school.html",
     "open_new_window": false,
     "partner": null
   }
