@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289069,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-10T05:45:06+01:00",
+    "updated_at": "2023-11-10T05:45:07+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6289069/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289068,
+    "slug": "laat-je-niet-verrassen-neem-mee-die-regenjassen",
+    "type": "article",
+    "title": "Laat je niet verrassen: neem mee die regenjassen",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-10T05:44:31+01:00",
+    "updated_at": "2023-11-10T05:44:32+01:00",
+    "media_id": "wr1xv0aa6131",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6289068/laat-je-niet-verrassen-neem-mee-die-regenjassen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289000,
     "slug": "een-maand-van-oorlog-tussen-israel-en-hamas-in-kaart",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289030/volop-pogingen-om-gijzelaars-vrij-te-krijgen-gevechtspauzes-in-noord-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288977,
-    "slug": "nederland-moet-alerter-zijn-op-mensenhandel-rond-opvang-reden-voor-zorg",
-    "type": "article",
-    "title": "Nederland moet alerter zijn op mensenhandel rond opvang: 'Reden voor zorg'",
-    "subtitle": null,
-    "published_at": "2023-11-09T20:17:19+01:00",
-    "updated_at": "2023-11-09T20:17:23+01:00",
-    "media_id": "wj7xx1kaduua",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6288977/nederland-moet-alerter-zijn-op-mensenhandel-rond-opvang-reden-voor-zorg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289047,
-    "slug": "israelisch-leger-meldt-vondst-wapens-van-hamas-in-school",
-    "type": "video",
-    "title": "Israëlisch leger meldt vondst wapens van Hamas in school",
-    "subtitle": "Video",
-    "published_at": "2023-11-09T20:16:03+01:00",
-    "updated_at": "2023-11-09T22:56:28+01:00",
-    "media_id": "od5x01cazr4v",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289047/israelisch-leger-meldt-vondst-wapens-van-hamas-in-school.html",
     "open_new_window": false,
     "partner": null
   }
