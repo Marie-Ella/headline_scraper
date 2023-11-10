@@ -1,12 +1,104 @@
 [
   {
+    "id": 6289123,
+    "slug": "privacyzaak-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan",
+    "type": "article",
+    "title": "Privacyzaak prins Harry en Elton John tegen Daily Mail mag doorgaan",
+    "subtitle": null,
+    "published_at": "2023-11-10T13:07:03+01:00",
+    "updated_at": "2023-11-10T13:07:04+01:00",
+    "media_id": "wi5x0vraqwce",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6289123/privacyzaak-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289129,
+    "slug": "finse-politie-anker-van-chinees-containerschip-heeft-gaspijpleiding-beschadigd",
+    "type": "article",
+    "title": "Finse politie: Anker van Chinees containerschip heeft gaspijpleiding beschadigd",
+    "subtitle": null,
+    "published_at": "2023-11-10T13:06:42+01:00",
+    "updated_at": "2023-11-10T13:06:43+01:00",
+    "media_id": "70qx4veanx11",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289129/finse-politie-anker-van-chinees-containerschip-heeft-gaspijpleiding-beschadigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289132,
+    "slug": "liverpool-trainer-klopp-geirriteerd-door-rumoer-op-persconferentie",
+    "type": "video",
+    "title": "Liverpool-trainer Klopp geïrriteerd door rumoer op persconferentie",
+    "subtitle": "Video",
+    "published_at": "2023-11-10T12:54:25+01:00",
+    "updated_at": "2023-11-10T12:54:26+01:00",
+    "media_id": "4bixsx3acete",
+    "duration": "1:06",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289132/liverpool-trainer-klopp-geirriteerd-door-rumoer-op-persconferentie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289128,
+    "slug": "man-die-burgemeester-drimmelen-wilde-aanrijden-krijgt-contactverbod",
+    "type": "article",
+    "title": "Man die burgemeester Drimmelen wilde aanrijden krijgt contactverbod",
+    "subtitle": null,
+    "published_at": "2023-11-10T12:48:50+01:00",
+    "updated_at": "2023-11-10T13:26:50+01:00",
+    "media_id": "bonxei8axwez",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289128/man-die-burgemeester-drimmelen-wilde-aanrijden-krijgt-contactverbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289121,
     "slug": "koeman-haalt-ajax-verdediger-hato-bij-oranje-ook-schouten-geselecteerd",
     "type": "article",
     "title": "Koeman haalt Ajax-verdediger Hato bij Oranje, ook Schouten geselecteerd",
     "subtitle": null,
     "published_at": "2023-11-10T12:04:27+01:00",
-    "updated_at": "2023-11-10T12:26:50+01:00",
+    "updated_at": "2023-11-10T13:26:46+01:00",
     "media_id": "adixntvab9f5",
     "duration": null,
     "canonical_section": {
@@ -29,7 +121,7 @@
     "title": "Agent over schieten op trekker tijdens protest: 'Had ik niet moeten doen'",
     "subtitle": null,
     "published_at": "2023-11-10T12:02:17+01:00",
-    "updated_at": "2023-11-10T12:45:34+01:00",
+    "updated_at": "2023-11-10T13:25:05+01:00",
     "media_id": "15sxr93aqacn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Drie directe Champions League-tickets lijkt voorlopig een utopie voor Nederland",
     "subtitle": null,
     "published_at": "2023-11-10T11:50:17+01:00",
-    "updated_at": "2023-11-10T12:04:03+01:00",
+    "updated_at": "2023-11-10T13:27:26+01:00",
     "media_id": "021xbxva31xw",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Voormalig mondiale nummer één Osaka maakt in januari rentree in Brisbane",
     "subtitle": null,
     "published_at": "2023-11-10T11:47:23+01:00",
-    "updated_at": "2023-11-10T12:07:53+01:00",
+    "updated_at": "2023-11-10T12:55:15+01:00",
     "media_id": "kvnx8s4ajs19",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "Nieuwe portretten van koning Willem-Alexander en koningin Máxima",
     "subtitle": "In beeld",
     "published_at": "2023-11-10T11:05:23+01:00",
-    "updated_at": "2023-11-10T11:05:24+01:00",
+    "updated_at": "2023-11-10T13:28:01+01:00",
     "media_id": "xi1xipoai13i",
     "duration": null,
     "canonical_section": {
@@ -328,7 +420,7 @@
     "title": "Ook bij CZ en Zilveren Kruis gaat zorgpremie in 2024 weer omhoog",
     "subtitle": null,
     "published_at": "2023-11-10T10:45:38+01:00",
-    "updated_at": "2023-11-10T12:24:47+01:00",
+    "updated_at": "2023-11-10T13:29:15+01:00",
     "media_id": "mmtxezqa3lbe",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289109/camera-legt-geboorte-van-giraffe-in-limburgse-dierentuin-vast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289104,
-    "slug": "klopp-ziet-lachende-diaz-na-bevrijding-van-vader-hij-lacht-weer-van-oor-tot-oor",
-    "type": "article",
-    "title": "Klopp ziet lachende Díaz na bevrijding van vader: 'Hij lacht weer van oor tot oor'",
-    "subtitle": null,
-    "published_at": "2023-11-10T10:27:23+01:00",
-    "updated_at": "2023-11-10T12:25:36+01:00",
-    "media_id": "7vlxaaba8sly",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289104/klopp-ziet-lachende-diaz-na-bevrijding-van-vader-hij-lacht-weer-van-oor-tot-oor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289105,
-    "slug": "toename-internationale-studenten-op-nederlandse-universiteiten-lijkt-afgevlakt",
-    "type": "article",
-    "title": "Toename internationale studenten op Nederlandse universiteiten lijkt afgevlakt",
-    "subtitle": null,
-    "published_at": "2023-11-10T10:24:33+01:00",
-    "updated_at": "2023-11-10T10:24:35+01:00",
-    "media_id": "01ox05ka6vyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289105/toename-internationale-studenten-op-nederlandse-universiteiten-lijkt-afgevlakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289084,
-    "slug": "afgezwakte-natuurherstelwet-krijgt-eindelijk-steun-binnen-europese-unie",
-    "type": "article",
-    "title": "Afgezwakte natuurherstelwet krijgt eindelijk steun binnen Europese Unie",
-    "subtitle": null,
-    "published_at": "2023-11-10T10:16:52+01:00",
-    "updated_at": "2023-11-10T10:16:53+01:00",
-    "media_id": "t7ixnigaxfr3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6289084/afgezwakte-natuurherstelwet-krijgt-eindelijk-steun-binnen-europese-unie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289098,
-    "slug": "veltman-geniet-van-terugkeer-in-arena-fans-riepen-dat-ik-in-het-foute-shirt-liep",
-    "type": "article",
-    "title": "Veltman geniet van terugkeer in ArenA: 'Fans riepen dat ik in het foute shirt liep'",
-    "subtitle": null,
-    "published_at": "2023-11-10T10:04:01+01:00",
-    "updated_at": "2023-11-10T10:04:02+01:00",
-    "media_id": "twaxr7galsx9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289098/veltman-geniet-van-terugkeer-in-arena-fans-riepen-dat-ik-in-het-foute-shirt-liep.html",
     "open_new_window": false,
     "partner": null
   }
