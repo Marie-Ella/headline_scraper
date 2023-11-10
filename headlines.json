@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288996,
+    "slug": "zit-de-oorlog-in-oekraine-nu-wel-of-niet-in-een-impasse",
+    "type": "video",
+    "title": "Zit de oorlog in Oekraïne nu wel of niet in een impasse?",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-10T06:37:29+01:00",
+    "updated_at": "2023-11-10T06:37:30+01:00",
+    "media_id": "r6sxb9jaaflv",
+    "duration": "1:19",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288996/zit-de-oorlog-in-oekraine-nu-wel-of-niet-in-een-impasse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289071,
     "slug": "chirurgen-claimen-eerste-succesvolle-oogtransplantatie-maar-patient-ziet-niks",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6289004,
-    "slug": "vgz-zorgpremie-in-2024-5-euro-hoger-we-leven-langer-en-vragen-steeds-meer-zorg",
+    "slug": "vgz-zorgpremie-wordt-5-euro-hoger-we-leven-langer-en-vragen-meer-zorg",
     "type": "article",
-    "title": "VGZ-zorgpremie in 2024 5 euro hoger: we leven langer en vragen steeds meer zorg",
+    "title": "VGZ-zorgpremie wordt 5 euro hoger: we leven langer en vragen meer zorg",
     "subtitle": null,
     "published_at": "2023-11-10T05:03:59+01:00",
-    "updated_at": "2023-11-10T05:04:00+01:00",
+    "updated_at": "2023-11-10T06:41:04+01:00",
     "media_id": "x35xwrmagieh",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6289004/vgz-zorgpremie-in-2024-5-euro-hoger-we-leven-langer-en-vragen-steeds-meer-zorg.html",
+    "url": "/economie/6289004/vgz-zorgpremie-wordt-5-euro-hoger-we-leven-langer-en-vragen-meer-zorg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,19 +190,19 @@
     "title": "Robert de Niro vrijgesproken van beschuldigingen door voormalig assistent",
     "subtitle": null,
     "published_at": "2023-11-09T23:38:29+01:00",
-    "updated_at": "2023-11-09T23:38:30+01:00",
+    "updated_at": "2023-11-10T06:35:19+01:00",
     "media_id": "zkqxwnfahfs2",
     "duration": null,
     "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
+      "id": 125,
+      "slug": "achterklap",
       "type": "default",
-      "name": "Media",
-      "style": "nuuit",
+      "name": "Achterklap",
+      "style": "nuentertainment",
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6289066/robert-de-niro-vrijgesproken-van-beschuldigingen-door-voormalig-assistent.html",
+    "url": "/achterklap/6289066/robert-de-niro-vrijgesproken-van-beschuldigingen-door-voormalig-assistent.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289048/woede-in-ghana-omdat-300-jaar-oude-boom-met-genezende-krachten-is-gekapt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289043,
-    "slug": "ajax-blijft-laatste-in-europa-league-poule-door-nieuwe-nederlaag-tegen-brighton",
-    "type": "article",
-    "title": "Ajax blijft laatste in Europa League-poule door nieuwe nederlaag tegen Brighton",
-    "subtitle": null,
-    "published_at": "2023-11-09T20:38:16+01:00",
-    "updated_at": "2023-11-09T23:09:27+01:00",
-    "media_id": "6qox1zsa45jk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289043/ajax-blijft-laatste-in-europa-league-poule-door-nieuwe-nederlaag-tegen-brighton.html",
     "open_new_window": false,
     "partner": null
   }
