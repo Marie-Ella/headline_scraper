@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289219,
+    "slug": "who-baas-elke-tien-minuten-wordt-een-kind-gedood-in-gaza",
+    "type": "video",
+    "title": "WHO-baas: ‘Elke tien minuten wordt een kind gedood in Gaza’",
+    "subtitle": "Video",
+    "published_at": "2023-11-11T08:23:29+01:00",
+    "updated_at": "2023-11-11T08:23:30+01:00",
+    "media_id": "myox18va3j5m",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289219/who-baas-elke-tien-minuten-wordt-een-kind-gedood-in-gaza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289181,
     "slug": "het-verschil-tussen-een-staakt-het-vuren-en-een-humanitaire-pauze",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Meer dan twintig Haagse woningen ontruimd vanwege brand",
     "subtitle": null,
     "published_at": "2023-11-11T06:16:28+01:00",
-    "updated_at": "2023-11-11T07:53:20+01:00",
+    "updated_at": "2023-11-11T08:16:04+01:00",
     "media_id": "f4rx1t1au82u",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Dag begint regenachtig, maar daarna breekt de zon door",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-11T05:51:58+01:00",
-    "updated_at": "2023-11-11T05:52:00+01:00",
+    "updated_at": "2023-11-11T08:19:51+01:00",
     "media_id": "6pjxa3pauxij",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6287278,
-    "slug": "studentenverenigingen-doen-meer-tegen-wangedrag-maar-is-dat-genoeg",
+    "slug": "studentenverenigingen-willen-wel-veranderen-maar-snel-gaat-het-niet",
     "type": "article",
-    "title": "Studentenverenigingen doen meer tegen wangedrag, maar is dat genoeg?",
+    "title": "Studentenverenigingen willen wel veranderen, maar snel gaat het niet",
     "subtitle": "NU+",
     "published_at": "2023-11-11T05:09:41+01:00",
-    "updated_at": "2023-11-11T07:56:17+01:00",
+    "updated_at": "2023-11-11T08:16:59+01:00",
     "media_id": "j0ax7uwa0qb1",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6287278/studentenverenigingen-doen-meer-tegen-wangedrag-maar-is-dat-genoeg.html",
+    "url": "/binnenland/6287278/studentenverenigingen-willen-wel-veranderen-maar-snel-gaat-het-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289200/israel-verlaagt-aantal-doden-hamas-aanval-naar-1200.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289201,
-    "slug": "kerstverlichting-brandt-weer-in-populaire-londense-wijk-west-end",
-    "type": "video",
-    "title": "Kerstverlichting brandt weer in populaire Londense wijk West End",
-    "subtitle": "Video",
-    "published_at": "2023-11-10T20:34:00+01:00",
-    "updated_at": "2023-11-11T07:06:55+01:00",
-    "media_id": "mcqx902a7yge",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289201/kerstverlichting-brandt-weer-in-populaire-londense-wijk-west-end.html",
     "open_new_window": false,
     "partner": null
   }
