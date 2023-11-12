@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289153,
+    "slug": "goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel",
+    "type": "article",
+    "title": "Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel",
+    "subtitle": null,
+    "published_at": "2023-11-12T22:59:46+01:00",
+    "updated_at": "2023-11-12T22:59:48+01:00",
+    "media_id": "xmaxiydazgq1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289429,
     "slug": "shell-en-bp-vroegen-taskforce-hulp-bij-geschil-aardgaslevering-uit-vs",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "FC Utrecht toont veerkracht en redt in blessuretijd punt tegen Excelsior",
     "subtitle": null,
     "published_at": "2023-11-12T22:03:23+01:00",
-    "updated_at": "2023-11-12T22:13:47+01:00",
+    "updated_at": "2023-11-12T23:02:44+01:00",
     "media_id": "xk1xx0daxxbh",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6289420,
-    "slug": "van-duijvenbode-wint-nu-wel-op-grand-slam-of-darts-kleermaker-verliest-weer",
+    "slug": "van-duijvenbode-wint-nu-wel-op-grand-slam-kleermaker-verliest-van-sherrock",
     "type": "article",
-    "title": "Van Duijvenbode wint nu wél op Grand Slam of Darts, Kleermaker verliest weer",
+    "title": "Van Duijvenbode wint nu wél op Grand Slam, Kleermaker verliest van Sherrock",
     "subtitle": null,
     "published_at": "2023-11-12T20:51:17+01:00",
-    "updated_at": "2023-11-12T22:21:36+01:00",
+    "updated_at": "2023-11-12T22:48:47+01:00",
     "media_id": "qgkxa11abo2m",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6289420/van-duijvenbode-wint-nu-wel-op-grand-slam-of-darts-kleermaker-verliest-weer.html",
+    "url": "/sport-overig/6289420/van-duijvenbode-wint-nu-wel-op-grand-slam-kleermaker-verliest-van-sherrock.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,13 +415,13 @@
   },
   {
     "id": 6289402,
-    "slug": "barcelona-verslaat-alaves-dankzij-eerste-goals-lewandowski-sinds-september",
+    "slug": "inter-wint-mede-dankzij-wondergoal-lewandowski-wijst-fc-barcelona-de-weg",
     "type": "article",
-    "title": "Barcelona verslaat Alavés dankzij eerste goals Lewandowski sinds september",
+    "title": "Inter wint mede dankzij wondergoal, Lewandowski wijst FC Barcelona de weg",
     "subtitle": null,
     "published_at": "2023-11-12T18:16:37+01:00",
-    "updated_at": "2023-11-12T21:05:27+01:00",
-    "media_id": "v49xx8yamyv3",
+    "updated_at": "2023-11-12T23:09:16+01:00",
+    "media_id": "k2lx8nrautir",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289402/barcelona-verslaat-alaves-dankzij-eerste-goals-lewandowski-sinds-september.html",
+    "url": "/voetbal/6289402/inter-wint-mede-dankzij-wondergoal-lewandowski-wijst-fc-barcelona-de-weg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6289399/nederland-sluit-wk-cricket-af-met-ruime-nederlaag-tegen-grootmacht-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289398,
-    "slug": "xavi-simons-goud-waard-voor-leipzig-dallinga-scoort-opnieuw-voor-toulouse",
-    "type": "article",
-    "title": "Xavi Simons goud waard voor Leipzig, Dallinga scoort opnieuw voor Toulouse",
-    "subtitle": null,
-    "published_at": "2023-11-12T17:38:30+01:00",
-    "updated_at": "2023-11-12T22:32:45+01:00",
-    "media_id": "jr9x4r1aswjy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289398/xavi-simons-goud-waard-voor-leipzig-dallinga-scoort-opnieuw-voor-toulouse.html",
     "open_new_window": false,
     "partner": null
   }
