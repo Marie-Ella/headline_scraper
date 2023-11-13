@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289563,
+    "slug": "fooiendief-slaat-toe-bij-lunchroom-in-deventer",
+    "type": "video",
+    "title": "Fooiendief slaat toe bij lunchroom in Deventer",
+    "subtitle": "Video",
+    "published_at": "2023-11-13T20:03:51+01:00",
+    "updated_at": "2023-11-13T20:03:53+01:00",
+    "media_id": "cvaxjapa6pvp",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289563/fooiendief-slaat-toe-bij-lunchroom-in-deventer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289559,
     "slug": "backstreet-boy-ster-aj-mclean-is-twee-jaar-nuchter-het-leven-is-prachtig",
     "type": "article",
     "title": "Backstreet Boy-ster AJ McLean is twee jaar nuchter: 'Het leven is prachtig'",
     "subtitle": null,
     "published_at": "2023-11-13T19:27:12+01:00",
-    "updated_at": "2023-11-13T19:27:13+01:00",
+    "updated_at": "2023-11-13T19:52:28+01:00",
     "media_id": "g3qxpeua1gp7",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6289513,
-    "slug": "laat-jij-je-kind-kijken-praat-mee-over-het-sinterklaasjournaal",
+    "slug": "laat-jij-je-kind-naar-het-sinterklaasjournaal-kijken",
     "type": "article",
-    "title": "Laat jij je kind kijken? Praat mee over Het Sinterklaasjournaal",
+    "title": "Laat jij je kind naar Het Sinterklaasjournaal kijken?",
     "subtitle": "Praat mee ",
     "published_at": "2023-11-13T19:18:06+01:00",
-    "updated_at": "2023-11-13T19:18:37+01:00",
+    "updated_at": "2023-11-13T19:51:00+01:00",
     "media_id": "xvvxnf4aae3c",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6289513/laat-jij-je-kind-kijken-praat-mee-over-het-sinterklaasjournaal.html",
+    "url": "/stelling/6289513/laat-jij-je-kind-naar-het-sinterklaasjournaal-kijken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Koeman haalt Dallinga voor het eerst bij Oranje na afvallen Bergwijn en Brobbey",
     "subtitle": null,
     "published_at": "2023-11-13T19:07:22+01:00",
-    "updated_at": "2023-11-13T19:39:00+01:00",
+    "updated_at": "2023-11-13T19:55:07+01:00",
     "media_id": "p8qx4wfaxn19",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Extreme regenval zet delen West-Vlaanderen en Noord-Frankrijk blank",
     "subtitle": null,
     "published_at": "2023-11-13T19:04:23+01:00",
-    "updated_at": "2023-11-13T19:21:22+01:00",
+    "updated_at": "2023-11-13T19:59:49+01:00",
     "media_id": "jbsxlqzawsrq",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Klimaatbeweging richt zich ook op andere thema's: zegen of schadelijk?",
     "subtitle": "NU+",
     "published_at": "2023-11-13T16:57:10+01:00",
-    "updated_at": "2023-11-13T19:37:24+01:00",
+    "updated_at": "2023-11-13T19:53:17+01:00",
     "media_id": "ay2xu3kalnf1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6289529/russische-media-berichten-over-terugtrekking-maar-trekken-daarna-zelf-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289505,
-    "slug": "lucht-in-brandweerkazerne-van-schiphol-is-stuk-schoner-door-nieuw-apparaat",
-    "type": "article",
-    "title": "Lucht in brandweerkazerne van Schiphol is stuk schoner door nieuw apparaat",
-    "subtitle": null,
-    "published_at": "2023-11-13T15:29:16+01:00",
-    "updated_at": "2023-11-13T15:33:30+01:00",
-    "media_id": "h0mxiynaoii6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289505/lucht-in-brandweerkazerne-van-schiphol-is-stuk-schoner-door-nieuw-apparaat.html",
     "open_new_window": false,
     "partner": null
   }
