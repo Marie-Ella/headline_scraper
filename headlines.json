@@ -1,12 +1,81 @@
 [
   {
+    "id": 6289441,
+    "slug": "libelle-maakt-libello-een-eenmalige-uitgave-voor-laaggeletterde-mannen",
+    "type": "article",
+    "title": "Libelle maakt Libello, een eenmalige uitgave voor laaggeletterde mannen",
+    "subtitle": null,
+    "published_at": "2023-11-13T07:34:43+01:00",
+    "updated_at": "2023-11-13T07:34:44+01:00",
+    "media_id": "lf8xoefarnhp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6289441/libelle-maakt-libello-een-eenmalige-uitgave-voor-laaggeletterde-mannen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289438,
+    "slug": "who-krijgt-contact-met-grootste-ziekenhuis-gaza",
+    "type": "article",
+    "title": "WHO krijgt contact met grootste ziekenhuis Gaza",
+    "subtitle": null,
+    "published_at": "2023-11-13T07:31:02+01:00",
+    "updated_at": "2023-11-13T07:31:03+01:00",
+    "media_id": "ulcxqw5asrug",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289438/who-krijgt-contact-met-grootste-ziekenhuis-gaza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289418,
+    "slug": "oud-feyenoorders-martins-indi-en-clasie-schrikken-van-spel-az-in-de-kuip",
+    "type": "article",
+    "title": "Oud-Feyenoorders Martins Indi en Clasie schrikken van spel AZ in De Kuip",
+    "subtitle": null,
+    "published_at": "2023-11-13T07:26:50+01:00",
+    "updated_at": "2023-11-13T07:32:59+01:00",
+    "media_id": "0avxwllad8di",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289418/oud-feyenoorders-martins-indi-en-clasie-schrikken-van-spel-az-in-de-kuip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289439,
     "slug": "treinverkeer-rond-schiphol-drie-weken-lang-ontregeld",
     "type": "article",
     "title": "Treinverkeer rond Schiphol drie weken lang ontregeld",
     "subtitle": null,
     "published_at": "2023-11-13T07:18:46+01:00",
-    "updated_at": "2023-11-13T07:18:48+01:00",
+    "updated_at": "2023-11-13T07:35:06+01:00",
     "media_id": "23fxry7ay30s",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289424/fc-utrecht-toont-veerkracht-en-redt-in-blessuretijd-punt-tegen-excelsior.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289421,
-    "slug": "tientallen-indiase-arbeiders-opgesloten-in-ingestorte-tunnel",
-    "type": "video",
-    "title": "Tientallen Indiase arbeiders opgesloten in ingestorte tunnel",
-    "subtitle": "Video",
-    "published_at": "2023-11-12T21:09:42+01:00",
-    "updated_at": "2023-11-12T21:19:09+01:00",
-    "media_id": "3ulxtbbax151",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289421/tientallen-indiase-arbeiders-opgesloten-in-ingestorte-tunnel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289420,
-    "slug": "van-gerwen-en-van-duijvenbode-winnen-op-grand-slam-kleermaker-verliest",
-    "type": "article",
-    "title": "Van Gerwen en Van Duijvenbode winnen op Grand Slam, Kleermaker verliest",
-    "subtitle": null,
-    "published_at": "2023-11-12T20:51:17+01:00",
-    "updated_at": "2023-11-12T23:27:11+01:00",
-    "media_id": "z23xvfearsq3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6289420/van-gerwen-en-van-duijvenbode-winnen-op-grand-slam-kleermaker-verliest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289413,
-    "slug": "slot-prijst-defensief-sterk-feyenoord-en-bewondert-psv-het-gat-is-groot",
-    "type": "article",
-    "title": "Slot prijst defensief sterk Feyenoord en bewondert PSV: 'Het gat is groot'",
-    "subtitle": null,
-    "published_at": "2023-11-12T20:40:44+01:00",
-    "updated_at": "2023-11-12T20:55:38+01:00",
-    "media_id": "7mpxdsgaupuz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289413/slot-prijst-defensief-sterk-feyenoord-en-bewondert-psv-het-gat-is-groot.html",
     "open_new_window": false,
     "partner": null
   }
