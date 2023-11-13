@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289502,
+    "slug": "agent-met-trompet-geslagen-bij-viering-elfde-van-de-elfde-in-den-bosch",
+    "type": "video",
+    "title": "Agent met trompet geslagen bij viering elfde van de elfde in Den Bosch",
+    "subtitle": "Video",
+    "published_at": "2023-11-13T13:47:20+01:00",
+    "updated_at": "2023-11-13T13:47:22+01:00",
+    "media_id": "mpix4nmacf9g",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289502/agent-met-trompet-geslagen-bij-viering-elfde-van-de-elfde-in-den-bosch.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289496,
     "slug": "friesland-wil-schaatsen-van-spelen-2030-organiseren-thialf-bij-uitstek-geschikt",
     "type": "article",
     "title": "Friesland wil schaatsen van Spelen 2030 organiseren: 'Thialf bij uitstek geschikt'",
     "subtitle": null,
     "published_at": "2023-11-13T13:34:59+01:00",
-    "updated_at": "2023-11-13T13:35:00+01:00",
+    "updated_at": "2023-11-13T13:51:21+01:00",
     "media_id": "qvuxcxoarhk6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "KRO-NCRV schrapt Waku Waku-afleveringen met Tim den Besten als kandidaat",
     "subtitle": null,
     "published_at": "2023-11-13T13:11:38+01:00",
-    "updated_at": "2023-11-13T13:11:39+01:00",
+    "updated_at": "2023-11-13T13:49:06+01:00",
     "media_id": "6znx77had3zm",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Emirates bestelt voor miljarden aan nieuwe toestellen op luchtvaartshow Dubai",
     "subtitle": null,
     "published_at": "2023-11-13T12:43:07+01:00",
-    "updated_at": "2023-11-13T12:43:08+01:00",
+    "updated_at": "2023-11-13T13:49:36+01:00",
     "media_id": "bdnx8u2ap36z",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Uitvinders maken testvlucht met vliegende auto in VS",
     "subtitle": "Video",
     "published_at": "2023-11-13T11:21:46+01:00",
-    "updated_at": "2023-11-13T11:43:52+01:00",
+    "updated_at": "2023-11-13T13:50:46+01:00",
     "media_id": "lilxto7a413l",
     "duration": "0:59",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289460/oud-politica-ayaan-hirsi-ali-is-christen-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289448,
-    "slug": "britse-baby-die-de-italiaanse-nationaliteit-kreeg-voor-behandeling-is-overleden",
-    "type": "article",
-    "title": "Britse baby die de Italiaanse nationaliteit kreeg voor behandeling is overleden",
-    "subtitle": null,
-    "published_at": "2023-11-13T10:00:59+01:00",
-    "updated_at": "2023-11-13T10:13:15+01:00",
-    "media_id": "v3sxi1lamyu6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289448/britse-baby-die-de-italiaanse-nationaliteit-kreeg-voor-behandeling-is-overleden.html",
     "open_new_window": false,
     "partner": null
   }
