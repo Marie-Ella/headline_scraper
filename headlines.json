@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289723,
+    "slug": "koning-charles-viert-75e-verjaardag-met-bezoek-aan-voedselbank",
+    "type": "video",
+    "title": "Koning Charles viert 75e verjaardag met bezoek aan voedselbank",
+    "subtitle": "Video",
+    "published_at": "2023-11-14T21:01:40+01:00",
+    "updated_at": "2023-11-14T21:01:41+01:00",
+    "media_id": "jktxhn9a283a",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289723/koning-charles-viert-75e-verjaardag-met-bezoek-aan-voedselbank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289722,
-    "slug": "deutsche-bahn-komt-met-nooddienstregeling-vanwege-spoorstaking-duitsland",
+    "slug": "duitse-spoorvervoerder-komt-met-nooddienstregeling-vanwege-staking",
     "type": "article",
-    "title": "Deutsche Bahn komt met nooddienstregeling vanwege spoorstaking Duitsland",
+    "title": "Duitse spoorvervoerder komt met nooddienstregeling vanwege staking",
     "subtitle": null,
     "published_at": "2023-11-14T20:49:14+01:00",
-    "updated_at": "2023-11-14T20:49:16+01:00",
+    "updated_at": "2023-11-14T21:06:20+01:00",
     "media_id": "9ztxiiyai8wu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6289722/deutsche-bahn-komt-met-nooddienstregeling-vanwege-spoorstaking-duitsland.html",
+    "url": "/economie/6289722/duitse-spoorvervoerder-komt-met-nooddienstregeling-vanwege-staking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6289712,
-    "slug": "britse-vrouw-31-jaar-na-moord-in-belgie-geidentificeerd-door-tattoo",
+    "slug": "vermiste-britse-vrouw-blijkt-31-jaar-geleden-vermoord-in-belgie",
     "type": "article",
-    "title": "Britse vrouw 31 jaar na moord in België geïdentificeerd door tattoo",
+    "title": "Vermiste Britse vrouw blijkt 31 jaar geleden vermoord in België",
     "subtitle": null,
     "published_at": "2023-11-14T20:37:03+01:00",
-    "updated_at": "2023-11-14T20:37:04+01:00",
+    "updated_at": "2023-11-14T20:58:27+01:00",
     "media_id": "c9dx0cuar5lc",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6289712/britse-vrouw-31-jaar-na-moord-in-belgie-geidentificeerd-door-tattoo.html",
+    "url": "/buitenland/6289712/vermiste-britse-vrouw-blijkt-31-jaar-geleden-vermoord-in-belgie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Groenen speelt voor het eerst met een club in Nederland: 'Hele familie komt'",
     "subtitle": null,
     "published_at": "2023-11-14T19:52:49+01:00",
-    "updated_at": "2023-11-14T20:31:43+01:00",
+    "updated_at": "2023-11-14T21:07:35+01:00",
     "media_id": "20extwwao88n",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Kampioen Napoli ontslaat Garcia en haalt Mazzarri na tien jaar terug als trainer",
     "subtitle": null,
     "published_at": "2023-11-14T17:14:39+01:00",
-    "updated_at": "2023-11-14T17:14:40+01:00",
+    "updated_at": "2023-11-14T20:54:10+01:00",
     "media_id": "dkwxqq2akq7u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289684/onderzoek-wonder-dat-feyenoord-ajax-in-april-niet-uitliep-op-een-ramp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289692,
-    "slug": "duiker-filmt-zeebeving-bij-indonesie",
-    "type": "video",
-    "title": "Duiker filmt zeebeving bij Indonesië",
-    "subtitle": "Video",
-    "published_at": "2023-11-14T17:12:24+01:00",
-    "updated_at": "2023-11-14T17:12:26+01:00",
-    "media_id": "skjxnkharkdi",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289692/duiker-filmt-zeebeving-bij-indonesie.html",
     "open_new_window": false,
     "partner": null
   }
