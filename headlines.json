@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289860,
+    "slug": "sinterklaasjournaal-en-intocht-nu-ook-voor-blinde-kinderen-te-volgen",
+    "type": "article",
+    "title": "Sinterklaasjournaal en -intocht nu ook voor blinde kinderen te volgen",
+    "subtitle": null,
+    "published_at": "2023-11-15T18:26:11+01:00",
+    "updated_at": "2023-11-15T18:28:09+01:00",
+    "media_id": "7mkxkeoahxvs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6289860/sinterklaasjournaal-en-intocht-nu-ook-voor-blinde-kinderen-te-volgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289859,
+    "slug": "aantal-jonge-kinderen-met-longontsteking-stijgt-hoogste-aantal-in-drie-jaar-tijd",
+    "type": "article",
+    "title": "Aantal jonge kinderen met longontsteking stijgt, hoogste aantal in drie jaar tijd",
+    "subtitle": null,
+    "published_at": "2023-11-15T18:20:19+01:00",
+    "updated_at": "2023-11-15T18:29:34+01:00",
+    "media_id": "hd8xumuadp3e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289859/aantal-jonge-kinderen-met-longontsteking-stijgt-hoogste-aantal-in-drie-jaar-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289858,
-    "slug": "een-week-overstromingen-in-noord-frankrijk-hoe-kan-dat",
+    "slug": "noorden-van-frankrijk-onder-water-hoe-komt-het",
     "type": "video",
-    "title": "Een week overstromingen in Noord-Frankrijk: hoe kan dat?",
+    "title": "Noorden van Frankrijk onder water: hoe komt het?",
     "subtitle": "Explainer",
     "published_at": "2023-11-15T17:51:28+01:00",
-    "updated_at": "2023-11-15T18:02:52+01:00",
+    "updated_at": "2023-11-15T18:23:57+01:00",
     "media_id": "etkx7x5axw1s",
     "duration": "1:39",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6289858/een-week-overstromingen-in-noord-frankrijk-hoe-kan-dat.html",
+    "url": "/algemeen/6289858/noorden-van-frankrijk-onder-water-hoe-komt-het.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6289821/buitenlandse-zaken-doet-aangifte-om-lekken-kritische-memo-over-israel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289825,
-    "slug": "carlos-sainz-laat-beker-stuk-vallen-na-winst-netflix-cup-in-las-vegas",
-    "type": "video",
-    "title": "Carlos Sainz laat beker stuk vallen na winst Netflix Cup in Las Vegas",
-    "subtitle": "Video",
-    "published_at": "2023-11-15T15:17:09+01:00",
-    "updated_at": "2023-11-15T15:17:11+01:00",
-    "media_id": "widxwmwasi3f",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289825/carlos-sainz-laat-beker-stuk-vallen-na-winst-netflix-cup-in-las-vegas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289782,
-    "slug": "meer-mond-keelkanker-door-hpv-verband-nauwelijks-bekend-bij-nederlanders",
-    "type": "article",
-    "title": "Meer mond-keelkanker door HPV: verband nauwelijks bekend bij Nederlanders",
-    "subtitle": null,
-    "published_at": "2023-11-15T15:03:48+01:00",
-    "updated_at": "2023-11-15T17:37:30+01:00",
-    "media_id": "sbex5t8aippe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289782/meer-mond-keelkanker-door-hpv-verband-nauwelijks-bekend-bij-nederlanders.html",
     "open_new_window": false,
     "partner": null
   }
