@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289754,
+    "slug": "tesla-vat-vlam-en-brandt-uit-bij-nijkerk",
+    "type": "video",
+    "title": "Tesla vat vlam en brandt uit bij Nijkerk",
+    "subtitle": "Video",
+    "published_at": "2023-11-15T09:14:22+01:00",
+    "updated_at": "2023-11-15T09:14:24+01:00",
+    "media_id": "khaxo6ta6kqr",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289754/tesla-vat-vlam-en-brandt-uit-bij-nijkerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289753,
+    "slug": "beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie",
+    "type": "article",
+    "title": "Beleggers roepen chemiebedrijven op te stoppen met pfas-productie",
+    "subtitle": null,
+    "published_at": "2023-11-15T08:49:39+01:00",
+    "updated_at": "2023-11-15T08:49:40+01:00",
+    "media_id": "nf9xwwnaekuu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289753/beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289752,
     "slug": "facebook-blundert-en-kondigt-verkiezingen-een-week-te-vroeg-aan",
     "type": "article",
     "title": "Facebook blundert en kondigt verkiezingen een week te vroeg aan",
     "subtitle": null,
     "published_at": "2023-11-15T08:41:59+01:00",
-    "updated_at": "2023-11-15T08:42:23+01:00",
+    "updated_at": "2023-11-15T09:18:05+01:00",
     "media_id": "qdrxy7xalt9v",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Israël valt grootste ziekenhuis in Gazastrook aan: 'Gerichte operatie tegen Hamas'",
     "subtitle": null,
     "published_at": "2023-11-15T06:29:16+01:00",
-    "updated_at": "2023-11-15T08:33:45+01:00",
+    "updated_at": "2023-11-15T08:56:05+01:00",
     "media_id": "zlxxcz2aazf8",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "TikTok-gebruikers kunnen liedjes vanuit app opslaan in Spotify en Amazon Music",
     "subtitle": null,
     "published_at": "2023-11-15T05:31:13+01:00",
-    "updated_at": "2023-11-15T08:00:13+01:00",
+    "updated_at": "2023-11-15T08:57:20+01:00",
     "media_id": "j5sxkh4a1oq1",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289562/de-droom-van-vitesse-talent-manhoef-wereldkampioen-boksen-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289696,
-    "slug": "hoe-goed-is-racetalent-veijer-vergelijkbaar-met-de-eerste-jaren-van-rossi",
-    "type": "article",
-    "title": "Hoe goed is racetalent Veijer? 'Vergelijkbaar met de eerste jaren van Rossi'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-15T05:08:02+01:00",
-    "updated_at": "2023-11-15T07:35:57+01:00",
-    "media_id": "bytxqona4vj1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6289696/hoe-goed-is-racetalent-veijer-vergelijkbaar-met-de-eerste-jaren-van-rossi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289670,
-    "slug": "begin-europees-vrouwenvoetbal-pruthotel-slecht-veld-en-onbekend-eten",
-    "type": "article",
-    "title": "Begin Europees vrouwenvoetbal: 'Pruthotel, slecht veld en onbekend eten'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-15T05:06:01+01:00",
-    "updated_at": "2023-11-15T05:06:02+01:00",
-    "media_id": "nd8x9learpsm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289670/begin-europees-vrouwenvoetbal-pruthotel-slecht-veld-en-onbekend-eten.html",
     "open_new_window": false,
     "partner": null
   }
