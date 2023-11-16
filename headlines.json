@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289985,
+    "slug": "britse-krant-haalt-oude-brief-van-bin-laden-offline-die-viral-ging-op-tiktok",
+    "type": "article",
+    "title": "Britse krant haalt oude brief van Bin Laden offline die viral ging op TikTok",
+    "subtitle": null,
+    "published_at": "2023-11-16T15:24:19+01:00",
+    "updated_at": "2023-11-16T15:24:24+01:00",
+    "media_id": "g6nx279aexyc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6289985/britse-krant-haalt-oude-brief-van-bin-laden-offline-die-viral-ging-op-tiktok.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289984,
     "slug": "crompouce-bakker-maakt-volgens-juristen-weinig-kans-in-strijd-tegen-na-apers",
     "type": "article",
     "title": "Crompouce-bakker maakt volgens juristen weinig kans in strijd tegen na-apers",
     "subtitle": null,
     "published_at": "2023-11-16T15:17:19+01:00",
-    "updated_at": "2023-11-16T15:17:20+01:00",
+    "updated_at": "2023-11-16T15:23:46+01:00",
     "media_id": "ryaxb2ha2kn2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Spaanse premier Sánchez krijgt voldoende steun voor nieuwe regeringstermijn",
     "subtitle": null,
     "published_at": "2023-11-16T14:07:18+01:00",
-    "updated_at": "2023-11-16T14:07:22+01:00",
+    "updated_at": "2023-11-16T15:21:45+01:00",
     "media_id": "yzaxmrpa00ol",
     "duration": null,
     "canonical_section": {
@@ -346,12 +369,12 @@
   },
   {
     "id": 6289952,
-    "slug": "verhuur-van-ov-fietsen-ligt-plat-door-landelijke-storing",
+    "slug": "storing-voorbij-je-kunt-weer-een-ov-fiets-huren",
     "type": "article",
-    "title": "Verhuur van ov-fietsen ligt plat door landelijke storing",
+    "title": "Storing voorbij: je kunt weer een ov-fiets huren",
     "subtitle": null,
     "published_at": "2023-11-16T11:47:16+01:00",
-    "updated_at": "2023-11-16T11:48:06+01:00",
+    "updated_at": "2023-11-16T15:23:07+01:00",
     "media_id": "y71xzghazt6u",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6289952/verhuur-van-ov-fietsen-ligt-plat-door-landelijke-storing.html",
+    "url": "/tech/6289952/storing-voorbij-je-kunt-weer-een-ov-fiets-huren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6289944/arnhem-verplaatst-cruiseschepen-waarop-vluchtelingen-wonen-wegens-hoogwater.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289947,
-    "slug": "pensioenfondsen-laten-1500-goedkopere-huurhuizen-bouwen-voor-400-miljoen",
-    "type": "article",
-    "title": "Pensioenfondsen laten 1.500 goedkopere huurhuizen bouwen voor 400 miljoen",
-    "subtitle": null,
-    "published_at": "2023-11-16T11:20:59+01:00",
-    "updated_at": "2023-11-16T12:02:04+01:00",
-    "media_id": "q86x7lkaxm3p",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289947/pensioenfondsen-laten-1500-goedkopere-huurhuizen-bouwen-voor-400-miljoen.html",
     "open_new_window": false,
     "partner": null
   }
