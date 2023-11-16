@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290024,
+    "slug": "ajax-supporters-niet-welkom-bij-europa-league-duel-met-olympique-marseille",
+    "type": "article",
+    "title": "Ajax-supporters niet welkom bij Europa League-duel met Olympique Marseille",
+    "subtitle": null,
+    "published_at": "2023-11-16T19:48:31+01:00",
+    "updated_at": "2023-11-16T19:48:32+01:00",
+    "media_id": "po7xp6caawq5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290024/ajax-supporters-niet-welkom-bij-europa-league-duel-met-olympique-marseille.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289841,
+    "slug": "twijfel-je-op-wie-je-wil-stemmen-baseer-je-op-meer-dan-de-stemwijzer",
+    "type": "article",
+    "title": "Twijfel je op wie je wil stemmen? 'Baseer je op meer dan de StemWijzer'",
+    "subtitle": "NU+",
+    "published_at": "2023-11-16T19:45:38+01:00",
+    "updated_at": "2023-11-16T19:45:39+01:00",
+    "media_id": "18wxfenaiggb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6289841/twijfel-je-op-wie-je-wil-stemmen-baseer-je-op-meer-dan-de-stemwijzer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290016,
     "slug": "vn-experts-zien-israelische-acties-in-gaza-als-teken-van-beginnende-genocide",
     "type": "article",
     "title": "VN-experts zien Israëlische acties in Gaza als teken van beginnende genocide",
     "subtitle": null,
     "published_at": "2023-11-16T19:20:21+01:00",
-    "updated_at": "2023-11-16T19:29:18+01:00",
+    "updated_at": "2023-11-16T19:46:33+01:00",
     "media_id": "xagx0fzaev00",
     "duration": null,
     "canonical_section": {
@@ -75,8 +121,8 @@
     "title": "Koeman haalt Teze bij Oranje als vervanger van geblesseerde Frimpong",
     "subtitle": null,
     "published_at": "2023-11-16T18:23:05+01:00",
-    "updated_at": "2023-11-16T19:18:53+01:00",
-    "media_id": "r2uxo7kagl1v",
+    "updated_at": "2023-11-16T19:34:29+01:00",
+    "media_id": "kdjximfai7si",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -397,7 +443,7 @@
     "title": "Crompouce-bakker maakt volgens juristen weinig kans in strijd tegen na-apers",
     "subtitle": null,
     "published_at": "2023-11-16T15:17:19+01:00",
-    "updated_at": "2023-11-16T15:23:46+01:00",
+    "updated_at": "2023-11-16T19:48:40+01:00",
     "media_id": "ryaxb2ha2kn2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6289984/crompouce-bakker-maakt-volgens-juristen-weinig-kans-in-strijd-tegen-na-apers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289980,
-    "slug": "arnold-schwarzenegger-opnieuw-aangeklaagd-voor-roekeloos-rijgedrag",
-    "type": "article",
-    "title": "Arnold Schwarzenegger opnieuw aangeklaagd voor roekeloos rijgedrag",
-    "subtitle": null,
-    "published_at": "2023-11-16T14:41:40+01:00",
-    "updated_at": "2023-11-16T14:43:06+01:00",
-    "media_id": "pjkxdvrad04l",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6289980/arnold-schwarzenegger-opnieuw-aangeklaagd-voor-roekeloos-rijgedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289979,
-    "slug": "dronebeelden-tonen-omvang-wateroverlast-in-west-vlaanderen",
-    "type": "video",
-    "title": "Dronebeelden tonen omvang wateroverlast in West-Vlaanderen",
-    "subtitle": "Video",
-    "published_at": "2023-11-16T14:24:59+01:00",
-    "updated_at": "2023-11-16T14:28:18+01:00",
-    "media_id": "dwpxt33as7s9",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289979/dronebeelden-tonen-omvang-wateroverlast-in-west-vlaanderen.html",
     "open_new_window": false,
     "partner": null
   }
