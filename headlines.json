@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289905,
+    "slug": "talkshowhost-jimmy-kimmel-presenteert-voor-de-vierde-keer-de-oscars",
+    "type": "article",
+    "title": "Talkshowhost Jimmy Kimmel presenteert voor de vierde keer de Oscars",
+    "subtitle": null,
+    "published_at": "2023-11-16T06:45:04+01:00",
+    "updated_at": "2023-11-16T06:45:05+01:00",
+    "media_id": "jv8xeumacmf1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6289905/talkshowhost-jimmy-kimmel-presenteert-voor-de-vierde-keer-de-oscars.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289904,
+    "slug": "will-smith-en-vrouw-jada-nemen-juridische-stappen-na-geruchten-over-affaire",
+    "type": "article",
+    "title": "Will Smith en vrouw Jada nemen juridische stappen na geruchten over affaire",
+    "subtitle": null,
+    "published_at": "2023-11-16T06:34:05+01:00",
+    "updated_at": "2023-11-16T06:34:06+01:00",
+    "media_id": "6z5x4o0al8xy",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6289904/will-smith-en-vrouw-jada-nemen-juridische-stappen-na-geruchten-over-affaire.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289901,
     "slug": "moeder-van-zesjarige-jongen-die-lerares-neerschoot-in-vs-krijgt-21-maanden-cel",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6289885/david-guetta-stoot-martin-garrix-van-troon-als-populairste-dj-ter-wereld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289883,
-    "slug": "bijna-blinde-burgemeester-van-leiderdorp-laat-zaal-oogmasker-opdoen",
-    "type": "video",
-    "title": "Bijna blinde burgemeester van Leiderdorp laat zaal oogmasker opdoen",
-    "subtitle": "Video",
-    "published_at": "2023-11-15T21:21:26+01:00",
-    "updated_at": "2023-11-15T21:21:27+01:00",
-    "media_id": "8d1xeiiatem5",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289883/bijna-blinde-burgemeester-van-leiderdorp-laat-zaal-oogmasker-opdoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289832,
-    "slug": "wie-kiest-toch-elke-dag-het-straks-zesletterige-woord",
-    "type": "article",
-    "title": "Wie kiest toch elke dag het (straks zesletterige) Woord?",
-    "subtitle": "Over NU.nl",
-    "published_at": "2023-11-15T20:56:46+01:00",
-    "updated_at": "2023-11-15T21:15:05+01:00",
-    "media_id": "bghxnpta11m9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6289832/wie-kiest-toch-elke-dag-het-straks-zesletterige-woord.html",
     "open_new_window": false,
     "partner": null
   }
