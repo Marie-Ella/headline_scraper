@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290013,
+    "slug": "nieuwe-film-over-ferry-bouman-in-de-maak-bij-netflix",
+    "type": "article",
+    "title": "Nieuwe film over Ferry Bouman in de maak bij Netflix",
+    "subtitle": null,
+    "published_at": "2023-11-16T18:31:51+01:00",
+    "updated_at": "2023-11-16T18:33:01+01:00",
+    "media_id": "jh0xxz4aw08t",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6290013/nieuwe-film-over-ferry-bouman-in-de-maak-bij-netflix.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290011,
     "slug": "koeman-haalt-teze-bij-oranje-als-vervanger-van-geblesseerde-frimpong",
     "type": "article",
     "title": "Koeman haalt Teze bij Oranje als vervanger van geblesseerde Frimpong",
     "subtitle": null,
     "published_at": "2023-11-16T18:23:05+01:00",
-    "updated_at": "2023-11-16T18:25:52+01:00",
+    "updated_at": "2023-11-16T18:29:19+01:00",
     "media_id": "r2uxo7kagl1v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289973/spaanse-premier-sanchez-krijgt-voldoende-steun-voor-nieuwe-regeringstermijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289972,
-    "slug": "john-legend-en-lana-del-rey-in-eerbetoon-aan-elvis-presley-op-graceland",
-    "type": "article",
-    "title": "John Legend en Lana Del Rey in eerbetoon aan Elvis Presley op Graceland",
-    "subtitle": null,
-    "published_at": "2023-11-16T13:53:18+01:00",
-    "updated_at": "2023-11-16T13:53:20+01:00",
-    "media_id": "n2mx7gfa8isq",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6289972/john-legend-en-lana-del-rey-in-eerbetoon-aan-elvis-presley-op-graceland.html",
     "open_new_window": false,
     "partner": null
   }
