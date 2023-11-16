@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289969,
+    "slug": "overzicht-israel-neemt-pers-mee-ziekenhuis-in-biden-wil-tweestatenoplossing",
+    "type": "article",
+    "title": "Overzicht: Israël neemt pers mee ziekenhuis in, Biden wil tweestatenoplossing",
+    "subtitle": null,
+    "published_at": "2023-11-16T20:49:00+01:00",
+    "updated_at": "2023-11-16T20:49:02+01:00",
+    "media_id": "781x9kmagk45",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6289969/overzicht-israel-neemt-pers-mee-ziekenhuis-in-biden-wil-tweestatenoplossing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290019,
+    "slug": "syrische-president-al-assad-komt-met-amnestieregeling-voor-bijna-alle-misdaden",
+    "type": "article",
+    "title": "Syrische president Al Assad komt met amnestieregeling voor bijna alle misdaden",
+    "subtitle": null,
+    "published_at": "2023-11-16T20:34:13+01:00",
+    "updated_at": "2023-11-16T20:45:43+01:00",
+    "media_id": "l1txg07a6cex",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290019/syrische-president-al-assad-komt-met-amnestieregeling-voor-bijna-alle-misdaden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290027,
     "slug": "ongeslagen-boksers-fury-en-usyk-strijden-17-februari-om-alle-zwaargewichttitels",
     "type": "article",
     "title": "Ongeslagen boksers Fury en Usyk strijden 17 februari om alle zwaargewichttitels",
     "subtitle": null,
     "published_at": "2023-11-16T20:30:49+01:00",
-    "updated_at": "2023-11-16T20:30:49+01:00",
+    "updated_at": "2023-11-16T20:30:50+01:00",
     "media_id": "ckbxy9ramd8g",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Hongarije plaatst zich als tiende land voor EK door eigen doelpunt in 97e minuut",
     "subtitle": null,
     "published_at": "2023-11-16T20:20:00+01:00",
-    "updated_at": "2023-11-16T20:28:14+01:00",
+    "updated_at": "2023-11-16T20:38:23+01:00",
     "media_id": "x3exscxajo33",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6290000/studenten-voor-de-grap-in-first-dates-bnnvara-schrapt-beelden-van-nepdate.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289997,
-    "slug": "negen-artiesten-lenen-hun-stemmen-voor-ai-liedjes-op-youtube",
-    "type": "article",
-    "title": "Negen artiesten lenen hun stemmen voor AI-liedjes op YouTube",
-    "subtitle": null,
-    "published_at": "2023-11-16T16:36:50+01:00",
-    "updated_at": "2023-11-16T16:36:51+01:00",
-    "media_id": "eztx1g4aziya",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289997/negen-artiesten-lenen-hun-stemmen-voor-ai-liedjes-op-youtube.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289998,
-    "slug": "finland-gooit-vier-grensovergangen-met-rusland-dicht-vanwege-migranten",
-    "type": "article",
-    "title": "Finland gooit vier grensovergangen met Rusland dicht vanwege migranten",
-    "subtitle": null,
-    "published_at": "2023-11-16T16:14:56+01:00",
-    "updated_at": "2023-11-16T17:13:16+01:00",
-    "media_id": "f4hxq2uacgyu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289998/finland-gooit-vier-grensovergangen-met-rusland-dicht-vanwege-migranten.html",
     "open_new_window": false,
     "partner": null
   }
