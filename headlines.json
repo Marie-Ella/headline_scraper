@@ -1,5 +1,74 @@
 [
   {
+    "id": 6290235,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-18T06:18:31+01:00",
+    "updated_at": "2023-11-18T06:18:33+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290235/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290234,
+    "slug": "sinterklaas-komt-aan-van-zee-hopelijk-heeft-hij-een-paraplu-mee",
+    "type": "article",
+    "title": "Sinterklaas komt aan van zee, hopelijk heeft hij een paraplu mee",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-18T06:17:52+01:00",
+    "updated_at": "2023-11-18T06:17:54+01:00",
+    "media_id": "8uqx203a6uun",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6290234/sinterklaas-komt-aan-van-zee-hopelijk-heeft-hij-een-paraplu-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290233,
+    "slug": "politici-op-straat-voor-campagne",
+    "type": "article",
+    "title": "Politici op straat voor campagne",
+    "subtitle": "Verkiezingsblog",
+    "published_at": "2023-11-18T05:53:03+01:00",
+    "updated_at": "2023-11-18T05:56:14+01:00",
+    "media_id": "3duxfp6a5pvy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290233/politici-op-straat-voor-campagne.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289963,
     "slug": "waarom-ierland-tegen-oranje-een-nederlaag-beter-uitkomt-dan-een-overwinning",
     "type": "article",
@@ -300,12 +369,12 @@
   },
   {
     "id": 6290213,
-    "slug": "nederland-stuurt-marineschip-richting-gaza-internet-en-telefonie-deels-hersteld",
+    "slug": "nederland-stuurt-marineschip-naar-gaza-internet-en-telefonie-deels-hersteld",
     "type": "article",
-    "title": "Nederland stuurt marineschip richting Gaza, internet en telefonie deels hersteld",
+    "title": "Nederland stuurt marineschip naar Gaza, internet en telefonie deels hersteld",
     "subtitle": "Overzicht",
     "published_at": "2023-11-17T21:38:46+01:00",
-    "updated_at": "2023-11-17T22:27:32+01:00",
+    "updated_at": "2023-11-18T05:56:44+01:00",
     "media_id": "qpbxwz2aw1ig",
     "duration": null,
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6290213/nederland-stuurt-marineschip-richting-gaza-internet-en-telefonie-deels-hersteld.html",
+    "url": "/midden-oostenconflict/6290213/nederland-stuurt-marineschip-naar-gaza-internet-en-telefonie-deels-hersteld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/videos/6290219/filipijnen-staan-doodsangsten-uit-na-krachtige-onderzeese-beving.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290218,
-    "slug": "celstraffen-van-22-en-20-jaar-voor-moord-op-curacaose-rapper-boechi",
-    "type": "article",
-    "title": "Celstraffen van 22 en 20 jaar voor moord op Curaçaose rapper Boechi",
-    "subtitle": null,
-    "published_at": "2023-11-17T20:35:22+01:00",
-    "updated_at": "2023-11-17T21:42:38+01:00",
-    "media_id": "xm8x0nqai027",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290218/celstraffen-van-22-en-20-jaar-voor-moord-op-curacaose-rapper-boechi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290216,
-    "slug": "denemarken-en-albanie-plaatsen-zich-voor-ek-polen-wacht-play-offs",
-    "type": "article",
-    "title": "Denemarken en Albanië plaatsen zich voor EK, Polen wacht play-offs",
-    "subtitle": null,
-    "published_at": "2023-11-17T20:23:54+01:00",
-    "updated_at": "2023-11-17T23:33:01+01:00",
-    "media_id": "u39xykoaodrk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290216/denemarken-en-albanie-plaatsen-zich-voor-ek-polen-wacht-play-offs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290209,
-    "slug": "man-opgepakt-voor-het-vervuilen-van-champagneflessen-met-mdma",
-    "type": "article",
-    "title": "Man opgepakt voor het vervuilen van champagneflessen met MDMA",
-    "subtitle": null,
-    "published_at": "2023-11-17T19:34:44+01:00",
-    "updated_at": "2023-11-17T19:34:46+01:00",
-    "media_id": "dhexplzarab5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290209/man-opgepakt-voor-het-vervuilen-van-champagneflessen-met-mdma.html",
     "open_new_window": false,
     "partner": null
   }
