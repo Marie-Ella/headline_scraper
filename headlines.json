@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290289,
+    "slug": "kletsnat-gorinchem-verwelkomt-sinterklaas-terug-in-nederland",
+    "type": "article",
+    "title": "Kletsnat Gorinchem verwelkomt Sinterklaas terug in Nederland",
+    "subtitle": "In beeld",
+    "published_at": "2023-11-18T14:16:58+01:00",
+    "updated_at": "2023-11-18T14:16:59+01:00",
+    "media_id": "xq6x0q4ampoo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290289/kletsnat-gorinchem-verwelkomt-sinterklaas-terug-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290293,
+    "slug": "bekijk-de-startopstelling-voor-de-gp-van-las-vegas-met-verstappen-op-plek-twee",
+    "type": "article",
+    "title": "Bekijk de startopstelling voor de GP van Las Vegas met Verstappen op plek twee",
+    "subtitle": null,
+    "published_at": "2023-11-18T14:13:35+01:00",
+    "updated_at": "2023-11-18T14:13:37+01:00",
+    "media_id": "2ldxo0bazg50",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6290293/bekijk-de-startopstelling-voor-de-gp-van-las-vegas-met-verstappen-op-plek-twee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290292,
     "slug": "musk-dreigt-met-rechtszaak-tegen-partij-die-verklaring-deelde-waarna-adverteerders-wegliepen",
     "type": "article",
     "title": "Musk dreigt met rechtszaak tegen partij die verklaring deelde waarna adverteerders wegliepen",
     "subtitle": null,
     "published_at": "2023-11-18T13:41:13+01:00",
-    "updated_at": "2023-11-18T13:41:14+01:00",
+    "updated_at": "2023-11-18T14:13:19+01:00",
     "media_id": "hbsxrd9a6nmu",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Freek Vonk wil graag vader worden, maar heeft verre reizen nodig om gelukkig te zijn",
     "subtitle": null,
     "published_at": "2023-11-18T12:04:01+01:00",
-    "updated_at": "2023-11-18T12:16:15+01:00",
+    "updated_at": "2023-11-18T13:55:36+01:00",
     "media_id": "k3jx257alyra",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290248/voorwaardelijke-celstraf-voor-wednesday-fan-die-overleden-kind-bespotte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290243,
-    "slug": "reacties-na-pole-leclerc-in-las-vegas",
-    "type": "article",
-    "title": "Reacties na pole Leclerc in Las Vegas",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-18T08:42:09+01:00",
-    "updated_at": "2023-11-18T10:09:09+01:00",
-    "media_id": "2sxxn1raj3z1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6290243/reacties-na-pole-leclerc-in-las-vegas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290149,
-    "slug": "ziekenhuizen-moeten-zich-specialiseren",
-    "type": "article",
-    "title": "'Ziekenhuizen moeten zich specialiseren'",
-    "subtitle": "Verkiezingsstelling",
-    "published_at": "2023-11-18T08:09:20+01:00",
-    "updated_at": "2023-11-18T08:09:22+01:00",
-    "media_id": "9aoxigxa7k31",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6290149/ziekenhuizen-moeten-zich-specialiseren.html",
     "open_new_window": false,
     "partner": null
   }
