@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289971,
+    "slug": "andre-hazes-twijfelde-aan-iedereen-na-uitgelekte-brief-aan-ex",
+    "type": "article",
+    "title": "André Hazes 'twijfelde aan iedereen' na uitgelekte brief aan ex",
+    "subtitle": null,
+    "published_at": "2023-11-18T07:38:33+01:00",
+    "updated_at": "2023-11-18T07:38:34+01:00",
+    "media_id": "jv3x0plar913",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6289971/andre-hazes-twijfelde-aan-iedereen-na-uitgelekte-brief-aan-ex.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290232,
+    "slug": "hoe-poetin-de-oekrainers-in-bezet-gebied-hardhandig-russificeert",
+    "type": "video",
+    "title": "Hoe Poetin de Oekraïners in bezet gebied hardhandig russificeert",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-18T07:36:45+01:00",
+    "updated_at": "2023-11-18T07:36:47+01:00",
+    "media_id": "sqvxz3baqn90",
+    "duration": "2:38",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6290232/hoe-poetin-de-oekrainers-in-bezet-gebied-hardhandig-russificeert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290240,
     "slug": "bombardement-zuid-gaza-israel-roept-mensen-in-khan-younis-op-de-stad-te-verlaten",
     "type": "article",
     "title": "Bombardement Zuid-Gaza, Israël roept mensen in Khan Younis op de stad te verlaten",
     "subtitle": null,
     "published_at": "2023-11-18T07:32:04+01:00",
-    "updated_at": "2023-11-18T07:32:05+01:00",
+    "updated_at": "2023-11-18T07:35:27+01:00",
     "media_id": "137xm4hag2y2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6290226/chatgpt-bedrijf-openai-zet-ceo-sam-altman-op-straat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290225,
-    "slug": "vrachtwagen-komt-verticaal-vast-te-zitten-onder-spaans-viaduct",
-    "type": "video",
-    "title": "Vrachtwagen komt verticaal vast te zitten onder Spaans viaduct",
-    "subtitle": "Video",
-    "published_at": "2023-11-17T22:13:56+01:00",
-    "updated_at": "2023-11-17T22:20:20+01:00",
-    "media_id": "dggxb7vaid57",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290225/vrachtwagen-komt-verticaal-vast-te-zitten-onder-spaans-viaduct.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290213,
-    "slug": "nederland-stuurt-marineschip-naar-gaza-internet-en-telefonie-deels-hersteld",
-    "type": "article",
-    "title": "Nederland stuurt marineschip naar Gaza, internet en telefonie deels hersteld",
-    "subtitle": "Overzicht",
-    "published_at": "2023-11-17T21:38:46+01:00",
-    "updated_at": "2023-11-18T05:56:44+01:00",
-    "media_id": "qpbxwz2aw1ig",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6290213/nederland-stuurt-marineschip-naar-gaza-internet-en-telefonie-deels-hersteld.html",
     "open_new_window": false,
     "partner": null
   }
