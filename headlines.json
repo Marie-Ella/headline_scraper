@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290389,
+    "slug": "luiten-raakt-gefrustreerd-omdat-golfclubs-vastzitten-in-boom",
+    "type": "video",
+    "title": "Luiten raakt gefrustreerd omdat golfclubs vastzitten in boom",
+    "subtitle": "Video",
+    "published_at": "2023-11-19T12:45:00+01:00",
+    "updated_at": "2023-11-19T12:47:26+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290389/luiten-raakt-gefrustreerd-omdat-golfclubs-vastzitten-in-boom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290386,
+    "slug": "verdachte-opgepakt-voor-betrokkenheid-dodelijke-steekpartij-in-tivolivredenburg",
+    "type": "article",
+    "title": "Verdachte opgepakt voor betrokkenheid dodelijke steekpartij in TivoliVredenburg",
+    "subtitle": null,
+    "published_at": "2023-11-19T12:31:56+01:00",
+    "updated_at": "2023-11-19T12:41:24+01:00",
+    "media_id": "ciuxgh8aag7i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290386/verdachte-opgepakt-voor-betrokkenheid-dodelijke-steekpartij-in-tivolivredenburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290383,
     "slug": "italiaanse-spits-quagliarella-40-houdt-het-na-182-serie-a-goals-voor-gezien",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Politie vindt ruim 40 kilo illegaal vuurwerk in slaapkamer van 'zeer jong kind'",
     "subtitle": null,
     "published_at": "2023-11-19T12:00:52+01:00",
-    "updated_at": "2023-11-19T12:19:23+01:00",
+    "updated_at": "2023-11-19T12:40:39+01:00",
     "media_id": "1noxa77ac6no",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Schouten baalt van 'verschrikkelijke' 3 kilometer, Leerdam derde op 500 meter",
     "subtitle": null,
     "published_at": "2023-11-19T10:32:00+01:00",
-    "updated_at": "2023-11-19T12:19:32+01:00",
+    "updated_at": "2023-11-19T12:33:48+01:00",
     "media_id": "ubpxdp6ai4g0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290362/investeerders-oefenen-druk-uit-op-openai-voor-terugkeer-ontslagen-ceo-altman.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290347,
-    "slug": "schouten-na-nieuwe-test-in-oranje-had-misschien-onbewust-wat-zenuwen",
-    "type": "article",
-    "title": "Schouten na nieuwe 'test' in Oranje: 'Had misschien onbewust wat zenuwen'",
-    "subtitle": null,
-    "published_at": "2023-11-19T09:12:56+01:00",
-    "updated_at": "2023-11-19T09:12:57+01:00",
-    "media_id": "2loxvseax3gs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290347/schouten-na-nieuwe-test-in-oranje-had-misschien-onbewust-wat-zenuwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290360,
-    "slug": "palestijnse-president-biden-u-moet-deze-genocide-stoppen",
-    "type": "video",
-    "title": "Palestijnse president: 'Biden, u moet deze genocide stoppen'",
-    "subtitle": "Video",
-    "published_at": "2023-11-19T08:41:41+01:00",
-    "updated_at": "2023-11-19T08:41:43+01:00",
-    "media_id": "aonxfuzancja",
-    "duration": "1:07",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290360/palestijnse-president-biden-u-moet-deze-genocide-stoppen.html",
     "open_new_window": false,
     "partner": null
   }
