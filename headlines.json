@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290452,
+    "slug": "twee-dagen-voor-verkiezingen-weer-volle-campagnedag",
+    "type": "article",
+    "title": "Twee dagen voor verkiezingen weer volle campagnedag",
+    "subtitle": "Verkiezingsblog",
+    "published_at": "2023-11-20T05:41:33+01:00",
+    "updated_at": "2023-11-20T05:41:34+01:00",
+    "media_id": "tknxdaqa86jl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290452/twee-dagen-voor-verkiezingen-weer-volle-campagnedag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290451,
+    "slug": "drie-militairen-voor-rechter-na-schietongeluk-bij-oefening-in-afghanistan",
+    "type": "article",
+    "title": "Drie militairen voor rechter na schietongeluk bij oefening in Afghanistan",
+    "subtitle": null,
+    "published_at": "2023-11-20T05:40:02+01:00",
+    "updated_at": "2023-11-20T05:40:04+01:00",
+    "media_id": "mtaxboxakwak",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290451/drie-militairen-voor-rechter-na-schietongeluk-bij-oefening-in-afghanistan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290450,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -305,7 +351,7 @@
     "title": "Goed nieuws van deze week: Sinterklaasjournaal voor blinden en een klimrek",
     "subtitle": null,
     "published_at": "2023-11-19T20:00:35+01:00",
-    "updated_at": "2023-11-19T20:00:36+01:00",
+    "updated_at": "2023-11-20T05:41:03+01:00",
     "media_id": "jl3xy28ao8pa",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290428/drie-tsjechen-missen-voor-straf-cruciaal-ek-kwalificatieduel-na-nachtclubbezoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290423,
-    "slug": "ajax-vrouwen-moet-wennen-aan-vol-speelschema-maar-mag-geen-excuus-zijn",
-    "type": "article",
-    "title": "Ajax Vrouwen moet wennen aan vol speelschema: 'Maar mag geen excuus zijn'",
-    "subtitle": null,
-    "published_at": "2023-11-19T19:03:30+01:00",
-    "updated_at": "2023-11-19T20:38:34+01:00",
-    "media_id": "i9yxvvuaq0nq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290423/ajax-vrouwen-moet-wennen-aan-vol-speelschema-maar-mag-geen-excuus-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290427,
-    "slug": "hoe-de-race-een-hectisch-weekend-met-boze-fans-in-las-vegas-redde",
-    "type": "video",
-    "title": "Hoe de race een hectisch weekend met boze fans in Las Vegas redde",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-19T18:55:43+01:00",
-    "updated_at": "2023-11-19T19:04:54+01:00",
-    "media_id": "r7sxwp3asf8a",
-    "duration": "1:51",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6290427/hoe-de-race-een-hectisch-weekend-met-boze-fans-in-las-vegas-redde.html",
     "open_new_window": false,
     "partner": null
   }
