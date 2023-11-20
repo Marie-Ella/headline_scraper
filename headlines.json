@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290495,
+    "slug": "oekraine-meldt-twee-doden-bij-aanval-op-parkeerterrein-kherson",
+    "type": "article",
+    "title": "Oekraïne meldt twee doden bij aanval op parkeerterrein Kherson",
+    "subtitle": null,
+    "published_at": "2023-11-20T11:11:55+01:00",
+    "updated_at": "2023-11-20T11:16:24+01:00",
+    "media_id": "jnwx0xia6fwd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6290495/oekraine-meldt-twee-doden-bij-aanval-op-parkeerterrein-kherson.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290489,
+    "slug": "shakira-schikt-op-valreep-met-spaanse-belastingdienst-rechtszaak-van-de-baan",
+    "type": "article",
+    "title": "Shakira schikt op valreep met Spaanse belastingdienst, rechtszaak van de baan",
+    "subtitle": null,
+    "published_at": "2023-11-20T11:03:32+01:00",
+    "updated_at": "2023-11-20T11:13:13+01:00",
+    "media_id": "wmix7qsa7ctm",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6290489/shakira-schikt-op-valreep-met-spaanse-belastingdienst-rechtszaak-van-de-baan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290487,
     "slug": "geld-lenen-voor-nieuwe-auto-of-wasmachine-kost-straks-nog-meer-geld",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Robert Pattinson en Suki Waterhouse verwachten hun eerste kind",
     "subtitle": null,
     "published_at": "2023-11-20T10:12:37+01:00",
-    "updated_at": "2023-11-20T10:12:38+01:00",
+    "updated_at": "2023-11-20T11:10:05+01:00",
     "media_id": "4u1xxd8ahrib",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Kankerbehandeling bij mannen vaker op genezing gericht dan bij vrouwen",
     "subtitle": null,
     "published_at": "2023-11-20T08:46:49+01:00",
-    "updated_at": "2023-11-20T10:40:05+01:00",
+    "updated_at": "2023-11-20T11:14:59+01:00",
     "media_id": "x56xgs2ahflr",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Carice van Houten en Halina Reijn zakelijk uit elkaar: 'Blijven diep verbonden'",
     "subtitle": null,
     "published_at": "2023-11-20T06:56:50+01:00",
-    "updated_at": "2023-11-20T10:01:29+01:00",
+    "updated_at": "2023-11-20T11:10:30+01:00",
     "media_id": "95qxoe5ajqr0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6290458/carice-van-houten-en-halina-reijn-zakelijk-uit-elkaar-blijven-diep-verbonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290172,
-    "slug": "hoe-werkt-een-minderheidskabinet-eigenlijk",
-    "type": "video",
-    "title": "Hoe werkt een minderheidskabinet eigenlijk?",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-20T06:35:30+01:00",
-    "updated_at": "2023-11-20T07:52:38+01:00",
-    "media_id": "p9zx0e3atvs2",
-    "duration": "1:40",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290172/hoe-werkt-een-minderheidskabinet-eigenlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290456,
-    "slug": "ultrarechtse-nieuwkomer-javier-milei-wint-argentijnse-presidentsverkiezing",
-    "type": "article",
-    "title": "Ultrarechtse nieuwkomer Javier Milei wint Argentijnse presidentsverkiezing",
-    "subtitle": null,
-    "published_at": "2023-11-20T06:19:48+01:00",
-    "updated_at": "2023-11-20T10:09:21+01:00",
-    "media_id": "01dxowwabq77",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290456/ultrarechtse-nieuwkomer-javier-milei-wint-argentijnse-presidentsverkiezing.html",
     "open_new_window": false,
     "partner": null
   }
