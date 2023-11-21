@@ -1,14 +1,106 @@
 [
   {
+    "id": 6290672,
+    "slug": "ga-jij-strategisch-stemmen",
+    "type": "article",
+    "title": "Ga jij strategisch stemmen?",
+    "subtitle": "Praat mee ",
+    "published_at": "2023-11-21T14:20:23+01:00",
+    "updated_at": "2023-11-21T14:20:25+01:00",
+    "media_id": "xewxdlta2x34",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290672/ga-jij-strategisch-stemmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290675,
+    "slug": "hitserie-gooische-vrouwen-keert-eind-2024-terug-met-nieuw-seizoen",
+    "type": "article",
+    "title": "Hitserie Gooische Vrouwen keert eind 2024 terug met nieuw seizoen",
+    "subtitle": null,
+    "published_at": "2023-11-21T14:19:36+01:00",
+    "updated_at": "2023-11-21T14:23:23+01:00",
+    "media_id": "76wx0jyaafdr",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6290675/hitserie-gooische-vrouwen-keert-eind-2024-terug-met-nieuw-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290673,
+    "slug": "man-wilde-explosief-laten-ontploffen-in-rotterdams-gemeentekantoor",
+    "type": "article",
+    "title": "Man wilde explosief laten ontploffen in Rotterdams gemeentekantoor",
+    "subtitle": null,
+    "published_at": "2023-11-21T14:02:53+01:00",
+    "updated_at": "2023-11-21T14:17:22+01:00",
+    "media_id": "hmxx2cmaue3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290673/man-wilde-explosief-laten-ontploffen-in-rotterdams-gemeentekantoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290669,
+    "slug": "bbc-programma-top-gear-voorlopig-niet-terug-op-tv-na-ongeluk-tijdens-opnames",
+    "type": "article",
+    "title": "BBC-programma Top Gear voorlopig niet terug op tv na ongeluk tijdens opnames",
+    "subtitle": null,
+    "published_at": "2023-11-21T13:59:48+01:00",
+    "updated_at": "2023-11-21T14:23:10+01:00",
+    "media_id": "afkx1vea3zoz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290669/bbc-programma-top-gear-voorlopig-niet-terug-op-tv-na-ongeluk-tijdens-opnames.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290670,
-    "slug": "baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten",
+    "slug": "baudet-na-mishandeling-groningen-beveiliging-was-opgeschroefd",
     "type": "video",
-    "title": "Baudet reageert op aanval: 'Politieke aanslag op onze standpunten'",
+    "title": "Baudet na mishandeling Groningen: 'Beveiliging was opgeschroefd'",
     "subtitle": "Video",
     "published_at": "2023-11-21T13:54:34+01:00",
-    "updated_at": "2023-11-21T13:54:51+01:00",
+    "updated_at": "2023-11-21T14:11:52+01:00",
     "media_id": "wgax3fhap143",
-    "duration": "1:16",
+    "duration": "1:27",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6290670/baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten.html",
+    "url": "/videos/6290670/baudet-na-mishandeling-groningen-beveiliging-was-opgeschroefd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6290530/groep-wajongers-alsnog-vrijgesteld-van-gemeentelijke-en-waterschapsbelasting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290636,
-    "slug": "woedende-psver-dest-pakt-domme-rode-kaart-bij-vs",
-    "type": "video",
-    "title": "Woedende PSV'er Dest pakt domme rode kaart bij VS",
-    "subtitle": "Video",
-    "published_at": "2023-11-21T10:51:22+01:00",
-    "updated_at": "2023-11-21T10:51:25+01:00",
-    "media_id": "vp5xibdam2cl",
-    "duration": "1:10",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290636/woedende-psver-dest-pakt-domme-rode-kaart-bij-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290635,
-    "slug": "archeologen-ontdekken-1000-jaar-oude-mummies-in-peru",
-    "type": "video",
-    "title": "Archeologen ontdekken 1.000 jaar oude mummies in Peru",
-    "subtitle": "Video",
-    "published_at": "2023-11-21T10:47:43+01:00",
-    "updated_at": "2023-11-21T10:54:32+01:00",
-    "media_id": "s5ix0aia8ni5",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290635/archeologen-ontdekken-1000-jaar-oude-mummies-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290630,
-    "slug": "werk-jij-woensdag-op-een-stembureau-dan-zoeken-we-jou",
-    "type": "article",
-    "title": "Werk jij woensdag op een stembureau? Dan zoeken we jou",
-    "subtitle": "Oproep",
-    "published_at": "2023-11-21T10:46:23+01:00",
-    "updated_at": "2023-11-21T11:05:42+01:00",
-    "media_id": "hsuxbqfa4reh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779137,
-      "slug": "vragenoproep",
-      "type": "default",
-      "name": "Oproep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenoproep/6290630/werk-jij-woensdag-op-een-stembureau-dan-zoeken-we-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290634,
-    "slug": "verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen",
-    "type": "article",
-    "title": "Verdachte die Baudet met fles zou hebben geslagen is minderjarige jongen",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:45:26+01:00",
-    "updated_at": "2023-11-21T13:14:57+01:00",
-    "media_id": "elax0tqadfyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290634/verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen.html",
     "open_new_window": false,
     "partner": null
   }
