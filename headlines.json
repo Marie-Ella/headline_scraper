@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290670,
+    "slug": "baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten",
+    "type": "video",
+    "title": "Baudet reageert op aanval: 'Politieke aanslag op onze standpunten'",
+    "subtitle": "Video",
+    "published_at": "2023-11-21T13:54:34+01:00",
+    "updated_at": "2023-11-21T13:54:51+01:00",
+    "media_id": "wgax3fhap143",
+    "duration": "1:16",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290670/baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290485,
+    "slug": "van-ouwehand-tot-omtzigt-al-onze-interviews-met-lijsttrekkers-op-een-rij",
+    "type": "article",
+    "title": "Van Ouwehand tot Omtzigt: al onze interviews met lijsttrekkers op een rij",
+    "subtitle": null,
+    "published_at": "2023-11-21T13:41:12+01:00",
+    "updated_at": "2023-11-21T13:41:13+01:00",
+    "media_id": "9azxpaxatbny",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6290485/van-ouwehand-tot-omtzigt-al-onze-interviews-met-lijsttrekkers-op-een-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290665,
     "slug": "rtl-4-maakt-woensdag-live-uitzending-over-uitslag-tweede-kamerverkiezingen",
     "type": "article",
@@ -52,8 +98,8 @@
     "title": "Baudet heeft hoofdwond na mishandeling Groningen: 'Maar wij gaan door en buigen niet'",
     "subtitle": null,
     "published_at": "2023-11-21T13:04:41+01:00",
-    "updated_at": "2023-11-21T13:34:56+01:00",
-    "media_id": "wsnxu39a18qq",
+    "updated_at": "2023-11-21T13:56:58+01:00",
+    "media_id": "rrox8z4aasjg",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6290634/verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290626,
-    "slug": "lee-towers-voelt-zich-weer-goed-na-vallen-en-operatie-een-lange-weg-afgelegd",
-    "type": "article",
-    "title": "Lee Towers voelt zich weer goed na vallen en operatie: 'Een lange weg afgelegd'",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:24:24+01:00",
-    "updated_at": "2023-11-21T10:38:50+01:00",
-    "media_id": "flqx02hanzs6",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6290626/lee-towers-voelt-zich-weer-goed-na-vallen-en-operatie-een-lange-weg-afgelegd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290625,
-    "slug": "kees-van-der-spek-tooske-ragas-en-jeroen-spitzenberger-in-wie-is-de-mol",
-    "type": "article",
-    "title": "Kees van der Spek, Tooske Ragas en Jeroen Spitzenberger in Wie is de Mol?",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:01:12+01:00",
-    "updated_at": "2023-11-21T10:33:48+01:00",
-    "media_id": "llyxog5afn6m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6290625/kees-van-der-spek-tooske-ragas-en-jeroen-spitzenberger-in-wie-is-de-mol.html",
     "open_new_window": false,
     "partner": null
   }
