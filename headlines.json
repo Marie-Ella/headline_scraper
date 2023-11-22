@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290820,
+    "slug": "radio-538-stopt-na-drie-edities-met-jaarlijkse-inzamelingsactie-missie-538",
+    "type": "article",
+    "title": "Radio 538 stopt na drie edities met jaarlijkse inzamelingsactie Missie 538",
+    "subtitle": null,
+    "published_at": "2023-11-22T13:55:00+01:00",
+    "updated_at": "2023-11-22T13:55:01+01:00",
+    "media_id": "1jdx1z9afial",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290820/radio-538-stopt-na-drie-edities-met-jaarlijkse-inzamelingsactie-missie-538.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290816,
+    "slug": "multimiljonair-over-vriendin-sylvie-meis-ze-wist-niet-eens-wie-ik-was",
+    "type": "article",
+    "title": "Multimiljonair over vriendin Sylvie Meis: 'Ze wist niet eens wie ik was'",
+    "subtitle": null,
+    "published_at": "2023-11-22T13:49:07+01:00",
+    "updated_at": "2023-11-22T13:50:35+01:00",
+    "media_id": "v4lxyhwaq50u",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6290816/multimiljonair-over-vriendin-sylvie-meis-ze-wist-niet-eens-wie-ik-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290817,
     "slug": "waterhoos-raast-richting-de-italiaanse-kust",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Yvette Broch keert tóch terug bij handbalsters Oranje en gaat mee naar WK",
     "subtitle": null,
     "published_at": "2023-11-22T13:17:04+01:00",
-    "updated_at": "2023-11-22T13:33:32+01:00",
+    "updated_at": "2023-11-22T13:52:35+01:00",
     "media_id": "f0jxydoa745l",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Zij werken op het stembureau: 'Ik wilde weten of er gerommeld wordt'",
     "subtitle": "NU+",
     "published_at": "2023-11-22T10:34:46+01:00",
-    "updated_at": "2023-11-22T10:37:43+01:00",
+    "updated_at": "2023-11-22T13:53:29+01:00",
     "media_id": "drwx49xauivo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290777/lijsttrekkers-brengen-hun-stem-uit-voor-de-tweede-kamerverkiezingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290788,
-    "slug": "rutte-komt-op-fiets-aan-bij-stembureau-in-den-haag",
-    "type": "video",
-    "title": "Rutte komt op fiets aan bij stembureau in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T10:20:39+01:00",
-    "updated_at": "2023-11-22T10:41:09+01:00",
-    "media_id": "pdmxinea8ka3",
-    "duration": "0:25",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290788/rutte-komt-op-fiets-aan-bij-stembureau-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290786,
-    "slug": "politie-grijpt-keihard-in-bij-rellen-tijdens-kraker-brazilie-argentinie",
-    "type": "video",
-    "title": "Politie grijpt keihard in bij rellen tijdens kraker Brazilië-Argentinië",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T10:17:41+01:00",
-    "updated_at": "2023-11-22T10:17:42+01:00",
-    "media_id": "700x7itau8rc",
-    "duration": "2:16",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290786/politie-grijpt-keihard-in-bij-rellen-tijdens-kraker-brazilie-argentinie.html",
     "open_new_window": false,
     "partner": null
   }
