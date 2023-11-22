@@ -1,12 +1,58 @@
 [
   {
-    "id": 6290802,
-    "slug": "bagagesjouwers-op-luchthavens-krijgen-ruim-30-procent-meer-loon",
+    "id": 6290810,
+    "slug": "rabobank-krijgt-miljoenenboete-eu-om-verzwijgen-van-kartel-met-deutsche-bank",
     "type": "article",
-    "title": "Bagagesjouwers op luchthavens krijgen ruim 30 procent meer loon",
+    "title": "Rabobank krijgt miljoenenboete EU om verzwijgen van kartel met Deutsche Bank",
+    "subtitle": null,
+    "published_at": "2023-11-22T12:10:15+01:00",
+    "updated_at": "2023-11-22T12:10:17+01:00",
+    "media_id": "se3x5sdaiis0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290810/rabobank-krijgt-miljoenenboete-eu-om-verzwijgen-van-kartel-met-deutsche-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290807,
+    "slug": "beleefde-beer-bedelt-om-broodjes-in-roemenie",
+    "type": "video",
+    "title": "Beleefde beer bedelt om broodjes in Roemenië",
+    "subtitle": "Video",
+    "published_at": "2023-11-22T11:57:26+01:00",
+    "updated_at": "2023-11-22T11:59:15+01:00",
+    "media_id": "80vxf8zacfdz",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290807/beleefde-beer-bedelt-om-broodjes-in-roemenie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290802,
+    "slug": "bagagesjouwers-krijgen-met-33-procent-loonsverhoging-meer-dan-vakbond-wilde",
+    "type": "article",
+    "title": "Bagagesjouwers krijgen met 33 procent loonsverhoging meer dan vakbond wilde",
     "subtitle": null,
     "published_at": "2023-11-22T11:33:00+01:00",
-    "updated_at": "2023-11-22T11:33:01+01:00",
+    "updated_at": "2023-11-22T12:15:30+01:00",
     "media_id": "l3kx3yta1ubu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6290802/bagagesjouwers-op-luchthavens-krijgen-ruim-30-procent-meer-loon.html",
+    "url": "/economie/6290802/bagagesjouwers-krijgen-met-33-procent-loonsverhoging-meer-dan-vakbond-wilde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6290770/in-tilburg-ontsnapte-groene-gifslang-is-nog-niet-gevonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290768,
-    "slug": "heldenrol-oud-ajacied-alvarez-en-feyenoorder-gimenez-bij-winnend-mexico",
-    "type": "article",
-    "title": "Heldenrol oud-Ajacied Álvarez en Feyenoorder Giménez bij winnend Mexico",
-    "subtitle": null,
-    "published_at": "2023-11-22T09:04:24+01:00",
-    "updated_at": "2023-11-22T09:19:56+01:00",
-    "media_id": "l7mxnvbaf212",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290768/heldenrol-oud-ajacied-alvarez-en-feyenoorder-gimenez-bij-winnend-mexico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290767,
-    "slug": "megaboete-voor-cryptobeurs-binance-omdat-terroristen-er-transacties-deden",
-    "type": "article",
-    "title": "Megaboete voor cryptobeurs Binance omdat terroristen er transacties deden",
-    "subtitle": null,
-    "published_at": "2023-11-22T08:59:01+01:00",
-    "updated_at": "2023-11-22T09:24:01+01:00",
-    "media_id": "g7cxkj0auqxe",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290767/megaboete-voor-cryptobeurs-binance-omdat-terroristen-er-transacties-deden.html",
     "open_new_window": false,
     "partner": null
   }
