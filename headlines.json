@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290829,
+    "slug": "ik-kan-mij-vinden-in-de-verkiezingsuitslag",
+    "type": "article",
+    "title": "'Ik kan mij vinden in de verkiezingsuitslag'",
+    "subtitle": "Stelling van de dag",
+    "published_at": "2023-11-23T08:24:51+01:00",
+    "updated_at": "2023-11-23T08:24:52+01:00",
+    "media_id": "4pjx2zeaabb2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6290829/ik-kan-mij-vinden-in-de-verkiezingsuitslag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290923,
     "slug": "margriet-van-der-linden-maakt-documentaireserie-over-gevolgen-van-haat",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290899/vvd-haalt-kleinste-aantal-zetels-sinds-2006-onvoldoende-geluisterd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290898,
-    "slug": "omtzigt-wil-kabinet-in-vertrouwen-omzetten-in-daden",
-    "type": "video",
-    "title": "Omtzigt wil kabinet in: 'Vertrouwen omzetten in daden'",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T23:22:29+01:00",
-    "updated_at": "2023-11-22T23:22:30+01:00",
-    "media_id": "a54xdgoarfh8",
-    "duration": "1:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290898/omtzigt-wil-kabinet-in-vertrouwen-omzetten-in-daden.html",
     "open_new_window": false,
     "partner": null
   }
