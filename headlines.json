@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290914,
+    "slug": "dag-begint-zacht-maar-bereid-je-voor-op-regen",
+    "type": "article",
+    "title": "Dag begint zacht, maar bereid je voor op regen",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-23T05:38:45+01:00",
+    "updated_at": "2023-11-23T05:38:46+01:00",
+    "media_id": "iqaxitvadnqt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6290914/dag-begint-zacht-maar-bereid-je-voor-op-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290913,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Hoe 'oude rot' Wilders wél handig gebruikmaakt van vertrek Rutte",
     "subtitle": "Explainer",
     "published_at": "2023-11-23T04:09:07+01:00",
-    "updated_at": "2023-11-23T05:25:34+01:00",
+    "updated_at": "2023-11-23T05:47:00+01:00",
     "media_id": "ic3xhz4ajg7f",
     "duration": "2:38",
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Voorlopige prognose: PVV wint extra zetels en komt op 37, D66 zakt naar 9",
     "subtitle": null,
     "published_at": "2023-11-23T01:42:34+01:00",
-    "updated_at": "2023-11-23T03:48:10+01:00",
+    "updated_at": "2023-11-23T05:48:07+01:00",
     "media_id": "seaxc4fas9jo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290888/wilders-reageert-op-forse-winst-nederlander-komt-weer-op-een-te-staan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290854,
-    "slug": "wekenlange-aanloop-en-tientallen-telefoontjes-details-over-deal-israel-en-hamas",
-    "type": "article",
-    "title": "Wekenlange aanloop en tientallen telefoontjes: details over deal Israël en Hamas",
-    "subtitle": null,
-    "published_at": "2023-11-22T21:49:14+01:00",
-    "updated_at": "2023-11-23T00:20:35+01:00",
-    "media_id": "6agx4upaadld",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290854/wekenlange-aanloop-en-tientallen-telefoontjes-details-over-deal-israel-en-hamas.html",
     "open_new_window": false,
     "partner": null
   }
