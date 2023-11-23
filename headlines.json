@@ -1,5 +1,51 @@
 [
   {
+    "id": 6291082,
+    "slug": "enige-nederlandse-super-bowl-winnaar-harald-hasselbach-56-overleden",
+    "type": "article",
+    "title": "Enige Nederlandse Super Bowl-winnaar Harald Hasselbach (56) overleden",
+    "subtitle": null,
+    "published_at": "2023-11-23T22:05:43+01:00",
+    "updated_at": "2023-11-23T22:05:44+01:00",
+    "media_id": "hjzxoy9afddz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6291082/enige-nederlandse-super-bowl-winnaar-harald-hasselbach-56-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291081,
+    "slug": "rellen-in-centrum-van-dublin-na-steekincident-waarbij-kinderen-gewond-raakten",
+    "type": "article",
+    "title": "Rellen in centrum van Dublin na steekincident waarbij kinderen gewond raakten",
+    "subtitle": null,
+    "published_at": "2023-11-23T21:48:38+01:00",
+    "updated_at": "2023-11-23T22:06:15+01:00",
+    "media_id": "8fkxyblavkqq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291081/rellen-in-centrum-van-dublin-na-steekincident-waarbij-kinderen-gewond-raakten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291080,
     "slug": "utrechters-demonstreren-tegen-verkiezingswinst-pvv",
     "type": "video",
@@ -162,13 +208,13 @@
   },
   {
     "id": 6291070,
-    "slug": "liveblog-cl-ajax-vrouwen-staat-na-kwartier-al-2-0-achter-tegen-as-roma",
+    "slug": "liveblog-cl-as-roma-vergroot-voorsprong-na-rust-tegen-ajax-vrouwen",
     "type": "article",
-    "title": "Liveblog CL | Ajax Vrouwen staat na kwartier al 2-0 achter tegen AS Roma",
+    "title": "Liveblog CL | AS Roma vergroot voorsprong na rust tegen Ajax Vrouwen",
     "subtitle": null,
     "published_at": "2023-11-23T20:07:24+01:00",
-    "updated_at": "2023-11-23T21:29:26+01:00",
-    "media_id": "c5wxhqra8dxz",
+    "updated_at": "2023-11-23T22:10:42+01:00",
+    "media_id": "dz1x92eaewii",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291070/liveblog-cl-ajax-vrouwen-staat-na-kwartier-al-2-0-achter-tegen-as-roma.html",
+    "url": "/voetbal/6291070/liveblog-cl-as-roma-vergroot-voorsprong-na-rust-tegen-ajax-vrouwen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6291052/organisator-concerten-taylor-swift-geeft-fouten-toe-na-sterfgeval-door-hitte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291028,
-    "slug": "cultuursector-geschokt-na-winst-pvv-houden-rekening-met-gitzwart-scenario",
-    "type": "article",
-    "title": "Cultuursector geschokt na winst PVV: 'Houden rekening met gitzwart scenario'",
-    "subtitle": null,
-    "published_at": "2023-11-23T18:03:59+01:00",
-    "updated_at": "2023-11-23T19:53:04+01:00",
-    "media_id": "6qaxun4ab2e7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6291028/cultuursector-geschokt-na-winst-pvv-houden-rekening-met-gitzwart-scenario.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291021,
-    "slug": "yesilgoz-en-omtzigt-zeggen-nog-geen-nee-tegen-coalitie-met-pvv",
-    "type": "article",
-    "title": "Yesilgöz en Omtzigt zeggen nog geen nee tegen coalitie met PVV",
-    "subtitle": null,
-    "published_at": "2023-11-23T17:37:27+01:00",
-    "updated_at": "2023-11-23T18:44:00+01:00",
-    "media_id": "0xjxbcdavdp5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
-      "type": "default",
-      "name": "Formatie 2023",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formatie-2023/6291021/yesilgoz-en-omtzigt-zeggen-nog-geen-nee-tegen-coalitie-met-pvv.html",
     "open_new_window": false,
     "partner": null
   }
