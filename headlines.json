@@ -1,5 +1,51 @@
 [
   {
+    "id": 6291101,
+    "slug": "royce-de-vries-brengt-geheim-logboek-van-zijn-vader-uit",
+    "type": "article",
+    "title": "Royce de Vries brengt geheim logboek van zijn vader uit",
+    "subtitle": null,
+    "published_at": "2023-11-24T08:19:27+01:00",
+    "updated_at": "2023-11-24T08:19:28+01:00",
+    "media_id": "fstxuyoaq725",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6291101/royce-de-vries-brengt-geheim-logboek-van-zijn-vader-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291099,
+    "slug": "finnen-krijgen-vrijdag-geld-toe-als-ze-de-sauna-induiken",
+    "type": "article",
+    "title": "Finnen krijgen vrijdag geld toe als ze de sauna induiken",
+    "subtitle": null,
+    "published_at": "2023-11-24T08:19:06+01:00",
+    "updated_at": "2023-11-24T08:29:21+01:00",
+    "media_id": "vkcxpa0auw9m",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291099/finnen-krijgen-vrijdag-geld-toe-als-ze-de-sauna-induiken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291098,
     "slug": "balotelli-ongedeerd-na-crash-met-dure-audi-in-italie",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Wapenstilstand Israël en Hamas ingegaan, hulp aan Gaza moet op gang komen",
     "subtitle": null,
     "published_at": "2023-11-24T06:14:46+01:00",
-    "updated_at": "2023-11-24T07:40:43+01:00",
+    "updated_at": "2023-11-24T08:23:37+01:00",
     "media_id": "k5hxejhaurtf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6291068/verenigde-staten-vrezen-voor-invasie-van-supervarkens-vanuit-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291082,
-    "slug": "enige-nederlandse-super-bowl-winnaar-harald-hasselbach-56-overleden",
-    "type": "article",
-    "title": "Enige Nederlandse Super Bowl-winnaar Harald Hasselbach (56) overleden",
-    "subtitle": null,
-    "published_at": "2023-11-23T22:05:43+01:00",
-    "updated_at": "2023-11-23T23:54:59+01:00",
-    "media_id": "hjzxoy9afddz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6291082/enige-nederlandse-super-bowl-winnaar-harald-hasselbach-56-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291081,
-    "slug": "rellen-in-centrum-van-dublin-na-steekincident-waarbij-kinderen-gewond-raakten",
-    "type": "article",
-    "title": "Rellen in centrum van Dublin na steekincident waarbij kinderen gewond raakten",
-    "subtitle": null,
-    "published_at": "2023-11-23T21:48:38+01:00",
-    "updated_at": "2023-11-24T05:38:45+01:00",
-    "media_id": "8fkxyblavkqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291081/rellen-in-centrum-van-dublin-na-steekincident-waarbij-kinderen-gewond-raakten.html",
     "open_new_window": false,
     "partner": null
   }
