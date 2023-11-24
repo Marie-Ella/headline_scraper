@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291226,
+    "slug": "vrijgelaten-gijzelaars-rijden-per-ambulance-door-stad-in-gaza",
+    "type": "video",
+    "title": "Vrijgelaten gijzelaars rijden per ambulance door stad in Gaza",
+    "subtitle": "Video",
+    "published_at": "2023-11-24T19:28:53+01:00",
+    "updated_at": "2023-11-24T19:30:46+01:00",
+    "media_id": "2ymxuq4an63n",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6291226/vrijgelaten-gijzelaars-rijden-per-ambulance-door-stad-in-gaza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291225,
     "slug": "avocados-knijpen-in-deze-supermarkt-hoeft-dat-niet-meer",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Blijf op de hoogte van de formatie van een nieuw kabinet",
     "subtitle": null,
     "published_at": "2023-11-24T19:04:48+01:00",
-    "updated_at": "2023-11-24T19:06:27+01:00",
+    "updated_at": "2023-11-24T19:29:31+01:00",
     "media_id": "n8jxdd9aai7d",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6291197,
-    "slug": "ajax-mogelijk-zonder-brobbey-en-sutalo-tegen-vitesse-berghuis-en-bergwijn-wel-fit",
+    "slug": "ajax-mist-mogelijk-brobbey-en-sutalo-tegen-vitesse-berghuis-en-bergwijn-wel-fit",
     "type": "article",
-    "title": "Ajax mogelijk zonder Brobbey en Sutalo tegen Vitesse, Berghuis en Bergwijn wél fit",
+    "title": "Ajax mist mogelijk Brobbey en Sutalo tegen Vitesse, Berghuis en Bergwijn wél fit",
     "subtitle": null,
     "published_at": "2023-11-24T16:35:46+01:00",
-    "updated_at": "2023-11-24T16:40:57+01:00",
+    "updated_at": "2023-11-24T19:30:45+01:00",
     "media_id": "f1excujalavx",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291197/ajax-mogelijk-zonder-brobbey-en-sutalo-tegen-vitesse-berghuis-en-bergwijn-wel-fit.html",
+    "url": "/voetbal/6291197/ajax-mist-mogelijk-brobbey-en-sutalo-tegen-vitesse-berghuis-en-bergwijn-wel-fit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6291184/hamas-laat-eerste-groep-israelische-gijzelaars-vrij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291177,
-    "slug": "geen-oplossing-voor-eurostar-naar-londen-trein-rijdt-zes-maanden-niet",
-    "type": "article",
-    "title": "Geen oplossing voor Eurostar naar Londen: trein rijdt zes maanden niet",
-    "subtitle": null,
-    "published_at": "2023-11-24T15:26:02+01:00",
-    "updated_at": "2023-11-24T18:02:02+01:00",
-    "media_id": "dudxjv8a6esk",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6291177/geen-oplossing-voor-eurostar-naar-londen-trein-rijdt-zes-maanden-niet.html",
     "open_new_window": false,
     "partner": null
   }
