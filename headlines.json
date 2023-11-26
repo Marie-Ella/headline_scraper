@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291379,
+    "slug": "opstootjes-en-arrestaties-na-schietpartij-in-rotterdam-ahoy",
+    "type": "video",
+    "title": "Opstootjes en arrestaties na schietpartij in Rotterdam Ahoy",
+    "subtitle": "Video",
+    "published_at": "2023-11-26T09:32:53+01:00",
+    "updated_at": "2023-11-26T09:32:54+01:00",
+    "media_id": "og2x19ha0qwv",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291379/opstootjes-en-arrestaties-na-schietpartij-in-rotterdam-ahoy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291377,
     "slug": "van-t-schip-gaf-ajax-spelers-er-flink-van-langs-in-de-rust-we-namen-gas-terug",
     "type": "article",
@@ -190,8 +213,8 @@
     "title": "Man ernstig gewond bij schietpartij Rotterdam Ahoy, twee verdachten opgepakt",
     "subtitle": null,
     "published_at": "2023-11-26T06:38:25+01:00",
-    "updated_at": "2023-11-26T07:36:48+01:00",
-    "media_id": "3lzxfs1ads9m",
+    "updated_at": "2023-11-26T09:50:15+01:00",
+    "media_id": "og2x19ha0qwv",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -282,7 +305,7 @@
     "title": "Welke coalitie maakt de meeste kans? Jullie verkiezingsvragen beantwoord",
     "subtitle": "NU+",
     "published_at": "2023-11-26T05:07:00+01:00",
-    "updated_at": "2023-11-26T09:19:49+01:00",
+    "updated_at": "2023-11-26T09:33:17+01:00",
     "media_id": "xluxvzrag8e8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6291355/hamas-en-israel-hervatten-gevangenenruil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291365,
-    "slug": "ajax-boekt-tegen-dolend-vitesse-grootste-zege-in-negen-maanden",
-    "type": "article",
-    "title": "Ajax boekt tegen dolend Vitesse grootste zege in negen maanden",
-    "subtitle": null,
-    "published_at": "2023-11-25T22:57:57+01:00",
-    "updated_at": "2023-11-26T09:17:02+01:00",
-    "media_id": "zyjxxdkadhyf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291365/ajax-boekt-tegen-dolend-vitesse-grootste-zege-in-negen-maanden.html",
     "open_new_window": false,
     "partner": null
   }
