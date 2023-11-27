@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291598,
+    "slug": "hevige-sneeuwstormen-en-wind-teisteren-oost-europa",
+    "type": "video",
+    "title": "Hevige sneeuwstormen en wind teisteren Oost-Europa",
+    "subtitle": "Video",
+    "published_at": "2023-11-27T21:39:44+01:00",
+    "updated_at": "2023-11-27T21:44:27+01:00",
+    "media_id": "864xdy5alu7e",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291598/hevige-sneeuwstormen-en-wind-teisteren-oost-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291596,
     "slug": "coa-gaat-gemeenten-bellen-die-te-weinig-doen-om-statushouders-te-huisvesten",
     "type": "article",
     "title": "COA gaat gemeenten bellen die te weinig doen om statushouders te huisvesten",
     "subtitle": null,
     "published_at": "2023-11-27T21:16:54+01:00",
-    "updated_at": "2023-11-27T21:23:31+01:00",
+    "updated_at": "2023-11-27T21:30:37+01:00",
     "media_id": "pwzx9r1aq8qp",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Blijft de sneeuw ook bij jou liggen? Deel je mooiste foto's",
     "subtitle": "Oproep",
     "published_at": "2023-11-27T20:44:33+01:00",
-    "updated_at": "2023-11-27T21:19:10+01:00",
+    "updated_at": "2023-11-27T21:35:00+01:00",
     "media_id": "vifxkqfaresf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6291515/israel-laat-palestijnse-gevangenen-vrij-wie-zijn-deze-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291047,
-    "slug": "frenkie-de-jong-en-vriendin-mikky-kiemeney-ouders-geworden-van-eerste-kindje",
-    "type": "article",
-    "title": "Frenkie de Jong en vriendin Mikky Kiemeney ouders geworden van eerste kindje",
-    "subtitle": null,
-    "published_at": "2023-11-27T18:16:58+01:00",
-    "updated_at": "2023-11-27T18:58:20+01:00",
-    "media_id": "kexxjagaig45",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6291047/frenkie-de-jong-en-vriendin-mikky-kiemeney-ouders-geworden-van-eerste-kindje.html",
     "open_new_window": false,
     "partner": null
   }
