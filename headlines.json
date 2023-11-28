@@ -1,12 +1,81 @@
 [
   {
+    "id": 6291655,
+    "slug": "pasgeboren-reuzenmiereneter-knuffelt-met-moeder-in-zooparc",
+    "type": "video",
+    "title": "Pasgeboren reuzenmiereneter knuffelt met moeder in ZooParc",
+    "subtitle": "Video",
+    "published_at": "2023-11-28T11:34:39+01:00",
+    "updated_at": "2023-11-28T11:34:40+01:00",
+    "media_id": "lwtxwxgac6do",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291655/pasgeboren-reuzenmiereneter-knuffelt-met-moeder-in-zooparc.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291650,
+    "slug": "amerikaanse-mannen-na-tientallen-jaren-cel-vrijgesproken-van-moord",
+    "type": "article",
+    "title": "Amerikaanse mannen na tientallen jaren cel vrijgesproken van moord",
+    "subtitle": null,
+    "published_at": "2023-11-28T11:33:31+01:00",
+    "updated_at": "2023-11-28T11:33:33+01:00",
+    "media_id": "q5qxw2pax48p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291650/amerikaanse-mannen-na-tientallen-jaren-cel-vrijgesproken-van-moord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291647,
+    "slug": "man-in-marokko-opgepakt-wegens-tientallen-bommeldingen-bij-belgische-scholen",
+    "type": "article",
+    "title": "Man in Marokko opgepakt wegens tientallen bommeldingen bij Belgische scholen",
+    "subtitle": null,
+    "published_at": "2023-11-28T11:24:47+01:00",
+    "updated_at": "2023-11-28T11:26:03+01:00",
+    "media_id": "p73x6yna1c0w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291647/man-in-marokko-opgepakt-wegens-tientallen-bommeldingen-bij-belgische-scholen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291648,
     "slug": "ronaldo-heeft-direct-spijt-van-schwalbe-en-laat-penalty-terugdraaien",
     "type": "video",
     "title": "Ronaldo heeft direct spijt van schwalbe en laat penalty terugdraaien",
     "subtitle": "Video",
     "published_at": "2023-11-28T11:17:52+01:00",
-    "updated_at": "2023-11-28T11:17:53+01:00",
+    "updated_at": "2023-11-28T11:25:33+01:00",
     "media_id": "chqxyu2ap3g4",
     "duration": "1:03",
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Redding in zicht voor 41 Indiase bouwvakkers in ingestorte tunnel",
     "subtitle": null,
     "published_at": "2023-11-28T10:25:49+01:00",
-    "updated_at": "2023-11-28T10:30:21+01:00",
+    "updated_at": "2023-11-28T11:27:47+01:00",
     "media_id": "4zux03xap9k6",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6291611/israel-wil-vandaag-nog-vijftig-gevangenen-vrijlaten-inclusief-bekende-activiste.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291610,
-    "slug": "potje-geld-beschikbaar-voor-caribische-studenten-die-nederland-willen-ontdekken",
-    "type": "article",
-    "title": "Potje geld beschikbaar voor Caribische studenten die Nederland willen ontdekken",
-    "subtitle": null,
-    "published_at": "2023-11-28T06:07:37+01:00",
-    "updated_at": "2023-11-28T09:00:34+01:00",
-    "media_id": "jk0xbpua7das",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291610/potje-geld-beschikbaar-voor-caribische-studenten-die-nederland-willen-ontdekken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291609,
-    "slug": "verkeer-moet-oppassen-voor-gladde-ochtendspits-daarna-zonnige-dag",
-    "type": "article",
-    "title": "Verkeer moet oppassen voor gladde ochtendspits, daarna zonnige dag",
-    "subtitle": null,
-    "published_at": "2023-11-28T05:39:18+01:00",
-    "updated_at": "2023-11-28T08:55:51+01:00",
-    "media_id": "u7pxm4yadhg8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6291609/verkeer-moet-oppassen-voor-gladde-ochtendspits-daarna-zonnige-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291608,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-11-28T05:06:20+01:00",
-    "updated_at": "2023-11-28T05:06:21+01:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6291608/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
