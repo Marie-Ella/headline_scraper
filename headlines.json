@@ -1,13 +1,59 @@
 [
   {
+    "id": 6291782,
+    "slug": "elton-john-en-paul-mccartney-spelen-in-nieuwe-spinal-tap-film",
+    "type": "article",
+    "title": "Elton John en Paul McCartney spelen in nieuwe Spinal Tap-film",
+    "subtitle": null,
+    "published_at": "2023-11-29T07:18:45+01:00",
+    "updated_at": "2023-11-29T07:18:46+01:00",
+    "media_id": "6e8x3hka7s52",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6291782/elton-john-en-paul-mccartney-spelen-in-nieuwe-spinal-tap-film.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291779,
+    "slug": "amerikaanse-vicepresident-harris-in-plaats-van-biden-naar-klimaattop",
+    "type": "article",
+    "title": "Amerikaanse vicepresident Harris in plaats van Biden naar klimaattop",
+    "subtitle": null,
+    "published_at": "2023-11-29T06:58:18+01:00",
+    "updated_at": "2023-11-29T07:10:36+01:00",
+    "media_id": "hzsx39wa3hht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6291779/amerikaanse-vicepresident-harris-in-plaats-van-biden-naar-klimaattop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291778,
     "slug": "charli-xcx-verloofd-met-the-1975-drummer-george-daniel",
     "type": "article",
     "title": "Charli XCX verloofd met The 1975-drummer George Daniel",
     "subtitle": null,
     "published_at": "2023-11-29T06:48:23+01:00",
-    "updated_at": "2023-11-29T06:48:24+01:00",
-    "media_id": "kdrxs4uaznsv",
+    "updated_at": "2023-11-29T06:54:52+01:00",
+    "media_id": "wezxl7hati33",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -213,7 +259,7 @@
     "title": "Feyenoord komt tekort voor CL-overwintering: 'Laten liggen in Rome en Madrid'",
     "subtitle": null,
     "published_at": "2023-11-29T05:02:40+01:00",
-    "updated_at": "2023-11-29T06:38:19+01:00",
+    "updated_at": "2023-11-29T07:21:58+01:00",
     "media_id": "9acx9tpajgu7",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Agenten en brandweerlieden zijn het vaakst lid van een vakbond",
     "subtitle": null,
     "published_at": "2023-11-29T00:05:59+01:00",
-    "updated_at": "2023-11-29T00:06:00+01:00",
+    "updated_at": "2023-11-29T07:02:47+01:00",
     "media_id": "6dmxhvla5kf7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6291766/sneeuw-bedekt-a1-in-het-oosten-van-ons-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291763,
-    "slug": "malen-met-dortmund-naar-knock-outfase-champions-league-na-zege-bij-milan",
-    "type": "article",
-    "title": "Malen met Dortmund naar knock-outfase Champions League na zege bij Milan",
-    "subtitle": null,
-    "published_at": "2023-11-28T23:07:42+01:00",
-    "updated_at": "2023-11-29T00:03:21+01:00",
-    "media_id": "ma5xw45aclr8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291763/malen-met-dortmund-naar-knock-outfase-champions-league-na-zege-bij-milan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291765,
-    "slug": "hermoso-zet-atletico-met-knappe-goal-op-0-2-voorsprong-tegen-feyenoord",
-    "type": "video",
-    "title": "Hermoso zet Atlético met knappe goal op 0-2-voorsprong tegen Feyenoord",
-    "subtitle": "Video",
-    "published_at": "2023-11-28T23:05:52+01:00",
-    "updated_at": "2023-11-28T23:09:14+01:00",
-    "media_id": "sy5x1pzadxoa",
-    "duration": "1:26",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6291765/hermoso-zet-atletico-met-knappe-goal-op-0-2-voorsprong-tegen-feyenoord.html",
     "open_new_window": false,
     "partner": null
   }
