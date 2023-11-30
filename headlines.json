@@ -1,12 +1,58 @@
 [
   {
+    "id": 6291870,
+    "slug": "dit-moet-je-juist-niet-doen-als-je-in-dichte-mist-rijdt",
+    "type": "video",
+    "title": "Dit moet je (juist niet) doen als je in dichte mist rijdt",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-30T06:39:43+01:00",
+    "updated_at": "2023-11-30T06:39:44+01:00",
+    "media_id": "bacx5wwaidj9",
+    "duration": "1:24",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6291870/dit-moet-je-juist-niet-doen-als-je-in-dichte-mist-rijdt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291938,
+    "slug": "inflatie-blijkt-hardnekkig-prijzen-stegen-deze-maand-opnieuw",
+    "type": "article",
+    "title": "Inflatie blijkt hardnekkig: prijzen stegen deze maand opnieuw",
+    "subtitle": null,
+    "published_at": "2023-11-30T06:36:31+01:00",
+    "updated_at": "2023-11-30T06:46:18+01:00",
+    "media_id": "d2qx3obalvb2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291938/inflatie-blijkt-hardnekkig-prijzen-stegen-deze-maand-opnieuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269199,
     "slug": "cruijff-fan-kissinger-dacht-verder-vooruit-dan-menig-amerikaans-president",
     "type": "article",
     "title": "Cruijff-fan Kissinger dacht verder vooruit dan menig Amerikaans president",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-11-30T06:14:24+01:00",
-    "updated_at": "2023-11-30T06:14:25+01:00",
+    "updated_at": "2023-11-30T06:40:08+01:00",
     "media_id": "n2zxizoap7wp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Staakt-het-vuren tussen Israël en Hamas opnieuw verlengd",
     "subtitle": null,
     "published_at": "2023-11-30T06:02:49+01:00",
-    "updated_at": "2023-11-30T06:06:30+01:00",
+    "updated_at": "2023-11-30T06:42:34+01:00",
     "media_id": "2ubx4jraa2l2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6291929/samenvatting-veerkrachtig-psv-boekt-spectaculaire-zege-bij-sevilla.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291925,
-    "slug": "mijlpalen-psv-op-sensationele-cl-avond-na-25-jaar-meer-dan-2-goals-in-uitduel",
-    "type": "article",
-    "title": "Mijlpalen PSV op sensationele CL-avond: na 25 jaar meer dan 2 goals in uitduel",
-    "subtitle": null,
-    "published_at": "2023-11-29T22:55:13+01:00",
-    "updated_at": "2023-11-29T22:55:14+01:00",
-    "media_id": "ojgxg06ae5q1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291925/mijlpalen-psv-op-sensationele-cl-avond-na-25-jaar-meer-dan-2-goals-in-uitduel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291928,
-    "slug": "nederlands-israelische-gijzelaar-ofir-engel-18-vrijgelaten-door-hamas",
-    "type": "article",
-    "title": "Nederlands-Israëlische gijzelaar Ofir Engel (18) vrijgelaten door Hamas",
-    "subtitle": null,
-    "published_at": "2023-11-29T22:29:31+01:00",
-    "updated_at": "2023-11-30T05:28:28+01:00",
-    "media_id": "aipxa9faxyk4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291928/nederlands-israelische-gijzelaar-ofir-engel-18-vrijgelaten-door-hamas.html",
     "open_new_window": false,
     "partner": null
   }
