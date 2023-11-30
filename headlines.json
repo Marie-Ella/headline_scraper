@@ -1,12 +1,81 @@
 [
   {
-    "id": 6291974,
-    "slug": "nicol-kremers-moet-zich-aan-afspraak-houden-en-mag-niets-zeggen-over-relatie-met-peter-gillis",
+    "id": 6291958,
+    "slug": "de-redactie-van-nunl-legt-vandaag-het-werk-neer-tussen-1100-en-1200-uur",
     "type": "article",
-    "title": "Nicol Kremers moet zich aan afspraak houden en mag niets zeggen over relatie met Peter Gillis",
+    "title": "De redactie van NU.nl legt vandaag het werk neer tussen 11.00 en 12.00 uur",
+    "subtitle": null,
+    "published_at": "2023-11-30T11:01:38+01:00",
+    "updated_at": "2023-11-30T11:01:39+01:00",
+    "media_id": "rv4xv6ta3n23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6291958/de-redactie-van-nunl-legt-vandaag-het-werk-neer-tussen-1100-en-1200-uur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291981,
+    "slug": "oranje-stijgt-naar-zesde-plek-op-fifa-ranglijst-en-springt-over-portugal-heen",
+    "type": "article",
+    "title": "Oranje stijgt naar zesde plek op FIFA-ranglijst en springt over Portugal heen",
+    "subtitle": null,
+    "published_at": "2023-11-30T10:53:09+01:00",
+    "updated_at": "2023-11-30T10:56:19+01:00",
+    "media_id": "a01xw23az6k1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291981/oranje-stijgt-naar-zesde-plek-op-fifa-ranglijst-en-springt-over-portugal-heen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291982,
+    "slug": "kerstbomen-lampjes-en-sneeuw-berlijn-is-klaar-voor-de-feestdagen",
+    "type": "video",
+    "title": "Kerstbomen, lampjes en sneeuw: Berlijn is klaar voor de feestdagen",
+    "subtitle": "Video",
+    "published_at": "2023-11-30T10:48:32+01:00",
+    "updated_at": "2023-11-30T10:50:21+01:00",
+    "media_id": "6yfx179aiv0j",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291982/kerstbomen-lampjes-en-sneeuw-berlijn-is-klaar-voor-de-feestdagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291974,
+    "slug": "nicol-kremers-moet-zich-aan-geheimhouding-houden-in-zaak-peter-gillis",
+    "type": "article",
+    "title": "Nicol Kremers moet zich aan geheimhouding houden in zaak Peter Gillis",
     "subtitle": null,
     "published_at": "2023-11-30T10:46:51+01:00",
-    "updated_at": "2023-11-30T10:47:25+01:00",
+    "updated_at": "2023-11-30T10:57:10+01:00",
     "media_id": "dszxqunau6v6",
     "duration": null,
     "canonical_section": {
@@ -18,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6291974/nicol-kremers-moet-zich-aan-afspraak-houden-en-mag-niets-zeggen-over-relatie-met-peter-gillis.html",
+    "url": "/achterklap/6291974/nicol-kremers-moet-zich-aan-geheimhouding-houden-in-zaak-peter-gillis.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6291978,
-    "slug": "om-eist-dertig-jaar-cel-voor-dubbele-moord-in-mcdonalds-restaurant-zwolle",
+    "slug": "dertig-jaar-cel-geeist-voor-dubbele-moord-in-mcdonalds-restaurant-zwolle",
     "type": "article",
-    "title": "OM eist dertig jaar cel voor dubbele moord in McDonald's-restaurant Zwolle",
+    "title": "Dertig jaar cel geëist voor dubbele moord in McDonald's-restaurant Zwolle",
     "subtitle": null,
     "published_at": "2023-11-30T10:41:25+01:00",
-    "updated_at": "2023-11-30T10:45:39+01:00",
+    "updated_at": "2023-11-30T10:56:12+01:00",
     "media_id": "o53x96vac64e",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6291978/om-eist-dertig-jaar-cel-voor-dubbele-moord-in-mcdonalds-restaurant-zwolle.html",
+    "url": "/binnenland/6291978/dertig-jaar-cel-geeist-voor-dubbele-moord-in-mcdonalds-restaurant-zwolle.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +213,7 @@
     "title": "Staatssecretaris Uslu van Cultuur en Media stapt op en wordt topvrouw bij Corendon",
     "subtitle": null,
     "published_at": "2023-11-30T10:03:36+01:00",
-    "updated_at": "2023-11-30T10:43:05+01:00",
+    "updated_at": "2023-11-30T10:56:56+01:00",
     "media_id": "lnvxecqahwjb",
     "duration": null,
     "canonical_section": {
@@ -208,12 +277,12 @@
   },
   {
     "id": 6291953,
-    "slug": "hamas-laat-nederlandse-gijzelaar-ofir-engel-vrij",
+    "slug": "hamas-laat-israelisch-nederlandse-gijzelaar-ofir-engel-vrij",
     "type": "video",
-    "title": "Hamas laat Nederlandse gijzelaar Ofir Engel vrij",
+    "title": "Hamas laat Israëlisch-Nederlandse gijzelaar Ofir Engel vrij",
     "subtitle": "Video",
     "published_at": "2023-11-30T09:15:11+01:00",
-    "updated_at": "2023-11-30T09:15:13+01:00",
+    "updated_at": "2023-11-30T10:48:52+01:00",
     "media_id": "z4wxw3yay7r3",
     "duration": "0:52",
     "canonical_section": {
@@ -225,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6291953/hamas-laat-nederlandse-gijzelaar-ofir-engel-vrij.html",
+    "url": "/videos/6291953/hamas-laat-israelisch-nederlandse-gijzelaar-ofir-engel-vrij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +374,7 @@
     "title": "Nederlandse Staat verkoopt opnieuw een deel van zijn belang in ABN AMRO",
     "subtitle": null,
     "published_at": "2023-11-30T08:25:24+01:00",
-    "updated_at": "2023-11-30T09:18:21+01:00",
+    "updated_at": "2023-11-30T10:57:56+01:00",
     "media_id": "o76xrfba0265",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6291944/peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291943,
-    "slug": "ocampos-kop-van-jut-bij-sevilla-na-echec-tegen-psv-rode-kaart-kost-ons-de-kop",
-    "type": "article",
-    "title": "Ocampos kop van Jut bij Sevilla na echec tegen PSV: 'Rode kaart kost ons de kop'",
-    "subtitle": null,
-    "published_at": "2023-11-30T07:10:32+01:00",
-    "updated_at": "2023-11-30T09:15:18+01:00",
-    "media_id": "rrsxfbxah5gy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291943/ocampos-kop-van-jut-bij-sevilla-na-echec-tegen-psv-rode-kaart-kost-ons-de-kop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291940,
-    "slug": "boek-over-britse-royals-zorgt-voor-ophef-aangepaste-versie-komt-volgende-week-uit",
-    "type": "article",
-    "title": "Boek over Britse royals zorgt voor ophef, aangepaste versie komt volgende week uit",
-    "subtitle": null,
-    "published_at": "2023-11-30T07:08:21+01:00",
-    "updated_at": "2023-11-30T08:14:29+01:00",
-    "media_id": "9vmxgx6a69qj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6291940/boek-over-britse-royals-zorgt-voor-ophef-aangepaste-versie-komt-volgende-week-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291941,
-    "slug": "mist-niet-te-missen-op-deze-koude-en-droge-donderdag",
-    "type": "article",
-    "title": "Mist niet te missen op deze koude en droge donderdag",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-11-30T06:58:28+01:00",
-    "updated_at": "2023-11-30T07:45:34+01:00",
-    "media_id": "y43xi8fa4x6y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6291941/mist-niet-te-missen-op-deze-koude-en-droge-donderdag.html",
     "open_new_window": false,
     "partner": null
   }
