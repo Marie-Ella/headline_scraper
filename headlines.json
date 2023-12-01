@@ -1,5 +1,97 @@
 [
   {
+    "id": 6292185,
+    "slug": "dit-weekend-waarschijnlijk-nog-geen-marathon-op-natuurijs-winterswijk-haakt-af",
+    "type": "article",
+    "title": "Dit weekend waarschijnlijk nog geen marathon op natuurijs: Winterswijk haakt af",
+    "subtitle": null,
+    "published_at": "2023-12-01T13:24:15+01:00",
+    "updated_at": "2023-12-01T13:24:16+01:00",
+    "media_id": "40mxrlbap73d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6292185/dit-weekend-waarschijnlijk-nog-geen-marathon-op-natuurijs-winterswijk-haakt-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292155,
+    "slug": "stemde-jij-voor-het-eerst-op-de-pvv-wij-zoeken-jou",
+    "type": "article",
+    "title": "Stemde jij voor het eerst op de PVV? Wij zoeken jou",
+    "subtitle": "Oproep",
+    "published_at": "2023-12-01T13:05:34+01:00",
+    "updated_at": "2023-12-01T13:18:46+01:00",
+    "media_id": "wmbxiiwahw69",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779137,
+      "slug": "vragenoproep",
+      "type": "default",
+      "name": "Oproep",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vragenoproep/6292155/stemde-jij-voor-het-eerst-op-de-pvv-wij-zoeken-jou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292183,
+    "slug": "abeltje-producent-en-acteur-burny-bos-op-79-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Abeltje-producent en acteur Burny Bos op 79-jarige leeftijd overleden",
+    "subtitle": null,
+    "published_at": "2023-12-01T12:58:07+01:00",
+    "updated_at": "2023-12-01T13:29:12+01:00",
+    "media_id": "dtxxteracn2a",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6292183/abeltje-producent-en-acteur-burny-bos-op-79-jarige-leeftijd-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291872,
+    "slug": "moeite-met-een-sinterklaasgedicht-zo-maak-je-een-goede-met-hulp-van-ai",
+    "type": "article",
+    "title": "Moeite met een sinterklaasgedicht? Zo maak je een goede met hulp van AI",
+    "subtitle": "NU+",
+    "published_at": "2023-12-01T12:57:00+01:00",
+    "updated_at": "2023-12-01T13:16:50+01:00",
+    "media_id": "xrcxk9iaqk4g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6291872/moeite-met-een-sinterklaasgedicht-zo-maak-je-een-goede-met-hulp-van-ai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292179,
     "slug": "helikopter-dubbelgevouwen-na-crash-op-spaanse-snelweg",
     "type": "video",
@@ -29,19 +121,19 @@
     "title": "Zit er een deadline aan het formatieproces?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-12-01T12:35:02+01:00",
-    "updated_at": "2023-12-01T12:35:03+01:00",
+    "updated_at": "2023-12-01T13:34:55+01:00",
     "media_id": "8pjxrmjaopfq",
     "duration": null,
     "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
       "type": "default",
-      "name": "Formatie 2023",
+      "name": "Gebaseerd op NUjij",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/formatie-2023/6292171/zit-er-een-deadline-aan-het-formatieproces.html",
+    "url": "/gebaseerd-op-jullie-vragen/6292171/zit-er-een-deadline-aan-het-formatieproces.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +254,12 @@
   },
   {
     "id": 6292160,
-    "slug": "bemiddelaars-praten-over-nieuwe-gevechtspauze-terwijl-oorlog-in-gaza-is-hervat",
+    "slug": "bemiddelaars-proberen-nieuwe-gevechtspauze-in-gaza-voor-elkaar-te-krijgen",
     "type": "article",
-    "title": "Bemiddelaars praten over nieuwe gevechtspauze, terwijl oorlog in Gaza is hervat",
+    "title": "Bemiddelaars proberen nieuwe gevechtspauze in Gaza voor elkaar te krijgen",
     "subtitle": null,
     "published_at": "2023-12-01T11:59:46+01:00",
-    "updated_at": "2023-12-01T11:59:47+01:00",
+    "updated_at": "2023-12-01T12:50:54+01:00",
     "media_id": "34qx7vja4mw8",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6292160/bemiddelaars-praten-over-nieuwe-gevechtspauze-terwijl-oorlog-in-gaza-is-hervat.html",
+    "url": "/midden-oostenconflict/6292160/bemiddelaars-proberen-nieuwe-gevechtspauze-in-gaza-voor-elkaar-te-krijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +351,7 @@
     "title": "OPEC-landen zetten het mes nog verder in hun olieproductie",
     "subtitle": null,
     "published_at": "2023-12-01T11:41:13+01:00",
-    "updated_at": "2023-12-01T11:41:14+01:00",
+    "updated_at": "2023-12-01T13:34:04+01:00",
     "media_id": "e8mx9msayb91",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6292071/hoe-voorkom-jij-autopech-met-de-kou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292149,
-    "slug": "intercity-direct-vaker-vertraagd-door-werkzaamheden-bij-rotterdam-en-schiphol",
-    "type": "article",
-    "title": "Intercity direct vaker vertraagd door werkzaamheden bij Rotterdam en Schiphol",
-    "subtitle": null,
-    "published_at": "2023-12-01T11:12:33+01:00",
-    "updated_at": "2023-12-01T11:49:06+01:00",
-    "media_id": "4e0xwzpa3re7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6292149/intercity-direct-vaker-vertraagd-door-werkzaamheden-bij-rotterdam-en-schiphol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292131,
-    "slug": "rechter-doet-uitspraak-over-agent-die-op-tractor-schoot-bij-boerenprotest",
-    "type": "article",
-    "title": "Rechter doet uitspraak over agent die op tractor schoot bij boerenprotest",
-    "subtitle": null,
-    "published_at": "2023-12-01T11:02:30+01:00",
-    "updated_at": "2023-12-01T12:31:30+01:00",
-    "media_id": "usjx2owagu9l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6292131/rechter-doet-uitspraak-over-agent-die-op-tractor-schoot-bij-boerenprotest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292150,
-    "slug": "rvc-volendam-slaat-terug-naar-jan-smit-er-was-sprake-van-een-oorlogssituatie",
-    "type": "article",
-    "title": "Rvc Volendam slaat terug naar Jan Smit: 'Er was sprake van een oorlogssituatie'",
-    "subtitle": null,
-    "published_at": "2023-12-01T10:55:05+01:00",
-    "updated_at": "2023-12-01T11:50:07+01:00",
-    "media_id": "9zvxucra3t37",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292150/rvc-volendam-slaat-terug-naar-jan-smit-er-was-sprake-van-een-oorlogssituatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292138,
-    "slug": "verkiezingsuitslag-definitief-d66-mist-op-haar-na-tiende-zetel-pvv-blijft-op-37",
-    "type": "article",
-    "title": "Verkiezingsuitslag definitief: D66 mist op haar na tiende zetel, PVV blijft op 37",
-    "subtitle": null,
-    "published_at": "2023-12-01T10:27:51+01:00",
-    "updated_at": "2023-12-01T12:42:25+01:00",
-    "media_id": "0p4x4kvagntc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
-      "type": "default",
-      "name": "Formatie 2023",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formatie-2023/6292138/verkiezingsuitslag-definitief-d66-mist-op-haar-na-tiende-zetel-pvv-blijft-op-37.html",
     "open_new_window": false,
     "partner": null
   }
