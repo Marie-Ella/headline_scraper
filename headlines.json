@@ -1,5 +1,51 @@
 [
   {
+    "id": 6292680,
+    "slug": "hoe-en-wanneer-hoorde-jij-van-het-sinterklaasgeheim",
+    "type": "article",
+    "title": "Hoe en wanneer hoorde jij van het Sinterklaasgeheim?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-12-05T11:18:49+01:00",
+    "updated_at": "2023-12-05T11:18:50+01:00",
+    "media_id": "390x5j3ajdcb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6292680/hoe-en-wanneer-hoorde-jij-van-het-sinterklaasgeheim.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292688,
+    "slug": "wilders-loopt-weg-na-persvragen-van-der-plas-wil-vertrouwen",
+    "type": "video",
+    "title": "Wilders loopt weg na persvragen, Van der Plas wil vertrouwen",
+    "subtitle": "Video",
+    "published_at": "2023-12-05T11:11:54+01:00",
+    "updated_at": "2023-12-05T11:19:17+01:00",
+    "media_id": "7jbx4yuab2un",
+    "duration": "1:14",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6292688/wilders-loopt-weg-na-persvragen-van-der-plas-wil-vertrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292674,
     "slug": "nigeriaans-leger-doodt-per-ongeluk-85-eigen-burgers-bij-droneaanval",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Glennis Grace merkt dat rust is teruggekeerd na rechtszaak over Jumbo-incident",
     "subtitle": null,
     "published_at": "2023-12-05T10:18:55+01:00",
-    "updated_at": "2023-12-05T10:20:25+01:00",
+    "updated_at": "2023-12-05T10:50:04+01:00",
     "media_id": "do2xaoua7h7o",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Onderzoek waarvoor je de poep van je huisdier kon inleveren is 'groot succes'",
     "subtitle": null,
     "published_at": "2023-12-05T07:55:35+01:00",
-    "updated_at": "2023-12-05T09:29:49+01:00",
+    "updated_at": "2023-12-05T11:05:34+01:00",
     "media_id": "i95x2c3ag0mh",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6292617/kamminga-en-schouten-steunen-coach-faber-sta-100-procent-achter-mark.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292603,
-    "slug": "droomweken-voor-teruggekeerde-van-de-sanden-ik-ben-een-trotse-moeder",
-    "type": "article",
-    "title": "Droomweken voor teruggekeerde Van de Sanden: 'Ik ben een trotse moeder'",
-    "subtitle": null,
-    "published_at": "2023-12-05T05:13:29+01:00",
-    "updated_at": "2023-12-05T09:19:26+01:00",
-    "media_id": "hz8xs5aakmzf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292603/droomweken-voor-teruggekeerde-van-de-sanden-ik-ben-een-trotse-moeder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292547,
-    "slug": "moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland",
-    "type": "article",
-    "title": "Moet Oranje vrezen voor akkoordje tussen Engeland en Schotland?",
-    "subtitle": null,
-    "published_at": "2023-12-05T05:08:29+01:00",
-    "updated_at": "2023-12-05T10:21:44+01:00",
-    "media_id": "ub0xe4oa7hb1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292547/moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland.html",
     "open_new_window": false,
     "partner": null
   }
