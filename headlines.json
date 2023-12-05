@@ -1,12 +1,35 @@
 [
   {
+    "id": 6292674,
+    "slug": "nigeriaans-leger-doodt-per-ongeluk-85-eigen-burgers-bij-droneaanval",
+    "type": "article",
+    "title": "Nigeriaans leger doodt 'per ongeluk' 85 eigen burgers bij droneaanval",
+    "subtitle": null,
+    "published_at": "2023-12-05T10:30:47+01:00",
+    "updated_at": "2023-12-05T10:30:48+01:00",
+    "media_id": "od1xesvaygcw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6292674/nigeriaans-leger-doodt-per-ongeluk-85-eigen-burgers-bij-droneaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292679,
-    "slug": "grote-ravage-in-delft-bestuurder-ramt-meerdere-stoplichten",
+    "slug": "grote-ravage-in-delft-bestuurder-ramt-meerdere-verkeerslichten",
     "type": "video",
-    "title": "Grote ravage in Delft: bestuurder ramt meerdere stoplichten",
+    "title": "Grote ravage in Delft: bestuurder ramt meerdere verkeerslichten",
     "subtitle": "Video",
     "published_at": "2023-12-05T10:24:50+01:00",
-    "updated_at": "2023-12-05T10:24:51+01:00",
+    "updated_at": "2023-12-05T10:48:32+01:00",
     "media_id": "unexiq4avdet",
     "duration": "0:33",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6292679/grote-ravage-in-delft-bestuurder-ramt-meerdere-stoplichten.html",
+    "url": "/videos/6292679/grote-ravage-in-delft-bestuurder-ramt-meerdere-verkeerslichten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292547/moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292611,
-    "slug": "drukte-bij-goudkantoren-neemt-toe-door-recordprijs-en-wereldwijde-onrust",
-    "type": "article",
-    "title": "Drukte bij goudkantoren neemt toe door recordprijs en wereldwijde onrust",
-    "subtitle": "NU+",
-    "published_at": "2023-12-05T05:07:26+01:00",
-    "updated_at": "2023-12-05T05:07:27+01:00",
-    "media_id": "w0hxpkdansq9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6292611/drukte-bij-goudkantoren-neemt-toe-door-recordprijs-en-wereldwijde-onrust.html",
     "open_new_window": false,
     "partner": null
   }
