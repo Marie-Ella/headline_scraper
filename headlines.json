@@ -1,12 +1,58 @@
 [
   {
+    "id": 6292657,
+    "slug": "kim-kardashian-scoort-hoofdrol-in-serie-over-scheidingsadvocate",
+    "type": "article",
+    "title": "Kim Kardashian scoort hoofdrol in serie over scheidingsadvocate",
+    "subtitle": null,
+    "published_at": "2023-12-05T07:13:12+01:00",
+    "updated_at": "2023-12-05T07:13:13+01:00",
+    "media_id": "qhcxmjya1j84",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6292657/kim-kardashian-scoort-hoofdrol-in-serie-over-scheidingsadvocate.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292655,
+    "slug": "bijna-duizend-stemmen-uit-buitenland-kwamen-deze-verkiezingen-te-laat-binnen",
+    "type": "article",
+    "title": "Bijna duizend stemmen uit buitenland kwamen deze verkiezingen te laat binnen",
+    "subtitle": null,
+    "published_at": "2023-12-05T06:48:46+01:00",
+    "updated_at": "2023-12-05T06:58:34+01:00",
+    "media_id": "o4gxxynaisf7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6292655/bijna-duizend-stemmen-uit-buitenland-kwamen-deze-verkiezingen-te-laat-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292654,
     "slug": "nicolas-cage-denkt-aan-einde-filmcarriere-wil-op-het-hoogtepunt-stoppen",
     "type": "article",
     "title": "Nicolas Cage denkt aan einde filmcarrière: 'Wil op het hoogtepunt stoppen'",
     "subtitle": null,
     "published_at": "2023-12-05T06:40:08+01:00",
-    "updated_at": "2023-12-05T06:45:51+01:00",
+    "updated_at": "2023-12-05T07:09:51+01:00",
     "media_id": "o1wx1usa3xkq",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6292653,
-    "slug": "brenda-lee-scoort-na-ruim-zestig-jaar-eindelijk-nummer-1-hit-met-kerstliedje",
+    "slug": "brenda-lee-troeft-mariah-carey-af-met-kersthit-en-staat-na-65-jaar-op-nummer-1",
     "type": "article",
-    "title": "Brenda Lee scoort na ruim zestig jaar eindelijk nummer 1-hit met kerstliedje",
+    "title": "Brenda Lee troeft Mariah Carey af met kersthit en staat na 65 jaar op nummer 1",
     "subtitle": null,
     "published_at": "2023-12-05T06:24:02+01:00",
-    "updated_at": "2023-12-05T06:24:04+01:00",
+    "updated_at": "2023-12-05T07:06:39+01:00",
     "media_id": "by6xvn8aa4cs",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6292653/brenda-lee-scoort-na-ruim-zestig-jaar-eindelijk-nummer-1-hit-met-kerstliedje.html",
+    "url": "/muziek/6292653/brenda-lee-troeft-mariah-carey-af-met-kersthit-en-staat-na-65-jaar-op-nummer-1.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292643/schotse-voetbalsters-beledigd-door-verhalen-over-bewust-verlies-respectloos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292642,
-    "slug": "bolivianen-redden-24-zoetwaterdolfijnen-uit-ondiep-water",
-    "type": "video",
-    "title": "Bolivianen redden 24 zoetwaterdolfijnen uit ondiep water",
-    "subtitle": "Video",
-    "published_at": "2023-12-04T21:43:44+01:00",
-    "updated_at": "2023-12-04T21:43:45+01:00",
-    "media_id": "k8txudyae6qx",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6292642/bolivianen-redden-24-zoetwaterdolfijnen-uit-ondiep-water.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292589,
-    "slug": "billie-eilish-is-queer-maar-wat-betekent-dat-nou-precies",
-    "type": "article",
-    "title": "Billie Eilish is queer, maar wat betekent dat nou precies?",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-12-04T21:31:31+01:00",
-    "updated_at": "2023-12-04T21:31:32+01:00",
-    "media_id": "n1exd9qadejf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6292589/billie-eilish-is-queer-maar-wat-betekent-dat-nou-precies.html",
     "open_new_window": false,
     "partner": null
   }
