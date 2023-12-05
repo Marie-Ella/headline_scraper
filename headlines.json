@@ -1,24 +1,70 @@
 [
   {
+    "id": 6292660,
+    "slug": "hert-dringt-amerikaanse-school-binnen-en-rent-wild-door-de-gangen",
+    "type": "video",
+    "title": "Hert dringt Amerikaanse school binnen en rent wild door de gangen",
+    "subtitle": "Video",
+    "published_at": "2023-12-05T08:00:49+01:00",
+    "updated_at": "2023-12-05T08:00:50+01:00",
+    "media_id": "e2cxj1eau4y6",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6292660/hert-dringt-amerikaanse-school-binnen-en-rent-wild-door-de-gangen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292659,
+    "slug": "onderzoek-waarvoor-je-de-poep-van-je-huisdier-kon-inleveren-groot-succes",
+    "type": "article",
+    "title": "Onderzoek waarvoor je de poep van je huisdier kon inleveren 'groot succes'",
+    "subtitle": null,
+    "published_at": "2023-12-05T07:55:35+01:00",
+    "updated_at": "2023-12-05T07:55:36+01:00",
+    "media_id": "i95x2c3ag0mh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6292659/onderzoek-waarvoor-je-de-poep-van-je-huisdier-kon-inleveren-groot-succes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292658,
     "slug": "eerste-trailer-van-gta-vi-is-uitgebracht-game-verschijnt-in-2025",
     "type": "article",
     "title": "Eerste trailer van GTA VI is uitgebracht, game verschijnt in 2025",
     "subtitle": null,
     "published_at": "2023-12-05T07:37:23+01:00",
-    "updated_at": "2023-12-05T07:38:12+01:00",
+    "updated_at": "2023-12-05T08:06:33+01:00",
     "media_id": "m5uxnb6aaysj",
     "duration": null,
     "canonical_section": {
-      "id": 863433,
-      "slug": "games",
+      "id": 1771438,
+      "slug": "tech",
       "type": "default",
-      "name": "Games",
+      "name": "Tech",
       "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/games/6292658/eerste-trailer-van-gta-vi-is-uitgebracht-game-verschijnt-in-2025.html",
+    "url": "/tech/6292658/eerste-trailer-van-gta-vi-is-uitgebracht-game-verschijnt-in-2025.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292645/nac-walst-over-jong-psv-en-pepi-heen-de-graafschap-niet-langs-dordrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292640,
-    "slug": "handbalsters-als-groepswinnaar-door-op-wk-na-belangrijke-zege-op-tsjechie",
-    "type": "article",
-    "title": "Handbalsters als groepswinnaar door op WK na belangrijke zege op Tsjechië",
-    "subtitle": null,
-    "published_at": "2023-12-04T22:01:57+01:00",
-    "updated_at": "2023-12-04T23:47:54+01:00",
-    "media_id": "a4ux5otay9ix",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6292640/handbalsters-als-groepswinnaar-door-op-wk-na-belangrijke-zege-op-tsjechie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292644,
-    "slug": "vanessa-hudgens-in-het-geheim-getrouwd-met-honkballer-cole-tucker",
-    "type": "article",
-    "title": "Vanessa Hudgens in het geheim getrouwd met honkballer Cole Tucker",
-    "subtitle": null,
-    "published_at": "2023-12-04T21:54:27+01:00",
-    "updated_at": "2023-12-05T06:06:53+01:00",
-    "media_id": "pusxrhraqsov",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6292644/vanessa-hudgens-in-het-geheim-getrouwd-met-honkballer-cole-tucker.html",
     "open_new_window": false,
     "partner": null
   }
