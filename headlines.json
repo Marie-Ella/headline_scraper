@@ -1,12 +1,35 @@
 [
   {
-    "id": 6293059,
-    "slug": "klm-schrapt-ruim-130-retourvluchten-vanwege-mist-op-schiphol",
+    "id": 6293040,
+    "slug": "nog-geen-duidelijkheid-over-formatie-omtzigt-loopt-nog-niet-van-tafel",
     "type": "article",
-    "title": "KLM schrapt ruim 130 retourvluchten vanwege mist op Schiphol",
+    "title": "Nog geen duidelijkheid over formatie, Omtzigt loopt nog niet van tafel",
+    "subtitle": null,
+    "published_at": "2023-12-07T16:05:31+01:00",
+    "updated_at": "2023-12-07T16:05:32+01:00",
+    "media_id": "7egxh3datdhs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779337,
+      "slug": "formatie-2023",
+      "type": "default",
+      "name": "Formatie 2023",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formatie-2023/6293040/nog-geen-duidelijkheid-over-formatie-omtzigt-loopt-nog-niet-van-tafel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293059,
+    "slug": "klm-schrapt-ruim-60-vluchten-vanwege-mist-op-schiphol",
+    "type": "article",
+    "title": "KLM schrapt ruim 60 vluchten vanwege mist op Schiphol",
     "subtitle": null,
     "published_at": "2023-12-07T15:49:43+01:00",
-    "updated_at": "2023-12-07T15:49:54+01:00",
+    "updated_at": "2023-12-07T16:10:09+01:00",
     "media_id": "rn5x86cadyp1",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6293059/klm-schrapt-ruim-130-retourvluchten-vanwege-mist-op-schiphol.html",
+    "url": "/economie/6293059/klm-schrapt-ruim-60-vluchten-vanwege-mist-op-schiphol.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6293055,
-    "slug": "enorme-schade-na-explosie-en-noodweer-op-seychellen",
+    "slug": "enorme-schade-na-explosie-en-noodweer-in-seychellen",
     "type": "video",
-    "title": "Enorme schade na explosie en noodweer op Seychellen",
+    "title": "Enorme schade na explosie en noodweer in Seychellen",
     "subtitle": "Video",
     "published_at": "2023-12-07T15:16:19+01:00",
-    "updated_at": "2023-12-07T15:37:46+01:00",
+    "updated_at": "2023-12-07T15:52:54+01:00",
     "media_id": "wc2xq9nalr96",
     "duration": "0:55",
     "canonical_section": {
@@ -41,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6293055/enorme-schade-na-explosie-en-noodweer-op-seychellen.html",
+    "url": "/videos/6293055/enorme-schade-na-explosie-en-noodweer-in-seychellen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6293049,
-    "slug": "staatssecretaris-doet-na-kritisch-rapport-over-ter-apel-weer-beroep-op-gemeenten",
+    "slug": "staatssecretaris-na-kritisch-rapport-over-ter-apel-kan-zo-niet-langer",
     "type": "article",
-    "title": "Staatssecretaris doet na kritisch rapport over Ter Apel weer beroep op gemeenten",
+    "title": "Staatssecretaris na kritisch rapport over Ter Apel: 'Kan zo niet langer'",
     "subtitle": null,
     "published_at": "2023-12-07T14:59:13+01:00",
-    "updated_at": "2023-12-07T15:14:52+01:00",
+    "updated_at": "2023-12-07T15:56:56+01:00",
     "media_id": "apzxuxla7829",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6293049/staatssecretaris-doet-na-kritisch-rapport-over-ter-apel-weer-beroep-op-gemeenten.html",
+    "url": "/binnenland/6293049/staatssecretaris-na-kritisch-rapport-over-ter-apel-kan-zo-niet-langer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6293020/treinen-naar-duitsland-rijden-vanavond-en-vrijdag-niet-door-staking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292994,
-    "slug": "bloedtest-kan-mogelijk-kans-op-ziektes-als-hartfalen-en-dementie-voorspellen",
-    "type": "article",
-    "title": "Bloedtest kan mogelijk kans op ziektes als hartfalen en dementie voorspellen",
-    "subtitle": null,
-    "published_at": "2023-12-07T11:16:24+01:00",
-    "updated_at": "2023-12-07T11:16:25+01:00",
-    "media_id": "kn5xu90a7s2i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6292994/bloedtest-kan-mogelijk-kans-op-ziektes-als-hartfalen-en-dementie-voorspellen.html",
     "open_new_window": false,
     "partner": null
   }
