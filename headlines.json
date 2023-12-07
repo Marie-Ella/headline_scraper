@@ -1,12 +1,58 @@
 [
   {
+    "id": 6292985,
+    "slug": "student-na-schietpartij-las-vegas-iedereen-was-hysterisch",
+    "type": "video",
+    "title": "Student na schietpartij Las Vegas: 'Iedereen was hysterisch'",
+    "subtitle": "Video",
+    "published_at": "2023-12-07T08:12:45+01:00",
+    "updated_at": "2023-12-07T08:12:46+01:00",
+    "media_id": "zp4x8vnacqqj",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6292985/student-na-schietpartij-las-vegas-iedereen-was-hysterisch.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292982,
+    "slug": "blur-houdt-het-weer-voor-gezien-het-is-te-veel-voor-me",
+    "type": "article",
+    "title": "Blur houdt het weer voor gezien: 'Het is te veel voor me'",
+    "subtitle": null,
+    "published_at": "2023-12-07T07:52:29+01:00",
+    "updated_at": "2023-12-07T08:07:44+01:00",
+    "media_id": "5dzxo6max393",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6292982/blur-houdt-het-weer-voor-gezien-het-is-te-veel-voor-me.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292981,
     "slug": "huurwoningen-steeds-minder-waard-door-hogere-rente-en-nieuwe-regels",
     "type": "article",
     "title": "Huurwoningen steeds minder waard door hogere rente en nieuwe regels",
     "subtitle": null,
     "published_at": "2023-12-07T07:41:59+01:00",
-    "updated_at": "2023-12-07T07:42:00+01:00",
+    "updated_at": "2023-12-07T07:57:08+01:00",
     "media_id": "qskxqmlaqdzf",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "De gekke avond van AZ en NEC: '5.06 minuten vol gas voor onze Bas'",
     "subtitle": "NU+",
     "published_at": "2023-12-07T05:10:07+01:00",
-    "updated_at": "2023-12-07T06:44:33+01:00",
+    "updated_at": "2023-12-07T07:52:09+01:00",
     "media_id": "17cx5iwamkye",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6292969/helikopter-brengt-kerstman-naar-kinderziekenhuis-in-los-angeles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292968,
-    "slug": "mctominay-bezorgt-ten-hag-en-united-opsteker-van-dijk-scoort-voor-liverpool",
-    "type": "article",
-    "title": "McTominay bezorgt Ten Hag en United opsteker, Van Dijk scoort voor Liverpool",
-    "subtitle": null,
-    "published_at": "2023-12-06T22:32:06+01:00",
-    "updated_at": "2023-12-07T07:14:11+01:00",
-    "media_id": "jqzx2vgat67m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292968/mctominay-bezorgt-ten-hag-en-united-opsteker-van-dijk-scoort-voor-liverpool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292966,
-    "slug": "pasgeboren-babyneushoorn-drinkt-bij-moeder-in-amerikaanse-dierentuin",
-    "type": "video",
-    "title": "Pasgeboren babyneushoorn drinkt bij moeder in Amerikaanse dierentuin",
-    "subtitle": "Video",
-    "published_at": "2023-12-06T22:20:52+01:00",
-    "updated_at": "2023-12-06T22:20:53+01:00",
-    "media_id": "qalxwulaf94f",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6292966/pasgeboren-babyneushoorn-drinkt-bij-moeder-in-amerikaanse-dierentuin.html",
     "open_new_window": false,
     "partner": null
   }
