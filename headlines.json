@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293058,
+    "slug": "deens-parlement-stemt-in-met-wet-tegen-koranverbrandingen",
+    "type": "article",
+    "title": "Deens parlement stemt in met wet tegen koranverbrandingen",
+    "subtitle": null,
+    "published_at": "2023-12-07T16:22:52+01:00",
+    "updated_at": "2023-12-07T16:22:53+01:00",
+    "media_id": "7xjx5e8a9nt1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6293058/deens-parlement-stemt-in-met-wet-tegen-koranverbrandingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293040,
     "slug": "nog-geen-duidelijkheid-over-formatie-omtzigt-loopt-nog-niet-van-tafel",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6293059,
-    "slug": "klm-schrapt-ruim-60-vluchten-vanwege-mist-op-schiphol",
+    "slug": "klm-schrapt-ruim-zestig-vluchten-vanwege-mist-op-schiphol",
     "type": "article",
-    "title": "KLM schrapt ruim 60 vluchten vanwege mist op Schiphol",
+    "title": "KLM schrapt ruim zestig vluchten vanwege mist op Schiphol",
     "subtitle": null,
     "published_at": "2023-12-07T15:49:43+01:00",
-    "updated_at": "2023-12-07T16:10:09+01:00",
+    "updated_at": "2023-12-07T16:25:30+01:00",
     "media_id": "rn5x86cadyp1",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6293059/klm-schrapt-ruim-60-vluchten-vanwege-mist-op-schiphol.html",
+    "url": "/economie/6293059/klm-schrapt-ruim-zestig-vluchten-vanwege-mist-op-schiphol.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Staatssecretaris na kritisch rapport over Ter Apel: 'Kan zo niet langer'",
     "subtitle": null,
     "published_at": "2023-12-07T14:59:13+01:00",
-    "updated_at": "2023-12-07T15:56:56+01:00",
+    "updated_at": "2023-12-07T16:20:45+01:00",
     "media_id": "apzxuxla7829",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6293019/volle-afvalbakken-en-smerige-wcs-inspecteurs-zien-onhoudbare-situatie-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293020,
-    "slug": "treinen-naar-duitsland-rijden-vanavond-en-vrijdag-niet-door-staking",
-    "type": "article",
-    "title": "Treinen naar Duitsland rijden vanavond en vrijdag niet door staking",
-    "subtitle": null,
-    "published_at": "2023-12-07T11:27:45+01:00",
-    "updated_at": "2023-12-07T11:27:46+01:00",
-    "media_id": "84oxerea375e",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293020/treinen-naar-duitsland-rijden-vanavond-en-vrijdag-niet-door-staking.html",
     "open_new_window": false,
     "partner": null
   }
