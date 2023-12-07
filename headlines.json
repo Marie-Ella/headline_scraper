@@ -1,13 +1,36 @@
 [
   {
-    "id": 6293081,
-    "slug": "liveblog-eredivisie-gehavend-psv-gaat-tegen-heerenveen-voor-vijftiende-zege",
+    "id": 6293086,
+    "slug": "powned-en-amelanders-doen-aangifte-na-incident-op-eiland",
     "type": "article",
-    "title": "Liveblog Eredivisie | Gehavend PSV gaat tegen Heerenveen voor vijftiende zege",
+    "title": "PowNed én Amelanders doen aangifte na incident op eiland",
+    "subtitle": null,
+    "published_at": "2023-12-07T18:29:03+01:00",
+    "updated_at": "2023-12-07T18:29:04+01:00",
+    "media_id": "3gixb44atgw5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6293086/powned-en-amelanders-doen-aangifte-na-incident-op-eiland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293081,
+    "slug": "live-eredivisie-gehavend-psv-gaat-tegen-heerenveen-voor-vijftiende-zege",
+    "type": "article",
+    "title": "Live Eredivisie | Gehavend PSV gaat tegen Heerenveen voor vijftiende zege",
     "subtitle": null,
     "published_at": "2023-12-07T18:08:49+01:00",
-    "updated_at": "2023-12-07T18:13:16+01:00",
-    "media_id": "97wxg0kaodtj",
+    "updated_at": "2023-12-07T18:29:33+01:00",
+    "media_id": "ik0xi6zas3jz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293081/liveblog-eredivisie-gehavend-psv-gaat-tegen-heerenveen-voor-vijftiende-zege.html",
+    "url": "/voetbal/6293081/live-eredivisie-gehavend-psv-gaat-tegen-heerenveen-voor-vijftiende-zege.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6293052/peaky-blinders-acteur-benjamin-zephaniah-op-65-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293045,
-    "slug": "aanleg-van-zonneparken-en-windmolens-stuit-steeds-vaker-op-problemen",
-    "type": "article",
-    "title": "Aanleg van zonneparken en windmolens stuit steeds vaker op problemen",
-    "subtitle": null,
-    "published_at": "2023-12-07T14:22:04+01:00",
-    "updated_at": "2023-12-07T16:43:51+01:00",
-    "media_id": "qkexzwtasn5s",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293045/aanleg-van-zonneparken-en-windmolens-stuit-steeds-vaker-op-problemen.html",
     "open_new_window": false,
     "partner": null
   }
