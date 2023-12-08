@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293256,
+    "slug": "live-eredivisie-fc-twente-warmt-op-voor-thuisduel-met-excelsior",
+    "type": "article",
+    "title": "Live Eredivisie | FC Twente warmt op voor thuisduel met Excelsior",
+    "subtitle": null,
+    "published_at": "2023-12-08T19:40:08+01:00",
+    "updated_at": "2023-12-08T19:40:55+01:00",
+    "media_id": "iejxyoca08s7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293256/live-eredivisie-fc-twente-warmt-op-voor-thuisduel-met-excelsior.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293252,
     "slug": "bouwbedrijven-slepen-schiphol-voor-rechter-om-onafgemaakte-bouwklus",
     "type": "article",
     "title": "Bouwbedrijven slepen Schiphol voor rechter om onafgemaakte bouwklus",
     "subtitle": null,
     "published_at": "2023-12-08T19:30:14+01:00",
-    "updated_at": "2023-12-08T19:30:15+01:00",
+    "updated_at": "2023-12-08T19:45:30+01:00",
     "media_id": "z1dx4nrayd0w",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6293248,
-    "slug": "kok-grijpt-naast-wereldbekergoud-op-eerste-500-meter-in-tomaszow",
+    "slug": "kok-grijpt-naast-goud-op-500-meter-in-tomaszow-brons-otterspeer-op-kilometer",
     "type": "article",
-    "title": "Kok grijpt naast wereldbekergoud op eerste 500 meter in Tomaszów",
+    "title": "Kok grijpt naast goud op 500 meter in Tomaszów, brons Otterspeer op kilometer",
     "subtitle": null,
     "published_at": "2023-12-08T19:03:05+01:00",
-    "updated_at": "2023-12-08T19:22:13+01:00",
+    "updated_at": "2023-12-08T19:49:04+01:00",
     "media_id": "52axkhwa8g9r",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6293248/kok-grijpt-naast-wereldbekergoud-op-eerste-500-meter-in-tomaszow.html",
+    "url": "/schaatsen/6293248/kok-grijpt-naast-goud-op-500-meter-in-tomaszow-brons-otterspeer-op-kilometer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6293215/rabobank-voor-tweede-keer-in-een-week-getroffen-door-storing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293211,
-    "slug": "russen-en-belarussen-mogen-onder-neutrale-vlag-meedoen-aan-spelen-in-parijs",
-    "type": "article",
-    "title": "Russen en Belarussen mogen onder neutrale vlag meedoen aan Spelen in Parijs",
-    "subtitle": null,
-    "published_at": "2023-12-08T15:38:28+01:00",
-    "updated_at": "2023-12-08T17:30:37+01:00",
-    "media_id": "f5xxelxaz741",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6293211/russen-en-belarussen-mogen-onder-neutrale-vlag-meedoen-aan-spelen-in-parijs.html",
     "open_new_window": false,
     "partner": null
   }
