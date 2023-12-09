@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293293,
+    "slug": "weerbericht-in-de-ochtend-nog-droog-maar-vanmiddag-flink-wat-regen",
+    "type": "article",
+    "title": "Weerbericht: In de ochtend nog droog, maar vanmiddag flink wat regen",
+    "subtitle": null,
+    "published_at": "2023-12-09T05:54:30+01:00",
+    "updated_at": "2023-12-09T06:06:33+01:00",
+    "media_id": "r8wxv9ea26v3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6293293/weerbericht-in-de-ochtend-nog-droog-maar-vanmiddag-flink-wat-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293292,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Levenslang voor tiener die vier klasgenoten doodschoot op school in Michigan",
     "subtitle": null,
     "published_at": "2023-12-09T00:00:52+01:00",
-    "updated_at": "2023-12-09T00:22:21+01:00",
+    "updated_at": "2023-12-09T06:08:44+01:00",
     "media_id": "yirx8era4zjg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6293238/pvv-vvd-nsc-en-bbb-moeten-eerst-om-de-tafel-voor-drie-obstakels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293275,
-    "slug": "van-nieuwkerk-zegt-dat-hij-ook-met-publieke-omroep-praatte-over-terugkeer",
-    "type": "article",
-    "title": "Van Nieuwkerk zegt dat hij ook met publieke omroep praatte over terugkeer",
-    "subtitle": null,
-    "published_at": "2023-12-08T20:40:52+01:00",
-    "updated_at": "2023-12-08T23:51:56+01:00",
-    "media_id": "ca2xyuyacgma",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6293275/van-nieuwkerk-zegt-dat-hij-ook-met-publieke-omroep-praatte-over-terugkeer.html",
     "open_new_window": false,
     "partner": null
   }
