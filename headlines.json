@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293487,
+    "slug": "doden-en-gewonde-door-geweld-in-arnhem-en-nijmegen",
+    "type": "article",
+    "title": "Doden en gewonde door geweld in Arnhem en Nijmegen",
+    "subtitle": null,
+    "published_at": "2023-12-11T05:33:59+01:00",
+    "updated_at": "2023-12-11T05:34:00+01:00",
+    "media_id": "gcpxmelapznm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293487/doden-en-gewonde-door-geweld-in-arnhem-en-nijmegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293486,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293467/dallinga-mist-penalty-bij-verlies-toulouse-zirkzee-schiet-bologna-naar-plek-vier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293466,
-    "slug": "zwemster-giele-verrast-bij-ek-kortebaan-met-gedeeld-goud-op-50-vlinder",
-    "type": "article",
-    "title": "Zwemster Giele verrast bij EK kortebaan met gedeeld goud op 50 vlinder",
-    "subtitle": null,
-    "published_at": "2023-12-10T19:03:52+01:00",
-    "updated_at": "2023-12-10T19:52:27+01:00",
-    "media_id": "oxlxufzaawmo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6293466/zwemster-giele-verrast-bij-ek-kortebaan-met-gedeeld-goud-op-50-vlinder.html",
     "open_new_window": false,
     "partner": null
   }
