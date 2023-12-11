@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293615,
+    "slug": "plasterk-ziet-kabinet-met-rechts-viertal-voor-zich-vind-eigenlijk-dat-het-moet",
+    "type": "video",
+    "title": "Plasterk ziet kabinet met rechts viertal voor zich: 'Vind eigenlijk dat het moet'",
+    "subtitle": "Video",
+    "published_at": "2023-12-11T18:31:06+01:00",
+    "updated_at": "2023-12-11T18:32:30+01:00",
+    "media_id": "6hgxhiga6ep1",
+    "duration": "1:11",
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6293615/plasterk-ziet-kabinet-met-rechts-viertal-voor-zich-vind-eigenlijk-dat-het-moet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293601,
     "slug": "harry-moet-proceskosten-van-tabloid-betalen-in-smaadzaak",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6293603,
-    "slug": "russische-oppositieleider-alexei-navalny-is-volgens-zijn-team-verplaatst",
+    "slug": "russische-oppositieleider-navalny-is-verplaatst-maar-onduidelijk-is-waarheen",
     "type": "article",
-    "title": "Russische oppositieleider Alexei Navalny is volgens zijn team verplaatst",
+    "title": "Russische oppositieleider Navalny is verplaatst, maar onduidelijk is waarheen",
     "subtitle": null,
     "published_at": "2023-12-11T17:51:53+01:00",
-    "updated_at": "2023-12-11T18:21:16+01:00",
+    "updated_at": "2023-12-11T18:33:11+01:00",
     "media_id": "8yhx96xamvn8",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6293603/russische-oppositieleider-alexei-navalny-is-volgens-zijn-team-verplaatst.html",
+    "url": "/buitenland/6293603/russische-oppositieleider-navalny-is-verplaatst-maar-onduidelijk-is-waarheen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "PVV, NSC, VVD en BBB krijgen 1,5 maand voor extra gesprekken over Grondwet",
     "subtitle": null,
     "published_at": "2023-12-11T17:39:13+01:00",
-    "updated_at": "2023-12-11T18:01:46+01:00",
+    "updated_at": "2023-12-11T18:44:24+01:00",
     "media_id": "gw2x6k5ajjct",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6293581/verkoper-illegaal-vuurwerk-niet-schuldig-aan-letsel-dat-minderjarige-koper-opliep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293578,
-    "slug": "barbie-en-oppenheimer-maken-meeste-kans-op-golden-globe-awards",
-    "type": "article",
-    "title": "Barbie en Oppenheimer maken meeste kans op Golden Globe Awards",
-    "subtitle": null,
-    "published_at": "2023-12-11T15:33:40+01:00",
-    "updated_at": "2023-12-11T15:33:42+01:00",
-    "media_id": "x3vx2ihaizck",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6293578/barbie-en-oppenheimer-maken-meeste-kans-op-golden-globe-awards.html",
     "open_new_window": false,
     "partner": null
   }
