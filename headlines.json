@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293785,
+    "slug": "journalisten-die-werden-aangevallen-op-ameland-nog-niet-gehoord-door-politie",
+    "type": "article",
+    "title": "Journalisten die werden aangevallen op Ameland nog niet gehoord door politie",
+    "subtitle": null,
+    "published_at": "2023-12-12T18:39:49+01:00",
+    "updated_at": "2023-12-12T18:39:51+01:00",
+    "media_id": "mdrxvmsaqrtx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6293785/journalisten-die-werden-aangevallen-op-ameland-nog-niet-gehoord-door-politie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293783,
     "slug": "eu-wil-miljarden-euros-innen-met-taks-op-bevroren-russische-tegoeden",
     "type": "article",
     "title": "EU wil miljarden euro's innen met taks op bevroren Russische tegoeden",
     "subtitle": null,
     "published_at": "2023-12-12T18:28:49+01:00",
-    "updated_at": "2023-12-12T18:28:50+01:00",
+    "updated_at": "2023-12-12T18:39:57+01:00",
     "media_id": "iumxno3aw9y5",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6293778,
-    "slug": "liveblog-champions-league-psv-en-arsenal-warmen-zich-op-voor-duel-om-de-eer",
+    "slug": "liveblog-champions-league-psv-begonnen-aan-laatste-duel-met-arsenal",
     "type": "article",
-    "title": "Liveblog Champions League | PSV en Arsenal warmen zich op voor duel om de eer",
+    "title": "Liveblog Champions League | PSV begonnen aan laatste duel met Arsenal",
     "subtitle": null,
     "published_at": "2023-12-12T18:10:56+01:00",
-    "updated_at": "2023-12-12T18:18:14+01:00",
-    "media_id": "9t0x5tua62hl",
+    "updated_at": "2023-12-12T18:47:23+01:00",
+    "media_id": "g3jx1oeam3ce",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293778/liveblog-champions-league-psv-en-arsenal-warmen-zich-op-voor-duel-om-de-eer.html",
+    "url": "/voetbal/6293778/liveblog-champions-league-psv-begonnen-aan-laatste-duel-met-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "PSV begint flink gewijzigd aan Champions League-wedstrijd tegen Arsenal",
     "subtitle": null,
     "published_at": "2023-12-12T17:50:33+01:00",
-    "updated_at": "2023-12-12T18:22:17+01:00",
+    "updated_at": "2023-12-12T18:38:26+01:00",
     "media_id": "s15xcbpaeui4",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Neergeslagen Turkse arbiter is in orde: 'Voorzitter zei dat hij me zou vermoorden'",
     "subtitle": null,
     "published_at": "2023-12-12T16:08:55+01:00",
-    "updated_at": "2023-12-12T16:10:20+01:00",
+    "updated_at": "2023-12-12T18:42:46+01:00",
     "media_id": "x00xoqvacr8m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6293741/vijf-mensen-die-gewond-raakten-bij-liftongeluk-in-zweden-zijn-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293724,
-    "slug": "welke-vragen-heb-jij-over-het-verhoogde-dreigingsniveau",
-    "type": "article",
-    "title": "Welke vragen heb jij over het verhoogde dreigingsniveau?",
-    "subtitle": "Oproep",
-    "published_at": "2023-12-12T16:06:34+01:00",
-    "updated_at": "2023-12-12T16:50:58+01:00",
-    "media_id": "53hx6iyagvko",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779137,
-      "slug": "vragenoproep",
-      "type": "default",
-      "name": "Oproep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenoproep/6293724/welke-vragen-heb-jij-over-het-verhoogde-dreigingsniveau.html",
     "open_new_window": false,
     "partner": null
   }
