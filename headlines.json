@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293671,
+    "slug": "politie-onderzoekt-gesneuvelde-deur-na-explosie-in-vlaardingen",
+    "type": "video",
+    "title": "Politie onderzoekt gesneuvelde deur na explosie in Vlaardingen",
+    "subtitle": "Video",
+    "published_at": "2023-12-12T09:20:14+01:00",
+    "updated_at": "2023-12-12T09:20:16+01:00",
+    "media_id": "7xkxjhvari5w",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293671/politie-onderzoekt-gesneuvelde-deur-na-explosie-in-vlaardingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293669,
     "slug": "frieslandcampina-schrapt-de-komende-jaren-zeker-achttienhonderd-banen",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Turkse competitie stilgelegd na aanval op arbiter, Erdogan veroordeelt actie",
     "subtitle": null,
     "published_at": "2023-12-12T07:22:00+01:00",
-    "updated_at": "2023-12-12T08:38:20+01:00",
+    "updated_at": "2023-12-12T09:21:49+01:00",
     "media_id": "bjbx3mua9owz",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6293649,
-    "slug": "handbalsters-willen-nu-ook-in-hol-van-de-leeuw-hossen-op-snollebollekes",
+    "slug": "nederland-tegenover-angstgegner-noorwegen-alles-of-niets-op-wk-handbal",
     "type": "article",
-    "title": "Handbalsters willen nu ook in hol van de leeuw hossen op Snollebollekes",
+    "title": "Nederland tegenover 'angstgegner' Noorwegen: alles of niets op WK handbal",
     "subtitle": "NU+",
     "published_at": "2023-12-12T06:40:59+01:00",
-    "updated_at": "2023-12-12T07:45:53+01:00",
+    "updated_at": "2023-12-12T09:18:19+01:00",
     "media_id": "gwbxy0qa8l9o",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6293649/handbalsters-willen-nu-ook-in-hol-van-de-leeuw-hossen-op-snollebollekes.html",
+    "url": "/sport-overig/6293649/nederland-tegenover-angstgegner-noorwegen-alles-of-niets-op-wk-handbal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Omgeving Rotterdam opgeschrikt door twee explosies in één nacht",
     "subtitle": null,
     "published_at": "2023-12-12T05:39:47+01:00",
-    "updated_at": "2023-12-12T06:36:41+01:00",
+    "updated_at": "2023-12-12T09:13:18+01:00",
     "media_id": "2x0xylga143m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/slimmer-leven/6293227/waarom-het-onveilig-is-om-met-een-openbaar-wifinetwerk-te-verbinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293586,
-    "slug": "candy-jacobs-na-olympisch-trauma-terug-in-tokio-de-lift-blijft-spannend",
-    "type": "article",
-    "title": "Candy Jacobs na olympisch trauma terug in Tokio: 'De lift blijft spannend'",
-    "subtitle": null,
-    "published_at": "2023-12-12T05:06:17+01:00",
-    "updated_at": "2023-12-12T05:06:18+01:00",
-    "media_id": "b0ixh01av6q6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6293586/candy-jacobs-na-olympisch-trauma-terug-in-tokio-de-lift-blijft-spannend.html",
     "open_new_window": false,
     "partner": null
   }
