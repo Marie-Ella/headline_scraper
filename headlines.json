@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293665,
+    "slug": "nederlandse-export-blijft-krimpen",
+    "type": "article",
+    "title": "Nederlandse export blijft krimpen",
+    "subtitle": null,
+    "published_at": "2023-12-12T07:44:12+01:00",
+    "updated_at": "2023-12-12T07:44:13+01:00",
+    "media_id": "ambxq41aurqc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6293665/nederlandse-export-blijft-krimpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293662,
     "slug": "turkse-competitie-stilgelegd-na-aanval-op-arbiter-erdogan-veroordeelt-actie",
     "type": "article",
@@ -96,9 +119,9 @@
     "slug": "handbalsters-willen-nu-ook-in-hol-van-de-leeuw-hossen-op-snollebollekes",
     "type": "article",
     "title": "Handbalsters willen nu ook in hol van de leeuw hossen op Snollebollekes",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-12-12T06:40:59+01:00",
-    "updated_at": "2023-12-12T06:52:12+01:00",
+    "updated_at": "2023-12-12T07:45:53+01:00",
     "media_id": "gwbxy0qa8l9o",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6293652,
-    "slug": "jury-oordeelt-dat-google-illegaal-monopolie-heeft-met-appstore",
+    "slug": "google-heeft-volgens-amerikaanse-jury-een-illegaal-monopolie-met-appwinkel",
     "type": "article",
-    "title": "Jury oordeelt dat Google illegaal monopolie heeft met appstore",
+    "title": "Google heeft volgens Amerikaanse jury een illegaal monopolie met appwinkel",
     "subtitle": null,
     "published_at": "2023-12-12T05:23:59+01:00",
-    "updated_at": "2023-12-12T05:24:00+01:00",
+    "updated_at": "2023-12-12T07:38:31+01:00",
     "media_id": "y98xf8qao8rl",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6293652/jury-oordeelt-dat-google-illegaal-monopolie-heeft-met-appstore.html",
+    "url": "/tech/6293652/google-heeft-volgens-amerikaanse-jury-een-illegaal-monopolie-met-appwinkel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,12 +300,12 @@
   },
   {
     "id": 6293227,
-    "slug": "waarom-het-onveilig-is-om-met-een-openbaar-wifi-netwerk-te-verbinden",
+    "slug": "waarom-het-onveilig-is-om-met-een-openbaar-wifinetwerk-te-verbinden",
     "type": "article",
-    "title": "Waarom het onveilig is om met een openbaar wifi-netwerk te verbinden",
+    "title": "Waarom het onveilig is om met een openbaar wifinetwerk te verbinden",
     "subtitle": "NU+",
     "published_at": "2023-12-12T05:07:06+01:00",
-    "updated_at": "2023-12-12T05:07:07+01:00",
+    "updated_at": "2023-12-12T07:37:47+01:00",
     "media_id": "ew7xddhalwjg",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/slimmer-leven/6293227/waarom-het-onveilig-is-om-met-een-openbaar-wifi-netwerk-te-verbinden.html",
+    "url": "/slimmer-leven/6293227/waarom-het-onveilig-is-om-met-een-openbaar-wifinetwerk-te-verbinden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6293645/politie-zoekt-drie-verdachten-vanwege-fatale-steekpartij-in-nijmegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293650,
-    "slug": "verzoek-om-versneld-oordeel-van-hooggerechtshof-vs-in-rechtszaak-trump",
-    "type": "article",
-    "title": "Verzoek om versneld oordeel van Hooggerechtshof VS in rechtszaak Trump",
-    "subtitle": null,
-    "published_at": "2023-12-12T00:02:04+01:00",
-    "updated_at": "2023-12-12T06:18:35+01:00",
-    "media_id": "wq4x1t3a8suh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293650/verzoek-om-versneld-oordeel-van-hooggerechtshof-vs-in-rechtszaak-trump.html",
     "open_new_window": false,
     "partner": null
   }
