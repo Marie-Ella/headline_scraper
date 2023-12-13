@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293877,
+    "slug": "timmermans-vergelijkt-wilders-met-haai-uit-finding-nemo",
+    "type": "video",
+    "title": "Timmermans vergelijkt Wilders met haai uit Finding Nemo",
+    "subtitle": "Video",
+    "published_at": "2023-12-13T12:02:33+01:00",
+    "updated_at": "2023-12-13T12:03:22+01:00",
+    "media_id": "ehhxqw0azhg9",
+    "duration": "2:12",
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6293877/timmermans-vergelijkt-wilders-met-haai-uit-finding-nemo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293870,
     "slug": "ik-vertrouw-erop-dat-op-klimaattop-gemaakte-afspraken-worden-uitgevoerd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Geslagen Turkse scheidsrechter verlaat ziekenhuis na 36 uur met blauw oog",
     "subtitle": null,
     "published_at": "2023-12-13T11:41:04+01:00",
-    "updated_at": "2023-12-13T11:41:05+01:00",
+    "updated_at": "2023-12-13T12:10:12+01:00",
     "media_id": "qojxa7maopcu",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Troye Sivan verplaatst concert naar Ziggo Dome vanwege populariteit",
     "subtitle": null,
     "published_at": "2023-12-13T11:20:35+01:00",
-    "updated_at": "2023-12-13T11:20:36+01:00",
+    "updated_at": "2023-12-13T12:00:48+01:00",
     "media_id": "8a2xm94asb18",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Zwetsloot overtuigend door op WK skateboarden, vroege exit Jacobs",
     "subtitle": null,
     "published_at": "2023-12-13T10:04:12+01:00",
-    "updated_at": "2023-12-13T10:10:25+01:00",
+    "updated_at": "2023-12-13T12:12:45+01:00",
     "media_id": "7udxs8pa6nw6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6293840/grootste-gamebeurs-ter-wereld-houdt-op-te-bestaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293839,
-    "slug": "jimmy-dijk-volgt-lilian-marijnissen-op-als-sp-leider",
-    "type": "article",
-    "title": "Jimmy Dijk volgt Lilian Marijnissen op als SP-leider",
-    "subtitle": null,
-    "published_at": "2023-12-13T09:02:20+01:00",
-    "updated_at": "2023-12-13T10:02:29+01:00",
-    "media_id": "jvgxosba7j2d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6293839/jimmy-dijk-volgt-lilian-marijnissen-op-als-sp-leider.html",
     "open_new_window": false,
     "partner": null
   }
