@@ -1,5 +1,51 @@
 [
   {
+    "id": 6293850,
+    "slug": "liveblog-formatie-kamer-in-debat-over-advies-van-verkenner-plasterk",
+    "type": "article",
+    "title": "Liveblog formatie | Kamer in debat over advies van verkenner Plasterk",
+    "subtitle": null,
+    "published_at": "2023-12-13T10:26:42+01:00",
+    "updated_at": "2023-12-13T10:26:43+01:00",
+    "media_id": "wq9xy8la5r8w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779337,
+      "slug": "formatie-2023",
+      "type": "default",
+      "name": "Formatie 2023",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formatie-2023/6293850/liveblog-formatie-kamer-in-debat-over-advies-van-verkenner-plasterk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293851,
+    "slug": "kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk",
+    "type": "video",
+    "title": "Kamer debatteert over verkiezingsuitslag en verslag Plasterk",
+    "subtitle": "Livestream",
+    "published_at": "2023-12-13T10:20:46+01:00",
+    "updated_at": "2023-12-13T10:28:56+01:00",
+    "media_id": "c4zx94ea1biz",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6293851/kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293848,
     "slug": "zwetsloot-overtuigend-door-op-wk-skateboarden-vroege-exit-jacobs",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Chemours moet weer vrezen voor boete vanwege te hoge uitstoot schadelijke stof",
     "subtitle": null,
     "published_at": "2023-12-13T09:09:48+01:00",
-    "updated_at": "2023-12-13T09:09:49+01:00",
+    "updated_at": "2023-12-13T10:22:30+01:00",
     "media_id": "ebax5nsas1wl",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6293823/duitse-treinmachinisten-gaan-langer-staken-na-kerstvakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293822,
-    "slug": "zet-je-schrap-voor-opnieuw-een-regenachtige-en-grijze-dag",
-    "type": "article",
-    "title": "Zet je schrap voor opnieuw een regenachtige en grijze dag",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-12-13T06:07:37+01:00",
-    "updated_at": "2023-12-13T06:32:32+01:00",
-    "media_id": "ej3xjaeaa39c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6293822/zet-je-schrap-voor-opnieuw-een-regenachtige-en-grijze-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293753,
-    "slug": "vs-bezorgd-gebruikt-israel-amerikaanse-witte-fosfor-tegen-burgers",
-    "type": "video",
-    "title": "VS bezorgd: gebruikt Israël Amerikaanse witte fosfor tegen burgers?",
-    "subtitle": "Explainer",
-    "published_at": "2023-12-13T06:01:11+01:00",
-    "updated_at": "2023-12-13T06:01:12+01:00",
-    "media_id": "ivxxagianvqr",
-    "duration": "2:01",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293753/vs-bezorgd-gebruikt-israel-amerikaanse-witte-fosfor-tegen-burgers.html",
     "open_new_window": false,
     "partner": null
   }
