@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293973,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-14T05:26:25+01:00",
+    "updated_at": "2023-12-14T05:26:26+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6293973/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293964,
     "slug": "ajax-vrouwen-mikt-bij-bayern-op-nieuwe-cl-stunt-we-kunnen-onszelf-laten-zien",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293956/zaire-emery-17-helpt-psg-met-historische-treffer-aan-overwintering-in-cl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293955,
-    "slug": "beveiliging-op-kerstmarkten-in-valkenburg-opgeschroefd",
-    "type": "video",
-    "title": "Beveiliging op kerstmarkten in Valkenburg opgeschroefd",
-    "subtitle": "Video",
-    "published_at": "2023-12-13T20:44:24+01:00",
-    "updated_at": "2023-12-13T20:55:58+01:00",
-    "media_id": "ft6xgkua4ndz",
-    "duration": "1:20",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6293955/beveiliging-op-kerstmarkten-in-valkenburg-opgeschroefd.html",
     "open_new_window": false,
     "partner": null
   }
