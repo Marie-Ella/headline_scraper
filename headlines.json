@@ -1,12 +1,58 @@
 [
   {
+    "id": 6294117,
+    "slug": "derde-verdachte-aangehouden-voor-dodelijke-steekpartij-in-nijmegen",
+    "type": "article",
+    "title": "Derde verdachte aangehouden voor dodelijke steekpartij in Nijmegen",
+    "subtitle": null,
+    "published_at": "2023-12-14T21:47:20+01:00",
+    "updated_at": "2023-12-14T21:48:40+01:00",
+    "media_id": "gcpxmelapznm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6294117/derde-verdachte-aangehouden-voor-dodelijke-steekpartij-in-nijmegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294118,
+    "slug": "140-ajax-supporters-aangehouden-vanwege-vernielingen-op-metrostation",
+    "type": "article",
+    "title": "140 Ajax-supporters aangehouden vanwege vernielingen op metrostation",
+    "subtitle": null,
+    "published_at": "2023-12-14T21:36:00+01:00",
+    "updated_at": "2023-12-14T21:44:29+01:00",
+    "media_id": "z51xndvasy11",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6294118/140-ajax-supporters-aangehouden-vanwege-vernielingen-op-metrostation.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293950,
     "slug": "de-jaarwisseling-komt-eraan-bestaat-er-ook-duurzaam-vuurwerk",
     "type": "article",
     "title": "De jaarwisseling komt eraan: bestaat er ook duurzaam vuurwerk?",
     "subtitle": "NU+",
     "published_at": "2023-12-14T21:14:48+01:00",
-    "updated_at": "2023-12-14T21:14:49+01:00",
+    "updated_at": "2023-12-14T21:47:56+01:00",
     "media_id": "5qsxk0qa78ik",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Truckdief ramt politieauto's tijdens dollemansrit bij Breda",
     "subtitle": "Video",
     "published_at": "2023-12-14T21:04:10+01:00",
-    "updated_at": "2023-12-14T21:04:11+01:00",
+    "updated_at": "2023-12-14T21:49:08+01:00",
     "media_id": "d8xxx2raiahg",
     "duration": "0:50",
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "AZ is uitgeschakeld in Conference League na troosteloze avond in Polen",
     "subtitle": null,
     "published_at": "2023-12-14T20:38:56+01:00",
-    "updated_at": "2023-12-14T21:25:29+01:00",
+    "updated_at": "2023-12-14T21:30:18+01:00",
     "media_id": "9mexybfax2lf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6294099/kogelgaten-ontsieren-ruiten-van-venloos-cafe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294097,
-    "slug": "live-cl-vrouwen-reacties-na-knap-gelijkspel-ajax-tegen-bayern",
-    "type": "article",
-    "title": "Live CL Vrouwen | Reacties na knap gelijkspel Ajax tegen Bayern",
-    "subtitle": null,
-    "published_at": "2023-12-14T18:19:35+01:00",
-    "updated_at": "2023-12-14T21:18:05+01:00",
-    "media_id": "03ixxcea8iih",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294097/live-cl-vrouwen-reacties-na-knap-gelijkspel-ajax-tegen-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294094,
-    "slug": "rabobank-krijgt-12-miljoen-euro-boete-voor-te-soepele-hypotheekverstrekking",
-    "type": "article",
-    "title": "Rabobank krijgt 12 miljoen euro boete voor te soepele hypotheekverstrekking",
-    "subtitle": null,
-    "published_at": "2023-12-14T18:14:30+01:00",
-    "updated_at": "2023-12-14T20:19:41+01:00",
-    "media_id": "xrexq7kaa340",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6294094/rabobank-krijgt-12-miljoen-euro-boete-voor-te-soepele-hypotheekverstrekking.html",
     "open_new_window": false,
     "partner": null
   }
