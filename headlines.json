@@ -1,35 +1,58 @@
 [
   {
+    "id": 6294279,
+    "slug": "nederlander-schalk-schiet-urawa-op-wk-voor-clubs-naar-halve-finale-tegen-city",
+    "type": "article",
+    "title": "Nederlander Schalk schiet Urawa op WK voor clubs naar halve finale tegen City",
+    "subtitle": null,
+    "published_at": "2023-12-15T18:30:16+01:00",
+    "updated_at": "2023-12-15T18:30:17+01:00",
+    "media_id": "9k1xprca4b24",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294279/nederlander-schalk-schiet-urawa-op-wk-voor-clubs-naar-halve-finale-tegen-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294278,
     "slug": "huilende-stiefdochter-max-verstappen-onderbreekt-livestream",
     "type": "video",
     "title": "Huilende stiefdochter Max Verstappen onderbreekt livestream",
     "subtitle": "Video",
     "published_at": "2023-12-15T18:11:16+01:00",
-    "updated_at": "2023-12-15T18:11:17+01:00",
+    "updated_at": "2023-12-15T18:23:36+01:00",
     "media_id": "bc7xtrsafqbw",
     "duration": "0:50",
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Algemeen",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6294278/huilende-stiefdochter-max-verstappen-onderbreekt-livestream.html",
+    "url": "/algemeen/6294278/huilende-stiefdochter-max-verstappen-onderbreekt-livestream.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6294254,
-    "slug": "rtl-mocht-niet-met-talpa-samen-waarom-zou-het-dan-met-wel-dpg-kunnen",
+    "slug": "rtl-mocht-niet-met-talpa-samen-waarom-zou-het-wel-met-dpg-kunnen",
     "type": "article",
-    "title": "RTL mocht niet met Talpa samen: waarom zou het dan met wel DPG kunnen?",
+    "title": "RTL mocht niet met Talpa samen: waarom zou het wel met DPG kunnen?",
     "subtitle": "NU+",
     "published_at": "2023-12-15T18:02:14+01:00",
-    "updated_at": "2023-12-15T18:02:15+01:00",
+    "updated_at": "2023-12-15T18:22:49+01:00",
     "media_id": "b4sxl6uaweyg",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6294254/rtl-mocht-niet-met-talpa-samen-waarom-zou-het-dan-met-wel-dpg-kunnen.html",
+    "url": "/media/6294254/rtl-mocht-niet-met-talpa-samen-waarom-zou-het-wel-met-dpg-kunnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6294236/verdachte-in-terreuronderzoek-blijft-in-cel-tot-overlevering-aan-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294240,
-    "slug": "russisch-comite-noemt-regels-voor-deelname-russen-aan-spelen-vernederend",
-    "type": "article",
-    "title": "Russisch comité noemt regels voor deelname Russen aan Spelen vernederend",
-    "subtitle": null,
-    "published_at": "2023-12-15T15:27:24+01:00",
-    "updated_at": "2023-12-15T15:55:45+01:00",
-    "media_id": "b6nxo42a8qx9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294240/russisch-comite-noemt-regels-voor-deelname-russen-aan-spelen-vernederend.html",
     "open_new_window": false,
     "partner": null
   }
