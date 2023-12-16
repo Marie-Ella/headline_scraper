@@ -1,5 +1,97 @@
 [
   {
+    "id": 6294247,
+    "slug": "ik-bezuinig-op-kerstinkopen-vanwege-de-hogere-prijzen",
+    "type": "article",
+    "title": "'Ik bezuinig op kerstinkopen vanwege de hogere prijzen'",
+    "subtitle": "Stelling",
+    "published_at": "2023-12-16T11:04:59+01:00",
+    "updated_at": "2023-12-16T11:05:00+01:00",
+    "media_id": "aiaxxeqaefe9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6294247/ik-bezuinig-op-kerstinkopen-vanwege-de-hogere-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294270,
+    "slug": "hoe-kan-een-eu-land-de-koers-van-oekraine-bepalen",
+    "type": "video",
+    "title": "Hoe kan één EU-land de koers van Oekraïne bepalen?",
+    "subtitle": "Explainer",
+    "published_at": "2023-12-16T10:59:36+01:00",
+    "updated_at": "2023-12-16T10:59:37+01:00",
+    "media_id": "4kmxrcga6hpw",
+    "duration": "1:58",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6294270/hoe-kan-een-eu-land-de-koers-van-oekraine-bepalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294352,
+    "slug": "weer-nacht-vol-explosies-in-meerdere-steden-geen-gewonden",
+    "type": "article",
+    "title": "Weer nacht vol explosies in meerdere steden, geen gewonden",
+    "subtitle": null,
+    "published_at": "2023-12-16T10:57:12+01:00",
+    "updated_at": "2023-12-16T11:10:49+01:00",
+    "media_id": "fxnxzw2aj465",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6294352/weer-nacht-vol-explosies-in-meerdere-steden-geen-gewonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294349,
+    "slug": "duitse-vakbond-en-staalfabrikanten-bereiken-akkoord-over-loonsverhogingen",
+    "type": "article",
+    "title": "Duitse vakbond en staalfabrikanten bereiken akkoord over loonsverhogingen",
+    "subtitle": null,
+    "published_at": "2023-12-16T10:52:28+01:00",
+    "updated_at": "2023-12-16T10:52:29+01:00",
+    "media_id": "md8xxbiacf7a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6294349/duitse-vakbond-en-staalfabrikanten-bereiken-akkoord-over-loonsverhogingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294346,
     "slug": "kelly-clarkson-twee-keer-in-de-prijzen-gevallen-bij-daytime-emmy-awards",
     "type": "article",
@@ -29,7 +121,7 @@
     "title": "Aflossingsploeg verovert goud na tumult in Seoel, Velzeboer pakt ook brons",
     "subtitle": null,
     "published_at": "2023-12-16T10:26:21+01:00",
-    "updated_at": "2023-12-16T10:31:59+01:00",
+    "updated_at": "2023-12-16T11:03:35+01:00",
     "media_id": "2gsxkbna7vh3",
     "duration": null,
     "canonical_section": {
@@ -139,12 +231,12 @@
   },
   {
     "id": 6294333,
-    "slug": "nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muzien-en-glitters",
+    "slug": "nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muziek-en-glitters",
     "type": "article",
-    "title": "Nederlanders kopen steeds meer kerstkaarten met lampjes, muzien en glitters",
+    "title": "Nederlanders kopen steeds meer kerstkaarten met lampjes, muziek en glitters",
     "subtitle": null,
     "published_at": "2023-12-16T09:48:02+01:00",
-    "updated_at": "2023-12-16T09:58:05+01:00",
+    "updated_at": "2023-12-16T11:18:48+01:00",
     "media_id": "28ex33na5182",
     "duration": null,
     "canonical_section": {
@@ -156,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6294333/nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muzien-en-glitters.html",
+    "url": "/opmerkelijk/6294333/nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muziek-en-glitters.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/login-vereist/6293995/waarom-websites-willen-dat-je-passkey-gebruikt-veiligere-versie-van-wachtwoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294269,
-    "slug": "domme-bommen-hebben-veel-impact-in-gaza-wat-zijn-het",
-    "type": "video",
-    "title": "'Domme' bommen hebben veel impact in Gaza: wat zijn het?",
-    "subtitle": "Explainer",
-    "published_at": "2023-12-16T06:31:27+01:00",
-    "updated_at": "2023-12-16T06:31:28+01:00",
-    "media_id": "j3uxi1faei7n",
-    "duration": "2:40",
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6294269/domme-bommen-hebben-veel-impact-in-gaza-wat-zijn-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294314,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-16T06:27:12+01:00",
-    "updated_at": "2023-12-16T08:50:55+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6294314/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294313,
-    "slug": "sigrid-kaag-blikt-terug-verruwing-en-intolerantie-in-nederland-zijn-tegengevallen",
-    "type": "article",
-    "title": "Sigrid Kaag blikt terug: 'Verruwing en intolerantie in Nederland zijn tegengevallen'",
-    "subtitle": null,
-    "published_at": "2023-12-16T06:16:20+01:00",
-    "updated_at": "2023-12-16T08:15:16+01:00",
-    "media_id": "xo2x8i7asxw9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6294313/sigrid-kaag-blikt-terug-verruwing-en-intolerantie-in-nederland-zijn-tegengevallen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294312,
-    "slug": "trump-stapt-naar-hoogste-gerechtshof-new-york-om-spreekverbod-in-fraudezaak",
-    "type": "article",
-    "title": "Trump stapt naar hoogste gerechtshof New York om spreekverbod in fraudezaak",
-    "subtitle": null,
-    "published_at": "2023-12-16T05:52:35+01:00",
-    "updated_at": "2023-12-16T08:55:12+01:00",
-    "media_id": "wq4x1t3a8suh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6294312/trump-stapt-naar-hoogste-gerechtshof-new-york-om-spreekverbod-in-fraudezaak.html",
     "open_new_window": false,
     "partner": null
   }
