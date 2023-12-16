@@ -1,12 +1,58 @@
 [
   {
+    "id": 6294320,
+    "slug": "aflossingsploeg-verovert-goud-na-tumult-in-seoel-velzeboer-pakt-ook-brons",
+    "type": "article",
+    "title": "Aflossingsploeg verovert goud na tumult in Seoel, Velzeboer pakt ook brons",
+    "subtitle": null,
+    "published_at": "2023-12-16T10:26:21+01:00",
+    "updated_at": "2023-12-16T10:26:22+01:00",
+    "media_id": "2gsxkbna7vh3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6294320/aflossingsploeg-verovert-goud-na-tumult-in-seoel-velzeboer-pakt-ook-brons.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294337,
+    "slug": "woedende-israeliers-de-straat-op-omdat-leger-per-ongeluk-gijzelaars-doodt",
+    "type": "video",
+    "title": "Woedende Israëliërs de straat op omdat leger per ongeluk gijzelaars doodt",
+    "subtitle": "Video",
+    "published_at": "2023-12-16T10:17:14+01:00",
+    "updated_at": "2023-12-16T10:17:15+01:00",
+    "media_id": "u74xl3ma18e4",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6294337/woedende-israeliers-de-straat-op-omdat-leger-per-ongeluk-gijzelaars-doodt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294321,
     "slug": "skateboardsters-zwetsloot-en-oldenbeuving-grijpen-naast-finaleplek-op-wk",
     "type": "article",
     "title": "Skateboardsters Zwetsloot en Oldenbeuving grijpen naast finaleplek op WK",
     "subtitle": null,
     "published_at": "2023-12-16T10:13:07+01:00",
-    "updated_at": "2023-12-16T10:13:32+01:00",
+    "updated_at": "2023-12-16T10:25:20+01:00",
     "media_id": "bdrx8f0a1c0j",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6293050/steenkool-in-data-de-wereld-leunt-er-nog-steeds-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294093,
-    "slug": "van-gerwen-ik-geen-favoriet-spelers-hebben-nog-steeds-ontzag-voor-mij",
-    "type": "article",
-    "title": "Van Gerwen: 'Ik geen favoriet? Spelers hebben nog steeds ontzag voor mij'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-16T05:15:49+01:00",
-    "updated_at": "2023-12-16T07:59:10+01:00",
-    "media_id": "3d7xtqoawaw3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294093/van-gerwen-ik-geen-favoriet-spelers-hebben-nog-steeds-ontzag-voor-mij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294182,
-    "slug": "kerstinkopen-in-supermarkten-fors-duurder-dan-vorig-jaar",
-    "type": "article",
-    "title": "Kerstinkopen in supermarkten fors duurder dan vorig jaar",
-    "subtitle": null,
-    "published_at": "2023-12-16T05:15:01+01:00",
-    "updated_at": "2023-12-16T07:58:48+01:00",
-    "media_id": "moxx3u3a41h2",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6294182/kerstinkopen-in-supermarkten-fors-duurder-dan-vorig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
