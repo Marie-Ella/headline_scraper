@@ -1,12 +1,35 @@
 [
   {
-    "id": 6294313,
-    "slug": "sigrid-kaag-blikt-terug-verruwing-en-intolerantie-is-mij-tegengevallen",
+    "id": 6294314,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Sigrid Kaag blikt terug: 'Verruwing en intolerantie is mij tegengevallen'",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-16T06:27:12+01:00",
+    "updated_at": "2023-12-16T06:27:13+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6294314/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294313,
+    "slug": "sigrid-kaag-blikt-terug-verruwing-en-intolerantie-zijn-mij-tegengevallen",
+    "type": "article",
+    "title": "Sigrid Kaag blikt terug: 'Verruwing en intolerantie zijn mij tegengevallen'",
     "subtitle": null,
     "published_at": "2023-12-16T06:16:20+01:00",
-    "updated_at": "2023-12-16T06:16:21+01:00",
+    "updated_at": "2023-12-16T06:24:14+01:00",
     "media_id": "xo2x8i7asxw9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6294313/sigrid-kaag-blikt-terug-verruwing-en-intolerantie-is-mij-tegengevallen.html",
+    "url": "/politiek/6294313/sigrid-kaag-blikt-terug-verruwing-en-intolerantie-zijn-mij-tegengevallen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6294297/debutant-doets-laat-titelverdediger-smith-ontsnappen-en-is-klaar-op-wk-darts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294295,
-    "slug": "weer-een-journalist-omgekomen-in-gaza-cameraman-overlijdt-na-raketinslag",
-    "type": "article",
-    "title": "Weer een journalist omgekomen in Gaza: cameraman overlijdt na raketinslag",
-    "subtitle": null,
-    "published_at": "2023-12-15T20:50:16+01:00",
-    "updated_at": "2023-12-16T01:02:43+01:00",
-    "media_id": "w1ix0s9aqls5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6294295/weer-een-journalist-omgekomen-in-gaza-cameraman-overlijdt-na-raketinslag.html",
     "open_new_window": false,
     "partner": null
   }
