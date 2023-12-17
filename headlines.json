@@ -1,12 +1,35 @@
 [
   {
+    "id": 6294467,
+    "slug": "gerard-depardieu-verliest-opnieuw-een-onderscheiding",
+    "type": "article",
+    "title": "Gérard Depardieu verliest opnieuw een onderscheiding",
+    "subtitle": null,
+    "published_at": "2023-12-17T13:31:44+01:00",
+    "updated_at": "2023-12-17T13:48:36+01:00",
+    "media_id": "atnxvmrawe2n",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6294467/gerard-depardieu-verliest-opnieuw-een-onderscheiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294443,
     "slug": "feyenoord-coach-slot-verrast-met-basisplek-voor-dilrosun-tegen-heracles",
     "type": "article",
     "title": "Feyenoord-coach Slot verrast met basisplek voor Dilrosun tegen Heracles",
     "subtitle": null,
     "published_at": "2023-12-17T13:20:47+01:00",
-    "updated_at": "2023-12-17T13:22:14+01:00",
+    "updated_at": "2023-12-17T13:50:44+01:00",
     "media_id": "w1hx2x9a5dk6",
     "duration": null,
     "canonical_section": {
@@ -185,13 +208,13 @@
   },
   {
     "id": 6294453,
-    "slug": "live-eredivisie-almere-city-op-rozen-tegen-virtuele-hekkensluiter-vitesse",
+    "slug": "live-eredivisie-virtuele-hekkensluiter-vitesse-dringt-aan-tegen-almere-city",
     "type": "article",
-    "title": "Live Eredivisie | Almere City op rozen tegen virtuele hekkensluiter Vitesse",
+    "title": "Live Eredivisie | Virtuele hekkensluiter Vitesse dringt aan tegen Almere City",
     "subtitle": null,
     "published_at": "2023-12-17T11:52:33+01:00",
-    "updated_at": "2023-12-17T13:20:57+01:00",
-    "media_id": "h1qxg0la8mbi",
+    "updated_at": "2023-12-17T13:46:08+01:00",
+    "media_id": "zfoxcdsapjk3",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6294453/live-eredivisie-almere-city-op-rozen-tegen-virtuele-hekkensluiter-vitesse.html",
+    "url": "/voetbal/6294453/live-eredivisie-virtuele-hekkensluiter-vitesse-dringt-aan-tegen-almere-city.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Sensatie op 500 meter: Velzeboer en Poutsma pakken allebei wereldbekergoud",
     "subtitle": null,
     "published_at": "2023-12-17T08:24:23+01:00",
-    "updated_at": "2023-12-17T13:31:27+01:00",
+    "updated_at": "2023-12-17T13:31:46+01:00",
     "media_id": "a8ux4jcah3eg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6294435/ideaal-weer-voor-een-lange-wandeling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294434,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-17T06:04:44+01:00",
-    "updated_at": "2023-12-17T06:04:45+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6294434/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
