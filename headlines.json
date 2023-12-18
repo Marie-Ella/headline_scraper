@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294602,
+    "slug": "oekraiense-militairen-curlen-met-antitankmijnen",
+    "type": "video",
+    "title": "Oekraïense militairen curlen met antitankmijnen",
+    "subtitle": "Video",
+    "published_at": "2023-12-18T13:38:58+01:00",
+    "updated_at": "2023-12-18T13:38:59+01:00",
+    "media_id": "kz0xap1a8uec",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6294602/oekraiense-militairen-curlen-met-antitankmijnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294597,
     "slug": "dpg-media-en-mediahuis-bereiken-akkoord-met-vakbond-over-loon-journalisten",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Dertig jaar cel voor dubbele moord in Zwols McDonald's-restaurant",
     "subtitle": null,
     "published_at": "2023-12-18T13:27:03+01:00",
-    "updated_at": "2023-12-18T13:31:44+01:00",
+    "updated_at": "2023-12-18T13:57:35+01:00",
     "media_id": "hwnxes0absan",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Feyenoord treft wéér AS Roma van Mourinho in tussenronde Europa League",
     "subtitle": null,
     "published_at": "2023-12-18T13:13:25+01:00",
-    "updated_at": "2023-12-18T13:33:02+01:00",
+    "updated_at": "2023-12-18T13:45:13+01:00",
     "media_id": "4qexaxtac4lj",
     "duration": null,
     "canonical_section": {
@@ -323,13 +346,13 @@
   },
   {
     "id": 6294573,
-    "slug": "live-europese-lotingen-europa-league-duels-zijn-bekend-ajax-nog-in-afwachting",
+    "slug": "live-europese-lotingen-na-psv-en-feyenoord-is-ajax-aan-de-beurt",
     "type": "article",
-    "title": "Live Europese lotingen | Europa League-duels zijn bekend, Ajax nog in afwachting",
+    "title": "Live Europese lotingen | Na PSV en Feyenoord is Ajax aan de beurt",
     "subtitle": null,
     "published_at": "2023-12-18T11:39:39+01:00",
-    "updated_at": "2023-12-18T13:21:24+01:00",
-    "media_id": "rbjx3eqa0b12",
+    "updated_at": "2023-12-18T13:55:55+01:00",
+    "media_id": "ymjxtp5a1mbt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6294573/live-europese-lotingen-europa-league-duels-zijn-bekend-ajax-nog-in-afwachting.html",
+    "url": "/voetbal/6294573/live-europese-lotingen-na-psv-en-feyenoord-is-ajax-aan-de-beurt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6294568/storm-blaast-geparkeerd-vliegtuig-in-buenos-aires-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294553,
-    "slug": "zeker-acht-mensen-omgekomen-bij-explosie-op-olieterminal-in-guinee",
-    "type": "article",
-    "title": "Zeker acht mensen omgekomen bij explosie op olieterminal in Guinee",
-    "subtitle": null,
-    "published_at": "2023-12-18T10:33:10+01:00",
-    "updated_at": "2023-12-18T13:15:05+01:00",
-    "media_id": "18lxobyak33v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6294553/zeker-acht-mensen-omgekomen-bij-explosie-op-olieterminal-in-guinee.html",
     "open_new_window": false,
     "partner": null
   }
