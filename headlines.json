@@ -1,5 +1,51 @@
 [
   {
+    "id": 6294649,
+    "slug": "discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-blijven-vallen",
+    "type": "article",
+    "title": "Discussie over nieuw staakt-het-vuren Gaza terwijl bommen blijven vallen",
+    "subtitle": "Overzicht",
+    "published_at": "2023-12-19T00:56:51+01:00",
+    "updated_at": "2023-12-19T01:16:28+01:00",
+    "media_id": "sd8xo9lauisb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6294649/discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-blijven-vallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294673,
+    "slug": "tientallen-doden-en-gewonden-na-aardbeving-in-china",
+    "type": "article",
+    "title": "Tientallen doden en gewonden na aardbeving in China",
+    "subtitle": null,
+    "published_at": "2023-12-19T00:54:53+01:00",
+    "updated_at": "2023-12-19T00:54:54+01:00",
+    "media_id": "8xox23raf52q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6294673/tientallen-doden-en-gewonden-na-aardbeving-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294674,
     "slug": "nederland-en-marokko-tekenen-uitleveringsverdrag",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Na weken van maatregelen barst vulkaan op IJsland eindelijk uit",
     "subtitle": null,
     "published_at": "2023-12-19T00:14:45+01:00",
-    "updated_at": "2023-12-19T00:22:21+01:00",
+    "updated_at": "2023-12-19T00:49:54+01:00",
     "media_id": "ja8xeusac7sz",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Nederland gaat met internationale coalitie schepen op Rode Zee beschermen",
     "subtitle": null,
     "published_at": "2023-12-18T23:24:54+01:00",
-    "updated_at": "2023-12-18T23:34:33+01:00",
+    "updated_at": "2023-12-19T01:01:57+01:00",
     "media_id": "mjtx0w8ap4s6",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Toptalent Van Veen verrassend onderuit in thriller tegen Leung op WK darts",
     "subtitle": null,
     "published_at": "2023-12-18T21:30:03+01:00",
-    "updated_at": "2023-12-18T23:28:43+01:00",
+    "updated_at": "2023-12-19T01:00:32+01:00",
     "media_id": "vv1xthjaxpkj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6294652/rus-die-bij-strafhof-wil-getuigen-tegen-poetin-aangekomen-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294580,
-    "slug": "wie-is-gerard-depardieu-en-waarvan-wordt-hij-precies-beschuldigd",
-    "type": "article",
-    "title": "Wie is Gérard Depardieu en waarvan wordt hij precies beschuldigd?",
-    "subtitle": "NU+",
-    "published_at": "2023-12-18T19:21:31+01:00",
-    "updated_at": "2023-12-18T19:21:32+01:00",
-    "media_id": "ty8xs32a53am",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6294580/wie-is-gerard-depardieu-en-waarvan-wordt-hij-precies-beschuldigd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294650,
-    "slug": "berlijns-plein-staat-vol-met-tractors-van-protesterende-boeren",
-    "type": "video",
-    "title": "Berlijns plein staat vol met tractors van protesterende boeren",
-    "subtitle": "Video",
-    "published_at": "2023-12-18T19:17:26+01:00",
-    "updated_at": "2023-12-18T19:17:27+01:00",
-    "media_id": "hqsx2uka7jsh",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6294650/berlijns-plein-staat-vol-met-tractors-van-protesterende-boeren.html",
     "open_new_window": false,
     "partner": null
   }
