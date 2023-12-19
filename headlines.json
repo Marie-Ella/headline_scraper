@@ -1,12 +1,104 @@
 [
   {
-    "id": 6294649,
-    "slug": "discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-blijven-vallen",
+    "id": 6294676,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Discussie over nieuw staakt-het-vuren Gaza terwijl bommen blijven vallen",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-19T05:14:25+01:00",
+    "updated_at": "2023-12-19T05:14:26+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6294676/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294562,
+    "slug": "alex-schalk-aast-ook-op-glansrol-tegen-sterren-van-city-we-zijn-niet-bang",
+    "type": "article",
+    "title": "Alex Schalk aast ook op glansrol tegen sterren van City: 'We zijn niet bang'",
+    "subtitle": "NU+",
+    "published_at": "2023-12-19T05:08:33+01:00",
+    "updated_at": "2023-12-19T05:08:34+01:00",
+    "media_id": "6hzxeutaebcy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294562/alex-schalk-aast-ook-op-glansrol-tegen-sterren-van-city-we-zijn-niet-bang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293707,
+    "slug": "niet-geschoten-is-altijd-mis-waarom-we-graag-meedoen-met-loterijen",
+    "type": "article",
+    "title": "'Niet geschoten is altijd mis': waarom we graag meedoen met loterijen",
+    "subtitle": "NU+",
+    "published_at": "2023-12-19T05:04:22+01:00",
+    "updated_at": "2023-12-19T05:04:23+01:00",
+    "media_id": "6awxhotaro1x",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6293707/niet-geschoten-is-altijd-mis-waarom-we-graag-meedoen-met-loterijen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294619,
+    "slug": "politiek-leiders-samen-aan-tafel-formatie-gaat-fase-van-radiostilte-in",
+    "type": "article",
+    "title": "Politiek leiders samen aan tafel: formatie gaat fase van 'radiostilte' in",
+    "subtitle": null,
+    "published_at": "2023-12-19T05:01:58+01:00",
+    "updated_at": "2023-12-19T05:01:59+01:00",
+    "media_id": "9xsxrwcaltu5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6294619/politiek-leiders-samen-aan-tafel-formatie-gaat-fase-van-radiostilte-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294649,
+    "slug": "discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-vallen",
+    "type": "article",
+    "title": "Discussie over nieuw staakt-het-vuren Gaza terwijl bommen vallen",
     "subtitle": "Overzicht",
     "published_at": "2023-12-19T00:56:51+01:00",
-    "updated_at": "2023-12-19T01:16:28+01:00",
+    "updated_at": "2023-12-19T05:12:43+01:00",
     "media_id": "sd8xo9lauisb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6294649/discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-blijven-vallen.html",
+    "url": "/midden-oostenconflict/6294649/discussie-over-nieuw-staakt-het-vuren-gaza-terwijl-bommen-vallen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +282,7 @@
     "title": "Zestien woningen ontruimd na grote brand in appartementencomplex Spijkenisse",
     "subtitle": null,
     "published_at": "2023-12-18T23:10:55+01:00",
-    "updated_at": "2023-12-18T23:24:22+01:00",
+    "updated_at": "2023-12-19T05:09:53+01:00",
     "media_id": "tdnx8awayypl",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6294657/knvb-sluit-boycot-van-wk-in-saoedi-arabie-uit-zijn-namelijk-een-voetbalbond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294643,
-    "slug": "live-wk-darts-reacties-na-nederlaag-van-veen-in-thriller-tegen-leung",
-    "type": "article",
-    "title": "Live WK darts | Reacties na nederlaag Van Veen in thriller tegen Leung",
-    "subtitle": null,
-    "published_at": "2023-12-18T21:09:18+01:00",
-    "updated_at": "2023-12-18T22:57:37+01:00",
-    "media_id": "dt2xw54abpjp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6294643/live-wk-darts-reacties-na-nederlaag-van-veen-in-thriller-tegen-leung.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294656,
-    "slug": "fluminense-bereikt-finale-wk-voor-clubs-en-treft-city-of-nederlands-getint-urawa",
-    "type": "article",
-    "title": "Fluminense bereikt finale WK voor clubs en treft City of Nederlands getint Urawa",
-    "subtitle": null,
-    "published_at": "2023-12-18T20:57:28+01:00",
-    "updated_at": "2023-12-18T21:08:58+01:00",
-    "media_id": "wt2x8jlawy9f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294656/fluminense-bereikt-finale-wk-voor-clubs-en-treft-city-of-nederlands-getint-urawa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294653,
-    "slug": "regenval-en-overstromingen-teisteren-zuiden-van-india",
-    "type": "video",
-    "title": "Regenval en overstromingen teisteren zuiden van India",
-    "subtitle": "Video",
-    "published_at": "2023-12-18T20:17:24+01:00",
-    "updated_at": "2023-12-18T20:17:25+01:00",
-    "media_id": "b9jx8a0a82r7",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6294653/regenval-en-overstromingen-teisteren-zuiden-van-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294652,
-    "slug": "rus-die-bij-strafhof-wil-getuigen-tegen-poetin-aangekomen-in-nederland",
-    "type": "article",
-    "title": "Rus die bij Strafhof wil getuigen tegen Poetin aangekomen in Nederland",
-    "subtitle": null,
-    "published_at": "2023-12-18T20:07:30+01:00",
-    "updated_at": "2023-12-18T20:18:24+01:00",
-    "media_id": "fh2x3oma54ot",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6294652/rus-die-bij-strafhof-wil-getuigen-tegen-poetin-aangekomen-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
