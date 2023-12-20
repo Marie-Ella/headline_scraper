@@ -1,12 +1,58 @@
 [
   {
-    "id": 6294841,
-    "slug": "regen-en-zon-komen-allebei-om-de-hoek-kijken-op-deze-wisselvallige-dag",
+    "id": 6294803,
+    "slug": "half-jaar-na-implosie-onderzeeer-titan-dit-weten-we",
+    "type": "video",
+    "title": "Half jaar na implosie onderzeeër Titan: dit weten we",
+    "subtitle": "Explainer",
+    "published_at": "2023-12-20T06:02:03+01:00",
+    "updated_at": "2023-12-20T06:02:04+01:00",
+    "media_id": "5m5x3h1a7s29",
+    "duration": "1:59",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6294803/half-jaar-na-implosie-onderzeeer-titan-dit-weten-we.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294842,
+    "slug": "voorlopig-geen-nieuwe-stroomaansluiting-voor-deel-haagse-grootverbruikers",
     "type": "article",
-    "title": "Regen en zon komen allebei om de hoek kijken op deze wisselvallige dag",
+    "title": "Voorlopig geen nieuwe stroomaansluiting voor deel Haagse grootverbruikers",
+    "subtitle": null,
+    "published_at": "2023-12-20T05:58:59+01:00",
+    "updated_at": "2023-12-20T05:59:10+01:00",
+    "media_id": "emhx1iwa0oe3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6294842/voorlopig-geen-nieuwe-stroomaansluiting-voor-deel-haagse-grootverbruikers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294841,
+    "slug": "wisselvallige-dag-met-regen-en-af-en-toe-zon",
+    "type": "article",
+    "title": "Wisselvallige dag met regen en af en toe zon",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-20T05:29:08+01:00",
-    "updated_at": "2023-12-20T05:29:09+01:00",
+    "updated_at": "2023-12-20T06:01:13+01:00",
     "media_id": "ym7x4cdawz4l",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6294841/regen-en-zon-komen-allebei-om-de-hoek-kijken-op-deze-wisselvallige-dag.html",
+    "url": "/weerbericht/6294841/wisselvallige-dag-met-regen-en-af-en-toe-zon.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +190,7 @@
     "title": "Donald Trump in 2024 niet op het stembiljet bij voorverkiezingen Colorado",
     "subtitle": null,
     "published_at": "2023-12-20T00:50:49+01:00",
-    "updated_at": "2023-12-20T04:57:42+01:00",
+    "updated_at": "2023-12-20T05:59:30+01:00",
     "media_id": "jkixezgawjxt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6294829/dortmund-komt-door-goal-van-den-berg-niet-verder-dan-gelijkspel-tegen-mainz.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294825,
-    "slug": "veroordeelde-17-mishandelt-officier-van-justitie-in-haarlemse-rechtbank",
-    "type": "article",
-    "title": "Veroordeelde (17) mishandelt officier van justitie in Haarlemse rechtbank",
-    "subtitle": null,
-    "published_at": "2023-12-19T22:24:14+01:00",
-    "updated_at": "2023-12-19T22:24:15+01:00",
-    "media_id": "srcxqrlaydh2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6294825/veroordeelde-17-mishandelt-officier-van-justitie-in-haarlemse-rechtbank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294819,
-    "slug": "vn-gaat-vredesmissie-in-congo-komende-maanden-afbouwen",
-    "type": "article",
-    "title": "VN gaat vredesmissie in Congo komende maanden afbouwen",
-    "subtitle": null,
-    "published_at": "2023-12-19T21:59:08+01:00",
-    "updated_at": "2023-12-19T22:02:21+01:00",
-    "media_id": "nsnxz9rau55x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6294819/vn-gaat-vredesmissie-in-congo-komende-maanden-afbouwen.html",
     "open_new_window": false,
     "partner": null
   }
