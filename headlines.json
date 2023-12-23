@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295105,
+    "slug": "wat-was-jouw-nieuwsmoment-van-2023",
+    "type": "article",
+    "title": "Wat was jouw nieuwsmoment van 2023?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-12-23T08:30:41+01:00",
+    "updated_at": "2023-12-23T08:30:42+01:00",
+    "media_id": "th0xcu3ax90i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6295105/wat-was-jouw-nieuwsmoment-van-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295371,
     "slug": "twee-personen-vermist-bij-ongeluk-met-thaise-boot-vol-duiktoeristen",
     "type": "article",
     "title": "Twee personen vermist bij ongeluk met Thaise boot vol duiktoeristen",
     "subtitle": null,
     "published_at": "2023-12-23T08:27:34+01:00",
-    "updated_at": "2023-12-23T08:27:44+01:00",
+    "updated_at": "2023-12-23T08:37:00+01:00",
     "media_id": "jcuxvy2a3lzb",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6295366,
-    "slug": "zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien",
+    "slug": "zachte-zaterdag-met-in-het-noorden-flinke-buien-en-code-geel-door-wind",
     "type": "article",
-    "title": "Zachte zaterdag met vooral in het noorden flinke buien",
+    "title": "Zachte zaterdag met in het noorden flinke buien en code geel door wind",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-23T06:08:46+01:00",
-    "updated_at": "2023-12-23T08:07:44+01:00",
+    "updated_at": "2023-12-23T08:39:56+01:00",
     "media_id": "muyxornaydg1",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6295366/zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien.html",
+    "url": "/weerbericht/6295366/zachte-zaterdag-met-in-het-noorden-flinke-buien-en-code-geel-door-wind.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Van Barneveld dankt goede WK-start aan nieuwe pijlen: 'Voorspel mooie dingen'",
     "subtitle": null,
     "published_at": "2023-12-22T23:38:57+01:00",
-    "updated_at": "2023-12-23T08:28:58+01:00",
+    "updated_at": "2023-12-23T08:29:28+01:00",
     "media_id": "k5yx9kganep2",
     "duration": null,
     "canonical_section": {
@@ -415,12 +438,12 @@
   },
   {
     "id": 6295362,
-    "slug": "wham-voor-het-eerst-bovenaan-britse-hitlijst-tijdens-de-kerstdagen",
+    "slug": "wens-george-michael-komt-uit-wham-in-vk-voor-het-eerst-bovenaan-met-kerst",
     "type": "article",
-    "title": "Wham! voor het eerst bovenaan Britse hitlijst tijdens de kerstdagen",
+    "title": "Wens George Michael komt uit: Wham! in VK voor het eerst bovenaan met Kerst",
     "subtitle": null,
     "published_at": "2023-12-22T23:34:40+01:00",
-    "updated_at": "2023-12-23T08:09:34+01:00",
+    "updated_at": "2023-12-23T08:45:05+01:00",
     "media_id": "skzxhcpadza6",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6295362/wham-voor-het-eerst-bovenaan-britse-hitlijst-tijdens-de-kerstdagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295361,
-    "slug": "van-barneveld-boekt-probleemloze-zege-en-staat-in-derde-ronde-wk-darts",
-    "type": "article",
-    "title": "Van Barneveld boekt probleemloze zege en staat in derde ronde WK darts",
-    "subtitle": null,
-    "published_at": "2023-12-22T23:11:49+01:00",
-    "updated_at": "2023-12-22T23:43:24+01:00",
-    "media_id": "xeyxej8aidrr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6295361/van-barneveld-boekt-probleemloze-zege-en-staat-in-derde-ronde-wk-darts.html",
+    "url": "/muziek/6295362/wens-george-michael-komt-uit-wham-in-vk-voor-het-eerst-bovenaan-met-kerst.html",
     "open_new_window": false,
     "partner": null
   }
