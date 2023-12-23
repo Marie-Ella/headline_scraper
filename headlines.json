@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295418,
+    "slug": "waterschap-plaatst-schotten-vanwege-hoge-waterstand",
+    "type": "video",
+    "title": "Waterschap plaatst schotten vanwege hoge waterstand",
+    "subtitle": "Video",
+    "published_at": "2023-12-23T15:27:13+01:00",
+    "updated_at": "2023-12-23T15:27:13+01:00",
+    "media_id": "111x2cka4hs0",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295418/waterschap-plaatst-schotten-vanwege-hoge-waterstand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295416,
     "slug": "londense-politie-zoekt-mee-naar-gestolen-stopbord-van-kunstenaar-banksy",
     "type": "article",
     "title": "Londense politie zoekt mee naar gestolen stopbord van kunstenaar Banksy",
     "subtitle": null,
     "published_at": "2023-12-23T15:12:41+01:00",
-    "updated_at": "2023-12-23T15:13:07+01:00",
+    "updated_at": "2023-12-23T15:19:52+01:00",
     "media_id": "2bix227azzge",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Van Empel troeft landgenoten af bij cross in Antwerpen en pakt elfde zege op rij",
     "subtitle": null,
     "published_at": "2023-12-23T14:55:28+01:00",
-    "updated_at": "2023-12-23T15:13:37+01:00",
+    "updated_at": "2023-12-23T15:22:38+01:00",
     "media_id": "b9hx6b9a2wcc",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "De Staat zet Nijmegen op z’n kop bij Serious Request",
     "subtitle": "Video",
     "published_at": "2023-12-23T13:00:48+01:00",
-    "updated_at": "2023-12-23T15:16:24+01:00",
+    "updated_at": "2023-12-23T15:17:05+01:00",
     "media_id": "tyfxzzwahhmm",
     "duration": "0:43",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6295392/supermarkten-klaar-voor-drukste-dagen-van-het-jaar-iedereen-die-kan-werken-werkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295391,
-    "slug": "woeste-golven-plagen-gestrand-schip-op-noordzee",
-    "type": "video",
-    "title": "Woeste golven plagen gestrand schip op Noordzee",
-    "subtitle": "Video",
-    "published_at": "2023-12-23T11:29:24+01:00",
-    "updated_at": "2023-12-23T12:03:17+01:00",
-    "media_id": "v7cxdima34fb",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295391/woeste-golven-plagen-gestrand-schip-op-noordzee.html",
     "open_new_window": false,
     "partner": null
   }
