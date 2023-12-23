@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295366,
+    "slug": "zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien",
+    "type": "article",
+    "title": "Zachte zaterdag met vooral in het noorden flinke buien",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-12-23T06:08:46+01:00",
+    "updated_at": "2023-12-23T06:08:48+01:00",
+    "media_id": "muyxornaydg1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6295366/zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295365,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6295352/honderden-werknemers-airbus-ziek-na-gezamenlijk-kerstdiner.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295351,
-    "slug": "wattimena-strandt-in-tweede-ronde-wk-darts-ook-van-den-bergh-al-naar-huis",
-    "type": "article",
-    "title": "Wattimena strandt in tweede ronde WK darts, ook Van den Bergh al naar huis",
-    "subtitle": null,
-    "published_at": "2023-12-22T21:34:07+01:00",
-    "updated_at": "2023-12-22T23:55:40+01:00",
-    "media_id": "tb1x4opa9e7m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6295351/wattimena-strandt-in-tweede-ronde-wk-darts-ook-van-den-bergh-al-naar-huis.html",
     "open_new_window": false,
     "partner": null
   }
