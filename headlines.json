@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295503,
+    "slug": "geen-witte-maar-natte-kerst-met-harde-wind",
+    "type": "article",
+    "title": "Geen witte maar natte Kerst met harde wind",
+    "subtitle": "Weekweerbericht",
+    "published_at": "2023-12-24T15:02:16+01:00",
+    "updated_at": "2023-12-24T15:05:09+01:00",
+    "media_id": "4b3xu63at6u0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6295503/geen-witte-maar-natte-kerst-met-harde-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295501,
     "slug": "doodgeschoten-man-in-geleen-was-55-jarige-inwoner-schutter-nog-op-de-vlucht",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Vliegveld Genève kampt met annuleringen en vertragingen door staking",
     "subtitle": null,
     "published_at": "2023-12-24T13:23:53+01:00",
-    "updated_at": "2023-12-24T14:02:46+01:00",
+    "updated_at": "2023-12-24T15:04:44+01:00",
     "media_id": "dvfxb4ma0avz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6295465/dode-nadat-auto-bij-waalwijk-in-sloot-belandt-vluchtende-bestuurder-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295462,
-    "slug": "sri-lanka-arresteert-in-een-week-tijd-bijna-15000-vermeende-drugscriminelen",
-    "type": "article",
-    "title": "Sri Lanka arresteert in een week tijd bijna 15.000 vermeende drugscriminelen",
-    "subtitle": null,
-    "published_at": "2023-12-24T08:10:37+01:00",
-    "updated_at": "2023-12-24T08:35:49+01:00",
-    "media_id": "6y3x30oa5mlk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295462/sri-lanka-arresteert-in-een-week-tijd-bijna-15000-vermeende-drugscriminelen.html",
     "open_new_window": false,
     "partner": null
   }
