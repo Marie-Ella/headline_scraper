@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295501,
+    "slug": "doodgeschoten-man-in-geleen-was-55-jarige-inwoner-schutter-nog-op-de-vlucht",
+    "type": "article",
+    "title": "Doodgeschoten man in Geleen was 55-jarige inwoner, schutter nog op de vlucht",
+    "subtitle": null,
+    "published_at": "2023-12-24T14:22:51+01:00",
+    "updated_at": "2023-12-24T14:22:53+01:00",
+    "media_id": "u9jxmwvaubcc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6295501/doodgeschoten-man-in-geleen-was-55-jarige-inwoner-schutter-nog-op-de-vlucht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295500,
-    "slug": "dansende-slagers-in-rotterdam-stelen-de-show",
+    "slug": "rotterdamse-slagers-dansen-op-kersthit-van-mariah-carey",
     "type": "video",
-    "title": "Dansende slagers in Rotterdam stelen de show",
+    "title": "Rotterdamse slagers dansen op kersthit van Mariah Carey",
     "subtitle": "Video",
     "published_at": "2023-12-24T14:03:56+01:00",
-    "updated_at": "2023-12-24T14:10:51+01:00",
+    "updated_at": "2023-12-24T14:21:22+01:00",
     "media_id": "8dkxctnagyo2",
     "duration": "0:41",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6295500/dansende-slagers-in-rotterdam-stelen-de-show.html",
+    "url": "/videos/6295500/rotterdamse-slagers-dansen-op-kersthit-van-mariah-carey.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295462/sri-lanka-arresteert-in-een-week-tijd-bijna-15000-vermeende-drugscriminelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295459,
-    "slug": "vs-haalt-opnieuw-drones-uit-de-lucht-boven-rode-zee-en-beschuldigt-iran",
-    "type": "article",
-    "title": "VS haalt opnieuw drones uit de lucht boven Rode Zee en beschuldigt Iran",
-    "subtitle": null,
-    "published_at": "2023-12-24T07:09:24+01:00",
-    "updated_at": "2023-12-24T13:44:09+01:00",
-    "media_id": "6smx3v3amnrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295459/vs-haalt-opnieuw-drones-uit-de-lucht-boven-rode-zee-en-beschuldigt-iran.html",
     "open_new_window": false,
     "partner": null
   }
