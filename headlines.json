@@ -1,12 +1,58 @@
 [
   {
-    "id": 6295511,
-    "slug": "wind-blijft-voor-problemen-zorgen-op-schiphol-opnieuw-vluchten-geschrapt",
+    "id": 6295515,
+    "slug": "twentse-gemeente-ondergelopen-door-aanhoudende-regen",
+    "type": "video",
+    "title": "Twentse gemeente ondergelopen door aanhoudende regen",
+    "subtitle": "Video",
+    "published_at": "2023-12-24T16:23:48+01:00",
+    "updated_at": "2023-12-24T16:23:49+01:00",
+    "media_id": "31cx49gadkn0",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295515/twentse-gemeente-ondergelopen-door-aanhoudende-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295514,
+    "slug": "slowaakse-man-opgepakt-die-dreigde-schietpartij-universiteit-praag-na-te-doen",
     "type": "article",
-    "title": "Wind blijft voor problemen zorgen op Schiphol, opnieuw vluchten geschrapt",
+    "title": "Slowaakse man opgepakt die dreigde schietpartij universiteit Praag na te doen",
+    "subtitle": null,
+    "published_at": "2023-12-24T16:23:26+01:00",
+    "updated_at": "2023-12-24T16:23:27+01:00",
+    "media_id": "bq1xwceacvqc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6295514/slowaakse-man-opgepakt-die-dreigde-schietpartij-universiteit-praag-na-te-doen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295511,
+    "slug": "wind-blijft-voor-problemen-zorgen-schiphol-schrapt-opnieuw-vluchten",
+    "type": "article",
+    "title": "Wind blijft voor problemen zorgen: Schiphol schrapt opnieuw vluchten",
     "subtitle": null,
     "published_at": "2023-12-24T16:14:04+01:00",
-    "updated_at": "2023-12-24T16:14:06+01:00",
+    "updated_at": "2023-12-24T16:17:39+01:00",
     "media_id": "kcvxksxajiof",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6295511/wind-blijft-voor-problemen-zorgen-op-schiphol-opnieuw-vluchten-geschrapt.html",
+    "url": "/economie/6295511/wind-blijft-voor-problemen-zorgen-schiphol-schrapt-opnieuw-vluchten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6293719/john-lennon-en-yoko-ono-schreven-protestlied-dat-een-kerstklassieker-werd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295455,
-    "slug": "niets-dan-lof-na-historisch-debuut-arbiter-rebecca-welch-ze-verdiende-dit",
-    "type": "article",
-    "title": "Niets dan lof na historisch debuut arbiter Rebecca Welch: 'Ze verdiende dit'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-24T11:59:59+01:00",
-    "updated_at": "2023-12-24T14:04:26+01:00",
-    "media_id": "b24x8s5avmkr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6295455/niets-dan-lof-na-historisch-debuut-arbiter-rebecca-welch-ze-verdiende-dit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295490,
-    "slug": "dertien-doden-en-tientallen-gewonden-bij-brand-in-nikkelfabriek-indonesie",
-    "type": "article",
-    "title": "Dertien doden en tientallen gewonden bij brand in nikkelfabriek Indonesië",
-    "subtitle": null,
-    "published_at": "2023-12-24T11:58:08+01:00",
-    "updated_at": "2023-12-24T12:15:05+01:00",
-    "media_id": "j75xz6oadyyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295490/dertien-doden-en-tientallen-gewonden-bij-brand-in-nikkelfabriek-indonesie.html",
     "open_new_window": false,
     "partner": null
   }
