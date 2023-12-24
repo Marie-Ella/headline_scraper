@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295500,
+    "slug": "dansende-slagers-in-rotterdam-stelen-de-show",
+    "type": "video",
+    "title": "Dansende slagers in Rotterdam stelen de show",
+    "subtitle": "Video",
+    "published_at": "2023-12-24T14:03:56+01:00",
+    "updated_at": "2023-12-24T14:10:51+01:00",
+    "media_id": "8dkxctnagyo2",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295500/dansende-slagers-in-rotterdam-stelen-de-show.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295499,
     "slug": "vliegveld-geneve-kampt-met-annuleringen-en-vertragingen-door-staking",
     "type": "article",
     "title": "Vliegveld Genève kampt met annuleringen en vertragingen door staking",
     "subtitle": null,
     "published_at": "2023-12-24T13:23:53+01:00",
-    "updated_at": "2023-12-24T13:23:54+01:00",
+    "updated_at": "2023-12-24T14:02:46+01:00",
     "media_id": "dvfxb4ma0avz",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Zware beveiliging bij Keulse Dom en kathedraal Wenen om terreurdreiging",
     "subtitle": null,
     "published_at": "2023-12-24T13:07:38+01:00",
-    "updated_at": "2023-12-24T13:49:38+01:00",
+    "updated_at": "2023-12-24T14:00:20+01:00",
     "media_id": "lb2x2m5a6oi0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Vakbond FNV blaast actie bij Amac-winkels af na intimidatie van werknemers",
     "subtitle": null,
     "published_at": "2023-12-24T12:34:44+01:00",
-    "updated_at": "2023-12-24T13:43:03+01:00",
+    "updated_at": "2023-12-24T13:55:25+01:00",
     "media_id": "efexfwzabgm1",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Woest Genk dient klacht in en wil duel met Anderlecht overspelen na fout arbiter",
     "subtitle": null,
     "published_at": "2023-12-24T12:09:01+01:00",
-    "updated_at": "2023-12-24T13:10:50+01:00",
+    "updated_at": "2023-12-24T13:58:23+01:00",
     "media_id": "h2vxko1a2w69",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Niets dan lof na historisch debuut arbiter Rebecca Welch: 'Ze verdiende dit'",
     "subtitle": "NU+",
     "published_at": "2023-12-24T11:59:59+01:00",
-    "updated_at": "2023-12-24T12:00:00+01:00",
+    "updated_at": "2023-12-24T14:04:26+01:00",
     "media_id": "b24x8s5avmkr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295459/vs-haalt-opnieuw-drones-uit-de-lucht-boven-rode-zee-en-beschuldigt-iran.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295299,
-    "slug": "zo-ontlopen-schepen-de-houthi-rebellen-bij-jemen",
-    "type": "video",
-    "title": "Zo ontlopen schepen de Houthi-rebellen bij Jemen",
-    "subtitle": "Explainer",
-    "published_at": "2023-12-24T07:08:13+01:00",
-    "updated_at": "2023-12-24T08:02:35+01:00",
-    "media_id": "x57x8xgavwwo",
-    "duration": "1:51",
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6295299/zo-ontlopen-schepen-de-houthi-rebellen-bij-jemen.html",
     "open_new_window": false,
     "partner": null
   }
