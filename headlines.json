@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295524,
+    "slug": "new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro",
+    "type": "video",
+    "title": "New Yorkers terug in de tijd met ritje in historische metro",
+    "subtitle": "Video",
+    "published_at": "2023-12-24T19:38:29+01:00",
+    "updated_at": "2023-12-24T19:38:30+01:00",
+    "media_id": "d69xc1ca4dm4",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295524/new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295523,
     "slug": "vlaamse-variant-van-serious-request-levert-kleine-88-miljoen-euro-op",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport/6295489/volop-sport-rond-kerst-en-oud-en-nieuw-deze-wedstrijden-staan-op-het-menu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295494,
-    "slug": "vakbond-fnv-blaast-actie-bij-amac-winkels-af-na-intimidatie-van-werknemers",
-    "type": "article",
-    "title": "Vakbond FNV blaast actie bij Amac-winkels af na intimidatie van werknemers",
-    "subtitle": null,
-    "published_at": "2023-12-24T12:34:44+01:00",
-    "updated_at": "2023-12-24T16:14:21+01:00",
-    "media_id": "efexfwzabgm1",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6295494/vakbond-fnv-blaast-actie-bij-amac-winkels-af-na-intimidatie-van-werknemers.html",
     "open_new_window": false,
     "partner": null
   }
