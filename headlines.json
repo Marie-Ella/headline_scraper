@@ -1,5 +1,51 @@
 [
   {
+    "id": 6295537,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-25T05:43:36+01:00",
+    "updated_at": "2023-12-25T05:43:37+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295537/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295536,
+    "slug": "het-weer-biedt-een-goede-reden-om-lang-te-tafelen-met-kerst",
+    "type": "article",
+    "title": "Het weer biedt een goede reden om lang te tafelen met Kerst",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-12-25T05:42:31+01:00",
+    "updated_at": "2023-12-25T05:42:32+01:00",
+    "media_id": "se7xp44am6kq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6295536/het-weer-biedt-een-goede-reden-om-lang-te-tafelen-met-kerst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295255,
     "slug": "veel-meer-dan-titels-hele-seizoen-staat-op-het-spel-bij-nk-afstanden-in-thialf",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Kerst blijft ook aan tafel traditioneel: gourmetstel, kalkoen en rollade",
     "subtitle": null,
     "published_at": "2023-12-25T05:03:26+01:00",
-    "updated_at": "2023-12-25T05:03:27+01:00",
+    "updated_at": "2023-12-25T05:47:12+01:00",
     "media_id": "824xgvba1wzs",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Ratcliffe krijgt voor 1,5 miljard kwart van aandelen Manchester United in handen",
     "subtitle": null,
     "published_at": "2023-12-24T17:15:16+01:00",
-    "updated_at": "2023-12-24T18:22:51+01:00",
+    "updated_at": "2023-12-25T05:43:05+01:00",
     "media_id": "qj1xli4a351n",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6295383/goed-nieuws-deze-week-actie-tegen-eenzame-kerst-en-goedkopere-producten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295515,
-    "slug": "twentse-gemeente-ondergelopen-door-aanhoudende-regen",
-    "type": "video",
-    "title": "Twentse gemeente ondergelopen door aanhoudende regen",
-    "subtitle": "Video",
-    "published_at": "2023-12-24T16:23:48+01:00",
-    "updated_at": "2023-12-24T17:26:33+01:00",
-    "media_id": "hudxowuaan02",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295515/twentse-gemeente-ondergelopen-door-aanhoudende-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295514,
-    "slug": "slowaak-opgepakt-omdat-hij-dreigt-schietpartij-op-praagse-universiteit-na-te-doen",
-    "type": "article",
-    "title": "Slowaak opgepakt omdat hij dreigt schietpartij op Praagse universiteit na te doen",
-    "subtitle": null,
-    "published_at": "2023-12-24T16:23:26+01:00",
-    "updated_at": "2023-12-24T17:54:24+01:00",
-    "media_id": "bq1xwceacvqc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295514/slowaak-opgepakt-omdat-hij-dreigt-schietpartij-op-praagse-universiteit-na-te-doen.html",
     "open_new_window": false,
     "partner": null
   }
