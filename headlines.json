@@ -1,12 +1,58 @@
 [
   {
+    "id": 6295557,
+    "slug": "vlammen-slaan-uit-indiaas-ziekenhuis-door-grote-brand",
+    "type": "video",
+    "title": "Vlammen slaan uit Indiaas ziekenhuis door grote brand",
+    "subtitle": "Video",
+    "published_at": "2023-12-25T12:12:07+01:00",
+    "updated_at": "2023-12-25T12:12:08+01:00",
+    "media_id": "hnqxxycaa6vq",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295557/vlammen-slaan-uit-indiaas-ziekenhuis-door-grote-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295551,
+    "slug": "docu-over-herstel-miedema-en-partner-hopelijk-minder-angst-voor-deze-blessure",
+    "type": "article",
+    "title": "Docu over herstel Miedema en partner: 'Hopelijk minder angst voor deze blessure'",
+    "subtitle": null,
+    "published_at": "2023-12-25T12:07:01+01:00",
+    "updated_at": "2023-12-25T12:07:03+01:00",
+    "media_id": "09yxe3aa4rac",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6295551/docu-over-herstel-miedema-en-partner-hopelijk-minder-angst-voor-deze-blessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295553,
     "slug": "hoog-water-in-nederland-sloot-staat-tot-de-rand-toe-helemaal-vol",
     "type": "article",
-    "title": "Hoog water in Nederland: \"Sloot staat tot de rand toe helemaal vol\"",
+    "title": "Hoog water in Nederland: 'Sloot staat tot de rand toe helemaal vol'",
     "subtitle": null,
     "published_at": "2023-12-25T11:27:35+01:00",
-    "updated_at": "2023-12-25T11:29:49+01:00",
+    "updated_at": "2023-12-25T12:11:05+01:00",
     "media_id": "crzx7kwa8ox0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gebaseerd-op-jullie-vragen/6295411/deze-mensen-zijn-alleen-met-kerst-en-vinden-dat-juist-fijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294800,
-    "slug": "mentaal-trucje-bij-cruciale-save-bracht-waterpoloster-aarts-naar-de-koning",
-    "type": "article",
-    "title": "'Mentaal trucje' bij cruciale save bracht waterpoloster Aarts naar de koning",
-    "subtitle": "NU+",
-    "published_at": "2023-12-25T05:05:33+01:00",
-    "updated_at": "2023-12-25T09:55:59+01:00",
-    "media_id": "elbxpieakfnx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294800/mentaal-trucje-bij-cruciale-save-bracht-waterpoloster-aarts-naar-de-koning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295109,
-    "slug": "kerst-blijft-ook-aan-tafel-traditioneel-gourmetstel-kalkoen-en-rollade",
-    "type": "article",
-    "title": "Kerst blijft ook aan tafel traditioneel: gourmetstel, kalkoen en rollade",
-    "subtitle": null,
-    "published_at": "2023-12-25T05:03:26+01:00",
-    "updated_at": "2023-12-25T11:16:01+01:00",
-    "media_id": "824xgvba1wzs",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6295109/kerst-blijft-ook-aan-tafel-traditioneel-gourmetstel-kalkoen-en-rollade.html",
     "open_new_window": false,
     "partner": null
   }
