@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295546,
+    "slug": "zelensky-in-eerste-kerstspeech-op-24-december-duisternis-verliest",
+    "type": "video",
+    "title": "Zelensky in eerste kerstspeech op 24 december: ‘Duisternis verliest’",
+    "subtitle": "Video",
+    "published_at": "2023-12-25T10:19:52+01:00",
+    "updated_at": "2023-12-25T10:19:53+01:00",
+    "media_id": "il7xdsgauun0",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295546/zelensky-in-eerste-kerstspeech-op-24-december-duisternis-verliest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295544,
     "slug": "israel-meldt-vijf-dode-gijzelaars-gevonden-te-hebben-in-tunnels-onder-gaza",
     "type": "article",
     "title": "Israël meldt vijf dode gijzelaars gevonden te hebben in tunnels onder Gaza",
     "subtitle": null,
     "published_at": "2023-12-25T09:41:04+01:00",
-    "updated_at": "2023-12-25T09:42:30+01:00",
+    "updated_at": "2023-12-25T10:25:29+01:00",
     "media_id": "0qexygdaghzr",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Oekraïne viert Kerstmis voor het eerst op 25 december in protest tegen Rusland",
     "subtitle": null,
     "published_at": "2023-12-25T07:10:52+01:00",
-    "updated_at": "2023-12-25T09:21:17+01:00",
+    "updated_at": "2023-12-25T10:20:08+01:00",
     "media_id": "29uxba0aizlz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295451/its-beginning-to-look-a-lot-like-christmas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295524,
-    "slug": "new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro",
-    "type": "video",
-    "title": "New Yorkers terug in de tijd met ritje in historische metro",
-    "subtitle": "Video",
-    "published_at": "2023-12-24T19:38:29+01:00",
-    "updated_at": "2023-12-24T20:11:23+01:00",
-    "media_id": "d69xc1ca4dm4",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295524/new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro.html",
     "open_new_window": false,
     "partner": null
   }
