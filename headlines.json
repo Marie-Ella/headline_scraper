@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295741,
+    "slug": "diergaarde-blijdorp-bevrijdt-schildpad-van-mossels-op-rug",
+    "type": "video",
+    "title": "Diergaarde Blijdorp bevrijdt schildpad van mossels op rug",
+    "subtitle": "Video",
+    "published_at": "2023-12-27T12:16:00+01:00",
+    "updated_at": "2023-12-27T12:16:01+01:00",
+    "media_id": "llhxjpia6x4t",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6295741/diergaarde-blijdorp-bevrijdt-schildpad-van-mossels-op-rug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295738,
     "slug": "een-van-de-zeeschildpadden-die-recent-aanspoelden-in-zeeland-is-overleden",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6295724,
-    "slug": "hoogwater-nadert-kritieke-grens-bij-deventer-piek-over-twee-dagen-verwacht",
+    "slug": "hoogwater-bij-deventer-nadert-kritieke-grens-piek-over-twee-dagen-verwacht",
     "type": "article",
-    "title": "Hoogwater nadert kritieke grens bij Deventer, piek over twee dagen verwacht",
+    "title": "Hoogwater bij Deventer nadert kritieke grens, piek over twee dagen verwacht",
     "subtitle": null,
     "published_at": "2023-12-27T11:02:02+01:00",
-    "updated_at": "2023-12-27T12:10:29+01:00",
+    "updated_at": "2023-12-27T12:15:58+01:00",
     "media_id": "snqxsivakba6",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6295724/hoogwater-nadert-kritieke-grens-bij-deventer-piek-over-twee-dagen-verwacht.html",
+    "url": "/binnenland/6295724/hoogwater-bij-deventer-nadert-kritieke-grens-piek-over-twee-dagen-verwacht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6295695/zuid-koreaanse-parasite-acteur-lee-sun-kyun-dood-aangetroffen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295694,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-27T05:53:15+01:00",
-    "updated_at": "2023-12-27T05:53:16+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6295694/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
