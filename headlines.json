@@ -1,5 +1,51 @@
 [
   {
+    "id": 6295694,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-27T05:53:15+01:00",
+    "updated_at": "2023-12-27T05:53:16+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295694/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295693,
+    "slug": "ben-je-vrij-slaap-dan-vooral-uit-als-je-de-regen-wil-vermijden",
+    "type": "article",
+    "title": "Ben je vrij? Slaap dan vooral uit als je de regen wil vermijden",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-12-27T05:52:34+01:00",
+    "updated_at": "2023-12-27T06:09:47+01:00",
+    "media_id": "85wx339a97hl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6295693/ben-je-vrij-slaap-dan-vooral-uit-als-je-de-regen-wil-vermijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295224,
     "slug": "moet-je-een-laptop-laten-slapen-sluimeren-of-helemaal-uitzetten",
     "type": "article",
@@ -213,7 +259,7 @@
     "title": "Berlijners nemen traditionele duik in ijskoud water",
     "subtitle": "Video",
     "published_at": "2023-12-26T22:18:03+01:00",
-    "updated_at": "2023-12-26T22:18:05+01:00",
+    "updated_at": "2023-12-27T06:12:12+01:00",
     "media_id": "6maxhjxaa3in",
     "duration": "0:48",
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Turkse politie pronkt met 23 auto's, waaronder Ferrari en Porsche",
     "subtitle": "Video",
     "published_at": "2023-12-26T19:28:44+01:00",
-    "updated_at": "2023-12-26T22:16:02+01:00",
+    "updated_at": "2023-12-27T06:14:13+01:00",
     "media_id": "0lqxgp6aoqbh",
     "duration": "0:47",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6295672/bijzonder-kerstcadeau-voor-gerrit-hiemstra-storm-gerrit-is-ontstaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295673,
-    "slug": "oranjevrouwen-reizen-in-februari-naar-cadiz-voor-strijd-om-olympisch-ticket",
-    "type": "article",
-    "title": "Oranjevrouwen reizen in februari naar Cádiz voor strijd om olympisch ticket",
-    "subtitle": null,
-    "published_at": "2023-12-26T17:54:28+01:00",
-    "updated_at": "2023-12-26T18:14:51+01:00",
-    "media_id": "nzwxqb1asy30",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295673/oranjevrouwen-reizen-in-februari-naar-cadiz-voor-strijd-om-olympisch-ticket.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295671,
-    "slug": "van-bommel-keihard-na-afstraffing-antwerp-slechtste-wedstrijd-sinds-ik-hier-ben",
-    "type": "article",
-    "title": "Van Bommel keihard na afstraffing Antwerp: 'Slechtste wedstrijd sinds ik hier ben'",
-    "subtitle": null,
-    "published_at": "2023-12-26T17:35:34+01:00",
-    "updated_at": "2023-12-26T23:25:14+01:00",
-    "media_id": "238xdq3avsrn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295671/van-bommel-keihard-na-afstraffing-antwerp-slechtste-wedstrijd-sinds-ik-hier-ben.html",
     "open_new_window": false,
     "partner": null
   }
