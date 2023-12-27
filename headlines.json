@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295738,
+    "slug": "een-van-de-zeeschildpadden-die-recent-aanspoelden-in-zeeland-is-overleden",
+    "type": "article",
+    "title": "Een van de zeeschildpadden die recent aanspoelden in Zeeland is overleden",
+    "subtitle": null,
+    "published_at": "2023-12-27T11:55:31+01:00",
+    "updated_at": "2023-12-27T11:55:32+01:00",
+    "media_id": "ke1x6jgahzge",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6295738/een-van-de-zeeschildpadden-die-recent-aanspoelden-in-zeeland-is-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295736,
     "slug": "europese-gasprijs-stijgt-door-dreiging-van-breder-conflict-in-midden-oosten",
     "type": "article",
     "title": "Europese gasprijs stijgt door dreiging van breder conflict in Midden-Oosten",
     "subtitle": null,
     "published_at": "2023-12-27T11:37:05+01:00",
-    "updated_at": "2023-12-27T11:47:35+01:00",
+    "updated_at": "2023-12-27T12:12:49+01:00",
     "media_id": "m6tx3weaebm1",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Hoogwater nadert kritieke grens bij Deventer, piek over twee dagen verwacht",
     "subtitle": null,
     "published_at": "2023-12-27T11:02:02+01:00",
-    "updated_at": "2023-12-27T11:35:07+01:00",
+    "updated_at": "2023-12-27T12:10:29+01:00",
     "media_id": "snqxsivakba6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6295694/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295693,
-    "slug": "ben-je-vrij-slaap-dan-vooral-uit-als-je-de-regen-wil-vermijden",
-    "type": "article",
-    "title": "Ben je vrij? Slaap dan vooral uit als je de regen wil vermijden",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-12-27T05:52:34+01:00",
-    "updated_at": "2023-12-27T06:09:47+01:00",
-    "media_id": "85wx339a97hl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6295693/ben-je-vrij-slaap-dan-vooral-uit-als-je-de-regen-wil-vermijden.html",
     "open_new_window": false,
     "partner": null
   }
