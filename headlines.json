@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295703,
+    "slug": "hulpdiensten-redden-amerikaan-die-6-dagen-vastzat-in-autowrak",
+    "type": "video",
+    "title": "Hulpdiensten redden Amerikaan die 6 dagen vastzat in autowrak",
+    "subtitle": "Video",
+    "published_at": "2023-12-27T08:21:08+01:00",
+    "updated_at": "2023-12-27T08:21:09+01:00",
+    "media_id": "g68xjtfa6qat",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295703/hulpdiensten-redden-amerikaan-die-6-dagen-vastzat-in-autowrak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295701,
     "slug": "detroit-pistons-vestigt-negatief-nba-record-met-27-nederlagen-op-rij",
     "type": "article",
     "title": "Detroit Pistons vestigt negatief NBA-record met 27 nederlagen op rij",
     "subtitle": null,
     "published_at": "2023-12-27T07:52:56+01:00",
-    "updated_at": "2023-12-27T08:09:58+01:00",
+    "updated_at": "2023-12-27T08:22:03+01:00",
     "media_id": "8xhxmmzaukzi",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Nederlandse jongen (14) omgekomen tijdens wintersportvakantie in Oostenrijk",
     "subtitle": null,
     "published_at": "2023-12-27T07:41:31+01:00",
-    "updated_at": "2023-12-27T07:41:32+01:00",
+    "updated_at": "2023-12-27T08:18:34+01:00",
     "media_id": "t73xnevaapwk",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Kerstconcert van The Streamers levert 1,3 miljoen euro op voor War Child",
     "subtitle": null,
     "published_at": "2023-12-27T06:57:29+01:00",
-    "updated_at": "2023-12-27T06:58:42+01:00",
+    "updated_at": "2023-12-27T08:25:46+01:00",
     "media_id": "dvjxlkqa38g0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6295685/scooter-belandt-in-sloot-na-politieachtervolging-in-pijnacker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295684,
-    "slug": "negen-gewonden-bij-frontale-aanrijding-in-roermond",
-    "type": "article",
-    "title": "Negen gewonden bij frontale aanrijding in Roermond",
-    "subtitle": null,
-    "published_at": "2023-12-26T20:39:49+01:00",
-    "updated_at": "2023-12-27T07:22:06+01:00",
-    "media_id": "levxsqral11l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6295684/negen-gewonden-bij-frontale-aanrijding-in-roermond.html",
     "open_new_window": false,
     "partner": null
   }
