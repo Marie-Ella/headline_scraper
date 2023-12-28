@@ -1,12 +1,58 @@
 [
   {
+    "id": 6295922,
+    "slug": "eenzame-stier-op-eilandje-in-limburg-krijgt-te-eten",
+    "type": "video",
+    "title": "'Eenzame stier' op eilandje in Limburg krijgt te eten",
+    "subtitle": "Video",
+    "published_at": "2023-12-28T18:42:22+01:00",
+    "updated_at": "2023-12-28T18:42:23+01:00",
+    "media_id": "id9xk15aauuv",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295922/eenzame-stier-op-eilandje-in-limburg-krijgt-te-eten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295900,
+    "slug": "dankzij-deze-pijlen-gelooft-van-barneveld-weer-in-de-wereldtitel",
+    "type": "article",
+    "title": "Dankzij deze pijlen gelooft Van Barneveld weer in de wereldtitel",
+    "subtitle": "NU+",
+    "published_at": "2023-12-28T18:39:27+01:00",
+    "updated_at": "2023-12-28T18:41:58+01:00",
+    "media_id": "djix99aaraa6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6295900/dankzij-deze-pijlen-gelooft-van-barneveld-weer-in-de-wereldtitel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295916,
     "slug": "israel-geeft-cyprus-voorlopige-toestemming-voor-hulp-aan-gaza-over-zee",
     "type": "article",
     "title": "Israël geeft Cyprus voorlopige toestemming voor hulp aan Gaza over zee",
     "subtitle": null,
     "published_at": "2023-12-28T18:06:21+01:00",
-    "updated_at": "2023-12-28T18:20:40+01:00",
+    "updated_at": "2023-12-28T18:36:22+01:00",
     "media_id": "ho2x35japfbp",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Loop jij al te niezen? Nieuw hooikoortsseizoen is alweer begonnen",
     "subtitle": null,
     "published_at": "2023-12-28T16:53:45+01:00",
-    "updated_at": "2023-12-28T17:29:55+01:00",
+    "updated_at": "2023-12-28T18:32:36+01:00",
     "media_id": "jppx98rayar7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6295882/mensen-en-dier-wonen-door-de-hoge-waterstand-ineens-op-een-eiland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295885,
-    "slug": "van-gerwen-treft-ontketende-bunting-in-achtste-finales-wk-darts",
-    "type": "article",
-    "title": "Van Gerwen treft ontketende Bunting in achtste finales WK darts",
-    "subtitle": null,
-    "published_at": "2023-12-28T14:38:24+01:00",
-    "updated_at": "2023-12-28T17:17:52+01:00",
-    "media_id": "zlcxr59a2cee",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6295885/van-gerwen-treft-ontketende-bunting-in-achtste-finales-wk-darts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295884,
-    "slug": "suzanne-schulting-stelt-rentree-uit-en-mist-ek-shorttrack-in-januari",
-    "type": "article",
-    "title": "Suzanne Schulting stelt rentree uit en mist EK shorttrack in januari",
-    "subtitle": null,
-    "published_at": "2023-12-28T14:34:44+01:00",
-    "updated_at": "2023-12-28T18:15:53+01:00",
-    "media_id": "aqhxr41alj6v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6295884/suzanne-schulting-stelt-rentree-uit-en-mist-ek-shorttrack-in-januari.html",
     "open_new_window": false,
     "partner": null
   }
