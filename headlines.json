@@ -1,12 +1,35 @@
 [
   {
-    "id": 6295818,
-    "slug": "schrik-niet-van-de-wolken-ze-houden-zich-het-grootste-deel-van-de-dag-koest",
+    "id": 6295819,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Schrik niet van de wolken: ze houden zich het grootste deel van de dag koest",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-28T05:34:25+01:00",
+    "updated_at": "2023-12-28T05:34:27+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295819/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295818,
+    "slug": "schrik-niet-van-de-wolken-ze-houden-zich-meestal-koest",
+    "type": "article",
+    "title": "Schrik niet van de wolken: ze houden zich meestal koest",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-28T05:32:40+01:00",
-    "updated_at": "2023-12-28T05:32:41+01:00",
+    "updated_at": "2023-12-28T05:45:06+01:00",
     "media_id": "njxx625atiaq",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6295818/schrik-niet-van-de-wolken-ze-houden-zich-het-grootste-deel-van-de-dag-koest.html",
+    "url": "/weerbericht/6295818/schrik-niet-van-de-wolken-ze-houden-zich-meestal-koest.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6295801/amerikaan-schaatst-over-bevroren-wegdek-in-woonwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295790,
-    "slug": "darter-de-graaf-trots-op-zweedse-wk-primeur-heb-er-een-hoop-vrienden-bij",
-    "type": "article",
-    "title": "Darter De Graaf trots op Zweedse WK-primeur: 'Heb er een hoop vrienden bij'",
-    "subtitle": null,
-    "published_at": "2023-12-27T19:06:49+01:00",
-    "updated_at": "2023-12-27T19:27:01+01:00",
-    "media_id": "inwxw2faeyfn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6295790/darter-de-graaf-trots-op-zweedse-wk-primeur-heb-er-een-hoop-vrienden-bij.html",
     "open_new_window": false,
     "partner": null
   }
