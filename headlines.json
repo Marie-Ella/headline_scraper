@@ -1,12 +1,58 @@
 [
   {
+    "id": 6296124,
+    "slug": "vreugdevuren-den-haag-en-scheveningen-dag-vervroegd-wegens-harde-wind",
+    "type": "article",
+    "title": "Vreugdevuren Den Haag en Scheveningen dag vervroegd wegens harde wind",
+    "subtitle": null,
+    "published_at": "2023-12-30T12:08:40+01:00",
+    "updated_at": "2023-12-30T12:14:19+01:00",
+    "media_id": "1spx89gaqs6t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296124/vreugdevuren-den-haag-en-scheveningen-dag-vervroegd-wegens-harde-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295328,
+    "slug": "meer-gelijkheid-duurzame-stroom-en-hoger-loon-het-goede-nieuws-van-2023",
+    "type": "article",
+    "title": "Meer gelijkheid, duurzame stroom en hoger loon: het goede nieuws van 2023",
+    "subtitle": null,
+    "published_at": "2023-12-30T12:00:23+01:00",
+    "updated_at": "2023-12-30T12:00:24+01:00",
+    "media_id": "fk5x9p3ai631",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6295328/meer-gelijkheid-duurzame-stroom-en-hoger-loon-het-goede-nieuws-van-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296115,
     "slug": "chinese-overheid-bemoeit-zich-al-jarenlang-met-weekendscholen-in-nederland",
     "type": "article",
     "title": "Chinese overheid bemoeit zich al jarenlang met weekendscholen in Nederland",
     "subtitle": null,
     "published_at": "2023-12-30T11:27:58+01:00",
-    "updated_at": "2023-12-30T11:27:59+01:00",
+    "updated_at": "2023-12-30T11:54:19+01:00",
     "media_id": "801xwlqaa9vj",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Amerikaanse jongen (14) opgepakt voor moord op zijn ouders",
     "subtitle": null,
     "published_at": "2023-12-30T08:40:37+01:00",
-    "updated_at": "2023-12-30T09:05:01+01:00",
+    "updated_at": "2023-12-30T11:59:02+01:00",
     "media_id": "va3xr9pa97m5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6296088/amerikaanse-jongen-14-opgepakt-voor-moord-op-zijn-ouders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296087,
-    "slug": "tientallen-mensen-geevacueerd-vanwege-grote-brand-in-driebergen",
-    "type": "article",
-    "title": "Tientallen mensen geëvacueerd vanwege grote brand in Driebergen",
-    "subtitle": null,
-    "published_at": "2023-12-30T08:34:35+01:00",
-    "updated_at": "2023-12-30T10:37:22+01:00",
-    "media_id": "6olxwdbagcu9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296087/tientallen-mensen-geevacueerd-vanwege-grote-brand-in-driebergen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296084,
-    "slug": "veel-schade-na-plofkraak-pinautomaat-in-amstelveen",
-    "type": "video",
-    "title": "Veel schade na plofkraak pinautomaat in Amstelveen",
-    "subtitle": "Video",
-    "published_at": "2023-12-30T08:02:58+01:00",
-    "updated_at": "2023-12-30T08:02:59+01:00",
-    "media_id": "bwgx6dtawino",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296084/veel-schade-na-plofkraak-pinautomaat-in-amstelveen.html",
     "open_new_window": false,
     "partner": null
   }
