@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296263,
+    "slug": "auto-rijdt-na-botsing-tegen-ministerie-in-den-haag-aan",
+    "type": "video",
+    "title": "Auto rijdt na botsing tegen ministerie in Den Haag aan",
+    "subtitle": "Video",
+    "published_at": "2023-12-31T22:26:49+01:00",
+    "updated_at": "2023-12-31T22:26:50+01:00",
+    "media_id": "tylxtiha7fz3",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6296263/auto-rijdt-na-botsing-tegen-ministerie-in-den-haag-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296261,
     "slug": "zeer-giftige-slang-verstoort-tenniswedstrijd-in-australie",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296234/wateroverlast-in-volendam-als-er-al-iets-onderloopt-dan-zijn-het-kelders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296231,
-    "slug": "weekweerbericht-jaarwisseling-verloopt-wisselvallig-en-met-veel-wind",
-    "type": "article",
-    "title": "Weekweerbericht: Jaarwisseling verloopt wisselvallig en met veel wind",
-    "subtitle": null,
-    "published_at": "2023-12-31T15:43:30+01:00",
-    "updated_at": "2023-12-31T16:00:03+01:00",
-    "media_id": "krixclcag1ji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6296231/weekweerbericht-jaarwisseling-verloopt-wisselvallig-en-met-veel-wind.html",
     "open_new_window": false,
     "partner": null
   }
