@@ -1,13 +1,36 @@
 [
   {
+    "id": 6296272,
+    "slug": "rusland-en-oekraine-beschuldigen-elkaar-van-aanvallen-tijdens-nieuwjaarsnacht",
+    "type": "article",
+    "title": "Rusland en Oekraïne beschuldigen elkaar van aanvallen tijdens nieuwjaarsnacht",
+    "subtitle": null,
+    "published_at": "2024-01-01T00:39:33+01:00",
+    "updated_at": "2024-01-01T00:39:34+01:00",
+    "media_id": "glmxhgoau9q2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6296272/rusland-en-oekraine-beschuldigen-elkaar-van-aanvallen-tijdens-nieuwjaarsnacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296270,
     "slug": "man-overleden-door-vuurwerkincident-in-haarlem",
     "type": "article",
     "title": "Man overleden door vuurwerkincident in Haarlem",
     "subtitle": null,
     "published_at": "2024-01-01T00:25:10+01:00",
-    "updated_at": "2024-01-01T00:26:49+01:00",
-    "media_id": "bn9xpy4ar89x",
+    "updated_at": "2024-01-01T00:47:06+01:00",
+    "media_id": "4w3xigea869c",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -52,7 +75,7 @@
     "title": "Nederland luidt met knallende vuurwerkshows 2024 in",
     "subtitle": null,
     "published_at": "2024-01-01T00:00:11+01:00",
-    "updated_at": "2024-01-01T00:05:03+01:00",
+    "updated_at": "2024-01-01T00:29:52+01:00",
     "media_id": "rr5xufsav2ut",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Zo vieren andere landen de start van 2024",
     "subtitle": "In beeld",
     "published_at": "2023-12-31T20:16:15+01:00",
-    "updated_at": "2023-12-31T23:35:22+01:00",
+    "updated_at": "2024-01-01T00:45:46+01:00",
     "media_id": "0snxsozapzvh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6296242/120-journalisten-gedood-tijdens-hun-werk-dit-jaar-vooral-in-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296241,
-    "slug": "poetin-spreekt-niet-direct-over-oorlog-in-oekraine-in-nieuwjaarstoespraak",
-    "type": "article",
-    "title": "Poetin spreekt niet direct over oorlog in Oekraïne in nieuwjaarstoespraak",
-    "subtitle": null,
-    "published_at": "2023-12-31T17:42:29+01:00",
-    "updated_at": "2023-12-31T17:55:52+01:00",
-    "media_id": "hr7xtb7agagq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296241/poetin-spreekt-niet-direct-over-oorlog-in-oekraine-in-nieuwjaarstoespraak.html",
     "open_new_window": false,
     "partner": null
   }
