@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296237,
+    "slug": "australie-en-nieuw-zeeland-luiden-nieuwjaar-in-met-grote-shows",
+    "type": "video",
+    "title": "Australië en Nieuw-Zeeland luiden Nieuwjaar in met grote shows",
+    "subtitle": "Video",
+    "published_at": "2023-12-31T16:43:46+01:00",
+    "updated_at": "2023-12-31T16:43:48+01:00",
+    "media_id": "b96x0o2aea2k",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296237/australie-en-nieuw-zeeland-luiden-nieuwjaar-in-met-grote-shows.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296236,
-    "slug": "tennisser-murray-stopt-mogelijk-in-2024-zullen-zien-hoe-het-lichaam-het-houdt",
+    "slug": "murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt",
     "type": "article",
-    "title": "Tennisser Murray stopt mogelijk in 2024: 'Zullen zien hoe het lichaam het houdt'",
+    "title": "Murray stopt in 2024 mogelijk met tennissen: 'Zullen zien hoe lichaam het houdt'",
     "subtitle": null,
     "published_at": "2023-12-31T16:29:33+01:00",
-    "updated_at": "2023-12-31T16:29:34+01:00",
+    "updated_at": "2023-12-31T16:43:37+01:00",
     "media_id": "7bgxromab3g4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6296236/tennisser-murray-stopt-mogelijk-in-2024-zullen-zien-hoe-het-lichaam-het-houdt.html",
+    "url": "/tennis/6296236/murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,13 +231,13 @@
   },
   {
     "id": 6296223,
-    "slug": "politie-adviseert-alleen-112-te-bellen-bij-levensbedreigende-situaties",
+    "slug": "vroege-vuurwerkshows-in-tilburg-en-hilversum-afgelast-vanwege-slecht-weer",
     "type": "article",
-    "title": "Politie adviseert alleen 112 te bellen bij levensbedreigende situaties",
+    "title": "Vroege vuurwerkshows in Tilburg en Hilversum afgelast vanwege slecht weer",
     "subtitle": "Liveblog",
     "published_at": "2023-12-31T13:49:58+01:00",
-    "updated_at": "2023-12-31T15:25:39+01:00",
-    "media_id": "74vxtltav01x",
+    "updated_at": "2023-12-31T16:36:12+01:00",
+    "media_id": "jo4x3xyavsfv",
     "duration": null,
     "canonical_section": {
       "id": 1772236,
@@ -225,7 +248,7 @@
       "media_id": "m1oxc1gaswou",
       "partner": null
     },
-    "url": "/jaarwisseling/6296223/politie-adviseert-alleen-112-te-bellen-bij-levensbedreigende-situaties.html",
+    "url": "/jaarwisseling/6296223/vroege-vuurwerkshows-in-tilburg-en-hilversum-afgelast-vanwege-slecht-weer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6296213/nadal-gaat-bij-rentree-onderuit-in-dubbelspel-en-treft-thiem-in-enkelspel-brisbane.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296212,
-    "slug": "maersk-vaart-48-uur-niet-op-rode-zee-vanwege-nieuwe-aanval-op-schip",
-    "type": "article",
-    "title": "Maersk vaart 48 uur niet op Rode Zee vanwege nieuwe aanval op schip",
-    "subtitle": null,
-    "published_at": "2023-12-31T11:52:07+01:00",
-    "updated_at": "2023-12-31T12:39:30+01:00",
-    "media_id": "h1yxjgla6yrs",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6296212/maersk-vaart-48-uur-niet-op-rode-zee-vanwege-nieuwe-aanval-op-schip.html",
     "open_new_window": false,
     "partner": null
   }
