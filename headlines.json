@@ -1,12 +1,58 @@
 [
   {
+    "id": 6296296,
+    "slug": "politie-spreekt-van-heftige-jaarwisseling-zeker-tientallen-agenten-gewond-geraakt",
+    "type": "article",
+    "title": "Politie spreekt van heftige jaarwisseling: zeker tientallen agenten gewond geraakt",
+    "subtitle": null,
+    "published_at": "2024-01-01T11:17:46+01:00",
+    "updated_at": "2024-01-01T11:19:01+01:00",
+    "media_id": "v5txwwqamp4u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6296296/politie-spreekt-van-heftige-jaarwisseling-zeker-tientallen-agenten-gewond-geraakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295777,
+    "slug": "neem-jij-een-nieuwjaarsduik",
+    "type": "article",
+    "title": "Neem jij een nieuwjaarsduik?",
+    "subtitle": "Praat Mee",
+    "published_at": "2024-01-01T10:55:27+01:00",
+    "updated_at": "2024-01-01T10:55:29+01:00",
+    "media_id": "puexmmuan2vh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6295777/neem-jij-een-nieuwjaarsduik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296291,
-    "slug": "incidenten-overschaduwen-jaarwisseling-politie-heeft-drukke-nacht",
+    "slug": "incidenten-overschaduwden-jaarwisseling-politie-had-drukke-nacht",
     "type": "video",
-    "title": "Incidenten overschaduwen jaarwisseling, politie heeft drukke nacht",
+    "title": "Incidenten overschaduwden jaarwisseling, politie had drukke nacht",
     "subtitle": "Video",
     "published_at": "2024-01-01T09:39:39+01:00",
-    "updated_at": "2024-01-01T09:39:40+01:00",
+    "updated_at": "2024-01-01T10:56:55+01:00",
     "media_id": "2wpxp3vaokce",
     "duration": "1:01",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6296291/incidenten-overschaduwen-jaarwisseling-politie-heeft-drukke-nacht.html",
+    "url": "/videos/6296291/incidenten-overschaduwden-jaarwisseling-politie-had-drukke-nacht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Tsunamiwaarschuwing voor westkust van Japan na zware aardbevingen",
     "subtitle": null,
     "published_at": "2024-01-01T09:20:24+01:00",
-    "updated_at": "2024-01-01T10:34:45+01:00",
+    "updated_at": "2024-01-01T10:59:39+01:00",
     "media_id": "2gaxibaarf23",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Grimmige incidenten overschaduwen feestelijke start van 2024 in Nederland",
     "subtitle": null,
     "published_at": "2024-01-01T04:56:41+01:00",
-    "updated_at": "2024-01-01T10:44:13+01:00",
+    "updated_at": "2024-01-01T10:50:29+01:00",
     "media_id": "erwxi28aooeg",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6296267/agenten-trekken-haagse-wijk-in-na-bekogeling-met-zwaar-vuurwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296265,
-    "slug": "grote-brand-in-noord-brabants-boxtel-is-onder-controle",
-    "type": "article",
-    "title": "Grote brand in Noord-Brabants Boxtel is onder controle",
-    "subtitle": null,
-    "published_at": "2023-12-31T22:46:37+01:00",
-    "updated_at": "2023-12-31T23:38:15+01:00",
-    "media_id": "yrrxzqbamtxt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296265/grote-brand-in-noord-brabants-boxtel-is-onder-controle.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296263,
-    "slug": "auto-rijdt-na-botsing-tegen-ministerie-in-den-haag-aan",
-    "type": "video",
-    "title": "Auto rijdt na botsing tegen ministerie in Den Haag aan",
-    "subtitle": "Video",
-    "published_at": "2023-12-31T22:26:49+01:00",
-    "updated_at": "2023-12-31T22:26:50+01:00",
-    "media_id": "tylxtiha7fz3",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296263/auto-rijdt-na-botsing-tegen-ministerie-in-den-haag-aan.html",
     "open_new_window": false,
     "partner": null
   }
