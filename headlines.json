@@ -1,5 +1,74 @@
 [
   {
+    "id": 6296778,
+    "slug": "npo-en-rtl-niet-blij-dat-programmas-kijkcijfers-nog-op-oude-manier-melden",
+    "type": "article",
+    "title": "NPO en RTL niet blij dat programma's kijkcijfers nog op oude manier melden",
+    "subtitle": null,
+    "published_at": "2024-01-05T09:22:30+01:00",
+    "updated_at": "2024-01-05T09:22:31+01:00",
+    "media_id": "xcgxx2nawa5r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6296778/npo-en-rtl-niet-blij-dat-programmas-kijkcijfers-nog-op-oude-manier-melden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296776,
+    "slug": "mary-poppins-actrice-glynis-johns-overleden-op-honderdjarige-leeftijd",
+    "type": "article",
+    "title": "Mary Poppins-actrice Glynis Johns overleden op honderdjarige leeftijd",
+    "subtitle": null,
+    "published_at": "2024-01-05T08:58:35+01:00",
+    "updated_at": "2024-01-05T09:12:43+01:00",
+    "media_id": "yqzxpq5ajoma",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6296776/mary-poppins-actrice-glynis-johns-overleden-op-honderdjarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296777,
+    "slug": "reddingswerkers-inspecteren-treinwrak-na-botsing-op-java",
+    "type": "video",
+    "title": "Reddingswerkers inspecteren treinwrak na botsing op Java",
+    "subtitle": "Video",
+    "published_at": "2024-01-05T08:49:31+01:00",
+    "updated_at": "2024-01-05T08:49:33+01:00",
+    "media_id": "fvgxmqhaxl1x",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6296777/reddingswerkers-inspecteren-treinwrak-na-botsing-op-java.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296775,
     "slug": "zandzakken-en-dijkinspecties-omdat-onze-rivieren-bijna-overstromen",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Dijkwachters inspecteren eerder afgekeurde dijk op Marken",
     "subtitle": "Video",
     "published_at": "2024-01-05T07:39:51+01:00",
-    "updated_at": "2024-01-05T07:39:52+01:00",
+    "updated_at": "2024-01-05T08:46:13+01:00",
     "media_id": "zpcx6bsa3nqo",
     "duration": "0:37",
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Inflatie nam in december af dankzij lagere energieprijzen",
     "subtitle": null,
     "published_at": "2024-01-05T07:05:23+01:00",
-    "updated_at": "2024-01-05T08:22:57+01:00",
+    "updated_at": "2024-01-05T09:06:08+01:00",
     "media_id": "y4lx2vaat13e",
     "duration": null,
     "canonical_section": {
@@ -139,12 +208,12 @@
   },
   {
     "id": 6296769,
-    "slug": "zuid-koreanen-naar-schuilkelders-nadat-noord-korea-raketten-afvuurt",
+    "slug": "zuid-koreanen-naar-schuilkelders-na-noord-koreaanse-provocatie",
     "type": "article",
-    "title": "Zuid-Koreanen naar schuilkelders nadat Noord-Korea raketten afvuurt",
+    "title": "Zuid-Koreanen naar schuilkelders na Noord-Koreaanse provocatie",
     "subtitle": null,
     "published_at": "2024-01-05T06:37:32+01:00",
-    "updated_at": "2024-01-05T08:36:43+01:00",
+    "updated_at": "2024-01-05T08:57:16+01:00",
     "media_id": "m3jxex8ax3g4",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6296769/zuid-koreanen-naar-schuilkelders-nadat-noord-korea-raketten-afvuurt.html",
+    "url": "/buitenland/6296769/zuid-koreanen-naar-schuilkelders-na-noord-koreaanse-provocatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "'Blade Runner' Oscar Pistorius die vriendin vermoordde na 8,5 jaar vrijgelaten",
     "subtitle": null,
     "published_at": "2024-01-05T06:09:56+01:00",
-    "updated_at": "2024-01-05T08:45:10+01:00",
+    "updated_at": "2024-01-05T08:58:38+01:00",
     "media_id": "4qzxl1har1wh",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296762/schlemiel-sinkgraven-helpt-fc-barcelona-in-blessuretijd-onbedoeld-aan-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296759,
-    "slug": "new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas",
-    "type": "article",
-    "title": "New York klaagt busvervoerders aan om vervoer migranten uit Texas",
-    "subtitle": null,
-    "published_at": "2024-01-04T23:33:11+01:00",
-    "updated_at": "2024-01-04T23:33:12+01:00",
-    "media_id": "rf8xedga1ude",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296759/new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296761,
-    "slug": "vs-pro-iraanse-commandant-gedood-door-amerikaanse-aanval-in-irak",
-    "type": "article",
-    "title": "VS: pro-Iraanse commandant gedood door Amerikaanse aanval in Irak",
-    "subtitle": null,
-    "published_at": "2024-01-04T22:48:12+01:00",
-    "updated_at": "2024-01-04T23:21:11+01:00",
-    "media_id": "jryxg9yayuk5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296761/vs-pro-iraanse-commandant-gedood-door-amerikaanse-aanval-in-irak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296760,
-    "slug": "sergio-ramos-ruziet-met-fans-na-nieuwe-deceptie-voor-crisisclub-sevilla",
-    "type": "article",
-    "title": "Sergio Ramos ruziet met fans na nieuwe deceptie voor crisisclub Sevilla",
-    "subtitle": null,
-    "published_at": "2024-01-04T22:46:13+01:00",
-    "updated_at": "2024-01-04T23:03:45+01:00",
-    "media_id": "2dexdi6ae8mg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6296760/sergio-ramos-ruziet-met-fans-na-nieuwe-deceptie-voor-crisisclub-sevilla.html",
     "open_new_window": false,
     "partner": null
   }
