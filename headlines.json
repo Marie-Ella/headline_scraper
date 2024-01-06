@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296898,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-06T05:29:31+01:00",
+    "updated_at": "2024-01-06T05:29:32+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6296898/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296896,
     "slug": "sensatie-de-boo-was-extra-zenuwachtig-op-ek-wordt-anders-naar-me-gekeken",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6296895,
-    "slug": "hooggerechtshof-vs-behandelt-in-februari-beroep-trump-over-verkiezingsuitsluiting",
+    "slug": "hooggerechtshof-behandelt-in-februari-beroep-trump-over-verkiezingsuitsluiting",
     "type": "article",
-    "title": "Hooggerechtshof VS behandelt in februari beroep Trump over verkiezingsuitsluiting",
+    "title": "Hooggerechtshof behandelt in februari beroep Trump over verkiezingsuitsluiting",
     "subtitle": null,
     "published_at": "2024-01-05T23:40:30+01:00",
-    "updated_at": "2024-01-06T05:18:59+01:00",
+    "updated_at": "2024-01-06T05:28:18+01:00",
     "media_id": "ma4xltka40md",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6296895/hooggerechtshof-vs-behandelt-in-februari-beroep-trump-over-verkiezingsuitsluiting.html",
+    "url": "/buitenland/6296895/hooggerechtshof-behandelt-in-februari-beroep-trump-over-verkiezingsuitsluiting.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6296881/verzekerde-schade-aardbeving-japan-loopt-in-de-miljarden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296880,
-    "slug": "londen-zet-zich-schrap-voor-nieuwe-metrostaking",
-    "type": "article",
-    "title": "Londen zet zich schrap voor nieuwe metrostaking",
-    "subtitle": null,
-    "published_at": "2024-01-05T20:44:52+01:00",
-    "updated_at": "2024-01-05T21:06:05+01:00",
-    "media_id": "zqgxd9farohb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6296880/londen-zet-zich-schrap-voor-nieuwe-metrostaking.html",
     "open_new_window": false,
     "partner": null
   }
