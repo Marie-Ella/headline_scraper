@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296980,
+    "slug": "voorzitter-europese-raad-charles-michel-wil-zetel-europarlement",
+    "type": "article",
+    "title": "Voorzitter Europese Raad Charles Michel wil zetel Europarlement",
+    "subtitle": null,
+    "published_at": "2024-01-07T00:35:34+01:00",
+    "updated_at": "2024-01-07T00:35:35+01:00",
+    "media_id": "pcux9v7a13o0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6296980/voorzitter-europese-raad-charles-michel-wil-zetel-europarlement.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296979,
     "slug": "zeilsters-bouwmeester-en-jonker-klimmen-op-tweede-dag-in-wk-klassement",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6296962/denemarken-ziet-aantal-faillissementen-fors-toenemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296960,
-    "slug": "vastgelopen-tanker-blokkeert-de-ijssel",
-    "type": "video",
-    "title": "Vastgelopen tanker blokkeert de IJssel",
-    "subtitle": "Video",
-    "published_at": "2024-01-06T16:28:13+01:00",
-    "updated_at": "2024-01-06T20:39:37+01:00",
-    "media_id": "cd9xv5raelun",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296960/vastgelopen-tanker-blokkeert-de-ijssel.html",
     "open_new_window": false,
     "partner": null
   }
