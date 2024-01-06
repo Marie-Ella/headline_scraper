@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296892,
+    "slug": "waarom-zijn-we-zo-gefascineerd-door-joran-van-der-sloot",
+    "type": "video",
+    "title": "Waarom zijn we zo gefascineerd door Joran van der Sloot?",
+    "subtitle": "Video",
+    "published_at": "2024-01-06T06:00:59+01:00",
+    "updated_at": "2024-01-06T06:00:59+01:00",
+    "media_id": "jmgxhb2altjn",
+    "duration": "11:49",
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6296892/waarom-zijn-we-zo-gefascineerd-door-joran-van-der-sloot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296899,
+    "slug": "in-het-noordoosten-is-het-koud-genoeg-voor-wat-natte-sneeuw",
+    "type": "article",
+    "title": "In het noordoosten is het koud genoeg voor wat natte sneeuw",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-06T06:00:30+01:00",
+    "updated_at": "2024-01-06T06:00:31+01:00",
+    "media_id": "bacx7h6a8rbv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296899/in-het-noordoosten-is-het-koud-genoeg-voor-wat-natte-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296898,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6296886/dierentuin-in-berlijn-voert-kerstbomen-aan-dieren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296883,
-    "slug": "groenewoud-klopt-schouten-en-wiklund-en-verrast-met-ek-goud-op-3000-meter",
-    "type": "article",
-    "title": "Groenewoud klopt Schouten en Wiklund en verrast met EK-goud op 3.000 meter",
-    "subtitle": null,
-    "published_at": "2024-01-05T21:12:25+01:00",
-    "updated_at": "2024-01-05T23:21:21+01:00",
-    "media_id": "acvx8ycan3jk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6296883/groenewoud-klopt-schouten-en-wiklund-en-verrast-met-ek-goud-op-3000-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296881,
-    "slug": "verzekerde-schade-aardbeving-japan-loopt-in-de-miljarden",
-    "type": "article",
-    "title": "Verzekerde schade aardbeving Japan loopt in de miljarden",
-    "subtitle": null,
-    "published_at": "2024-01-05T20:49:46+01:00",
-    "updated_at": "2024-01-05T21:07:40+01:00",
-    "media_id": "q4xxn4iamv2k",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6296881/verzekerde-schade-aardbeving-japan-loopt-in-de-miljarden.html",
     "open_new_window": false,
     "partner": null
   }
