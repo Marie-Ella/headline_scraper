@@ -1,12 +1,58 @@
 [
   {
+    "id": 6296907,
+    "slug": "alaska-airlines-houdt-boeing-737-max-9-vliegtuigen-aan-de-grond-na-gat-in-toestel",
+    "type": "article",
+    "title": "Alaska Airlines houdt Boeing 737 MAX 9 vliegtuigen aan de grond na gat in toestel",
+    "subtitle": null,
+    "published_at": "2024-01-06T09:36:05+01:00",
+    "updated_at": "2024-01-06T09:36:06+01:00",
+    "media_id": "3i6x70ba2flm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296907/alaska-airlines-houdt-boeing-737-max-9-vliegtuigen-aan-de-grond-na-gat-in-toestel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296904,
+    "slug": "brazilie-ontslaat-bondscoach-diniz-na-drie-nederlagen-in-zes-wedstrijden",
+    "type": "article",
+    "title": "Brazilië ontslaat bondscoach Diniz na drie nederlagen in zes wedstrijden",
+    "subtitle": null,
+    "published_at": "2024-01-06T09:32:52+01:00",
+    "updated_at": "2024-01-06T09:32:54+01:00",
+    "media_id": "a6cxm92ayfal",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296904/brazilie-ontslaat-bondscoach-diniz-na-drie-nederlagen-in-zes-wedstrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296903,
     "slug": "hezbollah-meldt-grote-raketbeschieting-observatiepost-israel-vanuit-libanon",
     "type": "article",
     "title": "Hezbollah meldt grote raketbeschieting observatiepost Israël vanuit Libanon",
     "subtitle": null,
     "published_at": "2024-01-06T09:16:28+01:00",
-    "updated_at": "2024-01-06T09:17:15+01:00",
+    "updated_at": "2024-01-06T09:45:41+01:00",
     "media_id": "zwpxuowas1vq",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Schaatsers krijgen klap in gezicht van Noren: 'Dit gat gaan we niet dichten'",
     "subtitle": "NU+",
     "published_at": "2024-01-06T05:10:07+01:00",
-    "updated_at": "2024-01-06T08:56:48+01:00",
+    "updated_at": "2024-01-06T09:36:57+01:00",
     "media_id": "y0oxxk8acoya",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Hoogwater in Nederland: 'Ons land ligt op een beroerde plek'",
     "subtitle": null,
     "published_at": "2024-01-06T05:02:06+01:00",
-    "updated_at": "2024-01-06T09:31:23+01:00",
+    "updated_at": "2024-01-06T09:34:17+01:00",
     "media_id": "3c7xqz9adn37",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296893/tottenham-hotspur-bereikt-dankzij-prachtgoal-volgende-ronde-in-fa-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296891,
-    "slug": "britten-worden-geevacueerd-vanwege-ernstige-overstomingen",
-    "type": "video",
-    "title": "Britten worden geëvacueerd vanwege ernstige overstomingen",
-    "subtitle": "Video",
-    "published_at": "2024-01-05T22:39:55+01:00",
-    "updated_at": "2024-01-05T22:39:56+01:00",
-    "media_id": "gb7x5p6argje",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296891/britten-worden-geevacueerd-vanwege-ernstige-overstomingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296890,
-    "slug": "zeilster-bouwmeester-begint-matig-aan-wk-en-strijd-om-olympisch-startbewijs",
-    "type": "article",
-    "title": "Zeilster Bouwmeester begint matig aan WK en strijd om olympisch startbewijs",
-    "subtitle": null,
-    "published_at": "2024-01-05T22:39:36+01:00",
-    "updated_at": "2024-01-05T22:43:32+01:00",
-    "media_id": "hrwx7epavzd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6296890/zeilster-bouwmeester-begint-matig-aan-wk-en-strijd-om-olympisch-startbewijs.html",
     "open_new_window": false,
     "partner": null
   }
