@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296939,
+    "slug": "goed-nieuws-deze-week-minder-griep-en-corona-en-minder-ontbossing",
+    "type": "article",
+    "title": "Goed nieuws deze week: minder griep en corona én minder ontbossing",
+    "subtitle": null,
+    "published_at": "2024-01-08T08:20:33+01:00",
+    "updated_at": "2024-01-08T08:20:34+01:00",
+    "media_id": "oipxwioaeh9l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6296939/goed-nieuws-deze-week-minder-griep-en-corona-en-minder-ontbossing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297061,
     "slug": "motorbranche-beleefde-in-2023-absoluut-topjaar-qua-verkoop",
     "type": "article",
     "title": "Motorbranche beleefde in 2023 'absoluut topjaar' qua verkoop",
     "subtitle": null,
     "published_at": "2024-01-08T08:09:01+01:00",
-    "updated_at": "2024-01-08T08:09:03+01:00",
+    "updated_at": "2024-01-08T08:17:37+01:00",
     "media_id": "yv7xkxxa14j3",
     "duration": null,
     "canonical_section": {
@@ -52,19 +75,19 @@
     "title": "Nederlander saboteerde Iraans atoomprogramma terwijl kabinet van niets wist",
     "subtitle": null,
     "published_at": "2024-01-08T07:23:41+01:00",
-    "updated_at": "2024-01-08T07:52:25+01:00",
+    "updated_at": "2024-01-08T08:17:15+01:00",
     "media_id": "b7bxi4bat4f5",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 1771438,
+      "slug": "tech",
       "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
+      "name": "Tech",
+      "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6297059/nederlander-saboteerde-iraans-atoomprogramma-terwijl-kabinet-van-niets-wist.html",
+    "url": "/tech/6297059/nederlander-saboteerde-iraans-atoomprogramma-terwijl-kabinet-van-niets-wist.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6297049/trainer-sao-paulo-wordt-nieuwe-bondscoach-brazilie-na-afhaken-ancelotti.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297048,
-    "slug": "werk-aan-nooddam-bosscherveld-in-maastricht-gaat-maandag-verder",
-    "type": "article",
-    "title": "Werk aan nooddam Bosscherveld in Maastricht gaat maandag verder",
-    "subtitle": null,
-    "published_at": "2024-01-07T22:26:59+01:00",
-    "updated_at": "2024-01-07T22:27:00+01:00",
-    "media_id": "lomxtahaqmat",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6297048/werk-aan-nooddam-bosscherveld-in-maastricht-gaat-maandag-verder.html",
     "open_new_window": false,
     "partner": null
   }
