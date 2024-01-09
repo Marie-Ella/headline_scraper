@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297170,
+    "slug": "het-voelt-vandaag-heel-koud-maar-het-is-wel-zonnig",
+    "type": "article",
+    "title": "Het voelt vandaag heel koud, maar het is wel zonnig",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-09T06:25:14+01:00",
+    "updated_at": "2024-01-09T06:25:53+01:00",
+    "media_id": "smzxmwea5h6r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6297170/het-voelt-vandaag-heel-koud-maar-het-is-wel-zonnig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297169,
+    "slug": "erica-terpstra-80-maakt-nog-een-laatste-aflevering-van-erica-op-reis",
+    "type": "article",
+    "title": "Erica Terpstra (80) maakt nog één laatste aflevering van Erica Op Reis",
+    "subtitle": null,
+    "published_at": "2024-01-09T06:22:01+01:00",
+    "updated_at": "2024-01-09T06:22:02+01:00",
+    "media_id": "7hzxy45ain6v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6297169/erica-terpstra-80-maakt-nog-een-laatste-aflevering-van-erica-op-reis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297168,
     "slug": "hoge-raad-velt-vanmiddag-het-allerlaatste-oordeel-over-moordzaken-holleeder",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Noodtoestand in Ecuador nadat beruchte drugsbaas ontsnapt uit gevangenis",
     "subtitle": null,
     "published_at": "2024-01-09T00:29:15+01:00",
-    "updated_at": "2024-01-09T00:29:16+01:00",
+    "updated_at": "2024-01-09T06:24:51+01:00",
     "media_id": "qiixwtpae5bd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6297126/khalid-kasem-beschuldigd-van-omkopen-ambtenaar-dit-is-er-aan-de-hand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297154,
-    "slug": "het-leven-van-franz-beckenbauer-78-in-vogelvlucht",
-    "type": "video",
-    "title": "Het leven van Franz Beckenbauer (78) in vogelvlucht",
-    "subtitle": "Video",
-    "published_at": "2024-01-08T20:28:00+01:00",
-    "updated_at": "2024-01-08T20:28:03+01:00",
-    "media_id": "rqaxrl6aoezf",
-    "duration": "1:03",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297154/het-leven-van-franz-beckenbauer-78-in-vogelvlucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297152,
-    "slug": "bekersensatie-na-lichtuitval-villarreal-gaat-af-tegen-spaanse-derdedivisionist",
-    "type": "article",
-    "title": "Bekersensatie na lichtuitval: Villarreal gaat af tegen Spaanse derdedivisionist",
-    "subtitle": null,
-    "published_at": "2024-01-08T20:05:50+01:00",
-    "updated_at": "2024-01-08T20:46:15+01:00",
-    "media_id": "jqrx4liapbmo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297152/bekersensatie-na-lichtuitval-villarreal-gaat-af-tegen-spaanse-derdedivisionist.html",
     "open_new_window": false,
     "partner": null
   }
