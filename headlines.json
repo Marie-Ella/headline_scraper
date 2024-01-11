@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297480,
+    "slug": "friezen-grijpen-kans-op-laatste-schaatsdag",
+    "type": "video",
+    "title": "Friezen grijpen kans op laatste schaatsdag",
+    "subtitle": "Video",
+    "published_at": "2024-01-11T15:24:30+01:00",
+    "updated_at": "2024-01-11T15:24:31+01:00",
+    "media_id": "e6rxwd2a1b84",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297480/friezen-grijpen-kans-op-laatste-schaatsdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297476,
+    "slug": "chemiebedrijf-3m-gaat-pfas-lozingen-in-belgie-versneld-stilleggen",
+    "type": "article",
+    "title": "Chemiebedrijf 3M gaat pfas-lozingen in België versneld stilleggen",
+    "subtitle": null,
+    "published_at": "2024-01-11T15:23:30+01:00",
+    "updated_at": "2024-01-11T15:23:31+01:00",
+    "media_id": "vfoxyr0abyrm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297476/chemiebedrijf-3m-gaat-pfas-lozingen-in-belgie-versneld-stilleggen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297433,
     "slug": "redde-malariamedicijn-ook-levens-van-coronapatienten",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6297461/omt-lid-menno-de-jong-volgt-jaap-van-dissel-op-als-rivm-directeur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297460,
-    "slug": "vrouw-met-kinderen-op-nieuwjaarsdag-vanuit-auto-bekogeld-met-zwaar-vuurwerk",
-    "type": "article",
-    "title": "Vrouw met kinderen op Nieuwjaarsdag vanuit auto bekogeld met zwaar vuurwerk",
-    "subtitle": null,
-    "published_at": "2024-01-11T12:12:43+01:00",
-    "updated_at": "2024-01-11T12:45:11+01:00",
-    "media_id": "neox769a41a5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6297460/vrouw-met-kinderen-op-nieuwjaarsdag-vanuit-auto-bekogeld-met-zwaar-vuurwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297459,
-    "slug": "bekijk-de-eerste-beelden-van-de-film-over-het-leven-van-amy-winehouse",
-    "type": "video",
-    "title": "Bekijk de eerste beelden van de film over het leven van Amy Winehouse",
-    "subtitle": "Video",
-    "published_at": "2024-01-11T11:54:01+01:00",
-    "updated_at": "2024-01-11T12:00:36+01:00",
-    "media_id": "pmaxrzdad6zt",
-    "duration": "1:14",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6297459/bekijk-de-eerste-beelden-van-de-film-over-het-leven-van-amy-winehouse.html",
     "open_new_window": false,
     "partner": null
   }
