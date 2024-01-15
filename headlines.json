@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297899,
+    "slug": "gasprijs-zakt-naar-laagste-punt-in-ruim-vier-maanden",
+    "type": "article",
+    "title": "Gasprijs zakt naar laagste punt in ruim vier maanden",
+    "subtitle": null,
+    "published_at": "2024-01-15T16:14:12+01:00",
+    "updated_at": "2024-01-15T16:14:13+01:00",
+    "media_id": "kkjx6caa3i40",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297899/gasprijs-zakt-naar-laagste-punt-in-ruim-vier-maanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297897,
+    "slug": "slang-komt-tot-schrik-van-passagiers-tevoorschijn-tijdens-vlucht",
+    "type": "video",
+    "title": "Slang komt tot schrik van passagiers tevoorschijn tijdens vlucht",
+    "subtitle": "Video",
+    "published_at": "2024-01-15T15:50:43+01:00",
+    "updated_at": "2024-01-15T15:52:24+01:00",
+    "media_id": "yqnxnhwa49vv",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297897/slang-komt-tot-schrik-van-passagiers-tevoorschijn-tijdens-vlucht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297892,
     "slug": "uitgezette-oesters-tussen-zeeuwse-windmolens-op-zee-doen-het-goed",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "UWV betaalt vijfduizend onterechte boetes terug",
     "subtitle": null,
     "published_at": "2024-01-15T15:28:30+01:00",
-    "updated_at": "2024-01-15T15:30:54+01:00",
+    "updated_at": "2024-01-15T15:56:27+01:00",
     "media_id": "urrx1usan49a",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Filialen van Perry Sport en Aktie Sport deels overgenomen door Brits concern",
     "subtitle": null,
     "published_at": "2024-01-15T12:45:08+01:00",
-    "updated_at": "2024-01-15T13:42:14+01:00",
+    "updated_at": "2024-01-15T16:11:36+01:00",
     "media_id": "r45x17sa8rrz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6297872/duitse-airport-weeze-trekt-veel-meer-reizigers-dan-voor-coronapandemie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297869,
-    "slug": "lavastroom-bij-ijslands-dorp-lijkt-gestopt-vulkaanuitbarsting-wordt-minder-hevig",
-    "type": "article",
-    "title": "Lavastroom bij IJslands dorp lijkt gestopt, vulkaanuitbarsting wordt minder hevig",
-    "subtitle": null,
-    "published_at": "2024-01-15T12:22:28+01:00",
-    "updated_at": "2024-01-15T12:53:03+01:00",
-    "media_id": "ypcx4jvadfqf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297869/lavastroom-bij-ijslands-dorp-lijkt-gestopt-vulkaanuitbarsting-wordt-minder-hevig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297868,
-    "slug": "heb-jij-mooie-fotos-van-sneeuwpret-stuur-ze-naar-de-redactie",
-    "type": "article",
-    "title": "Heb jij mooie foto's van sneeuwpret? Stuur ze naar de redactie",
-    "subtitle": "Oproep",
-    "published_at": "2024-01-15T12:17:43+01:00",
-    "updated_at": "2024-01-15T13:05:49+01:00",
-    "media_id": "5fkx7oza47kn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297868/heb-jij-mooie-fotos-van-sneeuwpret-stuur-ze-naar-de-redactie.html",
     "open_new_window": false,
     "partner": null
   }
