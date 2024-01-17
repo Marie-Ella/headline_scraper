@@ -1,12 +1,81 @@
 [
   {
-    "id": 6298169,
-    "slug": "eva-jinek-schrijft-nieuw-boek-met-levenslessen",
+    "id": 6298179,
+    "slug": "vogelvlucht-limburg-kleurt-wit-door-sneeuwbuien",
+    "type": "video",
+    "title": "Vogelvlucht: Limburg kleurt wit door sneeuwbuien",
+    "subtitle": "Video",
+    "published_at": "2024-01-17T17:47:20+01:00",
+    "updated_at": "2024-01-17T17:47:21+01:00",
+    "media_id": "ng1xqusa64ah",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298179/vogelvlucht-limburg-kleurt-wit-door-sneeuwbuien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298175,
+    "slug": "las-vegas-verbiedt-stilstaan-op-loopbruggen-overtreders-riskeren-celstraf",
     "type": "article",
-    "title": "Eva Jinek schrijft nieuw boek met 'levenslessen'",
+    "title": "Las Vegas verbiedt stilstaan op loopbruggen, overtreders riskeren celstraf",
+    "subtitle": null,
+    "published_at": "2024-01-17T17:35:52+01:00",
+    "updated_at": "2024-01-17T17:36:29+01:00",
+    "media_id": "43fxmxyaj7jx",
+    "duration": null,
+    "canonical_section": {
+      "id": 937692,
+      "slug": "opmerkelijk",
+      "type": "default",
+      "name": "Opmerkelijk",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/opmerkelijk/6298175/las-vegas-verbiedt-stilstaan-op-loopbruggen-overtreders-riskeren-celstraf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298177,
+    "slug": "sneeuwval-leidt-tot-files-in-limburg-oproep-om-snelwegen-in-provincie-te-mijden",
+    "type": "article",
+    "title": "Sneeuwval leidt tot files in Limburg, oproep om snelwegen in provincie te mijden",
+    "subtitle": null,
+    "published_at": "2024-01-17T17:33:59+01:00",
+    "updated_at": "2024-01-17T17:44:36+01:00",
+    "media_id": "mgsxd7maz4gu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298177/sneeuwval-leidt-tot-files-in-limburg-oproep-om-snelwegen-in-provincie-te-mijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298169,
+    "slug": "eva-jinek-schrijft-nieuw-boek-met-persoonlijke-levenslessen",
+    "type": "article",
+    "title": "Eva Jinek schrijft nieuw boek met persoonlijke levenslessen",
     "subtitle": null,
     "published_at": "2024-01-17T17:11:33+01:00",
-    "updated_at": "2024-01-17T17:11:33+01:00",
+    "updated_at": "2024-01-17T17:38:15+01:00",
     "media_id": "uj1xynea9gz0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6298169/eva-jinek-schrijft-nieuw-boek-met-levenslessen.html",
+    "url": "/cultuur-overig/6298169/eva-jinek-schrijft-nieuw-boek-met-persoonlijke-levenslessen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +213,7 @@
     "title": "Duitsers dronken in een jaar tijd per persoon een fles wijn minder",
     "subtitle": null,
     "published_at": "2024-01-17T16:21:32+01:00",
-    "updated_at": "2024-01-17T16:43:34+01:00",
+    "updated_at": "2024-01-17T17:38:55+01:00",
     "media_id": "bwdxl5kaosdh",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Pascal Jansen aangeslagen na ontslag bij AZ: 'Erg jammer en teleurstellend'",
     "subtitle": null,
     "published_at": "2024-01-17T16:15:58+01:00",
-    "updated_at": "2024-01-17T17:01:12+01:00",
+    "updated_at": "2024-01-17T17:28:05+01:00",
     "media_id": "v0txjlba6vyi",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "AZ zet trainer Pascal Jansen op straat na bekerontsnapping tegen Quick Boys",
     "subtitle": null,
     "published_at": "2024-01-17T15:52:31+01:00",
-    "updated_at": "2024-01-17T16:57:25+01:00",
+    "updated_at": "2024-01-17T17:27:40+01:00",
     "media_id": "2d4x7bha9vyp",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6298155/zes-verdachten-van-diefstal-balmain-collectie-gearresteerd-in-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298156,
-    "slug": "vrouw-bevalt-van-zoontje-op-rotonde-in-gelders-dorp-zelhem",
-    "type": "article",
-    "title": "Vrouw bevalt van zoontje op rotonde in Gelders dorp Zelhem",
-    "subtitle": null,
-    "published_at": "2024-01-17T14:48:27+01:00",
-    "updated_at": "2024-01-17T14:48:28+01:00",
-    "media_id": "4flxlg8az1gk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298156/vrouw-bevalt-van-zoontje-op-rotonde-in-gelders-dorp-zelhem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298147,
-    "slug": "lil-kleine-over-mishandelen-van-ex-bij-auto-kan-in-relatie-gebeuren",
-    "type": "article",
-    "title": "Lil Kleine over mishandelen van ex bij auto: 'Kan in relatie gebeuren'",
-    "subtitle": null,
-    "published_at": "2024-01-17T14:44:54+01:00",
-    "updated_at": "2024-01-17T14:44:55+01:00",
-    "media_id": "2eqx9ooai10t",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6298147/lil-kleine-over-mishandelen-van-ex-bij-auto-kan-in-relatie-gebeuren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298029,
-    "slug": "bijna-iedereen-is-klaar-met-falende-netanyahu-zelfs-de-amerikanen",
-    "type": "article",
-    "title": "Bijna iedereen is klaar met 'falende' Netanyahu, zelfs de Amerikanen",
-    "subtitle": "NU+",
-    "published_at": "2024-01-17T14:37:35+01:00",
-    "updated_at": "2024-01-17T15:43:48+01:00",
-    "media_id": "ry7xcq1arjmg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6298029/bijna-iedereen-is-klaar-met-falende-netanyahu-zelfs-de-amerikanen.html",
     "open_new_window": false,
     "partner": null
   }
