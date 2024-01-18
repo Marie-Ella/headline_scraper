@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298188,
+    "slug": "geld-besparen-met-een-warmtefoto-van-je-huis-hoe-werkt-dat",
+    "type": "video",
+    "title": "Geld besparen met een warmtefoto van je huis: hoe werkt dat?",
+    "subtitle": "Explainer",
+    "published_at": "2024-01-18T06:02:15+01:00",
+    "updated_at": "2024-01-18T06:02:16+01:00",
+    "media_id": "rjnxq2za9har",
+    "duration": "2:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6298188/geld-besparen-met-een-warmtefoto-van-je-huis-hoe-werkt-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298221,
+    "slug": "tennisster-arantxa-rus-loopt-plek-in-derde-ronde-australian-open-mis",
+    "type": "article",
+    "title": "Tennisster Arantxa Rus loopt plek in derde ronde Australian Open mis",
+    "subtitle": null,
+    "published_at": "2024-01-18T05:55:54+01:00",
+    "updated_at": "2024-01-18T05:55:55+01:00",
+    "media_id": "0epx0qda60hn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6298221/tennisster-arantxa-rus-loopt-plek-in-derde-ronde-australian-open-mis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298220,
     "slug": "verenigde-staten-vallen-opnieuw-houthi-doelen-in-jemen-aan",
     "type": "article",
     "title": "Verenigde Staten vallen opnieuw Houthi-doelen in Jemen aan",
     "subtitle": null,
     "published_at": "2024-01-18T05:47:11+01:00",
-    "updated_at": "2024-01-18T05:47:13+01:00",
+    "updated_at": "2024-01-18T06:03:04+01:00",
     "media_id": "g07xbtfae7pt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298210/limburgs-verkeer-kan-weer-doorrijden-maar-moet-rekening-houden-met-gladheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298211,
-    "slug": "auto-rijdt-voordeur-uit-woning-in-enschede-door-gladheid",
-    "type": "video",
-    "title": "Auto rijdt voordeur uit woning in Enschede door gladheid",
-    "subtitle": "Video",
-    "published_at": "2024-01-17T22:09:29+01:00",
-    "updated_at": "2024-01-17T22:23:51+01:00",
-    "media_id": "yo9xdssa4j7b",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298211/auto-rijdt-voordeur-uit-woning-in-enschede-door-gladheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298209,
-    "slug": "apple-moet-per-direct-stoppen-met-verkoop-nieuwste-modellen-apple-watch-in-vs",
-    "type": "article",
-    "title": "Apple moet per direct stoppen met verkoop nieuwste modellen Apple Watch in VS",
-    "subtitle": null,
-    "published_at": "2024-01-17T21:43:48+01:00",
-    "updated_at": "2024-01-17T22:07:04+01:00",
-    "media_id": "yxfxz6ra57t7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6298209/apple-moet-per-direct-stoppen-met-verkoop-nieuwste-modellen-apple-watch-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
