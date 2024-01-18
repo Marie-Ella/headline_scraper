@@ -1,5 +1,51 @@
 [
   {
+    "id": 6298289,
+    "slug": "hond-vertoont-gamekunsten-op-toernooi",
+    "type": "video",
+    "title": "Hond vertoont gamekunsten op toernooi",
+    "subtitle": "Video",
+    "published_at": "2024-01-18T14:50:10+01:00",
+    "updated_at": "2024-01-18T14:50:11+01:00",
+    "media_id": "la2xpcda0gm0",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298289/hond-vertoont-gamekunsten-op-toernooi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298274,
+    "slug": "sneeuw-storm-of-ijzel-thuiswerken-is-geen-absoluut-recht",
+    "type": "article",
+    "title": "Sneeuw, storm of ijzel: thuiswerken is geen absoluut recht",
+    "subtitle": null,
+    "published_at": "2024-01-18T14:49:15+01:00",
+    "updated_at": "2024-01-18T14:49:58+01:00",
+    "media_id": "uinxlxvaxox2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298274/sneeuw-storm-of-ijzel-thuiswerken-is-geen-absoluut-recht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298280,
     "slug": "bevers-krijgen-vlotten-om-te-vluchten-voor-hoogwater",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Europees Parlement start zaak tegen Commissie om subsidies voor Hongarije",
     "subtitle": null,
     "published_at": "2024-01-18T13:44:32+01:00",
-    "updated_at": "2024-01-18T14:32:15+01:00",
+    "updated_at": "2024-01-18T14:38:18+01:00",
     "media_id": "zsbxxu4agc0f",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6298249/ghislaine-plag-wint-marconi-oeuvre-award-voor-radiocarriere.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298235,
-    "slug": "hoe-ga-jij-met-winters-weer-naar-je-werk",
-    "type": "article",
-    "title": "Hoe ga jij met winters weer naar je werk?",
-    "subtitle": "Praat Mee",
-    "published_at": "2024-01-18T11:02:31+01:00",
-    "updated_at": "2024-01-18T11:02:32+01:00",
-    "media_id": "m4jxwn9a1uqg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6298235/hoe-ga-jij-met-winters-weer-naar-je-werk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298251,
-    "slug": "zuid-korea-ziet-na-coronajaren-flinke-toename-noord-koreaanse-overlopers",
-    "type": "article",
-    "title": "Zuid-Korea ziet na coronajaren flinke toename Noord-Koreaanse overlopers",
-    "subtitle": null,
-    "published_at": "2024-01-18T10:59:55+01:00",
-    "updated_at": "2024-01-18T11:28:35+01:00",
-    "media_id": "dx1x7veao8b3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298251/zuid-korea-ziet-na-coronajaren-flinke-toename-noord-koreaanse-overlopers.html",
     "open_new_window": false,
     "partner": null
   }
