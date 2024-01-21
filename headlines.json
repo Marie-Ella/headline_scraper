@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298583,
+    "slug": "knmi-waarschuwt-voor-verraderlijke-gladheid-door-ijzel",
+    "type": "article",
+    "title": "KNMI waarschuwt voor verraderlijke gladheid door ijzel",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-21T05:44:23+01:00",
+    "updated_at": "2024-01-21T05:44:25+01:00",
+    "media_id": "mwsx4x5auig5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6298583/knmi-waarschuwt-voor-verraderlijke-gladheid-door-ijzel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298582,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6298027,
-    "slug": "ontwikkeling-ai-gaat-volgens-privacywaakhond-sneller-dan-we-kunnen-bijhouden",
+    "slug": "privacywaakhond-ai-ontwikkelt-zich-sneller-dan-we-kunnen-bijhouden",
     "type": "article",
-    "title": "Ontwikkeling AI gaat volgens privacywaakhond sneller dan we kunnen bijhouden",
+    "title": "Privacywaakhond: 'AI ontwikkelt zich sneller dan we kunnen bijhouden'",
     "subtitle": "NU+",
     "published_at": "2024-01-21T05:12:06+01:00",
-    "updated_at": "2024-01-21T05:12:07+01:00",
+    "updated_at": "2024-01-21T06:16:24+01:00",
     "media_id": "t31xty4aln4u",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6298027/ontwikkeling-ai-gaat-volgens-privacywaakhond-sneller-dan-we-kunnen-bijhouden.html",
+    "url": "/tech/6298027/privacywaakhond-ai-ontwikkelt-zich-sneller-dan-we-kunnen-bijhouden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6298578,
-    "slug": "joost-klein-wint-popprijs-2023",
+    "slug": "joost-klein-wint-popprijs-2023-voelt-als-geen-ander-de-tijdsgeest-aan",
     "type": "article",
-    "title": "Joost Klein wint Popprijs 2023",
+    "title": "Joost Klein wint Popprijs 2023: 'Voelt als geen ander de tijdsgeest aan'",
     "subtitle": null,
     "published_at": "2024-01-20T23:19:09+01:00",
-    "updated_at": "2024-01-20T23:20:45+01:00",
+    "updated_at": "2024-01-21T06:10:18+01:00",
     "media_id": "hfzxtgwaxtph",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6298578/joost-klein-wint-popprijs-2023.html",
+    "url": "/muziek/6298578/joost-klein-wint-popprijs-2023-voelt-als-geen-ander-de-tijdsgeest-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "AC Milan-doelman Maignan verlaat veld bij Udinese na apengeluiden",
     "subtitle": null,
     "published_at": "2024-01-20T22:07:29+01:00",
-    "updated_at": "2024-01-20T23:34:08+01:00",
+    "updated_at": "2024-01-21T06:24:48+01:00",
     "media_id": "lesxpsla26zj",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "AZ ontsnapt in eerste duel na ontslag Jansen aan pijnlijke nederlaag tegen PEC",
     "subtitle": null,
     "published_at": "2024-01-20T21:55:35+01:00",
-    "updated_at": "2024-01-20T22:16:02+01:00",
+    "updated_at": "2024-01-21T06:22:56+01:00",
     "media_id": "4okxentaxz9l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298569/emotionele-toney-scoort-bij-rentree-na-maandenlange-schorsing-vanwege-gokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298568,
-    "slug": "huijsen-en-karsdorp-winnen-met-roma-eerste-duel-zonder-ontslagen-mourinho",
-    "type": "article",
-    "title": "Huijsen en Karsdorp winnen met Roma eerste duel zonder ontslagen Mourinho",
-    "subtitle": null,
-    "published_at": "2024-01-20T20:01:59+01:00",
-    "updated_at": "2024-01-20T20:58:12+01:00",
-    "media_id": "zxvxmakau4l3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298568/huijsen-en-karsdorp-winnen-met-roma-eerste-duel-zonder-ontslagen-mourinho.html",
     "open_new_window": false,
     "partner": null
   }
