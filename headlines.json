@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298673,
+    "slug": "bedrijven-investeren-bijna-4-procent-minder-steeds-meer-seinen-staan-op-rood",
+    "type": "article",
+    "title": "Bedrijven investeren bijna 4 procent minder: 'Steeds meer seinen staan op rood'",
+    "subtitle": null,
+    "published_at": "2024-01-22T07:49:01+01:00",
+    "updated_at": "2024-01-22T07:49:02+01:00",
+    "media_id": "4r1xdaca428s",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298673/bedrijven-investeren-bijna-4-procent-minder-steeds-meer-seinen-staan-op-rood.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298671,
-    "slug": "kijkje-in-de-schipholtoren-we-kijken-en-radar-is-ondersteuning",
+    "slug": "zo-zien-de-hoogste-verdiepingen-van-de-schipholtoren-eruit",
     "type": "video",
-    "title": "Kijkje in de Schipholtoren: 'We kijken en radar is ondersteuning'",
+    "title": "Zo zien de hoogste verdiepingen van de Schipholtoren eruit",
     "subtitle": "Video",
     "published_at": "2024-01-22T07:09:55+01:00",
-    "updated_at": "2024-01-22T07:17:42+01:00",
+    "updated_at": "2024-01-22T07:32:14+01:00",
     "media_id": "865xhl8a3ycs",
     "duration": "2:40",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6298671/kijkje-in-de-schipholtoren-we-kijken-en-radar-is-ondersteuning.html",
+    "url": "/videos/6298671/zo-zien-de-hoogste-verdiepingen-van-de-schipholtoren-eruit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +93,12 @@
   },
   {
     "id": 6298669,
-    "slug": "68-mensen-gearresteerd-in-ecuador-omdat-ze-een-ziekenhuis-wilden-overnemen",
+    "slug": "68-mensen-gearresteerd-omdat-ze-een-ziekenhuis-in-ecuador-wilden-overnemen",
     "type": "article",
-    "title": "68 mensen gearresteerd in Ecuador omdat ze een ziekenhuis wilden overnemen",
+    "title": "68 mensen gearresteerd omdat ze een ziekenhuis in Ecuador wilden overnemen",
     "subtitle": null,
     "published_at": "2024-01-22T06:52:11+01:00",
-    "updated_at": "2024-01-22T06:52:31+01:00",
+    "updated_at": "2024-01-22T07:47:39+01:00",
     "media_id": "znlxjtpaj3wo",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6298669/68-mensen-gearresteerd-in-ecuador-omdat-ze-een-ziekenhuis-wilden-overnemen.html",
+    "url": "/buitenland/6298669/68-mensen-gearresteerd-omdat-ze-een-ziekenhuis-in-ecuador-wilden-overnemen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Tientallen mensen bedolven na aardverschuiving in Chinese provincie Yunnan",
     "subtitle": null,
     "published_at": "2024-01-22T06:38:31+01:00",
-    "updated_at": "2024-01-22T07:07:56+01:00",
+    "updated_at": "2024-01-22T07:44:37+01:00",
     "media_id": "yauxvv2aifdt",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Wanneer storm Isha voorbij is, wordt het een aangename winterdag",
     "subtitle": "Weerbericht",
     "published_at": "2024-01-22T05:57:21+01:00",
-    "updated_at": "2024-01-22T06:17:22+01:00",
+    "updated_at": "2024-01-22T07:34:06+01:00",
     "media_id": "tk6xjj3ah0l3",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6298664,
-    "slug": "storm-isha-bereikt-nederland-na-grote-problemen-veroorzaakt-te-hebben-in-vk",
+    "slug": "storm-isha-trekt-over-nederland-na-grote-problemen-veroorzaakt-te-hebben-in-vk",
     "type": "article",
-    "title": "Storm Isha bereikt Nederland na grote problemen veroorzaakt te hebben in VK",
+    "title": "Storm Isha trekt over Nederland na grote problemen veroorzaakt te hebben in VK",
     "subtitle": null,
     "published_at": "2024-01-22T05:39:43+01:00",
-    "updated_at": "2024-01-22T06:15:49+01:00",
+    "updated_at": "2024-01-22T07:47:15+01:00",
     "media_id": "l1vxdv2a8qek",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6298664/storm-isha-bereikt-nederland-na-grote-problemen-veroorzaakt-te-hebben-in-vk.html",
+    "url": "/binnenland/6298664/storm-isha-trekt-over-nederland-na-grote-problemen-veroorzaakt-te-hebben-in-vk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298661/republikeinse-presidentskandidaat-ron-desantis-stopt-verkiezingscampagne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298660,
-    "slug": "negenhonderd-ooievaars-gezien-bij-jaarlijkse-telling-vaak-op-logische-eetplekken",
-    "type": "article",
-    "title": "Negenhonderd ooievaars gezien bij jaarlijkse telling, vaak op logische eetplekken",
-    "subtitle": null,
-    "published_at": "2024-01-21T22:37:29+01:00",
-    "updated_at": "2024-01-21T22:54:49+01:00",
-    "media_id": "l77xbr6a0f8n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6298660/negenhonderd-ooievaars-gezien-bij-jaarlijkse-telling-vaak-op-logische-eetplekken.html",
     "open_new_window": false,
     "partner": null
   }
