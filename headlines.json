@@ -1,12 +1,35 @@
 [
   {
-    "id": 6298773,
-    "slug": "fc-groningen-wint-eerste-duel-na-griepgolf-ado-verliest-uitgesteld-duel",
+    "id": 6298750,
+    "slug": "khan-younis-onder-vuur-protesten-in-israel-tegen-netanyahu",
     "type": "article",
-    "title": "FC Groningen wint eerste duel na griepgolf, ADO verliest uitgesteld duel",
+    "title": "Khan Younis onder vuur, protesten in Israël tegen Netanyahu",
+    "subtitle": "Overzicht",
+    "published_at": "2024-01-22T22:21:41+01:00",
+    "updated_at": "2024-01-22T22:24:34+01:00",
+    "media_id": "7xsx25taafwz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6298750/khan-younis-onder-vuur-protesten-in-israel-tegen-netanyahu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298773,
+    "slug": "fc-groningen-wint-eerste-wedstrijd-na-griepgolf-ado-verliest-uitgesteld-duel",
+    "type": "article",
+    "title": "FC Groningen wint eerste wedstrijd na griepgolf, ADO verliest uitgesteld duel",
     "subtitle": null,
     "published_at": "2024-01-22T22:07:23+01:00",
-    "updated_at": "2024-01-22T22:07:24+01:00",
+    "updated_at": "2024-01-22T22:17:05+01:00",
     "media_id": "bymx55uaylri",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298773/fc-groningen-wint-eerste-duel-na-griepgolf-ado-verliest-uitgesteld-duel.html",
+    "url": "/voetbal/6298773/fc-groningen-wint-eerste-wedstrijd-na-griepgolf-ado-verliest-uitgesteld-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +93,12 @@
   },
   {
     "id": 6298770,
-    "slug": "de-vrij-wint-supercup-dankzij-goal-in-slotfase-voor-derde-jaar-op-rij-met-inter",
+    "slug": "de-vrij-wint-italiaanse-supercup-dankzij-late-goal-voor-derde-jaar-op-rij-met-inter",
     "type": "article",
-    "title": "De Vrij wint supercup dankzij goal in slotfase voor derde jaar op rij met Inter",
+    "title": "De Vrij wint Italiaanse supercup dankzij late goal voor derde jaar op rij met Inter",
     "subtitle": null,
     "published_at": "2024-01-22T22:00:47+01:00",
-    "updated_at": "2024-01-22T22:14:18+01:00",
+    "updated_at": "2024-01-22T22:22:54+01:00",
     "media_id": "7ygximba8dfw",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298770/de-vrij-wint-supercup-dankzij-goal-in-slotfase-voor-derde-jaar-op-rij-met-inter.html",
+    "url": "/voetbal/6298770/de-vrij-wint-italiaanse-supercup-dankzij-late-goal-voor-derde-jaar-op-rij-met-inter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298753/stroomstoring-legt-treinverkeer-rond-utrecht-plat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298752,
-    "slug": "britten-testen-laserwapen-dragonfire-hierom-is-het-veelbelovend",
-    "type": "video",
-    "title": "Britten testen laserwapen DragonFire: hierom is het veelbelovend",
-    "subtitle": "Explainer",
-    "published_at": "2024-01-22T17:50:05+01:00",
-    "updated_at": "2024-01-22T18:21:42+01:00",
-    "media_id": "c58xi36aa8kg",
-    "duration": "2:04",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6298752/britten-testen-laserwapen-dragonfire-hierom-is-het-veelbelovend.html",
     "open_new_window": false,
     "partner": null
   }
