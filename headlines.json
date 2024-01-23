@@ -1,5 +1,51 @@
 [
   {
+    "id": 6298802,
+    "slug": "vierdelige-docuserie-over-amerikaanse-band-bon-jovi-vanaf-april-te-zien",
+    "type": "article",
+    "title": "Vierdelige docuserie over Amerikaanse band Bon Jovi vanaf april te zien",
+    "subtitle": null,
+    "published_at": "2024-01-23T10:25:28+01:00",
+    "updated_at": "2024-01-23T10:25:29+01:00",
+    "media_id": "l46xhs7auauy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6298802/vierdelige-docuserie-over-amerikaanse-band-bon-jovi-vanaf-april-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298807,
+    "slug": "osasuna-speler-scoort-per-ongeluk-wondergoal-vanaf-de-hoekvlag",
+    "type": "video",
+    "title": "Osasuna-speler scoort per ongeluk wondergoal vanaf de hoekvlag",
+    "subtitle": "Video",
+    "published_at": "2024-01-23T10:23:24+01:00",
+    "updated_at": "2024-01-23T10:23:25+01:00",
+    "media_id": "6xdxhjea5d4o",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298807/osasuna-speler-scoort-per-ongeluk-wondergoal-vanaf-de-hoekvlag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298795,
     "slug": "pokemon-met-pistolen-is-plots-populair-maar-wordt-ook-beschuldigd-van-plagiaat",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6298776/hoe-een-rattenplaag-militairen-teistert-in-loopgraven-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298780,
-    "slug": "laatste-restjes-isha-zorgen-voor-flinke-wind-vooral-aan-de-kust",
-    "type": "article",
-    "title": "'Laatste restjes' Isha zorgen voor flinke wind, vooral aan de kust",
-    "subtitle": "Weerbericht",
-    "published_at": "2024-01-23T05:46:05+01:00",
-    "updated_at": "2024-01-23T06:20:37+01:00",
-    "media_id": "4uhxcteaug2d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6298780/laatste-restjes-isha-zorgen-voor-flinke-wind-vooral-aan-de-kust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298779,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2024-01-23T05:17:31+01:00",
-    "updated_at": "2024-01-23T05:17:32+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6298779/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
