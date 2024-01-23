@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298894,
+    "slug": "alligators-in-winterslaap-steken-neus-door-bevroren-water",
+    "type": "video",
+    "title": "Alligators in 'winterslaap' steken neus door bevroren water",
+    "subtitle": "Video",
+    "published_at": "2024-01-23T23:04:21+01:00",
+    "updated_at": "2024-01-23T23:04:22+01:00",
+    "media_id": "p2exmlwaguo7",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298894/alligators-in-winterslaap-steken-neus-door-bevroren-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298892,
+    "slug": "chelsea-bereikt-finale-league-cup-dankzij-galavoorstelling-tegen-middlesbrough",
+    "type": "article",
+    "title": "Chelsea bereikt finale League Cup dankzij galavoorstelling tegen Middlesbrough",
+    "subtitle": null,
+    "published_at": "2024-01-23T22:54:50+01:00",
+    "updated_at": "2024-01-23T23:11:46+01:00",
+    "media_id": "40kx5caapazi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298892/chelsea-bereikt-finale-league-cup-dankzij-galavoorstelling-tegen-middlesbrough.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298893,
     "slug": "opnieuw-stroomstoring-in-amsterdam-al-duurde-het-slechts-enkele-minuten",
     "type": "article",
     "title": "Opnieuw stroomstoring in Amsterdam, al duurde het slechts enkele minuten",
     "subtitle": null,
     "published_at": "2024-01-23T22:38:20+01:00",
-    "updated_at": "2024-01-23T22:45:21+01:00",
+    "updated_at": "2024-01-23T23:13:29+01:00",
     "media_id": "z7bxnkcab8d5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6298876/handballers-sluiten-ek-af-met-zwaarbevochten-gelijkspel-tegen-portugal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298875,
-    "slug": "deze-wolken-kunnen-de-opwarming-van-de-aarde-tegengaan",
-    "type": "video",
-    "title": "Deze wolken kunnen de opwarming van de aarde tegengaan",
-    "subtitle": "Video",
-    "published_at": "2024-01-23T17:28:29+01:00",
-    "updated_at": "2024-01-23T17:28:29+01:00",
-    "media_id": "cavxvsba74b0",
-    "duration": "12:59",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298875/deze-wolken-kunnen-de-opwarming-van-de-aarde-tegengaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298866,
-    "slug": "heb-jij-last-van-het-medicijntekort",
-    "type": "article",
-    "title": "Heb jij last van het medicijntekort?",
-    "subtitle": "Oproep",
-    "published_at": "2024-01-23T17:18:24+01:00",
-    "updated_at": "2024-01-23T17:18:25+01:00",
-    "media_id": "699xa47ag6fj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298866/heb-jij-last-van-het-medicijntekort.html",
     "open_new_window": false,
     "partner": null
   }
