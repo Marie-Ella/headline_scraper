@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298782,
+    "slug": "billy-joel-komt-na-zeventien-jaar-met-nieuwe-single",
+    "type": "article",
+    "title": "Billy Joel komt na zeventien jaar met nieuwe single",
+    "subtitle": null,
+    "published_at": "2024-01-23T06:43:28+01:00",
+    "updated_at": "2024-01-23T06:49:05+01:00",
+    "media_id": "hxoxyzuazwq1",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6298782/billy-joel-komt-na-zeventien-jaar-met-nieuwe-single.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298781,
+    "slug": "rechter-doet-vandaag-uitspraak-in-kort-geding-over-overvol-ter-apel",
+    "type": "article",
+    "title": "Rechter doet vandaag uitspraak in kort geding over overvol Ter Apel",
+    "subtitle": null,
+    "published_at": "2024-01-23T06:34:51+01:00",
+    "updated_at": "2024-01-23T06:41:37+01:00",
+    "media_id": "2psxhgnai78i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779109,
+      "slug": "asielcrisis",
+      "type": "default",
+      "name": "Asielcrisis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/asielcrisis/6298781/rechter-doet-vandaag-uitspraak-in-kort-geding-over-overvol-ter-apel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298776,
-    "slug": "hoe-ratten-in-loopgraven-problemen-veroorzaken-voor-soldaten-in-oekraine",
+    "slug": "hoe-een-rattenplaag-militairen-teistert-in-loopgraven-oekraine",
     "type": "video",
-    "title": "Hoe ratten in loopgraven problemen veroorzaken voor soldaten in Oekraïne",
+    "title": "Hoe een rattenplaag militairen teistert in loopgraven Oekraïne",
     "subtitle": "Explainer",
     "published_at": "2024-01-23T06:08:02+01:00",
-    "updated_at": "2024-01-23T06:08:03+01:00",
+    "updated_at": "2024-01-23T06:49:29+01:00",
     "media_id": "rhtxrj7aqvb3",
     "duration": "1:40",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6298776/hoe-ratten-in-loopgraven-problemen-veroorzaken-voor-soldaten-in-oekraine.html",
+    "url": "/spanningen-oekraine/6298776/hoe-een-rattenplaag-militairen-teistert-in-loopgraven-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +236,7 @@
     "title": "Amerikanen en Britten voeren opnieuw aanvallen uit op Jemen",
     "subtitle": null,
     "published_at": "2024-01-23T00:17:57+01:00",
-    "updated_at": "2024-01-23T00:23:51+01:00",
+    "updated_at": "2024-01-23T06:37:33+01:00",
     "media_id": "7zlxad3ag2fu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6298763/ecuador-claimt-een-van-grootste-drugsvangsten-ooit-22-ton-cocaine-onderschept.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298766,
-    "slug": "italiaans-topscorer-aller-tijden-luigi-riva-op-79-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Italiaans topscorer aller tijden Luigi Riva op 79-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2024-01-22T20:22:07+01:00",
-    "updated_at": "2024-01-22T21:29:34+01:00",
-    "media_id": "bfixs2ja4d2s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298766/italiaans-topscorer-aller-tijden-luigi-riva-op-79-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298765,
-    "slug": "vrouwelijke-radiomakers-komen-met-eigen-prijs-als-tegenhanger-radioring",
-    "type": "article",
-    "title": "Vrouwelijke radiomakers komen met eigen prijs als tegenhanger RadioRing",
-    "subtitle": null,
-    "published_at": "2024-01-22T20:21:53+01:00",
-    "updated_at": "2024-01-22T20:54:42+01:00",
-    "media_id": "t4qxvmcapgf5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6298765/vrouwelijke-radiomakers-komen-met-eigen-prijs-als-tegenhanger-radioring.html",
     "open_new_window": false,
     "partner": null
   }
