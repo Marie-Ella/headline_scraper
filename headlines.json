@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298893,
+    "slug": "opnieuw-stroomstoring-in-amsterdam-al-duurde-het-slechts-enkele-minuten",
+    "type": "article",
+    "title": "Opnieuw stroomstoring in Amsterdam, al duurde het slechts enkele minuten",
+    "subtitle": null,
+    "published_at": "2024-01-23T22:38:20+01:00",
+    "updated_at": "2024-01-23T22:45:21+01:00",
+    "media_id": "z7bxnkcab8d5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298893/opnieuw-stroomstoring-in-amsterdam-al-duurde-het-slechts-enkele-minuten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298891,
     "slug": "ravage-op-a20-na-ongeval-met-meerdere-voertuigen",
     "type": "video",
     "title": "Ravage op A20 na ongeval met meerdere voertuigen",
     "subtitle": "Video",
     "published_at": "2024-01-23T22:25:13+01:00",
-    "updated_at": "2024-01-23T22:25:14+01:00",
+    "updated_at": "2024-01-23T22:29:39+01:00",
     "media_id": "ar3xxn6appvj",
     "duration": "0:33",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298866/heb-jij-last-van-het-medicijntekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298868,
-    "slug": "nabestaanden-wenden-hoofd-af-bij-vertoning-beelden-peter-r-de-vries",
-    "type": "article",
-    "title": "Nabestaanden wenden hoofd af bij vertoning beelden Peter R. de Vries",
-    "subtitle": null,
-    "published_at": "2024-01-23T17:16:01+01:00",
-    "updated_at": "2024-01-23T19:24:37+01:00",
-    "media_id": "pcex7qpa68fq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778818,
-      "slug": "peter-r-de-vries",
-      "type": "default",
-      "name": "Peter R. de Vries",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/peter-r-de-vries/6298868/nabestaanden-wenden-hoofd-af-bij-vertoning-beelden-peter-r-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
