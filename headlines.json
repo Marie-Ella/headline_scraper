@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298891,
+    "slug": "ravage-op-a20-na-ongeval-met-meerdere-voertuigen",
+    "type": "video",
+    "title": "Ravage op A20 na ongeval met meerdere voertuigen",
+    "subtitle": "Video",
+    "published_at": "2024-01-23T22:25:13+01:00",
+    "updated_at": "2024-01-23T22:25:14+01:00",
+    "media_id": "ar3xxn6appvj",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298891/ravage-op-a20-na-ongeval-met-meerdere-voertuigen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298890,
-    "slug": "ruim-400-zorgmedewerkers-krijgen-eenmalig-15000-euro-vanwege-langdurige-covid",
+    "slug": "ruim-400-zorgmedewerkers-krijgen-15000-euro-vanwege-langdurige-covid",
     "type": "article",
-    "title": "Ruim 400 zorgmedewerkers krijgen eenmalig 15.000 euro vanwege langdurige covid",
+    "title": "Ruim 400 zorgmedewerkers krijgen 15.000 euro vanwege langdurige covid",
     "subtitle": null,
     "published_at": "2024-01-23T22:12:09+01:00",
-    "updated_at": "2024-01-23T22:12:12+01:00",
+    "updated_at": "2024-01-23T22:24:26+01:00",
     "media_id": "30ixelcaqkcu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6298890/ruim-400-zorgmedewerkers-krijgen-eenmalig-15000-euro-vanwege-langdurige-covid.html",
+    "url": "/politiek/6298890/ruim-400-zorgmedewerkers-krijgen-15000-euro-vanwege-langdurige-covid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Bakker kan geschiedenis schrijven met Ajax na woelige tijd: 'Er is niks veranderd'",
     "subtitle": null,
     "published_at": "2024-01-23T21:47:32+01:00",
-    "updated_at": "2024-01-23T22:05:16+01:00",
+    "updated_at": "2024-01-23T22:19:15+01:00",
     "media_id": "nmfxwafa524n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/peter-r-de-vries/6298868/nabestaanden-wenden-hoofd-af-bij-vertoning-beelden-peter-r-de-vries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298874,
-    "slug": "reese-witherspoon-gaat-viral-met-eten-van-sneeuw-is-kritiek-terecht",
-    "type": "video",
-    "title": "Reese Witherspoon gaat viral met eten van sneeuw: is kritiek terecht?",
-    "subtitle": "Explainer",
-    "published_at": "2024-01-23T17:14:02+01:00",
-    "updated_at": "2024-01-23T18:14:54+01:00",
-    "media_id": "hkhxaf1a3967",
-    "duration": "1:57",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298874/reese-witherspoon-gaat-viral-met-eten-van-sneeuw-is-kritiek-terecht.html",
     "open_new_window": false,
     "partner": null
   }
