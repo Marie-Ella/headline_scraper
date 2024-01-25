@@ -1,12 +1,104 @@
 [
   {
+    "id": 6299111,
+    "slug": "programma-en-nederlandse-deelnemers-world-cup-schaatsen-in-salt-lake-city",
+    "type": "article",
+    "title": "Programma en Nederlandse deelnemers World Cup schaatsen in Salt Lake City",
+    "subtitle": null,
+    "published_at": "2024-01-25T17:24:17+01:00",
+    "updated_at": "2024-01-25T17:24:18+01:00",
+    "media_id": "7dbx15janjwk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6299111/programma-en-nederlandse-deelnemers-world-cup-schaatsen-in-salt-lake-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299109,
+    "slug": "minstens-2174-slachtoffers-van-seksueel-misbruik-in-duitse-protestantse-kerk",
+    "type": "article",
+    "title": "Minstens 2.174 slachtoffers van seksueel misbruik in Duitse protestantse kerk",
+    "subtitle": null,
+    "published_at": "2024-01-25T17:14:05+01:00",
+    "updated_at": "2024-01-25T17:14:06+01:00",
+    "media_id": "vpaxwvvav2lt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299109/minstens-2174-slachtoffers-van-seksueel-misbruik-in-duitse-protestantse-kerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299108,
+    "slug": "politie-arresteert-nederlandse-crimineel-in-spaanse-woning",
+    "type": "video",
+    "title": "Politie arresteert Nederlandse crimineel in Spaanse woning",
+    "subtitle": "Video",
+    "published_at": "2024-01-25T16:51:16+01:00",
+    "updated_at": "2024-01-25T17:12:55+01:00",
+    "media_id": "lc0x9spab3zw",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299108/politie-arresteert-nederlandse-crimineel-in-spaanse-woning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299104,
+    "slug": "union-berlin-trainer-drie-duels-geschorst-en-beboet-voor-duw-in-gezicht-sane",
+    "type": "article",
+    "title": "Union Berlin-trainer drie duels geschorst en beboet voor duw in gezicht Sané",
+    "subtitle": null,
+    "published_at": "2024-01-25T16:49:03+01:00",
+    "updated_at": "2024-01-25T16:49:04+01:00",
+    "media_id": "9ivxld0a3x9o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299104/union-berlin-trainer-drie-duels-geschorst-en-beboet-voor-duw-in-gezicht-sane.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299106,
     "slug": "ca-stopt-met-verkoop-van-kleding-via-amazon-wehkamp-en-zalando",
     "type": "article",
     "title": "C&A stopt met verkoop van kleding via Amazon, Wehkamp en Zalando",
     "subtitle": null,
     "published_at": "2024-01-25T16:48:23+01:00",
-    "updated_at": "2024-01-25T16:48:24+01:00",
+    "updated_at": "2024-01-25T17:18:26+01:00",
     "media_id": "ua1xokhawyvd",
     "duration": null,
     "canonical_section": {
@@ -24,12 +116,12 @@
   },
   {
     "id": 6299102,
-    "slug": "ierse-stormen-veroorzaken-sneeuwbui-van-zeeschuim",
+    "slug": "vlokken-zeeschuim-dwarrelen-langs-ierse-kliffen",
     "type": "video",
-    "title": "Ierse stormen veroorzaken 'sneeuwbui' van zeeschuim",
+    "title": "Vlokken zeeschuim dwarrelen langs Ierse kliffen",
     "subtitle": "Video",
     "published_at": "2024-01-25T16:21:55+01:00",
-    "updated_at": "2024-01-25T16:23:13+01:00",
+    "updated_at": "2024-01-25T16:51:16+01:00",
     "media_id": "2m1xpu1artcn",
     "duration": "0:28",
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6299102/ierse-stormen-veroorzaken-sneeuwbui-van-zeeschuim.html",
+    "url": "/videos/6299102/vlokken-zeeschuim-dwarrelen-langs-ierse-kliffen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +420,7 @@
     "title": "Oud-preses Spaanse bond Rubiales moet vrezen voor celstraf na omstreden kus",
     "subtitle": null,
     "published_at": "2024-01-25T14:23:48+01:00",
-    "updated_at": "2024-01-25T14:47:04+01:00",
+    "updated_at": "2024-01-25T17:23:04+01:00",
     "media_id": "xxyxt6iax2c2",
     "duration": null,
     "canonical_section": {
@@ -351,7 +443,7 @@
     "title": "Rijksrecherche doet oriënterend onderzoek naar omkopingskwestie Khalid Kasem",
     "subtitle": null,
     "published_at": "2024-01-25T14:20:34+01:00",
-    "updated_at": "2024-01-25T15:03:18+01:00",
+    "updated_at": "2024-01-25T17:19:06+01:00",
     "media_id": "gyhxb4da553f",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/media/6299084/rijksrecherche-doet-orienterend-onderzoek-naar-omkopingskwestie-khalid-kasem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299085,
-    "slug": "rusland-verwacht-20-procent-meer-gasexport-dit-jaar-vooral-naar-china",
-    "type": "article",
-    "title": "Rusland verwacht 20 procent meer gasexport dit jaar, vooral naar China",
-    "subtitle": null,
-    "published_at": "2024-01-25T14:07:02+01:00",
-    "updated_at": "2024-01-25T14:07:03+01:00",
-    "media_id": "iitxjhfahvi6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299085/rusland-verwacht-20-procent-meer-gasexport-dit-jaar-vooral-naar-china.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299086,
-    "slug": "grote-golven-slaan-deuren-amerikaanse-militaire-basis-kapot",
-    "type": "video",
-    "title": "Grote golven slaan deuren Amerikaanse militaire basis kapot",
-    "subtitle": "Video",
-    "published_at": "2024-01-25T14:06:41+01:00",
-    "updated_at": "2024-01-25T14:06:41+01:00",
-    "media_id": "wt9xsabay0v5",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299086/grote-golven-slaan-deuren-amerikaanse-militaire-basis-kapot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299041,
-    "slug": "sofia-vergara-moest-nepcocaine-snuiven-voor-griselda-het-was-het-waard",
-    "type": "article",
-    "title": "Sofia Vergara moest nepcocaïne snuiven voor Griselda: 'Het was het waard'",
-    "subtitle": "NU+",
-    "published_at": "2024-01-25T13:37:08+01:00",
-    "updated_at": "2024-01-25T16:47:23+01:00",
-    "media_id": "leoxk13a5fwv",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6299041/sofia-vergara-moest-nepcocaine-snuiven-voor-griselda-het-was-het-waard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299082,
-    "slug": "shevchenko-wint-geruchtmakende-verkiezing-voor-oekraiense-bondsvoorzitter",
-    "type": "article",
-    "title": "Shevchenko wint geruchtmakende verkiezing voor Oekraïense bondsvoorzitter",
-    "subtitle": null,
-    "published_at": "2024-01-25T13:26:11+01:00",
-    "updated_at": "2024-01-25T13:26:12+01:00",
-    "media_id": "gzhxm83arlll",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299082/shevchenko-wint-geruchtmakende-verkiezing-voor-oekraiense-bondsvoorzitter.html",
     "open_new_window": false,
     "partner": null
   }
