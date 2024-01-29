@@ -1,5 +1,51 @@
 [
   {
+    "id": 6299480,
+    "slug": "overwegend-zonnige-en-zachte-maandag-kent-frisse-start",
+    "type": "article",
+    "title": "Overwegend zonnige en zachte maandag kent frisse start",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-29T06:14:13+01:00",
+    "updated_at": "2024-01-29T06:14:14+01:00",
+    "media_id": "0uaxd41awahf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6299480/overwegend-zonnige-en-zachte-maandag-kent-frisse-start.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299479,
+    "slug": "kinderen-in-groep-8-beginnen-aan-eerste-doorstroomtoets-voor-schooladvies",
+    "type": "article",
+    "title": "Kinderen in groep 8 beginnen aan eerste doorstroomtoets voor schooladvies",
+    "subtitle": null,
+    "published_at": "2024-01-29T05:51:00+01:00",
+    "updated_at": "2024-01-29T06:00:21+01:00",
+    "media_id": "2max7u6a4v9c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6299479/kinderen-in-groep-8-beginnen-aan-eerste-doorstroomtoets-voor-schooladvies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299478,
     "slug": "rechtbank-hongkong-beveelt-liquidatie-wankele-vastgoedgigant-china-evergrande",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Grote verkeershinder verwacht in België door honderden protesterende boeren",
     "subtitle": null,
     "published_at": "2024-01-29T05:32:51+01:00",
-    "updated_at": "2024-01-29T05:32:52+01:00",
+    "updated_at": "2024-01-29T06:16:51+01:00",
     "media_id": "ohlxdababwfl",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6299467/ten-hag-vreesde-geen-moment-voor-bekerblamage-we-dicteerden-de-wedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299466,
-    "slug": "tankwagen-rijdt-van-viaduct-in-vs-en-explodeert",
-    "type": "video",
-    "title": "Tankwagen rijdt van viaduct in VS en explodeert",
-    "subtitle": "Video",
-    "published_at": "2024-01-28T22:21:16+01:00",
-    "updated_at": "2024-01-28T22:26:02+01:00",
-    "media_id": "clyxfdga1f9e",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299466/tankwagen-rijdt-van-viaduct-in-vs-en-explodeert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299465,
-    "slug": "frankrijk-zet-15000-agenten-in-om-blokkade-parijs-te-voorkomen",
-    "type": "article",
-    "title": "Frankrijk zet 15.000 agenten in om blokkade Parijs te voorkomen",
-    "subtitle": null,
-    "published_at": "2024-01-28T21:57:02+01:00",
-    "updated_at": "2024-01-28T23:33:33+01:00",
-    "media_id": "q7ux4wbaxppg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299465/frankrijk-zet-15000-agenten-in-om-blokkade-parijs-te-voorkomen.html",
     "open_new_window": false,
     "partner": null
   }
