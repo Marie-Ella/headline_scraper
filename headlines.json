@@ -1,5 +1,51 @@
 [
   {
+    "id": 6299685,
+    "slug": "locoburgemeester-rotterdam-na-explosie-alsof-raket-is-ingeslagen",
+    "type": "video",
+    "title": "Locoburgemeester Rotterdam na explosie: 'Alsof raket is ingeslagen'",
+    "subtitle": "Video",
+    "published_at": "2024-01-30T19:16:56+01:00",
+    "updated_at": "2024-01-30T19:16:58+01:00",
+    "media_id": "s5rxy6pa3h0n",
+    "duration": "2:06",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299685/locoburgemeester-rotterdam-na-explosie-alsof-raket-is-ingeslagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299683,
+    "slug": "spaans-parlement-stemt-amnestiewet-separatisten-weg-coalitie-sanchez-onzeker",
+    "type": "article",
+    "title": "Spaans parlement stemt amnestiewet separatisten weg, coalitie Sanchéz onzeker",
+    "subtitle": null,
+    "published_at": "2024-01-30T18:54:42+01:00",
+    "updated_at": "2024-01-30T19:04:59+01:00",
+    "media_id": "hqwx6v0ane6y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299683/spaans-parlement-stemt-amnestiewet-separatisten-weg-coalitie-sanchez-onzeker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299681,
     "slug": "taakstraf-van-240-uur-voor-protestactie-die-dodelijk-ongeval-veroorzaakte-op-a28",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Zoeken naar vermisten in verwoest Rotterdams pand voorlopig onmogelijk",
     "subtitle": null,
     "published_at": "2024-01-30T17:49:02+01:00",
-    "updated_at": "2024-01-30T18:20:28+01:00",
+    "updated_at": "2024-01-30T19:19:51+01:00",
     "media_id": "9x9xx05axozg",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "'Godmother van Amsterdam' aangehouden in groot onderzoek naar cokehandel",
     "subtitle": null,
     "published_at": "2024-01-30T16:44:53+01:00",
-    "updated_at": "2024-01-30T17:59:09+01:00",
+    "updated_at": "2024-01-30T19:07:35+01:00",
     "media_id": "16rxbboav1ly",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299641/colombiaanse-politie-arresteert-vrouw-met-130-giftige-kikkers-in-bagage.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299652,
-    "slug": "on-wilde-dat-blommestijn-zich-bij-feiten-hield-je-bent-gezicht-van-omroep",
-    "type": "article",
-    "title": "ON! wilde dat Blommestijn zich bij feiten hield: 'Je bent gezicht van omroep'",
-    "subtitle": null,
-    "published_at": "2024-01-30T15:04:55+01:00",
-    "updated_at": "2024-01-30T15:04:56+01:00",
-    "media_id": "1zvxqt5amusg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6299652/on-wilde-dat-blommestijn-zich-bij-feiten-hield-je-bent-gezicht-van-omroep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299654,
-    "slug": "man-ontsnapt-ternauwernood-aan-brandend-puin-in-rotterdam",
-    "type": "video",
-    "title": "Man ontsnapt ternauwernood aan brandend puin in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2024-01-30T14:53:44+01:00",
-    "updated_at": "2024-01-30T14:53:45+01:00",
-    "media_id": "51nx350an22r",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299654/man-ontsnapt-ternauwernood-aan-brandend-puin-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
