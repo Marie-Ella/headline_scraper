@@ -1,5 +1,74 @@
 [
   {
+    "id": 6299587,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-30T05:10:06+01:00",
+    "updated_at": "2024-01-30T05:10:07+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6299587/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299518,
+    "slug": "als-ouder-uitgeslapen-de-tropenjaren-doorkomen-kan-dat",
+    "type": "article",
+    "title": "Als ouder uitgeslapen de tropenjaren doorkomen, kan dat?",
+    "subtitle": "NU+",
+    "published_at": "2024-01-30T05:06:02+01:00",
+    "updated_at": "2024-01-30T05:06:03+01:00",
+    "media_id": "3u4xdh3a9iwo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6299518/als-ouder-uitgeslapen-de-tropenjaren-doorkomen-kan-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299578,
+    "slug": "wie-zijn-de-negen-verdachten-in-de-zaak-rond-moord-peter-r-de-vries",
+    "type": "article",
+    "title": "Wie zijn de negen verdachten in de zaak rond moord Peter R. de Vries?",
+    "subtitle": null,
+    "published_at": "2024-01-30T05:04:47+01:00",
+    "updated_at": "2024-01-30T05:04:48+01:00",
+    "media_id": "bjpx9hmazdi2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779354,
+      "slug": "misdaad",
+      "type": "default",
+      "name": "Misdaad",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/misdaad/6299578/wie-zijn-de-negen-verdachten-in-de-zaak-rond-moord-peter-r-de-vries.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299586,
     "slug": "600-miljoen-euro-extra-voor-asielopvang-is-dit-jaar-misschien-niet-genoeg",
     "type": "article",
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/media/6299570/geemotioneerde-sophie-hilbrand-reageert-op-afwezigheid-khalid-kasem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299571,
-    "slug": "taylor-swift-kust-haar-vriend-travis-kelce-na-bereiken-van-super-bowl",
-    "type": "video",
-    "title": "Taylor Swift kust haar vriend Travis Kelce na bereiken van Super Bowl",
-    "subtitle": "Video",
-    "published_at": "2024-01-29T19:44:49+01:00",
-    "updated_at": "2024-01-29T20:10:15+01:00",
-    "media_id": "6v4xdkyaqntz",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299571/taylor-swift-kust-haar-vriend-travis-kelce-na-bereiken-van-super-bowl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299569,
-    "slug": "prins-harry-overweegt-verdere-juridische-stappen-tegen-mirror-uitgever",
-    "type": "article",
-    "title": "Prins Harry overweegt verdere juridische stappen tegen Mirror-uitgever",
-    "subtitle": null,
-    "published_at": "2024-01-29T19:37:57+01:00",
-    "updated_at": "2024-01-29T20:12:10+01:00",
-    "media_id": "10jx9b3ad6yb",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6299569/prins-harry-overweegt-verdere-juridische-stappen-tegen-mirror-uitgever.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299568,
-    "slug": "vijf-jaar-cel-voor-man-die-belastingaangiften-trump-en-andere-rijken-lekte",
-    "type": "article",
-    "title": "Vijf jaar cel voor man die belastingaangiften Trump en andere rijken lekte",
-    "subtitle": null,
-    "published_at": "2024-01-29T19:26:32+01:00",
-    "updated_at": "2024-01-29T19:26:33+01:00",
-    "media_id": "lm1x0v6a7h9w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299568/vijf-jaar-cel-voor-man-die-belastingaangiften-trump-en-andere-rijken-lekte.html",
     "open_new_window": false,
     "partner": null
   }
