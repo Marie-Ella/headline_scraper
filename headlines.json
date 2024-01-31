@@ -1,5 +1,51 @@
 [
   {
+    "id": 6299813,
+    "slug": "bekijk-de-staredown-van-verhoeven-met-zijn-komende-tegenstander-laidouni",
+    "type": "video",
+    "title": "Bekijk de staredown van Verhoeven met zijn komende tegenstander Laidouni",
+    "subtitle": "Video",
+    "published_at": "2024-01-31T18:20:08+01:00",
+    "updated_at": "2024-01-31T18:20:09+01:00",
+    "media_id": "ybbx1obacilz",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299813/bekijk-de-staredown-van-verhoeven-met-zijn-komende-tegenstander-laidouni.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299809,
+    "slug": "az-laat-meerdink-ervaring-opdoen-bij-vitesse-manhoef-op-radar-bij-psv",
+    "type": "article",
+    "title": "AZ laat Meerdink ervaring opdoen bij Vitesse, Manhoef op radar bij PSV",
+    "subtitle": null,
+    "published_at": "2024-01-31T18:19:41+01:00",
+    "updated_at": "2024-01-31T18:19:43+01:00",
+    "media_id": "fwkxzlxa4hx9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299809/az-laat-meerdink-ervaring-opdoen-bij-vitesse-manhoef-op-radar-bij-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299807,
     "slug": "aandeelhouders-klagen-boeing-aan-wegens-misleidende-beloftes-over-veiligheid",
     "type": "article",
@@ -139,12 +185,12 @@
   },
   {
     "id": 6299794,
-    "slug": "halen-we-straks-groene-energie-uit-waddenzee-kan-goede-aanvulling-zijn",
+    "slug": "de-zee-doet-haar-werk-groene-stroom-uit-waddenzee-biedt-kansen",
     "type": "article",
-    "title": "Halen we straks groene energie uit Waddenzee? 'Kan goede aanvulling zijn'",
+    "title": "De zee doet haar werk: groene stroom uit Waddenzee biedt kansen",
     "subtitle": null,
     "published_at": "2024-01-31T17:02:00+01:00",
-    "updated_at": "2024-01-31T18:12:01+01:00",
+    "updated_at": "2024-01-31T18:21:47+01:00",
     "media_id": "pkkxmhza2ul2",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6299794/halen-we-straks-groene-energie-uit-waddenzee-kan-goede-aanvulling-zijn.html",
+    "url": "/klimaat/6299794/de-zee-doet-haar-werk-groene-stroom-uit-waddenzee-biedt-kansen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6299787/moeder-krijgt-145-jaar-cel-wegens-betrokkenheid-bij-seksueel-misbruik-dochters.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299785,
-    "slug": "eu-komt-demonstrerende-boeren-tegemoet-met-aanpak-import-vanuit-oekraine",
-    "type": "article",
-    "title": "EU komt demonstrerende boeren tegemoet met aanpak import vanuit Oekraïne",
-    "subtitle": null,
-    "published_at": "2024-01-31T15:01:11+01:00",
-    "updated_at": "2024-01-31T15:01:12+01:00",
-    "media_id": "15cx2djazd34",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299785/eu-komt-demonstrerende-boeren-tegemoet-met-aanpak-import-vanuit-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299788,
-    "slug": "politie-start-sloopwerkzaamheden-voor-zoektocht-vermisten-rotterdams-pand",
-    "type": "article",
-    "title": "Politie start sloopwerkzaamheden voor zoektocht vermisten Rotterdams pand",
-    "subtitle": null,
-    "published_at": "2024-01-31T14:50:00+01:00",
-    "updated_at": "2024-01-31T17:44:19+01:00",
-    "media_id": "n25xtj9ans88",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6299788/politie-start-sloopwerkzaamheden-voor-zoektocht-vermisten-rotterdams-pand.html",
     "open_new_window": false,
     "partner": null
   }
