@@ -1,12 +1,58 @@
 [
   {
+    "id": 6299779,
+    "slug": "schaatser-christian-haasjes-verslaat-broer-en-wint-alternatieve-elfstedentocht",
+    "type": "article",
+    "title": "Schaatser Christian Haasjes verslaat broer en wint Alternatieve Elfstedentocht",
+    "subtitle": null,
+    "published_at": "2024-01-31T14:25:37+01:00",
+    "updated_at": "2024-01-31T14:25:38+01:00",
+    "media_id": "74wxo4oafqxv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6299779/schaatser-christian-haasjes-verslaat-broer-en-wint-alternatieve-elfstedentocht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299777,
+    "slug": "vijfvoudig-oranje-international-maher-verkast-van-saoedi-arabie-naar-qatar",
+    "type": "article",
+    "title": "Vijfvoudig Oranje-international Maher verkast van Saoedi-Arabië naar Qatar",
+    "subtitle": null,
+    "published_at": "2024-01-31T14:22:03+01:00",
+    "updated_at": "2024-01-31T14:23:20+01:00",
+    "media_id": "oqfxzxna2yqj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299777/vijfvoudig-oranje-international-maher-verkast-van-saoedi-arabie-naar-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299778,
     "slug": "om-eist-levenslange-straffen-voor-ontwrichtende-moord-op-peter-r-de-vries",
     "type": "video",
     "title": "OM eist levenslange straffen voor 'ontwrichtende' moord op Peter R. de Vries",
     "subtitle": "Video",
     "published_at": "2024-01-31T14:11:59+01:00",
-    "updated_at": "2024-01-31T14:12:00+01:00",
+    "updated_at": "2024-01-31T14:20:07+01:00",
     "media_id": "8xlx25aaq7au",
     "duration": "1:40",
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Ook Nederlanders in buitenland moeten langer wachten door paspoortpiek",
     "subtitle": null,
     "published_at": "2024-01-31T14:10:01+01:00",
-    "updated_at": "2024-01-31T14:10:02+01:00",
+    "updated_at": "2024-01-31T14:25:38+01:00",
     "media_id": "hkvx9lyalkt7",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Familieleden van vermiste vinden lichaamsdeel in uitgebrand Rotterdams pand",
     "subtitle": null,
     "published_at": "2024-01-31T13:18:58+01:00",
-    "updated_at": "2024-01-31T14:10:30+01:00",
+    "updated_at": "2024-01-31T14:26:36+01:00",
     "media_id": "f3dxv8haebex",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299676/boerenprotesten-in-onze-buurlanden-dit-is-het-moment-voor-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299756,
-    "slug": "beloning-van-25000-euro-voor-gouden-tips-over-bretly-d-uitgekeerd",
-    "type": "article",
-    "title": "Beloning van 25.000 euro voor gouden tips over Bretly D. uitgekeerd",
-    "subtitle": null,
-    "published_at": "2024-01-31T11:59:32+01:00",
-    "updated_at": "2024-01-31T12:37:45+01:00",
-    "media_id": "hpmx9oba5mqx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6299756/beloning-van-25000-euro-voor-gouden-tips-over-bretly-d-uitgekeerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299694,
-    "slug": "om-eist-driemaal-levenslang-voor-ongekende-moord-op-peter-r-de-vries",
-    "type": "article",
-    "title": "OM eist driemaal levenslang voor 'ongekende' moord op Peter R. de Vries",
-    "subtitle": null,
-    "published_at": "2024-01-31T11:37:51+01:00",
-    "updated_at": "2024-01-31T14:12:50+01:00",
-    "media_id": "jslx46rap6zj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778818,
-      "slug": "peter-r-de-vries",
-      "type": "default",
-      "name": "Peter R. de Vries",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/peter-r-de-vries/6299694/om-eist-driemaal-levenslang-voor-ongekende-moord-op-peter-r-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
