@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299966,
+    "slug": "bnnvara-omroep-kreeg-ernstige-meldingen-over-van-nieuwkerk",
+    "type": "article",
+    "title": "BNNVARA: omroep kreeg ernstige meldingen over Van Nieuwkerk",
+    "subtitle": null,
+    "published_at": "2024-02-01T21:27:01+01:00",
+    "updated_at": "2024-02-01T21:27:02+01:00",
+    "media_id": "p36xqbxa84w9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6299966/bnnvara-omroep-kreeg-ernstige-meldingen-over-van-nieuwkerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299965,
     "slug": "plasterk-voelt-tijdsdruk-rond-formatie-extra-inspanning-nodig",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6299962,
-    "slug": "hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven",
+    "slug": "lewis-hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven",
     "type": "article",
-    "title": "Hamilton noemt vertrek bij Mercedes zwaarste besluit van zijn leven",
+    "title": "Lewis Hamilton noemt vertrek bij Mercedes zwaarste besluit van zijn leven",
     "subtitle": null,
     "published_at": "2024-02-01T20:33:50+01:00",
-    "updated_at": "2024-02-01T21:10:00+01:00",
+    "updated_at": "2024-02-01T21:28:08+01:00",
     "media_id": "5egx2zqac4uk",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6299962/hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven.html",
+    "url": "/formule-1/6299962/lewis-hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Zevenvoudig F1-kampioen Lewis Hamilton verruilt Mercedes in 2025 voor Ferrari",
     "subtitle": null,
     "published_at": "2024-02-01T20:03:49+01:00",
-    "updated_at": "2024-02-01T20:39:52+01:00",
+    "updated_at": "2024-02-01T21:23:54+01:00",
     "media_id": "ng4x7s0aw9x8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299945/zware-ongelukken-door-belgische-boerenblokkades-rutte-praat-met-boeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299948,
-    "slug": "problemen-in-noorwegen-door-storm-ingunn-ziekenhuis-beschadigd",
-    "type": "article",
-    "title": "Problemen in Noorwegen door storm Ingunn, ziekenhuis beschadigd",
-    "subtitle": null,
-    "published_at": "2024-02-01T17:45:39+01:00",
-    "updated_at": "2024-02-01T17:45:51+01:00",
-    "media_id": "t6ux1axagpah",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299948/problemen-in-noorwegen-door-storm-ingunn-ziekenhuis-beschadigd.html",
     "open_new_window": false,
     "partner": null
   }
