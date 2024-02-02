@@ -1,12 +1,104 @@
 [
   {
+    "id": 6299811,
+    "slug": "van-der-poel-terug-in-bijzonder-tabor-eerste-keer-is-altijd-de-mooiste",
+    "type": "article",
+    "title": "Van der Poel terug in bijzonder Tábor: 'Eerste keer is altijd de mooiste'",
+    "subtitle": "NU+",
+    "published_at": "2024-02-02T17:19:23+01:00",
+    "updated_at": "2024-02-02T17:19:24+01:00",
+    "media_id": "ywsx197aibhp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6299811/van-der-poel-terug-in-bijzonder-tabor-eerste-keer-is-altijd-de-mooiste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300080,
+    "slug": "enschede-hoeft-privacyboete-van-600000-euro-toch-niet-te-betalen",
+    "type": "article",
+    "title": "Enschede hoeft privacyboete van 600.000 euro toch niet te betalen",
+    "subtitle": null,
+    "published_at": "2024-02-02T17:08:54+01:00",
+    "updated_at": "2024-02-02T17:08:55+01:00",
+    "media_id": "2tix2z5abb5g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6300080/enschede-hoeft-privacyboete-van-600000-euro-toch-niet-te-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300079,
+    "slug": "timberlake-en-spears-halen-naar-elkaar-uit-ga-je-weer-bij-je-moeder-huilen",
+    "type": "article",
+    "title": "Timberlake en Spears halen naar elkaar uit: 'Ga je weer bij je moeder huilen?'",
+    "subtitle": null,
+    "published_at": "2024-02-02T17:05:07+01:00",
+    "updated_at": "2024-02-02T17:11:09+01:00",
+    "media_id": "snqx9ioah177",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6300079/timberlake-en-spears-halen-naar-elkaar-uit-ga-je-weer-bij-je-moeder-huilen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300053,
+    "slug": "nederlands-ruimte-instrument-gaat-grootste-klimaatraadsel-bestuderen",
+    "type": "article",
+    "title": "Nederlands ruimte-instrument gaat grootste klimaatraadsel bestuderen",
+    "subtitle": null,
+    "published_at": "2024-02-02T17:00:25+01:00",
+    "updated_at": "2024-02-02T17:00:26+01:00",
+    "media_id": "mdjxuwxa093h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6300053/nederlands-ruimte-instrument-gaat-grootste-klimaatraadsel-bestuderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300006,
     "slug": "alles-wijst-erop-dat-ook-derde-vermiste-onder-puin-verwoest-rotterdams-pand-is-gevonden",
     "type": "article",
     "title": "Alles wijst erop dat ook derde vermiste onder puin verwoest Rotterdams pand is gevonden",
     "subtitle": null,
     "published_at": "2024-02-02T16:44:05+01:00",
-    "updated_at": "2024-02-02T16:48:28+01:00",
+    "updated_at": "2024-02-02T17:08:29+01:00",
     "media_id": "s3wxra7ald7v",
     "duration": null,
     "canonical_section": {
@@ -46,29 +138,6 @@
     "partner": null
   },
   {
-    "id": 6300076,
-    "slug": "volg-hier-de-persconferentie-over-de-fatale-explosie-in-rotterdam-zuidwijk",
-    "type": "video",
-    "title": "Volg hier de persconferentie over  de fatale explosie in Rotterdam-Zuidwijk",
-    "subtitle": "Livestream",
-    "published_at": "2024-02-02T16:27:42+01:00",
-    "updated_at": "2024-02-02T16:28:48+01:00",
-    "media_id": "3suxn98akwdc",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300076/volg-hier-de-persconferentie-over-de-fatale-explosie-in-rotterdam-zuidwijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6300077,
     "slug": "vidal-wordt-op-spectaculaire-wijze-gepresenteerd-bij-colo-colo",
     "type": "video",
@@ -98,7 +167,7 @@
     "title": "Griekspoor zet Nederland in Groningen op voorsprong in Davis Cup-kwalificatie",
     "subtitle": null,
     "published_at": "2024-02-02T16:18:16+01:00",
-    "updated_at": "2024-02-02T16:37:32+01:00",
+    "updated_at": "2024-02-02T17:05:06+01:00",
     "media_id": "b21xw9cap0it",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Koers van Meta en Amazon explodeert op Amerikaanse beurs",
     "subtitle": null,
     "published_at": "2024-02-02T16:12:54+01:00",
-    "updated_at": "2024-02-02T16:13:34+01:00",
+    "updated_at": "2024-02-02T16:52:16+01:00",
     "media_id": "5gex6apacam6",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300054/bosz-overwoog-niet-om-transfer-vertessen-te-blokkeren-moest-belofte-nakomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300034,
-    "slug": "recht-op-reparatie-weer-een-stapje-dichterbij-eu-sluit-akkoord",
-    "type": "article",
-    "title": "Recht op reparatie weer een stapje dichterbij: EU sluit akkoord",
-    "subtitle": null,
-    "published_at": "2024-02-02T14:24:21+01:00",
-    "updated_at": "2024-02-02T14:27:04+01:00",
-    "media_id": "9u1xv7jabhj9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300034/recht-op-reparatie-weer-een-stapje-dichterbij-eu-sluit-akkoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300050,
-    "slug": "minister-weerwind-wil-snel-zeventien-extra-plekken-voor-zwaarste-criminelen",
-    "type": "article",
-    "title": "Minister Weerwind wil snel zeventien extra plekken voor zwaarste criminelen",
-    "subtitle": null,
-    "published_at": "2024-02-02T14:11:12+01:00",
-    "updated_at": "2024-02-02T14:11:14+01:00",
-    "media_id": "6s6xqncaby0m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300050/minister-weerwind-wil-snel-zeventien-extra-plekken-voor-zwaarste-criminelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300051,
-    "slug": "ajax-aanwinst-henderson-begint-zaterdag-in-basis-bij-topper-tegen-koploper-psv",
-    "type": "article",
-    "title": "Ajax-aanwinst Henderson begint zaterdag in basis bij topper tegen koploper PSV",
-    "subtitle": null,
-    "published_at": "2024-02-02T14:08:36+01:00",
-    "updated_at": "2024-02-02T14:54:11+01:00",
-    "media_id": "cwux0nhaozm0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300051/ajax-aanwinst-henderson-begint-zaterdag-in-basis-bij-topper-tegen-koploper-psv.html",
     "open_new_window": false,
     "partner": null
   }
