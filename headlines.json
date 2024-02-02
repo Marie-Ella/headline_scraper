@@ -1,5 +1,51 @@
 [
   {
+    "id": 6299978,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-02T05:12:15+01:00",
+    "updated_at": "2024-02-02T05:12:16+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6299978/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299763,
+    "slug": "spreidingswet-van-start-gooien-alles-bij-elkaar-en-kijken-wie-wat-doet",
+    "type": "article",
+    "title": "Spreidingswet van start: 'Gooien alles bij elkaar en kijken wie wat doet'",
+    "subtitle": null,
+    "published_at": "2024-02-02T05:03:47+01:00",
+    "updated_at": "2024-02-02T05:03:48+01:00",
+    "media_id": "oe9x8j3asrv0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6299763/spreidingswet-van-start-gooien-alles-bij-elkaar-en-kijken-wie-wat-doet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299976,
     "slug": "boeren-blokkeren-grensovergang-bij-eersel-verkeer-richting-belgie-vast",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6299955,
-    "slug": "hongarije-toch-voor-miljardensteun-oekraine-mogelijk-russisch-schip-verwoest",
+    "slug": "miljardensteun-eu-voor-oekraine-mogelijk-russisch-schip-verwoest",
     "type": "article",
-    "title": "Hongarije tóch voor miljardensteun Oekraïne, mogelijk Russisch schip verwoest",
+    "title": "Miljardensteun EU voor Oekraïne, mogelijk Russisch schip verwoest",
     "subtitle": "Overzicht",
     "published_at": "2024-02-01T23:28:43+01:00",
-    "updated_at": "2024-02-01T23:29:00+01:00",
+    "updated_at": "2024-02-02T05:13:38+01:00",
     "media_id": "87bxy8haolw3",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6299955/hongarije-toch-voor-miljardensteun-oekraine-mogelijk-russisch-schip-verwoest.html",
+    "url": "/spanningen-oekraine/6299955/miljardensteun-eu-voor-oekraine-mogelijk-russisch-schip-verwoest.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6299907/lichaam-tweede-vermiste-man-uit-puin-van-verwoest-rotterdams-pand-gehaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299962,
-    "slug": "lewis-hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven",
-    "type": "article",
-    "title": "Lewis Hamilton noemt vertrek bij Mercedes zwaarste besluit van zijn leven",
-    "subtitle": null,
-    "published_at": "2024-02-01T20:33:50+01:00",
-    "updated_at": "2024-02-01T22:17:47+01:00",
-    "media_id": "5egx2zqac4uk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6299962/lewis-hamilton-noemt-vertrek-bij-mercedes-zwaarste-besluit-van-zijn-leven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299863,
-    "slug": "ajax-haalt-dortmund-talent-rijkhoff-na-vijf-jaar-terug-naar-amsterdam",
-    "type": "article",
-    "title": "Ajax haalt Dortmund-talent Rijkhoff na vijf jaar terug naar Amsterdam",
-    "subtitle": null,
-    "published_at": "2024-02-01T20:33:09+01:00",
-    "updated_at": "2024-02-01T22:40:00+01:00",
-    "media_id": "1b9xariaeogy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299863/ajax-haalt-dortmund-talent-rijkhoff-na-vijf-jaar-terug-naar-amsterdam.html",
     "open_new_window": false,
     "partner": null
   }
