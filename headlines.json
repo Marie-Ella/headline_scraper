@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300130,
+    "slug": "tientallen-tractors-blokkeren-a7-bij-drachten",
+    "type": "video",
+    "title": "Tientallen tractors blokkeren A7 bij Drachten",
+    "subtitle": "Video",
+    "published_at": "2024-02-03T08:05:33+01:00",
+    "updated_at": "2024-02-03T08:05:34+01:00",
+    "media_id": "f83x2sdas37j",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300130/tientallen-tractors-blokkeren-a7-bij-drachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300048,
     "slug": "waarom-word-je-misselijk-in-een-achtbaan",
     "type": "video",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6300127,
-    "slug": "a67-bij-belgische-grens-nog-dicht-door-boerenacties-na-nieuwe-blokkades",
+    "slug": "a67-bij-belgische-grens-nog-dicht-door-boerenblokkade",
     "type": "article",
-    "title": "A67 bij Belgische grens nog dicht door boerenacties na nieuwe blokkades",
+    "title": "A67 bij Belgische grens nog dicht door boerenblokkade",
     "subtitle": null,
     "published_at": "2024-02-03T06:17:21+01:00",
-    "updated_at": "2024-02-03T06:17:22+01:00",
+    "updated_at": "2024-02-03T08:11:20+01:00",
     "media_id": "9ngxncca1r9u",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300127/a67-bij-belgische-grens-nog-dicht-door-boerenacties-na-nieuwe-blokkades.html",
+    "url": "/binnenland/6300127/a67-bij-belgische-grens-nog-dicht-door-boerenblokkade.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300116/koploper-willem-ii-ziet-ado-dichterbij-komen-door-derde-gelijkspel-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300115,
-    "slug": "president-turkse-centrale-bank-treedt-na-een-half-jaar-al-af",
-    "type": "article",
-    "title": "President Turkse centrale bank treedt na een half jaar al af",
-    "subtitle": null,
-    "published_at": "2024-02-02T22:01:21+01:00",
-    "updated_at": "2024-02-02T22:25:33+01:00",
-    "media_id": "pyqxgs4amflb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300115/president-turkse-centrale-bank-treedt-na-een-half-jaar-al-af.html",
     "open_new_window": false,
     "partner": null
   }
