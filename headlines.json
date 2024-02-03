@@ -1,5 +1,51 @@
 [
   {
+    "id": 6300048,
+    "slug": "waarom-word-je-misselijk-in-een-achtbaan",
+    "type": "video",
+    "title": "Waarom word je misselijk in een achtbaan?",
+    "subtitle": "Video",
+    "published_at": "2024-02-03T07:06:25+01:00",
+    "updated_at": "2024-02-03T07:06:26+01:00",
+    "media_id": "qddxdeiahefw",
+    "duration": "11:58",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6300048/waarom-word-je-misselijk-in-een-achtbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300129,
+    "slug": "noodtoestand-uitgeroepen-in-chili-wegens-bosbranden-in-toeristische-gebieden",
+    "type": "article",
+    "title": "Noodtoestand uitgeroepen in Chili wegens bosbranden in toeristische gebieden",
+    "subtitle": null,
+    "published_at": "2024-02-03T07:05:48+01:00",
+    "updated_at": "2024-02-03T07:05:49+01:00",
+    "media_id": "tlrxfvrat1xd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300129/noodtoestand-uitgeroepen-in-chili-wegens-bosbranden-in-toeristische-gebieden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299951,
     "slug": "van-empel-favoriet-bij-wk-veldrijden-lijkt-bij-haar-alsof-ze-toertochtje-rijdt",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Grote brand in Poeldijk onder controle, brandweer belaagd en bekogeld",
     "subtitle": null,
     "published_at": "2024-02-03T06:37:21+01:00",
-    "updated_at": "2024-02-03T06:37:23+01:00",
+    "updated_at": "2024-02-03T06:51:10+01:00",
     "media_id": "nmoxc9ta2f17",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "VS valt doelen in Syrië en Irak aan na fatale aanval op Amerikanen in Jordanië",
     "subtitle": null,
     "published_at": "2024-02-02T22:36:37+01:00",
-    "updated_at": "2024-02-02T23:37:03+01:00",
+    "updated_at": "2024-02-03T06:52:52+01:00",
     "media_id": "rgpxlhpa9udj",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Grote brand uitgebroken bij bedrijf in Poeldijk",
     "subtitle": "Video",
     "published_at": "2024-02-02T22:30:42+01:00",
-    "updated_at": "2024-02-02T23:11:22+01:00",
+    "updated_at": "2024-02-03T07:02:22+01:00",
     "media_id": "nmoxc9ta2f17",
     "duration": "0:40",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300115/president-turkse-centrale-bank-treedt-na-een-half-jaar-al-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300114,
-    "slug": "schouten-pakt-eindelijk-weer-wb-goud-en-beleeft-uitstekende-generale-voor-wk",
-    "type": "article",
-    "title": "Schouten pakt eindelijk weer WB-goud en beleeft uitstekende generale voor WK",
-    "subtitle": null,
-    "published_at": "2024-02-02T22:00:37+01:00",
-    "updated_at": "2024-02-03T00:03:37+01:00",
-    "media_id": "0fix137a7jkk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6300114/schouten-pakt-eindelijk-weer-wb-goud-en-beleeft-uitstekende-generale-voor-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300113,
-    "slug": "boerenblokkades-op-zeker-vier-plekken-in-ons-land-mogelijk-asbest-in-brand",
-    "type": "article",
-    "title": "Boerenblokkades op zeker vier plekken in ons land, mogelijk asbest in brand",
-    "subtitle": null,
-    "published_at": "2024-02-02T21:57:37+01:00",
-    "updated_at": "2024-02-03T00:44:12+01:00",
-    "media_id": "m0sxtdcanjpv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6300113/boerenblokkades-op-zeker-vier-plekken-in-ons-land-mogelijk-asbest-in-brand.html",
     "open_new_window": false,
     "partner": null
   }
