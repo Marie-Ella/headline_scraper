@@ -1,24 +1,47 @@
 [
   {
-    "id": 6300306,
-    "slug": "nederland-voert-samen-met-jordanie-eerste-luchtdropping-boven-gaza-uit",
+    "id": 6300307,
+    "slug": "stolz-wint-ook-tweede-500-meter-en-voltooit-indrukwekkend-kwartet-in-quebec",
     "type": "article",
-    "title": "Nederland voert samen met Jordanië eerste luchtdropping boven Gaza uit",
+    "title": "Stolz wint ook tweede 500 meter en voltooit indrukwekkend kwartet in Quebec",
     "subtitle": null,
-    "published_at": "2024-02-04T21:46:05+01:00",
-    "updated_at": "2024-02-04T21:46:08+01:00",
-    "media_id": "gvzxkn9akexw",
+    "published_at": "2024-02-04T21:52:41+01:00",
+    "updated_at": "2024-02-04T21:57:30+01:00",
+    "media_id": "aszxlswa8l8q",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1772452,
+      "slug": "schaatsen",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/algemeen/6300306/nederland-voert-samen-met-jordanie-eerste-luchtdropping-boven-gaza-uit.html",
+    "url": "/schaatsen/6300307/stolz-wint-ook-tweede-500-meter-en-voltooit-indrukwekkend-kwartet-in-quebec.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300306,
+    "slug": "nederland-voert-samen-met-jordanie-eerste-luchtdropping-hulpgoederen-boven-gaza-uit",
+    "type": "article",
+    "title": "Nederland voert samen met Jordanië eerste luchtdropping hulpgoederen boven Gaza uit",
+    "subtitle": null,
+    "published_at": "2024-02-04T21:46:05+01:00",
+    "updated_at": "2024-02-04T22:06:54+01:00",
+    "media_id": "jipxlojaqss5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6300306/nederland-voert-samen-met-jordanie-eerste-luchtdropping-hulpgoederen-boven-gaza-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Van Gerwen heeft geen kind aan Van den Bergh en staat in zesde Masters-finale",
     "subtitle": null,
     "published_at": "2024-02-04T16:37:04+01:00",
-    "updated_at": "2024-02-04T21:45:35+01:00",
+    "updated_at": "2024-02-04T21:48:12+01:00",
     "media_id": "k0ox44qahwky",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6300288/teleurgestelde-fans-fluiten-bankzitter-messi-uit-in-hongkong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300287,
-    "slug": "broers-booth-grijpen-hoofdrol-bij-utrecht-volendam-pec-zwolle-verrast-sparta",
-    "type": "article",
-    "title": "Broers Booth grijpen hoofdrol bij Utrecht-Volendam, PEC Zwolle verrast Sparta",
-    "subtitle": null,
-    "published_at": "2024-02-04T16:28:51+01:00",
-    "updated_at": "2024-02-04T18:51:09+01:00",
-    "media_id": "7pvxboxak2so",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300287/broers-booth-grijpen-hoofdrol-bij-utrecht-volendam-pec-zwolle-verrast-sparta.html",
     "open_new_window": false,
     "partner": null
   }
