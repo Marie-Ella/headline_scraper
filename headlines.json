@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300400,
+    "slug": "nederlandse-piloten-voeren-actie-tegen-naderende-dreiging-vliegveiligheid",
+    "type": "video",
+    "title": "Nederlandse piloten voeren actie tegen naderende dreiging vliegveiligheid",
+    "subtitle": "Video",
+    "published_at": "2024-02-05T18:43:50+01:00",
+    "updated_at": "2024-02-05T18:43:51+01:00",
+    "media_id": "h24x5umaq4hc",
+    "duration": "1:08",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300400/nederlandse-piloten-voeren-actie-tegen-naderende-dreiging-vliegveiligheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300404,
     "slug": "zelensky-bevestigt-topgeneraal-te-gaan-ontslaan-en-kondigt-nieuw-begin-aan",
     "type": "article",
@@ -185,12 +208,12 @@
   },
   {
     "id": 6300380,
-    "slug": "nieuwe-deeltjesversneller-moet-ontbrekende-95-procent-van-universum-vinden",
+    "slug": "nieuwe-large-hadron-collider-moet-drie-keer-groter-worden-en-kost-miljarden",
     "type": "article",
-    "title": "Nieuwe deeltjesversneller moet 'ontbrekende' 95 procent van universum vinden",
+    "title": "'Nieuwe' Large Hadron Collider moet drie keer groter worden en kost miljarden",
     "subtitle": null,
     "published_at": "2024-02-05T17:10:24+01:00",
-    "updated_at": "2024-02-05T17:10:25+01:00",
+    "updated_at": "2024-02-05T18:40:02+01:00",
     "media_id": "yfgx42xa4uf1",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wetenschap/6300380/nieuwe-deeltjesversneller-moet-ontbrekende-95-procent-van-universum-vinden.html",
+    "url": "/wetenschap/6300380/nieuwe-large-hadron-collider-moet-drie-keer-groter-worden-en-kost-miljarden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6300384/videodirecteur-npo-op-non-actief-wegens-onderzoek-naar-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300365,
-    "slug": "geld-lenen-bij-naasten-zorgt-voor-problemen-onder-nederlandse-moslims",
-    "type": "article",
-    "title": "Geld lenen bij naasten zorgt voor problemen onder Nederlandse moslims",
-    "subtitle": null,
-    "published_at": "2024-02-05T15:24:48+01:00",
-    "updated_at": "2024-02-05T15:24:49+01:00",
-    "media_id": "094xui2asa59",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300365/geld-lenen-bij-naasten-zorgt-voor-problemen-onder-nederlandse-moslims.html",
     "open_new_window": false,
     "partner": null
   }
