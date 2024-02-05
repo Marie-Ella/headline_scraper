@@ -1,12 +1,58 @@
 [
   {
+    "id": 6300414,
+    "slug": "armin-van-buuren-geeft-speciaal-optreden-in-rotterdamse-tram",
+    "type": "video",
+    "title": "Armin van Buuren geeft speciaal optreden in Rotterdamse tram",
+    "subtitle": "Video",
+    "published_at": "2024-02-05T20:45:45+01:00",
+    "updated_at": "2024-02-05T20:45:46+01:00",
+    "media_id": "ofjxwmtahe5w",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300414/armin-van-buuren-geeft-speciaal-optreden-in-rotterdamse-tram.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300413,
+    "slug": "sauber-begint-tussenfase-richting-audi-fabrieksteam-in-gifgroen-jasje",
+    "type": "article",
+    "title": "Sauber begint tussenfase richting Audi-fabrieksteam in gifgroen jasje",
+    "subtitle": null,
+    "published_at": "2024-02-05T20:34:17+01:00",
+    "updated_at": "2024-02-05T20:40:07+01:00",
+    "media_id": "cqwxy1uafch2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6300413/sauber-begint-tussenfase-richting-audi-fabrieksteam-in-gifgroen-jasje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300410,
     "slug": "formerende-partijen-praten-zonder-informateur-plasterk-verder-op-andere-locatie",
     "type": "article",
     "title": "Formerende partijen praten zonder informateur Plasterk verder op andere locatie",
     "subtitle": null,
     "published_at": "2024-02-05T20:11:08+01:00",
-    "updated_at": "2024-02-05T20:20:55+01:00",
+    "updated_at": "2024-02-05T20:33:23+01:00",
     "media_id": "rvkx7jdaiice",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6300411,
-    "slug": "fia-past-sprintraceformat-voor-komend-seizoen-aan-na-overleg-met-teambazen",
+    "slug": "sprintraceformat-voor-komend-f1-seizoen-aangepast-na-overleg-met-teambazen",
     "type": "article",
-    "title": "FIA past sprintraceformat voor komend seizoen aan na overleg met teambazen",
+    "title": "Sprintraceformat voor komend F1-seizoen aangepast na overleg met teambazen",
     "subtitle": null,
     "published_at": "2024-02-05T19:59:15+01:00",
-    "updated_at": "2024-02-05T20:27:09+01:00",
+    "updated_at": "2024-02-05T20:34:52+01:00",
     "media_id": "zgbxhujatnpu",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6300411/fia-past-sprintraceformat-voor-komend-seizoen-aan-na-overleg-met-teambazen.html",
+    "url": "/formule-1/6300411/sprintraceformat-voor-komend-f1-seizoen-aangepast-na-overleg-met-teambazen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +98,8 @@
     "title": "Prins Harry reist naar Verenigd Koninkrijk om bij zieke vader te zijn",
     "subtitle": null,
     "published_at": "2024-02-05T19:50:17+01:00",
-    "updated_at": "2024-02-05T20:20:22+01:00",
-    "media_id": "u2qxvbtaclve",
+    "updated_at": "2024-02-05T20:39:32+01:00",
+    "media_id": "aggxm80azf4e",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6300380/nieuwe-large-hadron-collider-moet-drie-keer-groter-worden-en-kost-miljarden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300390,
-    "slug": "blue-band-verandert-verpakking-van-roombeter-dat-prijs-won-voor-misleiding",
-    "type": "article",
-    "title": "Blue Band verandert verpakking van Roombeter dat prijs won voor misleiding",
-    "subtitle": null,
-    "published_at": "2024-02-05T16:59:48+01:00",
-    "updated_at": "2024-02-05T20:12:14+01:00",
-    "media_id": "zodxx74a0pk7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300390/blue-band-verandert-verpakking-van-roombeter-dat-prijs-won-voor-misleiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300393,
-    "slug": "titelhouder-medvedev-meldt-zich-af-voor-abn-amro-open-in-rotterdam",
-    "type": "article",
-    "title": "Titelhouder Medvedev meldt zich af voor ABN AMRO Open in Rotterdam",
-    "subtitle": null,
-    "published_at": "2024-02-05T16:57:25+01:00",
-    "updated_at": "2024-02-05T17:01:27+01:00",
-    "media_id": "4qrx3ivar1tr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6300393/titelhouder-medvedev-meldt-zich-af-voor-abn-amro-open-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
