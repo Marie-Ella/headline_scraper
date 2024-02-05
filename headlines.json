@@ -1,13 +1,36 @@
 [
   {
+    "id": 6300329,
+    "slug": "netflix-maakt-film-over-gijzeling-in-apple-store-in-amsterdam",
+    "type": "article",
+    "title": "Netflix maakt film over gijzeling in Apple Store in Amsterdam",
+    "subtitle": null,
+    "published_at": "2024-02-05T09:47:09+01:00",
+    "updated_at": "2024-02-05T09:47:11+01:00",
+    "media_id": "7c0xxdfazjre",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6300329/netflix-maakt-film-over-gijzeling-in-apple-store-in-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300328,
-    "slug": "taylor-swift-neemt-voor-vierde-keer-grammy-voor-beste-album-in-ontvangst",
+    "slug": "celine-dion-treedt-uit-schaduw-en-reikt-grammy-uit-aan-swift",
     "type": "video",
-    "title": "Taylor Swift neemt voor vierde keer Grammy voor beste album in ontvangst",
+    "title": "Céline Dion treedt uit schaduw en reikt Grammy uit aan Swift",
     "subtitle": "Video",
     "published_at": "2024-02-05T09:03:59+01:00",
-    "updated_at": "2024-02-05T09:04:00+01:00",
-    "media_id": "lq3xmgwaazx0",
+    "updated_at": "2024-02-05T09:48:21+01:00",
+    "media_id": "6mrx19facyh4",
     "duration": "0:47",
     "canonical_section": {
       "id": 1772431,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6300328/taylor-swift-neemt-voor-vierde-keer-grammy-voor-beste-album-in-ontvangst.html",
+    "url": "/videos/6300328/celine-dion-treedt-uit-schaduw-en-reikt-grammy-uit-aan-swift.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Olympisch kampioen Badloe mist Spelen: 'Uitgerekend nu doe ik iets doms'",
     "subtitle": "NU+",
     "published_at": "2024-02-05T06:38:10+01:00",
-    "updated_at": "2024-02-05T09:13:25+01:00",
+    "updated_at": "2024-02-05T09:43:30+01:00",
     "media_id": "zrzxs5ma515q",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Taylor Swift, Miley Cyrus en Billie Eilish winnen belangrijkste Grammy's",
     "subtitle": null,
     "published_at": "2024-02-05T06:19:47+01:00",
-    "updated_at": "2024-02-05T07:32:54+01:00",
+    "updated_at": "2024-02-05T09:33:42+01:00",
     "media_id": "dv4xofeac8xi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/slimmer-leven/6299942/waarom-je-een-ai-chatbot-niet-zomaar-alles-moet-vertellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299877,
-    "slug": "directeur-streamingdienst-twitch-meeste-sociale-media-zijn-asociaal",
-    "type": "article",
-    "title": "Directeur streamingdienst Twitch: 'Meeste sociale media zijn asociaal'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-05T05:31:07+01:00",
-    "updated_at": "2024-02-05T07:10:30+01:00",
-    "media_id": "cfex5etattrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6299877/directeur-streamingdienst-twitch-meeste-sociale-media-zijn-asociaal.html",
     "open_new_window": false,
     "partner": null
   }
