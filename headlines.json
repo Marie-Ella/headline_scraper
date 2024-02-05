@@ -1,5 +1,51 @@
 [
   {
+    "id": 6300347,
+    "slug": "politie-vermoedt-dat-brand-dordtse-flat-is-aangestoken",
+    "type": "article",
+    "title": "Politie vermoedt dat brand Dordtse flat is aangestoken",
+    "subtitle": null,
+    "published_at": "2024-02-05T10:46:35+01:00",
+    "updated_at": "2024-02-05T10:48:15+01:00",
+    "media_id": "wqgxc1iakyu3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300347/politie-vermoedt-dat-brand-dordtse-flat-is-aangestoken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300346,
+    "slug": "schoonspringster-praasterink-plaatst-zich-voor-wk-finale-en-olympische-spelen",
+    "type": "article",
+    "title": "Schoonspringster Praasterink plaatst zich voor WK-finale én Olympische Spelen",
+    "subtitle": null,
+    "published_at": "2024-02-05T10:32:10+01:00",
+    "updated_at": "2024-02-05T10:46:36+01:00",
+    "media_id": "b8bxiyba5fkm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6300346/schoonspringster-praasterink-plaatst-zich-voor-wk-finale-en-olympische-spelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300344,
     "slug": "beveiligingscamera-filmt-meerdere-explosies-bij-filipijnse-vuurwerkfabriek",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Telstar ontslaat trainer Mike Snoei vanwege teleurstellende resultaten",
     "subtitle": null,
     "published_at": "2024-02-05T10:03:18+01:00",
-    "updated_at": "2024-02-05T10:28:02+01:00",
+    "updated_at": "2024-02-05T10:34:46+01:00",
     "media_id": "xe6xcyramvby",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Jacob Elordi onderwerp van politieonderzoek wegens vermeende mishandeling",
     "subtitle": null,
     "published_at": "2024-02-05T08:12:52+01:00",
-    "updated_at": "2024-02-05T08:12:53+01:00",
+    "updated_at": "2024-02-05T10:33:11+01:00",
     "media_id": "gltx2l6azwcp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6300005/dit-zijn-de-winnaars-van-de-grammy-awards-2024.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300308,
-    "slug": "olympisch-kampioen-badloe-mist-spelen-uitgerekend-nu-doe-ik-iets-doms",
-    "type": "article",
-    "title": "Olympisch kampioen Badloe mist Spelen: 'Uitgerekend nu doe ik iets doms'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-05T06:38:10+01:00",
-    "updated_at": "2024-02-05T09:43:30+01:00",
-    "media_id": "zrzxs5ma515q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6300308/olympisch-kampioen-badloe-mist-spelen-uitgerekend-nu-doe-ik-iets-doms.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300315,
-    "slug": "taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys",
-    "type": "article",
-    "title": "Taylor Swift, Miley Cyrus en Billie Eilish winnen belangrijkste Grammy's",
-    "subtitle": null,
-    "published_at": "2024-02-05T06:19:47+01:00",
-    "updated_at": "2024-02-05T09:33:42+01:00",
-    "media_id": "dv4xofeac8xi",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6300315/taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys.html",
     "open_new_window": false,
     "partner": null
   }
