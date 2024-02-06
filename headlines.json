@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300508,
+    "slug": "politie-heeft-eerste-verdachten-aangehouden-na-boerenprotesten",
+    "type": "article",
+    "title": "Politie heeft eerste verdachten aangehouden na boerenprotesten",
+    "subtitle": null,
+    "published_at": "2024-02-06T14:26:11+01:00",
+    "updated_at": "2024-02-06T14:26:16+01:00",
+    "media_id": "e6kxqm6abiwa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300508/politie-heeft-eerste-verdachten-aangehouden-na-boerenprotesten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299610,
     "slug": "romeins-kamp-of-gouden-munten-bodem-ligt-vol-archeologische-schatten",
     "type": "article",
@@ -29,19 +52,19 @@
     "title": "Moskee in Heerlen beklad met racistische leuzen en hakenkruizen",
     "subtitle": null,
     "published_at": "2024-02-06T13:59:31+01:00",
-    "updated_at": "2024-02-06T14:12:10+01:00",
+    "updated_at": "2024-02-06T14:24:23+01:00",
     "media_id": "flix36ha72ux",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
+      "id": 1779346,
+      "slug": "discriminatie",
+      "type": "files",
+      "name": "Discriminatie",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300497/moskee-in-heerlen-beklad-met-racistische-leuzen-en-hakenkruizen.html",
+    "url": "/discriminatie/6300497/moskee-in-heerlen-beklad-met-racistische-leuzen-en-hakenkruizen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6300480/zes-gewonden-bij-poging-tot-aanslag-op-rechtbank-in-istanboel-schutters-gedood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300476,
-    "slug": "eu-plan-tegen-bestrijdingsmiddelen-definitief-van-de-baan",
-    "type": "article",
-    "title": "EU-plan tegen bestrijdingsmiddelen definitief van de baan",
-    "subtitle": null,
-    "published_at": "2024-02-06T11:21:59+01:00",
-    "updated_at": "2024-02-06T12:02:46+01:00",
-    "media_id": "oczxjtsaelua",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300476/eu-plan-tegen-bestrijdingsmiddelen-definitief-van-de-baan.html",
     "open_new_window": false,
     "partner": null
   }
