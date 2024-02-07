@@ -1,5 +1,51 @@
 [
   {
+    "id": 6300576,
+    "slug": "studenten-protesteren-om-onveiligheid-universiteit-in-kenia-na-hyena-aanvallen",
+    "type": "article",
+    "title": "Studenten protesteren om onveiligheid universiteit in Kenia na hyena-aanvallen",
+    "subtitle": null,
+    "published_at": "2024-02-07T06:17:48+01:00",
+    "updated_at": "2024-02-07T06:17:50+01:00",
+    "media_id": "ls2xyejaxai1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300576/studenten-protesteren-om-onveiligheid-universiteit-in-kenia-na-hyena-aanvallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300575,
+    "slug": "regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land",
+    "type": "article",
+    "title": "Regenachtig in het zuiden, ruimte voor zon in de rest van het land",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-02-07T05:55:36+01:00",
+    "updated_at": "2024-02-07T05:55:37+01:00",
+    "media_id": "ikfxolua2ob7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300575/regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300574,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Omtzigt wil nog onderhandelen, maar vertrouwen met PVV, VVD en BBB neemt af",
     "subtitle": null,
     "published_at": "2024-02-06T23:31:28+01:00",
-    "updated_at": "2024-02-07T05:22:10+01:00",
+    "updated_at": "2024-02-07T06:13:43+01:00",
     "media_id": "v9mxd94adkit",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Onzeker of uitspraak Marengo eind februari nog komt, kroongetuige weer gehoord",
     "subtitle": null,
     "published_at": "2024-02-06T21:30:27+01:00",
-    "updated_at": "2024-02-06T21:43:55+01:00",
+    "updated_at": "2024-02-07T06:00:09+01:00",
     "media_id": "vatxtcoahwms",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6300561/cavendish-geklopt-door-gaviria-in-eerste-wedstrijd-van-zijn-laatste-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300527,
-    "slug": "extra-maatregelen-in-grote-steden-tijdens-carnaval-door-toename-feestvierders",
-    "type": "article",
-    "title": "Extra maatregelen in grote steden tijdens carnaval door toename feestvierders",
-    "subtitle": null,
-    "published_at": "2024-02-06T20:12:14+01:00",
-    "updated_at": "2024-02-06T20:20:14+01:00",
-    "media_id": "6hexyz2a8vg5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300527/extra-maatregelen-in-grote-steden-tijdens-carnaval-door-toename-feestvierders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300560,
-    "slug": "bijzondere-roze-pelikaan-trekt-veel-bekijks-in-helvoirt",
-    "type": "video",
-    "title": "Bijzondere roze pelikaan trekt veel bekijks in Helvoirt",
-    "subtitle": "Video",
-    "published_at": "2024-02-06T20:07:47+01:00",
-    "updated_at": "2024-02-06T20:07:48+01:00",
-    "media_id": "8ktxvvgaenn1",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300560/bijzondere-roze-pelikaan-trekt-veel-bekijks-in-helvoirt.html",
     "open_new_window": false,
     "partner": null
   }
