@@ -1,12 +1,58 @@
 [
   {
+    "id": 6301045,
+    "slug": "commissie-van-rijn-doet-geen-uitspraak-over-beelden-wangedrag-van-nieuwkerk",
+    "type": "article",
+    "title": "Commissie-Van Rijn doet geen uitspraak over beelden wangedrag Van Nieuwkerk",
+    "subtitle": null,
+    "published_at": "2024-02-10T14:25:54+01:00",
+    "updated_at": "2024-02-10T14:25:55+01:00",
+    "media_id": "on2xsuiagjce",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6301045/commissie-van-rijn-doet-geen-uitspraak-over-beelden-wangedrag-van-nieuwkerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301042,
+    "slug": "toptalent-boogaard-15-kan-niet-stunten-in-kwalificaties-abn-amro-open",
+    "type": "article",
+    "title": "Toptalent Boogaard (15) kan niet stunten in kwalificaties ABN AMRO Open",
+    "subtitle": null,
+    "published_at": "2024-02-10T14:21:46+01:00",
+    "updated_at": "2024-02-10T14:22:54+01:00",
+    "media_id": "ihhxr69ai1r2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6301042/toptalent-boogaard-15-kan-niet-stunten-in-kwalificaties-abn-amro-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301043,
     "slug": "veerponten-uit-de-vaart-om-hoogwater-maas-waterschap-limburg-plaatst-pompen",
     "type": "article",
     "title": "Veerponten uit de vaart om hoogwater Maas, waterschap Limburg plaatst pompen",
     "subtitle": null,
     "published_at": "2024-02-10T14:08:41+01:00",
-    "updated_at": "2024-02-10T14:17:39+01:00",
+    "updated_at": "2024-02-10T14:26:39+01:00",
     "media_id": "lfxxhxkabyz3",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Wiebes verliest leiding in UAE Tour aan Kopecky, Jakobsen komt tekort in Oman",
     "subtitle": null,
     "published_at": "2024-02-10T13:43:34+01:00",
-    "updated_at": "2024-02-10T14:01:01+01:00",
+    "updated_at": "2024-02-10T14:24:51+01:00",
     "media_id": "fexxepkap00q",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Publieke omroep krijgt 'collectief plan van aanpak' na rapport over wangedrag",
     "subtitle": null,
     "published_at": "2024-02-10T12:53:21+01:00",
-    "updated_at": "2024-02-10T13:14:32+01:00",
+    "updated_at": "2024-02-10T14:26:26+01:00",
     "media_id": "9bmxlvhadwix",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6300998/twee-spaanse-agenten-omgekomen-doordat-drugsboot-hen-bewust-aanvaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300997,
-    "slug": "300-asielzoekers-geevacueerd-uit-schepen-tijdens-brand-in-arnhem",
-    "type": "video",
-    "title": "300 asielzoekers geëvacueerd uit schepen tijdens brand in Arnhem",
-    "subtitle": "Video",
-    "published_at": "2024-02-10T09:52:10+01:00",
-    "updated_at": "2024-02-10T09:52:11+01:00",
-    "media_id": "bqaxge9a0ma9",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300997/300-asielzoekers-geevacueerd-uit-schepen-tijdens-brand-in-arnhem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300949,
-    "slug": "de-wedergeboorte-van-richard-krajicek-socializen-paste-niet-bij-mij",
-    "type": "article",
-    "title": "De wedergeboorte van Richard Krajicek: 'Socializen paste niet bij mij'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-10T09:51:07+01:00",
-    "updated_at": "2024-02-10T09:56:57+01:00",
-    "media_id": "yyqx8zoacejk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6300949/de-wedergeboorte-van-richard-krajicek-socializen-paste-niet-bij-mij.html",
     "open_new_window": false,
     "partner": null
   }
