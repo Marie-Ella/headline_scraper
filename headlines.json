@@ -1,12 +1,35 @@
 [
   {
-    "id": 6301081,
-    "slug": "nederlandse-man-dood-aangetroffen-in-hotelkamer-colombia",
+    "id": 6300929,
+    "slug": "feyenoord-ontvangt-fc-groningen-en-ontloopt-nec-in-halve-finales-beker",
     "type": "article",
-    "title": "Nederlandse man dood aangetroffen in hotelkamer Colombia",
+    "title": "Feyenoord ontvangt FC Groningen en ontloopt NEC in halve finales beker",
+    "subtitle": null,
+    "published_at": "2024-02-10T22:43:26+01:00",
+    "updated_at": "2024-02-10T22:44:39+01:00",
+    "media_id": "rdkxyrca0yoj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300929/feyenoord-ontvangt-fc-groningen-en-ontloopt-nec-in-halve-finales-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301081,
+    "slug": "nederlandse-man-dood-aangetroffen-op-hotelkamer-in-colombia",
+    "type": "article",
+    "title": "Nederlandse man dood aangetroffen op hotelkamer in Colombia",
     "subtitle": null,
     "published_at": "2024-02-10T21:56:08+01:00",
-    "updated_at": "2024-02-10T22:06:37+01:00",
+    "updated_at": "2024-02-10T22:34:31+01:00",
     "media_id": "6u5xt5kanc4y",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6301081/nederlandse-man-dood-aangetroffen-in-hotelkamer-colombia.html",
+    "url": "/binnenland/6301081/nederlandse-man-dood-aangetroffen-op-hotelkamer-in-colombia.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6301064/evenepoel-bekroont-solo-van-55-kilometer-met-zege-in-zijn-eerste-koers-van-2024.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301063,
-    "slug": "live-eredivisie-wereldgoal-in-degradatiekraker-aftellen-naar-bekerloting",
-    "type": "article",
-    "title": "Live Eredivisie | Wereldgoal in degradatiekraker, aftellen naar bekerloting",
-    "subtitle": null,
-    "published_at": "2024-02-10T18:08:31+01:00",
-    "updated_at": "2024-02-10T21:56:37+01:00",
-    "media_id": "bvyxywkafgu4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301063/live-eredivisie-wereldgoal-in-degradatiekraker-aftellen-naar-bekerloting.html",
     "open_new_window": false,
     "partner": null
   }
