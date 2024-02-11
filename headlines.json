@@ -1,13 +1,82 @@
 [
   {
+    "id": 6301117,
+    "slug": "gijs-brouwer-mist-setpoints-in-tiebreak-en-strandt-in-kwalificaties-rotterdam",
+    "type": "article",
+    "title": "Gijs Brouwer mist setpoints in tiebreak en strandt in kwalificaties Rotterdam",
+    "subtitle": null,
+    "published_at": "2024-02-11T14:41:37+01:00",
+    "updated_at": "2024-02-11T14:45:44+01:00",
+    "media_id": "vvxxi55abm9r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6301117/gijs-brouwer-mist-setpoints-in-tiebreak-en-strandt-in-kwalificaties-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301120,
+    "slug": "weekweerbericht-kans-op-eerste-lokale-lentedag-van-het-jaar",
+    "type": "article",
+    "title": "Weekweerbericht | Kans op eerste lokale lentedag van het jaar",
+    "subtitle": null,
+    "published_at": "2024-02-11T14:40:13+01:00",
+    "updated_at": "2024-02-11T14:40:14+01:00",
+    "media_id": "1wpxqgva2y4o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6301120/weekweerbericht-kans-op-eerste-lokale-lentedag-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300469,
+    "slug": "usher-treedt-op-tijdens-super-bowl-wat-doet-hij-tegenwoordig-allemaal",
+    "type": "article",
+    "title": "Usher treedt op tijdens Super Bowl: wat doet hij tegenwoordig allemaal?",
+    "subtitle": "NU+",
+    "published_at": "2024-02-11T14:37:50+01:00",
+    "updated_at": "2024-02-11T14:38:08+01:00",
+    "media_id": "7m3x79waepk2",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300469/usher-treedt-op-tijdens-super-bowl-wat-doet-hij-tegenwoordig-allemaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301119,
     "slug": "pec-geeft-diep-in-blessuretijd-door-knullige-handsbal-zege-weg-bij-go-ahead",
     "type": "article",
     "title": "PEC geeft diep in blessuretijd door knullige handsbal zege weg bij Go Ahead",
     "subtitle": null,
     "published_at": "2024-02-11T14:22:38+01:00",
-    "updated_at": "2024-02-11T14:29:36+01:00",
-    "media_id": "8u9xc97af06s",
+    "updated_at": "2024-02-11T14:47:14+01:00",
+    "media_id": "5nzxbpbause4",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -282,7 +351,7 @@
     "title": "Zaakwaarnemer claimt dat Pascal Jansen favoriet was om Ajax-trainer te worden",
     "subtitle": null,
     "published_at": "2024-02-11T12:12:29+01:00",
-    "updated_at": "2024-02-11T13:42:56+01:00",
+    "updated_at": "2024-02-11T14:38:50+01:00",
     "media_id": "f1rx13waluzb",
     "duration": null,
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "Dit is waarom we zelf in Oekraïne zijn",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2024-02-11T12:03:47+01:00",
-    "updated_at": "2024-02-11T14:24:06+01:00",
+    "updated_at": "2024-02-11T14:38:32+01:00",
     "media_id": "uyqx4bnay8e5",
     "duration": null,
     "canonical_section": {
@@ -323,13 +392,13 @@
   },
   {
     "id": 6301105,
-    "slug": "live-eredivisie-gewijzigd-ajax-jaagt-in-heerenveen-op-vierde-plek",
+    "slug": "live-eredivisie-ajax-al-snel-op-achterstand-in-heerenveen",
     "type": "article",
-    "title": "Live Eredivisie | Gewijzigd Ajax jaagt in Heerenveen op vierde plek",
+    "title": "Live Eredivisie | Ajax al snel op achterstand in Heerenveen",
     "subtitle": null,
     "published_at": "2024-02-11T11:56:00+01:00",
-    "updated_at": "2024-02-11T14:23:45+01:00",
-    "media_id": "lnxxrnvarna4",
+    "updated_at": "2024-02-11T14:45:20+01:00",
+    "media_id": "zmvx95gatggp",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301105/live-eredivisie-gewijzigd-ajax-jaagt-in-heerenveen-op-vierde-plek.html",
+    "url": "/voetbal/6301105/live-eredivisie-ajax-al-snel-op-achterstand-in-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301107/zaakwaarnemer-openhartig-bergwijn-kon-naar-bayern-veerman-weigerde-zenit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301038,
-    "slug": "ik-blijf-wakker-voor-de-super-bowl",
-    "type": "article",
-    "title": "'Ik blijf wakker voor de Super Bowl'",
-    "subtitle": "Stelling",
-    "published_at": "2024-02-11T11:01:17+01:00",
-    "updated_at": "2024-02-11T11:01:18+01:00",
-    "media_id": "35oxbldal054",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6301038/ik-blijf-wakker-voor-de-super-bowl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300946,
-    "slug": "experts-over-geldzorg-omtzigt-staatsschuld-laag-maar-ingrijpen-is-nodig",
-    "type": "article",
-    "title": "Experts over geldzorg Omtzigt: 'Staatsschuld laag, maar ingrijpen is nodig'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-11T11:00:21+01:00",
-    "updated_at": "2024-02-11T13:00:03+01:00",
-    "media_id": "m9sx4x8ao4k8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300946/experts-over-geldzorg-omtzigt-staatsschuld-laag-maar-ingrijpen-is-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301104,
-    "slug": "bestuurder-spoorloos-nadat-auto-in-gelderse-sloot-belandt",
-    "type": "video",
-    "title": "Bestuurder spoorloos nadat auto in Gelderse sloot belandt",
-    "subtitle": "Video",
-    "published_at": "2024-02-11T10:56:32+01:00",
-    "updated_at": "2024-02-11T10:56:33+01:00",
-    "media_id": "skrxwl7ais2g",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301104/bestuurder-spoorloos-nadat-auto-in-gelderse-sloot-belandt.html",
     "open_new_window": false,
     "partner": null
   }
