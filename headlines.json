@@ -1,12 +1,81 @@
 [
   {
-    "id": 6301103,
-    "slug": "jim-bakkum-voor-het-eerst-aan-de-slag-als-producent-in-nieuwe-comedyfilm",
+    "id": 6301038,
+    "slug": "ik-blijf-wakker-voor-de-super-bowl",
     "type": "article",
-    "title": "Jim Bakkum voor het eerst aan de slag als producent in nieuwe comedyfilm",
+    "title": "'Ik blijf wakker voor de Super Bowl'",
+    "subtitle": "Stelling",
+    "published_at": "2024-02-11T11:01:17+01:00",
+    "updated_at": "2024-02-11T11:01:18+01:00",
+    "media_id": "35oxbldal054",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6301038/ik-blijf-wakker-voor-de-super-bowl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300946,
+    "slug": "staan-onze-overheidsfinancien-er-slecht-voor-volgens-experts-nog-niet",
+    "type": "article",
+    "title": "Staan onze overheidsfinanciën er slecht voor? Volgens experts nog niet",
+    "subtitle": "NU+",
+    "published_at": "2024-02-11T11:00:21+01:00",
+    "updated_at": "2024-02-11T11:09:50+01:00",
+    "media_id": "m9sx4x8ao4k8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300946/staan-onze-overheidsfinancien-er-slecht-voor-volgens-experts-nog-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301104,
+    "slug": "bestuurder-spoorloos-nadat-auto-in-gelderse-sloot-belandt",
+    "type": "video",
+    "title": "Bestuurder spoorloos nadat auto in Gelderse sloot belandt",
+    "subtitle": "Video",
+    "published_at": "2024-02-11T10:56:32+01:00",
+    "updated_at": "2024-02-11T10:56:33+01:00",
+    "media_id": "skrxwl7ais2g",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301104/bestuurder-spoorloos-nadat-auto-in-gelderse-sloot-belandt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301103,
+    "slug": "jim-bakkum-speelt-niet-alleen-in-nieuwe-comedyfilm-hij-produceert-m-ook",
+    "type": "article",
+    "title": "Jim Bakkum speelt niet alleen in nieuwe comedyfilm, hij produceert 'm ook",
     "subtitle": null,
     "published_at": "2024-02-11T10:48:32+01:00",
-    "updated_at": "2024-02-11T10:48:33+01:00",
+    "updated_at": "2024-02-11T11:10:05+01:00",
     "media_id": "o80xp7qaqu7v",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6301103/jim-bakkum-voor-het-eerst-aan-de-slag-als-producent-in-nieuwe-comedyfilm.html",
+    "url": "/film/6301103/jim-bakkum-speelt-niet-alleen-in-nieuwe-comedyfilm-hij-produceert-m-ook.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Müller pissig over verkeerde mentaliteit bij Bayern na afgang tegen Leverkusen",
     "subtitle": null,
     "published_at": "2024-02-11T10:45:13+01:00",
-    "updated_at": "2024-02-11T10:45:14+01:00",
+    "updated_at": "2024-02-11T10:50:42+01:00",
     "media_id": "1v6xwkma4six",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Rusland mag van Trump 'doen wat het wil' in NAVO-landen die te weinig betalen",
     "subtitle": null,
     "published_at": "2024-02-11T10:16:01+01:00",
-    "updated_at": "2024-02-11T10:47:35+01:00",
+    "updated_at": "2024-02-11T11:11:35+01:00",
     "media_id": "6fpxwwraka4o",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6300945/travis-kelce-vriend-van-taylor-swift-en-legendarische-american-footballer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301089,
-    "slug": "twee-doden-en-een-gewonde-bij-eenzijdig-ongeval-op-de-a7-bij-noordbeemster",
-    "type": "article",
-    "title": "Twee doden en één gewonde bij eenzijdig ongeval op de A7 bij Noordbeemster",
-    "subtitle": null,
-    "published_at": "2024-02-11T07:00:49+01:00",
-    "updated_at": "2024-02-11T09:11:14+01:00",
-    "media_id": "uvvxpmcaftg1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6301089/twee-doden-en-een-gewonde-bij-eenzijdig-ongeval-op-de-a7-bij-noordbeemster.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301088,
-    "slug": "kans-op-nat-pak-voor-carnavalsvierders-al-schijnt-ook-de-zon",
-    "type": "article",
-    "title": "Kans op nat pak voor carnavalsvierders, al schijnt ook de zon",
-    "subtitle": "Weerbericht",
-    "published_at": "2024-02-11T06:34:45+01:00",
-    "updated_at": "2024-02-11T07:50:17+01:00",
-    "media_id": "175xi2sao8er",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6301088/kans-op-nat-pak-voor-carnavalsvierders-al-schijnt-ook-de-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301087,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2024-02-11T05:52:36+01:00",
-    "updated_at": "2024-02-11T05:52:37+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6301087/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
