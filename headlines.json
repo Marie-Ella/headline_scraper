@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301394,
+    "slug": "verstappen-toont-nieuwe-helm-voor-komend-f1-seizoen",
+    "type": "video",
+    "title": "Verstappen toont nieuwe helm voor komend F1-seizoen",
+    "subtitle": "Video",
+    "published_at": "2024-02-13T19:35:34+01:00",
+    "updated_at": "2024-02-13T19:35:35+01:00",
+    "media_id": "jwyx3mta4x3s",
+    "duration": "0:26",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301394/verstappen-toont-nieuwe-helm-voor-komend-f1-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301366,
+    "slug": "vijf-vragen-over-het-vonnis-dat-levering-f-35-onderdelen-aan-israel-stopzet",
+    "type": "article",
+    "title": "Vijf vragen over het vonnis dat levering F-35-onderdelen aan Israël stopzet",
+    "subtitle": "NU+",
+    "published_at": "2024-02-13T19:32:56+01:00",
+    "updated_at": "2024-02-13T19:32:57+01:00",
+    "media_id": "288xvuwa2sef",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6301366/vijf-vragen-over-het-vonnis-dat-levering-f-35-onderdelen-aan-israel-stopzet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301392,
     "slug": "geemotioneerde-toussaint-ging-niet-goed-met-druk-om-op-100-meter-rugslag",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Tes Schouten verovert WK-zilver op 100 meter schoolslag na machtige eindsprint",
     "subtitle": null,
     "published_at": "2024-02-13T19:03:26+01:00",
-    "updated_at": "2024-02-13T19:16:48+01:00",
+    "updated_at": "2024-02-13T19:29:38+01:00",
     "media_id": "lbtxs62asvvw",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6301389,
-    "slug": "slachtoffer-15-ontvoering-die-eindigde-op-a27-angst-blijft-me-achtervolgen",
+    "slug": "slachtoffer-15-van-ontvoering-die-eindigde-op-a27-angst-blijft-me-achtervolgen",
     "type": "article",
-    "title": "Slachtoffer (15) ontvoering die eindigde op A27: 'Angst blijft me achtervolgen'",
+    "title": "Slachtoffer (15) van ontvoering die eindigde op A27: 'Angst blijft me achtervolgen'",
     "subtitle": null,
     "published_at": "2024-02-13T18:56:55+01:00",
-    "updated_at": "2024-02-13T19:08:53+01:00",
+    "updated_at": "2024-02-13T19:22:33+01:00",
     "media_id": "n7dxkyda867t",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6301389/slachtoffer-15-ontvoering-die-eindigde-op-a27-angst-blijft-me-achtervolgen.html",
+    "url": "/binnenland/6301389/slachtoffer-15-van-ontvoering-die-eindigde-op-a27-angst-blijft-me-achtervolgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6301370/zweedse-rocky-acteur-dolph-lundgren-mag-zich-amerikaans-staatsburger-noemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301372,
-    "slug": "premier-estland-noemt-plek-op-russische-lijst-bewijs-dat-ik-goed-bezig-ben",
-    "type": "article",
-    "title": "Premier Estland noemt plek op Russische lijst 'bewijs dat ik goed bezig ben'",
-    "subtitle": null,
-    "published_at": "2024-02-13T16:09:30+01:00",
-    "updated_at": "2024-02-13T18:05:10+01:00",
-    "media_id": "5kqx97iaftdx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6301372/premier-estland-noemt-plek-op-russische-lijst-bewijs-dat-ik-goed-bezig-ben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301373,
-    "slug": "boeren-blokkeren-toegangswegen-naar-antwerpse-haven",
-    "type": "video",
-    "title": "Boeren blokkeren toegangswegen naar Antwerpse haven",
-    "subtitle": "Video",
-    "published_at": "2024-02-13T16:07:18+01:00",
-    "updated_at": "2024-02-13T16:07:19+01:00",
-    "media_id": "g6zxu6zamdpy",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301373/boeren-blokkeren-toegangswegen-naar-antwerpse-haven.html",
     "open_new_window": false,
     "partner": null
   }
