@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301299,
+    "slug": "bitcoin-koers-stijgt-door-en-doorbreekt-grens-van-50000-dollar",
+    "type": "article",
+    "title": "Bitcoin-koers stijgt door en doorbreekt grens van 50.000 dollar",
+    "subtitle": null,
+    "published_at": "2024-02-13T07:45:25+01:00",
+    "updated_at": "2024-02-13T07:47:08+01:00",
+    "media_id": "ih8xktua3r15",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301299/bitcoin-koers-stijgt-door-en-doorbreekt-grens-van-50000-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301298,
     "slug": "pearl-jam-brengt-in-april-nieuw-album-uit-eerste-single-verschijnt-dinsdag",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Op grote festivals wordt Heineken ingeruild voor Corona en Hertog Jan",
     "subtitle": null,
     "published_at": "2024-02-13T07:30:38+01:00",
-    "updated_at": "2024-02-13T07:32:08+01:00",
+    "updated_at": "2024-02-13T07:38:31+01:00",
     "media_id": "euexpvraiczz",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6301250,
-    "slug": "migrerende-dieren-zijn-belangrijk-voor-de-planeet-maar-velen-hebben-het-zwaar",
+    "slug": "migrerende-dieren-zijn-belangrijk-voor-aarde-maar-veel-soorten-hebben-het-zwaar",
     "type": "article",
-    "title": "Migrerende dieren zijn belangrijk voor de planeet, maar velen hebben het zwaar",
+    "title": "Migrerende dieren zijn belangrijk voor aarde, maar veel soorten hebben het zwaar",
     "subtitle": null,
     "published_at": "2024-02-13T06:36:41+01:00",
-    "updated_at": "2024-02-13T06:36:42+01:00",
+    "updated_at": "2024-02-13T07:49:23+01:00",
     "media_id": "z9txrd5aa0ky",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6301250/migrerende-dieren-zijn-belangrijk-voor-de-planeet-maar-velen-hebben-het-zwaar.html",
+    "url": "/dieren/6301250/migrerende-dieren-zijn-belangrijk-voor-aarde-maar-veel-soorten-hebben-het-zwaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Weerbericht | Zuiden sluit carnaval zonnig af, noorden krijgt met buien te maken",
     "subtitle": null,
     "published_at": "2024-02-13T05:56:03+01:00",
-    "updated_at": "2024-02-13T06:59:54+01:00",
+    "updated_at": "2024-02-13T07:38:33+01:00",
     "media_id": "8hlxmy6aocfw",
     "duration": null,
     "canonical_section": {
@@ -374,19 +397,19 @@
     "title": "Overheid behandelde verzoek tot informatie openbaar maken in 2023 nog trager",
     "subtitle": null,
     "published_at": "2024-02-12T22:51:11+01:00",
-    "updated_at": "2024-02-13T07:26:49+01:00",
+    "updated_at": "2024-02-13T07:36:44+01:00",
     "media_id": "9nsxwtwa45ml",
     "duration": null,
     "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech-wetenschap/6301280/overheid-behandelde-verzoek-tot-informatie-openbaar-maken-in-2023-nog-trager.html",
+    "url": "/entertainment/6301280/overheid-behandelde-verzoek-tot-informatie-openbaar-maken-in-2023-nog-trager.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6301284/griekspoor-overleeft-matchpoints-en-knokt-zich-naar-tweede-ronde-in-ahoy.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301283,
-    "slug": "twee-zwaargewonden-bij-schietpartij-purmerend-grote-zoektocht-naar-verdachte",
-    "type": "article",
-    "title": "Twee zwaargewonden bij schietpartij Purmerend, grote zoektocht naar verdachte",
-    "subtitle": null,
-    "published_at": "2024-02-12T22:31:11+01:00",
-    "updated_at": "2024-02-13T07:28:18+01:00",
-    "media_id": "ammxciwaliuy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6301283/twee-zwaargewonden-bij-schietpartij-purmerend-grote-zoektocht-naar-verdachte.html",
     "open_new_window": false,
     "partner": null
   }
