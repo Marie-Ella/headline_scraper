@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301489,
+    "slug": "energierekening-was-in-januari-12-procent-lager-dan-jaar-eerder",
+    "type": "article",
+    "title": "Energierekening was in januari 12 procent lager dan jaar eerder",
+    "subtitle": null,
+    "published_at": "2024-02-15T00:03:27+01:00",
+    "updated_at": "2024-02-15T00:03:28+01:00",
+    "media_id": "bqgx2emam2tk",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301489/energierekening-was-in-januari-12-procent-lager-dan-jaar-eerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301506,
+    "slug": "aantal-bouwvergunningen-zakt-naar-laagste-punt-in-zeven-jaar",
+    "type": "article",
+    "title": "Aantal bouwvergunningen zakt naar laagste punt in zeven jaar",
+    "subtitle": null,
+    "published_at": "2024-02-15T00:01:52+01:00",
+    "updated_at": "2024-02-15T00:01:53+01:00",
+    "media_id": "y88x65tad1j3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301506/aantal-bouwvergunningen-zakt-naar-laagste-punt-in-zeven-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301561,
     "slug": "van-de-zandschulp-heeft-bewondering-voor-sinner-hij-is-nu-de-beste-ter-wereld",
     "type": "article",
@@ -93,12 +139,12 @@
   },
   {
     "id": 6301558,
-    "slug": "zeker-1-dode-en-15-gewonden-na-schietpartij-bij-huldiging-super-bowl-winnaar",
+    "slug": "zeker-1-dode-en-14-gewonden-na-schietpartij-bij-huldiging-super-bowl-winnaar",
     "type": "article",
-    "title": "Zeker 1 dode en 15 gewonden na schietpartij bij huldiging Super Bowl-winnaar",
+    "title": "Zeker 1 dode en 14 gewonden na schietpartij bij huldiging Super Bowl-winnaar",
     "subtitle": null,
     "published_at": "2024-02-14T21:44:34+01:00",
-    "updated_at": "2024-02-14T23:48:39+01:00",
+    "updated_at": "2024-02-14T23:49:39+01:00",
     "media_id": "caxxye3afbq8",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6301558/zeker-1-dode-en-15-gewonden-na-schietpartij-bij-huldiging-super-bowl-winnaar.html",
+    "url": "/buitenland/6301558/zeker-1-dode-en-14-gewonden-na-schietpartij-bij-huldiging-super-bowl-winnaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6301547/roddelpraat-maker-dennis-schouten-vertelt-in-biografie-over-zijn-euthanasiewens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301548,
-    "slug": "michaella-krajicek-35-wint-eerste-tenniswedstrijd-na-vijf-jaar-afwezigheid",
-    "type": "article",
-    "title": "Michaëlla Krajicek (35) wint eerste tenniswedstrijd na vijf jaar afwezigheid",
-    "subtitle": null,
-    "published_at": "2024-02-14T20:07:38+01:00",
-    "updated_at": "2024-02-14T20:32:42+01:00",
-    "media_id": "cgjxzaaaloms",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6301548/michaella-krajicek-35-wint-eerste-tenniswedstrijd-na-vijf-jaar-afwezigheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301546,
-    "slug": "britten-rennen-met-koekenpan-tijdens-pannenkoekenrace",
-    "type": "video",
-    "title": "Britten rennen met koekenpan tijdens 'pannenkoekenrace'",
-    "subtitle": "Video",
-    "published_at": "2024-02-14T19:50:34+01:00",
-    "updated_at": "2024-02-14T19:50:35+01:00",
-    "media_id": "sb8xo31a4b88",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301546/britten-rennen-met-koekenpan-tijdens-pannenkoekenrace.html",
     "open_new_window": false,
     "partner": null
   }
