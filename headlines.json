@@ -1,12 +1,58 @@
 [
   {
+    "id": 6301374,
+    "slug": "waar-kunnen-de-palestijnen-heen-bij-een-grondoffensief-in-rafah",
+    "type": "video",
+    "title": "Waar kunnen de Palestijnen heen bij een grondoffensief in Rafah?",
+    "subtitle": "Explainer",
+    "published_at": "2024-02-14T06:16:50+01:00",
+    "updated_at": "2024-02-14T06:16:51+01:00",
+    "media_id": "rnlx9iyasrvy",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6301374/waar-kunnen-de-palestijnen-heen-bij-een-grondoffensief-in-rafah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301416,
+    "slug": "republikeinen-verliezen-zetel-in-huis-van-afgevaardigden-na-speciale-verkiezing",
+    "type": "article",
+    "title": "Republikeinen verliezen zetel in Huis van Afgevaardigden na speciale verkiezing",
+    "subtitle": null,
+    "published_at": "2024-02-14T06:05:29+01:00",
+    "updated_at": "2024-02-14T06:05:30+01:00",
+    "media_id": "1rwxy24ac99n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1380734,
+      "slug": "verkiezingen-vs",
+      "type": "files",
+      "name": "Amerikaanse verkiezingen",
+      "style": "nu",
+      "media_id": "m1oxq8wabsoj",
+      "partner": null
+    },
+    "url": "/verkiezingen-vs/6301416/republikeinen-verliezen-zetel-in-huis-van-afgevaardigden-na-speciale-verkiezing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301415,
     "slug": "weerbericht-warme-valentijnsdag-maar-regen-verpest-mogelijk-je-date",
     "type": "article",
     "title": "Weerbericht | Warme Valentijnsdag, maar regen verpest mogelijk je date",
     "subtitle": null,
     "published_at": "2024-02-14T05:39:36+01:00",
-    "updated_at": "2024-02-14T05:40:11+01:00",
+    "updated_at": "2024-02-14T06:06:14+01:00",
     "media_id": "8owxmtial6an",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301400/bayern-coach-tuchel-geeft-gepasseerde-de-ligt-hoop-hij-is-een-vechter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301398,
-    "slug": "live-champions-league-reacties-na-zeges-real-madrid-en-manchester-city",
-    "type": "article",
-    "title": "Live Champions League | Reacties na zeges Real Madrid en Manchester City",
-    "subtitle": null,
-    "published_at": "2024-02-13T20:18:00+01:00",
-    "updated_at": "2024-02-13T23:38:07+01:00",
-    "media_id": "qgvxah9am9u3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301398/live-champions-league-reacties-na-zeges-real-madrid-en-manchester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301396,
-    "slug": "frankrijk-moet-leaseprogramma-voor-elektrische-autos-pauzeren-vanwege-stormloop",
-    "type": "article",
-    "title": "Frankrijk moet leaseprogramma voor elektrische auto's pauzeren vanwege stormloop",
-    "subtitle": null,
-    "published_at": "2024-02-13T20:11:14+01:00",
-    "updated_at": "2024-02-13T20:26:43+01:00",
-    "media_id": "z5lxzn5as8bs",
-    "duration": null,
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6301396/frankrijk-moet-leaseprogramma-voor-elektrische-autos-pauzeren-vanwege-stormloop.html",
     "open_new_window": false,
     "partner": null
   }
