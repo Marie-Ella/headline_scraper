@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301797,
+    "slug": "ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal",
+    "type": "article",
+    "title": "Ook Albert Heijn en andere supers roepen chocoladekoekjes terug om metaal",
+    "subtitle": null,
+    "published_at": "2024-02-16T14:29:02+01:00",
+    "updated_at": "2024-02-16T14:29:04+01:00",
+    "media_id": "z9dxjgyaf2nt",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301797/ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301783,
     "slug": "schiphol-heeft-genoeg-personeel-reizigers-hoeven-geen-chaos-te-verwachten",
     "type": "article",
@@ -52,19 +75,19 @@
     "title": "Navalny is niet de eerste Poetin-criticus die vroegtijdig overlijdt",
     "subtitle": "NU+",
     "published_at": "2024-02-16T13:50:59+01:00",
-    "updated_at": "2024-02-16T13:58:30+01:00",
+    "updated_at": "2024-02-16T14:26:18+01:00",
     "media_id": "051xazuads5c",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1779362,
+      "slug": "overlijden-navalny",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Overlijden Navalny",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6301780/navalny-is-niet-de-eerste-poetin-criticus-die-vroegtijdig-overlijdt.html",
+    "url": "/overlijden-navalny/6301780/navalny-is-niet-de-eerste-poetin-criticus-die-vroegtijdig-overlijdt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Rod Stewart verkoopt zijn muziekrechten voor bijna 100 miljoen dollar",
     "subtitle": null,
     "published_at": "2024-02-16T13:40:19+01:00",
-    "updated_at": "2024-02-16T14:16:35+01:00",
+    "updated_at": "2024-02-16T14:19:50+01:00",
     "media_id": "d4px3l9a4ebr",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Reacties op dood Navalny: 'Rusland heeft ernstige vragen te beantwoorden'",
     "subtitle": null,
     "published_at": "2024-02-16T13:38:56+01:00",
-    "updated_at": "2024-02-16T14:08:47+01:00",
+    "updated_at": "2024-02-16T14:27:00+01:00",
     "media_id": "rjixxt9aepiy",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Rusland meldt overlijden oppositieleider Alexei Navalny (47) in gevangenis",
     "subtitle": null,
     "published_at": "2024-02-16T12:27:23+01:00",
-    "updated_at": "2024-02-16T14:02:40+01:00",
+    "updated_at": "2024-02-16T14:27:37+01:00",
     "media_id": "c4exj6na4g0k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6301739/patty-brard-ziet-andere-kant-van-zichzelf-in-patty-wat-was-ik-bijdehand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301758,
-    "slug": "inwoners-filmen-paarse-rookwolk-boven-chinese-stad",
-    "type": "video",
-    "title": "Inwoners filmen paarse rookwolk boven Chinese stad",
-    "subtitle": "Video",
-    "published_at": "2024-02-16T11:17:46+01:00",
-    "updated_at": "2024-02-16T11:32:55+01:00",
-    "media_id": "lvmxsecaiv0m",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301758/inwoners-filmen-paarse-rookwolk-boven-chinese-stad.html",
     "open_new_window": false,
     "partner": null
   }
