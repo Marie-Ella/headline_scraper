@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301918,
+    "slug": "andre-hazes-aanwezig-bij-concert-van-zus-roxeanne",
+    "type": "article",
+    "title": "André Hazes aanwezig bij concert van zus Roxeanne",
+    "subtitle": null,
+    "published_at": "2024-02-17T11:43:12+01:00",
+    "updated_at": "2024-02-17T11:45:23+01:00",
+    "media_id": "vutxv89adr8q",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6301918/andre-hazes-aanwezig-bij-concert-van-zus-roxeanne.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301919,
+    "slug": "team-navalny-bevestigt-dood-lichaam-moet-worden-overgedragen-aan-familie",
+    "type": "article",
+    "title": "Team Navalny bevestigt dood: 'Lichaam moet worden overgedragen aan familie'",
+    "subtitle": null,
+    "published_at": "2024-02-17T11:42:47+01:00",
+    "updated_at": "2024-02-17T11:49:08+01:00",
+    "media_id": "jg8xa3ma4eht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779362,
+      "slug": "overlijden-navalny",
+      "type": "default",
+      "name": "Overlijden Navalny",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/overlijden-navalny/6301919/team-navalny-bevestigt-dood-lichaam-moet-worden-overgedragen-aan-familie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301492,
     "slug": "perfecte-ai-vrouwen-op-instagram-zijn-probleem-voor-zelfbeeld-tieners",
     "type": "article",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6301916,
-    "slug": "wereldwijd-navalny-herdenkingen-rusland-waarschuwt-niet-mee-te-doen",
+    "slug": "wereldwijd-navalny-herdenkingen-ondanks-waarschuwing-ook-russen-straat-op",
     "type": "article",
-    "title": "Wereldwijd Navalny-herdenkingen, Rusland waarschuwt niet mee te doen",
+    "title": "Wereldwijd Navalny-herdenkingen, ondanks waarschuwing ook Russen straat op",
     "subtitle": null,
     "published_at": "2024-02-17T11:22:46+01:00",
-    "updated_at": "2024-02-17T11:22:47+01:00",
+    "updated_at": "2024-02-17T11:41:46+01:00",
     "media_id": "l0wxjluaty5h",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/overlijden-navalny/6301916/wereldwijd-navalny-herdenkingen-rusland-waarschuwt-niet-mee-te-doen.html",
+    "url": "/overlijden-navalny/6301916/wereldwijd-navalny-herdenkingen-ondanks-waarschuwing-ook-russen-straat-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6301605/europese-techwet-geldt-vanaf-nu-voor-bijna-alle-internetbedrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301850,
-    "slug": "vs-bezorgd-over-russisch-antisatellietwapen-dit-weten-we-erover",
-    "type": "video",
-    "title": "VS bezorgd over Russisch antisatellietwapen: dit weten we erover",
-    "subtitle": "Explainer",
-    "published_at": "2024-02-17T06:10:37+01:00",
-    "updated_at": "2024-02-17T06:10:38+01:00",
-    "media_id": "slgx8s3a8y1d",
-    "duration": "2:37",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6301850/vs-bezorgd-over-russisch-antisatellietwapen-dit-weten-we-erover.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301805,
-    "slug": "groenlinks-pvda-wil-wettelijke-einddatum-voor-fossiele-subsidies-vastleggen",
-    "type": "article",
-    "title": "GroenLinks-PvdA wil wettelijke einddatum voor fossiele subsidies vastleggen",
-    "subtitle": null,
-    "published_at": "2024-02-17T06:09:28+01:00",
-    "updated_at": "2024-02-17T09:17:01+01:00",
-    "media_id": "k4txgroandxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6301805/groenlinks-pvda-wil-wettelijke-einddatum-voor-fossiele-subsidies-vastleggen.html",
     "open_new_window": false,
     "partner": null
   }
