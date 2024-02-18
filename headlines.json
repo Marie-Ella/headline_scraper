@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301984,
+    "slug": "weerbericht-kletsnatte-zondag-met-vooral-in-de-middag-langdurig-regen",
+    "type": "article",
+    "title": "Weerbericht: Kletsnatte zondag, met vooral in de middag langdurig regen",
+    "subtitle": null,
+    "published_at": "2024-02-18T05:30:08+01:00",
+    "updated_at": "2024-02-18T05:30:09+01:00",
+    "media_id": "m1oxr2ga03gf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6301984/weerbericht-kletsnatte-zondag-met-vooral-in-de-middag-langdurig-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301985,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -420,7 +443,7 @@
     "title": "AZ boekt eerste zege onder Martens na spannende avond in Sittard",
     "subtitle": null,
     "published_at": "2024-02-17T20:45:34+01:00",
-    "updated_at": "2024-02-17T21:20:33+01:00",
+    "updated_at": "2024-02-18T05:30:46+01:00",
     "media_id": "0v1xsccawump",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301967/az-boekt-eerste-zege-onder-martens-na-spannende-avond-in-sittard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301966,
-    "slug": "sparta-maakt-0-2-achterstand-goed-en-wint-rotterdamse-derby-van-excelsior",
-    "type": "article",
-    "title": "Sparta maakt 0-2-achterstand goed en wint Rotterdamse derby van Excelsior",
-    "subtitle": null,
-    "published_at": "2024-02-17T20:45:10+01:00",
-    "updated_at": "2024-02-17T21:09:32+01:00",
-    "media_id": "5jix58pa8835",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301966/sparta-maakt-0-2-achterstand-goed-en-wint-rotterdamse-derby-van-excelsior.html",
     "open_new_window": false,
     "partner": null
   }
