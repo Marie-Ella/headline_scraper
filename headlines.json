@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302045,
+    "slug": "in-vorm-verkerende-hjlund-leidt-united-van-ten-hag-ook-langs-luton-town",
+    "type": "article",
+    "title": "In vorm verkerende Højlund leidt United van Ten Hag ook langs Luton Town",
+    "subtitle": null,
+    "published_at": "2024-02-18T19:29:04+01:00",
+    "updated_at": "2024-02-18T19:29:05+01:00",
+    "media_id": "98ixwymafuo7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302045/in-vorm-verkerende-hjlund-leidt-united-van-ten-hag-ook-langs-luton-town.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302041,
+    "slug": "live-schaatsen-schouten-gaat-op-5000-meter-voor-vierde-titel-op-wk-afstanden",
+    "type": "article",
+    "title": "Live schaatsen | Schouten gaat op 5.000 meter voor vierde titel op WK afstanden",
+    "subtitle": null,
+    "published_at": "2024-02-18T19:27:57+01:00",
+    "updated_at": "2024-02-18T19:27:58+01:00",
+    "media_id": "lswxdxlandki",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6302041/live-schaatsen-schouten-gaat-op-5000-meter-voor-vierde-titel-op-wk-afstanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302044,
     "slug": "nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer",
     "type": "article",
     "title": "Nederlandse cameraman Hoyte van Hoytema wint BAFTA voor Oppenheimer",
     "subtitle": null,
     "published_at": "2024-02-18T19:08:53+01:00",
-    "updated_at": "2024-02-18T19:09:01+01:00",
+    "updated_at": "2024-02-18T19:22:16+01:00",
     "media_id": "xl5x4qca7dc0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Nederlandse estafettezwemmers pakken in recordtijd uniek zilver op WK",
     "subtitle": null,
     "published_at": "2024-02-18T18:56:12+01:00",
-    "updated_at": "2024-02-18T19:12:11+01:00",
+    "updated_at": "2024-02-18T19:28:47+01:00",
     "media_id": "huwxboka6rzq",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Feyenoord worstelt zich dankzij late goal Wieffer langs tiental RKC",
     "subtitle": null,
     "published_at": "2024-02-18T18:46:00+01:00",
-    "updated_at": "2024-02-18T18:51:28+01:00",
+    "updated_at": "2024-02-18T19:23:50+01:00",
     "media_id": "suvx48qa7fuc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6302026/femke-bol-verbetert-eigen-wereldrecord-op-400-meter-bij-nk-indoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302025,
-    "slug": "schulting-pakt-goud-met-aflossingsploeg-na-val-op-kilometer-goud-voor-velzeboer",
-    "type": "article",
-    "title": "Schulting pakt goud met aflossingsploeg na val op kilometer, goud voor Velzeboer",
-    "subtitle": null,
-    "published_at": "2024-02-18T15:42:56+01:00",
-    "updated_at": "2024-02-18T18:10:36+01:00",
-    "media_id": "bvix6jvaew37",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6302025/schulting-pakt-goud-met-aflossingsploeg-na-val-op-kilometer-goud-voor-velzeboer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302024,
-    "slug": "feyenoord-start-met-geertruida-timber-en-gimenez-tegen-rkc-ook-ivanusec-begint",
-    "type": "article",
-    "title": "Feyenoord start met Geertruida, Timber en Gimenez tegen RKC, ook Ivanusec begint",
-    "subtitle": null,
-    "published_at": "2024-02-18T15:42:36+01:00",
-    "updated_at": "2024-02-18T15:55:53+01:00",
-    "media_id": "mfxxq6wa1ppo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302024/feyenoord-start-met-geertruida-timber-en-gimenez-tegen-rkc-ook-ivanusec-begint.html",
     "open_new_window": false,
     "partner": null
   }
