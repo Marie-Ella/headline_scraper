@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302065,
+    "slug": "weerbericht-na-een-kletsnatte-zondag-wordt-het-maandag-iets-droger",
+    "type": "article",
+    "title": "Weerbericht | Na een kletsnatte zondag wordt het maandag iets droger",
+    "subtitle": null,
+    "published_at": "2024-02-19T05:20:13+01:00",
+    "updated_at": "2024-02-19T05:20:14+01:00",
+    "media_id": "s6lx6qkap13q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302065/weerbericht-na-een-kletsnatte-zondag-wordt-het-maandag-iets-droger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301617,
+    "slug": "studenten-moeten-langer-ingeschreven-staan-voor-kamer-dan-hun-studie-duurt",
+    "type": "article",
+    "title": "Studenten moeten langer ingeschreven staan voor kamer dan hun studie duurt",
+    "subtitle": null,
+    "published_at": "2024-02-19T04:56:15+01:00",
+    "updated_at": "2024-02-19T04:56:16+01:00",
+    "media_id": "0ngxtr8aw01p",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301617/studenten-moeten-langer-ingeschreven-staan-voor-kamer-dan-hun-studie-duurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302063,
     "slug": "nuis-pakt-weer-wk-zilver-op-1500-meter-en-ziet-stolz-opnieuw-hattrick-voltooien",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302041/live-schaatsen-reacties-na-weer-een-wereldtitel-voor-stolz-op-1500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302044,
-    "slug": "nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer",
-    "type": "article",
-    "title": "Nederlandse cameraman Hoyte van Hoytema wint BAFTA voor Oppenheimer",
-    "subtitle": null,
-    "published_at": "2024-02-18T19:08:53+01:00",
-    "updated_at": "2024-02-18T21:30:09+01:00",
-    "media_id": "kw3xbozal83q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6302044/nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302042,
-    "slug": "nederlandse-estafettezwemmers-pakken-in-recordtijd-historisch-zilver-op-wk",
-    "type": "article",
-    "title": "Nederlandse estafettezwemmers pakken in recordtijd historisch zilver op WK",
-    "subtitle": null,
-    "published_at": "2024-02-18T18:56:12+01:00",
-    "updated_at": "2024-02-18T21:55:44+01:00",
-    "media_id": "rvsx19maehl0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6302042/nederlandse-estafettezwemmers-pakken-in-recordtijd-historisch-zilver-op-wk.html",
     "open_new_window": false,
     "partner": null
   }
