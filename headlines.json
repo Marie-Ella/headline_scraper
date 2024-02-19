@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302081,
+    "slug": "danny-masterson-overgeplaatst-naar-minder-strenge-gevangenis",
+    "type": "article",
+    "title": "Danny Masterson overgeplaatst naar minder strenge gevangenis",
+    "subtitle": null,
+    "published_at": "2024-02-19T09:34:18+01:00",
+    "updated_at": "2024-02-19T09:34:19+01:00",
+    "media_id": "m2oxn50ae3y6",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6302081/danny-masterson-overgeplaatst-naar-minder-strenge-gevangenis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302082,
-    "slug": "oekraiense-militairen-trekken-zich-schietend-terug-uit-avdiivka",
+    "slug": "oekraiense-militairen-trekken-zich-al-schietend-terug-uit-avdiivka",
     "type": "video",
-    "title": "Oekraïense militairen trekken zich schietend terug uit Avdiivka",
+    "title": "Oekraïense militairen trekken zich al schietend terug uit Avdiivka",
     "subtitle": "Video",
     "published_at": "2024-02-19T09:31:30+01:00",
-    "updated_at": "2024-02-19T09:31:31+01:00",
+    "updated_at": "2024-02-19T09:35:41+01:00",
     "media_id": "qhwxrvba0fyu",
     "duration": "0:54",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6302082/oekraiense-militairen-trekken-zich-schietend-terug-uit-avdiivka.html",
+    "url": "/videos/6302082/oekraiense-militairen-trekken-zich-al-schietend-terug-uit-avdiivka.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6302067/israel-stelt-deadline-voor-offensief-rafah-gijzelaars-moeten-voor-ramadan-vrij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302066,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2024-02-19T05:25:51+01:00",
-    "updated_at": "2024-02-19T06:09:05+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6302066/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
