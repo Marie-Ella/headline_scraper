@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302240,
+    "slug": "nunl-zoekt-betrokkenen-bij-turkish-airlines-vliegramp-in-2009",
+    "type": "article",
+    "title": "NU.nl zoekt betrokkenen bij Turkish Airlines-vliegramp in 2009",
+    "subtitle": "Oproep",
+    "published_at": "2024-02-20T15:01:33+01:00",
+    "updated_at": "2024-02-20T15:01:34+01:00",
+    "media_id": "128xzpuadrwf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779137,
+      "slug": "vragenoproep",
+      "type": "default",
+      "name": "Oproep",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vragenoproep/6302240/nunl-zoekt-betrokkenen-bij-turkish-airlines-vliegramp-in-2009.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302254,
     "slug": "ruiter-in-mankini-verrast-publiek-bij-australische-springwedstrijd",
     "type": "video",
     "title": "Ruiter in mankini verrast publiek bij Australische springwedstrijd",
     "subtitle": "Video",
     "published_at": "2024-02-20T14:35:57+01:00",
-    "updated_at": "2024-02-20T14:35:58+01:00",
+    "updated_at": "2024-02-20T15:14:20+01:00",
     "media_id": "nzoxyfgates3",
     "duration": "0:49",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6302251,
-    "slug": "x-account-van-joelia-navalnaja-weduwe-van-alexei-navalny-kort-geschorst",
+    "slug": "x-account-van-navalnys-weduwe-yulia-navalnaya-kort-geschorst",
     "type": "article",
-    "title": "X-account van Joelia Navalnaja, weduwe van Alexei Navalny, kort geschorst",
+    "title": "X-account van Navalny's weduwe Yulia Navalnaya kort geschorst",
     "subtitle": null,
     "published_at": "2024-02-20T14:13:44+01:00",
-    "updated_at": "2024-02-20T14:44:49+01:00",
+    "updated_at": "2024-02-20T15:16:37+01:00",
     "media_id": "d8kx7mbag1np",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6302251/x-account-van-joelia-navalnaja-weduwe-van-alexei-navalny-kort-geschorst.html",
+    "url": "/tech/6302251/x-account-van-navalnys-weduwe-yulia-navalnaya-kort-geschorst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302233/vissersboot-helt-naar-rechts-voor-noorse-kust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302214,
-    "slug": "ongediplomeerden-zijn-prima-oplossing-voor-personeelstekort-kinderopvang",
-    "type": "article",
-    "title": "'Ongediplomeerden zijn prima oplossing voor personeelstekort kinderopvang'",
-    "subtitle": "Stelling",
-    "published_at": "2024-02-20T11:02:35+01:00",
-    "updated_at": "2024-02-20T11:02:36+01:00",
-    "media_id": "oavxn1law0zi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6302214/ongediplomeerden-zijn-prima-oplossing-voor-personeelstekort-kinderopvang.html",
     "open_new_window": false,
     "partner": null
   }
