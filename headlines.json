@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302303,
+    "slug": "twee-mannen-verdacht-van-moord-na-schietpartij-na-super-bowl-huldiging",
+    "type": "article",
+    "title": "Twee mannen verdacht van moord na schietpartij na Super Bowl-huldiging",
+    "subtitle": null,
+    "published_at": "2024-02-20T21:47:35+01:00",
+    "updated_at": "2024-02-20T21:47:36+01:00",
+    "media_id": "30jxulza9ik6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6302303/twee-mannen-verdacht-van-moord-na-schietpartij-na-super-bowl-huldiging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302304,
+    "slug": "milaan-geteisterd-door-smog-en-slechte-luchtkwaliteit",
+    "type": "video",
+    "title": "Milaan geteisterd door smog en slechte luchtkwaliteit",
+    "subtitle": "Video",
+    "published_at": "2024-02-20T21:45:05+01:00",
+    "updated_at": "2024-02-20T21:45:07+01:00",
+    "media_id": "cqyxpl4aem65",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302304/milaan-geteisterd-door-smog-en-slechte-luchtkwaliteit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302302,
     "slug": "woedende-van-de-zandschulp-smijt-racket-kapot",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "A1 bij Hoevelaken weer vrijgegeven na dodelijk ongeluk",
     "subtitle": null,
     "published_at": "2024-02-20T21:08:34+01:00",
-    "updated_at": "2024-02-20T21:08:36+01:00",
+    "updated_at": "2024-02-20T21:48:59+01:00",
     "media_id": "4gbxzfhawnhv",
     "duration": null,
     "canonical_section": {
@@ -162,13 +208,13 @@
   },
   {
     "id": 6302291,
-    "slug": "live-champions-league-malen-knalt-dortmund-op-voorsprong-bij-oude-club-psv",
+    "slug": "live-champions-league-psv-halverwege-op-achterstand-tegen-borussia-dortmund",
     "type": "article",
-    "title": "Live Champions League | Malen knalt Dortmund op voorsprong bij oude club PSV",
+    "title": "Live Champions League | PSV halverwege op achterstand tegen Borussia Dortmund",
     "subtitle": null,
     "published_at": "2024-02-20T19:15:17+01:00",
-    "updated_at": "2024-02-20T21:27:34+01:00",
-    "media_id": "qdtxpmuar3z9",
+    "updated_at": "2024-02-20T21:49:49+01:00",
+    "media_id": "rhyxt8oaa0cs",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302291/live-champions-league-malen-knalt-dortmund-op-voorsprong-bij-oude-club-psv.html",
+    "url": "/voetbal/6302291/live-champions-league-psv-halverwege-op-achterstand-tegen-borussia-dortmund.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6302282/the-beatles-krijgen-elk-eigen-film-geregisseerd-door-sam-mendes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302280,
-    "slug": "vs-blokkeert-resolutie-van-vn-veiligheidsraad-over-staakt-het-vuren-in-gaza",
-    "type": "article",
-    "title": "VS blokkeert resolutie van VN-Veiligheidsraad over staakt-het-vuren in Gaza",
-    "subtitle": null,
-    "published_at": "2024-02-20T17:44:00+01:00",
-    "updated_at": "2024-02-20T17:44:01+01:00",
-    "media_id": "ggkxapra62cs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6302280/vs-blokkeert-resolutie-van-vn-veiligheidsraad-over-staakt-het-vuren-in-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302279,
-    "slug": "voor-rellen-in-den-haag-werd-al-man-28-aangehouden-vanwege-opruiing",
-    "type": "article",
-    "title": "Vóór rellen in Den Haag werd al man (28) aangehouden vanwege opruiing",
-    "subtitle": null,
-    "published_at": "2024-02-20T17:34:39+01:00",
-    "updated_at": "2024-02-20T17:35:32+01:00",
-    "media_id": "pp9xzztam5uo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302279/voor-rellen-in-den-haag-werd-al-man-28-aangehouden-vanwege-opruiing.html",
     "open_new_window": false,
     "partner": null
   }
