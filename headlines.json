@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302328,
+    "slug": "grote-brand-in-kringloopwinkel-almere-nog-niet-onder-controle",
+    "type": "article",
+    "title": "Grote brand in kringloopwinkel Almere nog niet onder controle",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:31:54+01:00",
+    "updated_at": "2024-02-21T07:33:07+01:00",
+    "media_id": "1x7xk33aujwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302328/grote-brand-in-kringloopwinkel-almere-nog-niet-onder-controle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302327,
+    "slug": "muziek-staat-na-acht-jaar-weer-op-de-eerste-plek-voor-gordon",
+    "type": "article",
+    "title": "Muziek staat na acht jaar weer op de eerste plek voor Gordon",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:30:41+01:00",
+    "updated_at": "2024-02-21T07:30:42+01:00",
+    "media_id": "wdixguna3oaa",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6302327/muziek-staat-na-acht-jaar-weer-op-de-eerste-plek-voor-gordon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302326,
     "slug": "gasverbruik-in-europa-met-20-procent-verlaagd-sinds-oorlog-in-oekraine",
     "type": "article",
     "title": "Gasverbruik in Europa met 20 procent verlaagd sinds oorlog in Oekraïne",
     "subtitle": null,
     "published_at": "2024-02-21T07:20:32+01:00",
-    "updated_at": "2024-02-21T07:20:33+01:00",
+    "updated_at": "2024-02-21T07:32:25+01:00",
     "media_id": "si6x3lqa2uwm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302313/arnautovic-schiet-inter-langs-atletico-madrid-in-heenduel-champions-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302307,
-    "slug": "psv-houdt-zicht-op-kwartfinales-champions-league-na-gelijkspel-tegen-dortmund",
-    "type": "article",
-    "title": "PSV houdt zicht op kwartfinales Champions League na gelijkspel tegen Dortmund",
-    "subtitle": null,
-    "published_at": "2024-02-20T22:55:48+01:00",
-    "updated_at": "2024-02-20T23:32:04+01:00",
-    "media_id": "5rnxn6famhz5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302307/psv-houdt-zicht-op-kwartfinales-champions-league-na-gelijkspel-tegen-dortmund.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302312,
-    "slug": "spotgoedkope-benzine-leidt-tot-topdrukte-bij-gelders-tankstation",
-    "type": "video",
-    "title": "Spotgoedkope benzine leidt tot topdrukte bij Gelders tankstation",
-    "subtitle": "Video",
-    "published_at": "2024-02-20T22:45:34+01:00",
-    "updated_at": "2024-02-21T06:38:35+01:00",
-    "media_id": "bcvxvvva63ct",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302312/spotgoedkope-benzine-leidt-tot-topdrukte-bij-gelders-tankstation.html",
     "open_new_window": false,
     "partner": null
   }
