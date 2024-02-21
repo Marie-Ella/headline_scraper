@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302454,
+    "slug": "nieuw-album-billie-eilish-is-klaar-onduidelijk-wanneer-het-verschijnt",
+    "type": "article",
+    "title": "Nieuw album Billie Eilish is klaar, onduidelijk wanneer het verschijnt",
+    "subtitle": null,
+    "published_at": "2024-02-21T22:58:44+01:00",
+    "updated_at": "2024-02-21T23:09:31+01:00",
+    "media_id": "ccmxmgvazko5",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6302454/nieuw-album-billie-eilish-is-klaar-onduidelijk-wanneer-het-verschijnt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302452,
+    "slug": "barca-geeft-voorsprong-weg-bij-napoli-in-cl-arsenal-onderuit-door-late-prachtgoal",
+    "type": "article",
+    "title": "Barça geeft voorsprong weg bij Napoli in CL, Arsenal onderuit door late prachtgoal",
+    "subtitle": null,
+    "published_at": "2024-02-21T22:58:10+01:00",
+    "updated_at": "2024-02-21T23:12:38+01:00",
+    "media_id": "hsnxz10arhl9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302452/barca-geeft-voorsprong-weg-bij-napoli-in-cl-arsenal-onderuit-door-late-prachtgoal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302451,
     "slug": "fraaie-kopgoals-van-dijk-en-gakpo-helpen-liverpool-aan-zege-op-laagvlieger",
     "type": "article",
@@ -162,12 +208,12 @@
   },
   {
     "id": 6302445,
-    "slug": "live-cl-barcelona-en-napoli-jagen-in-slotfase-op-goal-arsenal-nog-op-0-0",
+    "slug": "live-cl-reacties-na-gelijkspel-bij-napoli-barca-en-late-zege-porto-op-arsenal",
     "type": "article",
-    "title": "Live CL | Barcelona en Napoli jagen in slotfase op goal, Arsenal nog op 0-0",
+    "title": "Live CL | Reacties na gelijkspel bij Napoli-Barça en late zege Porto op Arsenal",
     "subtitle": null,
     "published_at": "2024-02-21T20:32:20+01:00",
-    "updated_at": "2024-02-21T22:44:05+01:00",
+    "updated_at": "2024-02-21T22:58:55+01:00",
     "media_id": "d7cxdttafg0x",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302445/live-cl-barcelona-en-napoli-jagen-in-slotfase-op-goal-arsenal-nog-op-0-0.html",
+    "url": "/voetbal/6302445/live-cl-reacties-na-gelijkspel-bij-napoli-barca-en-late-zege-porto-op-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6302437/wereldrecordhouder-op-marathon-kiptum-overleed-aan-ernstig-hoofdletsel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302436,
-    "slug": "coa-morgen-waarschijnlijk-minder-dan-2000-mensen-in-ter-apel",
-    "type": "video",
-    "title": "COA: 'Morgen waarschijnlijk minder dan 2.000 mensen in Ter Apel'",
-    "subtitle": "Video",
-    "published_at": "2024-02-21T19:00:11+01:00",
-    "updated_at": "2024-02-21T19:00:12+01:00",
-    "media_id": "3cfxgyxacig6",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302436/coa-morgen-waarschijnlijk-minder-dan-2000-mensen-in-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302434,
-    "slug": "londense-politie-opnieuw-in-opspraak-nu-agent-verkrachter-blijkt-te-zijn",
-    "type": "article",
-    "title": "Londense politie opnieuw in opspraak nu agent verkrachter blijkt te zijn",
-    "subtitle": null,
-    "published_at": "2024-02-21T18:53:04+01:00",
-    "updated_at": "2024-02-21T18:53:06+01:00",
-    "media_id": "tsgxdmpainui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302434/londense-politie-opnieuw-in-opspraak-nu-agent-verkrachter-blijkt-te-zijn.html",
     "open_new_window": false,
     "partner": null
   }
