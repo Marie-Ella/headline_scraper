@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302344,
+    "slug": "tieners-doen-kwart-van-hun-betalingen-met-contant-geld",
+    "type": "article",
+    "title": "Tieners doen kwart van hun betalingen met contant geld",
+    "subtitle": null,
+    "published_at": "2024-02-21T09:43:40+01:00",
+    "updated_at": "2024-02-21T09:43:41+01:00",
+    "media_id": "91txu7cak9p8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302344/tieners-doen-kwart-van-hun-betalingen-met-contant-geld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302343,
     "slug": "vliegtuig-moet-noodlanding-maken-vanwege-beschadigde-vleugel",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Greenchoice keert daltarief om en rekent extra kosten voor zonnepanelenklant",
     "subtitle": null,
     "published_at": "2024-02-21T09:13:15+01:00",
-    "updated_at": "2024-02-21T09:13:16+01:00",
+    "updated_at": "2024-02-21T09:35:29+01:00",
     "media_id": "3gux01bailyo",
     "duration": null,
     "canonical_section": {
@@ -392,12 +415,12 @@
   },
   {
     "id": 6302322,
-    "slug": "nl-alert-verstuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein",
+    "slug": "nl-alert-verstuurd-vanwege-flinke-rook-in-haarlem-brand-is-inmiddels-geblust",
     "type": "article",
-    "title": "NL-Alert verstuurd in Haarlem vanwege grote brand op bedrijventerrein",
+    "title": "NL-Alert verstuurd vanwege flinke rook in Haarlem, brand is inmiddels geblust",
     "subtitle": null,
     "published_at": "2024-02-21T06:55:42+01:00",
-    "updated_at": "2024-02-21T08:20:13+01:00",
+    "updated_at": "2024-02-21T09:48:09+01:00",
     "media_id": "4amxj9wapx3e",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6302322/nl-alert-verstuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein.html",
+    "url": "/binnenland/6302322/nl-alert-verstuurd-vanwege-flinke-rook-in-haarlem-brand-is-inmiddels-geblust.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6302320/scheiding-kevin-costner-rond-na-onenigheid-over-alimentatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302298,
-    "slug": "kan-navo-functie-bromance-tussen-zelensky-en-rutte-veranderen",
-    "type": "video",
-    "title": "Kan NAVO-functie 'bromance' tussen Zelensky en Rutte veranderen?",
-    "subtitle": "Explainer",
-    "published_at": "2024-02-21T06:27:55+01:00",
-    "updated_at": "2024-02-21T06:27:56+01:00",
-    "media_id": "zgxx447akyzr",
-    "duration": "2:24",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6302298/kan-navo-functie-bromance-tussen-zelensky-en-rutte-veranderen.html",
     "open_new_window": false,
     "partner": null
   }
