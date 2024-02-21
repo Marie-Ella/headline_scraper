@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302443,
+    "slug": "sjoemelsoftware-ontdekt-in-diesels-bmw-onduidelijk-om-hoeveel-autos-het-gaat",
+    "type": "article",
+    "title": "Sjoemelsoftware ontdekt in diesels BMW, onduidelijk om hoeveel auto's het gaat",
+    "subtitle": null,
+    "published_at": "2024-02-21T19:56:26+01:00",
+    "updated_at": "2024-02-21T19:59:14+01:00",
+    "media_id": "hx2xw30a9q59",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302443/sjoemelsoftware-ontdekt-in-diesels-bmw-onduidelijk-om-hoeveel-autos-het-gaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302442,
+    "slug": "sinkhole-slokt-autos-en-boom-op-in-napels",
+    "type": "video",
+    "title": "Sinkhole slokt auto's en boom op in Napels",
+    "subtitle": "Video",
+    "published_at": "2024-02-21T19:55:18+01:00",
+    "updated_at": "2024-02-21T19:55:19+01:00",
+    "media_id": "rklx83xay7i0",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302442/sinkhole-slokt-autos-en-boom-op-in-napels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302441,
     "slug": "verstappen-had-lol-op-eerste-dag-met-nieuwe-red-bull-veel-kunnen-proberen",
     "type": "article",
     "title": "Verstappen had lol op eerste dag met nieuwe Red Bull: 'Veel kunnen proberen'",
     "subtitle": null,
     "published_at": "2024-02-21T19:47:07+01:00",
-    "updated_at": "2024-02-21T19:47:08+01:00",
+    "updated_at": "2024-02-21T19:58:56+01:00",
     "media_id": "zhqx1z4axx7h",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6302440,
-    "slug": "nieuw-programma-de-piano-van-chantal-janzen-vanaf-april-te-zien",
+    "slug": "nieuw-pianoprogramma-van-chantal-janzen-vanaf-april-te-zien",
     "type": "article",
-    "title": "Nieuw programma De Piano van Chantal Janzen vanaf april te zien",
+    "title": "Nieuw pianoprogramma van Chantal Janzen vanaf april te zien",
     "subtitle": null,
     "published_at": "2024-02-21T19:28:26+01:00",
-    "updated_at": "2024-02-21T19:28:27+01:00",
+    "updated_at": "2024-02-21T19:52:54+01:00",
     "media_id": "ayfxmpia6nd1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6302440/nieuw-programma-de-piano-van-chantal-janzen-vanaf-april-te-zien.html",
+    "url": "/media/6302440/nieuw-pianoprogramma-van-chantal-janzen-vanaf-april-te-zien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6302425/lot-van-russische-gevangenen-onzeker-deze-poetin-critici-zitten-vast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302422,
-    "slug": "hockeyers-winnen-nu-wel-via-shoot-outs-van-india-in-pro-league",
-    "type": "article",
-    "title": "Hockeyers winnen nu wel via shoot-outs van India in Pro League",
-    "subtitle": null,
-    "published_at": "2024-02-21T17:07:00+01:00",
-    "updated_at": "2024-02-21T17:07:19+01:00",
-    "media_id": "ckxxj42a4hk8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6302422/hockeyers-winnen-nu-wel-via-shoot-outs-van-india-in-pro-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302421,
-    "slug": "meteoroloog-geeft-minicollege-klimaatverandering-zo-zit-het",
-    "type": "video",
-    "title": "Meteoroloog geeft minicollege klimaatverandering: zo zit het",
-    "subtitle": "Video",
-    "published_at": "2024-02-21T17:03:45+01:00",
-    "updated_at": "2024-02-21T17:58:43+01:00",
-    "media_id": "h9cxaj3ad5os",
-    "duration": "6:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302421/meteoroloog-geeft-minicollege-klimaatverandering-zo-zit-het.html",
     "open_new_window": false,
     "partner": null
   }
