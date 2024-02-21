@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302428,
+    "slug": "hoofdredacteur-brabants-dagblad-stapt-op-na-beschuldigingen-over-angstcultuur",
+    "type": "article",
+    "title": "Hoofdredacteur Brabants Dagblad stapt op na beschuldigingen over angstcultuur",
+    "subtitle": null,
+    "published_at": "2024-02-21T17:45:40+01:00",
+    "updated_at": "2024-02-21T17:45:41+01:00",
+    "media_id": "hswxndfart74",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6302428/hoofdredacteur-brabants-dagblad-stapt-op-na-beschuldigingen-over-angstcultuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302429,
+    "slug": "marko-zeer-tevreden-over-eerste-testdag-verstappen-max-was-positief",
+    "type": "article",
+    "title": "Marko zeer tevreden over eerste testdag Verstappen: 'Max was positief'",
+    "subtitle": null,
+    "published_at": "2024-02-21T17:36:25+01:00",
+    "updated_at": "2024-02-21T17:45:16+01:00",
+    "media_id": "14wxr86a3mkj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6302429/marko-zeer-tevreden-over-eerste-testdag-verstappen-max-was-positief.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302423,
     "slug": "vrouw-alaphilippe-slaat-terug-na-uithaal-lefevere-dit-is-onaanvaardbaar",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Verstappen zorgt voor lachende gezichten op productieve eerste testdag Red Bull",
     "subtitle": null,
     "published_at": "2024-02-21T17:02:07+01:00",
-    "updated_at": "2024-02-21T17:29:38+01:00",
+    "updated_at": "2024-02-21T17:39:50+01:00",
     "media_id": "rmdxgv2ao41a",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302403/wereldkampioenen-beune-en-kok-krijgen-aanwijsplek-voor-wk-allround-en-sprint.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302400,
-    "slug": "nederlands-toptalent-huijsen-18-lijkt-voor-spaanse-interlandcarriere-te-gaan",
-    "type": "article",
-    "title": "Nederlands toptalent Huijsen (18) lijkt voor Spaanse interlandcarrière te gaan",
-    "subtitle": null,
-    "published_at": "2024-02-21T15:00:04+01:00",
-    "updated_at": "2024-02-21T15:26:45+01:00",
-    "media_id": "9rzxwlsanyga",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302400/nederlands-toptalent-huijsen-18-lijkt-voor-spaanse-interlandcarriere-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302398,
-    "slug": "waarschijnlijk-iemand-overleden-na-aanvaring-schip-met-boorplatform-in-botlek",
-    "type": "article",
-    "title": "Waarschijnlijk iemand overleden na aanvaring schip met boorplatform in Botlek",
-    "subtitle": null,
-    "published_at": "2024-02-21T14:56:17+01:00",
-    "updated_at": "2024-02-21T15:35:16+01:00",
-    "media_id": "80jxsq4ainj3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302398/waarschijnlijk-iemand-overleden-na-aanvaring-schip-met-boorplatform-in-botlek.html",
     "open_new_window": false,
     "partner": null
   }
