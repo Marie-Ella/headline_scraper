@@ -1,12 +1,58 @@
 [
   {
-    "id": 6302594,
-    "slug": "code-oranje-wegens-storm-louis-voorbij-wel-code-geel-in-noorden-van-het-land",
+    "id": 6302595,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Code oranje wegens storm Louis voorbij, wel code geel in noorden van het land",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-23T05:15:44+01:00",
+    "updated_at": "2024-02-23T05:15:45+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6302595/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302545,
+    "slug": "grote-vraag-wie-rutte-opvolgt-als-hij-naar-navo-vertrekt-kennen-de-situatie-niet",
+    "type": "article",
+    "title": "Grote vraag wie Rutte opvolgt als hij naar NAVO vertrekt: 'Kennen de situatie niet'",
+    "subtitle": null,
+    "published_at": "2024-02-23T05:00:08+01:00",
+    "updated_at": "2024-02-23T05:00:09+01:00",
+    "media_id": "cbsxaw7a32x0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6302545/grote-vraag-wie-rutte-opvolgt-als-hij-naar-navo-vertrekt-kennen-de-situatie-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302594,
+    "slug": "code-oranje-wegens-storm-louis-voorbij-schade-valt-mee",
+    "type": "article",
+    "title": "Code oranje wegens storm Louis voorbij, schade valt mee",
     "subtitle": null,
     "published_at": "2024-02-23T00:46:51+01:00",
-    "updated_at": "2024-02-23T00:55:20+01:00",
+    "updated_at": "2024-02-23T05:06:01+01:00",
     "media_id": "bp8xck7avnpk",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6302594/code-oranje-wegens-storm-louis-voorbij-wel-code-geel-in-noorden-van-het-land.html",
+    "url": "/binnenland/6302594/code-oranje-wegens-storm-louis-voorbij-schade-valt-mee.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Meerdere doden door grote brand in flatgebouw Valencia",
     "subtitle": null,
     "published_at": "2024-02-23T00:36:59+01:00",
-    "updated_at": "2024-02-23T00:38:59+01:00",
+    "updated_at": "2024-02-23T05:08:38+01:00",
     "media_id": "rdfx9e0ajx10",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302579/jerrycans-met-chemicalien-liggen-op-a58-na-ongeval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302578,
-    "slug": "storm-louis-trekt-over-nederland-bomen-omgewaaid-windstoten-boven-100-kilometer-per-uur",
-    "type": "article",
-    "title": "Storm Louis trekt over Nederland: bomen omgewaaid, windstoten boven 100 kilometer per uur",
-    "subtitle": null,
-    "published_at": "2024-02-22T20:18:24+01:00",
-    "updated_at": "2024-02-22T23:02:23+01:00",
-    "media_id": "4h2x0q0atl0u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302578/storm-louis-trekt-over-nederland-bomen-omgewaaid-windstoten-boven-100-kilometer-per-uur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302576,
-    "slug": "zeker-14-gewonden-bij-grote-brand-in-flat-valencia-mogelijk-nog-mensen-binnen",
-    "type": "article",
-    "title": "Zeker 14 gewonden bij grote brand in flat Valencia, mogelijk nog mensen binnen",
-    "subtitle": null,
-    "published_at": "2024-02-22T20:16:24+01:00",
-    "updated_at": "2024-02-22T23:53:40+01:00",
-    "media_id": "ttoxyd8awfxq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302576/zeker-14-gewonden-bij-grote-brand-in-flat-valencia-mogelijk-nog-mensen-binnen.html",
     "open_new_window": false,
     "partner": null
   }
