@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302596,
+    "slug": "weerbericht-mix-van-zon-buien-en-nog-steeds-flink-wat-wind",
+    "type": "article",
+    "title": "Weerbericht | Mix van zon, buien en nog steeds flink wat wind",
+    "subtitle": null,
+    "published_at": "2024-02-23T05:33:59+01:00",
+    "updated_at": "2024-02-23T05:45:23+01:00",
+    "media_id": "m1nxfr4attu3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302596/weerbericht-mix-van-zon-buien-en-nog-steeds-flink-wat-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302595,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6302593,
-    "slug": "meerdere-doden-door-grote-brand-in-flatgebouw-valencia",
+    "slug": "zeker-vier-doden-door-grote-brand-in-flatgebouw-valencia",
     "type": "article",
-    "title": "Meerdere doden door grote brand in flatgebouw Valencia",
+    "title": "Zeker vier doden door grote brand in flatgebouw Valencia",
     "subtitle": null,
     "published_at": "2024-02-23T00:36:59+01:00",
-    "updated_at": "2024-02-23T05:08:38+01:00",
+    "updated_at": "2024-02-23T05:43:04+01:00",
     "media_id": "rdfx9e0ajx10",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6302593/meerdere-doden-door-grote-brand-in-flatgebouw-valencia.html",
+    "url": "/buitenland/6302593/zeker-vier-doden-door-grote-brand-in-flatgebouw-valencia.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302580/werk-op-bouwplaats-in-lochem-ligt-nog-zeker-een-week-stil-vanwege-onderzoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302579,
-    "slug": "jerrycans-met-chemicalien-liggen-op-a58-na-ongeval",
-    "type": "video",
-    "title": "Jerrycans met chemicaliën liggen op A58 na ongeval",
-    "subtitle": "Video",
-    "published_at": "2024-02-22T20:23:36+01:00",
-    "updated_at": "2024-02-22T20:29:50+01:00",
-    "media_id": "jayxbtda7lb1",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302579/jerrycans-met-chemicalien-liggen-op-a58-na-ongeval.html",
     "open_new_window": false,
     "partner": null
   }
