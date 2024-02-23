@@ -1,5 +1,74 @@
 [
   {
+    "id": 6302639,
+    "slug": "een-van-de-gewonden-bij-brugongeluk-lochem-heeft-ziekenhuis-verlaten",
+    "type": "article",
+    "title": "Eén van de gewonden bij brugongeluk Lochem heeft ziekenhuis verlaten",
+    "subtitle": null,
+    "published_at": "2024-02-23T11:17:29+01:00",
+    "updated_at": "2024-02-23T11:17:31+01:00",
+    "media_id": "1w9x6hjac1zc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302639/een-van-de-gewonden-bij-brugongeluk-lochem-heeft-ziekenhuis-verlaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302623,
+    "slug": "presentatrice-wendy-williams-59-lijdt-aan-afasie-en-frontotemporale-dementie",
+    "type": "article",
+    "title": "Presentatrice Wendy Williams (59) lijdt aan afasie en frontotemporale dementie",
+    "subtitle": null,
+    "published_at": "2024-02-23T11:11:28+01:00",
+    "updated_at": "2024-02-23T11:11:29+01:00",
+    "media_id": "m2txt9ya5run",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6302623/presentatrice-wendy-williams-59-lijdt-aan-afasie-en-frontotemporale-dementie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302548,
+    "slug": "nunl-maakt-nieuwe-truecrimepodcast-over-zwembadmoord-in-marum",
+    "type": "article",
+    "title": "NU.nl maakt nieuwe truecrimepodcast over zwembadmoord in Marum",
+    "subtitle": null,
+    "published_at": "2024-02-23T11:06:36+01:00",
+    "updated_at": "2024-02-23T11:06:37+01:00",
+    "media_id": "du6x79ha24gm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6302548/nunl-maakt-nieuwe-truecrimepodcast-over-zwembadmoord-in-marum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302633,
     "slug": "bouwvakker-redt-hond-van-rots-in-kolkende-boliviaanse-rivier",
     "type": "video",
@@ -24,12 +93,12 @@
   },
   {
     "id": 6302632,
-    "slug": "rkc-doelman-vaessen-toch-niet-geschorst-voor-veelbesproken-rode-kaart-in-de-kuip",
+    "slug": "rkc-doelman-vaessen-toch-niet-geschorst-voor-veelbesproken-rood-in-de-kuip",
     "type": "article",
-    "title": "RKC-doelman Vaessen toch niet geschorst voor veelbesproken rode kaart in De Kuip",
+    "title": "RKC-doelman Vaessen toch niet geschorst voor veelbesproken rood in De Kuip",
     "subtitle": null,
     "published_at": "2024-02-23T10:43:14+01:00",
-    "updated_at": "2024-02-23T10:50:10+01:00",
+    "updated_at": "2024-02-23T10:59:26+01:00",
     "media_id": "iysxyqlagyll",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302632/rkc-doelman-vaessen-toch-niet-geschorst-voor-veelbesproken-rode-kaart-in-de-kuip.html",
+    "url": "/voetbal/6302632/rkc-doelman-vaessen-toch-niet-geschorst-voor-veelbesproken-rood-in-de-kuip.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Storm Louis zorgt voor recordhoeveelheid windenergie",
     "subtitle": null,
     "published_at": "2024-02-23T10:37:23+01:00",
-    "updated_at": "2024-02-23T10:37:24+01:00",
+    "updated_at": "2024-02-23T11:17:27+01:00",
     "media_id": "6opx6u7a5gcu",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Van Gerwen uit zorgen om tienersensatie Littler: 'Vinger in zijn neus is al nieuws'",
     "subtitle": null,
     "published_at": "2024-02-23T10:15:48+01:00",
-    "updated_at": "2024-02-23T10:15:58+01:00",
+    "updated_at": "2024-02-23T11:05:20+01:00",
     "media_id": "0bbxo3ua9yvo",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "De situatie op de coëfficiëntenlijst? Nederland bevindt zich in niemandsland",
     "subtitle": null,
     "published_at": "2024-02-23T10:15:24+01:00",
-    "updated_at": "2024-02-23T10:15:25+01:00",
+    "updated_at": "2024-02-23T11:16:58+01:00",
     "media_id": "0xfxk4ka9m2c",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302605/ajacieden-na-wonderbaarlijke-ontsnapping-goede-keeper-en-een-beetje-geluk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302604,
-    "slug": "drie-doden-en-meerdere-gewonden-na-russische-droneaanval-in-odesa",
-    "type": "article",
-    "title": "Drie doden en meerdere gewonden na Russische droneaanval in Odesa",
-    "subtitle": null,
-    "published_at": "2024-02-23T08:16:16+01:00",
-    "updated_at": "2024-02-23T10:31:55+01:00",
-    "media_id": "lr3xopvamje2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6302604/drie-doden-en-meerdere-gewonden-na-russische-droneaanval-in-odesa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302603,
-    "slug": "live-f1-testdag-hamilton-komt-op-zachte-banden-niet-aan-tijden-perez-en-sainz",
-    "type": "article",
-    "title": "Live F1-testdag | Hamilton komt op zachte banden niet aan tijden Pérez en Sainz",
-    "subtitle": null,
-    "published_at": "2024-02-23T07:55:08+01:00",
-    "updated_at": "2024-02-23T10:25:03+01:00",
-    "media_id": "vbnx7zqa2rmp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6302603/live-f1-testdag-hamilton-komt-op-zachte-banden-niet-aan-tijden-perez-en-sainz.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302602,
-    "slug": "einde-voor-website-van-mediaplatform-vice-media",
-    "type": "article",
-    "title": "Einde voor website van mediaplatform Vice Media",
-    "subtitle": null,
-    "published_at": "2024-02-23T07:43:59+01:00",
-    "updated_at": "2024-02-23T08:08:45+01:00",
-    "media_id": "k3nx20taez19",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6302602/einde-voor-website-van-mediaplatform-vice-media.html",
     "open_new_window": false,
     "partner": null
   }
