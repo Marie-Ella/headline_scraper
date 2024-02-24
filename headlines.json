@@ -1,12 +1,58 @@
 [
   {
-    "id": 6302746,
-    "slug": "weerbericht-dag-begint-droog-in-de-middag-ontstaan-er-buien",
+    "id": 6302539,
+    "slug": "whatsapp-na-vijftien-jaar-nog-steeds-superpopulair-ook-onder-criminelen",
     "type": "article",
-    "title": "Weerbericht | Dag begint droog, in de middag ontstaan er buien",
+    "title": "WhatsApp na vijftien jaar nog steeds superpopulair (ook onder criminelen)",
+    "subtitle": "NU+",
+    "published_at": "2024-02-24T06:05:41+01:00",
+    "updated_at": "2024-02-24T06:05:42+01:00",
+    "media_id": "9u7x27gaw8yt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6302539/whatsapp-na-vijftien-jaar-nog-steeds-superpopulair-ook-onder-criminelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302734,
+    "slug": "met-poetin-als-schietschijf-trainen-oekraiense-soldaten-op-de-aanval",
+    "type": "video",
+    "title": "Met Poetin als schietschijf trainen Oekraïense soldaten op de aanval",
+    "subtitle": "Explainer",
+    "published_at": "2024-02-24T06:03:41+01:00",
+    "updated_at": "2024-02-24T06:03:43+01:00",
+    "media_id": "l0rxqsjas8nw",
+    "duration": "2:13",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6302734/met-poetin-als-schietschijf-trainen-oekraiense-soldaten-op-de-aanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302746,
+    "slug": "weerbericht-dag-begint-droog-in-de-middag-kans-op-buien",
+    "type": "article",
+    "title": "Weerbericht | Dag begint droog, in de middag kans op buien",
     "subtitle": null,
     "published_at": "2024-02-24T05:46:06+01:00",
-    "updated_at": "2024-02-24T05:46:36+01:00",
+    "updated_at": "2024-02-24T05:53:27+01:00",
     "media_id": "debx1f3a960f",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6302746/weerbericht-dag-begint-droog-in-de-middag-ontstaan-er-buien.html",
+    "url": "/weerbericht/6302746/weerbericht-dag-begint-droog-in-de-middag-kans-op-buien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6302724/hamas-praat-met-egypte-israel-neemt-huizen-onder-vuur-in-rafah.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302730,
-    "slug": "acteur-bas-muijs-staat-langs-snelweg-na-auto-ongeluk-op-a4",
-    "type": "video",
-    "title": "Acteur Bas Muijs staat langs snelweg na auto-ongeluk op A4",
-    "subtitle": "Video",
-    "published_at": "2024-02-23T21:13:01+01:00",
-    "updated_at": "2024-02-23T21:13:26+01:00",
-    "media_id": "rv5xtqpamzap",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302730/acteur-bas-muijs-staat-langs-snelweg-na-auto-ongeluk-op-a4.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302727,
-    "slug": "oostenrijkse-oud-kanselier-kurz-schuldig-aan-afleggen-valse-getuigenis",
-    "type": "article",
-    "title": "Oostenrijkse oud-kanselier Kurz schuldig aan afleggen valse getuigenis",
-    "subtitle": null,
-    "published_at": "2024-02-23T20:44:45+01:00",
-    "updated_at": "2024-02-23T22:15:36+01:00",
-    "media_id": "iatxle5amxvb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302727/oostenrijkse-oud-kanselier-kurz-schuldig-aan-afleggen-valse-getuigenis.html",
     "open_new_window": false,
     "partner": null
   }
