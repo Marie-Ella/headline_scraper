@@ -1,12 +1,81 @@
 [
   {
+    "id": 6302815,
+    "slug": "schaatser-bosker-kampt-met-mentale-problemen-zat-woensdag-jankend-thuis",
+    "type": "article",
+    "title": "Schaatser Bosker kampt met mentale problemen: 'Zat woensdag jankend thuis'",
+    "subtitle": null,
+    "published_at": "2024-02-24T14:07:11+01:00",
+    "updated_at": "2024-02-24T14:07:12+01:00",
+    "media_id": "rqwxp7raoyd9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6302815/schaatser-bosker-kampt-met-mentale-problemen-zat-woensdag-jankend-thuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302814,
+    "slug": "extinction-rebellion-fietst-snelweg-a10-over",
+    "type": "video",
+    "title": "Extinction Rebellion fietst snelweg A10 over",
+    "subtitle": "Video",
+    "published_at": "2024-02-24T14:04:53+01:00",
+    "updated_at": "2024-02-24T14:04:54+01:00",
+    "media_id": "kk2xeukafnnt",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302814/extinction-rebellion-fietst-snelweg-a10-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302389,
+    "slug": "is-rijst-nou-slecht-voor-je-natte-smartphone",
+    "type": "article",
+    "title": "Is rijst nou slecht voor je natte smartphone?",
+    "subtitle": "NU+",
+    "published_at": "2024-02-24T14:01:24+01:00",
+    "updated_at": "2024-02-24T14:01:35+01:00",
+    "media_id": "tllxo2ea66y8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6302389/is-rijst-nou-slecht-voor-je-natte-smartphone.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302811,
     "slug": "geen-derde-boete-voor-coa-minder-dan-2000-asielzoekers-in-ter-apel",
     "type": "article",
     "title": "Geen derde boete voor COA, minder dan 2.000 asielzoekers in Ter Apel",
     "subtitle": null,
     "published_at": "2024-02-24T13:52:15+01:00",
-    "updated_at": "2024-02-24T13:52:40+01:00",
+    "updated_at": "2024-02-24T13:59:15+01:00",
     "media_id": "cvoxwkrataz8",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6302810,
-    "slug": "zelensky-blijft-strijdvaardig-na-twee-jaar-oorlog-730-dagen-dichter-bij-zege",
+    "slug": "zelensky-na-twee-jaar-oorlog-zullen-winnen-op-de-mooiste-dag-van-ons-leven",
     "type": "article",
-    "title": "Zelensky blijft strijdvaardig na twee jaar oorlog: '730 dagen dichter bij zege'",
+    "title": "Zelensky na twee jaar oorlog: 'Zullen winnen op de mooiste dag van ons leven'",
     "subtitle": null,
     "published_at": "2024-02-24T13:29:44+01:00",
-    "updated_at": "2024-02-24T13:30:20+01:00",
+    "updated_at": "2024-02-24T14:11:54+01:00",
     "media_id": "c4mxla8acnxs",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/twee-jaar-oorlog-in-oekraine/6302810/zelensky-blijft-strijdvaardig-na-twee-jaar-oorlog-730-dagen-dichter-bij-zege.html",
+    "url": "/twee-jaar-oorlog-in-oekraine/6302810/zelensky-na-twee-jaar-oorlog-zullen-winnen-op-de-mooiste-dag-van-ons-leven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,8 +213,8 @@
     "title": "Kunstschaatsicoon Joan Haanappel (83) overleden",
     "subtitle": null,
     "published_at": "2024-02-24T12:53:50+01:00",
-    "updated_at": "2024-02-24T13:49:10+01:00",
-    "media_id": "dr9xjuaanhdw",
+    "updated_at": "2024-02-24T14:18:51+01:00",
+    "media_id": "lsgxtdhao9km",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -190,7 +259,7 @@
     "title": "Politie begint klimaatactivisten te verwijderen van A10, zeventien arrestaties",
     "subtitle": null,
     "published_at": "2024-02-24T12:19:13+01:00",
-    "updated_at": "2024-02-24T13:35:01+01:00",
+    "updated_at": "2024-02-24T14:16:14+01:00",
     "media_id": "negxi56a2sei",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6302779/rapper-wiley-verliest-koninklijke-onderscheiding-na-antisemitische-uitspraken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302694,
-    "slug": "ik-kan-niet-meer-zonder-whatsapp",
-    "type": "article",
-    "title": "'Ik kan niet meer zonder WhatsApp'",
-    "subtitle": "Stelling",
-    "published_at": "2024-02-24T10:58:04+01:00",
-    "updated_at": "2024-02-24T10:58:05+01:00",
-    "media_id": "9ctxf2pazimw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6302694/ik-kan-niet-meer-zonder-whatsapp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302777,
-    "slug": "boze-franse-boeren-bestormen-beurs-vlak-voor-komst-macron",
-    "type": "video",
-    "title": "Boze Franse boeren bestormen beurs vlak voor komst Macron",
-    "subtitle": "Video",
-    "published_at": "2024-02-24T10:57:40+01:00",
-    "updated_at": "2024-02-24T10:57:41+01:00",
-    "media_id": "qp5xhiwadfjf",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302777/boze-franse-boeren-bestormen-beurs-vlak-voor-komst-macron.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302776,
-    "slug": "live-omloop-groep-met-van-aert-en-laporte-rekent-kopgroep-met-twee-nederlanders-in",
-    "type": "article",
-    "title": "Live Omloop | Groep met Van Aert en Laporte rekent kopgroep met twee Nederlanders in",
-    "subtitle": null,
-    "published_at": "2024-02-24T10:57:30+01:00",
-    "updated_at": "2024-02-24T13:26:48+01:00",
-    "media_id": "em0xo58afl9t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6302776/live-omloop-groep-met-van-aert-en-laporte-rekent-kopgroep-met-twee-nederlanders-in.html",
     "open_new_window": false,
     "partner": null
   }
