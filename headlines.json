@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302821,
+    "slug": "ford-zet-levering-elektrische-pick-uptruck-stop-wegens-onbekend-probleem",
+    "type": "article",
+    "title": "Ford zet levering elektrische pick-uptruck stop wegens onbekend probleem",
+    "subtitle": null,
+    "published_at": "2024-02-24T15:39:55+01:00",
+    "updated_at": "2024-02-24T15:39:56+01:00",
+    "media_id": "bijx1m6a3n87",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302821/ford-zet-levering-elektrische-pick-uptruck-stop-wegens-onbekend-probleem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302816,
+    "slug": "politie-beeindigt-klimaatactie-op-a10-en-arresteert-ruim-driehonderd-activisten",
+    "type": "article",
+    "title": "Politie beëindigt klimaatactie op A10 en arresteert ruim driehonderd activisten",
+    "subtitle": null,
+    "published_at": "2024-02-24T15:32:21+01:00",
+    "updated_at": "2024-02-24T15:41:50+01:00",
+    "media_id": "qzzxhc5afil7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302816/politie-beeindigt-klimaatactie-op-a10-en-arresteert-ruim-driehonderd-activisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302820,
     "slug": "eiffeltoren-opent-zondag-weer-voor-toeristen-na-akkoord-met-stakend-personeel",
     "type": "article",
     "title": "Eiffeltoren opent zondag weer voor toeristen na akkoord met stakend personeel",
     "subtitle": null,
     "published_at": "2024-02-24T15:28:38+01:00",
-    "updated_at": "2024-02-24T15:28:39+01:00",
+    "updated_at": "2024-02-24T15:32:20+01:00",
     "media_id": "8itxpbxajqvf",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Graham Norton kondigt plotseling vertrek bij radioshow aan",
     "subtitle": null,
     "published_at": "2024-02-24T15:23:04+01:00",
-    "updated_at": "2024-02-24T15:23:05+01:00",
+    "updated_at": "2024-02-24T15:47:17+01:00",
     "media_id": "4buxck9awwq8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302800/twee-jaar-oorlog-in-oekraine-zo-verliepen-de-eerste-dagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302706,
-    "slug": "defensie-expert-ko-colijn-over-hoe-oekraine-er-na-2-jaar-oorlog-voor-staat",
-    "type": "article",
-    "title": "Defensie-expert Ko Colijn over hoe Oekraïne er na 2 jaar oorlog voor staat",
-    "subtitle": "NU+",
-    "published_at": "2024-02-24T12:00:24+01:00",
-    "updated_at": "2024-02-24T15:25:00+01:00",
-    "media_id": "437xhqcaztp9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6302706/defensie-expert-ko-colijn-over-hoe-oekraine-er-na-2-jaar-oorlog-voor-staat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302796,
-    "slug": "pasgeboren-olifantje-geniet-van-eerste-modderbad-in-beekse-bergen",
-    "type": "video",
-    "title": "Pasgeboren olifantje geniet van eerste modderbad in Beekse Bergen",
-    "subtitle": "Video",
-    "published_at": "2024-02-24T11:47:56+01:00",
-    "updated_at": "2024-02-24T11:47:57+01:00",
-    "media_id": "lpyxv7ha91d8",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302796/pasgeboren-olifantje-geniet-van-eerste-modderbad-in-beekse-bergen.html",
     "open_new_window": false,
     "partner": null
   }
