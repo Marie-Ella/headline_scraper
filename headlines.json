@@ -1,12 +1,81 @@
 [
   {
+    "id": 6302881,
+    "slug": "politie-onderzoekt-plek-waar-rapper-bigidagoe-is-doodgeschoten",
+    "type": "video",
+    "title": "Politie onderzoekt plek waar rapper Bigidagoe is doodgeschoten",
+    "subtitle": "Video",
+    "published_at": "2024-02-25T12:12:51+01:00",
+    "updated_at": "2024-02-25T12:12:51+01:00",
+    "media_id": "dklxwviab78j",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302881/politie-onderzoekt-plek-waar-rapper-bigidagoe-is-doodgeschoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302879,
+    "slug": "jongen-14-gewond-geraakt-en-aangehouden-na-explosie-in-capelle",
+    "type": "article",
+    "title": "Jongen (14) gewond geraakt en aangehouden na explosie in Capelle",
+    "subtitle": null,
+    "published_at": "2024-02-25T12:05:42+01:00",
+    "updated_at": "2024-02-25T12:05:43+01:00",
+    "media_id": "l70xu6faeem4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302879/jongen-14-gewond-geraakt-en-aangehouden-na-explosie-in-capelle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302620,
+    "slug": "krijgen-we-ons-vervoer-op-tijd-duurzaam-kind-kan-zien-dat-dit-fout-gaat",
+    "type": "article",
+    "title": "Krijgen we ons vervoer op tijd duurzaam? 'Kind kan zien dat dit fout gaat'",
+    "subtitle": "NU+",
+    "published_at": "2024-02-25T12:00:04+01:00",
+    "updated_at": "2024-02-25T12:00:05+01:00",
+    "media_id": "wrpxg5eavo2g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6302620/krijgen-we-ons-vervoer-op-tijd-duurzaam-kind-kan-zien-dat-dit-fout-gaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302880,
     "slug": "rijpma-de-jong-vergroot-voorsprong-bij-nk-na-fraai-duel-met-dul-op-1500-meter",
     "type": "article",
     "title": "Rijpma-de Jong vergroot voorsprong bij NK na fraai duel met Dul op 1.500 meter",
     "subtitle": null,
     "published_at": "2024-02-25T11:48:17+01:00",
-    "updated_at": "2024-02-25T11:48:18+01:00",
+    "updated_at": "2024-02-25T11:50:37+01:00",
     "media_id": "g38xviva1mme",
     "duration": null,
     "canonical_section": {
@@ -47,13 +116,13 @@
   },
   {
     "id": 6302876,
-    "slug": "live-eredivisie-zwalkend-vitesse-warmt-op-voor-kelderkraker-tegen-excelsior",
+    "slug": "live-eredivisie-excelsior-warmt-op-voor-kelderkraker-tegen-zwalkend-vitesse",
     "type": "article",
-    "title": "Live Eredivisie | Zwalkend Vitesse warmt op voor kelderkraker tegen Excelsior",
+    "title": "Live Eredivisie | Excelsior warmt op voor kelderkraker tegen zwalkend Vitesse",
     "subtitle": null,
     "published_at": "2024-02-25T11:33:21+01:00",
-    "updated_at": "2024-02-25T11:33:22+01:00",
-    "media_id": "gt1xamva4rdw",
+    "updated_at": "2024-02-25T12:11:39+01:00",
+    "media_id": "6vcxg91a8ibw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302876/live-eredivisie-zwalkend-vitesse-warmt-op-voor-kelderkraker-tegen-excelsior.html",
+    "url": "/voetbal/6302876/live-eredivisie-excelsior-warmt-op-voor-kelderkraker-tegen-zwalkend-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Rapper Bigidagoe doodgeschoten op bedrijventerrein in Amsterdam",
     "subtitle": null,
     "published_at": "2024-02-25T10:57:00+01:00",
-    "updated_at": "2024-02-25T11:46:50+01:00",
+    "updated_at": "2024-02-25T12:13:08+01:00",
     "media_id": "82zx1zoahitn",
     "duration": null,
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Frank van den Broek: van informaticastudent naar wielerheld in België",
     "subtitle": "NU+",
     "published_at": "2024-02-25T10:35:26+01:00",
-    "updated_at": "2024-02-25T10:35:27+01:00",
+    "updated_at": "2024-02-25T12:01:37+01:00",
     "media_id": "mw7xb3na3uvz",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Xavi lovend over Frenkie de Jong na jubileumgoal: 'Weinig spelers zoals hij'",
     "subtitle": null,
     "published_at": "2024-02-25T10:30:03+01:00",
-    "updated_at": "2024-02-25T11:47:01+01:00",
+    "updated_at": "2024-02-25T11:51:51+01:00",
     "media_id": "02px195agjoz",
     "duration": null,
     "canonical_section": {
@@ -300,12 +369,12 @@
   },
   {
     "id": 6302869,
-    "slug": "britse-koning-charles-overladen-door-duizenden-beterschapskaarten",
+    "slug": "britse-koning-charles-overladen-met-duizenden-beterschapskaarten",
     "type": "video",
-    "title": "Britse koning Charles overladen door duizenden beterschapskaarten",
+    "title": "Britse koning Charles overladen met duizenden beterschapskaarten",
     "subtitle": "Video",
     "published_at": "2024-02-25T09:57:56+01:00",
-    "updated_at": "2024-02-25T09:57:57+01:00",
+    "updated_at": "2024-02-25T12:10:42+01:00",
     "media_id": "pdcxi3sa2jqd",
     "duration": "1:00",
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6302869/britse-koning-charles-overladen-door-duizenden-beterschapskaarten.html",
+    "url": "/videos/6302869/britse-koning-charles-overladen-met-duizenden-beterschapskaarten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302864/nuis-vol-vertrouwen-voor-laatste-dag-nk-ik-voel-me-beter-dan-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302863,
-    "slug": "trump-wint-voorverkiezing-south-carolina-joe-je-bent-ontslagen",
-    "type": "video",
-    "title": "Trump wint voorverkiezing South Carolina: 'Joe, je bent ontslagen!'",
-    "subtitle": "Video",
-    "published_at": "2024-02-25T09:00:53+01:00",
-    "updated_at": "2024-02-25T09:23:01+01:00",
-    "media_id": "ounxth8aud83",
-    "duration": "1:07",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302863/trump-wint-voorverkiezing-south-carolina-joe-je-bent-ontslagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302862,
-    "slug": "norris-heeft-geen-spijt-van-te-vroege-contractverlenging-blij-bij-mclaren",
-    "type": "article",
-    "title": "Norris heeft geen spijt van 'te vroege' contractverlenging: 'Blij bij McLaren'",
-    "subtitle": null,
-    "published_at": "2024-02-25T08:44:46+01:00",
-    "updated_at": "2024-02-25T10:04:33+01:00",
-    "media_id": "jclxa0maiffe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6302862/norris-heeft-geen-spijt-van-te-vroege-contractverlenging-blij-bij-mclaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302861,
-    "slug": "warmste-februari-ooit-door-aanhoudend-zacht-weer-record-uit-1990-gebroken",
-    "type": "article",
-    "title": "Warmste februari ooit door aanhoudend zacht weer, record uit 1990 gebroken",
-    "subtitle": null,
-    "published_at": "2024-02-25T08:23:55+01:00",
-    "updated_at": "2024-02-25T09:59:06+01:00",
-    "media_id": "zr3xj3nak0by",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302861/warmste-februari-ooit-door-aanhoudend-zacht-weer-record-uit-1990-gebroken.html",
     "open_new_window": false,
     "partner": null
   }
