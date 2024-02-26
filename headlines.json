@@ -1,12 +1,58 @@
 [
   {
+    "id": 6303020,
+    "slug": "hackersbende-lockbit-keert-terug-en-dreigt-met-aanvallen-op-overheidssector",
+    "type": "article",
+    "title": "Hackersbende Lockbit keert terug en dreigt met aanvallen op overheidssector",
+    "subtitle": null,
+    "published_at": "2024-02-26T16:01:45+01:00",
+    "updated_at": "2024-02-26T16:01:47+01:00",
+    "media_id": "5n6xzq9a7v8h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6303020/hackersbende-lockbit-keert-terug-en-dreigt-met-aanvallen-op-overheidssector.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303021,
+    "slug": "militair-die-zich-in-brand-stak-bij-israelische-ambassade-washington-is-overleden",
+    "type": "article",
+    "title": "Militair die zich in brand stak bij Israëlische ambassade Washington is overleden",
+    "subtitle": null,
+    "published_at": "2024-02-26T16:00:51+01:00",
+    "updated_at": "2024-02-26T16:00:52+01:00",
+    "media_id": "4etx73ca520r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6303021/militair-die-zich-in-brand-stak-bij-israelische-ambassade-washington-is-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303016,
     "slug": "toch-geen-cholera-op-noors-cruiseschip-met-ruim-2000-passagiers-bij-mauritius",
     "type": "article",
     "title": "Toch geen cholera op Noors cruiseschip met ruim 2.000 passagiers bij Mauritius",
     "subtitle": null,
     "published_at": "2024-02-26T15:32:32+01:00",
-    "updated_at": "2024-02-26T15:41:28+01:00",
+    "updated_at": "2024-02-26T15:55:19+01:00",
     "media_id": "mf8xshraxq0a",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Ook Vattenfall kondigt prijsverlaging aan met de lente in het vooruitzicht",
     "subtitle": null,
     "published_at": "2024-02-26T13:42:31+01:00",
-    "updated_at": "2024-02-26T14:54:13+01:00",
+    "updated_at": "2024-02-26T16:15:29+01:00",
     "media_id": "10hxxqragxio",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Bizarre fraude in wielerpeloton: mecanicien vermomt zich als renster",
     "subtitle": null,
     "published_at": "2024-02-26T13:24:18+01:00",
-    "updated_at": "2024-02-26T14:54:41+01:00",
+    "updated_at": "2024-02-26T16:17:55+01:00",
     "media_id": "fn1x8a1aewzw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302992/lijkzakken-liggen-voor-duits-consulaat-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302991,
-    "slug": "politie-zet-waterkanon-in-bij-grimmig-boerenprotest-in-brussel",
-    "type": "video",
-    "title": "Politie zet waterkanon in bij grimmig boerenprotest in Brussel",
-    "subtitle": "Video",
-    "published_at": "2024-02-26T12:08:22+01:00",
-    "updated_at": "2024-02-26T12:08:24+01:00",
-    "media_id": "pvvxbr8a8f6r",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302991/politie-zet-waterkanon-in-bij-grimmig-boerenprotest-in-brussel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302986,
-    "slug": "gekantelde-vrachtwagen-vol-grond-ligt-in-de-sloot-bij-a7",
-    "type": "video",
-    "title": "Gekantelde vrachtwagen vol grond ligt in de sloot bij A7",
-    "subtitle": "Video",
-    "published_at": "2024-02-26T11:34:36+01:00",
-    "updated_at": "2024-02-26T11:49:20+01:00",
-    "media_id": "4vkxsl4atef2",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302986/gekantelde-vrachtwagen-vol-grond-ligt-in-de-sloot-bij-a7.html",
     "open_new_window": false,
     "partner": null
   }
