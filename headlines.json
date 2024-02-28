@@ -1,12 +1,58 @@
 [
   {
+    "id": 6303243,
+    "slug": "femke-halsema-blijft-nog-eens-zes-jaar-burgemeester-van-amsterdam",
+    "type": "article",
+    "title": "Femke Halsema blijft nog eens zes jaar burgemeester van Amsterdam",
+    "subtitle": null,
+    "published_at": "2024-02-28T17:39:13+01:00",
+    "updated_at": "2024-02-28T17:39:51+01:00",
+    "media_id": "j4mxdxjamt3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6303243/femke-halsema-blijft-nog-eens-zes-jaar-burgemeester-van-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303300,
+    "slug": "stikstofmaatregelen-hebben-beperkt-effect-langetermijndoel-nog-ver-weg",
+    "type": "article",
+    "title": "Stikstofmaatregelen hebben beperkt effect, langetermijndoel nog ver weg",
+    "subtitle": null,
+    "published_at": "2024-02-28T17:37:42+01:00",
+    "updated_at": "2024-02-28T17:48:39+01:00",
+    "media_id": "mzoxvqjaii94",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6303300/stikstofmaatregelen-hebben-beperkt-effect-langetermijndoel-nog-ver-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303298,
     "slug": "mediabedrijven-slepen-google-voor-de-rechter-om-vermeend-machtsmisbruik",
     "type": "article",
     "title": "Mediabedrijven slepen Google voor de rechter om vermeend machtsmisbruik",
     "subtitle": null,
     "published_at": "2024-02-28T17:31:00+01:00",
-    "updated_at": "2024-02-28T17:31:49+01:00",
+    "updated_at": "2024-02-28T17:35:11+01:00",
     "media_id": "3osx4yca6zb1",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Geen uitzondering voor Picnic en Flink: supermarkt-cao moet ook daar gelden",
     "subtitle": null,
     "published_at": "2024-02-28T16:11:47+01:00",
-    "updated_at": "2024-02-28T17:32:14+01:00",
+    "updated_at": "2024-02-28T17:43:52+01:00",
     "media_id": "d5bxm13a5rwo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303275/wildcamera-in-drenthe-filmt-dassen-die-trio-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303274,
-    "slug": "bitcoin-schiet-omhoog-en-krijgt-nieuwe-recordwaarde-in-vizier",
-    "type": "article",
-    "title": "Bitcoin schiet omhoog en krijgt nieuwe recordwaarde in vizier",
-    "subtitle": null,
-    "published_at": "2024-02-28T15:00:41+01:00",
-    "updated_at": "2024-02-28T15:36:39+01:00",
-    "media_id": "z0px2abaipvz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6303274/bitcoin-schiet-omhoog-en-krijgt-nieuwe-recordwaarde-in-vizier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303270,
-    "slug": "dronebeelden-tonen-friese-funda-hit-deel-dorp-te-koop-voor-15-miljoen",
-    "type": "video",
-    "title": "Dronebeelden tonen Friese Funda-hit: deel dorp te koop voor 1,5 miljoen",
-    "subtitle": "Video",
-    "published_at": "2024-02-28T14:34:09+01:00",
-    "updated_at": "2024-02-28T15:00:10+01:00",
-    "media_id": "p8nxkqladdhy",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6303270/dronebeelden-tonen-friese-funda-hit-deel-dorp-te-koop-voor-15-miljoen.html",
     "open_new_window": false,
     "partner": null
   }
