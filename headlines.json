@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303468,
+    "slug": "jan-smit-ontvangt-edison-pop-oeuvreprijs-2024",
+    "type": "article",
+    "title": "Jan Smit ontvangt Edison Pop Oeuvreprijs 2024",
+    "subtitle": null,
+    "published_at": "2024-02-29T23:47:30+01:00",
+    "updated_at": "2024-02-29T23:47:31+01:00",
+    "media_id": "19hx5fra0e8m",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6303468/jan-smit-ontvangt-edison-pop-oeuvreprijs-2024.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303462,
     "slug": "tien-verdachten-van-rellen-tussen-eritreeers-blijven-langer-vast",
     "type": "article",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6303465,
-    "slug": "van-bommel-met-antwerp-voor-de-tweede-keer-op-rij-naar-belgische-bekerfinale",
+    "slug": "van-bommel-en-antwerp-weer-naar-bekerfinale-williams-broers-nekken-atletico",
     "type": "article",
-    "title": "Van Bommel met Antwerp voor de tweede keer op rij naar Belgische bekerfinale",
+    "title": "Van Bommel en Antwerp weer naar bekerfinale, Williams-broers nekken Atlético",
     "subtitle": null,
     "published_at": "2024-02-29T22:48:43+01:00",
-    "updated_at": "2024-02-29T23:23:48+01:00",
-    "media_id": "c8fx0pyao1ce",
+    "updated_at": "2024-02-29T23:46:50+01:00",
+    "media_id": "hnqxbfkalu50",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303465/van-bommel-met-antwerp-voor-de-tweede-keer-op-rij-naar-belgische-bekerfinale.html",
+    "url": "/voetbal/6303465/van-bommel-en-antwerp-weer-naar-bekerfinale-williams-broers-nekken-atletico.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303453/piloten-scheren-over-haven-van-dubai-in-allereerste-jetpackrace.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303389,
-    "slug": "afscheid-van-navalny-ondanks-tegenwerking-niemand-wilde-graf-graven",
-    "type": "article",
-    "title": "Afscheid van Navalny ondanks tegenwerking: 'Niemand wilde graf graven'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-29T19:31:46+01:00",
-    "updated_at": "2024-02-29T20:49:11+01:00",
-    "media_id": "9ymx0gaay8ic",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779362,
-      "slug": "overlijden-navalny",
-      "type": "default",
-      "name": "Overlijden Navalny",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/overlijden-navalny/6303389/afscheid-van-navalny-ondanks-tegenwerking-niemand-wilde-graf-graven.html",
     "open_new_window": false,
     "partner": null
   }
