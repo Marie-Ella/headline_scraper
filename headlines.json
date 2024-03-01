@@ -1,5 +1,51 @@
 [
   {
+    "id": 6303470,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-03-01T05:05:58+01:00",
+    "updated_at": "2024-03-01T05:05:59+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6303470/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303415,
+    "slug": "al-een-jaar-recordwarmte-in-oceanen-tekenen-dat-opwarming-versnelt",
+    "type": "article",
+    "title": "Al een jaar recordwarmte in oceanen: 'Tekenen dat opwarming versnelt'",
+    "subtitle": null,
+    "published_at": "2024-03-01T05:03:23+01:00",
+    "updated_at": "2024-03-01T05:03:25+01:00",
+    "media_id": "o8kxo2oavj7l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6303415/al-een-jaar-recordwarmte-in-oceanen-tekenen-dat-opwarming-versnelt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303469,
     "slug": "tientallen-doden-door-grote-brand-in-hoofdstad-bangladesh",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/darts/6303444/zegereeks-van-gerwen-in-premier-league-voorbij-door-verlies-tegen-humphries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303454,
-    "slug": "funderingsprobleem-425000-gebouwen-verzakken-12-miljard-euro-nodig",
-    "type": "article",
-    "title": "Funderingsprobleem: 425.000 gebouwen verzakken, 12 miljard euro nodig",
-    "subtitle": null,
-    "published_at": "2024-02-29T20:33:24+01:00",
-    "updated_at": "2024-02-29T22:42:17+01:00",
-    "media_id": "530xl2pagl99",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6303454/funderingsprobleem-425000-gebouwen-verzakken-12-miljard-euro-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303418,
-    "slug": "uv-licht-van-zware-sterren-kan-vorming-van-planeten-dwarsbomen",
-    "type": "article",
-    "title": "Uv-licht van zware sterren kan vorming van planeten dwarsbomen",
-    "subtitle": null,
-    "published_at": "2024-02-29T20:08:00+01:00",
-    "updated_at": "2024-02-29T20:08:02+01:00",
-    "media_id": "jcdxw50a20e1",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6303418/uv-licht-van-zware-sterren-kan-vorming-van-planeten-dwarsbomen.html",
     "open_new_window": false,
     "partner": null
   }
