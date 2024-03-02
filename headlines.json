@@ -1,13 +1,36 @@
 [
   {
+    "id": 6303732,
+    "slug": "angstaanjagend-dat-verstappen-zich-inhield",
+    "type": "audio",
+    "title": "'Angstaanjagend dat Verstappen zich inhield'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2024-03-02T23:37:38+01:00",
+    "updated_at": "2024-03-02T23:37:39+01:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6303732/angstaanjagend-dat-verstappen-zich-inhield.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303728,
-    "slug": "real-madrid-verspeelt-punten-bij-valencia-bellingham-krijgt-rood-na-wedstrijd",
+    "slug": "chaotisch-slot-in-valencia-winnende-goal-real-gaat-niet-door-rood-bellingham",
     "type": "article",
-    "title": "Real Madrid verspeelt punten bij Valencia, Bellingham krijgt rood na wedstrijd",
+    "title": "Chaotisch slot in Valencia: winnende goal Real gaat niet door, rood Bellingham",
     "subtitle": null,
     "published_at": "2024-03-02T23:06:58+01:00",
-    "updated_at": "2024-03-02T23:19:58+01:00",
-    "media_id": "f2tx91eakzs2",
+    "updated_at": "2024-03-02T23:38:14+01:00",
+    "media_id": "g6rxh0jazc7x",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303728/real-madrid-verspeelt-punten-bij-valencia-bellingham-krijgt-rood-na-wedstrijd.html",
+    "url": "/voetbal/6303728/chaotisch-slot-in-valencia-winnende-goal-real-gaat-niet-door-rood-bellingham.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303713/dragers-dansen-met-kist-bigidagoe-op-schouders-bij-uitvaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303712,
-    "slug": "uitvaart-rapper-bigidagoe-rustig-verlopen-livestream-kan-drukte-niet-aan",
-    "type": "article",
-    "title": "Uitvaart rapper Bigidagoe rustig verlopen, livestream kan drukte niet aan",
-    "subtitle": null,
-    "published_at": "2024-03-02T19:22:19+01:00",
-    "updated_at": "2024-03-02T19:25:09+01:00",
-    "media_id": "dmexdocacf6e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6303712/uitvaart-rapper-bigidagoe-rustig-verlopen-livestream-kan-drukte-niet-aan.html",
     "open_new_window": false,
     "partner": null
   }
