@@ -1,5 +1,51 @@
 [
   {
+    "id": 6304081,
+    "slug": "miljoenen-amerikanen-naar-stembus-voor-voorverkiezingen-op-super-tuesday",
+    "type": "video",
+    "title": "Miljoenen Amerikanen naar stembus voor voorverkiezingen op Super Tuesday",
+    "subtitle": "Video",
+    "published_at": "2024-03-05T22:37:37+01:00",
+    "updated_at": "2024-03-05T22:37:39+01:00",
+    "media_id": "tboxji9ayete",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304081/miljoenen-amerikanen-naar-stembus-voor-voorverkiezingen-op-super-tuesday.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304056,
+    "slug": "moulin-rouge-de-musical-vanaf-september-te-zien-in-het-beatrix-theater",
+    "type": "article",
+    "title": "Moulin Rouge! De Musical vanaf september te zien in het Beatrix Theater",
+    "subtitle": null,
+    "published_at": "2024-03-05T22:29:41+01:00",
+    "updated_at": "2024-03-05T22:29:42+01:00",
+    "media_id": "6hjxi74a3mkd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6304056/moulin-rouge-de-musical-vanaf-september-te-zien-in-het-beatrix-theater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304079,
     "slug": "zeldzame-beelden-tonen-hoe-jaguar-borstvoeding-geeft",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "De Ligt ziet volley gepromoveerd worden tot doelpunt",
     "subtitle": "Video",
     "published_at": "2024-03-05T22:11:26+01:00",
-    "updated_at": "2024-03-05T22:11:27+01:00",
+    "updated_at": "2024-03-05T22:47:04+01:00",
     "media_id": "z6oxvqdaf67f",
     "duration": "1:11",
     "canonical_section": {
@@ -231,13 +277,13 @@
   },
   {
     "id": 6304069,
-    "slug": "live-champions-league-bayern-mede-dankzij-de-ligt-op-weg-naar-kwartfinales",
+    "slug": "live-cl-bayern-en-psg-dankzij-kane-en-mbappe-op-koers-voor-kwartfinales",
     "type": "article",
-    "title": "Live Champions League | Bayern mede dankzij De Ligt op weg naar kwartfinales",
+    "title": "Live CL | Bayern en PSG dankzij Kane en Mbappé op koers voor kwartfinales",
     "subtitle": null,
     "published_at": "2024-03-05T20:02:54+01:00",
-    "updated_at": "2024-03-05T22:27:55+01:00",
-    "media_id": "s2uxue3a1dry",
+    "updated_at": "2024-03-05T22:44:50+01:00",
+    "media_id": "lcxxnznab1q0",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -248,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6304069/live-champions-league-bayern-mede-dankzij-de-ligt-op-weg-naar-kwartfinales.html",
+    "url": "/sport-overig/6304069/live-cl-bayern-en-psg-dankzij-kane-en-mbappe-op-koers-voor-kwartfinales.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6304057/brandschade-bij-duitse-fabriek-kost-volgens-tesla-honderden-miljoenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304058,
-    "slug": "wereldwijde-storing-instagram-en-facebook-weer-voorbij",
-    "type": "article",
-    "title": "Wereldwijde storing Instagram en Facebook weer voorbij",
-    "subtitle": null,
-    "published_at": "2024-03-05T18:22:56+01:00",
-    "updated_at": "2024-03-05T21:25:25+01:00",
-    "media_id": "udwx3yga0v78",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6304058/wereldwijde-storing-instagram-en-facebook-weer-voorbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304061,
-    "slug": "vliegtuigcrash-zorgt-voor-ravage-langs-amerikaanse-snelweg",
-    "type": "video",
-    "title": "Vliegtuigcrash zorgt voor ravage langs Amerikaanse snelweg",
-    "subtitle": "Video",
-    "published_at": "2024-03-05T18:19:40+01:00",
-    "updated_at": "2024-03-05T18:19:41+01:00",
-    "media_id": "strxn30acca2",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6304061/vliegtuigcrash-zorgt-voor-ravage-langs-amerikaanse-snelweg.html",
     "open_new_window": false,
     "partner": null
   }
