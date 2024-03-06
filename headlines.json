@@ -1,5 +1,51 @@
 [
   {
+    "id": 6304101,
+    "slug": "nikki-haley-won-afgelopen-nacht-maar-in-een-staat-wat-nu",
+    "type": "video",
+    "title": "Nikki Haley won afgelopen nacht maar in één staat: wat nu?",
+    "subtitle": "Explainer",
+    "published_at": "2024-03-06T09:41:51+01:00",
+    "updated_at": "2024-03-06T09:43:43+01:00",
+    "media_id": "2f5xn7nawx4y",
+    "duration": "2:02",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6304101/nikki-haley-won-afgelopen-nacht-maar-in-een-staat-wat-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304103,
+    "slug": "hongarije-ligt-weer-dwars-binnen-de-navo-nu-vanwege-ruttes-benoeming",
+    "type": "article",
+    "title": "Hongarije ligt weer dwars binnen de NAVO, nu vanwege Ruttes benoeming",
+    "subtitle": null,
+    "published_at": "2024-03-06T09:41:14+01:00",
+    "updated_at": "2024-03-06T09:41:15+01:00",
+    "media_id": "ft4xdjtakx7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6304103/hongarije-ligt-weer-dwars-binnen-de-navo-nu-vanwege-ruttes-benoeming.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304100,
     "slug": "oekraiense-vluchteling-met-werk-gaat-tot-350-euro-betalen-voor-energie-en-eten",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Donald Trump grote Republikeinse winnaar op Super Tuesday",
     "subtitle": "Video",
     "published_at": "2024-03-06T07:51:47+01:00",
-    "updated_at": "2024-03-06T07:56:22+01:00",
+    "updated_at": "2024-03-06T09:45:36+01:00",
     "media_id": "ep9xwc1amh23",
     "duration": "0:46",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6304086/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304025,
-    "slug": "europa-trekt-teugels-aan-strengere-regels-voor-zes-grootste-techbedrijven",
-    "type": "article",
-    "title": "Europa trekt teugels aan: strengere regels voor zes grootste techbedrijven",
-    "subtitle": "NU+",
-    "published_at": "2024-03-06T05:01:26+01:00",
-    "updated_at": "2024-03-06T06:24:23+01:00",
-    "media_id": "10lxcilaloy3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6304025/europa-trekt-teugels-aan-strengere-regels-voor-zes-grootste-techbedrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304084,
-    "slug": "live-super-tuesday-lees-terug-hoe-zegereeksen-van-biden-en-trump-verliepen",
-    "type": "article",
-    "title": "Live Super Tuesday | Lees terug hoe zegereeksen van Biden en Trump verliepen",
-    "subtitle": null,
-    "published_at": "2024-03-06T00:24:26+01:00",
-    "updated_at": "2024-03-06T06:18:50+01:00",
-    "media_id": "16qxayuayhvn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1380734,
-      "slug": "verkiezingen-vs",
-      "type": "files",
-      "name": "Amerikaanse verkiezingen",
-      "style": "nu",
-      "media_id": "m1oxq8wabsoj",
-      "partner": null
-    },
-    "url": "/verkiezingen-vs/6304084/live-super-tuesday-lees-terug-hoe-zegereeksen-van-biden-en-trump-verliepen.html",
     "open_new_window": false,
     "partner": null
   }
