@@ -1,12 +1,58 @@
 [
   {
-    "id": 6304084,
-    "slug": "live-super-tuesday-trump-kijkt-al-vooruit-naar-strijd-met-biden",
+    "id": 6304086,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Live Super Tuesday | Trump kijkt al vooruit naar strijd met Biden",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-03-06T05:08:36+01:00",
+    "updated_at": "2024-03-06T05:08:37+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6304086/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304025,
+    "slug": "europese-techwet-moet-macht-van-de-zes-grootste-techbedrijven-beteugelen",
+    "type": "article",
+    "title": "Europese techwet moet macht van de zes grootste techbedrijven beteugelen",
+    "subtitle": null,
+    "published_at": "2024-03-06T05:01:26+01:00",
+    "updated_at": "2024-03-06T05:03:46+01:00",
+    "media_id": "10lxcilaloy3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6304025/europese-techwet-moet-macht-van-de-zes-grootste-techbedrijven-beteugelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304084,
+    "slug": "live-super-tuesday-zegereeks-voor-zowel-biden-als-trump-niet-perfect",
+    "type": "article",
+    "title": "Live Super Tuesday | Zegereeks voor zowel Biden als Trump niet perfect",
     "subtitle": null,
     "published_at": "2024-03-06T00:24:26+01:00",
-    "updated_at": "2024-03-06T04:47:54+01:00",
+    "updated_at": "2024-03-06T05:13:59+01:00",
     "media_id": "wmixb2bajc9g",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "m1oxq8wabsoj",
       "partner": null
     },
-    "url": "/verkiezingen-vs/6304084/live-super-tuesday-trump-kijkt-al-vooruit-naar-strijd-met-biden.html",
+    "url": "/verkiezingen-vs/6304084/live-super-tuesday-zegereeks-voor-zowel-biden-als-trump-niet-perfect.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gebaseerd-op-jullie-vragen/6304060/waarom-bmi-niet-alles-zegt-over-je-gezondheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304069,
-    "slug": "live-champions-league-reacties-op-kwartfinaleplekken-bayern-munchen-en-psg",
-    "type": "article",
-    "title": "Live Champions League | Reacties op kwartfinaleplekken Bayern München en PSG",
-    "subtitle": null,
-    "published_at": "2024-03-05T20:02:54+01:00",
-    "updated_at": "2024-03-05T23:16:49+01:00",
-    "media_id": "8q1x1taavvd6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6304069/live-champions-league-reacties-op-kwartfinaleplekken-bayern-munchen-en-psg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304052,
-    "slug": "israelische-demonstranten-blokkeren-hulpkonvooi-voor-gaza",
-    "type": "video",
-    "title": "Israëlische demonstranten blokkeren hulpkonvooi voor Gaza",
-    "subtitle": "Video",
-    "published_at": "2024-03-05T19:53:59+01:00",
-    "updated_at": "2024-03-05T19:54:00+01:00",
-    "media_id": "p58xnfsau2v0",
-    "duration": "1:03",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6304052/israelische-demonstranten-blokkeren-hulpkonvooi-voor-gaza.html",
     "open_new_window": false,
     "partner": null
   }
