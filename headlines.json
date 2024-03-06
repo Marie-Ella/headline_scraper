@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304158,
+    "slug": "dit-was-super-tuesday-explosieve-vondst-in-de-efteling",
+    "type": "article",
+    "title": "Dit was Super Tuesday | Explosieve vondst in de Efteling",
+    "subtitle": "NU praat je bij",
+    "published_at": "2024-03-06T17:25:20+01:00",
+    "updated_at": "2024-03-06T17:27:51+01:00",
+    "media_id": "jm7x8hdas0jz",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6304158/dit-was-super-tuesday-explosieve-vondst-in-de-efteling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304188,
     "slug": "koning-duikt-in-forensisch-onderzoek-bij-fictieve-moordzaak",
     "type": "video",
     "title": "Koning duikt in forensisch onderzoek bij fictieve moordzaak",
     "subtitle": "Video",
     "published_at": "2024-03-06T17:23:11+01:00",
-    "updated_at": "2024-03-06T17:23:12+01:00",
+    "updated_at": "2024-03-06T17:24:29+01:00",
     "media_id": "y3rxyjhaeuyx",
     "duration": "1:19",
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6304168,
-    "slug": "eu-en-cyprus-willen-hulpcorridor-gaza-israel-blokkeert-voedsellevering",
+    "slug": "eu-en-cyprus-willen-hulpcorridor-gaza-israel-weigert-voedsellevering",
     "type": "article",
-    "title": "EU en Cyprus willen hulpcorridor Gaza, Israël blokkeert voedsellevering",
+    "title": "EU en Cyprus willen hulpcorridor Gaza, Israël weigert voedsellevering",
     "subtitle": "Overzicht",
     "published_at": "2024-03-06T16:43:37+01:00",
-    "updated_at": "2024-03-06T17:19:15+01:00",
+    "updated_at": "2024-03-06T17:25:08+01:00",
     "media_id": "3u2xvyraklbw",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304168/eu-en-cyprus-willen-hulpcorridor-gaza-israel-blokkeert-voedsellevering.html",
+    "url": "/buitenland/6304168/eu-en-cyprus-willen-hulpcorridor-gaza-israel-weigert-voedsellevering.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6304163/asml-topman-hekelt-desinteresse-politiek-juist-nu-rutte-bedrijf-hier-wil-houden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304157,
-    "slug": "bedreiger-van-tim-hofman-had-volgens-om-een-terroristisch-motief",
-    "type": "article",
-    "title": "Bedreiger van Tim Hofman had volgens OM een terroristisch motief",
-    "subtitle": null,
-    "published_at": "2024-03-06T14:22:38+01:00",
-    "updated_at": "2024-03-06T15:35:46+01:00",
-    "media_id": "qo5x74maa0mu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6304157/bedreiger-van-tim-hofman-had-volgens-om-een-terroristisch-motief.html",
     "open_new_window": false,
     "partner": null
   }
