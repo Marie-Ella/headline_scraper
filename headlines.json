@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304674,
+    "slug": "hoe-dennis-weening-de-mol-per-ongeluk-verraadde",
+    "type": "video",
+    "title": "Hoe Dennis Weening de 'Mol' per ongeluk verraadde",
+    "subtitle": "Video",
+    "published_at": "2024-03-10T12:17:44+01:00",
+    "updated_at": "2024-03-10T12:17:46+01:00",
+    "media_id": "hupx45ladiop",
+    "duration": "1:55",
+    "canonical_section": {
+      "id": 1778994,
+      "slug": "media-en-cultuur",
+      "type": "default",
+      "name": "Entertainment",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media-en-cultuur/6304674/hoe-dennis-weening-de-mol-per-ongeluk-verraadde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304672,
-    "slug": "honderden-demonstranten-in-amsterdam-tegen-aanwezigheid-israelische-president",
+    "slug": "demonstratie-tegen-israelische-president-bij-opening-holocaustmuseum",
     "type": "article",
-    "title": "Honderden demonstranten in Amsterdam tegen aanwezigheid Israëlische president",
+    "title": "Demonstratie tegen Israëlische president bij opening Holocaustmuseum",
     "subtitle": "In beeld",
     "published_at": "2024-03-10T12:01:27+01:00",
-    "updated_at": "2024-03-10T12:11:36+01:00",
+    "updated_at": "2024-03-10T12:27:33+01:00",
     "media_id": "bq1xfmbaox1w",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6304672/honderden-demonstranten-in-amsterdam-tegen-aanwezigheid-israelische-president.html",
+    "url": "/midden-oostenconflict/6304672/demonstratie-tegen-israelische-president-bij-opening-holocaustmuseum.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,13 +70,13 @@
   },
   {
     "id": 6304669,
-    "slug": "live-eredivisie-az-begint-zonder-clasie-ongekend-slagveld-bij-excelsior",
+    "slug": "live-eredivisie-az-zoekt-naar-openingsgoal-tegen-gehavend-excelsior",
     "type": "article",
-    "title": "Live Eredivisie | AZ begint zonder Clasie, 'ongekend slagveld' bij Excelsior",
+    "title": "Live Eredivisie | AZ zoekt naar openingsgoal tegen gehavend Excelsior",
     "subtitle": null,
     "published_at": "2024-03-10T11:25:45+01:00",
-    "updated_at": "2024-03-10T12:10:33+01:00",
-    "media_id": "0tsxqxuauzz2",
+    "updated_at": "2024-03-10T12:24:04+01:00",
+    "media_id": "ukfxtq8ain4a",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6304669/live-eredivisie-az-begint-zonder-clasie-ongekend-slagveld-bij-excelsior.html",
+    "url": "/voetbal/6304669/live-eredivisie-az-zoekt-naar-openingsgoal-tegen-gehavend-excelsior.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Studio's omarmen AI voorzichtig, maar zien film maken met Sora niet zitten",
     "subtitle": "NU+",
     "published_at": "2024-03-10T10:16:34+01:00",
-    "updated_at": "2024-03-10T11:49:08+01:00",
+    "updated_at": "2024-03-10T12:18:43+01:00",
     "media_id": "jqjxiagalyn2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6304656/zweden-en-canada-hervatten-financiele-steun-aan-unrwa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304431,
-    "slug": "hollywood-maakt-zich-klaar-voor-de-oscars-grote-kansen-voor-oppenheimer",
-    "type": "article",
-    "title": "Hollywood maakt zich klaar voor de Oscars, grote kansen voor Oppenheimer",
-    "subtitle": null,
-    "published_at": "2024-03-10T06:01:40+01:00",
-    "updated_at": "2024-03-10T10:12:30+01:00",
-    "media_id": "oarx3bqasyj1",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6304431/hollywood-maakt-zich-klaar-voor-de-oscars-grote-kansen-voor-oppenheimer.html",
     "open_new_window": false,
     "partner": null
   }
